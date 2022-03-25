@@ -1,4 +1,6 @@
 package com.company;
+import com.mysql.cj.xdevapi.Result;
+
 import java.sql.*;
 
 public class DataBase {
@@ -37,7 +39,7 @@ public class DataBase {
     {
          //connect=DriverManager.getConnection("jdbc:mysql://localhost:3306/search-engine","root","");
         try{
-            this.stmt.executeQuery("INSERT INTO `links` (`Link`, `Layer`, `ThreadName`, `LinkParent`,'Completed') VALUES ('"+Link+"', '"+Layer+"', '"+ThreadName+"', "+ParentId+",'"+0+"')");
+                stmt.executeQuery("INSERT INTO `links` (`Link`, `Layer`, `ThreadName`, `LinkParent`,'Completed') VALUES ('"+Link+"', '"+Layer+"', '"+ThreadName+"', "+ParentId+",'"+0+"')");
            }
         catch(SQLException e)
             {
@@ -57,22 +59,70 @@ public class DataBase {
             }
     }
 
-    public void urlSearch(String Link)
+
+
+    public void setThreadPosition(String ThreadName,int Layer,int Index)
     {
         try{
-            stmt.executeQuery("SELECT * FROM 'links'  WHERE link='"+Link+"'");
+            stmt.executeQuery("UPDATE 'threads' SET Layer="+Layer+" and Index="+Index+" WHERE ThreadName='"+ThreadName+"'");
         }
         catch(SQLException e)
         {
             System.out.println(e);
         }
     }
-
-
-    public void setThreadPosition(String ThreadName,int Layer,int Index)
+    public ResultSet getThreadPosition(String ThreadName)
     {
         try{
-            stmt.executeQuery("UPDATE 'Threads' SET Layer="+Layer+" and Index="+Index+" WHERE ThreadName='"+ThreadName+"'");
+            return stmt.executeQuery("SELECT 'Layer','UrlIndex' FROM 'threads' WHERE ThreadName='"+ThreadName+"'");
+        }
+        catch(SQLException e)
+        {
+            System.out.println(e);
+            return null;
+        }
+    }
+    public ResultSet getUrls(String Url)
+    {
+        try{
+            return stmt.executeQuery("SELECT * FROM 'links' WHERE Link='"+Url+"' AND Completed = 1");
+        }
+        catch(SQLException e)
+        {
+            System.out.println(e);
+            return null;
+        }
+    }
+
+    public ResultSet getId (String Url,String ThreadName)
+    {
+        try{
+            return stmt.executeQuery("SELECT 'Id' FROM 'links' WHERE Link='"+Url+"' AND ThreadName='"+ThreadName+"' AND Completed=0");
+        }
+        catch(SQLException e)
+        {
+            System.out.println(e);
+            return null;
+        }
+    }
+
+    public ResultSet getParentUrl (String ThreadName,int Layer,int Index)
+    {
+        try{
+           int Url = stmt.executeQuery("SELECT LinkParent FROM 'links' WHERE Layer= "+Layer+" AND ThreadName='"+ThreadName+"'").getInt("LinkParent");
+           return stmt.executeQuery("SELECT Link , ParentId FROM 'links' WHERE Layer= "+Layer+" AND ThreadName='"+ThreadName+"'");
+        }
+        catch(SQLException e)
+        {
+            System.out.println(e);
+            return null;
+        }
+    }
+    public int getCompleteCount ()
+    {
+        try
+        {
+            return stmt.executeQuery("SELECT count(Link) as 'Number' FROM 'links' WHERE  Complete=1").getInt("Number");
         }
         catch(SQLException e)
         {
