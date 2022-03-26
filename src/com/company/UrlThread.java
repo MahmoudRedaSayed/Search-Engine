@@ -4,6 +4,7 @@ package com.company;
 import java.io.IOException;
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.io.UnsupportedEncodingException;
 
 //Net Imports
 import java.net.MalformedURLException;
@@ -11,7 +12,7 @@ import java.net.URI;
 import java.net.URL;
 import java.net.URLDecoder;
 import java.net.URISyntaxException;
-import java.io.UnsupportedEncodingException;
+
 
 // Jsoup Imports
 import org.jsoup.Jsoup;
