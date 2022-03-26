@@ -5,11 +5,31 @@ import java.io.IOException;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
+//Net Imports
+import java.net.MalformedURLException;
+import java.net.URI;
+import java.net.URL;
+import java.net.URLDecoder;
+import java.net.URISyntaxException;
+import java.io.UnsupportedEncodingException;
+
+// Jsoup Imports
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 //-------------------------------------------------------------------//
+
+
+
+
+
+
+
+
+
+
+
 
 
 //-------------------------- Class UrlThread--------------------------//
@@ -70,7 +90,7 @@ public class UrlThread extends Thread {
             ResultSet Position =DataBaseObject.getThreadPosition(Thread.currentThread().getName());
             // give it the link of the parent and in the inner loop will skip until reach to the target link
             ٍResultSet ParentData=DataBaseObject.getParentUrl(Thread.currentThread().getName(),(Integer)Position.getInt("Layer"),(Integer)Position.getInt("UrlIndex"));
-            // git the parent link
+            // get the parent link
             FirstUrl=(Integer)Position.getInt("UrlIndex");
             Limit+=DataBaseObject.getCompleteCount();
             linkProcessing(ParentData.getString("Link"),(Integer)Position.getInt("Layer"),(Integer)Position.getInt("UrlIndex"),ParentData.getInt("ParentId"));
@@ -103,11 +123,87 @@ public class UrlThread extends Thread {
         * Explanation:
 
     */
-    public boolean Normalized(String Url)
+    public String Normalized(String Url)
     {
-        //walid
-        return true;
-        //DataBaseObject.getUrls(Url);
+        URL url = null;
+        try {
+            url = new URL(Url);
+        } catch (MalformedURLException e) {
+            e.printStackTrace();
+        }
+        URI uri = null;
+        try {
+            uri = new URI(url.getProtocol(),
+                    url.getUserInfo(),
+                    url.getHost(),
+                    url.getPort(),
+                    url.getPath(),
+                    url.getQuery(),
+                    url.getRef());
+        } catch (URISyntaxException e) {
+            e.printStackTrace();
+        }
+
+        /////// UPPERCASE TRIPLETS: AFTER % ENCODING///////
+        StringBuffer sb = new StringBuffer(uri.toString());
+        int index = sb.indexOf("%");
+        while (index >= 0) {
+            if(sb.charAt(index)>=97 && sb.charAt(index)<=122)
+            {
+                sb.replace(index, index+1, Character.toString(sb.charAt(index)-32));
+            }
+            if(sb.charAt(index+1)>=97 && sb.charAt(index+1)<=122)
+            {
+                sb.replace(index+1, index+2,  Character.toString(sb.charAt(index+1)-32));
+            }
+            index = sb.indexOf("%", index + 1);
+        }
+
+        sb = new StringBuffer(uri.toString());
+
+
+
+        ////////// NORMALIZE AND REMOVE UNRESERVED CHARACTERS////////////
+        String result;
+        uri = uri.normalize();
+        try{result = URLDecoder.decode(sb.toString(), "UTF-8").replaceAll("\\+", "%20")
+                .replaceAll("\\%7E", "~").replaceAll("%2D", "-").replaceAll("%2E", ".").replaceAll("%5F", "_");} catch (UnsupportedEncodingException e)
+        {
+            result = sb.toString();
+        }
+        try
+        {
+            url = new URL (result);
+        } catch (MalformedURLException e) {
+            e.printStackTrace();
+        }
+
+        try {
+            uri = new URI(url.getProtocol(),
+                    url.getUserInfo(),
+                    url.getHost(),
+                    url.getPort(),
+                    url.getPath(),
+                    url.getQuery(),
+                    url.getRef());
+        } catch (URISyntaxException e) {
+            e.printStackTrace();
+        }
+        uri = uri.normalize();
+
+
+        //---------------------------------------------------------//
+            String NormalizedUrl=uri.toString();
+        try {
+                if(DataBaseObject.getUrls(NormalizedUrl).next())
+                {
+                    return "-1";
+                }
+           }
+        catch (SQLException e) {
+            e.printStackTrace();
+        }
+        return NormalizedUrl;
     }
     //---------------------------------------------------------------//
 
@@ -140,7 +236,7 @@ public class UrlThread extends Thread {
 
             // query to check if the current link is not repeated or not  and if it is normalized by using one function
 
-            if(Normalized(Url))
+            if(Normalized(Url)!="-1")
             {
                 try
                 {
