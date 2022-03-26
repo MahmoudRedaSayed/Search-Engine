@@ -106,7 +106,7 @@ public class UrlThread extends Thread {
     public boolean Normalized(String Url)
     {
         //walid
-
+        return true;
         //DataBaseObject.getUrls(Url);
     }
     //---------------------------------------------------------------//
@@ -206,4 +206,4 @@ public class UrlThread extends Thread {
             }
 
     }
-}
+}}
