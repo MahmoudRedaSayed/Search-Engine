@@ -27,7 +27,7 @@ class SearchBlock extends Component{
                     <div className="row g-0">
                         <div className=" col-md-12">
                             <div className="card-body" style={{"margin-top": "50px"}}>
-                                <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search" style={{"padding": "20px","border-radius": "30px","font-size": "21px"}} onChange={this.inc}></input>
+                                <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search" style={{"padding": "20px","border-radius": "30px","font-size": "21px","background-color": "#fff","border": "none","color":"#fff"}} onChange={this.inc}></input>
                                 {/* <div className="Slider">
                                     {this.state.products.map((product)=>{return (<li>product</li>)})}
                                 </div> */}

@@ -16,8 +16,8 @@ class App extends Component{
             //     <Route path="/results" exact component={ResultPage} />
             // </div>
             // </ BrowserRouter >
-            // <SearchPage></SearchPage>
-            <ResultPage></ResultPage>
+            <SearchPage></SearchPage>
+            // <ResultPage></ResultPage>
 
         );
     }

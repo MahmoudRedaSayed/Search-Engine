@@ -31,3 +31,22 @@ code {
   background-color: #fff;
   
 }
+.Overlay{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index:1;
+  background-color: rgba(28, 53, 63, 0.5);
+}
+.SearchField{
+  padding: 20px;
+  border-radius:30px;
+  font-size:21px;
+  color:#fff;
+  background-color:#212529;
+  border:none;
+  -webkit-border-radius:30px;
+  
+}
