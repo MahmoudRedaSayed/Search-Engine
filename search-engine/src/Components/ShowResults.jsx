@@ -3,39 +3,88 @@ import { ReactDOM } from "react";
 import { render } from "react-dom";
 import {BrowserRouter,Route,Link} from "react-router-dom"
 import "../../node_modules/bootstrap/dist/css/bootstrap.css";
+import Results from "./Result";
 
 class Result extends Component{
     state={
-            Results:['One',"Two","Three"],
-            sliders:3
+            Results:[],
+            ResultsPerPage:10,
+            PagesNumbers:[],
+            CurrentPage:1,
+            PagePosts:[],
         };
+        componentDidMount(){
+            fetch("/api").then(response=>{
+                if(response.ok)
+                {
+                    return response.json();
+                }
+            }).then(data=>{
+                this.setState({Results:data.Results});
+                const Numbers=[];
+                for(let i=1;i<=Math.ceil(this.state.Results.length/this.state.ResultsPerPage);i++)
+                {
+                    Numbers.push(i);
+                }
+                this.setState({PagesNumbers:Numbers});
+                //Get the start 
+                let LastIndex = this.state.CurrentPage*this.state.ResultsPerPage;
+                let FirstIndex= LastIndex-this.state.ResultsPerPage;
+                const Posts=this.state.Results.slice(FirstIndex,LastIndex);
+                this.setState({PagePosts:Posts});
+            })
+            
+        }
+        ChangePage=(pageNumber)=>{
+            this.setState({CurrentPage:pageNumber});
+            let LastIndex = this.state.CurrentPage*this.state.ResultsPerPage;
+            let FirstIndex= LastIndex-this.state.ResultsPerPage;
+            const Posts=this.state.Results.slice(FirstIndex,LastIndex);
+            this.setState({PagePosts:Posts});
+        }
+
+        nextPage=()=>{
+            if(this.state.CurrentPage<this.state.PagesNumbers.length)
+            {
+                this.setState({CurrentPage:this.state.CurrentPage+1});
+                let LastIndex = this.state.CurrentPage*this.state.ResultsPerPage;
+                let FirstIndex= LastIndex-this.state.ResultsPerPage;
+                const Posts=this.state.Results.slice(FirstIndex,LastIndex);
+                this.setState({PagePosts:Posts});
+            }
+            
+        }
+        prePage=()=>{
+            if(this.state.CurrentPage<=this.state.PagesNumbers.length&& this.state.CurrentPage>=2)
+            {
+                this.setState({CurrentPage:this.state.CurrentPage-1});
+                let LastIndex = this.state.CurrentPage*this.state.ResultsPerPage;
+                let FirstIndex= LastIndex-this.state.ResultsPerPage;
+                const Posts=this.state.Results.slice(FirstIndex,LastIndex);
+                this.setState({PagePosts:Posts});
+            }
+        }
     render()
     {
-        return (
-            
-            this.state.Results.map((result)=>{
-                return(
-                    <div>
-                    <div class="card mb-3">
-                        {/* <img src="..." class="card-img-top" alt="..."> */}
-                        <div class="card-body">
-                            <h3 class="card-title">{result} link</h3>
-                        </div>
-                        </div>
-                        <div class="card">
-                        <div class="card-body">
-                            <h5 class="card-title">content</h5>
-                            <p class="card-text">link descripation.</p>
-                            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-                        </div>
-                        {/* <img src="..." class="card-img-bottom" alt="..."></img> */}
-                    </div>
-                    </div>
-                )
-                
-            })
-           
-        )
+        
+        
+        return(
+            <div >
+                <section aria-label="Page navigation example">
+                    <ul class="pagination justify-content-center mt-5">
+                        {/* <li class="page-item">
+                        <a class="page-link" href="#" onClick={this.prePage} >Previous</a>
+                        </li> */}
+                        {this.state.PagesNumbers.map(PageNumber=>(<li class="page-item" ><a class="page-link" href="#" Key="PageNumber" onClick={()=>this.ChangePage(PageNumber)}>{PageNumber}</a></li>))}
+                        {/* <li class="page-item">
+                        <a class="page-link" href="#" onClick={this.nextPage}>Next</a>
+                        </li> */}
+                    </ul>
+                </section>
+                <Results Posts={this.state.PagePosts}/>
+
+            </div>
+        ) ;
     }
 }
 export default Result;

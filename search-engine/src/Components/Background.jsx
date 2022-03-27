@@ -1,6 +1,10 @@
 import React, { Component, useState,useEffect} from "react";
 import "../../node_modules/bootstrap/dist/css/bootstrap.css";
 import "../../node_modules/bootstrap/dist/js/bootstrap.bundle";
+import "../index.css";
+import img1 from "../Images/slider01.jpg";
+import img2 from "../Images/slider02.jpg";
+import img3 from "../Images/slider03.jpg";
 
 class Background extends Component{
     render(){
@@ -17,7 +21,7 @@ class Background extends Component{
   {/* <div class="Overlay"></div> */}
     <div class="carousel-item active">
     
-    <img src="https://raw.githubusercontent.com/MahmoudRedaSayed/thrid_project/master/img/slider03.jpg?token=GHSAT0AAAAAABRIYVRZ2BZMFVW76I3FFQJKYR7LJPQ" style={{"width":"100%","height":"951px"}} alt="" />
+    <img src={img1} style={{"width":"100%","height":"951px"}} alt="" />
 
       {/* <HTMLImageElement src="..." class="d-block w-100" alt="..."></HTMLImageElement> */}
       <div class="carousel-caption d-none d-md-block">
@@ -27,7 +31,7 @@ class Background extends Component{
     </div>
     <div class="carousel-item">
     
-    <img src="https://raw.githubusercontent.com/MahmoudRedaSayed/thrid_project/master/img/slider02.jpg?token=GHSAT0AAAAAABRIYVRYJXVN3VOZ7WX7XOBOYR7LOQQ" style={{"width":"100%","height":"951px"}} alt="" />
+    <img src={img2} style={{"width":"100%","height":"951px"}} alt="" />
 
       <div class="carousel-caption d-none d-md-block">
         <h5>Second slide label</h5>
@@ -36,7 +40,7 @@ class Background extends Component{
     </div>
     <div class="carousel-item">
       
-    <img src="https://raw.githubusercontent.com/MahmoudRedaSayed/thrid_project/master/img/slider01.jpg?token=GHSAT0AAAAAABRIYVRZRTNVZVTF6K5VARD6YR7LO7Q" style={{"width":"100%","height":"951px"}} alt="" />
+    <img src={img3} style={{"width":"100%","height":"951px"}} alt="" />
       <div class="carousel-caption d-none d-md-block">
         <h5>Third slide label</h5>
         <p>Some representative placeholder content for the third slide.</p>
