@@ -10,10 +10,9 @@ public class Main {
         UrlThread ThreadsArray[]=new UrlThread[50];
         for(int i=0;i<36;i++)
         {
-            ThreadsArray[i]=new UrlThread();
-            ThreadsArray[i].setName("Thread"+i);
+            ThreadsArray[i] = new UrlThread();
+            ThreadsArray[i].setName("Thread" + i);
             ThreadsArray[i].start();
         }
-
     }
 }
