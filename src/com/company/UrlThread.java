@@ -66,6 +66,7 @@ public class UrlThread extends Thread {
 
     public UrlThread()
     {
+        System.out.printf("From the constructor\n");
         DataBaseObject=new DataBase();
     }
     //---------------------------------------------------------------//
@@ -87,13 +88,28 @@ public class UrlThread extends Thread {
         {
 
             // query to get the url index and layer to start from
-            ResultSet Position =DataBaseObject.getThreadPosition(Thread.currentThread().getName());
-            // give it the link of the parent and in the inner loop will skip until reach to the target link
-            ٍResultSet ParentData=DataBaseObject.getParentUrl(Thread.currentThread().getName(),(Integer)Position.getInt("Layer"),(Integer)Position.getInt("UrlIndex"));
-            // get the parent link
-            FirstUrl=(Integer)Position.getInt("UrlIndex");
             Limit+=DataBaseObject.getCompleteCount();
-            linkProcessing(ParentData.getString("Link"),(Integer)Position.getInt("Layer"),(Integer)Position.getInt("UrlIndex"),ParentData.getInt("ParentId"));
+            ResultSet Position =DataBaseObject.getThreadPosition(Thread.currentThread().getName());
+
+            // give it the link of the parent and in the inner loop will skip until reach to the target link
+            int Layer1=-1;
+            while(Position.next())
+            {
+                FirstUrl=Position.getInt("UrlIndex");
+                Layer1=Position.getInt("Layer");
+                System.out.printf("get the link1 %d %d\n",FirstUrl,Layer1);
+            }
+            ResultSet ParentData=DataBaseObject.getParentUrl(Thread.currentThread().getName(),Layer1,FirstUrl);
+            String ParentLink="";
+            int ParentId=-1;
+            while(ParentData.next())
+            {
+                ParentLink=ParentData.getString("Link");
+                ParentId=ParentData.getInt("LinkParent");
+            }
+
+
+            linkProcessing(ParentLink,Layer1,FirstUrl,ParentId);
         }
     catch(SQLException e)
         {
@@ -197,6 +213,7 @@ public class UrlThread extends Thread {
         try {
                 if(DataBaseObject.getUrls(NormalizedUrl).next())
                 {
+                    System.out.printf("before calling the function \n");
                     return "-1";
                 }
            }
@@ -228,56 +245,54 @@ public class UrlThread extends Thread {
     */
     public void linkProcessing(String Url,int Layer,int Index,int ParentId)
     {
+        System.out.printf("The link %s\n",Url);
         // query to set the current thread with the layer and the index
-        if(Limit!=5000)
+        if(Limit<100)
         {
+            System.out.printf("inside the proccessing function \n");
             // query to set the current layer and the current index
-            DataBaseObject.setThreadPosition(Thread.currentThread().getName(), Layer,Index);
+            DataBaseObject.setThreadPosition(Thread.currentThread().getName(), Layer, Index);
 
             // query to check if the current link is not repeated or not  and if it is normalized by using one function
-
-            if(Normalized(Url)!="-1")
-            {
-                try
-                {
+            if (Normalized(Url) != "-1") {
+                try {
                     // call function to insert the link into the database
-                    DataBaseObject.createLink(Url,Layer,Thread.currentThread().getName(), ParentId);
-                    int parentId=0;
-                    try {
-                        parentId =(Integer)DataBaseObject.getId(Url,Thread.currentThread().getName()).getInt("Id");
+                    System.out.printf("The Parent id of the function is %d \n",ParentId);
+                    if (!(ParentId==-1)) {
+
+                        DataBaseObject.createLink(Url, Layer, Thread.currentThread().getName(), ParentId);
                     }
-                    catch(SQLException ex){
-                        ex.printStackTrace();
-                    }
+                    int parentId = 0;
+                    parentId = DataBaseObject.getId(Url, Thread.currentThread().getName());
+                    System.out.printf("parentid %d \n",parentId);
+
 
                     // call connect the current url and get the content
-                    Document doc= Jsoup.connect(Url).get();
+                    Document doc = Jsoup.connect(Url).get();
 
                     // call function
                     // get the urls from the site
                     Elements links = doc.select("a[href]");
                     //check if the current layer is 2 or less than to go to the next layer if not i will stop
-                    if (Layer <=2)
-                    {
+                    if (Layer <= 2) {
 
                         // counter is used to count the number of the links in the array and to tell to me the current  position
-                        int counter=0;
+                        int counter = 0;
                         // loop on the links
-                        for(Element link: links)
-                        {
-                            if(FirstUrl==0)
+                        for (Element link : links) {
+                            if (FirstUrl == 0)
                             {
                                 // check if the current link not contain zip string to avoid the links of the download
 
-                                if(!link.attr("href").contains("zip"))
-                                {
+                                    if ((link.attr("href").contains("https"))&&(!link.attr("href").contains(".html"))&&(!link.attr("href").contains("/web/200"))&&(!link.attr("href").contains("zip")) && !link.attr("href").equals("/web/") && !link.attr("href").contains("#") &&!link.attr("href").equals("") ) {
+                                        System.out.printf("from the for loop %s\n ",link.attr("href"));
 
-                                    // recursive call with increment of the layer and the counter
-                                    linkProcessing(link.attr("href"),Layer+1,counter,parentId);
-                                    counter++;
-                                    // call function to increment the limit counter
-                                    IncrementLimit();
-                                }
+                                        // recursive call with increment of the layer and the counter
+                                        linkProcessing(link.attr("href"), Layer + 1, counter, parentId);
+                                        counter++;
+                                        // call function to increment the limit counter
+                                        IncrementLimit();
+                                    }
 
                             }
                             else
@@ -286,20 +301,26 @@ public class UrlThread extends Thread {
                             }
                         }
                     }
+                    else
+                    {
+                        IncrementLimit();
+                        DataBaseObject.urlCompleted(Url);
+                        System.out.printf("Limit : %d",Limit);
+                    }
                     // query mark the current link as completed
-                }
-                catch (IOException e)
-                {
+                } catch (IOException e) {
                     e.printStackTrace();
                 }
-            }
-            else
-            {
+            } else {
                 Thread.currentThread().interrupt();
                 // query to set the layer and the index to 0 setThread Position
-                DataBaseObject.setThreadPosition(Thread.currentThread().getName(),0,0);
+                DataBaseObject.setThreadPosition(Thread.currentThread().getName(), 0, 0);
 
             }
-
+        }
+        else
+        {
+            System.out.printf("The limit  %d\n",Limit);
+        }
     }
 }
