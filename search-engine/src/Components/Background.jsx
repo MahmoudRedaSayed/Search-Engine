@@ -2,9 +2,9 @@ import React, { Component, useState,useEffect} from "react";
 import "../../node_modules/bootstrap/dist/css/bootstrap.css";
 import "../../node_modules/bootstrap/dist/js/bootstrap.bundle";
 import "../index.css";
-import img1 from "../Images/slider01.jpg";
-import img2 from "../Images/slider02.jpg";
-import img3 from "../Images/slider03.jpg";
+import img1 from "../Image/slider01.jpg";
+import img2 from "../Image/slider02.jpg";
+import img3 from "../Image/slider03.jpg";
 
 class Background extends Component{
     render(){

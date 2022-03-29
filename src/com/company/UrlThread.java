@@ -53,8 +53,9 @@ import org.jsoup.select.Elements;
 public class UrlThread extends Thread {
 
     //--------------------- The Data Members-------------------------//
-    private static int Limit=0;
+    public static int Limit=0;
     private int FirstUrl;
+    private int inserted=0;
     private int layer;
     private DataBase DataBaseObject;
     //---------------------------------------------------------------//
@@ -89,7 +90,6 @@ public class UrlThread extends Thread {
         {
 
             // query to get the url index and layer to start from
-            Limit+=DataBaseObject.getCompleteCount();
             ResultSet Position =DataBaseObject.getThreadPosition(Thread.currentThread().getName());
 
             // give it the link of the parent and in the inner loop will skip until reach to the target link
@@ -130,7 +130,7 @@ public class UrlThread extends Thread {
     */
     public static synchronized void IncrementLimit()
     {
-        Limit++;
+        UrlThread.Limit++;
     }
     //---------------------------------------------------------------//
 
@@ -142,77 +142,77 @@ public class UrlThread extends Thread {
     */
     public String Normalized(String Url)
     {
-        URL url = null;
-        try {
-            url = new URL(Url);
-        } catch (MalformedURLException e) {
-            e.printStackTrace();
-        }
-        URI uri = null;
-        try {
-            uri = new URI(url.getProtocol(),
-                    url.getUserInfo(),
-                    url.getHost(),
-                    url.getPort(),
-                    url.getPath(),
-                    url.getQuery(),
-                    url.getRef());
-        } catch (URISyntaxException e) {
-            e.printStackTrace();
-        }
-
-        /////// UPPERCASE TRIPLETS: AFTER % ENCODING///////
-        StringBuffer sb = new StringBuffer(uri.toString());
-        int index = sb.indexOf("%");
-        while (index >= 0) {
-            if(sb.charAt(index)>=97 && sb.charAt(index)<=122)
-            {
-                sb.replace(index, index+1, Character.toString(sb.charAt(index)-32));
-            }
-            if(sb.charAt(index+1)>=97 && sb.charAt(index+1)<=122)
-            {
-                sb.replace(index+1, index+2,  Character.toString(sb.charAt(index+1)-32));
-            }
-            index = sb.indexOf("%", index + 1);
-        }
-
-        sb = new StringBuffer(uri.toString());
-
-
-
-        ////////// NORMALIZE AND REMOVE UNRESERVED CHARACTERS////////////
-        String result;
-        uri = uri.normalize();
-        try{result = URLDecoder.decode(sb.toString(), "UTF-8").replaceAll("\\+", "%20")
-                .replaceAll("\\%7E", "~").replaceAll("%2D", "-").replaceAll("%2E", ".").replaceAll("%5F", "_");} catch (UnsupportedEncodingException e)
-        {
-            result = sb.toString();
-        }
-        try
-        {
-            url = new URL (result);
-        } catch (MalformedURLException e) {
-            e.printStackTrace();
-        }
-
-        try {
-            uri = new URI(url.getProtocol(),
-                    url.getUserInfo(),
-                    url.getHost(),
-                    url.getPort(),
-                    url.getPath(),
-                    url.getQuery(),
-                    url.getRef());
-        } catch (URISyntaxException e) {
-            e.printStackTrace();
-        }
-        uri = uri.normalize();
+//        URL url = null;
+//        try {
+//            url = new URL(Url);
+//        } catch (MalformedURLException e) {
+//            e.printStackTrace();
+//        }
+//        URI uri = null;
+//        try {
+//            uri = new URI(url.getProtocol(),
+//                    url.getUserInfo(),
+//                    url.getHost(),
+//                    url.getPort(),
+//                    url.getPath(),
+//                    url.getQuery(),
+//                    url.getRef());
+//        } catch (URISyntaxException e) {
+//            e.printStackTrace();
+//        }
+//
+//        /////// UPPERCASE TRIPLETS: AFTER % ENCODING///////
+//        StringBuffer sb = new StringBuffer(uri.toString());
+//        int index = sb.indexOf("%");
+//        while (index >= 0) {
+//            if(sb.charAt(index)>=97 && sb.charAt(index)<=122)
+//            {
+//                sb.replace(index, index+1, Character.toString(sb.charAt(index)-32));
+//            }
+//            if(sb.charAt(index+1)>=97 && sb.charAt(index+1)<=122)
+//            {
+//                sb.replace(index+1, index+2,  Character.toString(sb.charAt(index+1)-32));
+//            }
+//            index = sb.indexOf("%", index + 1);
+//        }
+//
+//        sb = new StringBuffer(uri.toString());
+//
+//
+//
+//        ////////// NORMALIZE AND REMOVE UNRESERVED CHARACTERS////////////
+//        String result;
+//        uri = uri.normalize();
+//        try{result = URLDecoder.decode(sb.toString(), "UTF-8").replaceAll("\\+", "%20")
+//                .replaceAll("\\%7E", "~").replaceAll("%2D", "-").replaceAll("%2E", ".").replaceAll("%5F", "_");} catch (UnsupportedEncodingException e)
+//        {
+//            result = sb.toString();
+//        }
+//        try
+//        {
+//            url = new URL (result);
+//        } catch (MalformedURLException e) {
+//            e.printStackTrace();
+//        }
+//
+//        try {
+//            uri = new URI(url.getProtocol(),
+//                    url.getUserInfo(),
+//                    url.getHost(),
+//                    url.getPort(),
+//                    url.getPath(),
+//                    url.getQuery(),
+//                    url.getRef());
+//        } catch (URISyntaxException e) {
+//            e.printStackTrace();
+//        }
+//        uri = uri.normalize();
 
 
         //---------------------------------------------------------//
-            String NormalizedUrl=uri.toString();
+//            String NormalizedUrl=uri.toString();
         try {
-                if(DataBaseObject.getUrls(NormalizedUrl).next())
+                if(DataBaseObject.getUrls(Url).next())
                 {
                     System.out.printf("before calling the function \n");
                     return "-1";
@@ -221,7 +221,8 @@ public class UrlThread extends Thread {
         catch (SQLException e) {
             e.printStackTrace();
         }
-        return NormalizedUrl;
+//        return NormalizedUrl;
+        return "";
     }
     //---------------------------------------------------------------//
 
@@ -244,7 +245,7 @@ public class UrlThread extends Thread {
             The counter variable to set the Index in the Function to Know the position of the Thread
             and then after the loop will mark the url as Completed
     */
-    public void linkProcessing(String Url,int Layer,int Index,int ParentId)
+    public synchronized void linkProcessing(String Url,int Layer,int Index,int ParentId)
     {
         System.out.printf("The link %s\n",Url);
         // query to set the current thread with the layer and the index
@@ -255,13 +256,16 @@ public class UrlThread extends Thread {
             DataBaseObject.setThreadPosition(Thread.currentThread().getName(), Layer, Index);
 
             // query to check if the current link is not repeated or not  and if it is normalized by using one function
-            if (Normalized(Url) != "-1") {
+            if (Normalized(Url) != "-1")
+            {
                 try {
                     // call function to insert the link into the database
                     System.out.printf("The Parent id of the function is %d \n",ParentId);
                     if (!(ParentId==-1)) {
-
-                        DataBaseObject.createLink(Url, Layer, Thread.currentThread().getName(), ParentId);
+                        synchronized (DataBaseObject){
+                            inserted++;
+                            DataBaseObject.createLink(Url, Layer, Thread.currentThread().getName(), ParentId);
+                        }
                     }
                     int parentId = 0;
                     parentId = DataBaseObject.getId(Url, Thread.currentThread().getName());
@@ -292,7 +296,11 @@ public class UrlThread extends Thread {
                                         linkProcessing(link.attr("href"), Layer + 1, counter, parentId);
                                         counter++;
                                         // call function to increment the limit counter
-                                        IncrementLimit();
+                                        if(Limit<100)
+                                        {
+                                            IncrementLimit();
+
+                                        }
                                     }
 
                             }
@@ -301,10 +309,10 @@ public class UrlThread extends Thread {
                                 FirstUrl--;
                             }
                         }
+                        DataBaseObject.urlCompleted(Url);
                     }
                     else
                     {
-                        IncrementLimit();
                         DataBaseObject.urlCompleted(Url);
                         System.out.printf("Limit : %d",Limit);
                     }
@@ -312,16 +320,20 @@ public class UrlThread extends Thread {
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
-            } else {
-                Thread.currentThread().interrupt();
-                // query to set the layer and the index to 0 setThread Position
-                DataBaseObject.setThreadPosition(Thread.currentThread().getName(), 0, 0);
-
+            }
+            else
+            {
+                System.out.printf("The normalization");
             }
         }
         else
         {
+            Thread.currentThread().interrupt();
+            // query to set the layer and the index to 0 setThread Position
+            DataBaseObject.setThreadPosition(Thread.currentThread().getName(), 0, 0);
+
             System.out.printf("The limit  %d\n",Limit);
+            System.out.printf("The Inserted  %d\n",inserted);
         }
     }
 }

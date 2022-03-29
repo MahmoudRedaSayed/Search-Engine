@@ -10,14 +10,16 @@ import ResultPage from './Components/ResultsPage';
 class App extends Component{
     render(){
         return(
-            // < BrowserRouter >
-            // <div>
-            //     <Route path="/home" exact component={SearchPage} />
-            //     <Route path="/results" exact component={ResultPage} />
-            // </div>
+            // <BrowserRouter >
+            //     <Route path="/home" exact >
+            //         <SearchPage></SearchPage>
+            //     </Route>
+            //     <Route path="/results" exact  >
+            //         <ResultPage></ResultPage>
+            //     </Route>
             // </ BrowserRouter >
-            <SearchPage></SearchPage>
-            // <ResultPage></ResultPage>
+            // <SearchPage></SearchPage>
+            <ResultPage></ResultPage>
 
         );
     }

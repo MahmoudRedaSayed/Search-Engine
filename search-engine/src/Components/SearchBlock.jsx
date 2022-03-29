@@ -4,21 +4,54 @@ import "../../node_modules/@fortawesome/fontawesome-free/css/all.css";
 
 class SearchBlock extends Component{
     state={
-        products:["one","two","three"]
+        historyData:[],
+        value:""
     }
-    inc=()=>{
-        let state1=[...this.state.products,"four"];
-        this.setState({products:state1});
-        console.log(this.state);
-        fetch("/api").then(response=>{
+    fileration(data){
+        return(data.search.toString().toLocaleLowerCase().startsWith(this.state.value));
+    }
+    submit=(e)=>{
+        if(!(e.target.value===""))
+        {
+            const doc=
+            {
+                search:e.target.value
+            }
+            console.log(doc);
+            fetch(" http://localhost:3000/History",{
+                method:"POST",
+                body:JSON.stringify(doc),
+                headers:{"Content-Type":"application/json"}});
+            }
+        
+    }
+    add=(suggest)=>{
+        setTimeout(()=>{
+        this.setState({value:suggest});
+        },);
+        
+    }   
+    inc=(e)=>{
+        this.setState({value:e.target.value});
+        if(e.target.value!=="")
+        {
+        fetch(" http://localhost:3000/History").then(response=>{
                 if(response.ok)
                 {
                     return response.json();
                 }
             }).then(data=>{
-                this.setState(data);
-                console.log(this.state);
-            })
+                console.log(e.target.value);
+                this.setState({historyData:data.filter
+                    ((data)=>(data.search.toLocaleLowerCase().startsWith
+                    (e.target.value.toLowerCase())))});
+                
+         } )
+        }
+        else{
+            this.setState({historyData:[]});
+        }
+
     }
     render(){
 
@@ -29,11 +62,18 @@ class SearchBlock extends Component{
                         <div className=" col-md-12">
                             <h1 className="text-center"style={{"color":"#198754","font-size":"5rem"}} >K3M</h1>
                             <div className="card-body">
-                                <i className="fa-solid fa-microphone" />
-                                <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search" style={{"padding": "20px","border-radius": "30px","font-size": "21px","background-color": "#fff","border": "none","color":"#212529"}} onChange={this.inc}></input>
-                                {/* <div className="Slider">
-                                    {this.state.products.map((product)=>{return (<li>product</li>)})}
-                                </div> */}
+                                <form onKeydown={this.submit} >
+                                <input className="form-control me-2"  type="search" onClick={this.submit} 
+                                value={this.state.value} 
+                                placeholder="Search" aria-label="Search" 
+                                style={{"padding": "20px","border-radius": "30px"
+                                ,"font-size": "21px","background-color": "#fff"
+                                ,"border": "none","color":"#212529"}} 
+                                onChange={this.inc} />
+                                </form>
+                                <div className="Slider mt-2 " style={{"border-radius":"10px" , "scrollbar-width": "none"}}>
+                                    {this.state.historyData.map((record)=>{return (<p className="p-2" style={{"cursor":"pointer"}}  onClick={()=>this.add(record.search)}>{record.search}</p>)})}
+                                </div>
                             </div>
                         </div>
                 </div>
