@@ -11,19 +11,43 @@ class SearchBlock extends Component{
         return(data.search.toString().toLocaleLowerCase().startsWith(this.state.value));
     }
     submit=(e)=>{
-        if(!(e.target.value===""))
+        var found=false;
+        if(!(e.target.value.trim()===""))
         {
-            const doc=
+            fetch(" http://localhost:3000/History").then(response=>{
+                if(response.ok)
+                {
+                    return response.json();
+                }
+                }).then(data=>{
+                for(let i =0;i<data.length;i++)
+                {
+                    console.log(data[i].search+" === "+e.target.value);
+                    if(e.target.value.trim()===data[i].search)
+                    {
+                        found=true;
+                        break;
+                    }
+                    
+                }
+                
+            })
+            setTimeout(()=>{if(!found)
             {
-                search:e.target.value
-            }
+                const doc=
+                {
+                    search:e.target.value.trim()
+                }
             console.log(doc);
-            fetch(" http://localhost:3000/History",{
+            fetch("http://localhost:3000/History",{
                 method:"POST",
                 body:JSON.stringify(doc),
                 headers:{"Content-Type":"application/json"}});
-            }
-        
+                console.log("submitedd");
+                console.log(doc);
+            }},500)
+            
+        }
     }
     add=(suggest)=>{
         setTimeout(()=>{
@@ -33,20 +57,21 @@ class SearchBlock extends Component{
     }   
     inc=(e)=>{
         this.setState({value:e.target.value});
-        if(e.target.value!=="")
+        if(e.target.value.trim()!=="")
         {
-        fetch(" http://localhost:3000/History").then(response=>{
+        
+            fetch(" http://localhost:3000/History").then(response=>{
                 if(response.ok)
                 {
                     return response.json();
                 }
-            }).then(data=>{
+                }).then(data=>{
                 console.log(e.target.value);
                 this.setState({historyData:data.filter
                     ((data)=>(data.search.toLocaleLowerCase().startsWith
-                    (e.target.value.toLowerCase())))});
+                    (e.target.value.trim().toLowerCase())))});
                 
-         } )
+            })
         }
         else{
             this.setState({historyData:[]});

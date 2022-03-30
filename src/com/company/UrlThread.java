@@ -2,6 +2,7 @@ package com.company;
 
 //-------------------------- Imports Section--------------------------//
 import java.io.IOException;
+import java.io.InputStream;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.io.UnsupportedEncodingException;
@@ -12,6 +13,7 @@ import java.net.URI;
 import java.net.URL;
 import java.net.URLDecoder;
 import java.net.URISyntaxException;
+import java.util.ArrayList;
 
 
 // Jsoup Imports
@@ -50,12 +52,12 @@ import org.jsoup.select.Elements;
     3-linkProcessing
 * */
 
-public class UrlThread extends Thread {
+public class UrlThread implements  Runnable {
 
     //--------------------- The Data Members-------------------------//
     public static int Limit=0;
-    private int FirstUrl;
-    private int inserted=0;
+    private  int FirstUrl;
+    public static int inserted=0;
     private int layer;
     private DataBase DataBaseObject;
     //---------------------------------------------------------------//
@@ -103,7 +105,7 @@ public class UrlThread extends Thread {
             ResultSet ParentData=DataBaseObject.getParentUrl(Thread.currentThread().getName(),Layer1,FirstUrl);
             String ParentLink="";
             int ParentId=-1;
-            while(ParentData.next())
+            while(ParentData!=null&&ParentData.next())
             {
                 ParentLink=ParentData.getString("Link");
                 ParentId=ParentData.getInt("LinkParent");
@@ -133,6 +135,11 @@ public class UrlThread extends Thread {
         UrlThread.Limit++;
     }
     //---------------------------------------------------------------//
+    public static synchronized void IncrementInserted()
+    {
+        UrlThread.inserted++;
+    }
+
 
 
     //--------------------------Function Normalized an repeated--------------------------//
@@ -140,89 +147,195 @@ public class UrlThread extends Thread {
         * Explanation:
 
     */
+        public static ArrayList<String> robotSafe(String url1)  {
+            ArrayList<String> Disallowed = new ArrayList<>();
+            URL url;
+            try { url =new URL(url1);
+            } catch (MalformedURLException e) {
+                // something weird is happening, so don't trust it
+                return Disallowed;
+            }
+            String strHost = url.getHost();
+
+            String strRobot = "http://" + strHost + "/robots.txt";
+            URL urlRobot;
+            try { urlRobot = new URL(strRobot);
+            } catch (MalformedURLException e) {
+                // something weird is happening, so don't trust it
+                return Disallowed;
+            }
+
+            String strCommands="";
+            try
+            {
+                InputStream urlRobotStream = urlRobot.openStream();
+                byte b[] = new byte[1000];
+                int numRead = urlRobotStream.read(b);
+                if(numRead!=-1)
+                {
+                    strCommands = new String(b, 0, numRead);
+
+                }
+                while (numRead != -1) {
+                    numRead = urlRobotStream.read(b);
+                    if (numRead != -1)
+                    {
+                        String newCommands = new String(b, 0, numRead);
+                        strCommands += newCommands;
+                    }
+                }
+                urlRobotStream.close();
+            }
+            catch (IOException e)
+            {
+                return Disallowed; // if there is no robots.txt file, it is OK to search
+            }
+
+            if (strCommands.contains("Disallow")) // if there are no "disallow" values, then they are not blocking anything.
+            {
+                String[] split = strCommands.split("\n");
+                ArrayList<RobotRule> robotRules = new ArrayList<>();
+                String mostRecentUserAgent = null;
+                for (int i = 0; i < split.length; i++)
+                {
+                    String line = split[i].trim();
+                    if (line.toLowerCase().startsWith("user-agent"))
+                    {
+                        int start = line.indexOf(":") + 1;
+                        int end   = line.length();
+                        mostRecentUserAgent = line.substring(start, end).trim();
+                    }
+                    else if (line.contains("Disallow")) {
+                        if (mostRecentUserAgent != null) {
+                            RobotRule r = new RobotRule();
+                            r.userAgent = mostRecentUserAgent;
+                            int start = line.indexOf(":") + 1;
+                            int end   = line.length();
+                            r.rule = line.substring(start, end).trim();
+                            robotRules.add(r);
+                        }
+                    }
+                }
+                for (RobotRule robotRule : robotRules)
+                {
+                    if(robotRule.userAgent=="Java 17.0.2" ||robotRule.userAgent=="*" )
+                    {
+                        String [] urls= robotRule.rule.split("\n");
+                        for(int i=0;i<urls.length;i++)
+                        {
+                            Disallowed.add(urls[i]);
+                        }
+                    }
+
+
+                }
+            }
+            return Disallowed;
+        }
+
     public String Normalized(String Url)
     {
-//        URL url = null;
-//        try {
-//            url = new URL(Url);
-//        } catch (MalformedURLException e) {
-//            e.printStackTrace();
-//        }
-//        URI uri = null;
-//        try {
-//            uri = new URI(url.getProtocol(),
-//                    url.getUserInfo(),
-//                    url.getHost(),
-//                    url.getPort(),
-//                    url.getPath(),
-//                    url.getQuery(),
-//                    url.getRef());
-//        } catch (URISyntaxException e) {
-//            e.printStackTrace();
-//        }
-//
-//        /////// UPPERCASE TRIPLETS: AFTER % ENCODING///////
-//        StringBuffer sb = new StringBuffer(uri.toString());
-//        int index = sb.indexOf("%");
-//        while (index >= 0) {
-//            if(sb.charAt(index)>=97 && sb.charAt(index)<=122)
-//            {
-//                sb.replace(index, index+1, Character.toString(sb.charAt(index)-32));
-//            }
-//            if(sb.charAt(index+1)>=97 && sb.charAt(index+1)<=122)
-//            {
-//                sb.replace(index+1, index+2,  Character.toString(sb.charAt(index+1)-32));
-//            }
-//            index = sb.indexOf("%", index + 1);
-//        }
-//
-//        sb = new StringBuffer(uri.toString());
-//
-//
-//
-//        ////////// NORMALIZE AND REMOVE UNRESERVED CHARACTERS////////////
-//        String result;
-//        uri = uri.normalize();
-//        try{result = URLDecoder.decode(sb.toString(), "UTF-8").replaceAll("\\+", "%20")
-//                .replaceAll("\\%7E", "~").replaceAll("%2D", "-").replaceAll("%2E", ".").replaceAll("%5F", "_");} catch (UnsupportedEncodingException e)
-//        {
-//            result = sb.toString();
-//        }
-//        try
-//        {
-//            url = new URL (result);
-//        } catch (MalformedURLException e) {
-//            e.printStackTrace();
-//        }
-//
-//        try {
-//            uri = new URI(url.getProtocol(),
-//                    url.getUserInfo(),
-//                    url.getHost(),
-//                    url.getPort(),
-//                    url.getPath(),
-//                    url.getQuery(),
-//                    url.getRef());
-//        } catch (URISyntaxException e) {
-//            e.printStackTrace();
-//        }
-//        uri = uri.normalize();
-
-
-        //---------------------------------------------------------//
-//            String NormalizedUrl=uri.toString();
+        URL url = null;
         try {
-                if(DataBaseObject.getUrls(Url).next())
+            url = new URL(Url);
+        } catch (MalformedURLException e) {
+            return "-1";
+        }
+        URI uri = null;
+        try {
+            if(url!=null) {
+                uri = new URI(url.getProtocol(),
+                        url.getUserInfo(),
+                        url.getHost(),
+                        url.getPort(),
+                        url.getPath(),
+                        url.getQuery(),
+                        url.getRef());
+            }
+        } catch (URISyntaxException e) {
+            return "-1";
+        }
+
+        /////// UPPERCASE TRIPLETS: AFTER % ENCODING///////
+        StringBuffer sb = new StringBuffer(uri.toString());
+        int index = sb.indexOf("%");
+        while (index >= 0) {
+            if(sb.charAt(index)>=97 && sb.charAt(index)<=122)
+            {
+                sb.replace(index, index+1, Character.toString(sb.charAt(index)-32));
+            }
+            if(sb.charAt(index+1)>=97 && sb.charAt(index+1)<=122)
+            {
+                sb.replace(index+1, index+2,  Character.toString(sb.charAt(index+1)-32));
+            }
+            index = sb.indexOf("%", index + 1);
+        }
+
+        sb = new StringBuffer(uri.toString());
+
+
+
+        ////////// NORMALIZE AND REMOVE UNRESERVED CHARACTERS////////////
+        String result;
+        uri = uri.normalize();
+        try{result = URLDecoder.decode(sb.toString(), "UTF-8").replaceAll("\\+", "%20")
+                .replaceAll("\\%7E", "~").replaceAll("%2D", "-").replaceAll("%2E", ".").replaceAll("%5F", "_");} catch (UnsupportedEncodingException e)
+        {
+            result = sb.toString();
+        }
+        try
+        {
+            url = new URL (result);
+            if(url!=null)
+            {
+                try {
+                    System.out.println(url.getProtocol());
+                    if (url.getProtocol().toLowerCase() == "https" || url.getProtocol().toLowerCase() == "http") {
+                        return "-1";
+                    }
+                }
+                catch (Exception e)
                 {
+                    return "-1";
+                }
+                try {
+                    uri = new URI(url.getProtocol(),
+                            url.getUserInfo(),
+                            url.getHost(),
+                            url.getPort(),
+                            url.getPath(),
+                            url.getQuery(),
+                            url.getRef());
+
+                }
+                catch (URISyntaxException e) {
+                    return "-1";
+
+                }
+            }
+
+        } catch (MalformedURLException e) {
+            return "-1";
+        }
+
+        uri = uri.normalize();
+
+
+//        ---------------------------------------------------------//
+         String NormalizedUrl=uri.toString();
+        try {
+            if(DataBaseObject.getUrls(NormalizedUrl) != null) {
+                if (DataBaseObject.getUrls(NormalizedUrl).next()) {
                     System.out.printf("before calling the function \n");
                     return "-1";
                 }
+            }
            }
         catch (SQLException e) {
             e.printStackTrace();
         }
-//        return NormalizedUrl;
-        return "";
+        return NormalizedUrl;
+//        return "";
     }
     //---------------------------------------------------------------//
 
@@ -247,25 +360,17 @@ public class UrlThread extends Thread {
     */
     public synchronized void linkProcessing(String Url,int Layer,int Index,int ParentId)
     {
-        System.out.printf("The link %s\n",Url);
-        // query to set the current thread with the layer and the index
-        if(Limit<100)
+        if(Limit<5000)
         {
-            System.out.printf("inside the proccessing function \n");
             // query to set the current layer and the current index
             DataBaseObject.setThreadPosition(Thread.currentThread().getName(), Layer, Index);
 
             // query to check if the current link is not repeated or not  and if it is normalized by using one function
-            if (Normalized(Url) != "-1")
-            {
-                try {
                     // call function to insert the link into the database
-                    System.out.printf("The Parent id of the function is %d \n",ParentId);
-                    if (!(ParentId==-1)) {
-                        synchronized (DataBaseObject){
-                            inserted++;
+                    if (!(ParentId==-1))
+                    {
+                            IncrementInserted();
                             DataBaseObject.createLink(Url, Layer, Thread.currentThread().getName(), ParentId);
-                        }
                     }
                     int parentId = 0;
                     parentId = DataBaseObject.getId(Url, Thread.currentThread().getName());
@@ -273,58 +378,59 @@ public class UrlThread extends Thread {
 
 
                     // call connect the current url and get the content
-                    Document doc = Jsoup.connect(Url).get();
 
-                    // call function
-                    // get the urls from the site
-                    Elements links = doc.select("a[href]");
                     //check if the current layer is 2 or less than to go to the next layer if not i will stop
                     if (Layer <= 2) {
 
                         // counter is used to count the number of the links in the array and to tell to me the current  position
                         int counter = 0;
-                        // loop on the links
-                        for (Element link : links) {
-                            if (FirstUrl == 0)
+                        try {
+                            // loop on the links
+                            Document doc = Jsoup.connect(Url).get();
+
+                            // call function
+                            // get the urls from the site
+                            Elements links = doc.select("a[href]");
+                            ArrayList<String> Disallowed = robotSafe(Url);
+                            boolean forbidden=false;
+                            for (Element link : links)
                             {
-                                // check if the current link not contain zip string to avoid the links of the download
-
-                                    if ((link.attr("href").contains("https"))&&(!link.attr("href").contains(".html"))&&(!link.attr("href").contains("/web/200"))&&(!link.attr("href").contains("zip")) && !link.attr("href").equals("/web/") && !link.attr("href").contains("#") &&!link.attr("href").equals("") ) {
-                                        System.out.printf("from the for loop %s\n ",link.attr("href"));
-
-                                        // recursive call with increment of the layer and the counter
-                                        linkProcessing(link.attr("href"), Layer + 1, counter, parentId);
-                                        counter++;
-                                        // call function to increment the limit counter
-                                        if(Limit<100)
+                                if (FirstUrl == 0) {
+                                    // check if the current link not contain zip string to avoid the links of the download
+                                    String result = Normalized(link.attr("href"));
+                                    for(int i=0;i<Disallowed.size();i++)
+                                    {
+                                        if(link.attr("href").contains(Disallowed.get(i)))
                                         {
-                                            IncrementLimit();
-
+                                            forbidden=true;
+                                            break;
                                         }
                                     }
+                                    if (Limit < 5000 && result != "-1"&&!forbidden) {
+                                            linkProcessing(result, Layer + 1, counter, parentId);
+                                            IncrementLimit();
+                                            counter++;
+//                                      }
 
+                                    } else if (Limit >= 5000) {
+                                        break;
+                                    }
+                                } else {
+                                    FirstUrl--;
+                                }
                             }
-                            else
-                            {
-                                FirstUrl--;
-                            }
+                            DataBaseObject.urlCompleted(Url);
                         }
-                        DataBaseObject.urlCompleted(Url);
+                        catch (IOException e)
+                        {
+
+                        }
                     }
                     else
                     {
                         DataBaseObject.urlCompleted(Url);
-                        System.out.printf("Limit : %d",Limit);
                     }
                     // query mark the current link as completed
-                } catch (IOException e) {
-                    e.printStackTrace();
-                }
-            }
-            else
-            {
-                System.out.printf("The normalization");
-            }
         }
         else
         {

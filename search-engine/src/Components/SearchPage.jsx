@@ -11,7 +11,7 @@ class SearchPage extends Component{
 
             <div>
                     <Background></Background>
-                    <Navbar></Navbar>
+                    <Navbar showField={false}/>
                     <SearchBlock></SearchBlock>
             </div>
 

@@ -9,7 +9,7 @@ class ResultPage extends Component{
         return(
 
             <div>
-                <Navbar></Navbar>
+                <Navbar showField={true}></Navbar>
                 <Result></Result>
             </div>
         );

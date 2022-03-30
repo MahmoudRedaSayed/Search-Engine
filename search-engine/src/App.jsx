@@ -18,8 +18,8 @@ class App extends Component{
             //         <ResultPage></ResultPage>
             //     </Route>
             // </ BrowserRouter >
-            // <SearchPage></SearchPage>
-            <ResultPage></ResultPage>
+            <SearchPage></SearchPage>
+            // <ResultPage></ResultPage>
 
         );
     }
