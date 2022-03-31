@@ -16,14 +16,18 @@ public class Main {
 
     public static void main(String[] args) {
 
-//        UrlThread ThreadsArray=new UrlThread();
+//        Thread ThreadsArray=new Thread(new UrlThread());
+//        ThreadsArray.setName("Thread1");
+//        ThreadsArray.start();
+////        Thread ThreadsArray2=new Thread(new UrlThread());
+//        ThreadsArray2.setName("Thread2");
+//        ThreadsArray2.start();
 //        ArrayList<String> Disallowed =ThreadsArray.robotSafe("https://www.bbc.co.uk/");
 //        System.out.println(Disallowed);
 //        DataBase DataBaseObject=new DataBase();
 //        UrlThread.Limit+=DataBaseObject.getCompleteCount();
 //        System.out.printf(" the limit %d",UrlThread.Limit);
-////        ThreadsArray.setName("Thread1");
-////        ThreadsArray.start();
+
         Thread ThreadsArray[]=new Thread[36];
         ThreadsArray[0]=Thread.currentThread();
         ThreadsArray[0].setName("Thread1");
@@ -42,6 +46,14 @@ public class Main {
 
             }
         }
+
+//        try {
+//            ThreadsArray.join();
+//            ThreadsArray2.join();
+//
+//        } catch (InterruptedException e) {
+//
+//            }
         System.out.println("The limit  "+UrlThread.Limit+" The inserted  "+UrlThread.inserted);
 //
 //

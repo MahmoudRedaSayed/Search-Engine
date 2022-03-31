@@ -147,7 +147,8 @@ public class UrlThread implements  Runnable {
         * Explanation:
 
     */
-        public static ArrayList<String> robotSafe(String url1)  {
+        public static ArrayList<String> robotSafe(String url1,ArrayList<String> Allowed)  {
+            System.out.println(Thread.currentThread().getName());
             ArrayList<String> Disallowed = new ArrayList<>();
             URL url;
             try { url =new URL(url1);
@@ -157,7 +158,7 @@ public class UrlThread implements  Runnable {
             }
             String strHost = url.getHost();
 
-            String strRobot = "http://" + strHost + "/robots.txt";
+            String strRobot = "https://" + strHost + "/robots.txt";
             URL urlRobot;
             try { urlRobot = new URL(strRobot);
             } catch (MalformedURLException e) {
@@ -174,7 +175,22 @@ public class UrlThread implements  Runnable {
                 if(numRead!=-1)
                 {
                     strCommands = new String(b, 0, numRead);
-
+//                    https://www.javatpoint.com/robots.txt
+                }
+                else
+                {
+                    strRobot = "http://" + strHost + "/robots.txt";
+                    try { urlRobot = new URL(strRobot);
+                    } catch (MalformedURLException e) {
+                        // something weird is happening, so don't trust it
+                        return Disallowed;
+                    }
+                    urlRobotStream = urlRobot.openStream();
+                    numRead = urlRobotStream.read(b);
+                    if(numRead!=-1)
+                    {
+                        strCommands = new String(b, 0, numRead);
+                    }
                 }
                 while (numRead != -1) {
                     numRead = urlRobotStream.read(b);
@@ -215,16 +231,41 @@ public class UrlThread implements  Runnable {
                             robotRules.add(r);
                         }
                     }
+                    else if (line.contains("Allow")) {
+                        if (mostRecentUserAgent != null) {
+                            RobotRule r = new RobotRule();
+                            r.userAgent = mostRecentUserAgent;
+                            int start = line.indexOf(":") + 1;
+                            int end   = line.length();
+                            r.allowRule = line.substring(start, end).trim();
+                            robotRules.add(r);
+                        }
+                    }
                 }
                 for (RobotRule robotRule : robotRules)
                 {
-                    if(robotRule.userAgent=="Java 17.0.2" ||robotRule.userAgent=="*" )
+                    if(robotRule.userAgent.equals("Java 17.0.2") ||robotRule.userAgent.equals("*") )
                     {
-                        String [] urls= robotRule.rule.split("\n");
-                        for(int i=0;i<urls.length;i++)
+                        String [] urls=null;
+                        if(robotRule.rule!=null)
                         {
-                            Disallowed.add(urls[i]);
+                           urls= robotRule.rule.split("\n");
+                            for(int i=0;i<urls.length;i++)
+                            {
+                                if(!urls[i].equals(""))
+                                Disallowed.add(urls[i]);
+                            }
                         }
+
+                        if(robotRule.allowRule!=null)
+                        {
+                            urls= robotRule.allowRule.split("\n");
+                            for(int i=0;i<urls.length;i++)
+                            {
+                                Allowed.add(urls[i]);
+                            }
+                        }
+
                     }
 
 
@@ -289,7 +330,6 @@ public class UrlThread implements  Runnable {
             if(url!=null)
             {
                 try {
-                    System.out.println(url.getProtocol());
                     if (url.getProtocol().toLowerCase() == "https" || url.getProtocol().toLowerCase() == "http") {
                         return "-1";
                     }
@@ -391,18 +431,31 @@ public class UrlThread implements  Runnable {
                             // call function
                             // get the urls from the site
                             Elements links = doc.select("a[href]");
-                            ArrayList<String> Disallowed = robotSafe(Url);
+                            ArrayList<String> Allowed=new ArrayList<>();
+                            ArrayList<String> Disallowed = robotSafe(Url,Allowed);
+
                             boolean forbidden=false;
                             for (Element link : links)
                             {
                                 if (FirstUrl == 0) {
                                     // check if the current link not contain zip string to avoid the links of the download
                                     String result = Normalized(link.attr("href"));
+//                                    System.out.println(links.toString());
+
                                     for(int i=0;i<Disallowed.size();i++)
                                     {
                                         if(link.attr("href").contains(Disallowed.get(i)))
                                         {
                                             forbidden=true;
+                                            for(int j=0;j<Allowed.size();j++)
+                                            {
+                                                if(link.attr("href").contains(Disallowed.get(i)))
+                                                {
+                                                    forbidden=false;
+                                                    break;
+                                                }
+                                            }
+                                            System.out.printf("The link is forbiddent to enter the site  : %s + other link is   %s",link.attr("href"),Disallowed.get(i));
                                             break;
                                         }
                                     }
