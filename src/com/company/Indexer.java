@@ -10,6 +10,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.*;
+// Karim --> database & multiThreading&removeSymbols
 public class Indexer {
 
     private PageParsing page;
@@ -37,12 +38,12 @@ public class Indexer {
     }
 
     // Indexing Function ( the most important one )
-    public void startIndexing(String url)
+    public void startIndexing(String url, String doc_id)
     {
         this.setPage(url);
-        titleProcessing();
-        headingProcessing();
-        paragraphProcessing();
+        titleProcessing(doc_id);
+        headingProcessing(doc_id);
+        paragraphProcessing(doc_id);
     }
 
     // initialization
@@ -55,11 +56,11 @@ public class Indexer {
         }
     }
 
-    // get Urls from Data Base
+    /*// get Urls from Data Base
     private void setUrls()
     {
         // get it from database
-    }
+    }*/
 
     // setter for the page           ( will be modified )
     private void setPage(String url) {
@@ -94,7 +95,7 @@ public class Indexer {
     }
 
     // String Processing
-    private void singleStringProcessing(String str, char tag)    // tag --> ('t' = page title, 'h' = "heading", 'p' = "paragraph)
+    private void singleStringProcessing(String str, char tag, String doc_ic)    // tag --> ('t' = page title, 'h' = "heading", 'p' = "paragraph)
     {
         // remove stop words
         str = removeSymbols(str);
@@ -123,7 +124,7 @@ public class Indexer {
             }
 
             // prepare the info of the word ( doc_id, paragraph or heading)
-            wordInfo = "1:" + tag + ';';
+            wordInfo = "1:" + tag + ';';        // karim , set the doc_id
 
             // insert the word into the file
             try {
@@ -138,39 +139,39 @@ public class Indexer {
     }
 
     // Title Processing
-    private void titleProcessing()
+    private void titleProcessing(String doc_id)
     {
         String title = page.getTitleTag();
-        singleStringProcessing(title, 't');
+        singleStringProcessing(title, 't', doc_id);
     }
 
     // headings processing  ( h1, h2, h3 )
-    private void headingProcessing()
+    private void headingProcessing(String doc_id)
     {
         String[] headings = page.getHeaders();
 
         for(String header : headings)
-            singleStringProcessing(header, 'h');
+            singleStringProcessing(header, 'h', doc_id);
     }
 
     // paragraph processing
-    private void paragraphProcessing()
+    private void paragraphProcessing(String doc_id)
     {
         // for <p> tags
         String[] data = page.getParagraphs();
         for(String p : data)
             if(! p.equals(""))
-                singleStringProcessing(p, 'p');
+                singleStringProcessing(p, 'p', doc_id);
 
         // for <li>     ( list item  )
         data = page.getListItems();
         for(String li : data)
-            singleStringProcessing(li, 'p');
+            singleStringProcessing(li, 'p', doc_id);
 
         // for <td>     ( table data )
         data = page.getTableData();
         for(String li : data)
-            singleStringProcessing(li, 'p');
+            singleStringProcessing(li, 'p', doc_id);
 
     }
 
@@ -188,14 +189,14 @@ public class Indexer {
     // remove non-important symbols
     private String removeSymbols(String str)
     {
-        ////////////// Karim ///////////////
-        str = str.replaceAll("[~@#$%^&*(){}|_+:,.!;/1234567890]", "");  // replaced with a space, to use the space as a separator in splitting the string
+        // Karim --> more symbols [] \
+        str = str.replaceAll("[~@#$%^&*(){}|+:,.!;/1234567890]", "");  // replaced with a space, to use the space as a separator in splitting the string
         str = str.replaceAll("\\s+", "&");  // remove spaces
         return str;
     }
 
     // add to the file
-    // NOTE : info must be = doc_ic,h or p;
+    // NOTE : info must be = doc_ic,h or p;    Karim --> this function must be synchronized
     public void addToFile(String word, char fileName, String info) throws IOException  // fileName is the first letter
     {
         String filePath = System.getProperty("user.dir") + File.separator + "InvertedFiles" + File.separator + fileName + ".txt";
