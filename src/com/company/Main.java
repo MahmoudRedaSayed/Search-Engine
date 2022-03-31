@@ -28,16 +28,16 @@ public class Main {
 //        UrlThread.Limit+=DataBaseObject.getCompleteCount();
 //        System.out.printf(" the limit %d",UrlThread.Limit);
 
-        Thread ThreadsArray[]=new Thread[36];
+        Thread ThreadsArray[]=new Thread[43];
         ThreadsArray[0]=Thread.currentThread();
         ThreadsArray[0].setName("Thread1");
-        for(int i=1;i<36;i++)
+        for(int i=1;i<43;i++)
         {
             ThreadsArray[i] = new Thread(new UrlThread());
             ThreadsArray[i].setName("Thread" + (i+1));
             ThreadsArray[i].start();
         }
-        for(int i=1;i<36;i++)
+        for(int i=1;i<43;i++)
         {
 
             try {

@@ -175,7 +175,6 @@ public class UrlThread implements  Runnable {
                 if(numRead!=-1)
                 {
                     strCommands = new String(b, 0, numRead);
-//                    https://www.javatpoint.com/robots.txt
                 }
                 else
                 {
@@ -409,8 +408,22 @@ public class UrlThread implements  Runnable {
                     // call function to insert the link into the database
                     if (!(ParentId==-1))
                     {
-                            IncrementInserted();
-                            DataBaseObject.createLink(Url, Layer, Thread.currentThread().getName(), ParentId);
+                        boolean found=false;
+                        ResultSet data =DataBaseObject.getUrls2(Url);
+                        try {
+                            while (data != null && data.next()) {
+                                found = true;
+                            }
+                            if (!found) {
+                                DataBaseObject.createLink(Url, Layer, Thread.currentThread().getName(), ParentId);
+                                IncrementInserted();
+
+                            }
+                        }
+                        catch( SQLException e)
+                        {
+
+                        }
                     }
                     int parentId = 0;
                     parentId = DataBaseObject.getId(Url, Thread.currentThread().getName());
@@ -426,6 +439,7 @@ public class UrlThread implements  Runnable {
                         int counter = 0;
                         try {
                             // loop on the links
+
                             Document doc = Jsoup.connect(Url).get();
 
                             // call function
@@ -460,9 +474,17 @@ public class UrlThread implements  Runnable {
                                         }
                                     }
                                     if (Limit < 5000 && result != "-1"&&!forbidden) {
+                                        try {
+                                            if (!DataBaseObject.getUrls2(result).next())
+                                                IncrementLimit();
+
                                             linkProcessing(result, Layer + 1, counter, parentId);
-                                            IncrementLimit();
                                             counter++;
+                                            }
+                                        catch( SQLException e)
+                                            {
+
+                                            }
 //                                      }
 
                                     } else if (Limit >= 5000) {

@@ -95,6 +95,17 @@ public class DataBase {
             return null;
         }
     }
+    public synchronized ResultSet getUrls2(String Url)
+    {
+        try{
+            return this.stmt.executeQuery("SELECT * FROM links WHERE Link='"+Url+"'");
+        }
+        catch(SQLException e)
+        {
+            System.out.println(e);
+            return null;
+        }
+    }
 
     public synchronized int getId (String Url,String ThreadName)
     {
@@ -122,9 +133,10 @@ public class DataBase {
             ResultSet resultSet= this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+";");
             while(resultSet.next())
             {
-                return this.stmt.executeQuery("SELECT Link , LinkParent FROM links WHERE Layer= "+Layer+" AND ThreadName='"+ThreadName+"' AND LinkParent="+resultSet.getInt("LinkParent")+";");
+                if(resultSet.getInt("LinkParent")!=-1)
+                return this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent FROM links as e , links as k WHERE e.Layer= "+Layer+" AND e.ThreadName='"+ThreadName+"' AND k.Id=e.LinkParent;");
             }
-            return null;
+            return this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+";");
             }
         catch(SQLException e)
         {
