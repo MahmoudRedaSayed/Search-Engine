@@ -5,8 +5,11 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.*;
-
 public class Indexer {
 
     private PageParsing page;
@@ -34,8 +37,9 @@ public class Indexer {
     }
 
     // Indexing Function ( the most important one )
-    public void startIndexing()
+    public void startIndexing(String url)
     {
+        this.setPage(url);
         titleProcessing();
         headingProcessing();
         paragraphProcessing();
@@ -52,16 +56,17 @@ public class Indexer {
     }
 
     // get Urls from Data Base
-    private void getUrls()
+    private void setUrls()
     {
-        // get it from database         <<< Karim >>>
+        // get it from database
     }
 
     // setter for the page           ( will be modified )
-    public void setPage(String url) {
+    private void setPage(String url) {
         try {
             page.parseDocument(url);
         } catch (IOException e) {
+            System.out.println("Error in setting the URL (Error Location : Class Indexer --> setPage function\n");
             e.printStackTrace();
         }
     }
@@ -89,7 +94,7 @@ public class Indexer {
     }
 
     // String Processing
-    private void singleStringProcessing(String str, char tag) // tag --> ('t' = page title, 'h' = "heading", 'p' = "paragraph)
+    private void singleStringProcessing(String str, char tag)    // tag --> ('t' = page title, 'h' = "heading", 'p' = "paragraph)
     {
         // remove stop words
         str = removeSymbols(str);
@@ -114,16 +119,19 @@ public class Indexer {
                 titleWords.remove(i);
                 i--;
                 size--;
+                continue;
             }
 
-            // prepare the info of the word ( doc_id, position, paragraph or heading)
-            wordInfo = tempWord;        // just for testing, will be changed later
+            // prepare the info of the word ( doc_id, paragraph or heading)
+            wordInfo = "1:" + tag + ';';
 
             // insert the word into the file
             try {
                 addToFile(tempWord, tempWord.charAt(0), wordInfo);
+
             }
             catch (IOException e) {
+                System.out.println("Error in adding ( "+ tempWord + '|' + wordInfo +" ) to its inverted file ");
                 e.printStackTrace();
             }
         }
@@ -133,8 +141,7 @@ public class Indexer {
     private void titleProcessing()
     {
         String title = page.getTitleTag();
-
-        singleStringProcessing(title, 'p');
+        singleStringProcessing(title, 't');
     }
 
     // headings processing  ( h1, h2, h3 )
@@ -152,7 +159,8 @@ public class Indexer {
         // for <p> tags
         String[] data = page.getParagraphs();
         for(String p : data)
-            singleStringProcessing(p, 'p');
+            if(! p.equals(""))
+                singleStringProcessing(p, 'p');
 
         // for <li>     ( list item  )
         data = page.getListItems();
@@ -178,26 +186,56 @@ public class Indexer {
     }
 
     // remove non-important symbols
-    private String removeSymbols(String str)       // NOTE : pass str by ref
+    private String removeSymbols(String str)
     {
-        str = str.replaceAll("[:,!%;/]", "");  // replaced with a space, to use the space as a separator in splitting the string
+        ////////////// Karim ///////////////
+        str = str.replaceAll("[~@#$%^&*(){}|_+:,.!;/1234567890]", "");  // replaced with a space, to use the space as a separator in splitting the string
         str = str.replaceAll("\\s+", "&");  // remove spaces
         return str;
     }
 
-    // ######################################## Karim ##################################################
     // add to the file
-    private void addToFile(String word, char fileName, String info) throws IOException  // fileName is the first letter
+    // NOTE : info must be = doc_ic,h or p;
+    public void addToFile(String word, char fileName, String info) throws IOException  // fileName is the first letter
     {
-        // insert into the file
-        FileWriter write = new FileWriter(HelperClass.invertedFilePath(fileName));
+        String filePath = System.getProperty("user.dir") + File.separator + "InvertedFiles" + File.separator + fileName + ".txt";
 
-        // check if the word is already exist in the file or not
-        /*
-        code
-        */
-        write.close();
+        // check if the word is already exists or not
+        File workingFile = this.invertedFiles.get(fileName);
+        Scanner read = new Scanner(workingFile);
+        String tempInput;
+        while(read.hasNextLine())
+        {
+            tempInput = read.nextLine();
 
+            // check if this line is for a word or just an extension for the previous line
+            // System.out.println(tempInput);
+            if (tempInput.charAt(0) == '/')
+            // compare to check if this word = ourWord ?
+            {
+                // get the word
+                tempInput = HelperClass.isExistingInFile(word, workingFile);
+
+                if (! tempInput.equals(""))       // the word is already exists
+                {
+                    // replace this line in the file
+                    Path path = Paths.get(filePath);
+                    HelperClass.replaceLineInFile(path, tempInput, tempInput + info);
+
+                }else               // then, this is the first time to add this word
+                {
+                    FileWriter myWriter = new FileWriter(filePath, true);   // true to activate the appending mode
+                    myWriter.write('/' + word + '|' + info + '\n');
+                    myWriter.close();
+                }
+            }
+            return;
+        }
+
+        // if don't return, then the file was empty --> so this is the first line to insert in it
+        FileWriter myWriter = new FileWriter(filePath);
+        myWriter.write('/' + word + '|' + info + '\n');
+        myWriter.close();
     }
 
     // stem the word using Porter Stemmer Lib
