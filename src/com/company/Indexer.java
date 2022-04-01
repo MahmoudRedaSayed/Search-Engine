@@ -197,7 +197,7 @@ public class Indexer {
 
     // add to the file
     // NOTE : info must be = doc_ic,h or p;    Karim --> this function must be synchronized
-    public void addToFile(String word, char fileName, String info) throws IOException  // fileName is the first letter
+    private void addToFile(String word, char fileName, String info) throws IOException  // fileName is the first letter
     {
         String filePath = System.getProperty("user.dir") + File.separator + "InvertedFiles" + File.separator + fileName + ".txt";
 
