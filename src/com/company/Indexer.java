@@ -101,23 +101,23 @@ public class Indexer {
         str = removeSymbols(str);
 
         // explode the title
-        List<String> titleWords = new ArrayList<>(List.of(str.split("&", 0)));
+        List<String> stringWords = new ArrayList<>(List.of(str.split("&", 0)));
 
         // stemming & storing into the file
         String wordInfo,tempWord;
 
-        int size = titleWords.size();
+        int size = stringWords.size();
 
         for (int i = 0; i < size; i++)
         {
-            tempWord = titleWords.get(i);
+            tempWord = stringWords.get(i);
             // stemming the words
-            tempWord = stemTheWord(tempWord);
+            //tempWord = stemTheWord(tempWord);
 
             // check if it is a stopping word
             if (isStopWord(tempWord))
             {
-                titleWords.remove(i);
+                stringWords.remove(i);
                 i--;
                 size--;
                 continue;
@@ -148,10 +148,18 @@ public class Indexer {
     // headings processing  ( h1, h2, h3 )
     private void headingProcessing(String doc_id)
     {
+        // Headers
         String[] headings = page.getHeaders();
 
         for(String header : headings)
             singleStringProcessing(header, 'h', doc_id);
+
+        // <strong>
+        String[] strongs = page.getStrongs();
+
+        for(String strong : strongs)
+            singleStringProcessing(strong, 's', doc_id);
+
     }
 
     // paragraph processing
