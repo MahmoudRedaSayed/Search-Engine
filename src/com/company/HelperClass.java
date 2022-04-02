@@ -1,6 +1,9 @@
 package com.company;
 
+import org.tartarus.snowball.ext.PorterStemmer;
+
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
@@ -31,6 +34,8 @@ public class HelperClass {
         while(read.hasNextLine())
         {
             tempInput = read.nextLine();
+            if (tempInput.equals(""))
+                continue;
 
             // check if this line is for a word or just an extension for the previous line
             if (tempInput.charAt(0) == '/')
@@ -68,7 +73,13 @@ public class HelperClass {
         Files.write(path, fileContents, StandardCharsets.UTF_8);
     }
 
-
-
+    // stem the word using Porter Stemmer Lib
+    public static String stemTheWord(String word)
+    {
+        PorterStemmer stemObject = new PorterStemmer();
+        stemObject.setCurrent(word);
+        stemObject.stem();
+        return stemObject.getCurrent();
+    }
 
 }

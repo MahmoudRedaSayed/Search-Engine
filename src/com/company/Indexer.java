@@ -112,7 +112,7 @@ public class Indexer {
         {
             tempWord = stringWords.get(i);
             // stemming the words
-            //tempWord = stemTheWord(tempWord);
+            //tempWord = HelperClass.stemTheWord(tempWord);
 
             // check if it is a stopping word
             if (isStopWord(tempWord))
@@ -247,11 +247,11 @@ public class Indexer {
         myWriter.close();
     }
 
-    // stem the word using Porter Stemmer Lib
+    /*// stem the word using Porter Stemmer Lib
     private String stemTheWord(String word)
     {
         stemObject.setCurrent(word);
         stemObject.stem();
         return stemObject.getCurrent();
-    }
+    }*/
 }
