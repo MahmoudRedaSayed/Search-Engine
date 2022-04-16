@@ -1,4 +1,4 @@
-package Crawler;
+package CrawlerPackages.Crawler;
 
 public class RobotRule {
     public String userAgent;

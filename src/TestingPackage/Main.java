@@ -2,10 +2,10 @@ package TestingPackage;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-import Crawler.UrlThread;
-import DataBase.DataBase;
-import Helpers.WorkingFiles;
-import Indexer.Indexer;
+import CrawlerPackages.Crawler.UrlThread;
+import DataBasePackages.DataBase.DataBase;
+import HelpersPackages.Helpers.WorkingFiles;
+import IndexerPackages.Indexer.Indexer;
 
 public class Main {
 

@@ -1,7 +1,7 @@
-package Indexer;
+package IndexerPackages.Indexer;
 
-import Helpers.HelperClass;
-import Helpers.WorkingFiles;
+import HelpersPackages.Helpers.HelperClass;
+import HelpersPackages.Helpers.WorkingFiles;
 
 import java.io.File;
 import java.io.FileNotFoundException;

@@ -1,4 +1,4 @@
-package Helpers;
+package HelpersPackages.Helpers;
 
 import org.tartarus.snowball.ext.PorterStemmer;
 
