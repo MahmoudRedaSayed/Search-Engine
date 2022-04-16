@@ -5,6 +5,7 @@ import java.io.FileNotFoundException;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
+import java.util.Vector;
 
 public class WorkingFiles {
     private Map<Character, File> invertedFiles;
@@ -59,10 +60,38 @@ public class WorkingFiles {
     }
 
     // get stop words
-    public String[] getStopWords()
+    public String[] getStopWordsAsArr()
     {
         return stopWords;
     }
+
+    // get stop words
+    public Map<Character, Vector<String>> getStopWordsAsMap()
+    {
+        // hold stop words in arr
+        String[] myStopWords = this.getStopWordsAsArr();
+
+        // creating Map
+        Map<Character, Vector<String>> wordsMap = new HashMap<>();
+        String letters = "qwertyuiopasdfghjklzxcvbnm'";
+        // initialize map
+        for (int i = 0; i < 27; i++){
+
+            wordsMap.put(letters.charAt(i), new Vector<String>());
+        }
+
+        // fill the map
+        int x = 0;
+        for (String word : myStopWords)
+        {
+            if (wordsMap.get(word.charAt(0)) != null)
+                wordsMap.get(word.charAt(0)).add(word);
+        }
+
+        return wordsMap;
+    }
+
+
 
     // get inverted files
     public Map<Character, File> getInvertedFiles()

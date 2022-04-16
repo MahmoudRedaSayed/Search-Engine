@@ -18,12 +18,15 @@ public class Indexer implements Runnable {
     // private String[] Documents;
     private Map<Character, File> invertedFiles;
     //private PorterStemmer stemmingObject;
-    private String[] stopWords;
+    //private String[] stopWords;
+    private Map<Character, Vector<String>> stopWords;
+
     // constructor
     public Indexer(String url, String urlId, WorkingFiles filesReference)
     {
         // initialization
         page = new PageParsing();
+        stopWords = new HashMap<>();
         //invertedFiles = new HashMap<Character, File>();
         //stemmingObject = new PorterStemmer();
         /*initializeFiles();
@@ -33,7 +36,8 @@ public class Indexer implements Runnable {
             System.out.println("Failed to open Stop words file");
             e.printStackTrace();
         }*/
-        stopWords     = filesReference.getStopWords();
+        //stopWords     = filesReference.getStopWordsAsArr();
+        stopWords     = filesReference.getStopWordsAsMap();
         invertedFiles = filesReference.getInvertedFiles();
         // set some needed info
         myInfo = new String[2];
@@ -85,13 +89,13 @@ public class Indexer implements Runnable {
     }
 
     // read the stop words
-    private void readStopWords() throws FileNotFoundException {
+ /*   private void readStopWords() throws FileNotFoundException {
         // open the file that contains stop words
         String filePath = System.getProperty("user.dir");   // get the directory of the project
         filePath += File.separator + "helpers" + File.separator + "stop_words.txt";
         File myFile = new File(filePath);
 
-        this.stopWords = new String[851];
+        //this.stopWords = new String[851];
 
         // read from the file
         Scanner read = new Scanner(myFile);
@@ -100,11 +104,11 @@ public class Indexer implements Runnable {
         while(read.hasNextLine())
         {
             tempInput = read.nextLine();
-            stopWords[counter++] = tempInput;
+            //stopWords[counter++] = tempInput;
         }
         read.close();
 
-    }
+    }*/
 
     // String Processing
     private void singleStringProcessing(String str, char tag, String doc_ic)    // tag --> ('t' = page title, 'h' = "heading", 'p' = "paragraph)
@@ -197,13 +201,14 @@ public class Indexer implements Runnable {
 
     // checking whether stop word or not
     private boolean isStopWord(String word){
-        int size = stopWords.length;
+        /*int size = stopWords.length;
 
         for(int i = 0; i < size; i++)
             if (stopWords[i].equals(word))
                 return true;
 
-        return false;
+        return false;*/
+        return stopWords.get(word.charAt(0)).contains(word);
     }
 
     // remove non-important symbols
