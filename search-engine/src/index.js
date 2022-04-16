@@ -3,16 +3,16 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from "./App"
 import SearchPage from './Components/SearchPage';
-import {BrowserRouter,Route,Link} from "react-router-dom"
+import {BrowserRouter,Route,Link,useParams} from "react-router-dom"
 import ResultPage from './Components/ResultsPage';
 
 
 
 ReactDOM.render(
   <div>
-    <App></App>
-    {/* <Route path="/" exact component={SearchPage} />
-    <Route path="/results" exact component={ResultPage} /> */}
+    <BrowserRouter >
+        <App></App>
+    </ BrowserRouter >
   </div>
     ,document.getElementById('root')
 );

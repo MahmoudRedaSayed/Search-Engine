@@ -3,10 +3,10 @@ import ReactDOM from 'react-dom';
 import Navbar from './Navbar';
 import SearchBlock from './SearchBlock';
 import Background from './Background';
+import { useParams,useNavigate } from 'react-router-dom';
 
 
-class SearchPage extends Component{
-    render(){
+function SearchPage (){
         return(
 
             <div>
@@ -16,6 +16,5 @@ class SearchPage extends Component{
             </div>
 
         );
-    }
 }
 export default SearchPage

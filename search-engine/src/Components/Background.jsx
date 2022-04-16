@@ -6,8 +6,7 @@ import img1 from "../Image/slider01.jpg";
 import img2 from "../Image/slider02.jpg";
 import img3 from "../Image/slider03.jpg";
 
-class Background extends Component{
-    render(){
+function Background (){
 
         return(
 <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
@@ -49,6 +48,5 @@ class Background extends Component{
   </div>
 </div>
         )
-    }
 }
 export default Background;

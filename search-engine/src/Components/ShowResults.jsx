@@ -12,8 +12,19 @@ class Results extends Component{
             PagesNumbers:[],
             CurrentPage:1,
             PagePosts:[],
+            query:this.props.query,
+            queryArray:[],
         };
         componentDidMount(){
+            fetch(" http://localhost:8000/History").then(response=>{
+                if(response.ok)
+                {
+                    return response.json();
+                }
+                }).then(data=>{
+                console.log(data);
+                this.setState({query:data.currentSearch});
+            })
             fetch("/api").then(response=>{
                 if(response.ok)
                 {
@@ -32,6 +43,7 @@ class Results extends Component{
                 let FirstIndex= LastIndex-this.state.ResultsPerPage;
                 const Posts=this.state.Results.slice(FirstIndex,LastIndex);
                 this.setState({PagePosts:Posts});
+                console.log(data);
             })
             
         }

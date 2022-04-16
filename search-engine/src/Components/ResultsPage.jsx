@@ -2,17 +2,18 @@ import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import Navbar from './Navbar';
 import Result from './ShowResults';
+import {useParams} from "react-router-dom";
 
 
-class ResultPage extends Component{
-    render(){
+function ResultPage(){
+let {query}= useParams();
+console.log(query);
         return(
 
             <div>
                 <Navbar showField={true}></Navbar>
-                <Result></Result>
+                <Result query={query} ></Result>
             </div>
         );
-    }
 }
 export default ResultPage

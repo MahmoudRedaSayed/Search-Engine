@@ -2,26 +2,16 @@ import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import SearchPage from './Components/SearchPage';
-import {BrowserRouter,Route,Link} from "react-router-dom"
+import {Route,Link,Routes} from "react-router-dom"
 import ResultPage from './Components/ResultsPage';
 
-
-
-class App extends Component{
-    render(){
+function App (){
         return(
-            // <BrowserRouter >
-            //     <Route path="/home" exact >
-            //         <SearchPage></SearchPage>
-            //     </Route>
-            //     <Route path="/results" exact  >
-            //         <ResultPage></ResultPage>
-            //     </Route>
-            // </ BrowserRouter >
-            <SearchPage></SearchPage>
-            // <ResultPage></ResultPage>
+            < Routes>
+                <Route path="/K3M" exact element={<SearchPage />}/>
+                <Route path="K3M/Results/:query"  element={<ResultPage/>} />
+            </Routes>
 
         );
-    }
 }
-export default App
+export default App;
