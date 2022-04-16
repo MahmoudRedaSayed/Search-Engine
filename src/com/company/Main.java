@@ -16,9 +16,10 @@ public class Main {
 
     public static void main(String[] args) {
 
-//        Thread ThreadsArray=new Thread(new UrlThread());
-//        ThreadsArray.setName("Thread1");
-//        ThreadsArray.start();
+        Thread ThreadsArray=new Thread(new UrlThread());
+        Thread.currentThread().setName("Thread1");
+        ThreadsArray.setName("Thread2");
+        ThreadsArray.run();
 ////        Thread ThreadsArray2=new Thread(new UrlThread());
 //        ThreadsArray2.setName("Thread2");
 //        ThreadsArray2.start();
@@ -28,24 +29,24 @@ public class Main {
 //        UrlThread.Limit+=DataBaseObject.getCompleteCount();
 //        System.out.printf(" the limit %d",UrlThread.Limit);
 
-        Thread ThreadsArray[]=new Thread[43];
-        ThreadsArray[0]=Thread.currentThread();
-        ThreadsArray[0].setName("Thread1");
-        for(int i=1;i<43;i++)
-        {
-            ThreadsArray[i] = new Thread(new UrlThread());
-            ThreadsArray[i].setName("Thread" + (i+1));
-            ThreadsArray[i].start();
-        }
-        for(int i=1;i<43;i++)
-        {
-
-            try {
-                ThreadsArray[i].join();
-            } catch (InterruptedException e) {
-
-            }
-        }
+//        Thread ThreadsArray[]=new Thread[43];
+//        ThreadsArray[0]=Thread.currentThread();
+//        ThreadsArray[0].setName("Thread1");
+//        for(int i=1;i<43;i++)
+//        {
+//            ThreadsArray[i] = new Thread(new UrlThread());
+//            ThreadsArray[i].setName("Thread" + (i+1));
+//            ThreadsArray[i].start();
+//        }
+//        for(int i=1;i<43;i++)
+//        {
+//
+//            try {
+//                ThreadsArray[i].join();
+//            } catch (InterruptedException e) {
+//
+//            }
+//        }
 
 //        try {
 //            ThreadsArray.join();

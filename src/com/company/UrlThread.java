@@ -41,23 +41,29 @@ import org.jsoup.select.Elements;
 
 
 * Data member:
-    1-Limit : it is Static data member used to count the number of the urls visited and to stop the crawler
-    * Small hint : if the Crawling is interrupted i will know the position of the interrruption by using the Layer and FirstUrl
-        2-FirstUrl: it is the first url must be visit to crawling the data it is retriving from the database
-        3-Layer : to know the layer of the Thread to start from it by using the FirstUrl
+    //
 
 *Functions :
     1-run
     2-incrementLimit
-    3-linkProcessing
+    3-getLimit
+    4-DisallowedCheck
+    5-Normalized
+    6-linkProcessing
+    7-robotSafe
 * */
 
 public class UrlThread implements  Runnable {
 
     //--------------------- The Data Members-------------------------//
     public static int Limit=0;
-    private  int FirstUrl;
     public static int inserted=0;
+    private  int FirstUrlLayer1;
+    private  int FirstUrlLayer2;
+    private  int FirstUrlLayer3;
+    private String parentLink=new String("");
+    private String grandLink=new String("");
+    private String currentLink=new String("");
     private int layer;
     private DataBase DataBaseObject;
     //---------------------------------------------------------------//
@@ -72,6 +78,7 @@ public class UrlThread implements  Runnable {
     {
         System.out.printf("From the constructor\n");
         DataBaseObject=new DataBase();
+        Limit+=DataBaseObject.getCompleteCount();
     }
     //---------------------------------------------------------------//
 
@@ -98,21 +105,33 @@ public class UrlThread implements  Runnable {
             int Layer1=-1;
             while(Position.next())
             {
-                FirstUrl=Position.getInt("UrlIndex");
+                FirstUrlLayer1=Position.getInt("UrlIndex");
+                FirstUrlLayer2=Position.getInt("UrlIndex1");
+                FirstUrlLayer3=Position.getInt("UrlIndex2");
                 Layer1=Position.getInt("Layer");
-                System.out.printf("get the link1 %d %d\n",FirstUrl,Layer1);
             }
-            ResultSet ParentData=DataBaseObject.getParentUrl(Thread.currentThread().getName(),Layer1,FirstUrl);
+            parentLink="";grandLink="";currentLink="";
+            ResultSet ParentData=DataBaseObject.getParentUrl(Thread.currentThread().getName(),parentLink,grandLink,currentLink,Layer1);
             String ParentLink="";
-            int ParentId=-1;
+            int Id=-1;
             while(ParentData!=null&&ParentData.next())
             {
-                ParentLink=ParentData.getString("Link");
-                ParentId=ParentData.getInt("LinkParent");
+                Id=ParentData.getInt("LinkParent");
+                Layer1=ParentData.getInt("Layer");
+            }
+            if(Layer1==1)
+            {
+                linkProcessing(grandLink,Layer1,FirstUrlLayer1,FirstUrlLayer2,FirstUrlLayer3,Id);
+            }
+            else if(Layer1==2)
+            {
+                linkProcessing(parentLink,Layer1,FirstUrlLayer1,FirstUrlLayer2,FirstUrlLayer3,Id);
+            }
+            else
+            {
+                linkProcessing(currentLink,Layer1,FirstUrlLayer1,FirstUrlLayer2,FirstUrlLayer3,Id);
             }
 
-
-            linkProcessing(ParentLink,Layer1,FirstUrl,ParentId);
         }
     catch(SQLException e)
         {
@@ -125,16 +144,23 @@ public class UrlThread implements  Runnable {
 
 
 
-    //--------------------------Function IncrementLimit--------------------------//
+    //--------------------------Function IncrementLimit and getLimit----------------------------------------------------//
     /*
         * Explanation:
-            This function static function  will increment the Limit and it will be Synchronized Function
+            This two functions static functions  responsible for the Limit
     */
     public static synchronized void IncrementLimit()
     {
         UrlThread.Limit++;
     }
-    //---------------------------------------------------------------//
+
+    public static synchronized int getLimit()
+    {
+        return UrlThread.Limit;
+    }
+    //------------------------------------------------------------------------------------------------------------------//
+
+
     public static synchronized void IncrementInserted()
     {
         UrlThread.inserted++;
@@ -142,11 +168,7 @@ public class UrlThread implements  Runnable {
 
 
 
-    //--------------------------Function Normalized an repeated--------------------------//
-    /*
-        * Explanation:
 
-    */
         public static ArrayList<String> robotSafe(String url1,ArrayList<String> Allowed)  {
             System.out.println(Thread.currentThread().getName());
             ArrayList<String> Disallowed = new ArrayList<>();
@@ -272,7 +294,11 @@ public class UrlThread implements  Runnable {
             }
             return Disallowed;
         }
+    //--------------------------Function Normalized an repeated--------------------------//
+    /*
+     * Explanation:
 
+     */
     public String Normalized(String Url)
     {
         URL url = null;
@@ -378,33 +404,47 @@ public class UrlThread implements  Runnable {
     }
     //---------------------------------------------------------------//
 
-
-
-    //--------------------------Function linkProcessing--------------------------//
+    //------------------------------------------------------------------------------------------------------------------//
     /*
-        * Explanation:
-            This function will check first if the Limit is equal to 5000 or not
-            then is the Limit equal to 5000 the current thread will be interrupted and terminated and will set the position of the Thread to layer and Urlindex to zero
-            then if not it will set the position of the current Thread in the database
-            then will check if the current link if repeated or not or normalized
-            if not will call function to insert the link in the database
-            and then will create object from Document called 'doc'  to use it in retriving the page content
-            and then extract the important things from the page
-            and then will extract the links from the page
-            and then will check if the current layer is less than or equal 2 or not to limit the Number of layers to Three Layers
-            if less than or equal will loop on the links and call recursively function linkProcessing
-            the checking if the FirstUrl is =0 or not to reach the target link if it is interrupted
-            The counter variable to set the Index in the Function to Know the position of the Thread
-            and then after the loop will mark the url as Completed
-    */
-    public synchronized void linkProcessing(String Url,int Layer,int Index,int ParentId)
-    {
-        if(Limit<5000)
+    * Explanation:-
+    *   is responsible for checking if the link is available by the robot.txt or not , and it returns boolean variable
+    * */
+    public boolean DisallowedCheck(ArrayList<String> Disallowed,ArrayList<String> Allowed,String link){
+        for(int i=0;i<Disallowed.size();i++)
         {
-            // query to set the current layer and the current index
-            DataBaseObject.setThreadPosition(Thread.currentThread().getName(), Layer, Index);
+            if(link.contains(Disallowed.get(i)))
+            {
+                for(int j=0;j<Allowed.size();j++)
+                {
+                    if(link.contains(Disallowed.get(i)))
+                    {
+                        return false;
+                    }
+                }
+                return true;
+            }
+        }
+        return false;
+    }
+    //------------------------------------------------------------------------------------------------------------------//
 
-            // query to check if the current link is not repeated or not  and if it is normalized by using one function
+
+    //--------------------------Function linkProcessing-----------------------------------------------------------------//
+    /*
+    * Explanation:-
+    *   this function is responsible for the extracting the links and manage the limit of the links
+    * */
+    public synchronized void linkProcessing(String Url,int Layer,int Index1,int Index2,int Index3,int ParentId)
+    {
+        //-----------------------------------------------------------------------------------------------------------------//
+        /*
+        * Explanation:-
+        *   This block of code will ckeck if the link is in layer 1 or not
+        *   and will ckeck if the link is exist or not and the existence of the link here (mean in this block ) means that is interrupted
+        *   if the link is not exist it will insert the link in the database
+        *   and then get the id of the inserted link to use it in the parent link with the child
+        * */
+        // query to check if the current link is not repeated or not  and if it is normalized by using one function
                     // call function to insert the link into the database
                     if (!(ParentId==-1))
                     {
@@ -427,71 +467,143 @@ public class UrlThread implements  Runnable {
                     }
                     int parentId = 0;
                     parentId = DataBaseObject.getId(Url, Thread.currentThread().getName());
-                    System.out.printf("parentid %d \n",parentId);
+        //-----------------------------------------------------------------------------------------------------------------//
 
 
-                    // call connect the current url and get the content
 
-                    //check if the current layer is 2 or less than to go to the next layer if not i will stop
-                    if (Layer <= 2) {
+        //-----------------------------------------------------------------------------------------------------------------//
+        /*
+        * explanation:-
+        *   we will divide the code into three layers to handle the interrupt part
+        *   and it will help to know which variable i will use to skip the completed links in every Layer
+        *       the interruption handling:-
+        *           Layer one : will use the grandLink (which means Grand parent Link) and will use FirstUrl1 to skip the completed links
+        *           Layer two : will use the parentLink (which means Parent Link) and will use FirstUrl2 to skip the completed links
+        *           Layer three : will use the currentLink (which means the link in layer three) and will use FirstUrl3 to skip the completed links
+        * */
+                    if(Layer==1)
+                    {
+                        DataBaseObject.setThreadPosition(Thread.currentThread().getName(), Layer, Index1);
 
-                        // counter is used to count the number of the links in the array and to tell to me the current  position
                         int counter = 0;
                         try {
-                            // loop on the links
 
+                            //-----------------------------------------------------------------------------------------------------------------//
+                            // get the document and get the links from it
                             Document doc = Jsoup.connect(Url).get();
-
-                            // call function
-                            // get the urls from the site
                             Elements links = doc.select("a[href]");
+                            //-----------------------------------------------------------------------------------------------------------------//
+
+                            //-----------------------------------------------------------------------------------------------------------------//
+                            // call function robotSafe
+                            // this part will be extracted from the robot.txt file the Allowed and Disallowed the Allowed will be sent by reference
                             ArrayList<String> Allowed=new ArrayList<>();
                             ArrayList<String> Disallowed = robotSafe(Url,Allowed);
+                            //-----------------------------------------------------------------------------------------------------------------//
 
                             boolean forbidden=false;
                             for (Element link : links)
                             {
-                                if (FirstUrl == 0) {
-                                    // check if the current link not contain zip string to avoid the links of the download
+                                if (FirstUrlLayer1 == 0) {
+
                                     String result = Normalized(link.attr("href"));
-//                                    System.out.println(links.toString());
 
-                                    for(int i=0;i<Disallowed.size();i++)
-                                    {
-                                        if(link.attr("href").contains(Disallowed.get(i)))
-                                        {
-                                            forbidden=true;
-                                            for(int j=0;j<Allowed.size();j++)
-                                            {
-                                                if(link.attr("href").contains(Disallowed.get(i)))
-                                                {
-                                                    forbidden=false;
-                                                    break;
-                                                }
-                                            }
-                                            System.out.printf("The link is forbiddent to enter the site  : %s + other link is   %s",link.attr("href"),Disallowed.get(i));
-                                            break;
-                                        }
-                                    }
-                                    if (Limit < 5000 && result != "-1"&&!forbidden) {
+                                    forbidden=DisallowedCheck(Disallowed,Allowed,link.attr("href"));
+
+                                    if (getLimit() < 5000 && result != "-1"&&!forbidden) {
                                         try {
-                                            if (!DataBaseObject.getUrls2(result).next())
-                                                IncrementLimit();
-
-                                            linkProcessing(result, Layer + 1, counter, parentId);
-                                            counter++;
-                                            }
-                                        catch( SQLException e)
+                                            //-----------------------------------------------------------------------------------------------------------------//
+                                            // this part to check if the link is inserted by another thread or not
+                                            ResultSet resultSet=DataBaseObject.getUrls2(link.attr("href"));
+                                            if (resultSet!=null&&resultSet.next())
                                             {
-
+                                                continue;
                                             }
-//                                      }
+                                            //-----------------------------------------------------------------------------------------------------------------//
 
-                                    } else if (Limit >= 5000) {
+                                            linkProcessing(result, Layer + 1, counter,Index2,Index3, parentId);
+                                            IncrementLimit();
+                                            counter++;
+                                        }
+                                        catch( Exception e)
+                                        {
+
+                                        }
+
+                                    } else if (getLimit() >= 5000) {
+                                        // query to set the layer and the index to 0 setThread Position
+                                        DataBaseObject.setThreadPosition(Thread.currentThread().getName(), -1, 0);
+                                        Thread.currentThread().interrupt();
                                         break;
                                     }
                                 } else {
-                                    FirstUrl--;
+                                    FirstUrlLayer1--;
+                                }
+                            }
+                            DataBaseObject.urlCompleted(Url);
+                        }
+                        catch (IOException e)
+                        {
+
+                        }
+
+
+                    }
+                    else if (Layer==2)
+                    {
+                        DataBaseObject.setThreadPosition(Thread.currentThread().getName(), Layer, Index2);
+
+                        int counter = 0;
+                        try {
+                            //-----------------------------------------------------------------------------------------------------------------//
+                            // get the document and get the links from it
+                            Document doc = Jsoup.connect(Url).get();
+                            Elements links = doc.select("a[href]");
+                            //-----------------------------------------------------------------------------------------------------------------//
+
+                            //-----------------------------------------------------------------------------------------------------------------//
+                            // call function robotSafe
+                            // this part will be extracted from the robot.txt file the Allowed and Disallowed the Allowed will be sent by reference
+                            ArrayList<String> Allowed=new ArrayList<>();
+                            ArrayList<String> Disallowed = robotSafe(Url,Allowed);
+                            //-----------------------------------------------------------------------------------------------------------------//
+
+                            boolean forbidden=false;
+                            for (Element link : links)
+                            {
+                                if (FirstUrlLayer2 == 0) {
+                                    String result = Normalized(link.attr("href"));
+
+                                    forbidden=DisallowedCheck(Disallowed,Allowed,link.attr("href"));
+
+                                    if (getLimit() < 5000 && result != "-1"&&!forbidden) {
+                                        try {
+                                            //-----------------------------------------------------------------------------------------------------------------//
+                                            // this part to check if the link is inserted by another thread or not
+                                            ResultSet resultSet=DataBaseObject.getUrls2(link.attr("href"));
+                                            if (resultSet!=null&&resultSet.next())
+                                            {
+                                                continue;
+                                            }
+                                            //-----------------------------------------------------------------------------------------------------------------//
+
+                                            linkProcessing(result, Layer + 1,Index1, counter,Index3, parentId);
+                                            IncrementLimit();
+                                            counter++;
+                                        }
+                                        catch( Exception e)
+                                        {
+
+                                        }
+
+                                    } else if (getLimit() >= 5000) {
+                                        // query to set the layer and the index to 0 setThread Position
+                                        DataBaseObject.setThreadPosition(Thread.currentThread().getName(), -1, 0);
+                                        Thread.currentThread().interrupt();
+                                        break;
+                                    }
+                                } else {
+                                    FirstUrlLayer2--;
                                 }
                             }
                             DataBaseObject.urlCompleted(Url);
@@ -501,20 +613,77 @@ public class UrlThread implements  Runnable {
 
                         }
                     }
+                    else if(Layer==3)
+                    {
+                        DataBaseObject.setThreadPosition(Thread.currentThread().getName(), Layer, Index3);
+
+                        int counter = 0;
+                        try {
+                            //-----------------------------------------------------------------------------------------------------------------//
+                            // get the document and get the links from it
+                            Document doc = Jsoup.connect(Url).get();
+                            Elements links = doc.select("a[href]");
+                            //-----------------------------------------------------------------------------------------------------------------//
+
+                            //-----------------------------------------------------------------------------------------------------------------//
+                            // call function robotSafe
+                            // this part will be extracted from the robot.txt file the Allowed and Disallowed the Allowed will be sent by reference
+                            ArrayList<String> Allowed=new ArrayList<>();
+                            ArrayList<String> Disallowed = robotSafe(Url,Allowed);
+                            //-----------------------------------------------------------------------------------------------------------------//
+
+                            boolean forbidden=false;
+                            for (Element link : links)
+                            {
+                                if (FirstUrlLayer3 == 0) {
+                                    String result = Normalized(link.attr("href"));
+
+                                    forbidden=DisallowedCheck(Disallowed,Allowed,link.attr("href"));
+
+                                    if (getLimit() < 5000 && result != "-1"&&!forbidden) {
+                                        try {
+                                            //-----------------------------------------------------------------------------------------------------------------//
+                                            // this part to check if the link is inserted by another thread or not
+                                            ResultSet resultSet=DataBaseObject.getUrls2(link.attr("href"));
+                                            if (resultSet!=null&&resultSet.next())
+                                            {
+                                                continue;
+                                            }
+                                            //-----------------------------------------------------------------------------------------------------------------//
+
+                                            linkProcessing(result, Layer + 1,Index1 ,Index2,counter, parentId);
+                                            IncrementLimit();
+                                            counter++;
+                                        }
+                                        catch( Exception e)
+                                        {
+
+                                        }
+
+                                    } else if (getLimit() >= 5000) {
+                                        // query to set the layer and the index to 0 setThread Position
+                                        DataBaseObject.setThreadPosition(Thread.currentThread().getName(), -1, 0);
+                                        Thread.currentThread().interrupt();
+                                        break;
+                                    }
+                                } else {
+                                    FirstUrlLayer3--;
+                                }
+                            }
+                            DataBaseObject.urlCompleted(Url);
+                        }
+                        catch (IOException e)
+                        {
+
+                        }
+
+                    }
                     else
                     {
+                        // query mark the current link as completed and it if it over layer 3
                         DataBaseObject.urlCompleted(Url);
                     }
-                    // query mark the current link as completed
-        }
-        else
-        {
-            Thread.currentThread().interrupt();
-            // query to set the layer and the index to 0 setThread Position
-            DataBaseObject.setThreadPosition(Thread.currentThread().getName(), 0, 0);
-
-            System.out.printf("The limit  %d\n",Limit);
-            System.out.printf("The Inserted  %d\n",inserted);
-        }
     }
+    //------------------------------------------------------------------------------------------------------------------//
+
 }

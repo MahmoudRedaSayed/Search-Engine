@@ -34,8 +34,7 @@ public class DataBase {
                 { System.out.println(e);}
     }
 
-    // The CURD operations
-    // Creation to the link
+//--------------------------------------Create Link --------------------------------------------------------------------//
     public synchronized void createLink(String Link,int Layer,String ThreadName,int ParentId)
     {
         try{
@@ -46,8 +45,10 @@ public class DataBase {
                 System.out.println(e);
             }
     }
+//----------------------------------------------------------------------------------------------------------------------//
 
-    // Update
+// --------------------------------------Update Link to Complete -------------------------------------------------------//
+
     public synchronized void urlCompleted(String Link)
     {
         try{
@@ -58,25 +59,44 @@ public class DataBase {
                 System.out.println(e);
             }
     }
+//----------------------------------------------------------------------------------------------------------------------//
 
 
+// --------------------------------------Set and Get Thread Position -------------------------------------------------------//
 
     public synchronized void setThreadPosition(String ThreadName,int Layer,int Index)
     {
         try{
-           this.stmt.executeUpdate("UPDATE threads SET Layer="+Layer+" and UrlIndex="+Index+" WHERE ThreadName='"+ThreadName+"';");
+            if(Layer==1)
+            {
+                this.stmt.executeUpdate("UPDATE threads SET Layer="+Layer+" and UrlIndex="+Index+" WHERE ThreadName='"+ThreadName+"';");
+
+            }
+            else if (Layer==2)
+            {
+                this.stmt.executeUpdate("UPDATE threads SET Layer="+Layer+" and UrlIndex1="+Index+" WHERE ThreadName='"+ThreadName+"';");
+
+            }
+            else if (Layer==3)
+            {
+                this.stmt.executeUpdate("UPDATE threads SET Layer="+Layer+" and UrlIndex2="+Index+" WHERE ThreadName='"+ThreadName+"';");
+            }
+            else
+            {
+                this.stmt.executeUpdate("UPDATE threads SET Layer=1 and UrlIndex=0 and UrlIndex1=0 and UrlIndex2=0 WHERE ThreadName='"+ThreadName+"';");
+            }
         }
         catch(SQLException e)
         {
             System.out.println(e);
         }
     }
+
     public synchronized ResultSet getThreadPosition(String ThreadName)
     {
         try{
-            ResultSet Position=stmt.executeQuery("SELECT * FROM threads  where ThreadName='"+ThreadName+"'");
-
-           return this.stmt.executeQuery("SELECT Layer,UrlIndex FROM threads WHERE ThreadName='"+ThreadName+"'");
+            ResultSet resultSet=this.stmt.executeQuery("SELECT * FROM threads WHERE ThreadName='"+ThreadName+"'");
+           return resultSet;
         }
         catch(SQLException e)
         {
@@ -84,6 +104,8 @@ public class DataBase {
             return null;
         }
     }
+//----------------------------------------------------------------------------------------------------------------------//
+
     public synchronized ResultSet getUrls(String Url)
     {
         try{
@@ -95,6 +117,7 @@ public class DataBase {
             return null;
         }
     }
+//---------------------------------------------get the url similar to the url-------------------------------------------//
     public synchronized ResultSet getUrls2(String Url)
     {
         try{
@@ -106,6 +129,10 @@ public class DataBase {
             return null;
         }
     }
+// ---------------------------------------------------------------------------------------------------------------------//
+
+
+// --------------------------------------get the id of the link  -------------------------------------------------------//
 
     public synchronized int getId (String Url,String ThreadName)
     {
@@ -125,26 +152,73 @@ public class DataBase {
         }
         return -1;
     }
+//----------------------------------------------------------------------------------------------------------------------//
 
-    public synchronized ResultSet getParentUrl (String ThreadName,int Layer,int Index)
+//-----------------------------------------get the family of the link --------------------------------------------------//
+    public synchronized ResultSet getParentUrl (String ThreadName,String parentLink , String grandLink , String link,int Layer)
     {
         try{
-            System.out.println("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+";");
-            ResultSet resultSet= this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+";");
-            while(resultSet.next())
+            if(Layer==1)
             {
-                if(resultSet.getInt("LinkParent")!=-1)
-                return this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent FROM links as e , links as k WHERE e.Layer= "+Layer+" AND e.ThreadName='"+ThreadName+"' AND k.Id=e.LinkParent;");
+                System.out.printf("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+";");
+                ResultSet resultSet= this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+";");
+                while(resultSet.next())
+                {
+                    grandLink=resultSet.getString("Link");
+                }
+                return this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+";");
             }
-            return this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+";");
+            else if(Layer==2)
+            {
+                ResultSet resultSet= this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+";");
+                while(resultSet.next())
+                {
+                    resultSet=this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent , k.Layer FROM links as e , links as k WHERE e.Layer= "+Layer+" AND e.ThreadName='"+ThreadName+"' AND k.Id=e.LinkParent;");
+                    while(resultSet.next())
+                    {
+                        parentLink=resultSet.getString("Link");
+                        return resultSet;
+                    }
+
+                }
             }
+            else if (Layer==3)
+            {
+                ResultSet resultSet= this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+";");
+                while(resultSet.next())
+                {
+                    resultSet =this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent , k.Layer FROM links as e , links as k WHERE e.Layer= "+Layer+" AND e.ThreadName='"+ThreadName+"' AND k.Id=e.LinkParent;");
+                    while(resultSet.next())
+                    {
+                        parentLink=resultSet.getString("Link");
+                        Layer=resultSet.getInt("Layer");
+                        resultSet =this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent , k.Layer FROM links as e , links as k WHERE e.Layer= "+Layer+" AND e.ThreadName='"+ThreadName+"' AND k.Id=e.LinkParent;");
+                        while(resultSet.next())
+                        {
+                            grandLink=resultSet.getString("Link");
+                            return resultSet;
+                        }
+
+                    }
+
+
+                }
+            }
+        }
         catch(SQLException e)
         {
             System.out.println(e);
             return null;
 
         }
+        return null;
     }
+//----------------------------------------------------------------------------------------------------------------------//
+
+
+
+
+//------------------------------------------get the completed urls------------------------------------------------------//
     public synchronized int getCompleteCount ()
     {
         try
@@ -163,6 +237,8 @@ public class DataBase {
         }
         return 0;
     }
+//----------------------------------------------------------------------------------------------------------------------//
+
     public java.sql.Date getMaxDate ()
     {
         try
