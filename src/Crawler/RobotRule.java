@@ -1,4 +1,4 @@
-package com.company;
+package Crawler;
 
 public class RobotRule {
     public String userAgent;

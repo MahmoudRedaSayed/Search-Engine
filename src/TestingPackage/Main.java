@@ -1,18 +1,11 @@
-package com.company;
+package TestingPackage;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.time.format.DateTimeFormatter;
-import java.time.LocalDateTime;
-import java.util.ArrayList;
-import java.util.Date;
 
-import com.mysql.cj.x.protobuf.MysqlxDatatypes;
-
-import java.net.MalformedURLException;
-import java.net.URI;
-import java.net.URL;
-import java.net.URLDecoder;
-import java.net.URISyntaxException;
+import Crawler.UrlThread;
+import DataBase.DataBase;
+import Helpers.WorkingFiles;
+import Indexer.Indexer;
 
 public class Main {
 

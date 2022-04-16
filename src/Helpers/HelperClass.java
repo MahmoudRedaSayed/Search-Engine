@@ -1,4 +1,4 @@
-package com.company;
+package Helpers;
 
 import org.tartarus.snowball.ext.PorterStemmer;
 

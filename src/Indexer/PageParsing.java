@@ -1,4 +1,4 @@
-package com.company;
+package Indexer;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;

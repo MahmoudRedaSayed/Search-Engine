@@ -1,6 +1,7 @@
-package com.company;
+package Indexer;
 
-import Database.HelperClass;
+import Helpers.HelperClass;
+import Helpers.WorkingFiles;
 
 import java.io.File;
 import java.io.FileNotFoundException;

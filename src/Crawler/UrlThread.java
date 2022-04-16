@@ -1,4 +1,4 @@
-package com.company;
+package Crawler;
 
 //-------------------------- Imports Section--------------------------//
 import java.io.IOException;
@@ -17,6 +17,7 @@ import java.util.ArrayList;
 
 
 // Jsoup Imports
+import DataBase.DataBase;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
