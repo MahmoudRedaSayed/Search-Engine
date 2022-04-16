@@ -1,40 +1,51 @@
 package com.company;
 
-import org.tartarus.snowball.ext.PorterStemmer;
+import Database.HelperClass;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.nio.charset.StandardCharsets;
-import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.*;
-// Karim --> database & multiThreading&removeSymbols
-public class Indexer {
+
+public class Indexer implements Runnable {
 
     private PageParsing page;
-    private String[] Documents;
+    private String[] myInfo;        // to store the url and its id
+    // private String[] Documents;
     private Map<Character, File> invertedFiles;
-    private PorterStemmer stemObject;
+    //private PorterStemmer stemmingObject;
     private String[] stopWords;
-
     // constructor
-    public Indexer()
+    public Indexer(String url, String urlId, WorkingFiles filesReference)
     {
         // initialization
         page = new PageParsing();
-        invertedFiles = new HashMap<Character, File>();
-        stemObject = new PorterStemmer();
-        initializeFile();
+        //invertedFiles = new HashMap<Character, File>();
+        //stemmingObject = new PorterStemmer();
+        /*initializeFiles();
         try {
             readStopWords();
         } catch (FileNotFoundException e) {
             System.out.println("Failed to open Stop words file");
             e.printStackTrace();
-        }
-        // get the URLs from Database, store it in this.Documents
-        // Karim
+        }*/
+        stopWords     = filesReference.getStopWords();
+        invertedFiles = filesReference.getInvertedFiles();
+        // set some needed info
+        myInfo = new String[2];
+        myInfo[0] = url;
+        myInfo[1] = urlId;
+
+        System.out.println("My Page is : " + url);
+    }
+
+    // running function
+    public void run()
+    {
+        this.startIndexing(myInfo[0], myInfo[1]);
     }
 
     // Indexing Function ( the most important one )
@@ -47,7 +58,7 @@ public class Indexer {
     }
 
     // initialization
-    private void initializeFile()
+    private void initializeFiles()
     {
         String letters = "qwertyuiopasdfghjklzxcvbnm";
         for (int i = 0; i < 26; i++){
@@ -124,7 +135,7 @@ public class Indexer {
             }
 
             // prepare the info of the word ( doc_id, paragraph or heading)
-            wordInfo = "1:" + tag + ';';        // karim , set the doc_id
+            wordInfo = "[" + doc_ic + "," + tag + ']';
 
             // insert the word into the file
             try {
@@ -205,7 +216,7 @@ public class Indexer {
 
     // add to the file
     // NOTE : info must be = doc_ic,h or p;    Karim --> this function must be synchronized
-    private void addToFile(String word, char fileName, String info) throws IOException  // fileName is the first letter
+    private synchronized void addToFile(String word, char fileName, String info) throws IOException  // fileName is the first letter
     {
         String filePath = System.getProperty("user.dir") + File.separator + "InvertedFiles" + File.separator + fileName + ".txt";
 
@@ -227,14 +238,17 @@ public class Indexer {
 
                 if (! tempInput.equals(""))       // the word is already exists
                 {
+                    // check whether the info is already existing in the file --> ex: info : 1,t .... in the file [1,t,3]
+                    String theNewLine = updateInfoOfWord(tempInput, info);
+
                     // replace this line in the file
                     Path path = Paths.get(filePath);
-                    HelperClass.replaceLineInFile(path, tempInput, tempInput + info);
+                    HelperClass.replaceLineInFile(path, tempInput, theNewLine);
 
                 }else               // then, this is the first time to add this word
                 {
                     FileWriter myWriter = new FileWriter(filePath, true);   // true to activate the appending mode
-                    myWriter.write('/' + word + '|' + info + '\n');
+                    myWriter.write('/' + word + '|' + info + ":1;" + '\n');
                     myWriter.close();
                 }
             }
@@ -243,15 +257,50 @@ public class Indexer {
 
         // if don't return, then the file was empty --> so this is the first line to insert in it
         FileWriter myWriter = new FileWriter(filePath);
-        myWriter.write('/' + word + '|' + info + '\n');
+        myWriter.write('/' + word + '|' + info + ":1;" + '\n');
         myWriter.close();
+    }
+
+    // this function checks if the info is already exist or not,
+    // and if exists, just increment the counter of occurrences
+    String updateInfoOfWord(String line, String oldInfo) {
+
+        // substring the line to get the needed information
+        int separationIndex = line.indexOf('|');
+        String allInfo = line.substring(separationIndex + 1);
+
+        // explode the info
+        List<String> infoList = new ArrayList<>(List.of(allInfo.split(";", 0)));
+        String theNewInfo;
+
+        for (String info : infoList) {
+
+            // split the frequency counter from the info of the word
+            List<String> tempList = new ArrayList<>(List.of(info.split(":", 0)));
+
+            // check if the same info is existing or not
+            if (tempList.get(0).equals(oldInfo)) {
+                String frequency = tempList.get(1);
+                int integerFrequency = Integer.parseInt(frequency);
+                theNewInfo = tempList.get(0) + ":" + String.valueOf(integerFrequency + 1); /* convert the ( int freq + 1 ) to string here */
+                oldInfo = oldInfo + ":" + frequency;
+                line = line.replace(oldInfo , theNewInfo);
+                return line;
+            }
+        }
+
+        // if not returned, then the info is not exist
+        theNewInfo = oldInfo + ":1";
+        line += theNewInfo + ';';
+        return line;
+
     }
 
     /*// stem the word using Porter Stemmer Lib
     private String stemTheWord(String word)
     {
-        stemObject.setCurrent(word);
-        stemObject.stem();
-        return stemObject.getCurrent();
+        stemmingObject.setCurrent(word);
+        stemmingObject.stem();
+        return stemmingObject.getCurrent();
     }*/
 }

@@ -257,4 +257,19 @@ public class DataBase {
         }
         return null;
     }
+
+    //---------------------------------------------get url and its related ID-------------------------------------------//
+    public ResultSet getAllUrls()
+    {
+        try{
+            return this.stmt.executeQuery("SELECT LINK, ID FROM links;" );
+        }
+        catch(SQLException e)
+        {
+            System.out.println(e);
+            return null;
+        }
+    }
+
+    // ---------------------------------------------------------------------------------------------------------------------//
 }

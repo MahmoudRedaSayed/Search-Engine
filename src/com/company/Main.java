@@ -1,4 +1,6 @@
 package com.company;
+import java.sql.ResultSet;
+import java.sql.SQLException;
 import java.time.format.DateTimeFormatter;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
@@ -60,6 +62,72 @@ public class Main {
 //
 
         ///////////////////////////////////////////////////////
+
+        /*---------------     Start Indexing ----------------------*/
+
+        WorkingFiles files = new WorkingFiles();
+
+        DataBase connect = new DataBase();
+
+        ResultSet links = connect.getAllUrls();
+
+        int ID = 0;
+        String myLink = "";
+        String[][] linksInfo = new String[5100][2];
+
+        int i = 0,size = 0;
+        while (true) {
+            try {
+                if (!links.next()) break;
+            } catch (SQLException e) {
+                e.printStackTrace();
+            }
+            try {
+                myLink= links.getString("LINK");
+                size++;
+            } catch (SQLException e) {
+                e.printStackTrace();
+            }
+            try {
+                ID = links.getInt("ID");
+            } catch (SQLException e) {
+                e.printStackTrace();
+            }
+            linksInfo[i][0] = myLink;
+            linksInfo[i++][1] = String.valueOf(ID);
+        }
+
+        int threadCount = 5,
+                counter = 0,
+                threadsCounter = 0;
+        boolean done = false;
+
+        while (! done)
+        {
+            // creating Threads
+            Thread[] threadsArr = new Thread[threadCount];
+            while (counter < size && threadsCounter < threadCount)
+            {
+                threadsArr[threadsCounter] = new Thread(new Indexer(linksInfo[counter][0], linksInfo[counter][1], files));
+                threadsArr[threadsCounter].start();;
+                counter++;
+                threadsCounter++;
+            }
+            for (int j = 0; j < threadsCounter; j++)
+            {
+                try {
+                    threadsArr[j].join();
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+            }
+            done = counter == size;
+            threadsCounter = 0;
+        }
+
+        System.out.println("DONE !\n");
+
+        /*---------------     End Indexing ----------------------*/
 
     }
 }
