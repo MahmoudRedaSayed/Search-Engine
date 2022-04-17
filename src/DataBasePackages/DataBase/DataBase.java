@@ -175,7 +175,7 @@ public synchronized String getLinkByID (Integer ID)
 //----------------------------------------------------------------------------------------------------------------------//
 
 //-----------------------------------------get the family of the link --------------------------------------------------//
-    public synchronized ResultSet getParentUrl (String ThreadName,String parentLink , String grandLink , String link,int Layer)
+    public synchronized ResultSet getParentUrl (String ThreadName,StringBuffer parentLink , StringBuffer grandLink , String link,int Layer)
     {
         try{
             if(Layer==1)
@@ -184,7 +184,7 @@ public synchronized String getLinkByID (Integer ID)
                 ResultSet resultSet= this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+";");
                 while(resultSet.next())
                 {
-                    grandLink=resultSet.getString("Link");
+                    grandLink.append(resultSet.getString("Link"));
                 }
                 return this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+";");
             }
@@ -196,7 +196,7 @@ public synchronized String getLinkByID (Integer ID)
                     resultSet=this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent , k.Layer FROM links as e , links as k WHERE e.Layer= "+Layer+" AND e.ThreadName='"+ThreadName+"' AND k.Id=e.LinkParent;");
                     while(resultSet.next())
                     {
-                        parentLink=resultSet.getString("Link");
+                        parentLink.append(resultSet.getString("Link"));
                         return resultSet;
                     }
 
@@ -210,12 +210,12 @@ public synchronized String getLinkByID (Integer ID)
                     resultSet =this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent , k.Layer FROM links as e , links as k WHERE e.Layer= "+Layer+" AND e.ThreadName='"+ThreadName+"' AND k.Id=e.LinkParent;");
                     while(resultSet.next())
                     {
-                        parentLink=resultSet.getString("Link");
+                        parentLink.append(resultSet.getString("Link"));
                         Layer=resultSet.getInt("Layer");
                         resultSet =this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent , k.Layer FROM links as e , links as k WHERE e.Layer= "+Layer+" AND e.ThreadName='"+ThreadName+"' AND k.Id=e.LinkParent;");
                         while(resultSet.next())
                         {
-                            grandLink=resultSet.getString("Link");
+                            grandLink.append(resultSet.getString("Link"));
                             return resultSet;
                         }
 

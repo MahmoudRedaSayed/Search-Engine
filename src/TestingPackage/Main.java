@@ -2,8 +2,9 @@ package TestingPackage;
 import java.io.FileNotFoundException;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-
-import CrawlerPackages.Crawler.UrlThread;
+import java.util.*;
+import CrawlerPackages.Crawler.*;
+import CrawlerPackages.Crawler.UrlThread.*;
 import DataBasePackages.DataBase.DataBase;
 import HelpersPackages.Helpers.WorkingFiles;
 import IndexerPackages.Indexer.Indexer;
@@ -16,15 +17,18 @@ public class Main {
 
     public static void main(String[] args) throws FileNotFoundException, JSONException {
 
-       /* Thread ThreadsArray=new Thread(new UrlThread());
+       Thread ThreadsArray=new Thread(new UrlThread());
         Thread.currentThread().setName("Thread1");
         ThreadsArray.setName("Thread2");
-        ThreadsArray.run();*/
-////        Thread ThreadsArray2=new Thread(new UrlThread());
+        ThreadsArray.run();
+
+
+
+//         Thread ThreadsArray2=new Thread(new UrlThread());
 //        ThreadsArray2.setName("Thread2");
 //        ThreadsArray2.start();
 //        ArrayList<String> Disallowed =ThreadsArray.robotSafe("https://www.bbc.co.uk/");
-//        System.out.println(Disallowed);
+//        System.out.println("Disallowed");
 //        DataBase DataBaseObject=new DataBase();
 //        UrlThread.Limit+=DataBaseObject.getCompleteCount();
 //        System.out.printf(" the limit %d",UrlThread.Limit);
@@ -47,7 +51,7 @@ public class Main {
 //
 //            }
 //        }
-
+//
 //        try {
 //            ThreadsArray.join();
 //            ThreadsArray2.join();
@@ -55,9 +59,9 @@ public class Main {
 //        } catch (InterruptedException e) {
 //
 //            }
-      //  System.out.println("The limit  "+UrlThread.Limit+" The inserted  "+UrlThread.inserted);
-//
-//
+        System.out.println("The limit  "+UrlThread.Limit+" The inserted  "+UrlThread.inserted);
+
+
 
         ///////////////////////////////////////////////////////
 
@@ -125,20 +129,22 @@ public class Main {
 
         System.out.println("DONE !\n");*/
 
-        /*---------------     End Indexing ----------------------*/
+        /*---------------     End Of Indexing ----------------------*/
 
 
 
 
         /*---------------     Query Processing  ----------------------*/
-        WorkingFiles files = new WorkingFiles();
-        QueryProcessing test = new QueryProcessing(files);
+//        WorkingFiles files = new WorkingFiles();
+//        QueryProcessing test = new QueryProcessing(files);
+//
+//        String query = "anonymity         experience";
+//
+//        JSONArray jsonFile  = test.run(query);
+//        String json = jsonFile.toString() ;
+//        System.out.println(json);
 
-        String query = "anonymity         experience";
-
-        JSONArray jsonFile  = test.run(query);
-        String json = jsonFile.toString() ;
-        System.out.println(json);
+        /*---------------     End Of Query Processing ----------------------*/
 
     }
 }

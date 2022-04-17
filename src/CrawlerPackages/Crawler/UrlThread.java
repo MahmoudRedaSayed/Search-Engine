@@ -62,8 +62,8 @@ public class UrlThread implements  Runnable {
     private  int FirstUrlLayer1;
     private  int FirstUrlLayer2;
     private  int FirstUrlLayer3;
-    private String parentLink=new String("");
-    private String grandLink=new String("");
+    private StringBuffer parentLink=new StringBuffer("");
+    private StringBuffer grandLink=new StringBuffer("");
     private String currentLink=new String("");
     private int layer;
     private DataBase DataBaseObject;
@@ -111,8 +111,9 @@ public class UrlThread implements  Runnable {
                 FirstUrlLayer3=Position.getInt("UrlIndex2");
                 Layer1=Position.getInt("Layer");
             }
-            parentLink="";grandLink="";currentLink="";
-            ResultSet ParentData=DataBaseObject.getParentUrl(Thread.currentThread().getName(),parentLink,grandLink,currentLink,Layer1);
+            parentLink.delete(0,parentLink.length()); grandLink.delete(0,parentLink.length());
+            currentLink="";
+            ResultSet ParentData=DataBaseObject.getParentUrl(Thread.currentThread().getName(), parentLink,grandLink,currentLink,Layer1);
             String ParentLink="";
             int Id=-1;
             while(ParentData!=null&&ParentData.next())
@@ -122,11 +123,11 @@ public class UrlThread implements  Runnable {
             }
             if(Layer1==1)
             {
-                linkProcessing(grandLink,Layer1,FirstUrlLayer1,FirstUrlLayer2,FirstUrlLayer3,Id);
+                linkProcessing(grandLink.toString(),Layer1,FirstUrlLayer1,FirstUrlLayer2,FirstUrlLayer3,Id);
             }
             else if(Layer1==2)
             {
-                linkProcessing(parentLink,Layer1,FirstUrlLayer1,FirstUrlLayer2,FirstUrlLayer3,Id);
+                linkProcessing(parentLink.toString(),Layer1,FirstUrlLayer1,FirstUrlLayer2,FirstUrlLayer3,Id);
             }
             else
             {
@@ -505,6 +506,7 @@ public class UrlThread implements  Runnable {
                             boolean forbidden=false;
                             for (Element link : links)
                             {
+                                System.out.println(link);
                                 if (FirstUrlLayer1 == 0) {
 
                                     String result = Normalized(link.attr("href"));
