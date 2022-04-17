@@ -136,8 +136,10 @@ public class DataBase {
 public synchronized String getLinkByID (int ID)
 {
     try{
-        ResultSet resultSet = this.stmt.executeQuery("Select Link FROM links WHERE Id="+ ID + "");
-        return resultSet.getString("Link");
+        String query = "Select Link FROM links WHERE Id= " + String.valueOf(ID);
+        ResultSet resultSet = this.stmt.executeQuery(query);
+        String result = resultSet.getString("Link");
+        return result;
 
     } catch (SQLException e) {
         e.printStackTrace();

@@ -1,0 +1,4 @@
+/treskon|[27,s]:2;
+/titles|[27,s]:1;
+/times|[14,t]:1;
+/today's|[40,h]:2;

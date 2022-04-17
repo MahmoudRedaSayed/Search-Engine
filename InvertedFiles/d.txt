@@ -1,0 +1,3 @@
+/dictionary|[39,t]:2;
+/day|[40,h]:1;
+/developers|[41,t]:1;

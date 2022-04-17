@@ -1,0 +1,3 @@
+/individuals|[27,s]:1;
+/instructors|[27,s]:1;
+/io|[41,h]:1;

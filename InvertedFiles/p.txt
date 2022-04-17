@@ -1,0 +1,9 @@
+/privacy|[37,t]:1;
+/project|[27,t]:1;[27,h]:1;
+/publishers|[27,s]:1;
+/press|[27,s]:1;
+/platform|[42,t]:1;[42,h]:1;
+/picture|[40,h]:1;
+/picks|[39,h]:1;
+/play|[39,h]:1;
+/projects|[40,h]:1;

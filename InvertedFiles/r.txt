@@ -1,0 +1,2 @@
+/reviews|[37,t]:1;
+/registration|[41,h]:1;

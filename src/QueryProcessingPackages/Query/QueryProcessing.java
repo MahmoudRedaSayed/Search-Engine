@@ -26,6 +26,12 @@ public class QueryProcessing{
     String[] stopWords;
 
 
+    public QueryProcessing(WorkingFiles files)
+    {
+        working = files;
+        stopWords = files.getStopWordsAsArr();
+    }
+
     private String[] SplitQuery(String searchQuery)
     {
         String[] subStrings = searchQuery.trim().split("\\s+");
@@ -81,7 +87,7 @@ public class QueryProcessing{
     {
         for(int i = 0; i< searchQuery.length; i++)
         {
-            if (Arrays.asList(this.stopWords).contains(searchQuery[i]))
+            if (Arrays.asList(this.stopWords).contains(searchQuery[i].toLowerCase()))
             {
                 searchQuery = removeElement(searchQuery, i);
             }
@@ -135,29 +141,31 @@ public class QueryProcessing{
 
 
 
-    public void main(String[] args) throws FileNotFoundException {
+    public String run(String message) throws FileNotFoundException {
         invertedFiles = working.getInvertedFiles();
 
-        try {
+        /*try {
             readStopWords();
         } catch (FileNotFoundException e) {
             System.out.println("Failed to open Stop words file");
             e.printStackTrace();
-        }
+        }*/
 
-        String message = "Is Egypt in Africa?";
+       // String message = "Is Egypt in Africa?";
 
         String[] result = SplitQuery(message);
         result  = removeStopWords(result);
         String json = "{ [";
         StringBuffer jsonFile = new StringBuffer(json);
-        for(int i=0; i<result.length;i++)
+        int length = result.length;
+        for(int i=0; i<length;i++)
         {
             ArrayList<String> oneWordResult = new ArrayList<String>();
             //We NEED TO GET THE ACTUAL FILE FROM INDEXER CLASS
 
             searchInInvertedFiles(result[i], invertedFiles.get(result[i].charAt(0)),oneWordResult);
-            for(int j = 0; j<oneWordResult.size(); j++)
+            int length_2 = oneWordResult.size();
+            for(int j = 0; j<length_2; j++)
             {
 
                 int Start = oneWordResult.get(j).indexOf('|');
@@ -167,12 +175,14 @@ public class QueryProcessing{
                 String[] finalID= temp.split(",");
 
                 int ID = Integer.parseInt(finalID[0]);
-                jsonFile.append("{\"Link\":\"" + dataBaseObject.getLinkByID(ID) + "\"},");
-
-
+                String test = dataBaseObject.getLinkByID(ID);
+                System.out.println(test);
+                //jsonFile.append("{\"Link\":\"" + dataBaseObject.getLinkByID(ID) + "\"},");
             }
 
         }
+
+        return jsonFile.toString();
 
     }
 }
