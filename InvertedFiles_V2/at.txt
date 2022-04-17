@@ -1,0 +1,2 @@
+/attributes|[1,p]:3;
+/attacks|[1,p]:1;
