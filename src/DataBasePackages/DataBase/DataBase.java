@@ -132,6 +132,22 @@ public class DataBase {
 // ---------------------------------------------------------------------------------------------------------------------//
 
 
+//---------------------------------------get link by ID  -------------------------------------------------------------//
+public synchronized String getLinkByID (int ID)
+{
+    try{
+        ResultSet resultSet = this.stmt.executeQuery("Select Link FROM links WHERE Id="+ ID + "");
+        return resultSet.getString("Link");
+
+    } catch (SQLException e) {
+        e.printStackTrace();
+        return null;
+    }
+
+}
+// ---------------------------------------------------------------------------------------------------------------------//
+
+
 // --------------------------------------get the id of the link  -------------------------------------------------------//
 
     public synchronized int getId (String Url,String ThreadName)
