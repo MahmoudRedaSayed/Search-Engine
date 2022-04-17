@@ -1,0 +1,2 @@
+/enjoy|[1,p]:1;
+/encyclopedia|[40,t]:1;

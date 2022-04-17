@@ -1,0 +1,7 @@
+/library|[1,p]:1;
+/list|[1,p]:2;
+/liberal|[1,p]:1;
+/license|[1,p]:1;
+/links|[1,p]:1;
+/librarians|[27,s]:1;
+/live|[41,h]:1;

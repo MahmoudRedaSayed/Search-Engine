@@ -1,0 +1,7 @@
+/pristine|[1,p]:1;
+/project|[1,p]:1;[27,t]:1;[27,h]:1;
+/prevent|[1,p]:2;
+/program|[1,p]:1;
+/privacy|[37,t]:1;
+/press|[27,s]:1;
+/projects|[40,h]:1;
