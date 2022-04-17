@@ -1,6 +1,7 @@
 package QueryProcessingPackages.Query;
 
 
+import com.mysql.cj.xdevapi.JsonArray;
 import org.tartarus.snowball.ext.PorterStemmer;
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -13,6 +14,7 @@ import java.nio.file.Paths;
 import java.util.*;
 import HelpersPackages.Helpers.*;
 import DataBasePackages.DataBase.*;
+import org.json.*;
 
 
 
@@ -141,7 +143,7 @@ public class QueryProcessing{
 
 
 
-    public String run(String message) throws FileNotFoundException {
+    public JSONArray run(String message) throws FileNotFoundException, JSONException {
         invertedFiles = working.getInvertedFiles();
 
         /*try {
@@ -157,11 +159,13 @@ public class QueryProcessing{
         result  = removeStopWords(result);
         String json = "{ [";
         StringBuffer jsonFile = new StringBuffer(json);
+        JSONArray finalJsonFile = new JSONArray();
         int length = result.length;
         for(int i=0; i<length;i++)
         {
+            // Loop over words
             ArrayList<String> oneWordResult = new ArrayList<String>();
-            //We NEED TO GET THE ACTUAL FILE FROM INDEXER CLASS
+
 
 
             searchInInvertedFiles(result[i], invertedFiles.get(result[i].substring(0,2)),oneWordResult);
@@ -169,21 +173,31 @@ public class QueryProcessing{
             int length_2 = oneWordResult.size();
             for(int j = 0; j<length_2; j++)
             {
+                // Loop over versions of Words
 
-                int Start = oneWordResult.get(j).indexOf('|');
-                int End = oneWordResult.get(j).indexOf(']');
+//                int Start = oneWordResult.get(j).indexOf('|');
+//                int End = oneWordResult.get(j).indexOf(']');
+//
+//                String temp = oneWordResult.get(j).substring(Start+2, End);
+                String[] splitLine= oneWordResult.get(j).split("\\[");
+                int length_3 = splitLine.length;
+                for (int k=1; k<length_3; k+=2)
+                {
 
-                String temp = oneWordResult.get(j).substring(Start+2, End);
-                String[] finalID= temp.split(",");
+                    // Loop over links of the same version of each Word
 
-                int ID = Integer.parseInt(finalID[0]);
-                String test = dataBaseObject.getLinkByID(ID);
-                jsonFile.append("{\"Link\":\"" + dataBaseObject.getLinkByID(ID) + "\"},");
+                    int End = splitLine[k].indexOf(']');
+                    String temp = splitLine[k].substring(0, End);
+                    String[] finalID = temp.split(",");
+                    int ID = Integer.parseInt(finalID[0]);
+                    JSONObject Jo = new JSONObject();
+                    Jo.put("Link",dataBaseObject.getLinkByID(ID) );
+                    finalJsonFile.put(Jo);
+                }
             }
 
         }
-
-        return jsonFile.toString();
+        return finalJsonFile;
 
     }
 }

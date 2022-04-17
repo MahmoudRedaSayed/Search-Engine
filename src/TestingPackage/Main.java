@@ -8,10 +8,13 @@ import DataBasePackages.DataBase.DataBase;
 import HelpersPackages.Helpers.WorkingFiles;
 import IndexerPackages.Indexer.Indexer;
 import QueryProcessingPackages.Query.QueryProcessing;
+import com.mysql.cj.xdevapi.JsonArray;
+import com.mysql.cj.xdevapi.JsonString;
+import org.json.*;
 
 public class Main {
 
-    public static void main(String[] args) throws FileNotFoundException {
+    public static void main(String[] args) throws FileNotFoundException, JSONException {
 
        /* Thread ThreadsArray=new Thread(new UrlThread());
         Thread.currentThread().setName("Thread1");
@@ -133,9 +136,7 @@ public class Main {
 
         String query = "anonymity         experience";
 
-        StringBuffer jsonFile  = new StringBuffer(test.run(query).toString());
-        jsonFile.deleteCharAt(jsonFile.length()-1);
-        jsonFile.append("] }");
+        JSONArray jsonFile  = test.run(query);
         String json = jsonFile.toString() ;
         System.out.println(json);
 
