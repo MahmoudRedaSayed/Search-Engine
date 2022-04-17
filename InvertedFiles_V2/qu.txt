@@ -1,2 +1,0 @@
-/questions|[1,p]:1;
-/quizzes|[39,h]:1;

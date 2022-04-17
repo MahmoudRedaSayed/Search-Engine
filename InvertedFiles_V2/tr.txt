@@ -1,4 +1,0 @@
-/tree|[1,p]:1;
-/traversal|[1,p]:1;
-/traversing|[1,p]:1;
-/treskon|[27,s]:2;

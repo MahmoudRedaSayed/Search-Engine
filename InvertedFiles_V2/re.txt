@@ -1,6 +1,0 @@
-/real-world|[1,p]:1;
-/release|[1,p]:1;
-/reference|[1,p]:1;
-/read|[1,p]:1;
-/reviews|[37,t]:1;
-/registration|[41,h]:1;

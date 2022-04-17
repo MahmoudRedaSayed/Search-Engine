@@ -1,4 +1,0 @@
-/safety|[1,t]:2;
-/sample|[1,p]:1;
-/safelist|[1,p]:1;
-/sanitize|[1,p]:1;

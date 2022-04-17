@@ -1,6 +1,0 @@
-/selectors|[1,p]:3;
-/selector-syntax|[1,p]:1;
-/set|[1,p]:2;
-/setting|[1,p]:1;
-/search|[40,h]:1;
-/seleucus vi|[40,p]:1;

@@ -1,2 +1,0 @@
-/scraping|[1,t]:2;
-/scrape|[1,p]:1;

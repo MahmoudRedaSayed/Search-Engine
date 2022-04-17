@@ -1,2 +1,0 @@
-/fetching|[1,p]:2;
-/featured|[40,h]:2;

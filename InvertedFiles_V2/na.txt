@@ -1,2 +1,0 @@
-/navigate|[1,p]:1;
-/navigation|[40,h]:1;

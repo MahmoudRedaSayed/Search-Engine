@@ -1,3 +1,0 @@
-/varieties|[1,p]:1;
-/validating|[1,p]:1;
-/values|[1,p]:1;
