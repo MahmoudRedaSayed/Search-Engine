@@ -156,7 +156,7 @@ public class QueryProcessing{
             ArrayList<String> oneWordResult = new ArrayList<String>();
             //We NEED TO GET THE ACTUAL FILE FROM INDEXER CLASS
 
-            searchInInvertedFiles(result[i], invertedFiles.get(result[i].charAt(0)),oneWordResult);
+            searchInInvertedFiles(result[i], invertedFiles.get(result[i].substring(0,2)),oneWordResult);
             for(int j = 0; j<oneWordResult.size(); j++)
             {
 
