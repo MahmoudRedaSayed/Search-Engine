@@ -1,0 +1,3 @@
+/distributed|[1,p]:1;
+/discussion|[1,p]:2;
+/dictionary|[39,t]:2;

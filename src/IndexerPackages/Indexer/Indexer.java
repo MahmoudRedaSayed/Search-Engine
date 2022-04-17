@@ -16,7 +16,7 @@ public class Indexer implements Runnable {
     private PageParsing page;
     private String[] myInfo;        // to store the url and its id
     // private String[] Documents;
-    private Map<Character, File> invertedFiles;
+    private Map<String, File> invertedFiles;
     //private PorterStemmer stemmingObject;
     //private String[] stopWords;
     private Map<Character, Vector<String>> stopWords;
@@ -62,15 +62,22 @@ public class Indexer implements Runnable {
         paragraphProcessing(doc_id);
     }
 
-    // initialization
+   /* // initialization of inverted files
     private void initializeFiles()
     {
+        invertedFiles = new HashMap<String, File>();
         String letters = "qwertyuiopasdfghjklzxcvbnm";
-        for (int i = 0; i < 26; i++){
+        String currentFileName = "";
 
-            invertedFiles.put(letters.charAt(i), new File(HelperClass.invertedFilePath(letters.charAt(i))));
+        for (int i = 0; i < 26; i++){
+            currentFileName += letters.charAt(i);
+            for (int j = 0; j < 26; j++)
+            {
+                currentFileName += letters.charAt(j);
+                invertedFiles.put(currentFileName, new File(HelperClass.invertedFilePath(currentFileName)));
+            }
         }
-    }
+    }*/
 
     /*// get Urls from Data Base
     private void setUrls()
@@ -143,8 +150,11 @@ public class Indexer implements Runnable {
             wordInfo = "[" + doc_ic + "," + tag + ']';
 
             // insert the word into the file
+            String fileName = "";
+            fileName += tempWord.charAt(0) ;
+            fileName += tempWord.charAt(1) ;
             try {
-                addToFile(tempWord, tempWord.charAt(0), wordInfo);
+                addToFile(tempWord, fileName, wordInfo);
 
             }
             catch (IOException e) {
@@ -222,9 +232,9 @@ public class Indexer implements Runnable {
 
     // add to the file
     // NOTE : info must be = doc_ic,h or p;    Karim --> this function must be synchronized
-    private synchronized void addToFile(String word, char fileName, String info) throws IOException  // fileName is the first letter
+    private synchronized void addToFile(String word, String fileName, String info) throws IOException  // fileName is the first letter
     {
-        String filePath = System.getProperty("user.dir") + File.separator + "InvertedFiles" + File.separator + fileName + ".txt";
+        String filePath = System.getProperty("user.dir") + File.separator + "InvertedFiles_V2" + File.separator + fileName + ".txt";
 
         // check if the word is already exists or not
         File workingFile = this.invertedFiles.get(fileName);

@@ -21,10 +21,16 @@ public class QueryProcessing{
 
     DataBase dataBaseObject = new DataBase();
     WorkingFiles working = new WorkingFiles();
-    private Map<Character, File> invertedFiles;
+    private Map<String, File> invertedFiles;
     PorterStemmer stemObject = new PorterStemmer();
     String[] stopWords;
 
+
+    public QueryProcessing(WorkingFiles files)
+    {
+        working = files;
+        stopWords = files.getStopWordsAsArr();
+    }
 
     private String[] SplitQuery(String searchQuery)
     {
@@ -32,14 +38,14 @@ public class QueryProcessing{
         return subStrings;
     }
 
-    private void initializeFile()
-    {
-        String letters = "qwertyuiopasdfghjklzxcvbnm";
-        for (int i = 0; i < 26; i++){
-
-            invertedFiles.put(letters.charAt(i), new File(HelperClass.invertedFilePath(letters.charAt(i))));
-        }
-    }
+//    private void initializeFile()
+//    {
+//        String letters = "qwertyuiopasdfghjklzxcvbnm";
+//        for (int i = 0; i < 26; i++){
+//
+//            invertedFiles.put(letters.charAt(i), new File(HelperClass.invertedFilePath(letters.charAt(i))));
+//        }
+//    }
 
     private void readStopWords() throws FileNotFoundException {
         // open the file that contains stop words
@@ -81,7 +87,7 @@ public class QueryProcessing{
     {
         for(int i = 0; i< searchQuery.length; i++)
         {
-            if (Arrays.asList(this.stopWords).contains(searchQuery[i]))
+            if (Arrays.asList(this.stopWords).contains(searchQuery[i].toLowerCase()))
             {
                 searchQuery = removeElement(searchQuery, i);
             }
@@ -135,29 +141,33 @@ public class QueryProcessing{
 
 
 
-    public void main(String[] args) throws FileNotFoundException {
+    public String run(String message) throws FileNotFoundException {
         invertedFiles = working.getInvertedFiles();
 
-        try {
+        /*try {
             readStopWords();
         } catch (FileNotFoundException e) {
             System.out.println("Failed to open Stop words file");
             e.printStackTrace();
-        }
+        }*/
 
-        String message = "Is Egypt in Africa?";
+       // String message = "Is Egypt in Africa?";
 
         String[] result = SplitQuery(message);
         result  = removeStopWords(result);
         String json = "{ [";
         StringBuffer jsonFile = new StringBuffer(json);
-        for(int i=0; i<result.length;i++)
+        int length = result.length;
+        for(int i=0; i<length;i++)
         {
             ArrayList<String> oneWordResult = new ArrayList<String>();
             //We NEED TO GET THE ACTUAL FILE FROM INDEXER CLASS
 
+
             searchInInvertedFiles(result[i], invertedFiles.get(result[i].substring(0,2)),oneWordResult);
-            for(int j = 0; j<oneWordResult.size(); j++)
+
+            int length_2 = oneWordResult.size();
+            for(int j = 0; j<length_2; j++)
             {
 
                 int Start = oneWordResult.get(j).indexOf('|');
@@ -167,12 +177,13 @@ public class QueryProcessing{
                 String[] finalID= temp.split(",");
 
                 int ID = Integer.parseInt(finalID[0]);
+                String test = dataBaseObject.getLinkByID(ID);
                 jsonFile.append("{\"Link\":\"" + dataBaseObject.getLinkByID(ID) + "\"},");
-
-
             }
 
         }
+
+        return jsonFile.toString();
 
     }
 }

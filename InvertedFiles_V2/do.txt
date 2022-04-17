@@ -1,0 +1,3 @@
+/dom|[1,p]:5;
+/download|[1,p]:2;
+/document|[1,p]:5;

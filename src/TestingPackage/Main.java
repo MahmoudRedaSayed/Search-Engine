@@ -1,4 +1,5 @@
 package TestingPackage;
+import java.io.FileNotFoundException;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
@@ -6,15 +7,16 @@ import CrawlerPackages.Crawler.UrlThread;
 import DataBasePackages.DataBase.DataBase;
 import HelpersPackages.Helpers.WorkingFiles;
 import IndexerPackages.Indexer.Indexer;
+import QueryProcessingPackages.Query.QueryProcessing;
 
 public class Main {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws FileNotFoundException {
 
-        Thread ThreadsArray=new Thread(new UrlThread());
+       /* Thread ThreadsArray=new Thread(new UrlThread());
         Thread.currentThread().setName("Thread1");
         ThreadsArray.setName("Thread2");
-        ThreadsArray.run();
+        ThreadsArray.run();*/
 ////        Thread ThreadsArray2=new Thread(new UrlThread());
 //        ThreadsArray2.setName("Thread2");
 //        ThreadsArray2.start();
@@ -50,7 +52,7 @@ public class Main {
 //        } catch (InterruptedException e) {
 //
 //            }
-        System.out.println("The limit  "+UrlThread.Limit+" The inserted  "+UrlThread.inserted);
+      //  System.out.println("The limit  "+UrlThread.Limit+" The inserted  "+UrlThread.inserted);
 //
 //
 
@@ -58,7 +60,7 @@ public class Main {
 
         /*---------------     Start Indexing ----------------------*/
 
-        WorkingFiles files = new WorkingFiles();
+        /*WorkingFiles files = new WorkingFiles();
 
         DataBase connect = new DataBase();
 
@@ -118,9 +120,24 @@ public class Main {
             threadsCounter = 0;
         }
 
-        System.out.println("DONE !\n");
+        System.out.println("DONE !\n");*/
 
         /*---------------     End Indexing ----------------------*/
+
+
+
+
+        /*---------------     Query Processing  ----------------------*/
+        WorkingFiles files = new WorkingFiles();
+        QueryProcessing test = new QueryProcessing(files);
+
+        String query = "anonymity         experience";
+
+        StringBuffer jsonFile  = new StringBuffer(test.run(query).toString());
+        jsonFile.deleteCharAt(jsonFile.length()-1);
+        jsonFile.append("] }");
+        String json = jsonFile.toString() ;
+        System.out.println(json);
 
     }
 }

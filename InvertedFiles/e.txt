@@ -1,0 +1,3 @@
+/encyclopedia|[40,t]:1;
+/experience|[42,t]:1;[42,h]:2;
+/epiphanes|[40,p]:1;
