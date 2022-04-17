@@ -8,7 +8,7 @@ import java.util.Scanner;
 import java.util.Vector;
 
 public class WorkingFiles {
-    private Map<Character, File> invertedFiles;
+    private Map<String, File> invertedFiles;
     private String[] stopWords;
 
     public WorkingFiles()
@@ -28,12 +28,19 @@ public class WorkingFiles {
     // initialization of inverted files
     private void initializeFiles()
     {
-        invertedFiles = new HashMap<Character, File>();
-
+        invertedFiles = new HashMap<String, File>();
         String letters = "qwertyuiopasdfghjklzxcvbnm";
-        for (int i = 0; i < 26; i++){
+        String currentFileName = "";
 
-            invertedFiles.put(letters.charAt(i), new File(HelperClass.invertedFilePath(letters.charAt(i))));
+        for (int i = 0; i < 26; i++){
+            currentFileName += letters.charAt(i);
+            for (int j = 0; j < 26; j++)
+            {
+                currentFileName += letters.charAt(j);
+                invertedFiles.put(currentFileName, new File(HelperClass.invertedFilePath_V2(currentFileName)));
+                currentFileName = "";
+                currentFileName += letters.charAt(i);
+            }
         }
     }
 
@@ -91,10 +98,8 @@ public class WorkingFiles {
         return wordsMap;
     }
 
-
-
     // get inverted files
-    public Map<Character, File> getInvertedFiles()
+    public Map<String, File> getInvertedFiles()
     {
         return invertedFiles;
     }

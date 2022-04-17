@@ -18,10 +18,18 @@ public class HelperClass {
 
 
     // get the path of the inverted Files
-    public static String invertedFilePath(char fileName)
+    public static String invertedFilePath(String fileName)
     {
         String filePath = System.getProperty("user.dir");   // get the directory of the project
         filePath += File.separator + "InvertedFiles" + File.separator + fileName + ".txt";
+        return filePath;
+    }
+
+    // get the path of the inverted Files_V2
+    public static String invertedFilePath_V2(String fileName)
+    {
+        String filePath = System.getProperty("user.dir");   // get the directory of the project
+        filePath += File.separator + "InvertedFiles_V2" + File.separator + fileName + ".txt";
         return filePath;
     }
 
