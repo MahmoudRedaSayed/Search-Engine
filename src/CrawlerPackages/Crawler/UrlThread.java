@@ -106,9 +106,9 @@ public class UrlThread implements  Runnable {
             int Layer1=-1;
             while(Position.next())
             {
-                FirstUrlLayer1=Position.getInt("UrlIndex");
-                FirstUrlLayer2=Position.getInt("UrlIndex1");
-                FirstUrlLayer3=Position.getInt("UrlIndex2");
+                FirstUrlLayer1=Position.getInt("UrlIndex1");
+                FirstUrlLayer2=Position.getInt("UrlIndex2");
+                FirstUrlLayer3=Position.getInt("UrlIndex3");
                 Layer1=Position.getInt("Layer");
             }
             parentLink.delete(0,parentLink.length()); grandLink.delete(0,parentLink.length());
@@ -485,7 +485,7 @@ public class UrlThread implements  Runnable {
         * */
                     if(Layer==1)
                     {
-                        DataBaseObject.setThreadPosition(Thread.currentThread().getName(), Layer, Index1);
+                        DataBaseObject.setThreadPosition(Thread.currentThread().getName(), Layer,0);
 
                         int counter = 0;
                         try {
@@ -504,10 +504,12 @@ public class UrlThread implements  Runnable {
                             //-----------------------------------------------------------------------------------------------------------------//
 
                             boolean forbidden=false;
+                            int flag=FirstUrlLayer1;
                             for (Element link : links)
                             {
+                                counter++;
                                 System.out.println(link);
-                                if (FirstUrlLayer1 == 0) {
+                                if (FirstUrlLayer1 == 1) {
 
                                     String result = Normalized(link.attr("href"));
 
@@ -517,16 +519,22 @@ public class UrlThread implements  Runnable {
                                         try {
                                             //-----------------------------------------------------------------------------------------------------------------//
                                             // this part to check if the link is inserted by another thread or not
-                                            ResultSet resultSet=DataBaseObject.getUrls2(link.attr("href"));
-                                            if (resultSet!=null&&resultSet.next())
+                                            if(flag==1)
                                             {
-                                                continue;
+                                                ResultSet resultSet=DataBaseObject.getUrls2(link.attr("href"));
+                                                if (resultSet!=null&&resultSet.next())
+                                                {
+                                                    continue;
+                                                }
+
                                             }
-                                            //-----------------------------------------------------------------------------------------------------------------//
+                                            else{
+                                                flag=1;
+                                            }
+                                        //-----------------------------------------------------------------------------------------------------------------//
 
                                             linkProcessing(result, Layer + 1, counter,Index2,Index3, parentId);
                                             IncrementLimit();
-                                            counter++;
                                         }
                                         catch( Exception e)
                                         {
@@ -554,7 +562,7 @@ public class UrlThread implements  Runnable {
                     }
                     else if (Layer==2)
                     {
-                        DataBaseObject.setThreadPosition(Thread.currentThread().getName(), Layer, Index2);
+                        DataBaseObject.setThreadPosition(Thread.currentThread().getName(), Layer, Index1);
 
                         int counter = 0;
                         try {
@@ -572,9 +580,11 @@ public class UrlThread implements  Runnable {
                             //-----------------------------------------------------------------------------------------------------------------//
 
                             boolean forbidden=false;
+                            int flag=FirstUrlLayer2;
                             for (Element link : links)
                             {
-                                if (FirstUrlLayer2 == 0) {
+                                counter++;
+                                if (FirstUrlLayer2 == 1) {
                                     String result = Normalized(link.attr("href"));
 
                                     forbidden=DisallowedCheck(Disallowed,Allowed,link.attr("href"));
@@ -583,16 +593,22 @@ public class UrlThread implements  Runnable {
                                         try {
                                             //-----------------------------------------------------------------------------------------------------------------//
                                             // this part to check if the link is inserted by another thread or not
-                                            ResultSet resultSet=DataBaseObject.getUrls2(link.attr("href"));
-                                            if (resultSet!=null&&resultSet.next())
+                                            if(flag==1)
                                             {
-                                                continue;
+                                                ResultSet resultSet=DataBaseObject.getUrls2(link.attr("href"));
+                                                if (resultSet!=null&&resultSet.next())
+                                                {
+                                                    continue;
+                                                }
+
+                                            }
+                                            else{
+                                                flag=1;
                                             }
                                             //-----------------------------------------------------------------------------------------------------------------//
 
                                             linkProcessing(result, Layer + 1,Index1, counter,Index3, parentId);
                                             IncrementLimit();
-                                            counter++;
                                         }
                                         catch( Exception e)
                                         {
@@ -618,7 +634,7 @@ public class UrlThread implements  Runnable {
                     }
                     else if(Layer==3)
                     {
-                        DataBaseObject.setThreadPosition(Thread.currentThread().getName(), Layer, Index3);
+                        DataBaseObject.setThreadPosition(Thread.currentThread().getName(), Layer, Index2);
 
                         int counter = 0;
                         try {
@@ -636,9 +652,11 @@ public class UrlThread implements  Runnable {
                             //-----------------------------------------------------------------------------------------------------------------//
 
                             boolean forbidden=false;
+                            int flag=FirstUrlLayer3;
                             for (Element link : links)
                             {
-                                if (FirstUrlLayer3 == 0) {
+                                counter++;
+                                if (FirstUrlLayer3 == 1) {
                                     String result = Normalized(link.attr("href"));
 
                                     forbidden=DisallowedCheck(Disallowed,Allowed,link.attr("href"));
@@ -647,16 +665,22 @@ public class UrlThread implements  Runnable {
                                         try {
                                             //-----------------------------------------------------------------------------------------------------------------//
                                             // this part to check if the link is inserted by another thread or not
-                                            ResultSet resultSet=DataBaseObject.getUrls2(link.attr("href"));
-                                            if (resultSet!=null&&resultSet.next())
+                                            if(flag==1)
                                             {
-                                                continue;
+                                                ResultSet resultSet=DataBaseObject.getUrls2(link.attr("href"));
+                                                if (resultSet!=null&&resultSet.next())
+                                                {
+                                                    continue;
+                                                }
+
+                                            }
+                                            else{
+                                                flag=1;
                                             }
                                             //-----------------------------------------------------------------------------------------------------------------//
 
                                             linkProcessing(result, Layer + 1,Index1 ,Index2,counter, parentId);
                                             IncrementLimit();
-                                            counter++;
                                         }
                                         catch( Exception e)
                                         {
@@ -683,6 +707,7 @@ public class UrlThread implements  Runnable {
                     }
                     else
                     {
+                        DataBaseObject.setThreadPosition(Thread.currentThread().getName(), Layer, Index3);
                         // query mark the current link as completed and it if it over layer 3
                         DataBaseObject.urlCompleted(Url);
                     }

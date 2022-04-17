@@ -69,21 +69,34 @@ public class DataBase {
         try{
             if(Layer==1)
             {
-                this.stmt.executeUpdate("UPDATE threads SET Layer="+Layer+" and UrlIndex="+Index+" WHERE ThreadName='"+ThreadName+"';");
+                System.out.printf("UPDATE threads SET Layer="+Layer+" and UrlIndex="+Index+" WHERE ThreadName='"+ThreadName+"';");
+                this.stmt.executeUpdate("UPDATE threads SET Layer="+Layer+" WHERE ThreadName='"+ThreadName+"';");
+                this.stmt.executeUpdate("UPDATE threads SET UrlIndex="+Index+" WHERE ThreadName='"+ThreadName+"';");
 
             }
             else if (Layer==2)
             {
-                this.stmt.executeUpdate("UPDATE threads SET Layer="+Layer+" and UrlIndex1="+Index+" WHERE ThreadName='"+ThreadName+"';");
+                System.out.printf("UPDATE threads SET Layer="+Layer+" and UrlIndex1="+Index+" WHERE ThreadName='"+ThreadName+"';");
+
+                this.stmt.executeUpdate("UPDATE threads SET Layer="+Layer+" WHERE ThreadName='"+ThreadName+"';");
+                this.stmt.executeUpdate("UPDATE threads SET UrlIndex1="+Index+" WHERE ThreadName='"+ThreadName+"';");
 
             }
             else if (Layer==3)
             {
-                this.stmt.executeUpdate("UPDATE threads SET Layer="+Layer+" and UrlIndex2="+Index+" WHERE ThreadName='"+ThreadName+"';");
+                System.out.printf("UPDATE threads SET Layer="+Layer+" and UrlIndex2="+Index+" WHERE ThreadName='"+ThreadName+"';");
+
+                this.stmt.executeUpdate("UPDATE threads SET Layer="+Layer+" WHERE ThreadName='"+ThreadName+"';");
+                this.stmt.executeUpdate("UPDATE threads SET UrlIndex2="+Index+" WHERE ThreadName='"+ThreadName+"';");
             }
-            else
+            else if (Layer==4)
             {
-                this.stmt.executeUpdate("UPDATE threads SET Layer=1 and UrlIndex=0 and UrlIndex1=0 and UrlIndex2=0 WHERE ThreadName='"+ThreadName+"';");
+                this.stmt.executeUpdate("UPDATE threads SET Layer="+Layer+" WHERE ThreadName='"+ThreadName+"';");
+                this.stmt.executeUpdate("UPDATE threads SET UrlIndex3="+Index+" WHERE ThreadName='"+ThreadName+"';");
+            }
+            else{
+                this.stmt.executeUpdate("UPDATE threads SET Layer=1 and UrlIndex=0 and UrlIndex1=0 and UrlIndex2=0 UrlIndex3=0 WHERE ThreadName='"+ThreadName+"';");
+
             }
         }
         catch(SQLException e)
@@ -180,7 +193,7 @@ public synchronized String getLinkByID (Integer ID)
         try{
             if(Layer==1)
             {
-                System.out.printf("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+";");
+                System.out.printf("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+"AND Completed=0;");
                 ResultSet resultSet= this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+";");
                 while(resultSet.next())
                 {
@@ -190,21 +203,21 @@ public synchronized String getLinkByID (Integer ID)
             }
             else if(Layer==2)
             {
-                ResultSet resultSet= this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+";");
+                ResultSet resultSet= this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+" AND Completed=0;");
                 while(resultSet.next())
                 {
                     resultSet=this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent , k.Layer FROM links as e , links as k WHERE e.Layer= "+Layer+" AND e.ThreadName='"+ThreadName+"' AND k.Id=e.LinkParent;");
                     while(resultSet.next())
                     {
                         parentLink.append(resultSet.getString("Link"));
-                        return resultSet;
+                        return this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent , k.Layer FROM links as e , links as k WHERE e.Layer= "+Layer+" AND e.ThreadName='"+ThreadName+"' AND k.Id=e.LinkParent;");
                     }
 
                 }
             }
             else if (Layer==3)
             {
-                ResultSet resultSet= this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+";");
+                ResultSet resultSet= this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+" AND Completed=0;");
                 while(resultSet.next())
                 {
                     resultSet =this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent , k.Layer FROM links as e , links as k WHERE e.Layer= "+Layer+" AND e.ThreadName='"+ThreadName+"' AND k.Id=e.LinkParent;");
@@ -216,7 +229,7 @@ public synchronized String getLinkByID (Integer ID)
                         while(resultSet.next())
                         {
                             grandLink.append(resultSet.getString("Link"));
-                            return resultSet;
+                            return this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent , k.Layer FROM links as e , links as k WHERE e.Layer= "+Layer+" AND e.ThreadName='"+ThreadName+"' AND k.Id=e.LinkParent;");
                         }
 
                     }
