@@ -18,7 +18,6 @@ import org.json.*;
 
 
 
-
 public class QueryProcessing{
 
     DataBase dataBaseObject = new DataBase();
