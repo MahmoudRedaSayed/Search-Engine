@@ -33,6 +33,15 @@ public class HelperClass {
         return filePath;
     }
 
+    // get the path of the page content files
+    public static String pageContentFilesPath(String fileName)
+    {
+        String filePath = System.getProperty("user.dir");   // get the directory of the project
+        filePath += File.separator + "PageContentFiles" + File.separator + fileName + ".txt";
+        return filePath;
+    }
+
+
     // check if a given word is existing in a given inverted file or not
     // returns the whole line that contains this word
     public static String isExistingInFile(String word, File myFile) throws IOException {

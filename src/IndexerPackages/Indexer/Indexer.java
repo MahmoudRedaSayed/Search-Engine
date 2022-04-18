@@ -24,6 +24,8 @@ public class Indexer implements Runnable {
     // constructor
     public Indexer(String url, String urlId, WorkingFiles filesReference)
     {
+        System.out.println("My Page is : " + url);
+
         // initialization
         page = new PageParsing();
         stopWords = new HashMap<>();
@@ -44,7 +46,10 @@ public class Indexer implements Runnable {
         myInfo[0] = url;
         myInfo[1] = urlId;
 
-        System.out.println("My Page is : " + url);
+        // add the content to my txt file
+        this.setPage(url);
+        filesReference.addToPageContentFile(urlId, page.getAllContentsAsSingleString() );
+
     }
 
     // running function
@@ -56,7 +61,6 @@ public class Indexer implements Runnable {
     // Indexing Function ( the most important one )
     public void startIndexing(String url, String doc_id)
     {
-        this.setPage(url);
         titleProcessing(doc_id);
         headingProcessing(doc_id);
         paragraphProcessing(doc_id);

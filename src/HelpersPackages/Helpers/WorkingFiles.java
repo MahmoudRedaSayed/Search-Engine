@@ -2,6 +2,8 @@ package HelpersPackages.Helpers;
 
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
@@ -10,9 +12,24 @@ import java.util.Vector;
 public class WorkingFiles {
     private Map<String, File> invertedFiles;
     private String[] stopWords;
-
-    public WorkingFiles()
+    private Map<String, File> pageContentFiles;
+    public WorkingFiles(int countOfPageContentFiles)
     {
+        // create the files of pages content
+        String path = "";
+        for (int i = 1; i <= countOfPageContentFiles; i++)
+        {
+            path = HelperClass.pageContentFilesPath(String.valueOf(i));
+            File myObj = new File(path);
+            try {
+                myObj.createNewFile();
+            } catch (IOException e) {
+                e.printStackTrace();
+                System.out.println("Failed to create the file");
+            }
+        }
+        // page content files
+        createPagesContentFiles(countOfPageContentFiles);
         // inverted files
         initializeFiles();
 
@@ -23,6 +40,8 @@ public class WorkingFiles {
             System.out.println("Failed to open Stop words file");
             e.printStackTrace();
         }
+
+
     }
 
     // initialization of inverted files
@@ -41,6 +60,18 @@ public class WorkingFiles {
                 currentFileName = "";
                 currentFileName += letters.charAt(i);
             }
+        }
+    }
+
+    // initialization of page content files
+    private void createPagesContentFiles(int count)
+    {
+        // initialization map of the files
+        pageContentFiles = new HashMap<String,File>();
+
+        for (int i = 1; i <= count; i++)
+        {
+            pageContentFiles.put(String.valueOf(i), new File(HelperClass.pageContentFilesPath(String.valueOf(i))));
         }
     }
 
@@ -102,5 +133,31 @@ public class WorkingFiles {
     public Map<String, File> getInvertedFiles()
     {
         return invertedFiles;
+    }
+
+    // add to page content file
+    public void addToPageContentFile(String fileName, String content)
+    {
+        FileWriter myWriter = null;
+
+        try {
+            myWriter = new FileWriter(HelperClass.pageContentFilesPath(fileName));
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        try {
+            myWriter.write(content);
+            System.out.println("Successfully added the content to the file " + fileName +".txt");
+        } catch (IOException e) {
+            e.printStackTrace();
+            System.out.println("Failed to add the content to the file " + fileName +".txt");
+        }
+
+        try {
+            myWriter.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 }

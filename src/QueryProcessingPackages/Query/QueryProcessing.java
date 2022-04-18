@@ -22,7 +22,7 @@ import org.json.*;
 public class QueryProcessing{
 
     DataBase dataBaseObject = new DataBase();
-    WorkingFiles working = new WorkingFiles();
+    WorkingFiles working ;
     private Map<String, File> invertedFiles;
     PorterStemmer stemObject = new PorterStemmer();
     String[] stopWords;
@@ -102,10 +102,15 @@ public class QueryProcessing{
     //The rest are the words with same root in that file
 
 
-    public static void searchInInvertedFiles(String word, File myFile, ArrayList<String> results) throws FileNotFoundException {
+    public static void searchInInvertedFiles(String word, File myFile, ArrayList<String> results, boolean stemmingFlag) throws FileNotFoundException {
         Scanner read = new Scanner(myFile);
         String tempInput,
-                stemmedVersion = HelperClass.stemTheWord(word);
+                stemmedVersion = " ";
+
+        // stemming the word
+        if (stemmingFlag)
+            stemmedVersion = HelperClass.stemTheWord(word);
+
         boolean wordIsFound = false;
 
         int stopIndex, counter;
@@ -135,8 +140,11 @@ public class QueryProcessing{
 
                 counter = 1;
                 // comparing the stemmed version of the target word by the stemmed version of the word in the inverted file
-                if (stemmedVersion.equals(HelperClass.stemTheWord(theWord)))
-                    results.add(counter++, tempInput);
+                if (stemmingFlag)
+                {
+                    if (stemmedVersion.equals(HelperClass.stemTheWord(theWord)))
+                        results.add(counter++, tempInput);
+                }
             }
         }
     }
@@ -153,7 +161,7 @@ public class QueryProcessing{
             e.printStackTrace();
         }*/
 
-       // String message = "Is Egypt in Africa?";
+        // String message = "Is Egypt in Africa?";
 
         String[] result = SplitQuery(message);
         result  = removeStopWords(result);
@@ -168,7 +176,7 @@ public class QueryProcessing{
 
 
 
-            searchInInvertedFiles(result[i], invertedFiles.get(result[i].substring(0,2)),oneWordResult);
+            searchInInvertedFiles(result[i], invertedFiles.get(result[i].substring(0,2)),oneWordResult, true);
 
             int length_2 = oneWordResult.size();
             for(int j = 0; j<length_2; j++)
@@ -200,4 +208,8 @@ public class QueryProcessing{
         return finalJsonFile;
 
     }
+
+
+
+
 }

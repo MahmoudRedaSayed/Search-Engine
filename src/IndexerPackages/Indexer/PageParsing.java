@@ -98,4 +98,37 @@ public class PageParsing {
         return data;
     }
 
+    public String getAllContentsAsSingleString()
+    {
+        String result       = "";
+        String title        = this.getTitleTag();
+        String[] headers    = this.getHeaders();
+        String[] paragraphs = this.getParagraphs();
+        String[] ListItems  = this.getListItems();
+
+        // concat the title
+        result += title;
+
+        // concat the headers
+        for (String head : headers)
+        {
+            result += " " + head;
+        }
+
+        // concat the paragraphs
+        for (String p : paragraphs)
+        {
+            result += " " + p;
+        }
+
+        // concat the Li
+        for (String li : ListItems)
+        {
+            result += " " + li;
+        }
+
+
+        return result;
+    }
+
 }
