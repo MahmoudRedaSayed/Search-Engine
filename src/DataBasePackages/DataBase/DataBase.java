@@ -305,4 +305,40 @@ public synchronized String getLinkByID (Integer ID)
     }
 
     // ---------------------------------------------------------------------------------------------------------------------//
+    //-----------------------------------------------get the number of links out from the parent link-----------------------//
+    public int getParentLinksNum(int childId)
+    {
+
+        try{
+             ResultSet resultSet=this.stmt.executeQuery("SELECT LinkParent FROM links  where Id="+childId+" ;" );
+            while(resultSet.next())
+            {
+                int parentId=resultSet.getInt("LinkParent");
+                return this.stmt.executeQuery("SELECT count(Id) as Number FROM links  where LinkParent="+parentId+" ;" ).getInt("Number");
+            }
+        }
+        catch(SQLException e)
+        {
+            System.out.println(e);
+            return -1;
+        }
+        return -1;
+    }
+    // ---------------------------------------------------------------------------------------------------------------------//
+    //-----------------------------------------------Add Link descripation--------------------------------------------------//
+    public void addDesc(int id,String desc)
+    {
+        try {
+            this.stmt.executeUpdate("UPDATE links SET Descripation=" + desc + " WHERE Id='" + id + "';");
+        }
+         catch(SQLException e)
+        {
+            System.out.println(e);
+        }
+    }
+    // ---------------------------------------------------------------------------------------------------------------------//
+
+
+
+
 }

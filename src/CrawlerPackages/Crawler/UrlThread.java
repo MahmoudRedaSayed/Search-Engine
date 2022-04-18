@@ -493,6 +493,9 @@ public class UrlThread implements  Runnable {
                             //-----------------------------------------------------------------------------------------------------------------//
                             // get the document and get the links from it
                             Document doc = Jsoup.connect(Url).get();
+                            String desc=doc.select("meta[name=description]").get(0)
+                                    .attr("content");
+                            DataBaseObject.addDesc(parentId,desc);
                             Elements links = doc.select("a[href]");
                             //-----------------------------------------------------------------------------------------------------------------//
 
@@ -569,6 +572,9 @@ public class UrlThread implements  Runnable {
                             //-----------------------------------------------------------------------------------------------------------------//
                             // get the document and get the links from it
                             Document doc = Jsoup.connect(Url).get();
+                            String desc=doc.select("meta[name=description]").get(0)
+                                    .attr("content");
+                            DataBaseObject.addDesc(parentId,desc);
                             Elements links = doc.select("a[href]");
                             //-----------------------------------------------------------------------------------------------------------------//
 
@@ -641,6 +647,9 @@ public class UrlThread implements  Runnable {
                             //-----------------------------------------------------------------------------------------------------------------//
                             // get the document and get the links from it
                             Document doc = Jsoup.connect(Url).get();
+                            String desc=doc.select("meta[name=description]").get(0)
+                                    .attr("content");
+                            DataBaseObject.addDesc(parentId,desc);
                             Elements links = doc.select("a[href]");
                             //-----------------------------------------------------------------------------------------------------------------//
 
