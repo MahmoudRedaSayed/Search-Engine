@@ -70,7 +70,6 @@ public class Main {
 
         /*---------------     Start Indexing ----------------------*/
 
-/*
         // connect to db
         DataBase connect = new DataBase();
 
@@ -138,50 +137,12 @@ public class Main {
         }
 
 
-        System.out.println("DONE !\n");*/
+        System.out.println("DONE !\n");
 
 
 
         /*---------------     End Of Indexing ----------------------*/
-/*
-        // connect to db
-        DataBase connect = new DataBase();
 
-        // get links from db
-        ResultSet links = connect.getAllUrls();
-
-        int ID = 0;
-        String myLink = "";
-        String[][] linksInfo = new String[5500][2];
-        int i = 0,size = 0;
-
-        // extracting the links from the result set
-        while (true) {
-            try {
-                if (!links.next()) break;
-            } catch (SQLException e) {
-                e.printStackTrace();
-            }
-            try {
-                myLink= links.getString("LINK");
-                size++;
-            } catch (SQLException e) {
-                e.printStackTrace();
-            }
-            try {
-                ID = links.getInt("ID");
-            } catch (SQLException e) {
-                e.printStackTrace();
-            }
-            linksInfo[i][0] = myLink;
-            linksInfo[i++][1] = String.valueOf(ID);
-        }
-
-        // needed files
-        WorkingFiles files = new WorkingFiles(size);
-        Indexer test = new Indexer("https://jsoup.org/", "1", files);
-        test.run();
-        System.out.println("DONE");*/
 
         /*---------------     Query Processing  ----------------------*/
 //        WorkingFiles files = new WorkingFiles();

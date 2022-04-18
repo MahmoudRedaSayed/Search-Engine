@@ -56,9 +56,19 @@ public class WorkingFiles {
             {
                 for(int k = 0; k < 26; k++)
                 {
+                    currentFileName = "_";
                     currentFileName += letters.charAt(i);
                     currentFileName += letters.charAt(j);
                     currentFileName += letters.charAt(k);
+
+                    String path = HelperClass.invertedFilePath_V3(currentFileName);
+                    File myObj = new File(path);
+                    try {
+                        myObj.createNewFile();
+                    } catch (IOException e) {
+                        e.printStackTrace();
+                        System.out.println("Failed to create the file");
+                    }
 
                     invertedFiles.put(currentFileName, new File(HelperClass.invertedFilePath_V3(currentFileName)));
                     currentFileName = "";

@@ -154,7 +154,7 @@ public class Indexer implements Runnable {
             wordInfo = "[" + doc_ic + "," + tag + ']';
 
             // insert the word into the file
-            String fileName = "";
+            String fileName = "_";
             fileName += tempWord.charAt(0) ;
             fileName += tempWord.charAt(1) ;
             fileName += tempWord.charAt(2) ;
@@ -243,6 +243,14 @@ public class Indexer implements Runnable {
 
         // check if the word is already exists or not
         File workingFile = this.invertedFiles.get(fileName);
+
+        // if the file is not exist
+        if (workingFile == null)
+        {
+            System.out.println("Failed to add (" + word + ") to the file " + fileName + ".txt");
+            return;
+        }
+
         Scanner read = new Scanner(workingFile);
         String tempInput;
         while(read.hasNextLine())
