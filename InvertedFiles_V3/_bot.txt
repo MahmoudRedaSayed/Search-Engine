@@ -1,2 +1,0 @@
-/bot|[2,p]:1;
-/bottomless|[8,p]:2;

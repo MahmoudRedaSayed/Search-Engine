@@ -1,3 +1,0 @@
-/began|[8,p]:11;
-/begins—over|[8,p]:1;
-/begotten|[8,p]:3;

@@ -1,2 +1,0 @@
-/egypt|[8,p]:8;
-/egyptians|[8,p]:1;

@@ -1,5 +1,0 @@
-/telegram|[2,p]:2;[8,p]:2;
-/telescope|[9,h]:1;[9,p]:1;
-/tells|[8,p]:8;
-/telling|[8,p]:1;
-/television|[8,p]:1;

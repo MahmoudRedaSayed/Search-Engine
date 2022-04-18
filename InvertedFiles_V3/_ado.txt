@@ -1,3 +1,0 @@
-/adonet|[2,p]:4;
-/adobe|[2,p]:8;
-/adoption|[3,p]:1;

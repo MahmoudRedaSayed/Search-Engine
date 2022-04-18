@@ -1,6 +1,0 @@
-/architecture|[2,p]:2;
-/archbishop|[9,p]:2;
-/archaeology|[8,p]:1;
-/archaeological|[8,p]:1;
-/archangel|[8,p]:1;
-/archive|[8,p]:1;

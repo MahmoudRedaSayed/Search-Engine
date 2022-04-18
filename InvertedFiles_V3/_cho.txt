@@ -1,5 +1,0 @@
-/choice|[3,p]:4;
-/choices|[3,p]:1;[11,p]:1;[8,p]:1;
-/chosen|[8,s]:1;[8,p]:2;
-/choose|[8,p]:3;
-/chosen–not|[8,p]:1;

@@ -1,4 +1,0 @@
-/pallab|[9,h]:1;[9,p]:1;
-/palestine|[8,p]:2;
-/palm|[8,p]:1;
-/palace|[13,p]:1;

@@ -1,4 +1,0 @@
-/piers|[9,h]:1;[9,p]:2;
-/pierce|[11,p]:1;
-/pierced|[8,p]:2;
-/pieces|[8,p]:1;

@@ -1,3 +1,0 @@
-/vital|[4,h]:1;
-/vitamins|[2,p]:1;
-/vitaly|[9,p]:1;

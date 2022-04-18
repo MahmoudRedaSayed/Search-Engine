@@ -1,3 +1,0 @@
-/koora|[6,t]:1;[6,h]:4;[6,s]:1;
-/kooora|[6,p]:1;
-/koooralive|[6,p]:1;

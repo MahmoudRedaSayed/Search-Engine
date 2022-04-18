@@ -1,6 +1,0 @@
-/sacrifice|[8,s]:1;[8,p]:1;
-/sacrifice–ps|[8,p]:1;
-/sacrifice–hos|[8,p]:1;
-/sacrifices|[8,p]:1;
-/sackcloth|[8,p]:1;
-/sacrifice–what|[8,p]:1;

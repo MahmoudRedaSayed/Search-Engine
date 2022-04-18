@@ -1,3 +1,0 @@
-/synonyms|[3,p]:1;
-/synonymous|[8,p]:1;
-/synagogue|[8,p]:1;

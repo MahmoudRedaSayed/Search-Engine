@@ -1,2 +1,0 @@
-/eternally|[2,p]:1;[8,p]:2;
-/eternity|[8,p]:1;

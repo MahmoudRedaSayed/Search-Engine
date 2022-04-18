@@ -1,3 +1,0 @@
-/smoking|[11,h]:2;[11,p]:1;[8,p]:1;
-/smoothies|[11,h]:1;
-/smoke|[8,p]:1;

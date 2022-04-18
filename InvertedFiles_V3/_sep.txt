@@ -1,3 +1,0 @@
-/september|[3,s]:1;[8,p]:4;
-/separatists|[11,h]:1;
-/separates|[8,p]:2;

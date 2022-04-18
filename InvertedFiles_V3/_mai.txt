@@ -1,4 +1,0 @@
-/mail|[2,p]:4;
-/main|[2,p]:1;
-/mailing|[8,p]:1;
-/maintenance|[12,p]:1;

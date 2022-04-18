@@ -1,4 +1,0 @@
-/caught|[4,h]:1;[8,p]:6;
-/cautiously|[4,h]:1;[4,p]:1;
-/causing|[3,p]:2;[8,p]:1;
-/caused|[8,p]:1;

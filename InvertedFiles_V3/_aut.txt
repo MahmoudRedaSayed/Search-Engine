@@ -1,9 +1,0 @@
-/author|[2,h]:1;[2,p]:1;[8,p]:2;
-/automata|[2,p]:2;
-/automation|[2,p]:3;
-/autocad|[2,p]:2;
-/authors|[2,p]:1;
-/authenticating|[8,p]:1;
-/authorities|[8,p]:5;[13,p]:2;
-/authority|[8,p]:5;
-/authoritative|[13,p]:2;

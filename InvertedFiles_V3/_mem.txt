@@ -1,6 +1,0 @@
-/members|[3,p]:2;[9,p]:1;[8,p]:2;[13,p]:2;
-/memcached|[2,p]:2;
-/memories|[4,h]:1;[4,p]:1;
-/memory|[3,p]:2;[8,p]:2;
-/membership|[4,p]:1;[13,p]:1;
-/memorial|[9,h]:1;[9,p]:2;

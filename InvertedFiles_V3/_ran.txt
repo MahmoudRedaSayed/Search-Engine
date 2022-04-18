@@ -1,4 +1,0 @@
-/ransomed|[8,p]:1;
-/ranged|[8,p]:1;
-/ranks|[8,p]:1;
-/ranges|[8,p]:1;

@@ -1,6 +1,0 @@
-/boris|[9,h]:1;[9,p]:2;
-/born|[8,p]:12;
-/born–again|[8,p]:2;
-/born–when?|[8,p]:1;
-/born-digital|[12,p]:1;
-/border|[13,p]:2;

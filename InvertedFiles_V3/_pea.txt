@@ -1,3 +1,0 @@
-/pear|[2,p]:1;
-/peacock|[11,p]:1;
-/peace|[8,p]:3;

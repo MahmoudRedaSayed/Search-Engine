@@ -1,3 +1,0 @@
-/halifax|[4,h]:1;[8,p]:1;
-/hall|[4,h]:1;
-/hallucinogenic|[9,p]:2;

@@ -1,3 +1,0 @@
-/roshan|[2,p]:1;
-/rosenfeld|[11,p]:1;[8,p]:2;[13,p]:2;
-/rosales|[11,p]:1;

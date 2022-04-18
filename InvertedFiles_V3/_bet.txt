@@ -1,7 +1,0 @@
-/betweenness|[2,p]:1;
-/betray|[8,s]:1;[8,p]:2;
-/better'|[11,h]:2;
-/betrayals|[8,s]:1;[8,p]:2;
-/betraying|[8,p]:1;
-/betrayed|[8,p]:1;
-/better-than-expected|[13,p]:2;

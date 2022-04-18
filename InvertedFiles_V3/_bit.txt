@@ -1,5 +1,0 @@
-/bit_length|[2,p]:1;
-/bitesize|[9,p]:3;
-/bitter|[8,p]:1;
-/bitterly|[8,p]:1;
-/bitterness|[8,p]:1;

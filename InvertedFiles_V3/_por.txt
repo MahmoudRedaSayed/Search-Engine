@@ -1,6 +1,0 @@
-/portability|[3,p]:1;[13,p]:2;
-/portraits|[9,h]:1;[9,p]:2;
-/portuguese|[9,p]:1;
-/portrays|[8,p]:1;
-/pornography|[8,p]:1;
-/portfolio|[13,p]:2;

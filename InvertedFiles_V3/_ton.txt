@@ -1,4 +1,0 @@
-/tonsillitis|[2,p]:1;
-/tonga|[9,h]:1;[9,p]:1;
-/tongues|[8,p]:4;
-/tone|[13,p]:1;

@@ -1,7 +1,0 @@
-/crime|[4,h]:1;[4,p]:1;
-/critics|[9,h]:1;[9,p]:2;[13,p]:2;
-/crisis|[11,h]:2;[11,p]:1;[13,p]:2;
-/criticism|[9,p]:2;[13,p]:1;
-/criticizes|[11,h]:1;
-/crieth|[8,p]:1;
-/cries|[8,p]:1;

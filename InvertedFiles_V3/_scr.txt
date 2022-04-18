@@ -1,9 +1,0 @@
-/script|[2,p]:2;
-/scripture|[8,s]:1;[8,p]:5;
-/scrambles|[11,h]:1;[11,p]:1;
-/screaming|[8,s]:1;[8,p]:2;
-/scriptural|[8,p]:1;
-/scriptures|[8,p]:9;
-/scrolls|[8,p]:4;
-/screams|[8,p]:1;
-/screen|[13,p]:2;

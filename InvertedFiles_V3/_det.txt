@@ -1,4 +1,0 @@
-/determined|[3,p]:1;[8,p]:2;[13,p]:2;
-/details|[3,p]:1;
-/detail  |[8,p]:1;
-/deterrent'|[13,p]:1;

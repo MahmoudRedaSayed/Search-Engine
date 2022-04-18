@@ -1,4 +1,0 @@
-/summer|[2,p]:3;
-/summoned|[8,p]:1;
-/summary|[8,p]:1;
-/sumy|[13,p]:2;

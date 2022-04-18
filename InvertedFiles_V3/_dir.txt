@@ -1,4 +1,0 @@
-/director|[10,s]:2;
-/direction|[8,p]:1;
-/directory|[8,p]:1;
-/directors|[13,p]:2;

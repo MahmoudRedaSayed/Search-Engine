@@ -1,7 +1,0 @@
-/flask|[2,p]:2;
-/flagpole|[4,h]:1;[2,p]:1;[11,h]:2;[11,p]:1;
-/flavors|[11,h]:1;[11,p]:1;
-/flat|[8,p]:2;
-/flame|[8,p]:1;
-/flaming|[8,p]:2;
-/flames|[8,p]:1;

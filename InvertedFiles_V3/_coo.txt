@@ -1,5 +1,0 @@
-/coolkora|[6,p]:1;
-/coordination|[10,p]:1;
-/cooking|[10,p]:1;
-/cookies”|[10,p]:5;[9,p]:1;[12,p]:3;[13,p]:1;
-/cooker|[8,p]:1;

@@ -1,2 +1,0 @@
-/madhuri|[2,p]:1;
-/madrid|[9,p]:2;

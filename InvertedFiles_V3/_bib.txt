@@ -1,9 +1,0 @@
-/bible|[8,t]:1;[8,s]:5;[8,p]:109;
-/biblical|[8,p]:3;
-/bible?|[8,p]:1;
-/bible  |[8,p]:1;
-/bible–bible|[8,p]:1;
-/bibles|[8,p]:2;
-/bible–teaching|[8,p]:1;
-/bible”|[8,p]:1;
-/bible–mt|[8,p]:1;

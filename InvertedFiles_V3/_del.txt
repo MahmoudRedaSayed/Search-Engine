@@ -1,6 +1,0 @@
-/dell|[2,p]:1;
-/delete|[2,p]:1;
-/delays|[10,p]:1;[13,p]:1;
-/deliver|[8,s]:1;[8,p]:1;
-/delivery|[8,p]:1;
-/delayed|[13,p]:1;

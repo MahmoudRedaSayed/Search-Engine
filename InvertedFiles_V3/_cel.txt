@@ -1,5 +1,0 @@
-/celebrate|[4,h]:1;[4,p]:1;[11,h]:1;[11,p]:1;
-/cell|[2,p]:1;
-/celestial|[9,h]:1;[9,p]:2;
-/celebrates|[11,h]:1;[11,p]:1;
-/celtics|[13,p]:1;

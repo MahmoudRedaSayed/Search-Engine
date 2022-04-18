@@ -1,4 +1,0 @@
-/mirza|[2,p]:1;
-/mire?|[9,p]:2;
-/miracle|[8,p]:1;
-/miracles|[8,p]:7;

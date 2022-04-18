@@ -172,9 +172,16 @@ public class QueryProcessing{
             words.add(result[i]);
             ArrayList<String> oneWordResult = new ArrayList<String>();
 
+            String fileName = "";
+            if (HelperClass.isProbablyArabic(result[i]))
+                fileName = "arabic";
+            else if(result[i].length() == 2)
+                fileName = "two";
 
+            else
+                fileName = "_" + result[i].substring(0,3);
 
-            searchInInvertedFiles(result[i], invertedFiles.get(result[i].substring(0,2)),oneWordResult, true);
+            searchInInvertedFiles(result[i], invertedFiles.get(fileName),oneWordResult, true);
 
             int length_2 = oneWordResult.size();
             for(int j = 0; j<length_2; j++)

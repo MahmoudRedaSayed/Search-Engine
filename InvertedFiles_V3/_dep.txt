@@ -1,8 +1,0 @@
-/deployment—on-premises|[3,p]:4;
-/deployments|[3,p]:2;
-/depp's|[11,h]:1;[11,p]:1;
-/depression|[9,p]:2;
-/depart|[8,p]:4;
-/departed|[8,p]:1;
-/depths|[8,p]:1;
-/deployed|[13,p]:1;

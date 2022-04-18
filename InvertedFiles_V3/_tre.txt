@@ -1,9 +1,0 @@
-/trending|[2,h]:1;[4,h]:1;[2,p]:1;
-/trends|[3,p]:1;[2,p]:1;
-/treatment|[4,h]:1;[9,p]:2;
-/tree|[2,p]:2;[8,p]:4;
-/trees|[9,h]:1;[9,p]:2;[8,p]:4;
-/treaty|[8,p]:1;
-/tread|[8,p]:2;
-/tremble|[8,p]:2;
-/treating|[13,p]:1;

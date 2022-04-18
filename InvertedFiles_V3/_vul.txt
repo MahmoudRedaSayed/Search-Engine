@@ -1,1 +1,0 @@
-/vulnerable|[4,h]:1;

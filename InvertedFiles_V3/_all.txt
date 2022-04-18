@@ -1,8 +1,0 @@
-/allotment|[2,p]:1;
-/alliance|[8,s]:1;[8,p]:1;
-/allied|[8,p]:2;
-/all”|[8,p]:2;
-/allies|[8,p]:1;[13,p]:5;
-/allowed|[8,p]:2;
-/all–ref|[8,p]:1;
-/ally|[13,p]:1;

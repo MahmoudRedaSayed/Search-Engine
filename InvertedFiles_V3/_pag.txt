@@ -1,2 +1,0 @@
-/pagination|[2,p]:1;
-/pages    tommorows|[8,p]:1;

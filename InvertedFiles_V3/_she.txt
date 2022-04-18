@@ -1,4 +1,0 @@
-/shell|[2,p]:2;[8,p]:1;
-/sherlock|[2,p]:1;
-/shevchenko's|[9,p]:1;
-/shelter|[9,p]:1;

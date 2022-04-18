@@ -1,3 +1,0 @@
-/splunk|[2,p]:2;
-/split|[2,p]:2;
-/splendor|[8,p]:2;

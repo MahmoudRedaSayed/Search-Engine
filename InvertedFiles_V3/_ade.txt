@@ -1,2 +1,0 @@
-/adequate|[8,p]:2;
-/adequately|[8,p]:1;

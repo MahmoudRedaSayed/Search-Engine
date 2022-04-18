@@ -1,3 +1,0 @@
-/ramadan|[4,h]:1;[4,p]:1;
-/raman|[2,p]:1;
-/ramona|[11,p]:1;

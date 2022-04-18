@@ -1,2 +1,0 @@
-/dedicated|[12,p]:1;
-/deduction|[13,p]:1;

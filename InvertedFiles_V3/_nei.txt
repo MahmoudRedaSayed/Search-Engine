@@ -1,2 +1,0 @@
-/neighbours|[4,h]:1;[13,p]:2;
-/neighbors|[8,p]:1;

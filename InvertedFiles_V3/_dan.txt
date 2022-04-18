@@ -1,3 +1,0 @@
-/dangling|[2,p]:1;[8,p]:6;
-/danger|[8,p]:1;
-/daniel|[8,p]:5;

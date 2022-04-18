@@ -1,9 +1,0 @@
-/africa|[3,p]:1;[9,h]:2;[9,p]:8;[11,h]:1;[13,h]:1;
-/africa's|[9,h]:2;[9,p]:4;
-/african|[9,p]:2;[13,p]:2;
-/afraid|[8,p]:1;
-/afrique|[9,p]:1;
-/africasouth|[13,p]:1;
-/africajoint|[13,p]:1;
-/africalibya's|[13,p]:1;
-/africaburkina|[13,p]:1;

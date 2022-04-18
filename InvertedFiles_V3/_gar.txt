@@ -1,4 +1,0 @@
-/garena|[2,p]:1;
-/gartner|[3,p]:1;
-/garden|[11,h]:1;[8,p]:2;
-/garments|[8,p]:1;

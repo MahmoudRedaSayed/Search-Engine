@@ -1,3 +1,0 @@
-/sticks|[10,p]:1;
-/sting|[8,p]:2;
-/stings|[8,p]:1;

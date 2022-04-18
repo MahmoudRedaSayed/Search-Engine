@@ -1,7 +1,0 @@
-/selenium|[2,p]:9;
-/selected|[4,p]:2;[11,p]:1;
-/selection|[2,p]:2;
-/self–control|[8,s]:1;[8,p]:1;
-/sell|[8,s]:1;[11,p]:1;[9,p]:1;[8,p]:3;
-/self–reliant|[8,p]:1;
-/self–centered|[8,p]:1;

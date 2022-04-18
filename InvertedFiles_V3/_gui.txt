@@ -1,3 +1,0 @@
-/guide|[3,p]:1;
-/guidelines‐reading|[8,p]:3;[13,p]:2;
-/guidance|[9,p]:1;

@@ -1,2 +1,0 @@
-/spurred|[11,h]:1;
-/sputter|[13,p]:1;

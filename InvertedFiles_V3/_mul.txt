@@ -1,9 +1,0 @@
-/multiple|[4,h]:2;[3,p]:1;[2,p]:3;[9,h]:1;[9,p]:1;[8,p]:2;
-/multilanguage|[3,p]:1;
-/multilingual|[3,p]:1;
-/multiapplication|[3,p]:1;
-/multitenant|[3,p]:1;
-/multimedia|[2,p]:1;[13,p]:1;
-/multiplexing|[2,p]:1;
-/multitude|[8,s]:1;[8,p]:3;
-/mulls|[13,p]:1;

@@ -1,3 +1,0 @@
-/targets|[4,h]:1;[13,p]:2;
-/tartaric|[2,p]:1;
-/targeted|[13,p]:1;

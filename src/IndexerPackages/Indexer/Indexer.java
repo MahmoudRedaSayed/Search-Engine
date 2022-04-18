@@ -15,11 +15,11 @@ public class Indexer implements Runnable {
 
     private PageParsing page;
     private String[] myInfo;        // to store the url and its id
-    // private String[] Documents;
+    private Map<Character, Vector<String>> stopWords;
     private Map<String, File> invertedFiles;
     //private PorterStemmer stemmingObject;
     //private String[] stopWords;
-    private Map<Character, Vector<String>> stopWords;
+    // private String[] Documents;
 
     // constructor
     public Indexer(String url, String urlId, WorkingFiles filesReference)
@@ -29,18 +29,10 @@ public class Indexer implements Runnable {
         // initialization
         page = new PageParsing();
         stopWords = new HashMap<>();
-        //invertedFiles = new HashMap<Character, File>();
-        //stemmingObject = new PorterStemmer();
-        /*initializeFiles();
-        try {
-            readStopWords();
-        } catch (FileNotFoundException e) {
-            System.out.println("Failed to open Stop words file");
-            e.printStackTrace();
-        }*/
-        //stopWords     = filesReference.getStopWordsAsArr();
+
         stopWords     = filesReference.getStopWordsAsMap();
         invertedFiles = filesReference.getInvertedFiles();
+
         // set some needed info
         myInfo = new String[2];
         myInfo[0] = url;
@@ -66,60 +58,14 @@ public class Indexer implements Runnable {
         paragraphProcessing(doc_id);
     }
 
-   /* // initialization of inverted files
-    private void initializeFiles()
-    {
-        invertedFiles = new HashMap<String, File>();
-        String letters = "qwertyuiopasdfghjklzxcvbnm";
-        String currentFileName = "";
-
-        for (int i = 0; i < 26; i++){
-            currentFileName += letters.charAt(i);
-            for (int j = 0; j < 26; j++)
-            {
-                currentFileName += letters.charAt(j);
-                invertedFiles.put(currentFileName, new File(HelperClass.invertedFilePath(currentFileName)));
-            }
-        }
-    }*/
-
-    /*// get Urls from Data Base
-    private void setUrls()
-    {
-        // get it from database
-    }*/
-
-    // setter for the page           ( will be modified )
+    // setter for the page
     private void setPage(String url) {
         try {
             page.parseDocument(url);
         } catch (IOException e) {
             System.out.println("Error in setting the URL (Error Location : Class Indexer --> setPage function\n");
-            e.printStackTrace();
         }
     }
-
-    // read the stop words
- /*   private void readStopWords() throws FileNotFoundException {
-        // open the file that contains stop words
-        String filePath = System.getProperty("user.dir");   // get the directory of the project
-        filePath += File.separator + "helpers" + File.separator + "stop_words.txt";
-        File myFile = new File(filePath);
-
-        //this.stopWords = new String[851];
-
-        // read from the file
-        Scanner read = new Scanner(myFile);
-        String tempInput;
-        int counter = 0;
-        while(read.hasNextLine())
-        {
-            tempInput = read.nextLine();
-            //stopWords[counter++] = tempInput;
-        }
-        read.close();
-
-    }*/
 
     // String Processing
     private void singleStringProcessing(String str, char tag, String doc_ic)    // tag --> ('t' = page title, 'h' = "heading", 'p' = "paragraph)
@@ -155,7 +101,11 @@ public class Indexer implements Runnable {
 
             // insert the word into the file
             String fileName = "";
-            if(tempWord.length() > 2)
+            if(HelperClass.isProbablyArabic(tempWord))
+            {
+                fileName = "arabic";
+            }
+            else if(tempWord.length() > 2)
             {
                 fileName = "_";
                 fileName += tempWord.charAt(0) ;
@@ -164,8 +114,6 @@ public class Indexer implements Runnable {
             }else if (tempWord.length() == 2)
             {
                 fileName = "two";
-            }else{
-                fileName = "arabic";
             }
 
             try {
@@ -174,7 +122,6 @@ public class Indexer implements Runnable {
             }
             catch (IOException e) {
                 System.out.println("Error in adding ( "+ tempWord + '|' + wordInfo +" ) to its inverted file ");
-                e.printStackTrace();
             }
         }
     }
@@ -253,7 +200,6 @@ public class Indexer implements Runnable {
     }
 
     // add to the file
-    // NOTE : info must be = doc_ic,h or p;    Karim --> this function must be synchronized
     private synchronized void addToFile(String word, String fileName, String info) throws IOException  // fileName is the first letter
     {
         String filePath = System.getProperty("user.dir") + File.separator + "InvertedFiles_V3" + File.separator + fileName + ".txt";
@@ -341,12 +287,4 @@ public class Indexer implements Runnable {
         return line;
 
     }
-
-    /*// stem the word using Porter Stemmer Lib
-    private String stemTheWord(String word)
-    {
-        stemmingObject.setCurrent(word);
-        stemmingObject.stem();
-        return stemmingObject.getCurrent();
-    }*/
 }

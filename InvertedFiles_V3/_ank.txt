@@ -1,2 +1,0 @@
-/anker|[11,h]:1;
-/ankerberg|[8,p]:1;

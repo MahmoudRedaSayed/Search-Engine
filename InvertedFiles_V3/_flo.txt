@@ -1,4 +1,0 @@
-/floor|[2,p]:1;
-/flood|[9,h]:1;[9,p]:2;[8,p]:4;
-/flowed|[8,p]:1;
-/flood-ravaged|[13,p]:1;

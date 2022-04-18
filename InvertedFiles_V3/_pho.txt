@@ -1,4 +1,0 @@
-/phonegap|[2,p]:4;
-/photoshop|[2,p]:4;[9,h]:1;[11,p]:1;[8,p]:5;[9,p]:2;
-/phones|[2,p]:2;
-/photography|[11,p]:1;

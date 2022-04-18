@@ -1,2 +1,0 @@
-/hebrew|[8,p]:3;
-/hebrews|[8,p]:1;

@@ -1,5 +1,0 @@
-/crucified|[8,s]:1;[8,p]:2;
-/crusade|[8,p]:1;
-/cruel|[8,p]:1;
-/crushed|[8,p]:2;
-/crumble|[8,p]:1;

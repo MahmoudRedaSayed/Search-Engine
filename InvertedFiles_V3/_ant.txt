@@ -1,7 +1,0 @@
-/ant|[2,p]:2;
-/antibiotics|[2,p]:1;
-/antivirus|[2,p]:1;
-/antichrist|[8,s]:4;[8,p]:62;
-/anthony|[9,h]:1;[9,p]:1;
-/ants|[8,p]:2;
-/antibodies|[13,p]:1;

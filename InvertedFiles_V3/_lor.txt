@@ -1,6 +1,0 @@
-/lord|[8,s]:12;[8,p]:66;
-/lord—perhaps|[8,p]:1;
-/lords|[8,p]:5;
-/lord’s|[8,p]:1;
-/lord's|[8,p]:1;
-/lord?|[8,p]:2;

@@ -1,9 +1,0 @@
-/sports|[6,p]:2;[4,p]:1;[2,p]:1;[9,h]:1;[9,p]:7;[11,p]:1;[8,p]:1;[13,h]:1;[13,p]:1;
-/spotify|[2,p]:1;
-/sport's|[9,p]:2;
-/spoken|[8,p]:2;
-/spoil|[8,p]:1;
-/sportsnba|[13,p]:1;
-/sportsnhl|[13,p]:1;
-/sportsmlb|[13,p]:1;
-/sportschelsea|[13,p]:1;

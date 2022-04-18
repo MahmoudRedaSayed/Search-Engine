@@ -89,6 +89,18 @@ public class WorkingFiles {
             System.out.println("Failed to create the file");
         }
 
+        // create a file for Arabic words
+        currentFileName = "arabic";
+        path = HelperClass.invertedFilePath_V3(currentFileName);
+        File myObj_2 = new File(path);
+        try {
+            myObj_2.createNewFile();
+            invertedFiles.put(currentFileName, new File(HelperClass.invertedFilePath_V3(currentFileName)));
+        } catch (IOException e) {
+            e.printStackTrace();
+            System.out.println("Failed to create the file");
+        }
+
         // print
         System.out.println("Content Files Created Successfully");
     }

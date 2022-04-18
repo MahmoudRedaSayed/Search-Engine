@@ -1,6 +1,0 @@
-/blasts|[4,h]:2;[11,h]:1;[11,p]:1;
-/black|[4,h]:1;[9,h]:1;[11,h]:2;[9,p]:2;[11,p]:2;[8,p]:1;
-/blank|[2,p]:1;
-/blackbuck|[2,p]:1;
-/blasphemies|[8,s]:1;[8,p]:1;
-/blaspheme|[8,p]:2;

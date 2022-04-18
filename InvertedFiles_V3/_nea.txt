@@ -1,3 +1,0 @@
-/neal|[11,p]:1;
-/nearing|[8,p]:3;
-/nearby|[8,p]:1;

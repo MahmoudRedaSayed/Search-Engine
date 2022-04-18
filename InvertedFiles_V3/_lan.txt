@@ -1,5 +1,0 @@
-/language|[3,p]:4;[2,p]:2;
-/landlord|[4,h]:1;[2,p]:1;[8,s]:3;[11,h]:1;[8,p]:13;
-/landing|[2,p]:2;
-/languages|[9,h]:2;[8,p]:1;
-/lankan|[13,p]:1;

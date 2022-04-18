@@ -1,7 +1,0 @@
-/russian|[4,h]:3;[4,p]:1;[9,h]:5;[11,h]:2;[8,s]:2;[9,p]:9;[8,p]:13;[11,p]:1;[13,p]:9;
-/rust|[2,p]:2;
-/russia’s|[4,h]:1;[4,p]:1;
-/russia-ukraine|[11,h]:1;[11,p]:1;
-/rush|[11,h]:2;
-/russia–ezek|[8,p]:1;
-/russian–usa|[8,p]:2;

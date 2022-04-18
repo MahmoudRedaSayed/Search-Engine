@@ -1,8 +1,0 @@
-/talend|[2,p]:2;
-/tally|[2,p]:3;
-/talk|[3,p]:1;[8,p]:1;
-/tallest|[2,p]:1;
-/talent|[10,p]:2;
-/talking|[8,p]:1;[13,h]:1;
-/talebearers|[8,p]:1;
-/talks|[13,p]:1;

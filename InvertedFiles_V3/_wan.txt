@@ -1,3 +1,0 @@
-/wanting|[8,p]:1;
-/wanted|[8,p]:1;
-/wander|[8,p]:1;

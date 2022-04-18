@@ -1,2 +1,0 @@
-/wrestling|[4,h]:1;
-/wretched|[8,p]:3;

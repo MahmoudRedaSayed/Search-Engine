@@ -1,4 +1,0 @@
-/journalist|[4,h]:1;
-/journalistic|[4,p]:1;
-/journey|[9,h]:1;[9,p]:1;
-/journals|[12,h]:1;[12,p]:3;

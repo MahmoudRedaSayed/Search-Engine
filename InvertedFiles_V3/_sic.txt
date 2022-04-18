@@ -1,2 +1,0 @@
-/sickness|[8,p]:1;
-/sickle|[8,p]:1;

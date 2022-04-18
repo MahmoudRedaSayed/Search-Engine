@@ -1,5 +1,0 @@
-/him?|[8,p]:1;
-/him?”|[8,p]:1;
-/him–ref|[8,p]:1;
-/him–titus|[8,p]:1;
-/him–heb|[8,p]:1;

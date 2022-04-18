@@ -1,2 +1,0 @@
-/vegetable|[9,p]:2;
-/vegetation|[8,p]:1;

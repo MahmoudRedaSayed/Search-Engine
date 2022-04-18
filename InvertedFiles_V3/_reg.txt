@@ -1,8 +1,0 @@
-/regex|[2,p]:2;
-/regulatory|[3,p]:1;
-/registry|[4,p]:1;
-/regain|[8,s]:1;
-/regard|[8,p]:1;
-/region|[13,p]:3;
-/regions|[13,p]:1;
-/regrets|[13,p]:1;

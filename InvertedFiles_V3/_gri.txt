@@ -1,3 +1,0 @@
-/grid|[2,p]:1;
-/grievous|[8,p]:1;
-/grip|[8,p]:1;

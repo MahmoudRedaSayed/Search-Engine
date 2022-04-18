@@ -1,3 +1,0 @@
-/dropdowns|[2,p]:1;
-/drowns|[11,h]:1;[11,p]:1;
-/drought|[11,h]:1;

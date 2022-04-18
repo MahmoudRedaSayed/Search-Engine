@@ -1,3 +1,0 @@
-/wasting|[3,p]:1;
-/wasn’t|[8,p]:1;
-/wasted|[8,p]:1;

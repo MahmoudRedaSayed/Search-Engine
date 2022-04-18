@@ -1,3 +1,0 @@
-/battle|[8,p]:29;
-/bats|[8,p]:1;
-/battle–spiritual|[8,p]:1;

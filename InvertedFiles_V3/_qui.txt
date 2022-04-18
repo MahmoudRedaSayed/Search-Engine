@@ -1,3 +1,0 @@
-/quiz|[2,p]:2;
-/quietly|[4,h]:1;
-/quick|[8,p]:1;

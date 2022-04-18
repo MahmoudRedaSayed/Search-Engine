@@ -1,3 +1,0 @@
-/peterborough|[9,h]:1;[9,p]:4;[8,p]:1;
-/petro|[9,p]:2;
-/petersburg|[8,p]:1;

@@ -1,5 +1,0 @@
-/farm|[4,h]:1;[8,s]:1;[8,p]:1;
-/farce'|[9,h]:1;[9,p]:2;
-/farewell|[9,h]:1;[9,p]:2;
-/far-right|[9,p]:2;
-/farmland|[8,p]:1;

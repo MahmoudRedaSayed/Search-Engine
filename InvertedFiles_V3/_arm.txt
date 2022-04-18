@@ -1,7 +1,0 @@
-/arm|[3,p]:1;
-/army|[8,s]:1;[8,p]:5;
-/armies|[8,s]:1;[8,p]:14;
-/armageddon|[8,p]:33;
-/armageddon”|[8,p]:1;
-/armageddon–christ|[8,p]:1;
-/armageddon–the|[8,p]:2;
