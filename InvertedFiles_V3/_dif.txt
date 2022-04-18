@@ -1,0 +1,4 @@
+/difference|[2,p]:2;
+/difficult|[8,p]:3;
+/difficulties|[8,p]:1;
+/difficult"|[13,p]:2;

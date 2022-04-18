@@ -83,6 +83,7 @@ public class WorkingFiles {
         File myObj = new File(path);
         try {
             myObj.createNewFile();
+            invertedFiles.put(currentFileName, new File(HelperClass.invertedFilePath_V3(currentFileName)));
         } catch (IOException e) {
             e.printStackTrace();
             System.out.println("Failed to create the file");

@@ -1,0 +1,4 @@
+/pens|[2,p]:1;[13,p]:3;
+/pennsylvania|[11,h]:1;[11,p]:1;
+/penetrate|[8,p]:1;
+/pension|[13,p]:1;

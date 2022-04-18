@@ -1,0 +1,2 @@
+/dwell|[8,p]:3;
+/dwellings|[8,p]:1;

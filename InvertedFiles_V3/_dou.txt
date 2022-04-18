@@ -1,0 +1,3 @@
+/doubt|[8,s]:1;[8,p]:1;
+/double–minded|[8,p]:1;
+/doubts|[8,p]:2;

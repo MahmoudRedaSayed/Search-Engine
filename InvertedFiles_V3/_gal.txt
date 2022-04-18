@@ -1,0 +1,4 @@
+/gallager|[9,h]:2;[9,p]:2;
+/galilee|[8,p]:2;
+/gallery|[13,p]:34;
+/galleryapril|[13,p]:2;

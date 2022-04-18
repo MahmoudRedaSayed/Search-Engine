@@ -1,0 +1,3 @@
+/phishing|[2,p]:1;
+/phil|[9,p]:2;
+/philosophyor|[8,p]:1;

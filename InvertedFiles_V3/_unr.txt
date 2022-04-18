@@ -1,0 +1,4 @@
+/unrighteous|[8,s]:1;[8,p]:1;
+/unrest|[8,p]:1;
+/unrecognizable|[8,p]:1;
+/unrivalled|[13,p]:2;

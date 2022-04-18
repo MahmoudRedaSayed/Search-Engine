@@ -1,0 +1,3 @@
+/drugs|[8,s]:2;[9,p]:2;[8,p]:5;
+/drunkenness|[8,s]:1;[8,p]:2;
+/drugs–rev|[8,p]:1;

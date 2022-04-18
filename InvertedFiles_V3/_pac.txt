@@ -1,0 +1,6 @@
+/pacific|[3,p]:1;[13,h]:1;
+/packages|[2,p]:1;
+/pacificin|[13,p]:1;
+/pacificus|[13,p]:1;
+/pacificsri|[13,p]:1;
+/pacificstudy|[13,p]:1;

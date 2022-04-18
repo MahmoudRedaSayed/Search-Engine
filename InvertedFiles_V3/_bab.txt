@@ -1,0 +1,7 @@
+/babies|[8,p]:1;
+/baby|[8,p]:2;
+/babylon|[8,p]:3;
+/babylonian|[8,p]:1;
+/babylonians|[8,p]:1;
+/baby?|[8,p]:1;
+/babes|[8,p]:1;

@@ -1,0 +1,7 @@
+/dart|[2,p]:2;
+/darshan|[2,p]:1;
+/darknet|[9,h]:1;[9,p]:1;
+/darkness|[8,s]:3;[8,p]:11;
+/darkened|[8,p]:1;
+/darkness–not|[8,p]:1;
+/darvish|[13,p]:1;

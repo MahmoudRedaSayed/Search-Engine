@@ -1,0 +1,7 @@
+/stephanie|[4,h]:2;[4,p]:1;[13,p]:1;
+/steady|[3,p]:1;
+/stephen|[2,p]:1;
+/steve|[2,p]:1;
+/steps|[8,s]:1;[11,p]:1;[8,p]:2;
+/stealing|[11,h]:2;[11,p]:1;[8,p]:2;
+/steers|[13,p]:1;

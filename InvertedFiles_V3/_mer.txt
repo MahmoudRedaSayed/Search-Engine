@@ -1,0 +1,4 @@
+/merians|[11,p]:1;
+/mercy|[8,p]:6;
+/merchants|[8,p]:1;
+/merciful|[8,p]:2;

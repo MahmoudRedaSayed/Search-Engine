@@ -1,0 +1,5 @@
+/bankruptcy|[4,h]:1;[9,h]:1;[11,h]:2;[9,p]:1;[11,p]:2;[13,p]:7;
+/bangalore|[2,p]:1;
+/bands|[2,p]:1;
+/bangla|[9,p]:1;
+/bankers|[13,p]:2;

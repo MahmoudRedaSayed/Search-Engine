@@ -1,0 +1,7 @@
+/drives|[3,p]:2;[8,p]:3;
+/driver|[4,h]:1;
+/drive-by|[4,h]:2;[4,p]:1;
+/driving|[3,p]:1;
+/drinking|[8,p]:9;
+/dried|[8,p]:2;
+/driven|[8,p]:1;

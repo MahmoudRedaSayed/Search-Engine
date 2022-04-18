@@ -1,0 +1,5 @@
+/public|[4,h]:1;[4,p]:2;[10,h]:1;[9,h]:1;[10,p]:3;[9,p]:4;[8,p]:1;
+/public's|[4,h]:1;
+/publicly|[8,p]:1;
+/publications|[12,p]:1;
+/publishing|[12,p]:2;

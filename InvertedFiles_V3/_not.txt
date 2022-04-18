@@ -1,0 +1,5 @@
+/note|[8,s]:2;[8,p]:9;
+/notice|[11,p]:1;[12,p]:1;
+/noticed|[8,p]:1;
+/notorious|[8,p]:1;
+/nothing–job|[8,p]:1;

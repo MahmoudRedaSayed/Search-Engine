@@ -1,0 +1,3 @@
+/sweden|[9,h]:1;[9,p]:2;[13,p]:1;
+/swensen|[11,p]:1;
+/swearing|[8,p]:2;

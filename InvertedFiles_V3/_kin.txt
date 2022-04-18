@@ -1,0 +1,11 @@
+/king|[6,p]:1;[8,p]:9;
+/kingdom|[8,s]:2;[8,p]:14;
+/kings|[8,s]:1;[8,p]:22;
+/kinyarwanda|[9,p]:1;
+/kingdom–dan|[8,p]:1;
+/kind|[8,p]:1;
+/kinds|[8,p]:3;
+/kingdom—that|[8,p]:1;
+/kingdoms|[8,p]:4;
+/kindreds|[8,p]:1;
+/kinsfolks|[8,p]:1;

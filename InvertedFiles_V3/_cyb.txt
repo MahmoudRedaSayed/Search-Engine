@@ -1,0 +1,3 @@
+/cyber|[2,p]:2;
+/cyberbreach|[4,h]:1;
+/cybersecurity|[11,h]:1;

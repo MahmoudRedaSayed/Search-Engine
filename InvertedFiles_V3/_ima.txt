@@ -1,0 +1,6 @@
+/image|[3,p]:1;[2,p]:2;[8,s]:3;[8,p]:22;[13,p]:18;
+/imagination|[4,h]:1;[8,p]:1;
+/imagick|[2,p]:3;
+/images|[9,h]:1;[9,p]:2;[11,p]:9;[8,p]:1;[13,h]:1;
+/imaginable|[8,p]:1;
+/imageeurope|[13,p]:1;

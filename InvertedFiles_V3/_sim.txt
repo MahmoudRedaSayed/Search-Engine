@@ -1,0 +1,3 @@
+/simplifies|[3,p]:1;
+/simple|[9,p]:2;
+/simply|[8,p]:1;

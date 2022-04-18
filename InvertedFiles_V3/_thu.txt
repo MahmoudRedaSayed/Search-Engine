@@ -1,0 +1,4 @@
+/thursday|[3,p]:1;[9,h]:1;[9,p]:1;
+/thunder|[4,h]:1;
+/thunderings|[8,p]:2;
+/thunders|[8,p]:1;

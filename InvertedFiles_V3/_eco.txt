@@ -1,0 +1,4 @@
+/ecosystems|[3,p]:1;
+/economic|[8,s]:1;[8,p]:2;
+/economy|[9,h]:2;[9,p]:2;
+/economy?|[8,p]:1;

@@ -1,0 +1,6 @@
+/hatchback|[2,p]:1;
+/hath|[8,s]:2;[8,p]:4;
+/hate|[8,p]:4;
+/hatred|[8,p]:4;
+/hated|[8,p]:1;
+/hateful|[8,p]:1;

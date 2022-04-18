@@ -1,0 +1,11 @@
+/survey|[3,p]:1;
+/survivor|[4,h]:1;[4,p]:1;
+/surrender|[4,h]:1;[4,p]:1;[8,p]:4;
+/surat|[2,p]:1;
+/survive|[9,h]:1;[8,s]:1;[9,p]:2;[8,p]:5;
+/survived|[8,p]:2;
+/surrendered|[8,p]:1;
+/survival|[8,p]:1;
+/surveillance|[8,p]:1;
+/surrounding|[8,p]:1;
+/surrendering|[8,p]:1;

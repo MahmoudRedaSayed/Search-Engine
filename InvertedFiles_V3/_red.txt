@@ -1,0 +1,7 @@
+/reduces|[3,p]:5;[10,p]:1;[9,p]:2;[8,p]:1;
+/redis|[2,p]:2;
+/reduction|[2,p]:1;
+/reddit|[11,p]:1;
+/reduced|[8,p]:1;
+/redeemed|[8,p]:1;
+/reddish|[8,p]:1;

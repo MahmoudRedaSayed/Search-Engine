@@ -1,0 +1,5 @@
+/whosoever|[8,p]:2;
+/whore|[8,p]:1;
+/whore—that|[8,p]:1;
+/whore”|[8,p]:1;
+/whoring|[8,p]:1;

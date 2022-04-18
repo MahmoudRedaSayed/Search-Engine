@@ -1,0 +1,7 @@
+/pandas|[2,p]:2;
+/pandya|[2,p]:1;
+/pandey|[2,p]:1;
+/panic|[11,h]:1;[11,p]:1;
+/pandemic|[11,h]:1;
+/pangs|[8,p]:2;
+/panel|[12,p]:1;

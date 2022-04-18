@@ -1,0 +1,6 @@
+/bought|[4,h]:1;
+/bounce|[9,p]:2;
+/bound|[8,p]:1;
+/bounds|[8,p]:2;
+/boundries|[8,p]:1;
+/bounces|[13,p]:1;

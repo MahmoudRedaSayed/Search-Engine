@@ -1,0 +1,2 @@
+/algorithm|[2,p]:1;
+/algeria|[13,p]:1;

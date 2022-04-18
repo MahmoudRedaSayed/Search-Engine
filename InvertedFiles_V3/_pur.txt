@@ -1,0 +1,4 @@
+/purecss|[2,p]:2;
+/purifiers|[2,p]:1;[11,h]:1;
+/purgatory|[8,p]:2;
+/purifies|[8,p]:1;

@@ -1,0 +1,4 @@
+/abomination|[8,s]:2;[8,p]:13;
+/abortion|[11,h]:1;[11,p]:1;[8,p]:1;
+/abominations|[8,p]:1;
+/abound|[8,p]:2;

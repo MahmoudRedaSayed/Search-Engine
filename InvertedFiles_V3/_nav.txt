@@ -1,0 +1,5 @@
+/navigating|[4,h]:1;
+/navbars|[2,p]:1;
+/navs|[2,p]:1;
+/navigation|[2,p]:1;
+/navigate|[8,p]:2;

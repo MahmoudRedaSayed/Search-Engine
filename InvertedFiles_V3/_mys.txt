@@ -1,0 +1,4 @@
+/mysql|[2,p]:2;
+/mysteries|[9,h]:1;[9,p]:1;
+/mystery|[8,p]:2;
+/mystical|[8,p]:1;

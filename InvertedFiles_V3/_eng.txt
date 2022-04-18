@@ -1,0 +1,4 @@
+/engineering|[2,p]:2;[3,p]:4;[10,h]:1;[10,s]:3;[8,p]:2;
+/engineers|[3,p]:1;[10,h]:2;[10,p]:3;
+/english|[2,p]:1;
+/engage|[10,h]:1;

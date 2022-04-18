@@ -1,0 +1,8 @@
+/electrical|[2,p]:3;[8,p]:9;[13,p]:1;
+/electronics|[2,p]:2;
+/elements|[3,p]:1;[2,p]:2;
+/elections|[11,h]:4;[11,p]:2;
+/elect’s|[8,p]:2;
+/elevated|[13,p]:2;
+/elected|[13,p]:2;
+/electricity|[13,p]:1;

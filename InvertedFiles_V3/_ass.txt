@@ -1,0 +1,7 @@
+/assault|[4,h]:2;[4,p]:1;[13,p]:2;
+/assessment|[2,p]:1;
+/assembly|[8,p]:1;
+/assumes|[8,p]:1;
+/assyrians|[8,p]:1;
+/assembling|[8,p]:1;
+/assemble|[8,p]:1;

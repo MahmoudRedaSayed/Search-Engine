@@ -1,0 +1,2 @@
+/skeptic|[8,s]:1;[8,p]:4;
+/skeptical|[8,p]:2;

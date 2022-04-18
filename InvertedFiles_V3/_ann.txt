@@ -1,0 +1,4 @@
+/anniversary|[4,h]:1;[2,p]:2;[3,p]:1;
+/announces|[3,p]:1;
+/annabis|[11,p]:2;
+/announcing|[8,p]:1;

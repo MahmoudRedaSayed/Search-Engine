@@ -1,0 +1,6 @@
+/life|[4,h]:1;[8,s]:1;[10,p]:1;[8,p]:27;
+/lifecycle|[3,p]:1;
+/lift'|[9,h]:1;[9,p]:1;
+/lifestyles|[8,s]:2;[8,p]:4;[13,p]:1;
+/life  prayer  |[8,p]:1;
+/lifetime|[8,p]:1;

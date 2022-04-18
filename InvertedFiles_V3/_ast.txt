@@ -1,0 +1,6 @@
+/astrologers|[2,p]:1;
+/asteroid|[9,h]:1;[9,p]:1;
+/astronauts|[11,h]:1;
+/astonished|[8,p]:2;
+/astrology|[8,p]:1;
+/astronomy|[8,p]:2;

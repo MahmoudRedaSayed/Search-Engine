@@ -1,0 +1,5 @@
+/crazy|[8,p]:1;
+/craft|[8,p]:1;
+/crags|[8,p]:1;
+/cracks|[8,p]:1;
+/crash|[8,p]:1;

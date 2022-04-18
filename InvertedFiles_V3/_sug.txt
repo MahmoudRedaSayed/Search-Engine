@@ -1,0 +1,2 @@
+/suggestions|[12,p]:1;
+/suggests|[13,p]:1;

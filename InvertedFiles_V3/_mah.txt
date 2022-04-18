@@ -1,0 +1,2 @@
+/maharashtra|[2,p]:1;
+/mahad|[9,p]:2;

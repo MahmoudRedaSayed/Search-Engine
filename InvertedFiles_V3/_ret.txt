@@ -1,0 +1,5 @@
+/returned|[3,p]:1;[2,p]:1;[8,s]:1;[10,s]:1;[8,p]:29;
+/returns|[8,p]:5;
+/returning|[8,p]:2;
+/returns–scripture|[8,p]:1;
+/return–why?|[8,p]:1;

@@ -1,0 +1,2 @@
+/admit|[8,p]:7;
+/admitted|[8,p]:1;

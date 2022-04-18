@@ -1,0 +1,3 @@
+/flipkart|[2,p]:1;
+/flipboard|[11,p]:1;
+/flight|[8,p]:1;

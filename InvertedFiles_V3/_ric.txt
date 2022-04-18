@@ -1,0 +1,3 @@
+/richfaces|[2,p]:2;[3,p]:1;[8,p]:3;
+/richest|[2,p]:1;
+/rice|[2,p]:1;

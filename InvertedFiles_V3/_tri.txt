@@ -1,0 +1,14 @@
+/trials|[2,p]:1;
+/trim|[2,p]:1;
+/trimorphic|[2,p]:1;
+/tribulation|[8,s]:10;[8,p]:85;
+/tribulation—hiding|[8,s]:1;[8,p]:1;
+/tricks|[9,p]:2;
+/tribulation's|[8,p]:1;
+/tribulation”|[8,p]:1;
+/trips|[8,p]:1;
+/tribulation–ref|[8,p]:3;
+/tribes|[8,p]:4;
+/tribulation—the|[8,p]:1;
+/tribulation–general|[8,p]:1;
+/trinity|[8,p]:1;

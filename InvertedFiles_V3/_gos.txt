@@ -1,0 +1,3 @@
+/gospel|[8,s]:1;[8,p]:10;
+/gospels|[8,p]:2;
+/gossip|[8,p]:1;

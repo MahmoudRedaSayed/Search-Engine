@@ -1,0 +1,7 @@
+/sunny|[2,p]:2;[8,p]:5;
+/sundar|[2,p]:1;
+/sundowns|[9,h]:1;[9,p]:4;
+/sunscreens|[11,h]:1;
+/sung|[8,p]:1;
+/sun?|[8,p]:1;
+/sunglasses|[8,p]:1;

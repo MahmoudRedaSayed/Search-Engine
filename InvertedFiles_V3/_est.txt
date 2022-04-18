@@ -1,0 +1,5 @@
+/estate|[3,p]:2;[2,p]:1;
+/established|[8,s]:1;[8,p]:1;
+/establishment|[8,p]:1;
+/estimated|[8,p]:4;
+/estimates|[13,p]:1;

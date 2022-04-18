@@ -1,0 +1,5 @@
+/lawyer|[4,h]:1;[8,p]:2;
+/lawsuits|[4,h]:1;[11,h]:2;[11,p]:2;[8,p]:1;
+/lawyers|[2,p]:1;
+/lawlessness|[8,s]:1;[8,p]:2;
+/lawmakers|[11,h]:2;[11,p]:1;[13,p]:3;

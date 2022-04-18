@@ -1,0 +1,15 @@
+/shortens|[3,p]:2;[8,s]:2;[10,p]:1;[8,p]:9;
+/shooting|[4,h]:3;[6,p]:3;[4,p]:1;[11,h]:1;[11,p]:1;
+/shootings|[4,h]:1;[11,h]:2;[11,p]:2;
+/shop|[4,p]:1;
+/shortcuts|[2,p]:1;
+/shops|[9,h]:1;[9,p]:1;
+/shortened|[8,s]:4;[8,p]:8;
+/shock|[9,h]:1;[9,p]:1;[8,p]:1;
+/shots|[9,h]:2;[9,p]:4;[13,p]:1;
+/showtime|[11,p]:1;
+/shower|[8,p]:1;
+/shortage|[8,p]:1;
+/short–jnt|[8,p]:1;
+/showing|[8,p]:1;
+/shortly|[8,p]:1;

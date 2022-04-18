@@ -1,0 +1,6 @@
+/capture|[4,h]:1;[10,p]:2;[13,p]:1;
+/captioning|[4,p]:1;
+/capital|[9,h]:1;[9,p]:1;[8,p]:1;
+/captains|[8,p]:1;
+/capernaum|[8,p]:1;
+/captors|[13,p]:1;

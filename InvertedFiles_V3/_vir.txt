@@ -1,0 +1,6 @@
+/virtual|[3,p]:2;
+/virtually|[8,s]:1;[8,p]:1;
+/virgin|[8,s]:2;[8,p]:3;
+/viral|[11,h]:2;[11,p]:1;
+/virgins|[8,p]:1;
+/virginia|[13,p]:1;

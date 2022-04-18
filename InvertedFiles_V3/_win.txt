@@ -1,0 +1,9 @@
+/winning|[4,h]:1;[4,p]:1;[8,p]:1;[13,p]:1;
+/windows|[2,p]:3;[8,p]:3;
+/wine|[9,h]:1;[9,p]:1;[8,p]:1;
+/wins|[9,h]:1;[9,p]:2;
+/winner|[9,p]:2;
+/winepress|[8,s]:2;[8,p]:6;
+/wings|[8,p]:4;
+/winter|[8,p]:1;
+/windstorm|[8,p]:1;

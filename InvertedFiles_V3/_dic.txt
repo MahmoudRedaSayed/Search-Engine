@@ -1,0 +1,2 @@
+/dictionary|[2,p]:1;
+/dice-rolling|[2,p]:1;

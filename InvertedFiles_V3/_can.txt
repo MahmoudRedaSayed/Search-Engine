@@ -1,0 +1,10 @@
+/canada|[4,t]:1;[4,h]:1;[4,p]:4;[9,p]:2;
+/canadians|[4,h]:3;[4,p]:3;
+/cancer|[4,h]:1;
+/candid|[3,p]:1;
+/cancel|[2,p]:2;[9,h]:1;[9,p]:2;
+/candidate|[11,h]:2;[11,p]:1;[13,p]:2;
+/canterbury|[9,p]:2;
+/can’t|[8,p]:1;
+/cancelled|[8,p]:1;
+/canopy|[8,p]:1;

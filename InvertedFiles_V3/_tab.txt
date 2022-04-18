@@ -1,0 +1,5 @@
+/tableau|[2,p]:5;[10,h]:1;[8,p]:1;
+/tables|[2,p]:1;
+/tablet|[2,p]:1;
+/tabernacles|[8,s]:1;[8,p]:3;
+/tablets|[11,h]:1;[8,p]:1;

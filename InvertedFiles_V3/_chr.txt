@@ -1,0 +1,11 @@
+/chrome|[2,p]:2;
+/chromebook|[2,p]:2;
+/christ’s|[8,s]:4;[8,p]:58;
+/christian|[8,s]:1;[8,p]:5;
+/christs|[8,s]:1;[8,p]:1;
+/chrisland|[9,p]:2;
+/christians|[8,p]:8;
+/chronological|[8,p]:2;
+/christ—that|[8,p]:1;
+/christ–nt|[8,p]:1;
+/chronology–|[8,p]:2;

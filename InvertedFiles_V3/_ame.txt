@@ -1,0 +1,7 @@
+/american|[2,h]:1;[2,p]:1;[11,h]:10;[11,p]:9;[9,p]:1;[8,p]:1;[13,p]:3;
+/americas|[3,p]:1;[13,h]:1;
+/americans|[11,h]:1;[11,p]:1;
+/amen|[8,p]:1;
+/americasmexican|[13,p]:2;
+/americaschile's|[13,p]:1;
+/americasus|[13,p]:1;

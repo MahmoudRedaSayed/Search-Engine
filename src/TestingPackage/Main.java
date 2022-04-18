@@ -70,7 +70,8 @@ public class Main {
         ///////////////////////////////////////////////////////
 
         /*---------------     Start Indexing ----------------------*/
-/*
+
+
 
 //        // connect to db
         DataBase connect = new DataBase();
@@ -145,12 +146,13 @@ public class Main {
 
         System.out.println("DONE !\n");
 
-*/
+
+
 
 
         /*---------------     End Of Indexing ----------------------*/
 
-        // connect to db
+     /*   // connect to db
         DataBase connect = new DataBase();
 
 
@@ -190,8 +192,8 @@ public class Main {
         // needed files
         WorkingFiles files = new WorkingFiles(size);
 
-        Indexer test = new Indexer("https://jsoup.org/", "1", files);
-        test.run();
+        Indexer test = new Indexer("https://www.yallakora.com/", "1", files);
+        test.run();*/
 
 
 

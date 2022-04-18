@@ -1,0 +1,6 @@
+/believeth|[8,p]:3;
+/believe–|[8,p]:1;
+/believed|[8,p]:1;
+/believes|[8,p]:1;
+/believing|[8,p]:1;
+/belong|[8,p]:1;

@@ -1,0 +1,6 @@
+/sevilla|[9,p]:2;
+/seventh|[8,s]:1;[8,p]:3;
+/severely|[8,p]:1;
+/seventieth|[8,p]:2;
+/seven-month|[13,p]:1;
+/seven-goal|[13,p]:1;

@@ -1,0 +1,3 @@
+/homes|[4,h]:1;
+/homepage|[9,t]:1;[9,h]:1;[8,p]:1;
+/homosexuality|[8,p]:2;

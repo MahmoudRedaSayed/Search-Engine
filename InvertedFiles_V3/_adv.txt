@@ -1,0 +1,8 @@
+/advantage|[3,p]:1;
+/advanced|[3,p]:2;[2,p]:1;[8,p]:2;
+/advantages|[3,p]:2;[2,p]:1;
+/advertisement|[9,h]:1;[9,p]:2;[11,p]:1;[13,p]:1;
+/advertisers|[11,h]:1;[11,p]:1;
+/advertising|[10,p]:2;[13,p]:1;
+/advances|[8,p]:1;
+/adversary|[8,p]:1;

@@ -1,0 +1,4 @@
+/william|[2,p]:1;
+/wild|[8,s]:1;[8,p]:5;
+/wilderness|[8,p]:5;
+/wilt|[8,p]:1;

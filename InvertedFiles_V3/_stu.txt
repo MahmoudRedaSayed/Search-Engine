@@ -1,0 +1,9 @@
+/study|[3,p]:1;[8,s]:1;[8,p]:9;
+/students|[3,p]:1;[2,p]:1;
+/stunning|[9,h]:2;[9,p]:3;[13,p]:1;
+/stump|[8,s]:1;[8,p]:1;
+/stuck|[11,h]:1;[11,p]:1;
+/studies|[8,s]:1;[8,p]:5;
+/studies  |[8,p]:1;
+/studying|[8,p]:1;
+/stubborn|[8,p]:2;

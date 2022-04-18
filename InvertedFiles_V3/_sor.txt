@@ -1,0 +1,7 @@
+/sort|[2,p]:2;
+/sorted|[2,p]:2;
+/sorceries|[8,p]:2;
+/sorts|[8,p]:1;
+/sores|[8,p]:5;
+/sores—festering|[8,p]:1;
+/sorrow|[8,p]:1;

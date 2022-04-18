@@ -1,0 +1,11 @@
+/warehouse|[2,p]:2;[4,h]:2;[4,p]:2;[9,h]:1;[8,p]:13;[9,p]:2;[13,h]:1;
+/war-era|[4,h]:1;
+/warship|[9,h]:1;[8,s]:3;[9,p]:2;[8,p]:8;
+/warfare  |[8,p]:5;
+/warner|[11,p]:1;[8,p]:2;
+/warns|[8,p]:2;
+/warning|[8,p]:4;
+/warned|[8,p]:1;
+/warnings|[8,p]:1;
+/warfare–expect|[8,p]:1;
+/warplanes|[13,p]:1;

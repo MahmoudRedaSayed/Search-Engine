@@ -1,0 +1,2 @@
+/mighty|[8,p]:2;
+/migrants|[13,p]:1;

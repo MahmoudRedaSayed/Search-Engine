@@ -1,0 +1,13 @@
+/operating|[2,p]:18;
+/opencv|[2,p]:2;[3,p]:2;[10,h]:1;[8,s]:2;[8,p]:7;[12,p]:1;
+/openpyxl|[2,p]:2;
+/opens|[4,h]:1;[8,p]:1;
+/operations|[4,h]:1;
+/openstack|[2,p]:2;
+/opex|[3,p]:1;
+/openvpn|[2,p]:1;
+/openjdk|[3,p]:4;
+/operator|[2,p]:2;
+/operators|[2,p]:1;
+/opening|[9,h]:1;[9,p]:2;
+/opened|[8,p]:2;

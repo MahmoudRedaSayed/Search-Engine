@@ -1,0 +1,5 @@
+/understanding|[2,p]:1;[8,s]:2;[8,p]:16;
+/underwriting|[2,p]:1;
+/understood|[8,p]:9;
+/understand?|[8,p]:1;
+/undefined|[13,p]:5;

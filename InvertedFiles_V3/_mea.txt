@@ -1,0 +1,4 @@
+/meals|[9,h]:1;[9,p]:2;[8,p]:1;
+/measure|[9,p]:2;
+/meaningless|[8,p]:3;
+/meant|[8,p]:2;

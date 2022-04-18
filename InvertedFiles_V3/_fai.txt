@@ -1,0 +1,8 @@
+/failure|[11,h]:2;[8,p]:2;
+/faithful|[8,s]:2;[8,p]:19;
+/faith–ref|[8,p]:1;
+/faith–mt|[8,p]:1;
+/faithfully—|[8,p]:3;
+/faith–examine|[8,p]:1;
+/faith–examples|[8,p]:1;
+/faith–can|[8,p]:1;

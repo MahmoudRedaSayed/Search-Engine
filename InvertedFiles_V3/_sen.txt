@@ -1,0 +1,6 @@
+/sends|[4,h]:1;[2,p]:1;[9,h]:1;[9,p]:2;[8,p]:6;
+/senior|[3,p]:2;
+/sentences|[2,p]:1;
+/sense|[11,h]:1;[11,p]:1;
+/senseless|[8,s]:1;[8,p]:2;
+/sentiment|[13,p]:1;

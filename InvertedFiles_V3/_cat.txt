@@ -1,0 +1,5 @@
+/catch|[3,p]:1;[8,p]:1;
+/catholic|[8,p]:6;
+/catastrophic|[8,p]:1;
+/categories|[8,p]:1;
+/catalogue|[13,p]:1;

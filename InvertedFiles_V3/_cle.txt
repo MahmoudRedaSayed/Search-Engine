@@ -1,0 +1,4 @@
+/cleaner|[9,h]:1;[9,p]:4;[8,s]:1;[8,p]:1;
+/clergy|[8,p]:1;
+/cleave|[8,p]:1;
+/cleansed|[8,p]:2;

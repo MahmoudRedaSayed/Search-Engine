@@ -1,0 +1,4 @@
+/sank|[4,h]:1;
+/sanjay|[2,p]:1;
+/sandy|[11,h]:2;[11,p]:2;
+/sanhedrin|[8,p]:1;

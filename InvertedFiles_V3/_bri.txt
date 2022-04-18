@@ -1,0 +1,11 @@
+/bring|[3,p]:2;[9,p]:2;[8,p]:4;
+/bridles|[8,s]:1;[8,p]:1;
+/bridge|[8,p]:1;
+/british|[8,p]:2;
+/bridegroom|[8,p]:2;
+/brilliant|[8,p]:1;
+/bright|[8,p]:1;
+/brings|[8,p]:1;
+/brightness|[8,p]:1;
+/brimstone|[8,p]:1;
+/brighter|[8,p]:2;

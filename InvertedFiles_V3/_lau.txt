@@ -1,0 +1,3 @@
+/launch|[3,h]:1;
+/laughing|[8,p]:1;
+/launched|[13,p]:1;

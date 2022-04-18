@@ -1,0 +1,2 @@
+/loathsome|[8,p]:1;
+/loan|[13,p]:1;

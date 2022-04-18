@@ -1,0 +1,5 @@
+/scotians|[4,h]:1;
+/scores|[9,h]:1;[9,p]:4;
+/scott|[11,p]:1;
+/scorpions|[8,p]:3;
+/scorched|[8,p]:1;

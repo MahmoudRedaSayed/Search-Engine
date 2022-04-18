@@ -1,0 +1,12 @@
+/theory|[2,p]:3;
+/theories|[11,h]:2;
+/therabody|[11,h]:1;
+/them?|[8,p]:1;
+/thes|[8,p]:3;
+/thee|[8,p]:6;
+/them–deut|[8,p]:1;
+/thereby–|[8,p]:1;
+/them…he|[8,p]:1;
+/theology|[8,p]:1;
+/thessalonians|[8,p]:1;
+/then-president|[13,p]:2;

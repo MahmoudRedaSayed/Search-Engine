@@ -1,0 +1,6 @@
+/prayers|[4,h]:2;[4,p]:1;[9,h]:1;[8,p]:12;[9,p]:2;
+/practices?  learn|[4,p]:1;[3,p]:1;
+/prayed|[8,p]:1;
+/praying|[8,p]:2;
+/praise|[8,p]:1;
+/prayer–|[8,p]:1;

@@ -1,0 +1,4 @@
+/certified|[3,p]:1;
+/certification|[2,p]:1;
+/ceremony|[9,p]:1;[8,p]:1;
+/ceremonies|[8,p]:1;

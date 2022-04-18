@@ -1,0 +1,13 @@
+/defamation|[4,h]:1;
+/defecting|[4,h]:1;
+/definition|[2,p]:1;
+/defensemilitary|[2,p]:1;
+/definitive|[10,h]:1;
+/defied|[9,h]:1;[9,p]:1;
+/defend|[8,p]:1;
+/defeated|[8,p]:2;[13,p]:1;
+/defiled|[8,p]:1;
+/defends|[8,p]:1;
+/defended|[8,p]:1;
+/defining|[13,p]:2;
+/defeating|[13,p]:1;

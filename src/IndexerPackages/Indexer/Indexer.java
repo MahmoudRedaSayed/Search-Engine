@@ -164,6 +164,8 @@ public class Indexer implements Runnable {
             }else if (tempWord.length() == 2)
             {
                 fileName = "two";
+            }else{
+                fileName = "arabic";
             }
 
             try {

@@ -1,0 +1,2 @@
+/acquired|[8,p]:1;
+/acquisition|[13,p]:2;

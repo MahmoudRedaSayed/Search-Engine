@@ -1,0 +1,8 @@
+/judge|[4,h]:1;[8,p]:2;
+/judah|[8,s]:2;[8,p]:5;
+/judges|[8,p]:2;
+/judgments|[8,p]:16;
+/jude|[8,p]:2;
+/judaea|[8,p]:3;
+/judged|[8,p]:1;
+/judgment–great|[8,p]:1;

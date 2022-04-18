@@ -1,0 +1,3 @@
+/ascii|[2,p]:1;
+/ascribe|[8,p]:1;
+/ascend|[8,p]:1;

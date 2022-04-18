@@ -1,0 +1,3 @@
+/blind|[8,s]:1;[8,p]:4;
+/blinding|[8,p]:1;
+/blindness|[8,p]:1;

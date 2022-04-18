@@ -1,0 +1,11 @@
+/europe|[3,p]:1;[9,p]:9;[8,p]:1;[13,h]:1;
+/european|[9,p]:1;[8,p]:1;
+/europeukraine|[13,p]:3;
+/europeputin|[13,p]:1;
+/europerussia|[13,p]:1;
+/europeblasts|[13,p]:1;
+/europefour|[13,p]:1;
+/europecatalan|[13,p]:1;
+/europeserbia|[13,p]:1;
+/europegreece|[13,p]:1;
+/europethree|[13,p]:1;

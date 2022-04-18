@@ -1,0 +1,2 @@
+/fabric|[2,p]:1;
+/fabletics|[11,h]:1;

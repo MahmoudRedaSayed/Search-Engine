@@ -1,0 +1,4 @@
+/narrow|[8,p]:2;
+/narrow—meaning|[8,p]:1;
+/narrowest|[8,p]:1;
+/narrowly|[8,p]:1;

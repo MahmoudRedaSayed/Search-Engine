@@ -1,0 +1,5 @@
+/barred|[4,h]:1;[2,p]:1;
+/bars|[2,p]:1;
+/barnsley|[9,h]:1;[9,p]:4;
+/baranova|[11,p]:1;
+/barely|[8,p]:1;

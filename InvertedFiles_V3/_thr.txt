@@ -1,0 +1,6 @@
+/thrive|[9,h]:1;[9,p]:2;
+/throne|[8,s]:1;[8,p]:6;
+/threat|[9,h]:1;[9,p]:2;
+/thrown|[8,p]:1;
+/thrust|[8,p]:2;
+/threescore|[8,p]:1;

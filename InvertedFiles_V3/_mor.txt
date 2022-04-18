@@ -1,0 +1,4 @@
+/mortar|[9,h]:1;[9,p]:2;
+/morgan|[9,h]:1;[9,p]:2;
+/morning|[8,s]:1;[8,p]:2;
+/mortgage|[13,p]:1;

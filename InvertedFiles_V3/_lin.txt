@@ -1,0 +1,11 @@
+/linq|[2,p]:2;
+/linux|[2,p]:19;
+/links|[4,h]:1;[8,s]:1;[9,h]:1;[8,p]:2;[12,s]:1;[12,p]:1;
+/linear|[2,p]:1;
+/linkedin|[3,p]:1;[9,h]:1;[10,p]:1;[11,p]:1;[9,p]:1;
+/linkedlist|[2,p]:1;
+/lincoln|[2,p]:1;
+/linking|[2,p]:1;
+/linen|[8,s]:1;[8,p]:1;
+/lindsey|[8,p]:1;
+/links–aaron’s|[8,p]:1;
