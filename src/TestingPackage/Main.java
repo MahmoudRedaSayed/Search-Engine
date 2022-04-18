@@ -19,6 +19,10 @@ public class Main {
 
 //       Thread ThreadsArray=new Thread(new UrlThread());
 //        Thread.currentThread().setName("Thread1");
+
+//        Thread.currentThread().setName("Thread1");
+//       Thread ThreadsArray=new Thread(new UrlThread());
+
 //        ThreadsArray.setName("Thread2");
 //        ThreadsArray.run();
 
@@ -51,15 +55,15 @@ public class Main {
 //
 //            }
 //        }
-//
-//        try {
-//            ThreadsArray.join();
-//            ThreadsArray2.join();
-//
-//        } catch (InterruptedException e) {
-//
-//            }
-        System.out.println("The limit  "+UrlThread.Limit+" The inserted  "+UrlThread.inserted);
+////
+////        try {
+////            ThreadsArray.join();
+////            ThreadsArray2.join();
+////
+////        } catch (InterruptedException e) {
+////
+////            }
+//        System.out.println("The limit  "+UrlThread.Limit+" The inserted  "+UrlThread.inserted);
 
 
 
@@ -137,10 +141,10 @@ public class Main {
         /*---------------     Query Processing  ----------------------*/
         WorkingFiles files = new WorkingFiles();
         QueryProcessing test = new QueryProcessing(files);
+        ArrayList<String> queryLinesResult = new ArrayList<String>();
+        String query = "additions anonymity";
 
-        String query = "Computed is our life";
-
-        JSONArray jsonFile  = test.run(query);
+        JSONArray jsonFile  = test.run(query,queryLinesResult);
         String json = jsonFile.toString() ;
         System.out.println(json);
 

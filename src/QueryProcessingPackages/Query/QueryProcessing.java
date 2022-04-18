@@ -150,17 +150,9 @@ public class QueryProcessing{
 
 
 
-    public JSONArray run(String message) throws FileNotFoundException, JSONException {
+    public JSONArray run(String message, ArrayList<String> queryLinesResult) throws FileNotFoundException, JSONException {
         invertedFiles = working.getInvertedFiles();
-
-        /*try {
-            readStopWords();
-        } catch (FileNotFoundException e) {
-            System.out.println("Failed to open Stop words file");
-            e.printStackTrace();
-        }*/
-
-       // String message = "Is Egypt in Africa?";
+        ArrayList<String> allWordsResult = new ArrayList<String>();
 
         String[] result = SplitQuery(message);
         result  = removeStopWords(result);
@@ -180,6 +172,7 @@ public class QueryProcessing{
             int length_2 = oneWordResult.size();
             for(int j = 0; j<length_2; j++)
             {
+                queryLinesResult.add(oneWordResult.get(j));
                 // Loop over versions of Words
 
 //                int Start = oneWordResult.get(j).indexOf('|');
@@ -195,10 +188,16 @@ public class QueryProcessing{
 
                     int End = splitLine[k].indexOf(']');
                     String temp = splitLine[k].substring(0, End);
+
                     String[] finalID = temp.split(",");
                     int ID = Integer.parseInt(finalID[0]);
+
+                    StringBuffer link = new StringBuffer("");
+                    StringBuffer description = new StringBuffer("");
                     JSONObject Jo = new JSONObject();
-                    Jo.put("Link",dataBaseObject.getLinkByID(ID) );
+                    dataBaseObject.getLinkByID(ID,link,description);
+                    Jo.put("Link", link);
+                    Jo.put("Description", description);
                     finalJsonFile.put(Jo);
                 }
             }
