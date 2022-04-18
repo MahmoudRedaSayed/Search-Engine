@@ -1,0 +1,2 @@
+/suffering|[13,p]:1;
+/suffered|[24,h]:1;

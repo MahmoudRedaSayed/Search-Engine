@@ -19,7 +19,7 @@ public class DataBase {
                        }
                     catch(Exception e)
                         {
-                            System.out.println(e);
+
                         }
                     connect=DriverManager.getConnection("jdbc:mysql://localhost:3306/search-engine","root","");
                     this.stmt=connect.createStatement();
@@ -31,7 +31,9 @@ public class DataBase {
 
                 }
         catch(SQLException e)
-                { System.out.println(e);}
+                {
+
+                }
     }
 
 //--------------------------------------Create Link --------------------------------------------------------------------//
@@ -42,7 +44,6 @@ public class DataBase {
            }
         catch(SQLException e)
             {
-                System.out.println(e);
             }
     }
 //----------------------------------------------------------------------------------------------------------------------//
@@ -56,7 +57,6 @@ public class DataBase {
             }
         catch(SQLException e)
             {
-                System.out.println(e);
             }
     }
 //----------------------------------------------------------------------------------------------------------------------//
@@ -69,14 +69,12 @@ public class DataBase {
         try{
             if(Layer==1)
             {
-                System.out.printf("UPDATE threads SET Layer="+Layer+" and UrlIndex="+Index+" WHERE ThreadName='"+ThreadName+"';");
                 this.stmt.executeUpdate("UPDATE threads SET Layer="+Layer+" WHERE ThreadName='"+ThreadName+"';");
                 this.stmt.executeUpdate("UPDATE threads SET UrlIndex="+Index+" WHERE ThreadName='"+ThreadName+"';");
 
             }
             else if (Layer==2)
             {
-                System.out.printf("UPDATE threads SET Layer="+Layer+" and UrlIndex1="+Index+" WHERE ThreadName='"+ThreadName+"';");
 
                 this.stmt.executeUpdate("UPDATE threads SET Layer="+Layer+" WHERE ThreadName='"+ThreadName+"';");
                 this.stmt.executeUpdate("UPDATE threads SET UrlIndex1="+Index+" WHERE ThreadName='"+ThreadName+"';");
@@ -84,24 +82,30 @@ public class DataBase {
             }
             else if (Layer==3)
             {
-                System.out.printf("UPDATE threads SET Layer="+Layer+" and UrlIndex2="+Index+" WHERE ThreadName='"+ThreadName+"';");
+
 
                 this.stmt.executeUpdate("UPDATE threads SET Layer="+Layer+" WHERE ThreadName='"+ThreadName+"';");
                 this.stmt.executeUpdate("UPDATE threads SET UrlIndex2="+Index+" WHERE ThreadName='"+ThreadName+"';");
             }
             else if (Layer==4)
             {
+
                 this.stmt.executeUpdate("UPDATE threads SET Layer="+Layer+" WHERE ThreadName='"+ThreadName+"';");
                 this.stmt.executeUpdate("UPDATE threads SET UrlIndex3="+Index+" WHERE ThreadName='"+ThreadName+"';");
             }
             else{
-                this.stmt.executeUpdate("UPDATE threads SET Layer=1 and UrlIndex=0 and UrlIndex1=0 and UrlIndex2=0 UrlIndex3=0 WHERE ThreadName='"+ThreadName+"';");
+                this.stmt.executeUpdate("UPDATE threads SET Layer=1 WHERE ThreadName='"+ThreadName+"';");
+                this.stmt.executeUpdate("UPDATE threads SET  UrlIndex=0 WHERE ThreadName='"+ThreadName+"';");
+                this.stmt.executeUpdate("UPDATE threads SET  UrlIndex1=0  WHERE ThreadName='"+ThreadName+"';");
+                this.stmt.executeUpdate("UPDATE threads SET  UrlIndex2=0 WHERE ThreadName='"+ThreadName+"';");
+                this.stmt.executeUpdate("UPDATE threads SET   UrlIndex3=0 WHERE ThreadName='"+ThreadName+"';");
+
+
 
             }
         }
         catch(SQLException e)
         {
-            System.out.println(e);
         }
     }
 
@@ -113,7 +117,6 @@ public class DataBase {
         }
         catch(SQLException e)
         {
-            System.out.println(e);
             return null;
         }
     }
@@ -126,7 +129,6 @@ public class DataBase {
         }
         catch(SQLException e)
         {
-            System.out.println(e);
             return null;
         }
     }
@@ -134,11 +136,10 @@ public class DataBase {
     public synchronized ResultSet getUrls2(String Url)
     {
         try{
-            return this.stmt.executeQuery("SELECT * FROM links WHERE Link='"+Url+"'");
+            return this.stmt.executeQuery("SELECT * FROM links WHERE Link='"+Url+"';");
         }
         catch(SQLException e)
         {
-            System.out.println(e);
             return null;
         }
     }
@@ -160,7 +161,6 @@ public synchronized Boolean getLinkByID (Integer ID, StringBuffer linkUrl, Strin
         return true;
 
     } catch (SQLException e) {
-        e.printStackTrace();
         return false;
     }
 
@@ -186,7 +186,6 @@ public synchronized Boolean getLinkByID (Integer ID, StringBuffer linkUrl, Strin
         }
         catch(SQLException e)
         {
-            System.out.println(e);
 
         }
         return -1;
@@ -199,7 +198,6 @@ public synchronized Boolean getLinkByID (Integer ID, StringBuffer linkUrl, Strin
         try{
             if(Layer==1)
             {
-                System.out.printf("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+"AND Completed=0;");
                 ResultSet resultSet= this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+";");
                 while(resultSet.next())
                 {
@@ -246,7 +244,6 @@ public synchronized Boolean getLinkByID (Integer ID, StringBuffer linkUrl, Strin
         }
         catch(SQLException e)
         {
-            System.out.println(e);
             return null;
 
         }
@@ -272,7 +269,6 @@ public synchronized Boolean getLinkByID (Integer ID, StringBuffer linkUrl, Strin
         }
         catch(SQLException e)
         {
-            System.out.println(e);
         }
         return 0;
     }
@@ -292,7 +288,6 @@ public synchronized Boolean getLinkByID (Integer ID, StringBuffer linkUrl, Strin
         }
         catch(SQLException e)
         {
-            System.out.println(e);
         }
         return null;
     }
@@ -301,11 +296,10 @@ public synchronized Boolean getLinkByID (Integer ID, StringBuffer linkUrl, Strin
     public ResultSet getAllUrls()
     {
         try{
-            return this.stmt.executeQuery("SELECT LINK, ID FROM links;" );
+            return this.stmt.executeQuery("SELECT Link, Id FROM links where Completed=1;" );
         }
         catch(SQLException e)
         {
-            System.out.println(e);
             return null;
         }
     }
@@ -325,7 +319,6 @@ public synchronized Boolean getLinkByID (Integer ID, StringBuffer linkUrl, Strin
         }
         catch(SQLException e)
         {
-            System.out.println(e);
             return -1;
         }
         return -1;
@@ -335,11 +328,11 @@ public synchronized Boolean getLinkByID (Integer ID, StringBuffer linkUrl, Strin
     public void addDesc(int id,String desc)
     {
         try {
-            this.stmt.executeUpdate("UPDATE links SET Descripation=" + desc + " WHERE Id='" + id + "';");
+            this.stmt.executeUpdate("UPDATE links SET Descripation='" + desc + "' WHERE Id=" + id + ";");
         }
          catch(SQLException e)
         {
-            System.out.println(e);
+
         }
     }
     // ---------------------------------------------------------------------------------------------------------------------//

@@ -1,0 +1,2 @@
+/americas|[13,h]:1;[13,p]:1;
+/america's|[39,t]:1;

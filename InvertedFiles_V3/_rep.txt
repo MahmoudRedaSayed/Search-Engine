@@ -1,0 +1,4 @@
+/repent|[8,s]:1;
+/reports|[13,p]:1;
+/reported|[13,p]:1;
+/represents|[30,p]:1;

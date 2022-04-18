@@ -1,0 +1,2 @@
+/authorities|[13,p]:1;
+/automated|[19,p]:1;

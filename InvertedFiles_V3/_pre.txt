@@ -1,0 +1,6 @@
+/preserve|[21,h]:1;
+/predicted|[22,h]:1;
+/precursor|[22,h]:1;
+/press|[27,s]:1;
+/previous|[30,p]:1;
+/premium|[32,h]:1;[32,p]:1;[169754,h]:1;[169754,p]:1;

@@ -1,0 +1,3 @@
+/documents|[22,h]:1;[30,p]:1;
+/docs|[30,t]:1;
+/documenting|[30,p]:1;

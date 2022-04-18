@@ -1,0 +1,2 @@
+/scripting|[30,p]:1;
+/scripts|[30,p]:1;

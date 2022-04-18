@@ -1,3 +1,4 @@
+
 package ServletsPackages.ServletPackage;
 
 import java.io.IOException;
@@ -53,3 +54,4 @@ public class QuerySearch extends HttpServlet {
 ;
     }
 }
+

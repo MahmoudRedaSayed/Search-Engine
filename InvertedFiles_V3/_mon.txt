@@ -1,0 +1,2 @@
+/monitor|[3,p]:1;
+/monday|[13,p]:2;

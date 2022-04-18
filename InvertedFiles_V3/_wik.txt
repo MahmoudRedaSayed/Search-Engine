@@ -1,0 +1,2 @@
+/wikipedia|[40,t]:1;[40,h]:3;
+/wikipedia's|[40,h]:1;

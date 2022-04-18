@@ -1,0 +1,2 @@
+/centromeric|[35,h]:1;
+/cenp-a|[35,h]:1;

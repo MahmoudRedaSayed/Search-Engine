@@ -1,0 +1,2 @@
+/corp|[13,p]:2;
+/corporation|[19,t]:1;

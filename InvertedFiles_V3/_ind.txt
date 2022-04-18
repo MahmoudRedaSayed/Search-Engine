@@ -1,0 +1,2 @@
+/india|[3,t]:1;
+/individuals|[27,s]:1;

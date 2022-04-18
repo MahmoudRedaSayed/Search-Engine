@@ -1,0 +1,2 @@
+/faster|[25,h]:1;
+/fascinating|[35,h]:1;

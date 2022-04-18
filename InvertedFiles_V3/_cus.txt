@@ -1,0 +1,2 @@
+/customer|[3,h]:1;
+/cushion|[13,p]:1;

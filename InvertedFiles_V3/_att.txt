@@ -1,0 +1,2 @@
+/attempting|[12,p]:1;
+/attack|[13,p]:1;

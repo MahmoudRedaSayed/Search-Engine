@@ -1,0 +1,3 @@
+/application|[3,p]:1;[8,s]:1;
+/appears|[19,p]:1;
+/applications|[30,p]:1;

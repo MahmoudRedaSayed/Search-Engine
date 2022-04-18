@@ -1,0 +1,2 @@
+/resources|[3,h]:1;[30,h]:1;[30,p]:1;
+/researcher|[13,p]:1;

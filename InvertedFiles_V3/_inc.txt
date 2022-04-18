@@ -1,0 +1,4 @@
+/inconvenience|[12,h]:1;
+/inc's|[13,p]:2;
+/including|[13,p]:1;[30,p]:1;
+/incorrect|[19,p]:1;

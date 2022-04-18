@@ -1,0 +1,10 @@
+/continuous|[3,h]:1;
+/contact|[3,h]:1;
+/continues|[3,p]:1;
+/condition|[13,p]:1;
+/consumer|[13,p]:1;
+/contributions|[30,h]:1;
+/contributor|[30,h]:1;
+/content|[30,p]:4;
+/contract|[30,p]:1;
+/conspires|[35,h]:1;

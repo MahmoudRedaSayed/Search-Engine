@@ -1,3 +1,4 @@
+
 package ServletsPackages.ServletPackage;
 
 import org.json.JSONArray;
@@ -22,6 +23,7 @@ public class QueryDivide extends HttpServlet {
     }
 
 }
+
 
 
 

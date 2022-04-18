@@ -1,0 +1,2 @@
+/artifacts|[21,h]:1;
+/articles|[30,h]:1;[40,h]:1;

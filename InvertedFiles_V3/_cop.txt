@@ -1,0 +1,2 @@
+/copypasta|[30,p]:1;
+/copyright|[36,p]:1;

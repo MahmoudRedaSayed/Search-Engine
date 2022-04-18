@@ -493,9 +493,15 @@ public class UrlThread implements  Runnable {
                             //-----------------------------------------------------------------------------------------------------------------//
                             // get the document and get the links from it
                             Document doc = Jsoup.connect(Url).get();
-                            String desc=doc.select("meta[name=description]").get(0)
-                                    .attr("content");
-                            DataBaseObject.addDesc(parentId,desc);
+                            try {
+                                String desc = doc.select("meta[name=description]").get(0)
+                                        .attr("content").replaceAll("'"," ").replace('"', ' ');
+                                DataBaseObject.addDesc(parentId, desc);
+                            }
+                            catch (IndexOutOfBoundsException e)
+                            {
+                                DataBaseObject.addDesc(parentId, "");
+                            }
                             Elements links = doc.select("a[href]");
                             //-----------------------------------------------------------------------------------------------------------------//
 
@@ -511,14 +517,13 @@ public class UrlThread implements  Runnable {
                             for (Element link : links)
                             {
                                 counter++;
-                                System.out.println(link);
                                 if (FirstUrlLayer1 == 1) {
 
                                     String result = Normalized(link.attr("href"));
 
                                     forbidden=DisallowedCheck(Disallowed,Allowed,link.attr("href"));
 
-                                    if (getLimit() < 5000 && result != "-1"&&!forbidden) {
+                                    if (getLimit() < 6000 && result != "-1"&&!forbidden) {
                                         try {
                                             //-----------------------------------------------------------------------------------------------------------------//
                                             // this part to check if the link is inserted by another thread or not
@@ -544,7 +549,7 @@ public class UrlThread implements  Runnable {
 
                                         }
 
-                                    } else if (getLimit() >= 5000) {
+                                    } else if (getLimit() >= 6000) {
                                         // query to set the layer and the index to 0 setThread Position
                                         DataBaseObject.setThreadPosition(Thread.currentThread().getName(), -1, 0);
                                         Thread.currentThread().interrupt();
@@ -572,9 +577,15 @@ public class UrlThread implements  Runnable {
                             //-----------------------------------------------------------------------------------------------------------------//
                             // get the document and get the links from it
                             Document doc = Jsoup.connect(Url).get();
-                            String desc=doc.select("meta[name=description]").get(0)
-                                    .attr("content");
-                            DataBaseObject.addDesc(parentId,desc);
+                            try {
+                                String desc = doc.select("meta[name=description]").get(0)
+                                        .attr("content").replaceAll("'"," ").replace('"', ' ');
+                                DataBaseObject.addDesc(parentId, desc);
+                            }
+                            catch (IndexOutOfBoundsException e)
+                            {
+                                DataBaseObject.addDesc(parentId, "");
+                            }
                             Elements links = doc.select("a[href]");
                             //-----------------------------------------------------------------------------------------------------------------//
 
@@ -595,7 +606,7 @@ public class UrlThread implements  Runnable {
 
                                     forbidden=DisallowedCheck(Disallowed,Allowed,link.attr("href"));
 
-                                    if (getLimit() < 5000 && result != "-1"&&!forbidden) {
+                                    if (getLimit() < 6000 && result != "-1"&&!forbidden) {
                                         try {
                                             //-----------------------------------------------------------------------------------------------------------------//
                                             // this part to check if the link is inserted by another thread or not
@@ -621,7 +632,7 @@ public class UrlThread implements  Runnable {
 
                                         }
 
-                                    } else if (getLimit() >= 5000) {
+                                    } else if (getLimit() >= 6000) {
                                         // query to set the layer and the index to 0 setThread Position
                                         DataBaseObject.setThreadPosition(Thread.currentThread().getName(), -1, 0);
                                         Thread.currentThread().interrupt();
@@ -647,9 +658,15 @@ public class UrlThread implements  Runnable {
                             //-----------------------------------------------------------------------------------------------------------------//
                             // get the document and get the links from it
                             Document doc = Jsoup.connect(Url).get();
-                            String desc=doc.select("meta[name=description]").get(0)
-                                    .attr("content");
-                            DataBaseObject.addDesc(parentId,desc);
+                            try {
+                                String desc = doc.select("meta[name=description]").get(0)
+                                        .attr("content").replaceAll("'"," ").replace('"', ' ');
+                                DataBaseObject.addDesc(parentId, desc);
+                            }
+                            catch (IndexOutOfBoundsException e)
+                            {
+                                DataBaseObject.addDesc(parentId, "");
+                            }
                             Elements links = doc.select("a[href]");
                             //-----------------------------------------------------------------------------------------------------------------//
 
@@ -670,7 +687,7 @@ public class UrlThread implements  Runnable {
 
                                     forbidden=DisallowedCheck(Disallowed,Allowed,link.attr("href"));
 
-                                    if (getLimit() < 5000 && result != "-1"&&!forbidden) {
+                                    if (getLimit() < 6000 && result != "-1"&&!forbidden) {
                                         try {
                                             //-----------------------------------------------------------------------------------------------------------------//
                                             // this part to check if the link is inserted by another thread or not
@@ -696,7 +713,7 @@ public class UrlThread implements  Runnable {
 
                                         }
 
-                                    } else if (getLimit() >= 5000) {
+                                    } else if (getLimit() >= 6000) {
                                         // query to set the layer and the index to 0 setThread Position
                                         DataBaseObject.setThreadPosition(Thread.currentThread().getName(), -1, 0);
                                         Thread.currentThread().interrupt();

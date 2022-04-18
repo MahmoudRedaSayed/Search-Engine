@@ -1,0 +1,2 @@
+/deal-making|[13,p]:1;
+/dead|[30,p]:1;

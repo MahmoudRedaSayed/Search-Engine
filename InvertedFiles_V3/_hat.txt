@@ -1,0 +1,3 @@
+/hath|[8,s]:1;
+/hathaway’s|[13,p]:1;
+/hatch|[25,h]:1;
