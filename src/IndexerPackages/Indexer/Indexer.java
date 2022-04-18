@@ -157,6 +157,7 @@ public class Indexer implements Runnable {
             String fileName = "";
             fileName += tempWord.charAt(0) ;
             fileName += tempWord.charAt(1) ;
+            fileName += tempWord.charAt(2) ;
             try {
                 addToFile(tempWord, fileName, wordInfo);
 
@@ -238,7 +239,7 @@ public class Indexer implements Runnable {
     // NOTE : info must be = doc_ic,h or p;    Karim --> this function must be synchronized
     private synchronized void addToFile(String word, String fileName, String info) throws IOException  // fileName is the first letter
     {
-        String filePath = System.getProperty("user.dir") + File.separator + "InvertedFiles_V2" + File.separator + fileName + ".txt";
+        String filePath = System.getProperty("user.dir") + File.separator + "InvertedFiles_V3" + File.separator + fileName + ".txt";
 
         // check if the word is already exists or not
         File workingFile = this.invertedFiles.get(fileName);

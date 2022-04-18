@@ -52,15 +52,21 @@ public class WorkingFiles {
         String currentFileName = "";
 
         for (int i = 0; i < 26; i++){
-            currentFileName += letters.charAt(i);
             for (int j = 0; j < 26; j++)
             {
-                currentFileName += letters.charAt(j);
-                invertedFiles.put(currentFileName, new File(HelperClass.invertedFilePath_V2(currentFileName)));
-                currentFileName = "";
-                currentFileName += letters.charAt(i);
+                for(int k = 0; k < 26; k++)
+                {
+                    currentFileName += letters.charAt(i);
+                    currentFileName += letters.charAt(j);
+                    currentFileName += letters.charAt(k);
+
+                    invertedFiles.put(currentFileName, new File(HelperClass.invertedFilePath_V3(currentFileName)));
+                    currentFileName = "";
+                }
+
             }
         }
+        System.out.println("test");
     }
 
     // initialization of page content files

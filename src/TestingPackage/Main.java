@@ -1,11 +1,14 @@
 package TestingPackage;
+import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.*;
 import CrawlerPackages.Crawler.*;
 import CrawlerPackages.Crawler.UrlThread.*;
 import DataBasePackages.DataBase.DataBase;
+import HelpersPackages.Helpers.HelperClass;
 import HelpersPackages.Helpers.WorkingFiles;
 import IndexerPackages.Indexer.Indexer;
 import QueryProcessingPackages.Query.QueryProcessing;
@@ -17,14 +20,10 @@ public class Main {
 
     public static void main(String[] args) throws FileNotFoundException, JSONException {
 
-//       Thread ThreadsArray=new Thread(new UrlThread());
-//        Thread.currentThread().setName("Thread1");
-
-//        Thread.currentThread().setName("Thread1");
-//       Thread ThreadsArray=new Thread(new UrlThread());
-
-//        ThreadsArray.setName("Thread2");
-//        ThreadsArray.run();
+        //   Thread ThreadsArray=new Thread(new UrlThread());
+        //     Thread.currentThread().setName("Thread1");
+        //   ThreadsArray.setName("Thread2");
+        //   ThreadsArray.run();
 
 
 
@@ -55,15 +54,15 @@ public class Main {
 //
 //            }
 //        }
-////
-////        try {
-////            ThreadsArray.join();
-////            ThreadsArray2.join();
-////
-////        } catch (InterruptedException e) {
-////
-////            }
-//        System.out.println("The limit  "+UrlThread.Limit+" The inserted  "+UrlThread.inserted);
+//
+//        try {
+//            ThreadsArray.join();
+//            ThreadsArray2.join();
+//
+//        } catch (InterruptedException e) {
+//
+//            }
+        //   System.out.println("The limit  "+UrlThread.Limit+" The inserted  "+UrlThread.inserted);
 
 
 
@@ -71,17 +70,19 @@ public class Main {
 
         /*---------------     Start Indexing ----------------------*/
 
-        /*WorkingFiles files = new WorkingFiles();
-
+/*
+        // connect to db
         DataBase connect = new DataBase();
 
+        // get links from db
         ResultSet links = connect.getAllUrls();
 
         int ID = 0;
         String myLink = "";
-        String[][] linksInfo = new String[5100][2];
-
+        String[][] linksInfo = new String[5500][2];
         int i = 0,size = 0;
+
+        // extracting the links from the result set
         while (true) {
             try {
                 if (!links.next()) break;
@@ -103,6 +104,11 @@ public class Main {
             linksInfo[i++][1] = String.valueOf(ID);
         }
 
+        // needed files
+        WorkingFiles files = new WorkingFiles(size);
+
+
+        // Threading
         int threadCount = 5,
                 counter = 0,
                 threadsCounter = 0;
@@ -131,24 +137,64 @@ public class Main {
             threadsCounter = 0;
         }
 
+
         System.out.println("DONE !\n");*/
 
+
+
         /*---------------     End Of Indexing ----------------------*/
+/*
+        // connect to db
+        DataBase connect = new DataBase();
 
+        // get links from db
+        ResultSet links = connect.getAllUrls();
 
+        int ID = 0;
+        String myLink = "";
+        String[][] linksInfo = new String[5500][2];
+        int i = 0,size = 0;
 
+        // extracting the links from the result set
+        while (true) {
+            try {
+                if (!links.next()) break;
+            } catch (SQLException e) {
+                e.printStackTrace();
+            }
+            try {
+                myLink= links.getString("LINK");
+                size++;
+            } catch (SQLException e) {
+                e.printStackTrace();
+            }
+            try {
+                ID = links.getInt("ID");
+            } catch (SQLException e) {
+                e.printStackTrace();
+            }
+            linksInfo[i][0] = myLink;
+            linksInfo[i++][1] = String.valueOf(ID);
+        }
+
+        // needed files
+        WorkingFiles files = new WorkingFiles(size);
+        Indexer test = new Indexer("https://jsoup.org/", "1", files);
+        test.run();
+        System.out.println("DONE");*/
 
         /*---------------     Query Processing  ----------------------*/
-//        WorkingFiles files;
+//        WorkingFiles files = new WorkingFiles();
 //        QueryProcessing test = new QueryProcessing(files);
-//        ArrayList<String> queryLinesResult = new ArrayList<String>();
-//        String query = "additions anonymity";
 //
-//        JSONArray jsonFile  = test.run(query,queryLinesResult);
+//        String query = "anonymity         experience";
+//
+//        JSONArray jsonFile  = test.run(query);
 //        String json = jsonFile.toString() ;
 //        System.out.println(json);
 
         /*---------------     End Of Query Processing ----------------------*/
+
 
     }
 }

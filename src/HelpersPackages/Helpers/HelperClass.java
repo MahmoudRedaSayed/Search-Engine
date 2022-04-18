@@ -33,6 +33,14 @@ public class HelperClass {
         return filePath;
     }
 
+    // get the path of the inverted Files_V3
+    public static String invertedFilePath_V3(String fileName)
+    {
+        String filePath = System.getProperty("user.dir");   // get the directory of the project
+        filePath += File.separator + "InvertedFiles_V3" + File.separator + fileName + ".txt";
+        return filePath;
+    }
+
     // get the path of the page content files
     public static String pageContentFilesPath(String fileName)
     {
