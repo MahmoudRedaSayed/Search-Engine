@@ -17,10 +17,10 @@ public class Main {
 
     public static void main(String[] args) throws FileNotFoundException, JSONException {
 
-       Thread ThreadsArray=new Thread(new UrlThread());
-        Thread.currentThread().setName("Thread1");
-        ThreadsArray.setName("Thread2");
-        ThreadsArray.run();
+//       Thread ThreadsArray=new Thread(new UrlThread());
+//        Thread.currentThread().setName("Thread1");
+//        ThreadsArray.setName("Thread2");
+//        ThreadsArray.run();
 
 
 
@@ -135,14 +135,14 @@ public class Main {
 
 
         /*---------------     Query Processing  ----------------------*/
-//        WorkingFiles files = new WorkingFiles();
-//        QueryProcessing test = new QueryProcessing(files);
-//
-//        String query = "anonymity         experience";
-//
-//        JSONArray jsonFile  = test.run(query);
-//        String json = jsonFile.toString() ;
-//        System.out.println(json);
+        WorkingFiles files = new WorkingFiles();
+        QueryProcessing test = new QueryProcessing(files);
+
+        String query = "Computed is our life";
+
+        JSONArray jsonFile  = test.run(query);
+        String json = jsonFile.toString() ;
+        System.out.println(json);
 
         /*---------------     End Of Query Processing ----------------------*/
 

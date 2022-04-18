@@ -78,22 +78,29 @@ public class QueryProcessing{
     }
 
     //Utility Function for removeStopWords()
-    private static String[] removeElement(String[] arr, int index) {
+    private static String[] removeElement(String[] arr, int[] index) {
         List<String> list = new ArrayList<>(Arrays.asList(arr));
-        list.remove(index);
+        for (int i=0; i<index.length;i++)
+        {
+            list.remove(new String(arr[index[i]]));
+        }
         return list.toArray(String[]::new);
     }
 
 
     private String[] removeStopWords(String[] searchQuery)
     {
-        for(int i = 0; i< searchQuery.length; i++)
+        int length =searchQuery.length;
+        ArrayList<Integer> indeces = new ArrayList<Integer>();
+        for(int i = 0; i< length; i++)
         {
+            System.out.println(searchQuery[i].toLowerCase());
             if (Arrays.asList(this.stopWords).contains(searchQuery[i].toLowerCase()))
             {
-                searchQuery = removeElement(searchQuery, i);
+                indeces.add(i);
             }
         }
+        searchQuery = removeElement(searchQuery, indeces.stream().mapToInt(Integer::intValue).toArray());
         return searchQuery;
     }
 
