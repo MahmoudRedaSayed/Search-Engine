@@ -1,2 +1,0 @@
-/malicious|[12,p]:1;
-/malnourishment|[35,h]:1;

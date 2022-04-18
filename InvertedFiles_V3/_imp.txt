@@ -1,3 +1,0 @@
-/improves|[3,p]:1;[35,h]:1;
-/impossible—yet|[8,s]:1;
-/impairment|[23,h]:1;[169753,h]:1;

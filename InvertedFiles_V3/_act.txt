@@ -1,2 +1,0 @@
-/activity|[12,p]:1;
-/activation|[35,h]:1;

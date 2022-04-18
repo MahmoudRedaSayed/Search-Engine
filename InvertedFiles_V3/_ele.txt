@@ -1,2 +1,0 @@
-/electronics|[25,h]:1;
-/element|[30,p]:3;

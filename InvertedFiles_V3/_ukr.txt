@@ -1,3 +1,0 @@
-/ukraine|[13,h]:1;[13,p]:1;[27,s]:1;
-/ukraine's|[21,h]:1;
-/ukrainian|[24,h]:1;

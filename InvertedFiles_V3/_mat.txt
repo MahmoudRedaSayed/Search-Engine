@@ -1,3 +1,0 @@
-/match|[3,p]:1;
-/matthew|[27,s]:1;
-/matching|[30,p]:1;

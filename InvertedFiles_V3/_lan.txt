@@ -1,3 +1,0 @@
-/language|[3,p]:1;[30,p]:1;[169752,h]:1;
-/landmarks|[21,h]:1;
-/languages|[40,h]:1;

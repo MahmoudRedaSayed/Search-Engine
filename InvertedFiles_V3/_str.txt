@@ -1,4 +1,0 @@
-/strong|[13,p]:1;
-/string|[19,p]:1;
-/stranded|[25,h]:1;
-/structure|[30,p]:2;[35,h]:1;

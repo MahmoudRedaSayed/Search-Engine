@@ -1,3 +1,0 @@
-/reviews|[3,h]:1;[37,t]:1;
-/revert-layer|[30,p]:1;
-/revealed|[35,h]:1;

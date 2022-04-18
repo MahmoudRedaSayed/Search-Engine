@@ -1,2 +1,0 @@
-/lighting|[22,h]:1;
-/lighter|[169753,t]:1;

@@ -1,2 +1,0 @@
-/technology|[21,t]:1;[21,h]:1;[30,p]:2;
-/technologies|[30,p]:1;

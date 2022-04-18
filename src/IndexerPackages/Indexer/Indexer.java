@@ -154,10 +154,18 @@ public class Indexer implements Runnable {
             wordInfo = "[" + doc_ic + "," + tag + ']';
 
             // insert the word into the file
-            String fileName = "_";
-            fileName += tempWord.charAt(0) ;
-            fileName += tempWord.charAt(1) ;
-            fileName += tempWord.charAt(2) ;
+            String fileName = "";
+            if(tempWord.length() > 2)
+            {
+                fileName = "_";
+                fileName += tempWord.charAt(0) ;
+                fileName += tempWord.charAt(1) ;
+                fileName += tempWord.charAt(2) ;
+            }else if (tempWord.length() == 2)
+            {
+                fileName = "two";
+            }
+
             try {
                 addToFile(tempWord, fileName, wordInfo);
 

@@ -1,1 +1,0 @@
-/shieldsquare|[12,t]:1;

@@ -1,2 +1,0 @@
-/acquisition|[13,p]:1;
-/acquire|[32,p]:1;[169754,p]:1;

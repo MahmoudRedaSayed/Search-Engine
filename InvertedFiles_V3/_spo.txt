@@ -1,3 +1,0 @@
-/sports|[13,h]:1;
-/spotted|[22,h]:1;
-/spotlight|[30,h]:1;

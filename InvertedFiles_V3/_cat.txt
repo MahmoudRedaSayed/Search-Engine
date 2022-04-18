@@ -1,2 +1,0 @@
-/categories|[32,h]:1;[169754,h]:1;
-/catalogue|[40,p]:1;

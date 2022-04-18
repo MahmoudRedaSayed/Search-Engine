@@ -1,2 +1,0 @@
-/pianoforte|[40,p]:1;
-/piano'|[40,p]:1;

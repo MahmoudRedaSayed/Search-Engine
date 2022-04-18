@@ -1,2 +1,0 @@
-/english|[19,p]:1;
-/engineers|[22,h]:1;

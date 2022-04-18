@@ -1,2 +1,0 @@
-/supermassive|[22,h]:1;
-/support|[30,h]:1;

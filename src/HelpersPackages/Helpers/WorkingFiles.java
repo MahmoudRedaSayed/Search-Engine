@@ -76,7 +76,20 @@ public class WorkingFiles {
 
             }
         }
-        System.out.println("test");
+
+        // create a file for two-letter words
+        currentFileName = "two";
+        String path = HelperClass.invertedFilePath_V3(currentFileName);
+        File myObj = new File(path);
+        try {
+            myObj.createNewFile();
+        } catch (IOException e) {
+            e.printStackTrace();
+            System.out.println("Failed to create the file");
+        }
+
+        // print
+        System.out.println("Content Files Created Successfully");
     }
 
     // initialization of page content files

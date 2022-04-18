@@ -1,5 +1,0 @@
-/international|[13,t]:1;[28,t]:1;[169752,t]:1;
-/intriguing|[13,p]:1;
-/interstellar|[22,h]:1;
-/interfaces|[30,p]:1;
-/interactive|[30,p]:1;

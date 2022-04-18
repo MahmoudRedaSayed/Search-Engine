@@ -1,5 +1,0 @@
-/discover|[3,p]:1;[36,h]:1;
-/disable|[12,p]:1;
-/disaster|[24,h]:1;
-/dismissible|[30,p]:1;
-/disney|[36,h]:1;

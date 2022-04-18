@@ -1,2 +1,0 @@
-/privateproxy|[12,p]:1;
-/privacy|[37,t]:1;

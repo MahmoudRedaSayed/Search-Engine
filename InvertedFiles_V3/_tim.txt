@@ -1,3 +1,0 @@
-/timeframes|[3,p]:1;[8,s]:1;
-/time—without|[8,s]:1;
-/times|[14,t]:1;

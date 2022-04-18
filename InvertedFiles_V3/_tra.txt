@@ -1,2 +1,0 @@
-/transmitting|[30,p]:1;
-/travel|[36,h]:1;

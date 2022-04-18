@@ -1,5 +1,0 @@
-/started|[3,h]:1;[22,h]:1;[30,p]:1;
-/stack|[10,t]:1;
-/stay|[13,h]:1;
-/stars|[22,h]:1;
-/starting|[30,p]:1;

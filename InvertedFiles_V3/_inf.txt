@@ -1,3 +1,0 @@
-/informed|[13,h]:1;[169755,t]:1;
-/infantis|[35,h]:1;
-/infants|[35,h]:1;

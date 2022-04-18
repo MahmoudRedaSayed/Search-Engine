@@ -1,2 +1,0 @@
-/overflow|[10,t]:1;
-/overnight|[13,p]:1;

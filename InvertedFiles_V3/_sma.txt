@@ -1,2 +1,0 @@
-/smaller-than-expected|[13,p]:1;[22,h]:1;
-/smartphones|[25,h]:1;

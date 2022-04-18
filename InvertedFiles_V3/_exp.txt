@@ -1,5 +1,0 @@
-/expect|[13,p]:1;
-/experts|[13,p]:1;[32,p]:3;[169754,p]:3;
-/explosion|[22,h]:1;
-/exploration|[36,p]:1;
-/experience|[42,t]:1;[42,h]:2;

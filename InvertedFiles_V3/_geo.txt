@@ -1,2 +1,0 @@
-/geographic|[36,t]:1;[36,h]:1;[36,p]:1;
-/geographic’s|[36,h]:1;

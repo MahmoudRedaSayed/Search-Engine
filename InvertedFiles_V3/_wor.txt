@@ -1,3 +1,0 @@
-/worldwide|[3,p]:1;
-/world’s|[22,h]:1;
-/work|[36,h]:1;

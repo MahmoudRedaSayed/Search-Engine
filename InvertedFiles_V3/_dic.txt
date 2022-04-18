@@ -1,2 +1,0 @@
-/dictionary|[39,t]:2;
-/dictionaries|[169756,t]:1;
