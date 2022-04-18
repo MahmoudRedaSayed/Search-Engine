@@ -61,10 +61,13 @@ public class PhraseSearching {
     }
 
 
-    public JSONArray run(String message, ArrayList<String> queryLinesResult) throws FileNotFoundException, JSONException {
+    public JSONArray run(String message, ArrayList<String> queryLinesResult, JSONArray dividedQuery) throws FileNotFoundException, JSONException {
         invertedFiles = working.getInvertedFiles();
         boolean[] indexProcessed;
         Map<Integer, Integer> allIDs = new HashMap<Integer, Integer>();
+        JSONObject divide = new JSONObject();
+        divide.put("Results", message);
+        dividedQuery.put(divide);
 
 
         ArrayList<String> allWordsResult = new ArrayList<String>();

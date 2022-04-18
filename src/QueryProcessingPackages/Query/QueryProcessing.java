@@ -150,9 +150,12 @@ public class QueryProcessing{
 
 
 
-    public JSONArray run(String message, ArrayList<String> queryLinesResult) throws FileNotFoundException, JSONException {
+    public JSONArray run(String message, ArrayList<String> queryLinesResult, JSONArray dividedQuery)
+            throws FileNotFoundException, JSONException {
         invertedFiles = working.getInvertedFiles();
-
+        ArrayList<String> words = new ArrayList<String>();
+        words.add(message);
+        JSONObject divide = new JSONObject();
         ArrayList<String> allWordsResult = new ArrayList<String>();
 
 
@@ -164,7 +167,9 @@ public class QueryProcessing{
         int length = result.length;
         for(int i=0; i<length;i++)
         {
+
             // Loop over words
+            words.add(result[i]);
             ArrayList<String> oneWordResult = new ArrayList<String>();
 
 
@@ -202,6 +207,8 @@ public class QueryProcessing{
             }
 
         }
+        divide.put("Result", words);
+        dividedQuery.put(divide);
         return finalJsonFile;
 
     }
