@@ -9,8 +9,8 @@ import java.io.*;
 import java.util.ArrayList;
 
 public class QueryDivide extends HttpServlet {
-    public JSONArray results;
-    public void setDivided(JSONArray Query)
+    public String results;
+    public void setDivided(String Query)
     {
         results=Query;
     }
@@ -18,7 +18,7 @@ public class QueryDivide extends HttpServlet {
     {
         res.addHeader("Access-Control-Allow-Origin","http://localhost:3000");
         res.setContentType("application/json");
-        res.getWriter().write(results.toString());
+        res.getWriter().write("Mahmoud");
     }
 
 }
