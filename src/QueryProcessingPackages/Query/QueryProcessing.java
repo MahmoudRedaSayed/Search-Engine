@@ -22,7 +22,7 @@ import org.json.*;
 public class QueryProcessing{
 
     DataBase dataBaseObject = new DataBase();
-    WorkingFiles working = new WorkingFiles();
+    WorkingFiles working;
     private Map<String, File> invertedFiles;
     PorterStemmer stemObject = new PorterStemmer();
     String[] stopWords;
@@ -40,14 +40,7 @@ public class QueryProcessing{
         return subStrings;
     }
 
-//    private void initializeFile()
-//    {
-//        String letters = "qwertyuiopasdfghjklzxcvbnm";
-//        for (int i = 0; i < 26; i++){
-//
-//            invertedFiles.put(letters.charAt(i), new File(HelperClass.invertedFilePath(letters.charAt(i))));
-//        }
-//    }
+
 
     private void readStopWords() throws FileNotFoundException {
         // open the file that contains stop words
@@ -109,10 +102,15 @@ public class QueryProcessing{
     //The rest are the words with same root in that file
 
 
-    public static void searchInInvertedFiles(String word, File myFile, ArrayList<String> results) throws FileNotFoundException {
+    public static void searchInInvertedFiles(String word, File myFile, ArrayList<String> results, boolean stemmingFlag) throws FileNotFoundException {
         Scanner read = new Scanner(myFile);
         String tempInput,
-                stemmedVersion = HelperClass.stemTheWord(word);
+                stemmedVersion = " ";
+
+        // stemming the word
+        if (stemmingFlag)
+            stemmedVersion = HelperClass.stemTheWord(word);
+
         boolean wordIsFound = false;
 
         int stopIndex, counter;
@@ -142,8 +140,11 @@ public class QueryProcessing{
 
                 counter = 1;
                 // comparing the stemmed version of the target word by the stemmed version of the word in the inverted file
-                if (stemmedVersion.equals(HelperClass.stemTheWord(theWord)))
-                    results.add(counter++, tempInput);
+                if (stemmingFlag)
+                {
+                    if (stemmedVersion.equals(HelperClass.stemTheWord(theWord)))
+                        results.add(counter++, tempInput);
+                }
             }
         }
     }
@@ -152,7 +153,9 @@ public class QueryProcessing{
 
     public JSONArray run(String message, ArrayList<String> queryLinesResult) throws FileNotFoundException, JSONException {
         invertedFiles = working.getInvertedFiles();
+
         ArrayList<String> allWordsResult = new ArrayList<String>();
+
 
         String[] result = SplitQuery(message);
         result  = removeStopWords(result);
@@ -167,7 +170,7 @@ public class QueryProcessing{
 
 
 
-            searchInInvertedFiles(result[i], invertedFiles.get(result[i].substring(0,2)),oneWordResult);
+            searchInInvertedFiles(result[i], invertedFiles.get(result[i].substring(0,2)),oneWordResult, true);
 
             int length_2 = oneWordResult.size();
             for(int j = 0; j<length_2; j++)
@@ -175,10 +178,7 @@ public class QueryProcessing{
                 queryLinesResult.add(oneWordResult.get(j));
                 // Loop over versions of Words
 
-//                int Start = oneWordResult.get(j).indexOf('|');
-//                int End = oneWordResult.get(j).indexOf(']');
-//
-//                String temp = oneWordResult.get(j).substring(Start+2, End);
+
                 String[] splitLine= oneWordResult.get(j).split("\\[");
                 int length_3 = splitLine.length;
                 for (int k=1; k<length_3; k+=2)
@@ -206,4 +206,8 @@ public class QueryProcessing{
         return finalJsonFile;
 
     }
+
+
+
+
 }

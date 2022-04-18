@@ -139,14 +139,14 @@ public class Main {
 
 
         /*---------------     Query Processing  ----------------------*/
-        WorkingFiles files = new WorkingFiles();
-        QueryProcessing test = new QueryProcessing(files);
-        ArrayList<String> queryLinesResult = new ArrayList<String>();
-        String query = "additions anonymity";
-
-        JSONArray jsonFile  = test.run(query,queryLinesResult);
-        String json = jsonFile.toString() ;
-        System.out.println(json);
+//        WorkingFiles files;
+//        QueryProcessing test = new QueryProcessing(files);
+//        ArrayList<String> queryLinesResult = new ArrayList<String>();
+//        String query = "additions anonymity";
+//
+//        JSONArray jsonFile  = test.run(query,queryLinesResult);
+//        String json = jsonFile.toString() ;
+//        System.out.println(json);
 
         /*---------------     End Of Query Processing ----------------------*/
 
