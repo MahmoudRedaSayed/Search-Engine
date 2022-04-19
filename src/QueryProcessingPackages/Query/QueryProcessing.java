@@ -226,7 +226,7 @@ public class QueryProcessing{
 
             // Mustafa : I edited this code
 
-            String filePath = "path of the inverted files v3 here";
+            String filePath = "D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine\\InvertedFiles_V3\\";
             filePath += fileName + ".txt";
             File targetFile = new File(filePath);
             searchInInvertedFiles(result[i], targetFile,oneWordResult, true);
@@ -360,7 +360,7 @@ public class QueryProcessing{
                 // Mustafa : I edited this code
 
                 String fileName = result[i].substring(0, 2);
-                String filePath = "path of the inverted files v3 here";
+                String filePath = "D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine\\InvertedFiles_V3\\";
                 filePath += fileName + ".txt";
                 File targetFile = new File(filePath);
                 searchInInvertedFiles(result[i], targetFile,oneWordResult, true);
