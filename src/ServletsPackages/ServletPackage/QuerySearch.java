@@ -14,6 +14,7 @@ import com.mysql.cj.xdevapi.JsonArray;
 import org.json.JSONException;
 
 import java.io.*;
+import java.sql.*;
 import java.util.*;
 
 import org.json.*;
@@ -432,6 +433,462 @@ public class QuerySearch extends HttpServlet {
 
             }
             return finalJsonFile;
+        }
+    }
+
+    static class DataBase {
+        private Connection connect;
+        private Statement stmt;
+
+        public DataBase() {
+            try {
+                try {
+                    Class.forName("com.mysql.cj.jdbc.Driver");
+                } catch (Exception e) {
+
+                }
+                connect = DriverManager.getConnection("jdbc:mysql://localhost:3306/search-engine", "root", "");
+                this.stmt = connect.createStatement();
+                if (connect != null) {
+                    System.out.println("Connected to database");
+                } else {
+                    System.out.println("Cannot connect to database");
+                }
+
+            } catch (SQLException e) {
+
+            }
+        }
+
+        //--------------------------------------Create Link --------------------------------------------------------------------//
+        public synchronized void createLink(String Link, int Layer, String ThreadName, int ParentId) {
+            try {
+                this.stmt.executeUpdate("INSERT INTO links (Link, Layer, ThreadName, LinkParent,Completed) VALUES ('" + Link + "', '" + Layer + "', '" + ThreadName + "', " + ParentId + ",'" + 0 + "');");
+            } catch (SQLException e) {
+            }
+        }
+//----------------------------------------------------------------------------------------------------------------------//
+
+// --------------------------------------Update Link to Complete -------------------------------------------------------//
+
+        public synchronized void urlCompleted(String Link) {
+            try {
+                this.stmt.executeUpdate("UPDATE links SET Completed=1 WHERE link='" + Link + "'");
+            } catch (SQLException e) {
+            }
+        }
+//----------------------------------------------------------------------------------------------------------------------//
+
+        // --------------------------------------Update Link to Complete -------------------------------------------------------//
+
+// --------------------------------------Set and Get Thread Position -------------------------------------------------------//
+
+        public synchronized void setThreadPosition(String ThreadName, int Layer, int Index) {
+            try {
+                if (Layer == 1) {
+                    this.stmt.executeUpdate("UPDATE threads SET Layer=" + Layer + " WHERE ThreadName='" + ThreadName + "';");
+                    this.stmt.executeUpdate("UPDATE threads SET UrlIndex=" + Index + " WHERE ThreadName='" + ThreadName + "';");
+
+                } else if (Layer == 2) {
+
+                    this.stmt.executeUpdate("UPDATE threads SET Layer=" + Layer + " WHERE ThreadName='" + ThreadName + "';");
+                    this.stmt.executeUpdate("UPDATE threads SET UrlIndex1=" + Index + " WHERE ThreadName='" + ThreadName + "';");
+
+                } else if (Layer == 3) {
+
+
+                    this.stmt.executeUpdate("UPDATE threads SET Layer=" + Layer + " WHERE ThreadName='" + ThreadName + "';");
+                    this.stmt.executeUpdate("UPDATE threads SET UrlIndex2=" + Index + " WHERE ThreadName='" + ThreadName + "';");
+                } else if (Layer == 4) {
+
+                    this.stmt.executeUpdate("UPDATE threads SET Layer=" + Layer + " WHERE ThreadName='" + ThreadName + "';");
+                    this.stmt.executeUpdate("UPDATE threads SET UrlIndex3=" + Index + " WHERE ThreadName='" + ThreadName + "';");
+                } else {
+                    this.stmt.executeUpdate("UPDATE threads SET Layer=1 WHERE ThreadName='" + ThreadName + "';");
+                    this.stmt.executeUpdate("UPDATE threads SET  UrlIndex=0 WHERE ThreadName='" + ThreadName + "';");
+                    this.stmt.executeUpdate("UPDATE threads SET  UrlIndex1=0  WHERE ThreadName='" + ThreadName + "';");
+                    this.stmt.executeUpdate("UPDATE threads SET  UrlIndex2=0 WHERE ThreadName='" + ThreadName + "';");
+                    this.stmt.executeUpdate("UPDATE threads SET   UrlIndex3=0 WHERE ThreadName='" + ThreadName + "';");
+
+
+                }
+            } catch (SQLException e) {
+            }
+        }
+
+        public synchronized ResultSet getThreadPosition(String ThreadName) {
+            try {
+                ResultSet resultSet = this.stmt.executeQuery("SELECT * FROM threads WHERE ThreadName='" + ThreadName + "'");
+                return resultSet;
+            } catch (SQLException e) {
+                return null;
+            }
+        }
+//----------------------------------------------------------------------------------------------------------------------//
+
+        public synchronized ResultSet getUrls(String Url) {
+            try {
+                return this.stmt.executeQuery("SELECT * FROM links WHERE Link='" + Url + "' AND Completed = 1");
+            } catch (SQLException e) {
+                return null;
+            }
+        }
+
+        //---------------------------------------------get the url similar to the url-------------------------------------------//
+        public synchronized ResultSet getUrls2(String Url) {
+            try {
+                return this.stmt.executeQuery("SELECT * FROM links WHERE Link='" + Url + "';");
+            } catch (SQLException e) {
+                return null;
+            }
+        }
+// ---------------------------------------------------------------------------------------------------------------------//
+
+
+        //---------------------------------------get link by ID  -------------------------------------------------------------//
+        public synchronized Boolean getLinkByID(Integer ID, StringBuffer linkUrl, StringBuffer description) {
+            try {
+                //String query = "Select Link FROM links WHERE Id= " + ID +" ";
+                String query = "Select * FROM links";
+                ResultSet resultSet = this.stmt.executeQuery("Select Link, Descripation FROM links WHERE Id= " + ID + ";");
+                resultSet.next();
+                String linkResult = resultSet.getString("Link");
+                linkUrl.append(linkResult);
+                String descriptionResult = resultSet.getString("Descripation");
+                description.append(descriptionResult);
+                return true;
+
+            } catch (SQLException e) {
+                return false;
+            }
+
+        }
+
+
+// ---------------------------------------------------------------------------------------------------------------------//
+
+
+// --------------------------------------get the id of the link  -------------------------------------------------------//
+
+        public synchronized int getId(String Url, String ThreadName) {
+            try {
+                ResultSet resultSet = this.stmt.executeQuery("SELECT * FROM links WHERE Link='" + Url + "' AND ThreadName='" + ThreadName + "' AND Completed=0 ;");
+                while (resultSet.next()) {
+                    int Id = -1;
+                    Id = resultSet.getInt("Id");
+                    return Id;
+                }
+            } catch (SQLException e) {
+
+            }
+            return -1;
+        }
+//----------------------------------------------------------------------------------------------------------------------//
+
+        //-----------------------------------------get the family of the link --------------------------------------------------//
+        public synchronized ResultSet getParentUrl(String ThreadName, StringBuffer parentLink, StringBuffer grandLink, String link, int Layer) {
+            try {
+                if (Layer == 1) {
+                    ResultSet resultSet = this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='" + ThreadName + "' AND Layer=" + Layer + ";");
+                    while (resultSet.next()) {
+                        grandLink.append(resultSet.getString("Link"));
+                    }
+                    return this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='" + ThreadName + "' AND Layer=" + Layer + ";");
+                } else if (Layer == 2) {
+                    ResultSet resultSet = this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='" + ThreadName + "' AND Layer=" + Layer + " AND Completed=0;");
+                    while (resultSet.next()) {
+                        resultSet = this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent , k.Layer FROM links as e , links as k WHERE e.Layer= " + Layer + " AND e.ThreadName='" + ThreadName + "' AND k.Id=e.LinkParent;");
+                        while (resultSet.next()) {
+                            parentLink.append(resultSet.getString("Link"));
+                            return this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent , k.Layer FROM links as e , links as k WHERE e.Layer= " + Layer + " AND e.ThreadName='" + ThreadName + "' AND k.Id=e.LinkParent;");
+                        }
+
+                    }
+                } else if (Layer == 3) {
+                    ResultSet resultSet = this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='" + ThreadName + "' AND Layer=" + Layer + " AND Completed=0;");
+                    while (resultSet.next()) {
+                        resultSet = this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent , k.Layer FROM links as e , links as k WHERE e.Layer= " + Layer + " AND e.ThreadName='" + ThreadName + "' AND k.Id=e.LinkParent;");
+                        while (resultSet.next()) {
+                            parentLink.append(resultSet.getString("Link"));
+                            Layer = resultSet.getInt("Layer");
+                            resultSet = this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent , k.Layer FROM links as e , links as k WHERE e.Layer= " + Layer + " AND e.ThreadName='" + ThreadName + "' AND k.Id=e.LinkParent;");
+                            while (resultSet.next()) {
+                                grandLink.append(resultSet.getString("Link"));
+                                return this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent , k.Layer FROM links as e , links as k WHERE e.Layer= " + Layer + " AND e.ThreadName='" + ThreadName + "' AND k.Id=e.LinkParent;");
+                            }
+
+                        }
+
+
+                    }
+                }
+            } catch (SQLException e) {
+                return null;
+
+            }
+            return null;
+        }
+//----------------------------------------------------------------------------------------------------------------------//
+
+
+        //------------------------------------------get the completed urls------------------------------------------------------//
+        public synchronized int getCompleteCount() {
+            try {
+                ResultSet result = this.stmt.executeQuery("SELECT count(Link) as Number FROM links WHERE  Completed=1 ;");
+                int count = 0;
+                while (result.next()) {
+                    count = result.getInt("Number");
+                }
+                return count;
+            } catch (SQLException e) {
+            }
+            return 0;
+        }
+//----------------------------------------------------------------------------------------------------------------------//
+
+        public java.sql.Date getMaxDate() {
+            try {
+                ResultSet result = this.stmt.executeQuery("SELECT max(LastTime) as Time FROM links;");
+                java.sql.Date count = null;
+                while (result.next()) {
+                    count = result.getDate("columnName");
+                }
+                return count;
+            } catch (SQLException e) {
+            }
+            return null;
+        }
+
+        //---------------------------------------------get url and its related ID-------------------------------------------//
+        public ResultSet getAllUrls() {
+            try {
+                return this.stmt.executeQuery("SELECT Link, Id FROM links where Completed=1;");
+            } catch (SQLException e) {
+                return null;
+            }
+        }
+
+        // ---------------------------------------------------------------------------------------------------------------------//
+        //-----------------------------------------------get the number of links out from the parent link-----------------------//
+        public int getParentLinksNum(int childId) {
+
+            try {
+                ResultSet resultSet = this.stmt.executeQuery("SELECT LinkParent FROM links  where Id=" + childId + " ;");
+                while (resultSet.next()) {
+                    int parentId = resultSet.getInt("LinkParent");
+                    return this.stmt.executeQuery("SELECT count(Id) as Number FROM links  where LinkParent=" + parentId + " ;").getInt("Number");
+                }
+            } catch (SQLException e) {
+                return -1;
+            }
+            return -1;
+        }
+
+        // ---------------------------------------------------------------------------------------------------------------------//
+        //-----------------------------------------------Add Link descripation--------------------------------------------------//
+        public void addDesc(int id, String desc) {
+            try {
+                this.stmt.executeUpdate("UPDATE links SET Descripation='" + desc + "' WHERE Id=" + id + ";");
+            } catch (SQLException e) {
+
+            }
+        }
+    }
+
+    //-------------------------------------------------------------------------------------------------///////////
+
+    static class WorkingFiles {
+        private Map<String, File> invertedFiles;
+        private String[] stopWords;
+        private Map<String, File> pageContentFiles;
+        public WorkingFiles(int countOfPageContentFiles)
+        {
+            // create the files of pages content
+            String path = "";
+            for (int i = 1; i <= countOfPageContentFiles; i++)
+            {
+                path = HelperClass.pageContentFilesPath(String.valueOf(i));
+                File myObj = new File(path);
+                try {
+                    myObj.createNewFile();
+                } catch (IOException e) {
+                    e.printStackTrace();
+                    System.out.println("Failed to create the file");
+                }
+            }
+            // page content files
+            createPagesContentFiles(countOfPageContentFiles);
+            // inverted files
+            initializeFiles();
+
+            // stop words
+            try {
+                readStopWords();
+            } catch (FileNotFoundException e) {
+                System.out.println("Failed to open Stop words file");
+                e.printStackTrace();
+            }
+
+
+        }
+
+        // initialization of inverted files
+        private void initializeFiles()
+        {
+            invertedFiles = new HashMap<String, File>();
+            String letters = "qwertyuiopasdfghjklzxcvbnm";
+            String currentFileName = "";
+
+            for (int i = 0; i < 26; i++){
+                for (int j = 0; j < 26; j++)
+                {
+                    for(int k = 0; k < 26; k++)
+                    {
+                        currentFileName = "_";
+                        currentFileName += letters.charAt(i);
+                        currentFileName += letters.charAt(j);
+                        currentFileName += letters.charAt(k);
+
+                        String path = HelperClass.invertedFilePath_V3(currentFileName);
+                        File myObj = new File(path);
+                        try {
+                            myObj.createNewFile();
+                        } catch (IOException e) {
+                            e.printStackTrace();
+                            System.out.println("Failed to create the file");
+                        }
+
+                        invertedFiles.put(currentFileName, new File(HelperClass.invertedFilePath_V3(currentFileName)));
+                        currentFileName = "";
+                    }
+
+                }
+            }
+
+            // create a file for two-letter words
+            currentFileName = "two";
+            String path = HelperClass.invertedFilePath_V3(currentFileName);
+            File myObj = new File(path);
+            try {
+                myObj.createNewFile();
+                invertedFiles.put(currentFileName, new File(HelperClass.invertedFilePath_V3(currentFileName)));
+            } catch (IOException e) {
+                e.printStackTrace();
+                System.out.println("Failed to create the file");
+            }
+
+            // create a file for Arabic words
+            currentFileName = "arabic";
+            path = HelperClass.invertedFilePath_V3(currentFileName);
+            File myObj_2 = new File(path);
+            try {
+                myObj_2.createNewFile();
+                invertedFiles.put(currentFileName, new File(HelperClass.invertedFilePath_V3(currentFileName)));
+            } catch (IOException e) {
+                e.printStackTrace();
+                System.out.println("Failed to create the file");
+            }
+
+            // print
+            System.out.println("Content Files Created Successfully");
+        }
+
+        // initialization of page content files
+        private void createPagesContentFiles(int count)
+        {
+            // initialization map of the files
+            pageContentFiles = new HashMap<String,File>();
+
+            for (int i = 1; i <= count; i++)
+            {
+                pageContentFiles.put(String.valueOf(i), new File(HelperClass.pageContentFilesPath(String.valueOf(i))));
+            }
+        }
+
+        // read the stop words
+        private void readStopWords() throws FileNotFoundException {
+            // open the file that contains stop words
+            String filePath = System.getProperty("user.dir");   // get the directory of the project
+            filePath += File.separator + "helpers" + File.separator + "stop_words.txt";
+            File myFile = new File(filePath);
+
+            stopWords = new String[851];
+
+            // read from the file
+            Scanner read = new Scanner(myFile);
+            String tempInput;
+            int counter = 0;
+            while(read.hasNextLine())
+            {
+                tempInput = read.nextLine();
+                stopWords[counter++] = tempInput;
+            }
+            read.close();
+
+        }
+
+        // get stop words
+        public String[] getStopWordsAsArr()
+        {
+            return stopWords;
+        }
+
+        // get stop words
+        public Map<Character, Vector<String>> getStopWordsAsMap()
+        {
+            // hold stop words in arr
+            String[] myStopWords = this.getStopWordsAsArr();
+
+            // creating Map
+            Map<Character, Vector<String>> wordsMap = new HashMap<>();
+            String letters = "qwertyuiopasdfghjklzxcvbnm'";
+            // initialize map
+            for (int i = 0; i < 27; i++){
+
+                wordsMap.put(letters.charAt(i), new Vector<String>());
+            }
+
+            // fill the map
+            int x = 0;
+            for (String word : myStopWords)
+            {
+                if (wordsMap.get(word.charAt(0)) != null)
+                    wordsMap.get(word.charAt(0)).add(word);
+            }
+
+            return wordsMap;
+        }
+
+        // get inverted files
+        public Map<String, File> getInvertedFiles()
+        {
+            return invertedFiles;
+        }
+
+        // add to page content file
+        public void addToPageContentFile(String fileName, String content)
+        {
+            FileWriter myWriter = null;
+
+            try {
+                myWriter = new FileWriter(HelperClass.pageContentFilesPath(fileName));
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+
+            try {
+                myWriter.write(content);
+                System.out.println("Successfully added the content to the file " + fileName +".txt");
+            } catch (IOException e) {
+                e.printStackTrace();
+                System.out.println("Failed to add the content to the file " + fileName +".txt");
+            }
+
+            try {
+                myWriter.close();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
         }
     }
 }
