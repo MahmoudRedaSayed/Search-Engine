@@ -6,14 +6,13 @@ import javax.servlet.*;
 import javax.servlet.http.*;
 import javax.xml.crypto.Data;
 
-import DataBasePackages.DataBase.DataBase;
-import PhraseSearchingPackages.PhraseSearching.*;
-import HelpersPackages.Helpers.*;
-import QueryProcessingPackages.Query.*;
 import com.mysql.cj.xdevapi.JsonArray;
 import org.json.JSONException;
 
 import java.io.*;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Path;
 import java.sql.*;
 import java.util.*;
 
@@ -24,41 +23,45 @@ public class QuerySearch extends HttpServlet {
     public String searchingQuery;
     public ArrayList<String> rankerArray;
     public JSONArray dividedQuery;
-    public QueryDivide SendQuery= new QueryDivide();
 
     public void doGet(HttpServletRequest req, HttpServletResponse res) throws IOException
     {
         res.addHeader("Access-Control-Allow-Origin","*");
         String searchingQuery=req.getParameter("query");
-        SendQuery.setDivided(searchingQuery);
-        JSONArray results=null;
+        res.setContentType("text/html");
+//        JSONArray results=null;
         DataBase dataBaseObj = new DataBase();
-        WorkingFiles workingFilesObj = new WorkingFiles(dataBaseObj.getCompleteCount());
+
+        WorkingFiles workingFilesObj = new WorkingFiles(5615);
         if(searchingQuery.startsWith("\"") && searchingQuery.endsWith("\""))
         {
+
             //call the function of the phrase searching
+            res.getWriter().println("phrase");
+
 
             PhraseSearching obj = new PhraseSearching(workingFilesObj);
 
-            try {
-                 results  =obj.run(searchingQuery,rankerArray,dividedQuery);
-            } catch (JSONException e) {
-                e.printStackTrace();
-            }
+//            try {
+//                 results  =obj.run(searchingQuery,rankerArray,dividedQuery);
+//            } catch (JSONException e) {
+//                e.printStackTrace();
+//            }
         }
         else
         {
             //call function of query processing
-            QueryProcessing obj = new QueryProcessing(workingFilesObj);
-            try {
-                 results  =obj.run(searchingQuery,rankerArray,dividedQuery);
-            } catch (JSONException e) {
-                e.printStackTrace();
-            }
+            res.getWriter().println("query");
+
+            QueryProcessing obj = new QueryProcessing(null);
+//            try {
+//                 results  =obj.run(searchingQuery,rankerArray,dividedQuery);
+//            } catch (JSONException e) {
+//                e.printStackTrace();
+//            }
         }
 //        //Ranker
-        res.setContentType("application/json");
-        res.getWriter().write(results.toString());
+//        res.getWriter().println(results.toString());
 ;
     }
 
@@ -345,7 +348,7 @@ public class QuerySearch extends HttpServlet {
 
 
         public JSONArray run(String message, ArrayList<String> queryLinesResult, JSONArray dividedQuery) throws FileNotFoundException, JSONException {
-            invertedFiles = working.getInvertedFiles();
+                invertedFiles = working.getInvertedFiles();
             boolean[] indexProcessed;
             Map<Integer, Integer> allIDs = new HashMap<Integer, Integer>();
             JSONObject divide = new JSONObject();
@@ -377,7 +380,7 @@ public class QuerySearch extends HttpServlet {
                 else
                     fileName = "_" + result[i].substring(0,3);
 
-                QueryProcessingPackages.Query.QueryProcessing.searchInInvertedFiles(result[i], invertedFiles.get(fileName),
+                QueryProcessing.searchInInvertedFiles(result[i], invertedFiles.get(fileName),
                         oneWordResult, false);
 
                 int length_2 = oneWordResult.size();
@@ -701,109 +704,13 @@ public class QuerySearch extends HttpServlet {
         private Map<String, File> invertedFiles;
         private String[] stopWords;
         private Map<String, File> pageContentFiles;
-        public WorkingFiles(int countOfPageContentFiles)
+        public WorkingFiles()
         {
             // create the files of pages content
-            String path = "";
-            for (int i = 1; i <= countOfPageContentFiles; i++)
-            {
-                path = HelperClass.pageContentFilesPath(String.valueOf(i));
-                File myObj = new File(path);
-                try {
-                    myObj.createNewFile();
-                } catch (IOException e) {
-                    e.printStackTrace();
-                    System.out.println("Failed to create the file");
-                }
-            }
-            // page content files
-            createPagesContentFiles(countOfPageContentFiles);
-            // inverted files
-            initializeFiles();
-
-            // stop words
-            try {
-                readStopWords();
-            } catch (FileNotFoundException e) {
-                System.out.println("Failed to open Stop words file");
-                e.printStackTrace();
-            }
-
 
         }
 
-        // initialization of inverted files
-        private void initializeFiles()
-        {
-            invertedFiles = new HashMap<String, File>();
-            String letters = "qwertyuiopasdfghjklzxcvbnm";
-            String currentFileName = "";
 
-            for (int i = 0; i < 26; i++){
-                for (int j = 0; j < 26; j++)
-                {
-                    for(int k = 0; k < 26; k++)
-                    {
-                        currentFileName = "_";
-                        currentFileName += letters.charAt(i);
-                        currentFileName += letters.charAt(j);
-                        currentFileName += letters.charAt(k);
-
-                        String path = HelperClass.invertedFilePath_V3(currentFileName);
-                        File myObj = new File(path);
-                        try {
-                            myObj.createNewFile();
-                        } catch (IOException e) {
-                            e.printStackTrace();
-                            System.out.println("Failed to create the file");
-                        }
-
-                        invertedFiles.put(currentFileName, new File(HelperClass.invertedFilePath_V3(currentFileName)));
-                        currentFileName = "";
-                    }
-
-                }
-            }
-
-            // create a file for two-letter words
-            currentFileName = "two";
-            String path = HelperClass.invertedFilePath_V3(currentFileName);
-            File myObj = new File(path);
-            try {
-                myObj.createNewFile();
-                invertedFiles.put(currentFileName, new File(HelperClass.invertedFilePath_V3(currentFileName)));
-            } catch (IOException e) {
-                e.printStackTrace();
-                System.out.println("Failed to create the file");
-            }
-
-            // create a file for Arabic words
-            currentFileName = "arabic";
-            path = HelperClass.invertedFilePath_V3(currentFileName);
-            File myObj_2 = new File(path);
-            try {
-                myObj_2.createNewFile();
-                invertedFiles.put(currentFileName, new File(HelperClass.invertedFilePath_V3(currentFileName)));
-            } catch (IOException e) {
-                e.printStackTrace();
-                System.out.println("Failed to create the file");
-            }
-
-            // print
-            System.out.println("Content Files Created Successfully");
-        }
-
-        // initialization of page content files
-        private void createPagesContentFiles(int count)
-        {
-            // initialization map of the files
-            pageContentFiles = new HashMap<String,File>();
-
-            for (int i = 1; i <= count; i++)
-            {
-                pageContentFiles.put(String.valueOf(i), new File(HelperClass.pageContentFilesPath(String.valueOf(i))));
-            }
-        }
 
         // read the stop words
         private void readStopWords() throws FileNotFoundException {
@@ -890,6 +797,111 @@ public class QuerySearch extends HttpServlet {
                 e.printStackTrace();
             }
         }
+    }
+    static class HelperClass {
+
+
+        // get the path of the inverted Files
+        public static String invertedFilePath(String fileName)
+        {
+            String filePath = System.getProperty("user.dir");   // get the directory of the project
+            filePath += File.separator + "InvertedFiles" + File.separator + fileName + ".txt";
+            return filePath;
+        }
+
+        // get the path of the inverted Files_V2
+        public static String invertedFilePath_V2(String fileName)
+        {
+            String filePath = System.getProperty("user.dir");   // get the directory of the project
+            filePath += File.separator + "InvertedFiles_V2" + File.separator + fileName + ".txt";
+            return filePath;
+        }
+
+        // get the path of the inverted Files_V3
+        public static String invertedFilePath_V3(String fileName)
+        {
+            String filePath = System.getProperty("user.dir");   // get the directory of the project
+            filePath += File.separator + "InvertedFiles_V3" + File.separator + fileName + ".txt";
+            return filePath;
+        }
+
+        // get the path of the page content files
+        public static String pageContentFilesPath(String fileName)
+        {
+            String filePath = System.getProperty("user.dir");   // get the directory of the project
+            filePath += File.separator + "PageContentFiles" + File.separator + fileName + ".txt";
+            return filePath;
+        }
+
+
+        // check if a given word is existing in a given inverted file or not
+        // returns the whole line that contains this word
+        public static String isExistingInFile(String word, File myFile) throws IOException {
+            Scanner read = new Scanner(myFile);
+            String tempInput;
+
+            while(read.hasNextLine())
+            {
+                tempInput = read.nextLine();
+                if (tempInput.equals(""))
+                    continue;
+
+                // check if this line is for a word or just an extension for the previous line
+                if (tempInput.charAt(0) == '/')
+                // compare to check if this word = ourWord ?
+                {
+                    // get the word
+                    int wordSize = word.length();
+                    char ch = tempInput.charAt(1);      // just initialization
+                    boolean matchingFlag = true;
+
+                    int i;
+                    for (i = 0; i < wordSize; i++)
+                        if(tempInput.charAt(i+1) != word.charAt(i))
+                            break;
+
+                    if(i == wordSize)
+                        return tempInput;
+                }
+            }
+            return "";      // if not found, return empty
+        }
+
+        // this function replaces a line in a given inverted file
+        public static void replaceLineInFile(Path path, String oldLine, String newLine) throws IOException {
+            List<String>fileContents = new ArrayList<>(Files.readAllLines(path, StandardCharsets.UTF_8));
+            int ContentSize = fileContents.size();
+
+            for (int i = 0; i < ContentSize; i++)
+            {
+                if(fileContents.get(i).equals(oldLine)) {
+                    fileContents.set(i, newLine);
+                    break;
+                }
+            }
+            Files.write(path, fileContents, StandardCharsets.UTF_8);
+        }
+
+        // stem the word using Porter Stemmer Lib
+        public static String stemTheWord(String word)
+        {
+            PorterStemmer stemObject = new PorterStemmer();
+            stemObject.setCurrent(word);
+            stemObject.stem();
+            return stemObject.getCurrent();
+        }
+
+        // check if the word is arabic
+        public static boolean isProbablyArabic(String s) {
+            for (int i = 0; i < s.length();) {
+                int c = s.codePointAt(i);
+                if (c >= 0x0600 && c <= 0x06E0)
+                    return true;
+                i += Character.charCount(c);
+            }
+            return false;
+        }
+
     }
 }
 
