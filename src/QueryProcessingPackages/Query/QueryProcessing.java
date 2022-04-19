@@ -21,16 +21,19 @@ import org.json.*;
 public class QueryProcessing{
 
     DataBase dataBaseObject = new DataBase();
-    WorkingFiles working;
+    //WorkingFiles working;
     private Map<String, File> invertedFiles;
     PorterStemmer stemObject = new PorterStemmer();
     String[] stopWords;
 
 
-    public QueryProcessing(WorkingFiles files)
+    public QueryProcessing()
     {
-        working = files;
-        stopWords = files.getStopWordsAsArr();
+        //working = files;
+        //stopWords = files.getStopWordsAsArr();
+
+        stopWords[0] = "test";      // "will be edited"
+        stopWords[1] = "test";      // "will be edited"
     }
 
     private String[] SplitQuery(String searchQuery)
@@ -189,7 +192,7 @@ public class QueryProcessing{
 
     public JSONArray run(String message, ArrayList<String> queryLinesResult, JSONArray dividedQuery)
             throws FileNotFoundException, JSONException {
-        invertedFiles = working.getInvertedFiles();
+        //invertedFiles = working.getInvertedFiles();
         boolean[] indexProcessed;
         Map<Integer, Integer> allIDs = new HashMap<Integer, Integer>();
         ArrayList<String> words = new ArrayList<String>();
@@ -221,7 +224,12 @@ public class QueryProcessing{
             else
                 fileName = "_" + result[i].substring(0,3);
 
-            searchInInvertedFiles(result[i], invertedFiles.get(fileName),oneWordResult, true);
+            // Mustafa : I edited this code
+
+            String filePath = "path of the inverted files v3 here";
+            filePath += fileName + ".txt";
+            File targetFile = new File(filePath);
+            searchInInvertedFiles(result[i], targetFile,oneWordResult, true);
 
             int length_2 = oneWordResult.size();
             for(int j = 0; j<length_2; j++)
@@ -285,15 +293,16 @@ public class QueryProcessing{
 
     public class PhraseSearching {
         DataBase dataBaseObject = new DataBase();
-        WorkingFiles working;
+        //WorkingFiles working;
         private Map<String, File> invertedFiles;
         PorterStemmer stemObject = new PorterStemmer();
         String[] stopWords;
 
 
-        public PhraseSearching(WorkingFiles files) {
-            working = files;
-            stopWords = files.getStopWordsAsArr();
+        public PhraseSearching() {
+            //working = files;
+            stopWords[0] = "test";      // "will be edited"
+            stopWords[1] = "test";      // "will be edited"
         }
 
 
@@ -326,7 +335,7 @@ public class QueryProcessing{
 
 
         public JSONArray run(String message, ArrayList<String> queryLinesResult, JSONArray dividedQuery) throws FileNotFoundException, JSONException {
-            invertedFiles = working.getInvertedFiles();
+            //invertedFiles = working.getInvertedFiles();
             boolean[] indexProcessed;
             Map<Integer, Integer> allIDs = new HashMap<Integer, Integer>();
             JSONObject divide = new JSONObject();
@@ -348,8 +357,15 @@ public class QueryProcessing{
                 // Loop over words
                 ArrayList<String> oneWordResult = new ArrayList<String>();
 
+                // Mustafa : I edited this code
 
-                QueryProcessing.searchInInvertedFiles(result[i], invertedFiles.get(result[i].substring(0, 2)),
+                String fileName = result[i].substring(0, 2);
+                String filePath = "path of the inverted files v3 here";
+                filePath += fileName + ".txt";
+                File targetFile = new File(filePath);
+                searchInInvertedFiles(result[i], targetFile,oneWordResult, true);
+
+                QueryProcessing.searchInInvertedFiles(result[i], targetFile,
                         oneWordResult, false);
 
                 int length_2 = oneWordResult.size();

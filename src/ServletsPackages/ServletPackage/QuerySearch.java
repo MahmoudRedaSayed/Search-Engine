@@ -32,7 +32,7 @@ public class QuerySearch extends HttpServlet {
 //        JSONArray results=null;
         DataBase dataBaseObj = new DataBase();
 
-        WorkingFiles workingFilesObj = new WorkingFiles(5615);
+        //WorkingFiles workingFilesObj = new WorkingFiles(5615);
         if(searchingQuery.startsWith("\"") && searchingQuery.endsWith("\""))
         {
 
@@ -40,7 +40,7 @@ public class QuerySearch extends HttpServlet {
             res.getWriter().println("phrase");
 
 
-            PhraseSearching obj = new PhraseSearching(workingFilesObj);
+            PhraseSearching obj = new PhraseSearching();
 
 //            try {
 //                 results  =obj.run(searchingQuery,rankerArray,dividedQuery);
