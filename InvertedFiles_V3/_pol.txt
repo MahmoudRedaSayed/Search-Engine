@@ -1,0 +1,10 @@
+/polymer|[2,p]:2;
+/police|[4,h]:1;[11,h]:1;[11,p]:2;[13,p]:2;
+/politics|[4,p]:1;[11,h]:6;[9,p]:1;[11,p]:5;
+/political|[4,p]:1;[2,p]:2;
+/policy|[3,p]:1;[11,h]:2;[10,p]:3;[11,p]:2;[9,p]:1;[12,p]:2;
+/polyglot|[3,p]:2;
+/polluted|[2,p]:1;[9,h]:1;[9,p]:1;
+/polygonal|[2,p]:1;
+/polk|[11,p]:1;
+/polling|[13,p]:1;

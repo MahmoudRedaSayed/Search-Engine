@@ -1,0 +1,5 @@
+/bar|[2,p]:1;[13,p]:1;
+/bars|[2,p]:1;
+/barega|[9,p]:2;
+/baranova|[11,p]:1;
+/barely|[8,p]:1;

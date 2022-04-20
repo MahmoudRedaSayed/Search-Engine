@@ -1,0 +1,8 @@
+/scala|[2,p]:2;
+/scalable|[3,p]:1;
+/scarborough|[4,h]:1;[4,p]:1;
+/scanner|[2,p]:1;
+/scale|[9,p]:2;
+/scare|[8,p]:1;
+/scattered|[8,p]:1;
+/scarce|[8,p]:1;

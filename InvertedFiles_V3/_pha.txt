@@ -1,0 +1,6 @@
+/phase|[4,h]:1;[2,p]:1;
+/phalcon|[2,p]:2;
+/phase'|[11,h]:1;[11,p]:1;
+/pharmaceuticals|[8,p]:1;
+/pharaoh|[8,p]:1;
+/pharisees|[8,p]:2;

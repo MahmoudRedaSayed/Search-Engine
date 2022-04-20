@@ -1,0 +1,9 @@
+/sport|[4,h]:1;[9,h]:1;[11,h]:1;[9,p]:6;
+/sports|[4,p]:1;[2,p]:1;[11,p]:1;[8,p]:1;[13,h]:1;[13,p]:1;
+/spotify|[2,p]:1;
+/spoken|[8,p]:2;
+/spoil|[8,p]:1;
+/sportsbrazil's|[13,p]:1;
+/sportsreport|[13,p]:1;
+/sportsliverpool|[13,p]:1;
+/sportsfrance|[13,p]:1;

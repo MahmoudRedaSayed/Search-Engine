@@ -1,0 +1,9 @@
+/beast|[8,p]:2;
+/beautiful|[8,p]:1;
+/beauty|[8,p]:1;
+/beast?”|[8,p]:1;
+/bear|[8,p]:1;
+/beard|[8,p]:1;
+/beat|[8,p]:2;
+/beatings|[13,p]:2;
+/beach|[13,p]:1;

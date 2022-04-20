@@ -1,0 +1,2 @@
+/hamilton|[4,h]:1;
+/hamiltonian|[2,p]:1;

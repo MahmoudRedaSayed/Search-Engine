@@ -1,0 +1,2 @@
+/apache|[2,p]:4;
+/apartment|[4,h]:1;

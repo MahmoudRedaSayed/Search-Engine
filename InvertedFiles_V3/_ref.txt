@@ -1,0 +1,13 @@
+/refuge|[4,h]:1;[4,p]:1;
+/refrigerator|[2,p]:1;
+/reflective|[9,h]:1;[9,p]:2;
+/refers|[8,p]:3;
+/reference|[8,p]:1;
+/refused|[8,p]:2;
+/refusal|[8,p]:1;
+/ref–lk|[8,p]:1;
+/refines|[8,p]:1;
+/refusing|[8,p]:1;
+/reflected|[8,p]:1;
+/referred|[8,p]:1;
+/refinitiv|[13,h]:1;[13,p]:3;

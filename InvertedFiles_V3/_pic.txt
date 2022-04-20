@@ -1,0 +1,8 @@
+/pichai|[2,p]:1;
+/picks|[9,h]:1;[11,h]:1;[8,p]:2;[13,p]:1;
+/pictures|[9,h]:1;[8,p]:1;[9,p]:2;
+/pickleball's|[11,h]:1;
+/picnics|[8,p]:1;
+/pictured|[8,p]:1;
+/picking|[8,p]:1;
+/picchu|[13,p]:1;

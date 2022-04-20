@@ -14,6 +14,7 @@ import IndexerPackages.Indexer.Indexer;
 import com.mysql.cj.xdevapi.DatabaseObject;
 import com.mysql.cj.xdevapi.JsonArray;
 import com.mysql.cj.xdevapi.JsonString;
+import QueryProcessingPackages.Query.QueryProcessing;
 import org.json.*;
 
 public class Main {
@@ -149,25 +150,13 @@ public class Main {
 //        System.out.println("DONE !\n");
 //
 //
-//
+
 //
 //
 //
 //        /*---------------     End Of Indexing ----------------------*/
 //
 //
-//
-//        /*---------------     Query Processing  ----------------------*/
-////        WorkingFiles files = new WorkingFiles();
-////        QueryProcessing test = new QueryProcessing(files);
-////
-////        String query = "anonymity         experience";
-////
-////        JSONArray jsonFile  = test.run(query);
-////        String json = jsonFile.toString() ;
-////        System.out.println(json);
-//
-//        /*---------------     End Of Query Processing ----------------------*/
 //
 //
     }

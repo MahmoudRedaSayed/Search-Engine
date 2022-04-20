@@ -1,0 +1,12 @@
+/improves|[3,p]:3;[10,h]:1;
+/imposing|[4,h]:1;
+/implementation|[3,p]:1;[2,p]:3;
+/import|[2,p]:1;
+/impossible|[2,p]:1;[8,s]:4;[8,p]:10;
+/impossible—yet|[8,s]:1;[8,p]:1;
+/implants|[9,h]:1;[9,p]:2;
+/impact|[11,h]:1;
+/impending|[9,p]:2;[8,p]:2;
+/imposes|[13,p]:1;
+/impounds|[13,p]:1;
+/imports|[13,p]:1;

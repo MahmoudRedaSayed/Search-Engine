@@ -1,0 +1,10 @@
+/chef|[4,h]:1;
+/chemistry|[2,p]:1;
+/check|[3,p]:2;[2,p]:3;[8,p]:1;[13,p]:1;
+/chefs|[2,p]:1;
+/checklists|[10,p]:1;
+/checked|[8,p]:1;
+/cheat|[8,p]:2;
+/chewing|[8,p]:1;
+/cheaper|[13,p]:1;
+/checkpoint|[13,p]:1;

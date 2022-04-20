@@ -20,50 +20,22 @@ import java.util.List;
 import org.json.*;
 import com.mysql.jdbc.*;
 import org.tartarus.snowball.ext.PorterStemmer;
-class connect {
-    public connect() {
-        Connection connect1;
-        Statement stmt1;
-        try {
 
-            try {
-                Class.forName("com.mysql.cj.jdbc.Driver");
-            } catch (Exception e) {
-                System.out.println(e);
-            }
-
-            connect1 = DriverManager.getConnection("jdbc:mysql://localhost:3306/search-engine", "root", "");
-            stmt1 = connect1.createStatement();
-
-            if (connect1 != null) {
-                System.out.println("Connected to database");
-            } else {
-                System.out.println("Cannot connect to database");
-            }
-        } catch (SQLException e) {
-            System.out.println(e);
-        }
-    }
-}
 
 public class QuerySearch extends HttpServlet {
     public String searchingQuery;
-    public ArrayList<String> rankerArray;
-    public JSONArray dividedQuery;
+    public ArrayList<String> rankerArray=new ArrayList<String>();
+    public JSONArray dividedQuery=new JSONArray();
     int count=0;
-    public void init(){
 
-            connect obj=new connect();
-            count=1;
-    }
 
     public void doGet(HttpServletRequest req, HttpServletResponse res) throws IOException {
         res.addHeader("Access-Control-Allow-Origin", "*");
         String searchingQuery = req.getParameter("query");
         res.setContentType("text/html");
         String results="";
-//        DataBase dataBaseObj = new DataBase();
-//        int num=dataBaseObj.getCompleteCount();
+        DataBase dataBaseObj = new DataBase();
+         count=dataBaseObj.getCompleteCount();
 
         //WorkingFiles workingFilesObj = new WorkingFiles(5615);
         if (searchingQuery.startsWith("\"") && searchingQuery.endsWith("\"")) {
@@ -72,8 +44,8 @@ public class QuerySearch extends HttpServlet {
             res.getWriter().println("phrase"+count);
 
 
-            //PhraseSearching obj = new PhraseSearching();
-
+//            PhraseSearching obj = new PhraseSearching();
+//
 //            try {
 ////                 results  =obj.run(searchingQuery,rankerArray,dividedQuery);
 //            } catch (JSONException e) {
@@ -86,8 +58,9 @@ public class QuerySearch extends HttpServlet {
             QueryProcessing obj = new QueryProcessing();
             try {
                  results  =obj.run(searchingQuery,rankerArray,dividedQuery);
-            } catch (JSONException e) {
+            } catch (Exception e) {
                 e.printStackTrace();
+                System.out.println(e);
             }
             res.getWriter().println(results);
 
@@ -236,11 +209,11 @@ public class QuerySearch extends HttpServlet {
 
     static class QueryProcessing{
 
-       //static DataBase dataBaseObject = new DataBase();
+       static DataBase dataBaseObject = new DataBase();
         //WorkingFiles working;
         private Map<String, File> invertedFiles;
         public  PorterStemmer stemObject = new PorterStemmer();
-        public String[] stopWords;
+        public String[] stopWords=new String[2];
 
 
         public QueryProcessing()
@@ -248,6 +221,7 @@ public class QuerySearch extends HttpServlet {
             //working = files;
             //stopWords = files.getStopWordsAsArr();
             System.out.println("The consturctor");
+
             stopWords[0] = "test";      // "will be edited"
             stopWords[1] = "test";      // "will be edited"
         }
@@ -390,123 +364,122 @@ public class QuerySearch extends HttpServlet {
             return temp;
         }
 
-//        public static HashMap<String, Double> replaceIDByLink(HashMap<Integer, Double> hm)
-//        {
-//            StringBuffer link = new StringBuffer("");
-//            DataBase dataBaseObject = QueryProcessing.dataBaseObject;
-//            StringBuffer description = new StringBuffer("");
-//            HashMap<String, Double> temp = new HashMap<String, Double>();
-//            for (Iterator<Map.Entry<Integer, Double>> it = hm.entrySet().iterator(); it.hasNext(); )
-//            {
-//                Map.Entry<Integer, Double> IDEntry = it.next();
-//                dataBaseObject.getLinkByID(IDEntry.getKey(), link, description);
-//                temp.put(link.toString(), IDEntry.getValue());
-//            }
-//
-//            return temp;
-//        }
+        public static HashMap<String, Double> replaceIDByLink(HashMap<Integer, Double> hm)
+        {
+            StringBuffer link = new StringBuffer("");
+            DataBase dataBaseObject = QueryProcessing.dataBaseObject;
+            StringBuffer description = new StringBuffer("");
+            HashMap<String, Double> temp = new HashMap<String, Double>();
+            for (Iterator<Map.Entry<Integer, Double>> it = hm.entrySet().iterator(); it.hasNext(); )
+            {
+                Map.Entry<Integer, Double> IDEntry = it.next();
+                dataBaseObject.getLinkByID(IDEntry.getKey(), link, description);
+                temp.put(link.toString(), IDEntry.getValue());
+            }
+
+            return temp;
+        }
 
         public String run(String message, ArrayList<String> queryLinesResult, JSONArray dividedQuery)
                 throws FileNotFoundException, JSONException {
             //invertedFiles = working.getInvertedFiles();
             System.out.println("The running function");
-            return "function run";
 
-//            boolean[] indexProcessed;
-//            Map<Integer, Integer> allIDs = new HashMap<Integer, Integer>();
-//            ArrayList<String> words = new ArrayList<String>();
-//            words.add(message);
-//            JSONObject divide = new JSONObject();
-//            ArrayList<String> allWordsResult = new ArrayList<String>();
-//
-//
-//            String[] result = SplitQuery(message);
-//            result  = removeStopWords(result);
-//            indexProcessed = new boolean[result.length];
-//            String json = "{ [";
-//            StringBuffer jsonFile = new StringBuffer(json);
-//            JSONArray finalJsonFile = new JSONArray();
-//            int length = result.length;
-//            for(int i=0; i<length;i++)
-//            {
-//
-//                // Loop over words
-//                words.add(result[i]);
-//                ArrayList<String> oneWordResult = new ArrayList<String>();
-//
-//                String fileName = "";
-//                if (HelperClass.isProbablyArabic(result[i]))
-//                    fileName = "arabic";
-//                else if(result[i].length() == 2)
-//                    fileName = "two";
-//
-//                else
-//                    fileName = "_" + result[i].substring(0,3);
-//
-//                // Mustafa : I edited this code
-//
-//                String filePath = "D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine\\InvertedFiles_V3\\";
-//                filePath += fileName + ".txt";
-//                File targetFile = new File(filePath);
-//                searchInInvertedFiles(result[i], targetFile,oneWordResult, true);
-//
-//                int length_2 = oneWordResult.size();
-//                for(int j = 0; j<length_2; j++)
-//                {
-//                    queryLinesResult.add(oneWordResult.get(j));
-//                    // Loop over versions of Words
-//
-//
-//                    String[] splitLine= oneWordResult.get(j).split("\\[");
-//                    int length_3 = splitLine.length;
-//                    for (int k=1; k<length_3; k+=2)
-//                    {
-//
-//                        // Loop over links of the same version of each Word
-//
-//                        int End = splitLine[k].indexOf(']');
-//                        String temp = splitLine[k].substring(0, End);
-//
-//                        String[] finalID = temp.split(",");
-//                        int ID = Integer.parseInt(finalID[0]);
-//
-//                        if (i == 0 && !indexProcessed[i]) {
-//                            allIDs.put(ID, 1);
-//                            indexProcessed[0] = true;
-//                        }
-//                        else if (!indexProcessed[i] && allIDs.containsKey(ID)) {
-//                            allIDs.put(ID, 1 + allIDs.get(ID));
-//                            indexProcessed[i] = true;
-//                        }
-//
-//                    }
-//                }
-//
-//            }
-//            for (Iterator<Map.Entry<Integer, Integer>> it = allIDs.entrySet().iterator(); it.hasNext(); ) {
-//                Map.Entry<Integer, Integer> entry = it.next();
-//                if (entry.getValue() < length) {
-//                    it.remove();
-//                }
-//
-//                for (Iterator<Map.Entry<Integer, Integer>> iter = allIDs.entrySet().iterator(); it.hasNext(); ) {
-//
-//                    Map.Entry<Integer, Integer> IDEntry = iter.next();
-//
-//                    StringBuffer link = new StringBuffer("");
-//                    StringBuffer description = new StringBuffer("");
-//                    JSONObject Jo = new JSONObject();
-//                    dataBaseObject.getLinkByID(IDEntry.getKey(), link, description);
-//                    Jo.put("Link", link);
-//                    Jo.put("Description", description);
-//                    finalJsonFile.put(Jo);
-//                }
-//
-//            }
-//
-//            divide.put("Result", words);
-//            dividedQuery.put(divide);
-//            return finalJsonFile;
+            boolean [] indexProcessed;
+            Map<Integer, Integer> allIDs = new HashMap<Integer, Integer>();
+            ArrayList<String> words = new ArrayList<String>();
+            words.add(message);
+            JSONObject divide = new JSONObject();
+            ArrayList<String> allWordsResult = new ArrayList<String>();
+
+
+            String[] result = SplitQuery(message);
+            result  = removeStopWords(result);
+            indexProcessed = new boolean[result.length];
+            String json = "{ [";
+            StringBuffer jsonFile = new StringBuffer(json);
+            JSONArray finalJsonFile = new JSONArray();
+            int length = result.length;
+            for(int i=0; i<length;i++)
+            {
+
+                // Loop over words
+                words.add(result[i]);
+                ArrayList<String> oneWordResult = new ArrayList<String>();
+
+                String fileName = "";
+                if (HelperClass.isProbablyArabic(result[i]))
+                    fileName = "arabic";
+                else if(result[i].length() == 2)
+                    fileName = "two";
+
+                else
+                    fileName = "_" + result[i].substring(0,3);
+
+                // Mustafa : I edited this code
+
+                String filePath = "D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine\\InvertedFiles_V3\\";
+                filePath += fileName + ".txt";
+                File targetFile = new File(filePath);
+                searchInInvertedFiles(result[i], targetFile,oneWordResult, true);
+
+                int length_2 = oneWordResult.size();
+                for(int j = 0; j<length_2; j++)
+                {
+                    queryLinesResult.add(oneWordResult.get(j));
+                    // Loop over versions of Words
+
+
+                    String[] splitLine= oneWordResult.get(j).split("\\[");
+                    int length_3 = splitLine.length;
+                    for (int k=1; k<length_3; k+=2)
+                    {
+
+                        // Loop over links of the same version of each Word
+
+                        int End = splitLine[k].indexOf(']');
+                        String temp = splitLine[k].substring(0, End);
+
+                        String[] finalID = temp.split(",");
+                        int ID = Integer.parseInt(finalID[0]);
+
+                        if (i == 0 && !indexProcessed[i]) {
+                            allIDs.put(ID, 1);
+                            indexProcessed[0] = true;
+                        }
+                        else if (!indexProcessed[i] && allIDs.containsKey(ID)) {
+                            allIDs.put(ID, 1 + allIDs.get(ID));
+                            indexProcessed[i] = true;
+                        }
+
+                    }
+                }
+
+            }
+            for (Iterator<Map.Entry<Integer, Integer>> it = allIDs.entrySet().iterator(); it.hasNext(); ) {
+                Map.Entry<Integer, Integer> entry = it.next();
+                if (entry.getValue() < length) {
+                    it.remove();
+                }
+
+                for (Iterator<Map.Entry<Integer, Integer>> iter = allIDs.entrySet().iterator(); it.hasNext(); ) {
+
+                    Map.Entry<Integer, Integer> IDEntry = iter.next();
+
+                    StringBuffer link = new StringBuffer("");
+                    StringBuffer description = new StringBuffer("");
+                    JSONObject Jo = new JSONObject();
+                    dataBaseObject.getLinkByID(IDEntry.getKey(), link, description);
+                    Jo.put("Link", link);
+                    Jo.put("Description", description);
+                    finalJsonFile.put(Jo);
+                }
+
+            }
+
+            divide.put("Result", words);
+            dividedQuery.put(divide);
+            return finalJsonFile.toString();
 
         }
 

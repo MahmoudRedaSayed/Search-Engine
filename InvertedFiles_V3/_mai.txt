@@ -1,0 +1,4 @@
+/mail|[2,p]:4;
+/maintain|[4,h]:1;[2,p]:1;[13,p]:1;
+/mailing|[8,p]:1;
+/maintenance|[12,p]:1;

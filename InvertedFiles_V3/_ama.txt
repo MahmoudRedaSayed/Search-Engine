@@ -1,0 +1,3 @@
+/amazon|[4,h]:1;[13,p]:1;
+/amazing|[9,p]:1;[8,p]:1;
+/amazingly|[8,p]:1;

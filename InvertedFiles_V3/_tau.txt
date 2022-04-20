@@ -1,0 +1,2 @@
+/tautology|[2,p]:1;
+/taught|[8,p]:5;

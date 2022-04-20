@@ -1,0 +1,8 @@
+/excel|[2,p]:28;
+/exception|[2,p]:1;[8,s]:1;[8,p]:1;
+/exchange|[10,h]:1;[10,p]:5;[8,p]:1;
+/exceedingly|[8,s]:1;[8,p]:3;
+/excuses|[8,p]:4;
+/excavations|[8,p]:1;
+/excellent|[8,p]:1;
+/exchanges|[13,p]:1;

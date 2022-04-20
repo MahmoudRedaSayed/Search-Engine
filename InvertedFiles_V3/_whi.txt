@@ -1,0 +1,4 @@
+/whip-wielding|[9,h]:1;[9,p]:2;
+/white|[8,s]:2;[11,h]:2;[11,p]:1;[8,p]:5;
+/whirlwind|[8,s]:1;[8,p]:1;
+/whirlwinds|[8,p]:1;

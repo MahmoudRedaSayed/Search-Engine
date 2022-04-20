@@ -1,0 +1,5 @@
+/create|[4,p]:1;[3,p]:1;[2,p]:3;[10,p]:3;
+/creation|[3,p]:1;[8,p]:2;
+/creatures|[8,p]:1;
+/created|[8,p]:1;
+/credits|[13,p]:2;

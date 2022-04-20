@@ -1,0 +1,4 @@
+/birtwistle|[9,h]:1;[9,p]:2;
+/birds|[8,s]:1;[8,p]:5;
+/birth|[8,p]:3;
+/births|[8,p]:1;

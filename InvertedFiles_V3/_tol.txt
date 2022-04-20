@@ -1,0 +1,5 @@
+/toll|[4,h]:1;[4,p]:1;[11,h]:1;[11,p]:1;
+/toll-free|[4,p]:1;
+/tollywood|[2,p]:1;
+/tolerance|[2,p]:1;
+/told|[9,h]:1;[9,p]:2;[8,p]:5;

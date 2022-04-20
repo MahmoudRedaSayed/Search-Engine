@@ -1,0 +1,5 @@
+/risks|[2,p]:1;[13,p]:4;
+/risking|[9,h]:1;[9,p]:2;
+/rise|[8,p]:3;
+/risingeven|[8,p]:1;[13,p]:1;
+/risen|[8,p]:1;

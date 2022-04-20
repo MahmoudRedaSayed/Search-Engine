@@ -1,0 +1,2 @@
+/pierced|[8,p]:2;
+/pieces|[8,p]:1;

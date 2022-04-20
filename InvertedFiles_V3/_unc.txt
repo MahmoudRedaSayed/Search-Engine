@@ -1,0 +1,5 @@
+/unclean|[8,s]:1;[8,p]:1;
+/unclear|[8,p]:1;
+/uncommon|[8,p]:1;
+/uncover|[13,p]:2;
+/unchanged|[13,p]:1;

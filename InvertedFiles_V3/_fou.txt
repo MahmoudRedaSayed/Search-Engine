@@ -1,0 +1,6 @@
+/fountains|[8,s]:1;[8,p]:2;
+/fourth|[8,s]:3;[8,p]:4;
+/fought|[8,p]:1;
+/foundations|[8,p]:4;
+/fourscore|[8,p]:1;
+/founded|[8,p]:1;

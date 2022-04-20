@@ -1,0 +1,4 @@
+/writer|[4,p]:1;[2,p]:2;[8,p]:3;
+/written|[2,p]:1;[8,p]:35;
+/written?|[8,p]:1;
+/written–|[8,p]:1;

@@ -1,0 +1,3 @@
+/library|[2,p]:4;[8,p]:1;
+/librarians|[12,h]:1;[12,p]:1;
+/librariansioporg|[12,p]:1;

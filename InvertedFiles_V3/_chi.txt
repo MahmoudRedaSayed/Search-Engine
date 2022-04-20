@@ -1,0 +1,11 @@
+/chips|[3,p]:1;[9,h]:2;[9,p]:4;
+/children|[8,s]:2;[11,h]:5;[9,h]:1;[11,p]:2;[9,p]:2;[8,p]:11;
+/china|[8,s]:1;[11,h]:1;[8,p]:7;[13,h]:1;[13,p]:4;
+/chinese|[11,h]:1;[9,p]:1;[13,p]:1;
+/children—then|[8,p]:1;
+/childhood|[8,p]:1;
+/chinaus|[13,p]:2;
+/chinaas|[13,p]:1;
+/china's|[13,p]:1;
+/chill|[13,p]:1;
+/chinachina|[13,p]:1;

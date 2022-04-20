@@ -1,0 +1,2 @@
+/bein|[6,p]:5;
+/beinmatch|[6,p]:1;

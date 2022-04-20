@@ -1,0 +1,10 @@
+/church|[8,s]:1;[8,p]:33;
+/churches'|[11,h]:1;[8,p]:7;[11,p]:1;
+/church—you|[8,p]:1;
+/churchgoers|[8,p]:1;
+/church?—we|[8,p]:1;
+/church–rev|[8,p]:1;
+/church–scripture|[8,p]:1;
+/church–how|[8,p]:1;
+/church–revelation|[8,p]:1;
+/churches–overview|[8,p]:1;

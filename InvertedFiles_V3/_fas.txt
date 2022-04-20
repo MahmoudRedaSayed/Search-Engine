@@ -1,0 +1,5 @@
+/faster|[3,p]:1;[8,s]:1;[8,p]:5;
+/fashion|[2,p]:1;
+/fastest|[2,p]:1;
+/fastest-growing|[11,h]:1;
+/fasting|[8,p]:2;

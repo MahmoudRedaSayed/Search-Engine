@@ -1,0 +1,16 @@
+/card|[3,p]:1;[9,p]:2;[8,p]:1;
+/cards|[3,p]:1;[2,p]:1;
+/carbolic|[2,p]:1;
+/careers|[3,p]:2;[2,p]:1;[10,t]:1;[11,h]:2;[11,p]:1;[8,p]:1;[13,p]:1;
+/cars|[2,p]:4;[9,h]:1;[9,p]:2;
+/carboxylic|[2,p]:1;
+/cartoons|[2,p]:1;
+/carbonic|[2,p]:1;
+/cards'|[9,h]:2;[9,p]:4;
+/carter|[11,p]:1;
+/carlina|[11,p]:1;
+/caribbean|[9,p]:1;
+/cartwright|[11,p]:1;
+/carry|[8,p]:1;
+/carmel|[8,p]:1;
+/cares|[8,p]:1;

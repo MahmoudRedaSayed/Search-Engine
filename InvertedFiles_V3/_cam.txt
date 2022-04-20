@@ -1,0 +1,5 @@
+/campus|[2,h]:1;[2,p]:2;
+/campaign|[4,h]:1;
+/camel|[2,p]:1;
+/camera|[11,h]:1;[11,p]:1;
+/came–why?|[8,p]:2;

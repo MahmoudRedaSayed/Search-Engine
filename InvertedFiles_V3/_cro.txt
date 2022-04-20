@@ -1,0 +1,6 @@
+/crop|[2,p]:1;
+/crown'|[9,h]:1;[9,p]:2;
+/crops|[8,s]:1;[8,p]:1;
+/crowned|[9,p]:2;
+/cross|[8,p]:3;
+/crowns|[8,p]:1;

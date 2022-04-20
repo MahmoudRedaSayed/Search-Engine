@@ -1,0 +1,4 @@
+/machine|[2,p]:27;
+/machines|[3,p]:1;[2,p]:2;
+/macro|[13,p]:1;
+/machu|[13,p]:1;

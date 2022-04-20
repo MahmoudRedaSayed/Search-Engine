@@ -1,0 +1,10 @@
+/mining|[2,p]:15;
+/minister|[4,h]:1;
+/ministers|[2,p]:1;[8,p]:3;
+/minecraft|[2,p]:2;
+/minimum|[2,p]:3;[13,p]:1;
+/mining?|[9,h]:1;[9,p]:1;
+/minutes|[8,p]:3;[13,p]:1;
+/minds|[8,p]:3;
+/ministry|[8,p]:2;
+/ministry–general|[8,p]:1;

@@ -1,0 +1,6 @@
+/language|[3,p]:4;[2,p]:2;
+/landing|[2,p]:3;[8,s]:3;[8,p]:13;[11,h]:1;
+/landlord|[4,h]:1;
+/lanka|[9,h]:1;[9,p]:1;[13,p]:1;
+/languages|[9,h]:2;[8,p]:1;
+/landfill|[11,h]:1;[11,p]:1;

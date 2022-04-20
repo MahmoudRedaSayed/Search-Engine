@@ -1,0 +1,9 @@
+/reviews|[3,h]:1;[4,h]:1;[8,p]:13;
+/reverse|[2,p]:1;
+/reveal|[9,h]:1;[9,p]:1;[8,p]:1;
+/revolution|[9,h]:1;[9,p]:1;
+/rev |[10,p]:1;
+/reveals|[8,p]:4;
+/revelation|[8,p]:21;
+/revelation |[8,p]:1;
+/revival—is|[8,p]:1;

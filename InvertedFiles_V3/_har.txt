@@ -1,0 +1,12 @@
+/hardik|[2,p]:1;[8,p]:4;
+/harry|[11,h]:2;[11,p]:2;
+/harrison|[9,h]:1;[9,p]:2;[11,p]:1;
+/hardest|[10,p]:1;
+/harsher|[11,h]:2;[11,p]:1;
+/hardships|[8,p]:1;
+/harlots|[8,p]:4;
+/harmed|[8,p]:2;
+/harvest|[8,p]:2;
+/harps|[8,p]:1;
+/harvested|[8,p]:1;
+/harmony–mt|[8,p]:1;

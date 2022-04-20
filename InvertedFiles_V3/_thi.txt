@@ -1,0 +1,10 @@
+/thinks|[4,h]:1;[8,p]:1;
+/thing?|[8,p]:1;
+/things?|[8,p]:1;
+/this?|[8,p]:1;
+/thief|[8,p]:1;
+/thirst|[8,p]:1;
+/thieves|[8,p]:1;
+/thigh|[8,p]:1;
+/this”|[8,p]:1;
+/thinking|[8,p]:1;

@@ -1,0 +1,6 @@
+/rappers|[2,p]:1;
+/rapture|[8,s]:3;[8,p]:40;
+/rapids|[11,h]:1;[11,p]:2;
+/raptured|[8,p]:6;
+/rapped|[8,p]:1;
+/raped|[8,p]:2;

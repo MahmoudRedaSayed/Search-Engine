@@ -1,0 +1,10 @@
+/current—and|[3,p]:1;[10,h]:1;[10,p]:1;[13,p]:2;
+/curved|[2,p]:1;
+/curated|[3,p]:1;
+/currency|[9,h]:1;[9,p]:2;
+/curse|[8,s]:1;[8,p]:3;
+/curb|[9,p]:2;
+/currents|[8,p]:1;
+/cure|[8,p]:1;
+/cursing|[8,p]:1;
+/curves|[8,p]:1;

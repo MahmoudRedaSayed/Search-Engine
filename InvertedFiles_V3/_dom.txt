@@ -1,0 +1,4 @@
+/domain|[2,p]:1;
+/dominate|[8,p]:1;
+/domination|[8,p]:1;
+/dominant|[8,p]:1;

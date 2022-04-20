@@ -1,0 +1,3 @@
+/tithe?|[8,p]:1;
+/titus|[8,p]:2;
+/tithing|[8,p]:1;

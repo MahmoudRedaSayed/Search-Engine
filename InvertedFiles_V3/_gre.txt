@@ -1,0 +1,8 @@
+/greatly|[3,p]:2;[8,s]:9;[8,p]:55;
+/greatest|[2,p]:1;[8,p]:4;
+/greene|[11,h]:1;[11,p]:1;[8,p]:1;
+/great'|[11,h]:1;[11,p]:1;
+/greens|[9,h]:1;[9,p]:2;
+/greek|[8,p]:1;
+/greed|[8,p]:1;
+/greater|[8,p]:4;

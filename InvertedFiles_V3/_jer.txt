@@ -1,0 +1,5 @@
+/jerry|[4,h]:1;
+/jerusalem|[8,s]:4;[8,p]:22;
+/jerusalem”–joel|[8,p]:1;
+/jerusalem’s|[8,p]:2;
+/jersey|[8,p]:1;[13,p]:1;

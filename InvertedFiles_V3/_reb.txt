@@ -1,0 +1,6 @@
+/rebirth|[8,s]:3;[8,p]:14;
+/reborn|[8,p]:6;
+/rebirth‐ref|[8,p]:1;
+/rebuilt|[8,p]:2;
+/rebellion|[8,p]:2;
+/rebellion–satan’s|[8,p]:1;

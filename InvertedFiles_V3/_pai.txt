@@ -1,0 +1,4 @@
+/paint|[2,p]:3;[8,p]:1;
+/pair|[2,p]:1;
+/painful|[8,p]:2;
+/pains|[8,p]:1;

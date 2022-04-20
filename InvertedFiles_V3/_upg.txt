@@ -1,0 +1,2 @@
+/upgrading|[3,p]:2;
+/upgrades|[3,p]:1;

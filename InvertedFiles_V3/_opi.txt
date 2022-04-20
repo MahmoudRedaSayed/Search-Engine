@@ -1,0 +1,4 @@
+/opinion|[4,p]:1;[11,p]:1;
+/opinionated|[3,p]:1;
+/opinions|[11,h]:1;
+/opioid|[13,p]:1;

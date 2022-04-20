@@ -1,0 +1,10 @@
+/release|[3,p]:8;[4,h]:1;
+/relevant|[3,p]:2;
+/relations|[4,p]:1;
+/reliability|[3,p]:1;
+/relationship|[2,p]:1;
+/religion|[8,s]:1;[11,h]:1;[11,p]:1;[8,p]:2;
+/religious|[11,h]:1;[8,p]:2;
+/released|[8,p]:1;
+/relying|[13,p]:2;
+/relationships|[13,p]:2;

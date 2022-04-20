@@ -1,0 +1,3 @@
+/clusters|[3,p]:1;
+/clues|[9,h]:1;[8,p]:1;[9,p]:1;
+/clutches|[8,p]:1;

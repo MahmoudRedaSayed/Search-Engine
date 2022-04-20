@@ -1,0 +1,10 @@
+/author|[2,h]:1;[2,p]:1;[8,p]:2;
+/automata|[2,p]:2;
+/automation|[2,p]:3;
+/autocad|[2,p]:2;
+/authors|[2,p]:1;
+/autopsy|[11,h]:1;[11,p]:1;[13,p]:1;
+/authorities|[9,p]:4;[8,p]:5;
+/authority|[9,p]:2;[8,p]:5;
+/authenticating|[8,p]:1;
+/authoritative|[13,p]:2;

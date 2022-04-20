@@ -1,0 +1,5 @@
+/gather|[8,s]:1;[8,p]:3;
+/gathered|[8,p]:8;
+/gathering|[8,p]:1;
+/gate|[8,p]:5;
+/gateway|[13,p]:1;

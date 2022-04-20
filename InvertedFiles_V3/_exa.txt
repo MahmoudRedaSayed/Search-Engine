@@ -1,0 +1,5 @@
+/examined|[3,p]:1;[8,p]:2;
+/examples|[2,p]:2;
+/exact|[8,p]:4;
+/exalt|[8,p]:2;
+/exalted|[8,p]:1;

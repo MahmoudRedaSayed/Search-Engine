@@ -1,0 +1,4 @@
+/horses|[8,s]:2;[8,p]:5;
+/horrible|[8,p]:7;
+/horns|[8,p]:1;
+/horizons|[8,p]:1;

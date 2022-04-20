@@ -1,0 +1,4 @@
+/night|[4,h]:1;[8,p]:6;
+/nigerians|[9,h]:1;[9,p]:3;
+/nightmare|[11,h]:1;[11,p]:1;
+/nightly|[11,h]:3;[11,p]:5;

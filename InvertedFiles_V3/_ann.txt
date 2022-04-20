@@ -1,0 +1,5 @@
+/ann|[2,p]:2;
+/announces|[4,h]:1;[3,p]:1;
+/anniversary|[3,p]:1;
+/announced|[9,p]:2;[13,p]:2;
+/announcing|[8,p]:1;

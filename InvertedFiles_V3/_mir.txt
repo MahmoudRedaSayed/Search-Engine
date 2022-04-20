@@ -1,0 +1,3 @@
+/mirza|[2,p]:1;
+/miracle|[8,p]:1;
+/miracles|[8,p]:7;

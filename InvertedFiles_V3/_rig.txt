@@ -1,0 +1,3 @@
+/rights|[2,p]:1;[4,p]:1;[13,p]:2;
+/right?|[8,p]:1;
+/righteousness–|[8,p]:2;

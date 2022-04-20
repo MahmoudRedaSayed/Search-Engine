@@ -1,0 +1,4 @@
+/fury|[8,s]:1;[8,p]:4;
+/furious|[8,p]:1;
+/furnace|[8,p]:1;
+/furlongs|[8,p]:1;

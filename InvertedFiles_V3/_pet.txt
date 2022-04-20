@@ -1,0 +1,2 @@
+/petersburg|[8,p]:2;
+/petition|[13,p]:1;

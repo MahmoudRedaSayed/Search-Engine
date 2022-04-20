@@ -1,0 +1,4 @@
+/began|[9,h]:1;[8,p]:11;[9,p]:2;
+/begged|[9,h]:3;[9,p]:5;
+/begins—over|[8,p]:1;
+/begotten|[8,p]:3;

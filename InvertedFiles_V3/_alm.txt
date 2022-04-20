@@ -1,0 +1,2 @@
+/almanac  |[8,p]:2;
+/almighty|[8,p]:1;

@@ -25,12 +25,14 @@ class Results extends Component{
                 console.log(data);
                 this.setState({query:data.currentSearch});
             })
-            fetch("/api").then(response=>{
+            fetch("http://localhost:8080/api?query="+this.state.query).then(response=>{
                 if(response.ok)
                 {
                     return response.json();
                 }
             }).then(data=>{
+                console.log("the data recs");
+                console.log(data);
                 this.setState({Results:data.Results});
                 const Numbers=[];
                 for(let i=1;i<=Math.ceil(this.state.Results.length/this.state.ResultsPerPage);i++)

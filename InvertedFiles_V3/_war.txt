@@ -1,0 +1,9 @@
+/warehouse|[2,p]:2;[4,h]:4;[4,p]:1;[9,h]:1;[11,h]:3;[9,p]:3;[8,p]:13;[11,p]:2;[13,p]:4;
+/wars|[8,s]:3;[8,p]:8;
+/warn|[11,h]:2;[8,p]:2;
+/warning|[9,p]:2;[8,p]:4;
+/warfare  |[8,p]:5;
+/warns|[8,p]:2;
+/warned|[8,p]:1;
+/warnings|[8,p]:1;
+/warfare–expect|[8,p]:1;

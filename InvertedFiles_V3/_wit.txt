@@ -1,0 +1,7 @@
+/witchcrafts|[8,s]:1;[8,p]:1;
+/witnesses|[8,s]:2;[8,p]:18;
+/wits|[8,p]:1;
+/witte|[11,p]:1;
+/withered|[8,p]:1;
+/witnessing|[8,p]:3;
+/withdraws|[13,p]:1;

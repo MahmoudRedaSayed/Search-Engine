@@ -1,0 +1,5 @@
+/shine|[4,h]:1;[8,p]:1;
+/shift|[2,p]:1;
+/shipping|[10,p]:1;
+/ships|[8,p]:3;
+/shining|[8,p]:1;

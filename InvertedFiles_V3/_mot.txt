@@ -1,0 +1,6 @@
+/motor|[4,p]:1;
+/motivational|[2,p]:1;
+/motorbike'|[9,h]:1;[9,p]:4;
+/mother|[11,h]:2;[11,p]:2;[8,p]:3;
+/mother's|[11,h]:1;
+/motto|[8,p]:1;

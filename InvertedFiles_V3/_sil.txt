@@ -1,0 +1,3 @@
+/silence|[8,s]:1;[8,p]:3;
+/silver|[8,p]:4;
+/silent|[8,p]:1;

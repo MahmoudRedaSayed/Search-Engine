@@ -1,0 +1,14 @@
+/trump|[2,p]:1;[11,h]:1;[8,p]:1;
+/true|[8,s]:2;[8,p]:22;
+/trumpets|[8,s]:2;[8,p]:5;
+/trusted|[10,p]:2;[8,p]:4;[13,h]:1;
+/truckers|[9,h]:1;[9,p]:1;
+/trump-backed|[11,h]:1;
+/trump-based|[11,h]:1;[11,p]:1;
+/trusting|[8,p]:2;
+/trumpets”‐ref|[8,p]:1;
+/truth|[8,p]:4;
+/truthful|[8,p]:1;
+/truman|[8,p]:1;
+/trust”|[8,p]:1;
+/truth–make|[8,p]:1;

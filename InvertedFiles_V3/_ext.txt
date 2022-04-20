@@ -1,0 +1,8 @@
+/extjs|[2,p]:2;
+/extra|[6,p]:1;
+/extensible|[3,p]:1;
+/extract|[2,p]:1;
+/extreme|[8,s]:1;[8,p]:1;
+/extinction'|[9,h]:1;[9,p]:2;
+/extends|[8,p]:1;
+/extending|[8,p]:1;

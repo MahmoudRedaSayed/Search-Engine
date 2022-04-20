@@ -1,0 +1,7 @@
+/general-purpose|[3,p]:2;[8,p]:5;[13,p]:1;
+/generator|[2,p]:1;
+/generation|[2,p]:1;[8,s]:3;[8,p]:16;
+/genpact|[2,p]:1;
+/gentiles|[8,p]:6;
+/generals|[8,p]:1;
+/genesis|[8,p]:1;

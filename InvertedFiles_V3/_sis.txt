@@ -1,0 +1,2 @@
+/sisters|[4,h]:1;
+/sistemas|[3,p]:1;

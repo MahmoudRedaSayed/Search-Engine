@@ -1,0 +1,6 @@
+/rails|[2,p]:2;
+/raised"|[3,p]:1;
+/railway|[2,p]:2;
+/rain|[8,s]:2;[8,p]:10;
+/rainforests|[9,p]:2;
+/rains|[8,p]:2;

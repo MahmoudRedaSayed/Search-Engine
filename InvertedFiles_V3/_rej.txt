@@ -1,0 +1,3 @@
+/rejoicing|[8,p]:1;
+/reject|[8,p]:2;
+/rejection|[8,p]:1;

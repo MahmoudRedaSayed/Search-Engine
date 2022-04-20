@@ -1,0 +1,5 @@
+/analysis|[2,p]:3;[9,p]:2;[11,h]:1;
+/analyst|[3,p]:3;
+/analytics|[2,p]:1;
+/analog|[2,p]:2;
+/analyses|[11,h]:1;

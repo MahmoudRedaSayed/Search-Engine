@@ -1,0 +1,5 @@
+/happen|[9,h]:1;[8,s]:2;[8,p]:18;[9,p]:1;
+/happened|[8,p]:4;
+/happening|[8,p]:5;
+/happen?|[8,p]:1;
+/happen—|[8,p]:1;

@@ -1,0 +1,2 @@
+/educators|[3,p]:1;
+/education|[13,p]:3;

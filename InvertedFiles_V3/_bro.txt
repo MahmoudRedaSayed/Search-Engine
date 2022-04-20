@@ -1,0 +1,5 @@
+/broke|[9,h]:1;[9,p]:1;[8,p]:1;
+/brought|[8,s]:1;[8,p]:6;
+/brotherhood|[8,p]:1;
+/broken|[8,p]:3;
+/browse|[13,h]:1;[13,p]:2;

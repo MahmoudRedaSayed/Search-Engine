@@ -1,0 +1,5 @@
+/garena|[2,p]:1;
+/gartner|[3,p]:1;
+/garbahaarrey?|[9,p]:2;
+/garden|[8,p]:2;
+/garments|[8,p]:1;

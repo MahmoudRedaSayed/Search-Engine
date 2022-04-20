@@ -1,0 +1,4 @@
+/magento|[2,p]:2;
+/magazine|[3,p]:1;
+/magog|[8,s]:1;[8,p]:3;
+/magazines|[8,p]:1;

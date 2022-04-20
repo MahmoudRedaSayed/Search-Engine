@@ -1,0 +1,11 @@
+/couchdb|[2,p]:2;
+/court|[4,h]:1;[13,p]:2;
+/countryregion|[3,p]:1;[2,p]:1;[8,p]:3;
+/countries|[2,p]:2;[12,p]:1;
+/courses|[2,p]:2;
+/counterfeits|[8,p]:1;
+/countdown|[8,p]:2;
+/county|[11,p]:1;
+/courtesy|[11,p]:2;
+/council|[8,p]:2;
+/counting|[8,p]:1;

@@ -1,0 +1,4 @@
+/light|[4,h]:1;[8,s]:2;[8,p]:14;
+/lighten|[8,s]:1;[8,p]:1;
+/lightning|[8,p]:1;
+/lightnings|[8,p]:6;

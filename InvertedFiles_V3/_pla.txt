@@ -1,0 +1,17 @@
+/platform|[3,p]:15;[10,h]:2;[10,p]:1;
+/play|[4,h]:1;
+/planet|[4,h]:1;[11,h]:2;[9,p]:3;[11,p]:1;[8,p]:4;[13,p]:2;
+/platforms|[3,p]:1;[2,p]:1;
+/placeholder|[2,p]:1;[10,p]:2;[8,s]:1;[8,p]:21;
+/places|[2,p]:2;[8,p]:8;
+/planning|[2,p]:1;[11,h]:1;[11,p]:1;
+/player|[2,p]:2;
+/planes|[11,h]:2;[11,p]:1;
+/plans|[10,p]:1;[13,p]:1;
+/plague|[8,s]:1;[8,p]:3;
+/planetary|[11,h]:1;
+/plagues|[8,p]:10;
+/platt|[11,p]:1;
+/place?|[8,p]:1;
+/plain|[8,p]:1;
+/players|[13,p]:1;

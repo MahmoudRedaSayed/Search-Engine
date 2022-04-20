@@ -1,0 +1,12 @@
+/verbal|[2,p]:4;
+/verilog|[2,p]:2;
+/verrazzano|[3,p]:2;
+/versatility|[3,p]:1;
+/verzeo|[2,p]:1;
+/verbs|[2,p]:1;
+/verse|[8,s]:1;[8,p]:4;
+/version|[11,h]:2;[11,p]:1;
+/verily|[8,p]:1;
+/verify|[8,p]:1;
+/verses|[8,p]:1;
+/verses–entire|[8,p]:1;

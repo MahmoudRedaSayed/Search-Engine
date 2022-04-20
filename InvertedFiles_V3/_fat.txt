@@ -1,0 +1,5 @@
+/father|[4,h]:1;[8,s]:1;[8,p]:8;
+/fatty|[2,p]:1;
+/fathers|[8,s]:1;[8,p]:4;
+/father's|[9,p]:2;
+/father’s|[8,p]:1;

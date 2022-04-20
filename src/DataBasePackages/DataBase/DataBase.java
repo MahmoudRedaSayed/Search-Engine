@@ -325,6 +325,24 @@ public synchronized Boolean getLinkByID (Integer ID, StringBuffer linkUrl, Strin
         return -1;
     }
     // ---------------------------------------------------------------------------------------------------------------------//
+    //--------------------------------------------------function to get the parent id----------------------------------------//
+    public int getParentId(int childId)
+    {
+        try{
+            ResultSet resultSet=this.stmt.executeQuery("SELECT LinkParent FROM links  where Id="+childId+" ;" );
+            while(resultSet.next())
+            {
+                int parentId=resultSet.getInt("LinkParent");
+                return parentId;
+            }
+        }
+        catch(SQLException e)
+        {
+            return -1;
+        }
+        return -1;
+    }
+    //-----------------------------------------------------------------------------------------------------------------------//
     //-----------------------------------------------Add Link descripation--------------------------------------------------//
     public void addDesc(int id,String desc)
     {

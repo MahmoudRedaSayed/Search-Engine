@@ -1,0 +1,2 @@
+/ethical|[2,p]:2;
+/ethiopia's|[9,p]:2;

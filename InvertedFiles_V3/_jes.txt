@@ -1,0 +1,17 @@
+/jesus|[8,s]:9;[8,p]:124;
+/jesus—the|[8,p]:2;
+/jesus’|[8,p]:1;
+/jesus?|[8,p]:1;
+/jesus—repent|[8,p]:1;
+/jesus”|[8,p]:1;
+/jesus–birth|[8,p]:1;
+/jesus–forecast|[8,p]:1;
+/jesus–god|[8,p]:1;
+/jesus–how|[8,p]:1;
+/jesus–names|[8,p]:1;
+/jesus–proof|[8,p]:2;
+/jesus–stripes|[8,p]:1;
+/jesus–the|[8,p]:1;
+/jesus–who|[8,p]:1;
+/jesus–why|[8,p]:1;
+/jesus–witnesses|[8,p]:1;

@@ -1,0 +1,4 @@
+/dangerous|[4,h]:2;[4,p]:1;[8,p]:7;
+/dangling|[2,p]:1;
+/dangers|[9,h]:1;[9,p]:1;
+/daniel|[8,p]:5;

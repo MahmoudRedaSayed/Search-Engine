@@ -1,0 +1,6 @@
+/richfaces|[2,p]:2;[3,p]:1;[9,h]:1;[9,p]:1;[8,p]:3;
+/richest|[2,p]:1;
+/rice|[2,p]:1;
+/rico|[11,h]:1;[11,p]:1;
+/ricardo|[11,p]:1;
+/richard|[11,p]:1;

@@ -1,0 +1,16 @@
+/single|[3,p]:1;[8,s]:2;[10,p]:1;[8,p]:28;
+/singers|[2,p]:1;
+/singh|[2,p]:2;
+/sinha|[2,p]:1;
+/singing|[11,h]:1;
+/sinner”|[8,p]:4;
+/sinhala|[9,p]:1;
+/sinner’s|[8,p]:1;
+/sins|[8,p]:7;
+/sinners|[8,p]:1;
+/sinned|[8,p]:1;
+/sinful|[8,p]:1;
+/sin–degrees|[8,p]:1;
+/sin–general|[8,p]:1;
+/sin–questionsanswers|[8,p]:1;
+/sin–what|[8,p]:2;

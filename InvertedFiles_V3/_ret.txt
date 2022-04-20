@@ -1,0 +1,7 @@
+/return|[4,h]:3;[4,p]:1;[2,p]:1;[9,h]:1;[10,s]:1;[9,p]:2;[8,p]:25;[13,p]:1;
+/returned|[3,p]:1;[8,s]:1;[8,p]:4;
+/rethink|[9,p]:2;
+/returns|[8,p]:5;
+/returning|[8,p]:2;
+/returns–scripture|[8,p]:1;
+/return–why?|[8,p]:1;

@@ -1,0 +1,2 @@
+/unturned|[8,p]:1;
+/unthinkable|[8,p]:1;

@@ -1,0 +1,3 @@
+/scores|[9,h]:1;[9,p]:2;
+/scorpions|[8,p]:3;
+/scorched|[8,p]:1;

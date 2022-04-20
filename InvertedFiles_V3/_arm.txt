@@ -1,0 +1,8 @@
+/army|[4,h]:2;[3,p]:1;[8,s]:1;[8,p]:5;
+/arms|[9,h]:1;[9,p]:2;[13,p]:1;
+/armenian|[11,h]:1;
+/armies|[8,s]:1;[8,p]:14;
+/armageddon|[8,p]:33;
+/armageddon”|[8,p]:1;
+/armageddon–christ|[8,p]:1;
+/armageddon–the|[8,p]:2;

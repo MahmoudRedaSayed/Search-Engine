@@ -1,0 +1,3 @@
+/immersion|[8,s]:1;[8,p]:11;
+/immigration|[8,p]:1;
+/immerse|[8,p]:1;

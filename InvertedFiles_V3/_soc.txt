@@ -1,0 +1,5 @@
+/sockets|[2,p]:1;[8,p]:1;
+/social|[2,p]:1;[13,p]:2;
+/socializing|[8,p]:1;
+/soccer|[8,p]:1;
+/society|[8,p]:1;

@@ -1,0 +1,4 @@
+/bangalore|[2,p]:1;
+/bands|[2,p]:1;
+/bangla|[9,p]:1;
+/bank|[13,p]:1;
