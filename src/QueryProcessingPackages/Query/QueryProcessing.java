@@ -135,7 +135,7 @@ public class QueryProcessing{
                 String theWord = tempInput.substring(1, stopIndex);
 
                 // this condition for the targeted word
-                if(!wordIsFound && theWord.equals(word))
+                if(!wordIsFound && theWord.equals(word.toLowerCase()))
                 {
                     results.set(0, tempInput);     // target word will have the highest priority
                     wordIsFound = true;
@@ -247,7 +247,7 @@ public class QueryProcessing{
 
                 String[] splitLine= oneWordResult.get(j).split("\\[");
                 int length_3 = splitLine.length;
-                for (int k=1; k<length_3; k+=2)
+                for (int k=1; k<length_3; k++)
                 {
 
                     // Loop over links of the same version of each Word
