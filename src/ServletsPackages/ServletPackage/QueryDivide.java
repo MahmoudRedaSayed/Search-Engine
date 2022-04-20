@@ -32,6 +32,7 @@ public class QueryDivide extends HttpServlet {
             QueryProcessing obj = new QueryProcessing();
             try {
                 results  =obj.run(searchingQuery,rankerArray,dividedQuery);
+
             } catch (Exception e) {
                 e.printStackTrace();
                 System.out.println(e);

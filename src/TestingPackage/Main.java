@@ -16,6 +16,7 @@ import com.mysql.cj.xdevapi.DatabaseObject;
 import com.mysql.cj.xdevapi.JsonArray;
 import com.mysql.cj.xdevapi.JsonString;
 import QueryProcessingPackages.Query.QueryProcessing;
+import RankerPackage.Ranker.*;
 import org.json.*;
 
 public class Main {
@@ -23,6 +24,7 @@ public class Main {
     public static void main(String[] args) throws FileNotFoundException, JSONException {
 
         JSONArray dividedQuery =  new JSONArray();
+        Ranker rankerObj = new Ranker();
         String finalJSONARRAY;
         QueryProcessing obj = new QueryProcessing();
         String searchingQuery;
@@ -30,6 +32,12 @@ public class Main {
         searchingQuery = "Additional additions";
         System.out.println(searchingQuery);
         finalJSONARRAY = obj.run(searchingQuery, rankerArray, dividedQuery);
+
+        Map<Integer,Double> rankingResult= rankerObj.calculateRelevance(rankerArray);
+        HashMap<Integer,Double> toBeSorted = new HashMap<Integer,Double>(rankingResult);
+        HashMap<Integer,Double> sortedRankerMap = QueryProcessing.sortByValue(toBeSorted);
+        HashMap<String,Double> linksRankedMap = QueryProcessing.replaceIDByLink(toBeSorted);
+
         System.out.println(finalJSONARRAY);
         System.out.println(dividedQuery.toString());
         System.out.println(rankerArray.toString());
