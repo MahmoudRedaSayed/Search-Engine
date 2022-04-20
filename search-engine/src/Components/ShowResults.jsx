@@ -33,7 +33,7 @@ class Results extends Component{
             }).then(data=>{
                 console.log("the data recs");
                 console.log(data);
-                this.setState({Results:data.Results});
+                this.setState({Results:data});
                 const Numbers=[];
                 for(let i=1;i<=Math.ceil(this.state.Results.length/this.state.ResultsPerPage);i++)
                 {
@@ -95,7 +95,7 @@ class Results extends Component{
         
         return(
             <div >
-                <Result Posts={this.state.PagePosts}/>
+                <Result Posts={this.state.PagePosts} query={this.state.query}/>
 
                 {this.state.PagePosts.length!==0&&<section aria-label="Page navigation example">
                     <ul className="pagination justify-content-center mt-5">

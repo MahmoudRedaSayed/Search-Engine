@@ -21,17 +21,20 @@ public class QueryDivide extends HttpServlet {
     public void doGet(HttpServletRequest req,HttpServletResponse res) throws IOException
     {
         res.addHeader("Access-Control-Allow-Origin","http://localhost:3000");
-        res.setContentType("application/json");
+        res.setContentType("text/html");
         String searchingQuery = req.getParameter("query");
-        res.getWriter().write("Mahmoud");
-
-        QueryProcessing obj = new QueryProcessing();
-        try {
-            results  =obj.run(searchingQuery,rankerArray,dividedQuery);
-        } catch (Exception e) {
-            e.printStackTrace();
-            System.out.println(e);
+        if(count==0)
+        {
+            QueryProcessing obj = new QueryProcessing();
+            try {
+                results  =obj.run(searchingQuery,rankerArray,dividedQuery);
+            } catch (Exception e) {
+                e.printStackTrace();
+                System.out.println(e);
+            }
+            count++;
         }
+
         res.getWriter().println(dividedQuery.toString());
     }
 
@@ -229,7 +232,7 @@ public class QueryDivide extends HttpServlet {
 
                 // Mustafa : I edited this code
 
-                String filePath = "F:\\Servlets with Database\\Sreach-Engine\\InvertedFiles_V3\\";
+                String filePath = "D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine\\InvertedFiles_V3\\";
                 filePath += fileName + ".txt";
                 File targetFile = new File(filePath);
                 searchInInvertedFiles(result[i], targetFile, oneWordResult, true);

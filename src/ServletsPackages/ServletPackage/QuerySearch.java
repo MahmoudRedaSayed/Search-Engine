@@ -56,7 +56,7 @@ public class QuerySearch extends HttpServlet {
 //            }
         } else {
             //call function of query processing
-            res.getWriter().println("query"+count);
+//            res.getWriter().println("query"+count);
 
             QueryProcessing obj = new QueryProcessing();
             try {
@@ -403,7 +403,7 @@ public class QuerySearch extends HttpServlet {
 
                 // Mustafa : I edited this code
 
-                String filePath = "F:\\Servlets with Database\\Sreach-Engine\\InvertedFiles_V3\\";
+                String filePath = "D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine\\InvertedFiles_V3\\";
                 filePath += fileName + ".txt";
                 File targetFile = new File(filePath);
                 searchInInvertedFiles(result[i], targetFile, oneWordResult, true);
