@@ -2,17 +2,18 @@ import React, { Component } from "react";
 import "../../node_modules/bootstrap/dist/css/bootstrap.css"
 import "../../node_modules/bootstrap/dist/js/bootstrap.bundle";
 import img from "../Image/NotFound.gif";
+import ClipLoader from "react-spinners/CircleLoader"
 // import ReactHtmlParser from 'react-html-parser';
 class Result extends Component{
     state={
         posts:this.props.Posts,
         query:this.props.query,
-        queryArray:[]
+        queryArray:[],
+        loading:true,
     }
 componentDidMount(){
-    console.log("from did mount");
-    console.log(this.props.Posts);
-    console.log(this.state.posts);
+    this.setState({loading:true});
+    console.log("FROM DID MOUNT");
     fetch("http://localhost:8080/query?query="+this.state.query).then(response=>{
                 if(response.ok)
                 {
@@ -26,7 +27,7 @@ componentDidMount(){
                 console.log(data);
                 console.log(this.state.queryArray);
             })
-            
+    this.setState({loading:false});
 
 }
 // this function will take the array of the query words and the content
@@ -40,11 +41,11 @@ componentDidMount(){
                 {this.props.Posts&&this.props.Posts.map((Post)=>
                 
                         <div className="col-md-12 card mt-5 bg-light p-4 " style={{"width": "100%"}}>
-                            <a className="card-title" href={Post.Link}>{Post.Link}</a>
+                            <a className="card-title"target="_blank" href={Post.Link}>{Post.Link}</a>
                             <p className="card-text" dangerouslySetInnerHTML={{ __html: this.makeBold(Post.Description+"additions",this.state.queryArray) }}></p>
                         </div>
                 )}
-                {(this.props.Posts.length===0)?<div className="container mt-5 row" ><img className="col-md-12 mt-5" src={img} style={{"border-radius":"50px"}} alt="" /></div>:""}
+                {(this.props.Posts.length===0&&this.state.loading==false)?<div className="container mt-5 row" ><img className="col-md-12 mt-5" src={img} style={{"border-radius":"50px"}} alt="" /></div>:""}
         </div>);
     }
 }

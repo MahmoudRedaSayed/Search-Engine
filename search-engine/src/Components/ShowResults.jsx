@@ -97,7 +97,7 @@ class Results extends Component{
             <div >
                 <Result Posts={this.state.PagePosts} query={this.state.query}/>
 
-                {this.state.PagePosts.length!==0&&<section aria-label="Page navigation example">
+                {this.state.PagesNumbers.length>1&&<section aria-label="Page navigation example">
                     <ul className="pagination justify-content-center mt-5">
                         <li className="page-item" style={{"cursor":"pointer"}}>
                         <a class="page-link" onClick={this.prePage}  PreventDefault>Previous</a>
