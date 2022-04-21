@@ -1,9 +1,0 @@
-/endangered|[2,p]:1;
-/ends|[8,s]:1;[11,h]:1;[11,p]:1;[8,p]:4;
-/endless|[8,p]:1;
-/ended|[8,p]:2;
-/ended”|[8,p]:1;
-/ends”|[8,p]:1;
-/endure|[8,p]:2;
-/end—final|[8,p]:1;
-/endo|[13,p]:1;

@@ -1,6 +1,0 @@
-/virtual|[3,p]:2;
-/virtually|[8,s]:1;[8,p]:1;
-/virgin|[8,s]:2;[8,p]:3;
-/virus|[11,h]:1;
-/viral|[9,p]:2;[11,h]:1;[11,p]:1;
-/virgins|[8,p]:1;

@@ -1,4 +1,0 @@
-/airlines|[2,p]:3;[11,h]:3;[11,p]:2;[8,p]:4;
-/airwaves|[8,p]:2;
-/aircraft|[8,p]:2;[13,p]:1;
-/airplanes|[13,p]:2;

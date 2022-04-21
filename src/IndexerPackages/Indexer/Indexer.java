@@ -1,5 +1,6 @@
 package IndexerPackages.Indexer;
 
+import DataBasePackages.DataBase.DataBase;
 import HelpersPackages.Helpers.HelperClass;
 import HelpersPackages.Helpers.WorkingFiles;
 
@@ -14,62 +15,38 @@ import java.util.*;
 
 public class Indexer implements Runnable {
 
-    private PageParsing page;
-    private String[] myInfo;        // to store the url and its id
+    private int urlID;
     private Map<Character, Vector<String>> stopWords;
-    private Map<String, File> invertedFiles;
-    //private PorterStemmer stemmingObject;
-    //private String[] stopWords;
-    // private String[] Documents;
+    DataBase myDB;
+    File workingFile;
 
     // constructor
-    public Indexer(String url, String urlId, WorkingFiles filesReference)
+    public Indexer(int urlId, DataBase dbObjReference)
     {
-        System.out.println("My Page is : " + url);
+        System.out.println("My Page ID is : " + urlId);
 
         // initialization
-        page = new PageParsing();
-        stopWords = new HashMap<>();
-
-        stopWords     = filesReference.getStopWordsAsMap();
-        invertedFiles = filesReference.getInvertedFiles();
-
-        // set some needed info
-        myInfo = new String[2];
-        myInfo[0] = url;
-        myInfo[1] = urlId;
-
-        // add the content to my txt file
-        this.setPage(url);
-        filesReference.addToPageContentFile(urlId, page.getAllContentsAsSingleString() );
-
+        stopWords = WorkingFiles.getStopWordsAsMap();
+        myDB = dbObjReference;
+        this.urlID = urlId;
     }
 
     // running function
     public void run()
     {
-        this.startIndexing(myInfo[0], myInfo[1]);
+        this.startIndexing(urlID);
     }
 
-    // Indexing Function ( the most important one )
-    public void startIndexing(String url, String doc_id)
+    // Indexing Function
+    public void startIndexing(int doc_id)
     {
         titleProcessing(doc_id);
         headingProcessing(doc_id);
         paragraphProcessing(doc_id);
     }
 
-    // setter for the page
-    private void setPage(String url) {
-        try {
-            page.parseDocument(url);
-        } catch (IOException e) {
-            System.out.println("Error in setting the URL (Error Location : Class Indexer --> setPage function\n");
-        }
-    }
-
     // String Processing
-    private void singleStringProcessing(String str, char tag, String doc_ic)    // tag --> ('t' = page title, 'h' = "heading", 'p' = "paragraph)
+    private void singleStringProcessing(String str, char tag, int doc_ic)    // tag --> ('t' = page title, 'h' = "heading", 'p' = "paragraph)
     {
         // remove stop words
         str = removeSymbols(str);
@@ -100,8 +77,9 @@ public class Indexer implements Runnable {
             // prepare the info of the word ( doc_id, paragraph or heading)
             wordInfo = "[" + doc_ic + "," + tag + ']';
 
-            // insert the word into the file
+            // <--- inserting the word into the file ---->
             String fileName = "";
+            // first, preparing the file name based on the word
             if(HelperClass.isProbablyArabic(tempWord))
             {
                 fileName = "arabic";
@@ -117,9 +95,11 @@ public class Indexer implements Runnable {
                 fileName = "two";
             }
 
+            // second, inserting the word
             try {
-                addToFile(tempWord, fileName, wordInfo);
-
+                // here we need the link of the server path     ( Mustafa )
+                String filePath = HelperClass.invertedFilePath_V3(fileName);
+                addInfoToInvertedFile(tempWord, filePath, wordInfo);
             }
             catch (IOException e) {
                 System.out.println("Error in adding ( "+ tempWord + '|' + wordInfo +" ) to its inverted file ");
@@ -128,60 +108,35 @@ public class Indexer implements Runnable {
     }
 
     // Title Processing
-    private void titleProcessing(String doc_id)
+    private void titleProcessing(int doc_id)
     {
-        String title = page.getTitleTag();
+        String title = myDB.getTitle(doc_id);
         singleStringProcessing(title, 't', doc_id);
     }
 
     // headings processing  ( h1, h2, h3 )
-    private void headingProcessing(String doc_id)
+    private void headingProcessing(int doc_id)
     {
         // Headers
-        String[] headings = page.getHeaders();
-
-        for(String header : headings)
-            singleStringProcessing(header, 'h', doc_id);
+        String headers = myDB.getHeaders(doc_id);
+        singleStringProcessing(headers, 'h', doc_id);
 
         // <strong>
-        String[] strongs = page.getStrongs();
-
-        for(String strong : strongs)
-            singleStringProcessing(strong, 's', doc_id);
+        String strongs = myDB.getStrongs(doc_id);
+        singleStringProcessing(strongs, 's', doc_id);
 
     }
 
     // paragraph processing
-    private void paragraphProcessing(String doc_id)
+    private void paragraphProcessing(int doc_id)
     {
         // for <p> tags
-        String[] data = page.getParagraphs();
-        for(String p : data)
-            if(! p.equals(""))
-                singleStringProcessing(p, 'p', doc_id);
-
-        // for <li>     ( list item  )
-        data = page.getListItems();
-        for(String li : data)
-            singleStringProcessing(li, 'p', doc_id);
-
-        // for <td>     ( table data )
-        data = page.getTableData();
-        for(String li : data)
-            singleStringProcessing(li, 'p', doc_id);
-
+        String data = myDB.getParagraphs(doc_id);
+        singleStringProcessing(data, 'p', doc_id);
     }
 
     // checking whether stop word or not
     private boolean isStopWord(String word){
-        /*int size = stopWords.length;
-
-        for(int i = 0; i < size; i++)
-            if (stopWords[i].equals(word))
-                return true;
-
-        return false;*/
-        // mustafa repair it //
         try {
             return stopWords.get(word.charAt(0)).contains(word);
         }
@@ -194,29 +149,26 @@ public class Indexer implements Runnable {
     // remove non-important symbols
     private String removeSymbols(String str)
     {
-        // Karim --> more symbols [] \
         str = str.replaceAll("[~@#$%^&*(){}|+:,.!;/1234567890]", "");  // replaced with a space, to use the space as a separator in splitting the string
         str = str.replaceAll("\\s+", "&");  // remove spaces
         return str;
     }
 
     // add to the file
-    private synchronized void addToFile(String word, String fileName, String info) throws IOException  // fileName is the first letter
+    private synchronized void addInfoToInvertedFile(String word, String filePath, String info) throws IOException
     {
-        String filePath = System.getProperty("user.dir") + File.separator + "InvertedFiles_V3" + File.separator + fileName + ".txt";
-
-        // check if the word is already exists or not
-        File workingFile = this.invertedFiles.get(fileName);
+        this.workingFile = new File(filePath);
 
         // if the file is not exist
-        if (workingFile == null)
+        if (this.workingFile == null)
         {
-            System.out.println("Failed to add (" + word + ") to the file " + fileName + ".txt");
+            System.out.println("Failed to add ^" + word + "^ to the inverted file file");
             return;
         }
 
-        Scanner read = new Scanner(workingFile);
+        Scanner read = new Scanner(this.workingFile);
         String tempInput;
+
         while(read.hasNextLine())
         {
             tempInput = read.nextLine();
@@ -232,7 +184,7 @@ public class Indexer implements Runnable {
                 if (! tempInput.equals(""))       // the word is already exists
                 {
                     // check whether the info is already existing in the file --> ex: info : 1,t .... in the file [1,t,3]
-                    String theNewLine = updateInfoOfWord(tempInput, info);
+                    String theNewLine = HelperClass.updateInfoOfWord(tempInput, info);
 
                     // replace this line in the file
                     Path path = Paths.get(filePath);
@@ -254,38 +206,4 @@ public class Indexer implements Runnable {
         myWriter.close();
     }
 
-    // this function checks if the info is already exist or not,
-    // and if exists, just increment the counter of occurrences
-    String updateInfoOfWord(String line, String oldInfo) {
-
-        // substring the line to get the needed information
-        int separationIndex = line.indexOf('|');
-        String allInfo = line.substring(separationIndex + 1);
-
-        // explode the info
-        List<String> infoList = new ArrayList<>(List.of(allInfo.split(";", 0)));
-        String theNewInfo;
-
-        for (String info : infoList) {
-
-            // split the frequency counter from the info of the word
-            List<String> tempList = new ArrayList<>(List.of(info.split(":", 0)));
-
-            // check if the same info is existing or not
-            if (tempList.get(0).equals(oldInfo)) {
-                String frequency = tempList.get(1);
-                int integerFrequency = Integer.parseInt(frequency);
-                theNewInfo = tempList.get(0) + ":" + String.valueOf(integerFrequency + 1); /* convert the ( int freq + 1 ) to string here */
-                oldInfo = oldInfo + ":" + frequency;
-                line = line.replace(oldInfo , theNewInfo);
-                return line;
-            }
-        }
-
-        // if not returned, then the info is not exist
-        theNewInfo = oldInfo + ":1";
-        line += theNewInfo + ';';
-        return line;
-
-    }
 }

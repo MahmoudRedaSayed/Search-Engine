@@ -1,3 +1,0 @@
-/sustaining|[3,p]:4;[8,p]:1;
-/sustainable|[2,p]:1;[9,p]:1;
-/suspect|[8,p]:1;

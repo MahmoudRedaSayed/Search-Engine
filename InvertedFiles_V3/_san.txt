@@ -1,4 +1,0 @@
-/sanctions|[4,h]:1;[13,p]:3;
-/sanjay|[2,p]:1;
-/sanctioned|[11,h]:1;
-/sanhedrin|[8,p]:1;

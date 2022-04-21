@@ -1,4 +1,0 @@
-/editor|[2,p]:2;[11,h]:2;
-/edition|[3,p]:1;
-/editor’s|[9,h]:1;
-/editors'|[11,h]:1;

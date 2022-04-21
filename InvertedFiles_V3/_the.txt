@@ -1,9 +1,0 @@
-/theory|[2,p]:3;
-/them?|[8,p]:1;
-/thes|[8,p]:3;
-/thee|[8,p]:6;
-/them–deut|[8,p]:1;
-/thereby–|[8,p]:1;
-/them…he|[8,p]:1;
-/theology|[8,p]:1;
-/thessalonians|[8,p]:1;

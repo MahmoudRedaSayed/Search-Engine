@@ -1,3 +1,0 @@
-/running|[3,p]:2;[8,s]:1;[8,p]:1;
-/runtime|[3,p]:1;
-/runoff|[13,p]:1;

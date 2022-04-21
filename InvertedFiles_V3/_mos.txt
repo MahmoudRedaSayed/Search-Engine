@@ -1,5 +1,0 @@
-/moscow|[4,h]:2;[8,p]:1;
-/mosul|[9,h]:1;[9,p]:2;
-/mosque's|[9,h]:1;[9,p]:2;[13,p]:1;
-/moses|[8,s]:1;[8,p]:15;
-/moscow-statement|[13,p]:1;

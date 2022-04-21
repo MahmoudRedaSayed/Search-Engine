@@ -1,4 +1,0 @@
-/division|[3,p]:2;[2,p]:1;[13,p]:1;
-/diversity|[3,p]:1;[13,p]:1;
-/divya|[2,p]:1;
-/divided|[8,p]:1;

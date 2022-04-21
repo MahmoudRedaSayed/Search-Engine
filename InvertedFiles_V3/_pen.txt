@@ -1,4 +1,0 @@
-/pens|[2,p]:1;[13,p]:1;
-/penalty|[11,h]:1;
-/penetrate|[8,p]:1;
-/pentagon|[13,p]:1;

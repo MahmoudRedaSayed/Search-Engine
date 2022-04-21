@@ -1,3 +1,0 @@
-/reinforcement|[2,p]:4;
-/reign|[8,p]:6;
-/reins|[8,p]:1;

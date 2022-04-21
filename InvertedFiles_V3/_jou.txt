@@ -1,2 +1,0 @@
-/journalistic|[4,p]:1;
-/journals|[12,h]:1;[12,p]:3;

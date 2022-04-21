@@ -1,3 +1,0 @@
-/sql|[2,p]:41;
-/sqlite|[2,p]:2;
-/sqlninja|[2,p]:1;

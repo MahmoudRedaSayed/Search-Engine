@@ -1,5 +1,0 @@
-/jsoup|[2,p]:2;
-/json|[2,p]:3;
-/jsongenerator|[2,p]:1;
-/jsonparser|[2,p]:1;
-/jsonnode|[2,p]:1;

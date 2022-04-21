@@ -1,2 +1,0 @@
-/message|[8,p]:2;
-/messenger|[8,p]:2;

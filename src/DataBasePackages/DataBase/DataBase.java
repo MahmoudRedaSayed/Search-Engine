@@ -356,6 +356,38 @@ public synchronized Boolean getLinkByID (Integer ID, StringBuffer linkUrl, Strin
     }
     // ---------------------------------------------------------------------------------------------------------------------//
 
+    //////////////////////////////////////////////// Mustafa : I will complete these functions /////////////////////////////
+    public String getTitle(int urlId)
+    {
+        String result = "jsoup: Java HTML Parser";      // for testing only
+        return result;
+    }
+
+    public String getParagraphs(int urlId)
+    {
+        String result = "jsoup: Java HTML Parser";      // for testing only
+        return result;
+    }
+
+    public String getHeaders(int urlId)
+    {
+        String result = "jsoup: Java HTML Parser";      // for testing only
+        return result;
+    }
+
+    public String getListItems(int urlId)
+    {
+        String result = "jsoup: Java HTML Parser";      // for testing only
+        return result;
+    }
+
+    public String getStrongs(int urlId)
+    {
+        String result = "jsoup: Java HTML Parser";      // for testing only
+        return result;
+    }
+
+    //////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
 

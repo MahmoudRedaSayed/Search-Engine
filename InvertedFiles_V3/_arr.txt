@@ -1,7 +1,0 @@
-/arrival|[3,h]:1;[9,p]:2;
-/arrives|[4,h]:1;[8,p]:3;
-/array|[2,p]:5;
-/arrlength|[2,p]:1;
-/arr[]length|[2,p]:2;
-/arrested|[11,h]:2;[11,p]:2;[8,p]:2;
-/arrows|[8,p]:1;

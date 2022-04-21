@@ -1,4 +1,0 @@
-/aware|[8,p]:2;
-/away”|[8,p]:1;
-/awaits|[8,p]:1;
-/awakened|[8,p]:1;

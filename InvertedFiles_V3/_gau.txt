@@ -1,2 +1,0 @@
-/gaussian|[2,p]:1;
-/gautam|[2,p]:1;

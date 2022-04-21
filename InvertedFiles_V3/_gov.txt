@@ -1,5 +1,0 @@
-/governor|[4,h]:1;
-/government|[2,p]:2;
-/govinda|[2,p]:1;
-/governor's|[11,h]:2;[11,p]:1;
-/governments|[8,p]:1;[13,p]:2;

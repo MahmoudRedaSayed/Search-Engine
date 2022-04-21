@@ -1,4 +1,0 @@
-/adapt|[4,h]:1;
-/adapter|[2,p]:1;
-/adaptiveblurimage|[2,p]:1;
-/adams’|[11,h]:1;[8,p]:3;

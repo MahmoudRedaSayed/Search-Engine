@@ -1,6 +1,0 @@
-/holidays|[2,p]:4;
-/holger|[3,p]:1;
-/holy|[8,p]:7;
-/hold|[8,p]:2;
-/holes|[8,p]:1;
-/holding|[13,p]:2;

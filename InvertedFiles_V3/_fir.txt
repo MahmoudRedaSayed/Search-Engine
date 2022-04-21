@@ -1,7 +1,0 @@
-/firebase|[2,p]:2;
-/firewall|[2,p]:2;
-/firm|[9,p]:2;
-/fire?|[8,p]:1;
-/firstfruits|[8,p]:1;
-/fires|[8,p]:1;
-/firstborn|[8,p]:1;

@@ -1,8 +1,0 @@
-/overlays|[2,p]:1;
-/overflow|[10,t]:1;[10,h]:1;[10,s]:1;[10,p]:12;
-/overworked|[9,p]:2;
-/overriding|[9,p]:2;
-/overtake|[8,p]:1;
-/overcome|[8,p]:3;
-/overhanging|[8,p]:1;
-/overcomes|[8,p]:1;

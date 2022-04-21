@@ -1,7 +1,0 @@
-/attacks|[4,h]:2;[11,h]:1;[8,p]:4;
-/attacked|[8,p]:3;
-/attention|[8,p]:1;
-/attalus|[8,p]:1;
-/attacking|[8,p]:1;
-/attorney-editor|[13,p]:2;
-/attribution|[13,p]:1;

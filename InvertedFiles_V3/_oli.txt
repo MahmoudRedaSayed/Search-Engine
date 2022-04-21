@@ -1,3 +1,0 @@
-/oligarch|[11,h]:1;
-/olive|[8,p]:1;
-/olives|[8,p]:4;

@@ -1,3 +1,0 @@
-/island|[2,p]:1;
-/islands|[13,p]:2;
-/islands-china|[13,p]:1;

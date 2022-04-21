@@ -1,9 +1,0 @@
-/eastern|[4,h]:3;[3,p]:1;[8,s]:3;[11,h]:1;[9,h]:1;[11,p]:1;[9,p]:3;[8,p]:16;[13,h]:1;[13,p]:4;
-/easily|[3,p]:2;[2,p]:1;[8,p]:1;
-/easy|[3,p]:1;[2,p]:1;[10,p]:1;[8,p]:3;
-/east?|[8,p]:1;
-/eastward|[8,p]:1;
-/easterdogan|[13,p]:1;
-/eastblinken|[13,p]:1;
-/eastuae|[13,p]:1;
-/eastbionic|[13,p]:1;

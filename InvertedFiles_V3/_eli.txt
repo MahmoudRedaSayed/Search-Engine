@@ -1,5 +1,0 @@
-/elizabeth|[11,h]:2;[11,p]:2;
-/elijah|[8,s]:1;[8,p]:12;
-/elijah–ref|[8,p]:1;
-/eliminated|[8,p]:3;
-/elite|[13,p]:2;

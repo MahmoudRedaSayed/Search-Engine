@@ -1,5 +1,0 @@
-/hypothesis|[2,p]:1;
-/hypergraph|[2,p]:1;
-/hypocrisy|[11,h]:1;
-/hypocrites|[8,p]:1;
-/hypnotic|[8,p]:3;

@@ -1,4 +1,0 @@
-/adonet|[2,p]:4;
-/adobe|[2,p]:8;
-/adoption|[3,p]:1;
-/adoptions|[9,h]:1;[9,p]:2;

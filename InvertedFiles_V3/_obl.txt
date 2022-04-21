@@ -1,3 +1,0 @@
-/oblivious|[8,p]:1;
-/oblations”|[8,p]:1;
-/obliterating|[8,p]:1;

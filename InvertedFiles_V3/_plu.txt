@@ -1,3 +1,0 @@
-/plunge|[8,p]:1;
-/plunder|[8,p]:2;
-/plunged|[8,p]:1;

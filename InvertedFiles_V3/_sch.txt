@@ -1,4 +1,0 @@
-/school|[4,h]:3;[4,p]:1;[9,h]:1;[9,p]:4;[8,p]:1;
-/schedule|[3,p]:1;
-/schools|[2,p]:3;[8,p]:3;
-/schoolchildren|[9,p]:2;

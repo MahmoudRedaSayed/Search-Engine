@@ -1,5 +1,0 @@
-/handling|[2,p]:1;[9,h]:1;[8,s]:2;[9,p]:2;[8,p]:8;
-/handheld|[8,s]:1;[8,p]:2;
-/hangs|[8,p]:1;
-/hands|[8,p]:4;
-/handfuls|[8,p]:1;

@@ -1,5 +1,0 @@
-/jewellers|[2,p]:1;[8,p]:1;
-/jews|[8,s]:4;[8,p]:23;
-/jewish|[8,s]:1;[8,p]:13;
-/jews–jacob’s|[8,p]:1;
-/jews–moses|[8,p]:1;

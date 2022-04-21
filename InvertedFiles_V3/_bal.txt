@@ -1,3 +1,0 @@
-/balanced|[2,p]:1;
-/balancing|[2,p]:1;
-/ballot|[11,h]:1;

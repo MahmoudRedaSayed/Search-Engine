@@ -1,3 +1,0 @@
-/framework|[2,p]:9;
-/fraud'|[4,h]:1;
-/france's|[13,p]:2;

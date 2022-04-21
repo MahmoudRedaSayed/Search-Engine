@@ -1,4 +1,0 @@
-/victorious|[4,h]:1;
-/victim|[4,h]:1;
-/vicky|[2,p]:1;
-/victory|[8,p]:4;[13,p]:2;

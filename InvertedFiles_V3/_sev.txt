@@ -1,3 +1,0 @@
-/seventh|[8,s]:1;[9,p]:2;[8,p]:3;
-/severely|[8,p]:1;
-/seventieth|[8,p]:2;

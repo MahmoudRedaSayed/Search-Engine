@@ -1,2 +1,0 @@
-/snakeviz|[2,p]:1;
-/snacks|[2,p]:1;

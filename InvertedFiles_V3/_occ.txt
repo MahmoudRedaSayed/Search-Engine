@@ -1,6 +1,0 @@
-/occurrences|[2,p]:1;[8,p]:4;
-/occurs|[8,s]:1;[8,p]:5;
-/occupied|[8,p]:2;
-/occupy|[8,p]:2;
-/occuring|[8,p]:1;
-/occurred|[8,p]:1;

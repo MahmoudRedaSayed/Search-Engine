@@ -1,4 +1,0 @@
-/wasting|[3,p]:1;
-/washington|[11,h]:1;[11,p]:2;
-/wasn’t|[8,p]:1;
-/wasted|[8,p]:1;

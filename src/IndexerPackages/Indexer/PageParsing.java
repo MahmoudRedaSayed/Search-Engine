@@ -43,7 +43,7 @@ public class PageParsing {
         return data;
     }
     //get length of page content
-    public static long getLengthOfPageContent(int pageId)
+    /*public static long getLengthOfPageContent(int pageId)
     {
         String path= HelperClass.pageContentFilesPath(String.valueOf(pageId));
         File target = new File(path);
@@ -62,7 +62,7 @@ public class PageParsing {
 
 
         return content.length();
-    }
+    }*/
 
 
     // get headings

@@ -1,4 +1,0 @@
-/poonam|[2,p]:1;
-/poorly-paid|[9,h]:1;[9,p]:2;[8,p]:2;
-/pool|[11,p]:1;
-/pools|[8,p]:1;

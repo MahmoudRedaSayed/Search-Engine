@@ -1,4 +1,0 @@
-/pin|[2,p]:2;
-/pinpoint|[3,p]:2;
-/pings|[10,p]:1;
-/pinterest|[11,p]:1;

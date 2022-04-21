@@ -1,3 +1,0 @@
-/binary|[2,p]:3;
-/bindiga|[9,p]:2;
-/bing|[11,p]:1;

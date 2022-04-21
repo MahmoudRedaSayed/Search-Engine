@@ -1,9 +1,0 @@
-/informatica|[2,p]:3;[4,p]:1;[8,p]:11;[9,p]:1;
-/informaticos|[3,p]:1;
-/infinix|[2,p]:1;
-/infrastructure|[3,p]:1;
-/inference|[2,p]:1;
-/inflation|[11,h]:3;[11,p]:1;[13,p]:1;
-/influential|[9,p]:2;
-/infant|[8,p]:2;
-/informed|[13,h]:1;

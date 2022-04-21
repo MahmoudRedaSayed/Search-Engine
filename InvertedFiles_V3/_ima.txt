@@ -1,6 +1,0 @@
-/image|[3,p]:1;[2,p]:2;[8,s]:3;[8,p]:22;[13,p]:9;
-/imagick|[2,p]:3;
-/images|[11,p]:10;[8,p]:1;
-/imaginable|[8,p]:1;
-/imagination|[8,p]:1;
-/imageapril|[13,p]:10;

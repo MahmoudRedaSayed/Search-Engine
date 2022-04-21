@@ -1,3 +1,0 @@
-/bound|[8,p]:1;
-/bounds|[8,p]:2;
-/boundries|[8,p]:1;

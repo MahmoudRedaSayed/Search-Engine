@@ -1,8 +1,0 @@
-/docker|[2,p]:2;
-/docker?|[3,p]:1;
-/docs|[10,p]:1;
-/doctrine”|[8,p]:6;
-/doctrines|[8,p]:3;
-/documentation|[8,p]:3;
-/doctrinal|[8,p]:1;
-/doctrines–introduction|[8,p]:1;
