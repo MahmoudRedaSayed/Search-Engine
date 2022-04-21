@@ -11,6 +11,7 @@ import DataBasePackages.DataBase.*;
 import HelpersPackages.Helpers.HelperClass;
 import HelpersPackages.Helpers.WorkingFiles;
 import IndexerPackages.Indexer.Indexer;
+import PhraseSearchingPackages.PhraseSearching.*;
 import ServletsPackages.ServletPackage.QuerySearch;
 import com.mysql.cj.xdevapi.DatabaseObject;
 import com.mysql.cj.xdevapi.JsonArray;
@@ -27,16 +28,17 @@ public class Main {
         Ranker rankerObj = new Ranker();
         String finalJSONARRAY;
         QueryProcessing obj = new QueryProcessing();
+        PhraseSearching phraseSearchingObj = new PhraseSearching();
         String searchingQuery;
         ArrayList<String> rankerArray=new ArrayList<String>();
-        searchingQuery = "Additional additions";
+        searchingQuery = "Additional is am additional";
         System.out.println(searchingQuery);
         finalJSONARRAY = obj.run(searchingQuery, rankerArray, dividedQuery);
 
-        Map<Integer,Double> rankingResult= rankerObj.calculateRelevance(rankerArray);
-        HashMap<Integer,Double> toBeSorted = new HashMap<Integer,Double>(rankingResult);
-        HashMap<Integer,Double> sortedRankerMap = QueryProcessing.sortByValue(toBeSorted);
-        HashMap<String,Double> linksRankedMap = QueryProcessing.replaceIDByLink(toBeSorted);
+//        Map<Integer,Double> rankingResult= rankerObj.calculateRelevance(rankerArray);
+//        HashMap<Integer,Double> toBeSorted = new HashMap<Integer,Double>(rankingResult);
+//        HashMap<Integer,Double> sortedRankerMap = QueryProcessing.sortByValue(toBeSorted);
+//        HashMap<String,Double> linksRankedMap = QueryProcessing.replaceIDByLink(toBeSorted);
 
         System.out.println(finalJSONARRAY);
         System.out.println(dividedQuery.toString());

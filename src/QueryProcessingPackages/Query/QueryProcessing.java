@@ -25,17 +25,14 @@ public class QueryProcessing{
     //WorkingFiles working;
     private Map<String, File> invertedFiles;
     public  PorterStemmer stemObject = new PorterStemmer();
-    public String[] stopWords=new String[2];
+    public String[] stopWords;
 
 
-    public QueryProcessing()
-    {
+    public QueryProcessing() throws FileNotFoundException {
         //working = files;
-        //stopWords = files.getStopWordsAsArr();
+        readStopWords();
         System.out.println("The consturctor");
 
-        stopWords[0] = "test";      // "will be edited"
-        stopWords[1] = "tested";      // "will be edited"
     }
 
     private String[] SplitQuery(String searchQuery)
@@ -49,8 +46,11 @@ public class QueryProcessing{
     private void readStopWords() throws FileNotFoundException {
         // open the file that contains stop words
         String filePath = System.getProperty("user.dir");   // get the directory of the project
-        filePath += File.separator + "helpers" + File.separator + "stop_words.txt";
-        File myFile = new File(filePath);
+        System.out.println(filePath);
+        String finalfilePath = filePath.substring(0, filePath.lastIndexOf("\\")+1);
+        System.out.println(finalfilePath);
+        finalfilePath += File.separator + "helpers" + File.separator + "stop_words.txt";
+        File myFile = new File(finalfilePath);
 
         this.stopWords = new String[851];
 
@@ -194,10 +194,10 @@ public class QueryProcessing{
 
     public String run(String message, ArrayList<String> queryLinesResult, JSONArray dividedQuery)
             throws FileNotFoundException, JSONException {
-        //invertedFiles = working.getInvertedFiles();
+
         System.out.println("The running function");
 
-        boolean [] indexProcessed;
+
         Map<Integer, Integer> allIDs = new HashMap<Integer, Integer>();
         ArrayList<String> words = new ArrayList<String>();
         words.add(message);
@@ -207,7 +207,7 @@ public class QueryProcessing{
 
         String[] result = SplitQuery(message);
         result  = removeStopWords(result);
-        indexProcessed = new boolean[result.length];
+
         String json = "{ [";
         StringBuffer jsonFile = new StringBuffer(json);
         JSONArray finalJsonFile = new JSONArray();
@@ -229,11 +229,19 @@ public class QueryProcessing{
                 fileName = "_" + result[i].substring(0,3);
 
             // Mustafa : I edited this code
+            String filePath = System.getProperty("user.dir");   // get the directory of the project
 
-            String filePath = "F:\\Servlets with Database\\Sreach-Engine\\InvertedFiles_V3\\";
-            filePath += fileName + ".txt";
-            File targetFile = new File(filePath);
+            // Delete last Directory to get path of Inverted Files
+            String finalFilePath = filePath.substring(0, filePath.lastIndexOf("\\"));
+
+            finalFilePath += File.separator + "InvertedFiles_V3" + File.separator;
+
+            finalFilePath += fileName + ".txt";
+           // System.out.println(finalFilePath + "From Search Inverted Files");
+            File targetFile = new File(finalFilePath);
             searchInInvertedFiles(result[i], targetFile,oneWordResult, true);
+
+
 
             int length_2 = oneWordResult.size();
             for(int j = 0; j<length_2; j++)

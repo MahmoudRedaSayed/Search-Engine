@@ -61,7 +61,7 @@ public class QuerySearch extends HttpServlet {
 //            res.getWriter().println("query"+count);
 
             QueryProcessing obj = new QueryProcessing();
-            Ranker rankerObject = new Ranker();
+            //Ranker rankerObject = new Ranker();
             try {
                  results  =obj.run(searchingQuery,rankerArray,dividedQuery);
             } catch (Exception e) {
@@ -93,534 +93,455 @@ public class QuerySearch extends HttpServlet {
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
-//    static class PhraseSearching {
-//        DataBase dataBaseObject = new DataBase();
-//        private Map<String, File> invertedFiles;
-//        PorterStemmer stemObject = new PorterStemmer();
-//        String[] stopWords;
-//
-//
-//        public PhraseSearching() {
-////            working = files;
-////            stopWords = files.getStopWordsAsArr();
-//            System.out.println("The phrase");
-//            stopWords[0]="name";
-//        }
-//
-//
-//        private String[] SplitQuery(String searchQuery) {
-//            String[] subStrings = searchQuery.trim().split("\\s+");
-//            return subStrings;
-//        }
-//
-//        private static String[] removeElement(String[] arr, int[] index) {
-//            List<String> list = new ArrayList<>(Arrays.asList(arr));
-//            for (int i = 0; i < index.length; i++) {
-//                list.remove(new String(arr[index[i]]));
-//            }
-//            return list.toArray(String[]::new);
-//        }
-//
-//
-//        private String[] removeStopWords(String[] searchQuery) {
-//            int length = searchQuery.length;
-//            ArrayList<Integer> indeces = new ArrayList<Integer>();
-//            for (int i = 0; i < length; i++) {
-//                System.out.println(searchQuery[i].toLowerCase());
-//                if (Arrays.asList(this.stopWords).contains(searchQuery[i].toLowerCase())) {
-//                    indeces.add(i);
-//                }
-//            }
-//            searchQuery = removeElement(searchQuery, indeces.stream().mapToInt(Integer::intValue).toArray());
-//            return searchQuery;
-//        }
-//
-//
-//        public JSONArray run(String message, ArrayList<String> queryLinesResult, JSONArray dividedQuery) throws FileNotFoundException, JSONException {
-////            invertedFiles = working.getInvertedFiles();
-//            boolean[] indexProcessed;
-//            Map<Integer, Integer> allIDs = new HashMap<Integer, Integer>();
-//            JSONObject divide = new JSONObject();
-//            divide.put("Results", message);
-//            dividedQuery.put(divide);
-//
-//
-//            ArrayList<String> allWordsResult = new ArrayList<String>();
-//
-//
-//            String[] result = SplitQuery(message);
-//            result = removeStopWords(result);
-//            indexProcessed = new boolean[result.length];
-//            String json = "{ [";
-//            StringBuffer jsonFile = new StringBuffer(json);
-//            JSONArray finalJsonFile = new JSONArray();
-//            int length = result.length;
-//            for (int i = 0; i < length; i++) {
-//                // Loop over words
-//                ArrayList<String> oneWordResult = new ArrayList<String>();
-//
-//            String path="D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine\\InvertedFiles_V3\\";
-//            path+=result[i].substring(0,2)+".txt";
-//            File pathFile=new File(path);
-//                QueryProcessing.searchInInvertedFiles(result[i], pathFile,
-//                        oneWordResult, false);
-//
-//                int length_2 = oneWordResult.size();
-//                for (int j = 0; j < length_2; j++) {
-//                    queryLinesResult.add(oneWordResult.get(j));
-//                    // Loop over versions of Words
-//
-//
-//                    String[] splitLine = oneWordResult.get(j).split("\\[");
-//                    int length_3 = splitLine.length;
-//                    for (int k = 1; k < length_3; k += 2) {
-//
-//                        // Loop over links of the same version of each Word
-//
-//                        int End = splitLine[k].indexOf(']');
-//                        String temp = splitLine[k].substring(0, End);
-//
-//                        String[] finalID = temp.split(",");
-//                        int ID = Integer.parseInt(finalID[0]);
-//                        if (i == 0 && !indexProcessed[i]) {
-//                            allIDs.put(ID, 1);
-//                            indexProcessed[0] = true;
-//                        } else if (!indexProcessed[i] && allIDs.containsKey(ID)) {
-//                            allIDs.put(ID, 1 + allIDs.get(ID));
-//                            indexProcessed[i] = true;
-//                        }
-//                    }
-//                }
-//
-//            }
-//
-//            for (Iterator<Map.Entry<Integer, Integer>> it = allIDs.entrySet().iterator(); it.hasNext(); ) {
-//                Map.Entry<Integer, Integer> entry = it.next();
-//                if (entry.getValue() < length) {
-//                    it.remove();
-//                }
-//
-//                for (Iterator<Map.Entry<Integer, Integer>> iter = allIDs.entrySet().iterator(); it.hasNext(); ) {
-//
-//                    Map.Entry<Integer, Integer> IDEntry = iter.next();
-//
-//                    StringBuffer link = new StringBuffer("");
-//                    StringBuffer description = new StringBuffer("");
-//                    JSONObject Jo = new JSONObject();
-//                    dataBaseObject.getLinkByID(IDEntry.getKey(), link, description);
-//                    Jo.put("Link", link);
-//                    Jo.put("Description", description);
-//                    finalJsonFile.put(Jo);
-//                }
-//
-//
-//            }
-//            return finalJsonFile;
-//        }
-//    }
+    static class PhraseSearching {
+        DataBasePackages.DataBase.DataBase dataBaseObject = new DataBasePackages.DataBase.DataBase();
+
+        private Map<String, File> invertedFiles;
+        PorterStemmer stemObject = new PorterStemmer();
+        String[] stopWords;
 
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-
-
-
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-static class QueryProcessing{
-    DataBase dataBaseObject = new DataBase();
-    //WorkingFiles working;
-    private Map<String, File> invertedFiles;
-    public  PorterStemmer stemObject = new PorterStemmer();
-    public String[] stopWords=new String[2];
-
-
-    public QueryProcessing()
-    {
-        //working = files;
-        //stopWords = files.getStopWordsAsArr();
-        System.out.println("The consturctor");
-
-        stopWords[0] = "test";      // "will be edited"
-        stopWords[1] = "tested";      // "will be edited"
-    }
-
-    private String[] SplitQuery(String searchQuery)
-    {
-        String[] subStrings = searchQuery.trim().split("\\s+");
-        return subStrings;
-    }
-
-
-
-    private void readStopWords() throws FileNotFoundException {
-        // open the file that contains stop words
-        String filePath = System.getProperty("user.dir");   // get the directory of the project
-        filePath += File.separator + "helpers" + File.separator + "stop_words.txt";
-        File myFile = new File(filePath);
-
-        this.stopWords = new String[851];
-
-        // read from the file
-        Scanner read = new Scanner(myFile);
-        String tempInput;
-        int counter = 0;
-        while(read.hasNextLine())
-        {
-            tempInput = read.nextLine();
-            stopWords[counter++] = tempInput;
+        public PhraseSearching() throws FileNotFoundException {
+            readStopWords();
+            System.out.println("Phrase Searching consturctor");
         }
-        read.close();
 
-    }
 
-    private String stemGivenWord(String word)
-    {
-        stemObject.setCurrent(word);
-        stemObject.stem();
-        return stemObject.getCurrent();
-    }
-
-    //Utility Function for removeStopWords()
-    private static String[] removeElement(String[] arr, int[] index) {
-        List<String> list = new ArrayList<>(Arrays.asList(arr));
-        for (int i=0; i<index.length;i++)
-        {
-            list.remove(new String(arr[index[i]]));
+        private String[] SplitQuery(String searchQuery) {
+            String[] subStrings = searchQuery.trim().split("\\s+");
+            return subStrings;
         }
-        return list.toArray(String[]::new);
-    }
 
-
-    private String[] removeStopWords(String[] searchQuery)
-    {
-        int length =searchQuery.length;
-        ArrayList<Integer> indeces = new ArrayList<Integer>();
-        for(int i = 0; i< length; i++)
-        {
-            System.out.println(searchQuery[i].toLowerCase());
-            if (Arrays.asList(this.stopWords).contains(searchQuery[i].toLowerCase()))
-            {
-                indeces.add(i);
+        private static String[] removeElement(String[] arr, int[] index) {
+            List<String> list = new ArrayList<>(Arrays.asList(arr));
+            for (int i = 0; i < index.length; i++) {
+                list.remove(new String(arr[index[i]]));
             }
+            return list.toArray(String[]::new);
         }
-        searchQuery = removeElement(searchQuery, indeces.stream().mapToInt(Integer::intValue).toArray());
-        return searchQuery;
+
+        private void readStopWords() throws FileNotFoundException {
+            // open the file that contains stop words
+            String filePath = System.getProperty("user.dir");   // get the directory of the project
+            System.out.println(filePath);
+            String finalfilePath = filePath.substring(0, filePath.lastIndexOf("\\")+1);
+            System.out.println(finalfilePath);
+            finalfilePath += File.separator + "helpers" + File.separator + "stop_words.txt";
+            File myFile = new File(finalfilePath);
+
+            this.stopWords = new String[851];
+
+            // read from the file
+            Scanner read = new Scanner(myFile);
+            String tempInput;
+            int counter = 0;
+            while(read.hasNextLine())
+            {
+                tempInput = read.nextLine();
+                stopWords[counter++] = tempInput;
+            }
+            read.close();
+
+        }
+
+
+        private String[] removeStopWords(String[] searchQuery) {
+            int length = searchQuery.length;
+            ArrayList<Integer> indeces = new ArrayList<Integer>();
+            for (int i = 0; i < length; i++) {
+                System.out.println(searchQuery[i].toLowerCase());
+                if (Arrays.asList(this.stopWords).contains(searchQuery[i].toLowerCase())) {
+                    indeces.add(i);
+                }
+            }
+            searchQuery = removeElement(searchQuery, indeces.stream().mapToInt(Integer::intValue).toArray());
+            return searchQuery;
+        }
+
+
+        public String run(String message, ArrayList<String> queryLinesResult, JSONArray dividedQuery) throws FileNotFoundException, JSONException {
+
+            System.out.println("Phrase Searching Run Function");
+            boolean[] indexProcessed;
+            Map<Integer, Integer> allIDs = new HashMap<Integer, Integer>();
+            JSONObject divide = new JSONObject();
+            divide.put("Results", message);
+            dividedQuery.put(divide);
+
+
+            ArrayList<String> allWordsResult = new ArrayList<String>();
+
+
+            String[] result = SplitQuery(message);
+            result = removeStopWords(result);
+            indexProcessed = new boolean[result.length];
+            String json = "{ [";
+            StringBuffer jsonFile = new StringBuffer(json);
+            JSONArray finalJsonFile = new JSONArray();
+            int length = result.length;
+            for (int i = 0; i < length; i++) {
+                // Loop over words
+                ArrayList<String> oneWordResult = new ArrayList<String>();
+
+
+                String fileName = "";
+                if (HelpersPackages.Helpers.HelperClass.isProbablyArabic(result[i]))
+                    fileName = "arabic";
+                else if(result[i].length() == 2)
+                    fileName = "two";
+
+                else
+                    fileName = "_" + result[i].substring(0,3);
+
+
+                // Mustafa : I edited this code
+                String filePath = System.getProperty("user.dir");   // get the directory of the project
+
+                // Delete last Directory to get path of Inverted Files
+                String finalFilePath = filePath.substring(0, filePath.lastIndexOf("\\"));
+
+                finalFilePath += File.separator + "InvertedFiles_V3" + File.separator;
+
+                finalFilePath += fileName + ".txt";
+                //System.out.println(finalFilePath + "From Search Inverted Files");
+                File targetFile = new File(finalFilePath);
+
+                QueryProcessingPackages.Query.QueryProcessing.searchInInvertedFiles(result[i], targetFile,oneWordResult, false);
+
+                int length_2 = oneWordResult.size();
+                for (int j = 0; j < length_2; j++) {
+
+                    if(oneWordResult.get(j).equals(""))
+                    {continue;}
+                    // Should we let this be like that? Or should it be just links from map? I don't know
+                    queryLinesResult.add(oneWordResult.get(j));
+                    // Loop over versions of Words
+
+
+                    String[] splitLine = oneWordResult.get(j).split("\\[");
+                    int length_3 = splitLine.length;
+                    for (int k = 1; k < length_3; k++) {
+
+                        // Loop over links of the same version of each Word
+
+                        int End = splitLine[k].indexOf(']');
+                        String temp = splitLine[k].substring(0, End);
+
+                        String[] finalID = temp.split(",");
+                        int ID = Integer.parseInt(finalID[0]);
+                        if (i == 0 && !indexProcessed[i]) {
+                            allIDs.put(ID, 1);
+                            if(k == length_3-1)
+                            {
+                                indexProcessed[0] = true;
+                            }
+                        }
+                        else if (!indexProcessed[i] && allIDs.containsKey(ID)) {
+                            allIDs.put(ID, 1 + allIDs.get(ID));
+                            if(k == length_3-1)
+                            {
+                                indexProcessed[i] = true;
+                            }
+                        }
+                    }
+                }
+
+            }
+
+            for (Iterator<Map.Entry<Integer, Integer>> it = allIDs.entrySet().iterator(); it.hasNext(); ) {
+                Map.Entry<Integer, Integer> entry = it.next();
+                if (entry.getValue() < length) {
+                    it.remove();
+                }
+            }
+
+            for (Iterator<Map.Entry<Integer, Integer>> iter = allIDs.entrySet().iterator(); iter.hasNext(); ) {
+
+
+                Map.Entry<Integer, Integer> IDEntry = iter.next();
+
+                StringBuffer link = new StringBuffer("");
+                StringBuffer description = new StringBuffer("");
+                JSONObject Jo = new JSONObject();
+                dataBaseObject.getLinkByID(IDEntry.getKey(), link, description);
+                Jo.put("Link", link);
+                Jo.put("Description", description);
+                finalJsonFile.put(Jo);
+            }
+
+            return finalJsonFile.toString();
+        }
     }
 
-    //What remains: Search for word in file and create array for each word in the search query:
-    //First element is the actual word if present
-    //The rest are the words with same root in that file
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
-    public static void searchInInvertedFiles(String word, File myFile, ArrayList<String> results, boolean stemmingFlag) throws FileNotFoundException {
-        Scanner read = new Scanner(myFile);
-        String tempInput,
-                stemmedVersion = " ";
 
-        // stemming the word
-        if (stemmingFlag)
-            stemmedVersion = HelperClass.stemTheWord(word);
 
-        boolean wordIsFound = false;
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-        int stopIndex, counter;
+    static class QueryProcessing{
+        DataBasePackages.DataBase.DataBase dataBaseObject = new DataBasePackages.DataBase.DataBase();
 
-        results.add(0, "");     // if the targeted word is not found, replace empty in its index
-        while(read.hasNextLine())
+        private Map<String, File> invertedFiles;
+        public  PorterStemmer stemObject = new PorterStemmer();
+        public String[] stopWords;
+
+
+        public QueryProcessing() throws FileNotFoundException {
+
+            readStopWords();
+            System.out.println("The consturctor");
+        }
+
+        private String[] SplitQuery(String searchQuery)
         {
-            tempInput = read.nextLine();
-            if (tempInput.equals(""))
-                continue;
+            String[] subStrings = searchQuery.trim().split("\\s+");
+            return subStrings;
+        }
 
-            // check if this line is for a word or just an extension for the previous line
-            if (tempInput.charAt(0) == '/')
-            // compare to check if this tempWord = ourWord ?
+
+
+        private void readStopWords() throws FileNotFoundException {
+            // open the file that contains stop words
+            String filePath = System.getProperty("user.dir");   // get the directory of the project
+            System.out.println(filePath);
+            String finalfilePath = filePath.substring(0, filePath.lastIndexOf("\\")+1);
+            System.out.println(finalfilePath);
+            finalfilePath += File.separator + "helpers" + File.separator + "stop_words.txt";
+            File myFile = new File(finalfilePath);
+
+            this.stopWords = new String[851];
+
+            // read from the file
+            Scanner read = new Scanner(myFile);
+            String tempInput;
+            int counter = 0;
+            while(read.hasNextLine())
             {
-                // extract the word from the line that read by the scanner
-                stopIndex = tempInput.indexOf('|');
-                String theWord = tempInput.substring(1, stopIndex);
+                tempInput = read.nextLine();
+                stopWords[counter++] = tempInput;
+            }
+            read.close();
 
-                // this condition for the targeted word
-                if(!wordIsFound && theWord.equals(word.toLowerCase()))
+        }
+
+        private String stemGivenWord(String word)
+        {
+            stemObject.setCurrent(word);
+            stemObject.stem();
+            return stemObject.getCurrent();
+        }
+
+        //Utility Function for removeStopWords()
+        private static String[] removeElement(String[] arr, int[] index) {
+            List<String> list = new ArrayList<>(Arrays.asList(arr));
+            for (int i=0; i<index.length;i++)
+            {
+                list.remove(new String(arr[index[i]]));
+            }
+            return list.toArray(String[]::new);
+        }
+
+
+        private String[] removeStopWords(String[] searchQuery)
+        {
+            int length =searchQuery.length;
+            ArrayList<Integer> indeces = new ArrayList<Integer>();
+            for(int i = 0; i< length; i++)
+            {
+                System.out.println(searchQuery[i].toLowerCase());
+                if (Arrays.asList(this.stopWords).contains(searchQuery[i].toLowerCase()))
                 {
-                    results.set(0, tempInput);     // target word will have the highest priority
-                    wordIsFound = true;
+                    indeces.add(i);
+                }
+            }
+            searchQuery = removeElement(searchQuery, indeces.stream().mapToInt(Integer::intValue).toArray());
+            return searchQuery;
+        }
+
+        //What remains: Search for word in file and create array for each word in the search query:
+        //First element is the actual word if present
+        //The rest are the words with same root in that file
+
+
+        public static void searchInInvertedFiles(String word, File myFile, ArrayList<String> results, boolean stemmingFlag) throws FileNotFoundException {
+            Scanner read = new Scanner(myFile);
+            String tempInput,
+                    stemmedVersion = " ";
+
+            // stemming the word
+            if (stemmingFlag)
+                stemmedVersion = HelpersPackages.Helpers.HelperClass.stemTheWord(word);
+
+            boolean wordIsFound = false;
+
+            int stopIndex, counter;
+
+            results.add(0, "");     // if the targeted word is not found, replace empty in its index
+            while(read.hasNextLine())
+            {
+                tempInput = read.nextLine();
+                if (tempInput.equals(""))
                     continue;
-                }
 
-                counter = 1;
-                // comparing the stemmed version of the target word by the stemmed version of the word in the inverted file
-                if (stemmingFlag)
+                // check if this line is for a word or just an extension for the previous line
+                if (tempInput.charAt(0) == '/')
+                // compare to check if this tempWord = ourWord ?
                 {
-                    if (stemmedVersion.equals(HelperClass.stemTheWord(theWord)))
-                        results.add(counter++, tempInput);
+                    // extract the word from the line that read by the scanner
+                    stopIndex = tempInput.indexOf('|');
+                    String theWord = tempInput.substring(1, stopIndex);
+
+                    // this condition for the targeted word
+                    if(!wordIsFound && theWord.equals(word.toLowerCase()))
+                    {
+                        results.set(0, tempInput);     // target word will have the highest priority
+                        wordIsFound = true;
+                        continue;
+                    }
+
+                    counter = 1;
+                    // comparing the stemmed version of the target word by the stemmed version of the word in the inverted file
+                    if (stemmingFlag)
+                    {
+                        if (stemmedVersion.equals(HelpersPackages.Helpers.HelperClass.stemTheWord(theWord)))
+                            results.add(counter++, tempInput);
+                    }
                 }
             }
         }
-    }
 
-    public static HashMap<Integer, Double> sortByValue(HashMap<Integer, Double> hm)
-    {
-        // Create a list from elements of HashMap
-        List<Map.Entry<Integer, Double> > list =
-                new LinkedList<Map.Entry<Integer, Double> >(hm.entrySet());
-
-        // Sort the list
-        Collections.sort(list, new Comparator<Map.Entry<Integer, Double> >() {
-            public int compare(Map.Entry<Integer, Double> o1,
-                               Map.Entry<Integer, Double> o2)
-            {
-                return (o2.getValue()).compareTo(o1.getValue());
-            }
-        });
-
-        // put data from sorted list to hashmap
-        HashMap<Integer, Double> temp = new LinkedHashMap<Integer, Double>();
-        for (Map.Entry<Integer, Double> aa : list) {
-            temp.put(aa.getKey(), aa.getValue());
-        }
-        return temp;
-    }
-
-    public static HashMap<String, Double> replaceIDByLink(HashMap<Integer, Double> hm)
-    {
-        StringBuffer link = new StringBuffer("");
-        DataBase dataBaseObject = new DataBase();
-        StringBuffer description = new StringBuffer("");
-        HashMap<String, Double> temp = new HashMap<String, Double>();
-        for (Iterator<Map.Entry<Integer, Double>> it = hm.entrySet().iterator(); it.hasNext(); )
+        public static HashMap<Integer, Double> sortByValue(HashMap<Integer, Double> hm)
         {
-            Map.Entry<Integer, Double> IDEntry = it.next();
-            dataBaseObject.getLinkByID(IDEntry.getKey(), link, description);
-            temp.put(link.toString(), IDEntry.getValue());
-        }
+            // Create a list from elements of HashMap
+            List<Map.Entry<Integer, Double> > list =
+                    new LinkedList<Map.Entry<Integer, Double> >(hm.entrySet());
 
-        return temp;
-    }
-
-    public String run(String message, ArrayList<String> queryLinesResult, JSONArray dividedQuery)
-            throws FileNotFoundException, JSONException {
-        //invertedFiles = working.getInvertedFiles();
-        System.out.println("The running function");
-
-        boolean [] indexProcessed;
-        Map<Integer, Integer> allIDs = new HashMap<Integer, Integer>();
-        ArrayList<String> words = new ArrayList<String>();
-        words.add(message);
-        JSONObject divide = new JSONObject();
-        ArrayList<String> allWordsResult = new ArrayList<String>();
-
-
-        String[] result = SplitQuery(message);
-        result  = removeStopWords(result);
-        indexProcessed = new boolean[result.length];
-        String json = "{ [";
-        StringBuffer jsonFile = new StringBuffer(json);
-        JSONArray finalJsonFile = new JSONArray();
-        int length = result.length;
-        for(int i=0; i<length;i++)
-        {
-
-            // Loop over words
-            words.add(result[i]);
-            ArrayList<String> oneWordResult = new ArrayList<String>();
-
-            String fileName = "";
-            if (HelperClass.isProbablyArabic(result[i]))
-                fileName = "arabic";
-            else if(result[i].length() == 2)
-                fileName = "two";
-
-            else
-                fileName = "_" + result[i].substring(0,3);
-
-            // Mustafa : I edited this code
-
-            String filePath = "F:\\Servlets with Database\\Sreach-Engine\\InvertedFiles_V3\\";
-            filePath += fileName + ".txt";
-            File targetFile = new File(filePath);
-            searchInInvertedFiles(result[i], targetFile,oneWordResult, true);
-
-            int length_2 = oneWordResult.size();
-            for(int j = 0; j<length_2; j++)
-            {
-                if(oneWordResult.get(j).equals(""))
-                {continue;}
-
-                queryLinesResult.add(oneWordResult.get(j));
-                // Loop over versions of Words
-
-
-                String[] splitLine= oneWordResult.get(j).split("\\[");
-                int length_3 = splitLine.length;
-                for (int k=1; k<length_3; k++)
+            // Sort the list
+            Collections.sort(list, new Comparator<Map.Entry<Integer, Double> >() {
+                public int compare(Map.Entry<Integer, Double> o1,
+                                   Map.Entry<Integer, Double> o2)
                 {
-
-                    // Loop over links of the same version of each Word
-
-                    int End = splitLine[k].indexOf(']');
-                    String temp = splitLine[k].substring(0, End);
-
-                    String[] finalID = temp.split(",");
-                    int ID = Integer.parseInt(finalID[0]);
-
-                    StringBuffer link = new StringBuffer("");
-                    StringBuffer description = new StringBuffer("");
-                    JSONObject Jo = new JSONObject();
-                    dataBaseObject.getLinkByID(ID, link, description);
-                    Jo.put("Link", link);
-                    Jo.put("Description", description);
-                    finalJsonFile.put(Jo);
-
+                    return (o2.getValue()).compareTo(o1.getValue());
                 }
-            }
+            });
 
+            // put data from sorted list to hashmap
+            HashMap<Integer, Double> temp = new LinkedHashMap<Integer, Double>();
+            for (Map.Entry<Integer, Double> aa : list) {
+                temp.put(aa.getKey(), aa.getValue());
+            }
+            return temp;
         }
 
+        public static HashMap<String, Double> replaceIDByLink(HashMap<Integer, Double> hm)
+        {
+            StringBuffer link = new StringBuffer("");
+            DataBasePackages.DataBase.DataBase dataBaseObject = new DataBasePackages.DataBase.DataBase();
+            StringBuffer description = new StringBuffer("");
+            HashMap<String, Double> temp = new HashMap<String, Double>();
+            for (Iterator<Map.Entry<Integer, Double>> it = hm.entrySet().iterator(); it.hasNext(); )
+            {
+                Map.Entry<Integer, Double> IDEntry = it.next();
+                dataBaseObject.getLinkByID(IDEntry.getKey(), link, description);
+                temp.put(link.toString(), IDEntry.getValue());
+            }
+
+            return temp;
+        }
+
+        public String run(String message, ArrayList<String> queryLinesResult, JSONArray dividedQuery)
+                throws FileNotFoundException, JSONException {
+            //invertedFiles = working.getInvertedFiles();
+            System.out.println("The running function");
+
+            boolean [] indexProcessed;
+            Map<Integer, Integer> allIDs = new HashMap<Integer, Integer>();
+            ArrayList<String> words = new ArrayList<String>();
+            words.add(message);
+            JSONObject divide = new JSONObject();
+            ArrayList<String> allWordsResult = new ArrayList<String>();
+
+
+            String[] result = SplitQuery(message);
+            result  = removeStopWords(result);
+            indexProcessed = new boolean[result.length];
+            String json = "{ [";
+            StringBuffer jsonFile = new StringBuffer(json);
+            JSONArray finalJsonFile = new JSONArray();
+            int length = result.length;
+            for(int i=0; i<length;i++)
+            {
+
+                // Loop over words
+                words.add(result[i]);
+                ArrayList<String> oneWordResult = new ArrayList<String>();
+
+                String fileName = "";
+                if (HelpersPackages.Helpers.HelperClass.isProbablyArabic(result[i]))
+                    fileName = "arabic";
+                else if(result[i].length() == 2)
+                    fileName = "two";
+
+                else
+                    fileName = "_" + result[i].substring(0,3);
+
+                // Mustafa : I edited this code
+
+                String filePath = "F:\\Servlets with Database\\Sreach-Engine\\InvertedFiles_V3\\";
+                filePath += fileName + ".txt";
+                File targetFile = new File(filePath);
+                searchInInvertedFiles(result[i], targetFile,oneWordResult, true);
+
+                int length_2 = oneWordResult.size();
+                for(int j = 0; j<length_2; j++)
+                {
+                    if(oneWordResult.get(j).equals(""))
+                    {continue;}
+
+                    queryLinesResult.add(oneWordResult.get(j));
+                    // Loop over versions of Words
+
+
+                    String[] splitLine= oneWordResult.get(j).split("\\[");
+                    int length_3 = splitLine.length;
+                    for (int k=1; k<length_3; k++)
+                    {
+
+                        // Loop over links of the same version of each Word
+
+                        int End = splitLine[k].indexOf(']');
+                        String temp = splitLine[k].substring(0, End);
+
+                        String[] finalID = temp.split(",");
+                        int ID = Integer.parseInt(finalID[0]);
+
+                        StringBuffer link = new StringBuffer("");
+                        StringBuffer description = new StringBuffer("");
+                        JSONObject Jo = new JSONObject();
+                        dataBaseObject.getLinkByID(ID, link, description);
+                        Jo.put("Link", link);
+                        Jo.put("Description", description);
+                        finalJsonFile.put(Jo);
+
+                    }
+                }
+
+            }
 
 
 
 
-        divide.put("Result", words);
-        dividedQuery.put(divide);
-        return finalJsonFile.toString();
 
+            divide.put("Result", words);
+            dividedQuery.put(divide);
+            return finalJsonFile.toString();
+
+        }
     }
-}
 
-//        public class PhraseSearching {
-//            static DataBase dataBaseObject = new DataBase();
-//            //WorkingFiles working;
-//            private Map<String, File> invertedFiles;
-//            PorterStemmer stemObject = new PorterStemmer();
-//            String[] stopWords;
-//
-//
-//            public PhraseSearching() {
-//                //working = files;
-//                stopWords[0] = "test";      // "will be edited"
-//                stopWords[1] = "test";      // "will be edited"
-//            }
-//
-//
-//            private String[] SplitQuery(String searchQuery) {
-//                String[] subStrings = searchQuery.trim().split("\\s+");
-//                return subStrings;
-//            }
-//
-//            private static String[] removeElement(String[] arr, int[] index) {
-//                List<String> list = new ArrayList<>(Arrays.asList(arr));
-//                for (int i = 0; i < index.length; i++) {
-//                    list.remove(new String(arr[index[i]]));
-//                }
-//                return list.toArray(String[]::new);
-//            }
-//
-//
-//            private String[] removeStopWords(String[] searchQuery) {
-//                int length = searchQuery.length;
-//                ArrayList<Integer> indeces = new ArrayList<Integer>();
-//                for (int i = 0; i < length; i++) {
-//                    System.out.println(searchQuery[i].toLowerCase());
-//                    if (Arrays.asList(this.stopWords).contains(searchQuery[i].toLowerCase())) {
-//                        indeces.add(i);
-//                    }
-//                }
-//                searchQuery = removeElement(searchQuery, indeces.stream().mapToInt(Integer::intValue).toArray());
-//                return searchQuery;
-//            }
-//
-//
-//            public JSONArray run(String message, ArrayList<String> queryLinesResult, JSONArray dividedQuery) throws FileNotFoundException, JSONException {
-//                //invertedFiles = working.getInvertedFiles();
-//                boolean[] indexProcessed;
-//                Map<Integer, Integer> allIDs = new HashMap<Integer, Integer>();
-//                JSONObject divide = new JSONObject();
-//                divide.put("Results", message);
-//                dividedQuery.put(divide);
-//
-//
-//                ArrayList<String> allWordsResult = new ArrayList<String>();
-//
-//
-//                String[] result = SplitQuery(message);
-//                result = removeStopWords(result);
-//                indexProcessed = new boolean[result.length];
-//                String json = "{ [";
-//                StringBuffer jsonFile = new StringBuffer(json);
-//                JSONArray finalJsonFile = new JSONArray();
-//                int length = result.length;
-//                for (int i = 0; i < length; i++) {
-//                    // Loop over words
-//                    ArrayList<String> oneWordResult = new ArrayList<String>();
-//
-//                    // Mustafa : I edited this code
-//
-//                    String fileName = result[i].substring(0, 2);
-//                    String filePath = "D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine\\InvertedFiles_V3\\";
-//                    filePath += fileName + ".txt";
-//                    File targetFile = new File(filePath);
-//                    searchInInvertedFiles(result[i], targetFile,oneWordResult, true);
-//
-////                    QueryProcessingPackages.Query.QueryProcessing.searchInInvertedFiles(result[i], targetFile,
-////                            oneWordResult, false);
-//
-//                    int length_2 = oneWordResult.size();
-//                    for (int j = 0; j < length_2; j++) {
-//                        queryLinesResult.add(oneWordResult.get(j));
-//                        // Loop over versions of Words
-//
-//
-//                        String[] splitLine = oneWordResult.get(j).split("\\[");
-//                        int length_3 = splitLine.length;
-//                        for (int k = 1; k < length_3; k += 2) {
-//
-//                            // Loop over links of the same version of each Word
-//
-//                            int End = splitLine[k].indexOf(']');
-//                            String temp = splitLine[k].substring(0, End);
-//
-//                            String[] finalID = temp.split(",");
-//                            int ID = Integer.parseInt(finalID[0]);
-//                            if (i == 0 && !indexProcessed[i]) {
-//                                allIDs.put(ID, 1);
-//                                indexProcessed[0] = true;
-//                            }
-//                            else if (!indexProcessed[i] && allIDs.containsKey(ID)) {
-//                                allIDs.put(ID, 1 + allIDs.get(ID));
-//                                indexProcessed[i] = true;
-//                            }
-//                        }
-//                    }
-//
-//                }
-//
-//                for (Iterator<Map.Entry<Integer, Integer>> it = allIDs.entrySet().iterator(); it.hasNext(); ) {
-//                    Map.Entry<Integer, Integer> entry = it.next();
-//                    if (entry.getValue() < length) {
-//                        it.remove();
-//                    }
-//
-//                    for (Iterator<Map.Entry<Integer, Integer>> iter = allIDs.entrySet().iterator(); it.hasNext(); ) {
-//
-//                        Map.Entry<Integer, Integer> IDEntry = iter.next();
-//
-//                        StringBuffer link = new StringBuffer("");
-//                        StringBuffer description = new StringBuffer("");
-//                        JSONObject Jo = new JSONObject();
-//                        dataBaseObject.getLinkByID(IDEntry.getKey(), link, description);
-//                        Jo.put("Link", link);
-//                        Jo.put("Description", description);
-//                        finalJsonFile.put(Jo);
-//                    }
-//
-//
-//
-//                }
-//                return finalJsonFile;
-//            }
-//        }
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -1081,7 +1002,16 @@ static class QueryProcessing{
     static class Ranker {
         private DataBasePackages.DataBase.DataBase dataBaseObject = new DataBasePackages.DataBase.DataBase();
         private PageParsing pageParsing = new PageParsing();
-        private QueryProcessingPackages.Query.QueryProcessing queryProcessingObject = new QueryProcessingPackages.Query.QueryProcessing();
+        private QueryProcessingPackages.Query.QueryProcessing queryProcessingObject;
+
+        {
+            try {
+                queryProcessingObject = new QueryProcessingPackages.Query.QueryProcessing();
+            } catch (FileNotFoundException e) {
+                e.printStackTrace();
+            }
+        }
+
         JSONArray dividedQuery = new JSONArray();
         String message;
 
@@ -1368,6 +1298,5 @@ static class QueryProcessing{
             return pagesRank2;
         }
     }
-
 
 }

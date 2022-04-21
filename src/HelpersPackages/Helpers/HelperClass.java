@@ -45,8 +45,9 @@ public class HelperClass {
     public static String pageContentFilesPath(String fileName)
     {
         String filePath = System.getProperty("user.dir");   // get the directory of the project
-        filePath += File.separator + "PageContentFiles" + File.separator + fileName + ".txt";
-        return filePath;
+        String finalFilePath = filePath.substring(0, filePath.lastIndexOf("\\"));
+        finalFilePath += File.separator + "PageContentFiles" + File.separator + fileName + ".txt";
+        return finalFilePath;
     }
 
 

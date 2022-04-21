@@ -18,7 +18,16 @@ import java.io.IOException;
 public class Ranker {
     private DataBasePackages.DataBase.DataBase dataBaseObject = new DataBasePackages.DataBase.DataBase();
     private PageParsing pageParsing = new PageParsing();
-    private QueryProcessingPackages.Query.QueryProcessing queryProcessingObject = new QueryProcessingPackages.Query.QueryProcessing();
+    private QueryProcessing queryProcessingObject;
+
+    {
+        try {
+            queryProcessingObject = new QueryProcessing();
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        }
+    }
+
     JSONArray dividedQuery = new JSONArray();
     String message;
 
