@@ -1,5 +1,0 @@
-/executives|[3,p]:2;[11,h]:2;
-/executables|[3,p]:1;
-/execution|[3,p]:1;
-/exercises|[2,p]:1;
-/executions|[8,p]:1;

@@ -1,3 +1,0 @@
-/coals|[8,p]:1;
-/coasts|[8,p]:1;
-/coalition|[13,p]:1;

@@ -4,50 +4,14 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Scanner;
-import java.util.Vector;
+import java.util.*;
 
 public class WorkingFiles {
-    private Map<String, File> invertedFiles;
-    private String[] stopWords;
-    private Map<String, File> pageContentFiles;
-    public WorkingFiles(int countOfPageContentFiles)
-    {
-        // create the files of pages content
-        String path = "";
-        for (int i = 1; i <= countOfPageContentFiles; i++)
-        {
-            path = HelperClass.pageContentFilesPath(String.valueOf(i));
-            File myObj = new File(path);
-            try {
-                myObj.createNewFile();
-            } catch (IOException e) {
-                e.printStackTrace();
-                System.out.println("Failed to create the file");
-            }
-        }
-        // page content files
-        createPagesContentFiles(countOfPageContentFiles);
-        // inverted files
-        initializeFiles();
-
-        // stop words
-        try {
-            readStopWords();
-        } catch (FileNotFoundException e) {
-            System.out.println("Failed to open Stop words file");
-            e.printStackTrace();
-        }
-
-
-    }
+    private static String[] stopWords;
 
     // initialization of inverted files
-    private void initializeFiles()
+    public static void createInvertedFiles()
     {
-        invertedFiles = new HashMap<String, File>();
         String letters = "qwertyuiopasdfghjklzxcvbnm";
         String currentFileName = "";
 
@@ -69,8 +33,6 @@ public class WorkingFiles {
                         e.printStackTrace();
                         System.out.println("Failed to create the file");
                     }
-
-                    invertedFiles.put(currentFileName, new File(HelperClass.invertedFilePath_V3(currentFileName)));
                     currentFileName = "";
                 }
 
@@ -83,7 +45,6 @@ public class WorkingFiles {
         File myObj = new File(path);
         try {
             myObj.createNewFile();
-            invertedFiles.put(currentFileName, new File(HelperClass.invertedFilePath_V3(currentFileName)));
         } catch (IOException e) {
             e.printStackTrace();
             System.out.println("Failed to create the file");
@@ -95,30 +56,17 @@ public class WorkingFiles {
         File myObj_2 = new File(path);
         try {
             myObj_2.createNewFile();
-            invertedFiles.put(currentFileName, new File(HelperClass.invertedFilePath_V3(currentFileName)));
         } catch (IOException e) {
             e.printStackTrace();
             System.out.println("Failed to create the file");
         }
 
         // print
-        System.out.println("Content Files Created Successfully");
-    }
-
-    // initialization of page content files
-    private void createPagesContentFiles(int count)
-    {
-        // initialization map of the files
-        pageContentFiles = new HashMap<String,File>();
-
-        for (int i = 1; i <= count; i++)
-        {
-            pageContentFiles.put(String.valueOf(i), new File(HelperClass.pageContentFilesPath(String.valueOf(i))));
-        }
+        System.out.println("Inverted Files Created Successfully");
     }
 
     // read the stop words
-    private void readStopWords() throws FileNotFoundException {
+    private static void readStopWords() throws FileNotFoundException {
         // open the file that contains stop words
         String filePath = System.getProperty("user.dir");   // get the directory of the project
         filePath += File.separator + "helpers" + File.separator + "stop_words.txt";
@@ -140,16 +88,16 @@ public class WorkingFiles {
     }
 
     // get stop words
-    public String[] getStopWordsAsArr()
+    public static Map<Character, Vector<String>> getStopWordsAsMap()
     {
-        return stopWords;
-    }
-
-    // get stop words
-    public Map<Character, Vector<String>> getStopWordsAsMap()
-    {
+        try {
+            readStopWords();
+        } catch (FileNotFoundException e) {
+            System.out.println("Failed to read the stop words");
+            e.printStackTrace();
+        }
         // hold stop words in arr
-        String[] myStopWords = this.getStopWordsAsArr();
+        String[] myStopWords = stopWords;
 
         // creating Map
         Map<Character, Vector<String>> wordsMap = new HashMap<>();
@@ -171,35 +119,4 @@ public class WorkingFiles {
         return wordsMap;
     }
 
-    // get inverted files
-    public Map<String, File> getInvertedFiles()
-    {
-        return invertedFiles;
-    }
-
-    // add to page content file
-    public void addToPageContentFile(String fileName, String content)
-    {
-        FileWriter myWriter = null;
-
-        try {
-            myWriter = new FileWriter(HelperClass.pageContentFilesPath(fileName));
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-
-        try {
-            myWriter.write(content);
-            System.out.println("Successfully added the content to the file " + fileName +".txt");
-        } catch (IOException e) {
-            e.printStackTrace();
-            System.out.println("Failed to add the content to the file " + fileName +".txt");
-        }
-
-        try {
-            myWriter.close();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-    }
 }

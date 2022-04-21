@@ -1,2 +1,0 @@
-/guatemalan|[11,h]:1;
-/guan|[11,p]:1;

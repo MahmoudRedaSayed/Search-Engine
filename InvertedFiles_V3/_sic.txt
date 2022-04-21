@@ -1,3 +1,0 @@
-/sickening'|[4,h]:1;
-/sickness|[8,p]:1;
-/sickle|[8,p]:1;

@@ -1,4 +1,0 @@
-/bathroom|[11,h]:1;[11,p]:1;
-/battle|[8,p]:29;
-/bats|[8,p]:1;
-/battle–spiritual|[8,p]:1;

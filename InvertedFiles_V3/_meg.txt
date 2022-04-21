@@ -1,3 +1,0 @@
-/mega|[8,t]:1;
-/megiddo|[8,s]:1;[8,p]:9;
-/meggiddo|[8,p]:1;

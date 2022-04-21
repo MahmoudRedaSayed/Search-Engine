@@ -1,3 +1,0 @@
-/pouchdb|[2,p]:2;
-/poured|[8,p]:3;
-/pounds|[8,p]:1;

@@ -1,7 +1,0 @@
-/believed|[9,p]:2;[8,p]:1;
-/believeth|[8,p]:3;
-/bello|[11,p]:1;
-/believe–|[8,p]:1;
-/believes|[8,p]:1;
-/believing|[8,p]:1;
-/belong|[8,p]:1;

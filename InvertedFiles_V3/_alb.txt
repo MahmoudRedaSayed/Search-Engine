@@ -1,2 +1,0 @@
-/alberta|[4,h]:2;
-/albinism|[9,h]:2;[9,p]:3;

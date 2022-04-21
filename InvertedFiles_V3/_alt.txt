@@ -1,4 +1,0 @@
-/alternative|[2,p]:1;
-/alternate|[8,s]:2;[8,p]:4;
-/altered|[8,p]:1;
-/altar|[8,p]:1;

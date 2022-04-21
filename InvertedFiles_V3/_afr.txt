@@ -1,9 +1,0 @@
-/africa|[3,p]:1;[9,h]:2;[9,p]:9;[13,h]:1;[13,p]:1;
-/africa's|[9,h]:2;[9,p]:6;[13,p]:1;
-/afraid|[8,p]:1;
-/afrique|[9,p]:1;
-/africafirst|[13,p]:1;
-/africacentral|[13,p]:1;
-/african|[13,p]:1;
-/africaparagliders|[13,p]:1;
-/africasouth|[13,p]:1;

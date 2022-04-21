@@ -1,9 +1,0 @@
-/israel’s|[8,s]:11;[11,h]:1;[8,p]:96;
-/israel?|[8,s]:1;[8,p]:1;
-/israel′s|[8,p]:2;
-/israeli|[8,p]:4;[13,p]:1;
-/israel–ez|[8,p]:1;
-/israel—when|[8,p]:1;
-/israel–loved|[8,p]:1;
-/israel–millennium|[8,p]:1;
-/israel-palestinian|[13,p]:1;

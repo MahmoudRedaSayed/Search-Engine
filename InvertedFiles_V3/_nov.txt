@@ -1,3 +1,0 @@
-/november|[4,p]:1;[8,p]:1;
-/novice|[3,p]:1;
-/novels|[2,p]:1;

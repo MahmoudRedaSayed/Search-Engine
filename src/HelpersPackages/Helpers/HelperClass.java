@@ -2,10 +2,7 @@ package HelpersPackages.Helpers;
 
 import org.tartarus.snowball.ext.PorterStemmer;
 
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileWriter;
-import java.io.IOException;
+import java.io.*;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -20,35 +17,26 @@ public class HelperClass {
     // get the path of the inverted Files
     public static String invertedFilePath(String fileName)
     {
-        String filePath = System.getProperty("user.dir");   // get the directory of the project
-        filePath += File.separator + "InvertedFiles" + File.separator + fileName + ".txt";
+        String filePath = Paths.get("").normalize().toAbsolutePath().toString();
+        filePath += File.separator + "InvertedFiles_V3" + File.separator + fileName + ".txt";
         return filePath;
     }
 
     // get the path of the inverted Files_V2
     public static String invertedFilePath_V2(String fileName)
     {
-        String filePath = System.getProperty("user.dir");   // get the directory of the project
-        filePath += File.separator + "InvertedFiles_V2" + File.separator + fileName + ".txt";
+        String filePath = Paths.get("").normalize().toAbsolutePath().toString();
+        filePath += File.separator + "InvertedFiles_V3" + File.separator + fileName + ".txt";
         return filePath;
     }
 
     // get the path of the inverted Files_V3
     public static String invertedFilePath_V3(String fileName)
     {
-        String filePath = System.getProperty("user.dir");   // get the directory of the project
+        String filePath = Paths.get("").normalize().toAbsolutePath().toString();
         filePath += File.separator + "InvertedFiles_V3" + File.separator + fileName + ".txt";
         return filePath;
     }
-
-    // get the path of the page content files
-    public static String pageContentFilesPath(String fileName)
-    {
-        String filePath = System.getProperty("user.dir");   // get the directory of the project
-        filePath += File.separator + "PageContentFiles" + File.separator + fileName + ".txt";
-        return filePath;
-    }
-
 
     // check if a given word is existing in a given inverted file or not
     // returns the whole line that contains this word
@@ -118,5 +106,38 @@ public class HelperClass {
         return false;
     }
 
+    // this function checks if the info is already exist or not,
+    // and if exists, just increment the counter of occurrences
+    public static String updateInfoOfWord(String line, String oldInfo) {
 
+        // substring the line to get the needed information
+        int separationIndex = line.indexOf('|');
+        String allInfo = line.substring(separationIndex + 1);
+
+        // explode the info
+        List<String> infoList = new ArrayList<>(List.of(allInfo.split(";", 0)));
+        String theNewInfo;
+
+        for (String info : infoList) {
+
+            // split the frequency counter from the info of the word
+            List<String> tempList = new ArrayList<>(List.of(info.split(":", 0)));
+
+            // check if the same info is existing or not
+            if (tempList.get(0).equals(oldInfo)) {
+                String frequency = tempList.get(1);
+                int integerFrequency = Integer.parseInt(frequency);
+                theNewInfo = tempList.get(0) + ":" + String.valueOf(integerFrequency + 1); /* convert the ( int freq + 1 ) to string here */
+                oldInfo = oldInfo + ":" + frequency;
+                line = line.replace(oldInfo , theNewInfo);
+                return line;
+            }
+        }
+
+        // if not returned, then the info is not exist
+        theNewInfo = oldInfo + ":1";
+        line += theNewInfo + ';';
+        return line;
+
+    }
 }

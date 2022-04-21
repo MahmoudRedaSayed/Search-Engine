@@ -1,9 +1,0 @@
-/depp|[4,h]:1;[11,h]:1;[11,p]:1;
-/deployment—on-premises|[3,p]:4;
-/deployments|[3,p]:2;
-/dept|[11,h]:2;[11,p]:1;
-/deputy|[11,h]:1;[11,p]:1;
-/department|[11,p]:1;[8,p]:4;[13,p]:2;
-/departed|[8,p]:1;
-/depths|[8,p]:1;
-/deported|[13,p]:2;

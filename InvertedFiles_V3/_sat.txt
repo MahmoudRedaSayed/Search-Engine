@@ -1,6 +1,0 @@
-/satan|[8,s]:1;[8,p]:44;
-/satan′s|[8,p]:1;
-/satellites|[8,p]:1;
-/satan?|[8,p]:1;
-/satan’s|[8,p]:3;
-/satisfied|[8,p]:2;

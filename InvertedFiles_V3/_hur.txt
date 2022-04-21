@@ -1,2 +1,0 @@
-/hurting|[8,s]:1;[8,p]:2;
-/hurricanes|[8,p]:1;

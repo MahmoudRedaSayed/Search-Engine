@@ -1,7 +1,0 @@
-/seek|[2,p]:1;[8,p]:5;
-/see”|[8,s]:1;[8,p]:1;
-/seemingly|[8,s]:1;[8,p]:2;
-/sees|[8,p]:2;
-/seeking|[8,p]:1;[13,p]:1;
-/seed|[8,p]:2;
-/seemeth|[8,p]:1;

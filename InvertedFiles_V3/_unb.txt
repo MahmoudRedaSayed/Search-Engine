@@ -1,3 +1,0 @@
-/unblock|[10,p]:1;
-/unbelief|[8,p]:1;
-/unbiblical–lk|[8,p]:2;

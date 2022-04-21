@@ -1,2 +1,0 @@
-/wireshark|[2,p]:2;
-/wireimage|[11,p]:1;

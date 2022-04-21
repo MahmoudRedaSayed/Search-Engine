@@ -1,1 +1,0 @@
-/ttyteletype|[4,p]:1;

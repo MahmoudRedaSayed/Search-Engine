@@ -1,3 +1,0 @@
-/affiliate|[2,p]:2;
-/affliction|[8,p]:1;
-/affect|[8,p]:1;

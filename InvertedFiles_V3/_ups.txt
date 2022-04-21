@@ -1,3 +1,0 @@
-/upside|[8,p]:1;
-/upstage|[13,p]:1;
-/upset'|[13,p]:1;

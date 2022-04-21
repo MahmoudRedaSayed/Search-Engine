@@ -2,6 +2,7 @@ package TestingPackage;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.nio.file.Paths;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.*;
@@ -11,28 +12,41 @@ import DataBasePackages.DataBase.*;
 import HelpersPackages.Helpers.HelperClass;
 import HelpersPackages.Helpers.WorkingFiles;
 import IndexerPackages.Indexer.Indexer;
+import PhraseSearchingPackages.PhraseSearching.*;
 import ServletsPackages.ServletPackage.QuerySearch;
+import IndexerPackages.Indexer.Indexer;
 import com.mysql.cj.xdevapi.DatabaseObject;
 import com.mysql.cj.xdevapi.JsonArray;
 import com.mysql.cj.xdevapi.JsonString;
 import QueryProcessingPackages.Query.QueryProcessing;
+import RankerPackage.Ranker.*;
 import org.json.*;
+
+import javax.xml.crypto.Data;
 
 public class Main {
 
     public static void main(String[] args) throws FileNotFoundException, JSONException {
 
-        JSONArray dividedQuery =  new JSONArray();
+        /*JSONArray dividedQuery =  new JSONArray();
+        Ranker rankerObj = new Ranker();
         String finalJSONARRAY;
         QueryProcessing obj = new QueryProcessing();
+        PhraseSearching phraseSearchingObj = new PhraseSearching();
         String searchingQuery;
         ArrayList<String> rankerArray=new ArrayList<String>();
-        searchingQuery = "Additional additions";
+        searchingQuery = "Additional is am additional";
         System.out.println(searchingQuery);
-        finalJSONARRAY = obj.run(searchingQuery, rankerArray, dividedQuery);
-        System.out.println(finalJSONARRAY);
+        finalJSONARRAY = obj.run(searchingQuery, rankerArray, dividedQuery);*/
+
+//        Map<Integer,Double> rankingResult= rankerObj.calculateRelevance(rankerArray);
+//        HashMap<Integer,Double> toBeSorted = new HashMap<Integer,Double>(rankingResult);
+//        HashMap<Integer,Double> sortedRankerMap = QueryProcessing.sortByValue(toBeSorted);
+//        HashMap<String,Double> linksRankedMap = QueryProcessing.replaceIDByLink(toBeSorted);
+
+        /*System.out.println(finalJSONARRAY);
         System.out.println(dividedQuery.toString());
-        System.out.println(rankerArray.toString());
+        System.out.println(rankerArray.toString());*/
 
 //        DataBase databaseObj  = new DataBase();
 //        System.out.println(databaseObj.getCompleteCount());
@@ -169,9 +183,6 @@ public class Main {
 //
 //
 //        /*---------------     End Of Indexing ----------------------*/
-//
-//
-//
-//
+
     }
 }

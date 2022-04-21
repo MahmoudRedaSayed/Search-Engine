@@ -1,8 +1,0 @@
-/spirit|[8,s]:1;[8,p]:11;
-/spiking|[11,h]:2;
-/spirits|[8,s]:1;[8,p]:2;
-/spiritual|[8,p]:9;
-/spiritually|[8,p]:1;
-/spider’s|[8,p]:1;
-/spirit–in|[8,p]:1;
-/spirits–various|[8,p]:1;

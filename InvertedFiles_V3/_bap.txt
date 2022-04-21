@@ -1,4 +1,0 @@
-/baptized|[8,s]:2;[8,p]:12;
-/baptism|[8,s]:1;[8,p]:12;
-/baptizes|[8,p]:1;
-/baptist|[8,p]:1;

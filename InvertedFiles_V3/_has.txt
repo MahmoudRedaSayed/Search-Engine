@@ -1,5 +1,0 @@
-/hashizume|[3,p]:2;[2,p]:1;
-/hassles"|[3,p]:1;
-/hashset|[2,p]:1;
-/hashing|[2,p]:1;
-/hast|[8,p]:1;

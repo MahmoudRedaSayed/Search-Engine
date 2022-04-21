@@ -1,5 +1,0 @@
-/toronto|[4,p]:1;
-/tortured|[8,p]:3;
-/torment|[8,p]:2;
-/tormented|[8,p]:1;
-/tornadoes|[8,p]:1;

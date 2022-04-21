@@ -1,4 +1,0 @@
-/outcome|[3,h]:1;[3,p]:1;
-/outclass|[9,h]:1;[9,p]:4;
-/outlet|[8,p]:1;
-/outreaches|[8,p]:2;

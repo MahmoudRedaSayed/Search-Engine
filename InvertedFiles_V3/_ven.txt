@@ -1,3 +1,0 @@
-/vendor|[3,p]:1;
-/vendor-neutral|[3,p]:1;
-/vengeance|[8,p]:2;

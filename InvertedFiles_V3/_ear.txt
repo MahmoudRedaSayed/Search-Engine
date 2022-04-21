@@ -1,9 +1,0 @@
-/early|[4,h]:1;[4,p]:1;[8,p]:1;
-/earth|[8,s]:7;[11,h]:1;[8,p]:72;
-/earthquakes|[8,s]:7;[8,p]:13;
-/earlier|[8,s]:1;[8,p]:2;
-/earth's|[9,p]:2;
-/ears|[8,p]:4;
-/earliest|[11,h]:1;
-/earth′s|[8,p]:1;
-/earth—horrible|[8,p]:1;

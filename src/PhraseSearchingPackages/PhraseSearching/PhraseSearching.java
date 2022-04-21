@@ -21,15 +21,16 @@ import org.json.*;
 
 public class PhraseSearching {
     DataBase dataBaseObject = new DataBase();
-    WorkingFiles working;
+    //WorkingFiles working;
     private Map<String, File> invertedFiles;
     PorterStemmer stemObject = new PorterStemmer();
     String[] stopWords;
 
 
-    public PhraseSearching(WorkingFiles files) {
-        working = files;
-        stopWords = files.getStopWordsAsArr();
+    public PhraseSearching() throws FileNotFoundException {
+        //working = files;
+        readStopWords();
+        System.out.println("Phrase Searching consturctor");
     }
 
 
@@ -44,6 +45,30 @@ public class PhraseSearching {
             list.remove(new String(arr[index[i]]));
         }
         return list.toArray(String[]::new);
+    }
+
+    private void readStopWords() throws FileNotFoundException {
+        // open the file that contains stop words
+        String filePath = System.getProperty("user.dir");   // get the directory of the project
+        System.out.println(filePath);
+        String finalfilePath = filePath.substring(0, filePath.lastIndexOf("\\")+1);
+        System.out.println(finalfilePath);
+        finalfilePath += File.separator + "helpers" + File.separator + "stop_words.txt";
+        File myFile = new File(finalfilePath);
+
+        this.stopWords = new String[851];
+
+        // read from the file
+        Scanner read = new Scanner(myFile);
+        String tempInput;
+        int counter = 0;
+        while(read.hasNextLine())
+        {
+            tempInput = read.nextLine();
+            stopWords[counter++] = tempInput;
+        }
+        read.close();
+
     }
 
 
@@ -61,8 +86,9 @@ public class PhraseSearching {
     }
 
 
-    public JSONArray run(String message, ArrayList<String> queryLinesResult, JSONArray dividedQuery) throws FileNotFoundException, JSONException {
-        invertedFiles = working.getInvertedFiles();
+    public String run(String message, ArrayList<String> queryLinesResult, JSONArray dividedQuery) throws FileNotFoundException, JSONException {
+        //invertedFiles = working.getInvertedFiles();
+        System.out.println("Phrase Searching Run Function");
         boolean[] indexProcessed;
         Map<Integer, Integer> allIDs = new HashMap<Integer, Integer>();
         JSONObject divide = new JSONObject();
@@ -85,18 +111,43 @@ public class PhraseSearching {
             ArrayList<String> oneWordResult = new ArrayList<String>();
 
 
-            QueryProcessing.searchInInvertedFiles(result[i], invertedFiles.get(result[i].substring(0, 2)),
-                    oneWordResult, false);
+            String fileName = "";
+            if (HelperClass.isProbablyArabic(result[i]))
+                fileName = "arabic";
+            else if(result[i].length() == 2)
+                fileName = "two";
+
+            else
+                fileName = "_" + result[i].substring(0,3);
+
+
+            // Mustafa : I edited this code
+            String filePath = System.getProperty("user.dir");   // get the directory of the project
+
+            // Delete last Directory to get path of Inverted Files
+            String finalFilePath = filePath.substring(0, filePath.lastIndexOf("\\"));
+
+            finalFilePath += File.separator + "InvertedFiles_V3" + File.separator;
+
+            finalFilePath += fileName + ".txt";
+            //System.out.println(finalFilePath + "From Search Inverted Files");
+            File targetFile = new File(finalFilePath);
+
+            QueryProcessing.searchInInvertedFiles(result[i], targetFile,oneWordResult, false);
 
             int length_2 = oneWordResult.size();
             for (int j = 0; j < length_2; j++) {
+
+                if(oneWordResult.get(j).equals(""))
+                {continue;}
+                // Should we let this be like that? Or should it be just links from map? I don't know
                 queryLinesResult.add(oneWordResult.get(j));
                 // Loop over versions of Words
 
 
                 String[] splitLine = oneWordResult.get(j).split("\\[");
                 int length_3 = splitLine.length;
-                for (int k = 1; k < length_3; k += 2) {
+                for (int k = 1; k < length_3; k++) {
 
                     // Loop over links of the same version of each Word
 
@@ -107,11 +158,17 @@ public class PhraseSearching {
                     int ID = Integer.parseInt(finalID[0]);
                     if (i == 0 && !indexProcessed[i]) {
                         allIDs.put(ID, 1);
-                        indexProcessed[0] = true;
+                        if(k == length_3-1)
+                        {
+                            indexProcessed[0] = true;
+                        }
                     }
                     else if (!indexProcessed[i] && allIDs.containsKey(ID)) {
                         allIDs.put(ID, 1 + allIDs.get(ID));
-                        indexProcessed[i] = true;
+                        if(k == length_3-1)
+                        {
+                            indexProcessed[i] = true;
+                        }
                     }
                 }
             }
@@ -123,24 +180,23 @@ public class PhraseSearching {
             if (entry.getValue() < length) {
                 it.remove();
             }
-
-            for (Iterator<Map.Entry<Integer, Integer>> iter = allIDs.entrySet().iterator(); it.hasNext(); ) {
-
-                Map.Entry<Integer, Integer> IDEntry = iter.next();
-
-                StringBuffer link = new StringBuffer("");
-                StringBuffer description = new StringBuffer("");
-                JSONObject Jo = new JSONObject();
-                dataBaseObject.getLinkByID(IDEntry.getKey(), link, description);
-                Jo.put("Link", link);
-                Jo.put("Description", description);
-                finalJsonFile.put(Jo);
-            }
-
-
-
         }
-        return finalJsonFile;
+
+        for (Iterator<Map.Entry<Integer, Integer>> iter = allIDs.entrySet().iterator(); iter.hasNext(); ) {
+
+
+            Map.Entry<Integer, Integer> IDEntry = iter.next();
+
+            StringBuffer link = new StringBuffer("");
+            StringBuffer description = new StringBuffer("");
+            JSONObject Jo = new JSONObject();
+            dataBaseObject.getLinkByID(IDEntry.getKey(), link, description);
+            Jo.put("Link", link);
+            Jo.put("Description", description);
+            finalJsonFile.put(Jo);
+        }
+
+        return finalJsonFile.toString();
     }
 }
 

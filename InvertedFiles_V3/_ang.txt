@@ -1,8 +1,0 @@
-/angular|[2,p]:4;
-/angularjs|[2,p]:2;
-/angels|[8,s]:1;[8,p]:14;
-/anger|[8,s]:1;[8,p]:5;
-/angeles|[11,p]:1;
-/angry|[8,p]:2;
-/anguish|[8,p]:1;
-/anger?|[8,p]:1;

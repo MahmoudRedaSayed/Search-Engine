@@ -1,2 +1,0 @@
-/anymatch|[2,p]:1;
-/anymore?|[8,p]:1;

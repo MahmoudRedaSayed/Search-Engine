@@ -1,3 +1,0 @@
-/ability|[2,p]:2;[9,p]:2;
-/abide|[8,p]:2;
-/abideth|[8,p]:1;

@@ -1,6 +1,0 @@
-/slack|[10,p]:1;
-/slaves|[8,p]:2;
-/slaughter|[8,p]:1;
-/slanders|[8,p]:1;
-/slaughtered|[8,p]:2;
-/slavery|[13,p]:1;

@@ -1,3 +1,0 @@
-/evidence|[11,h]:1;
-/evidenced|[8,p]:1;
-/evil|[8,p]:6;

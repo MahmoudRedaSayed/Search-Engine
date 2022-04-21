@@ -1,8 +1,0 @@
-/swagger|[2,p]:2;
-/swap|[4,h]:1;
-/swahili|[9,h]:1;[9,p]:3;
-/swaggart|[8,p]:1;
-/swallows|[8,p]:2;
-/sware|[8,p]:1;
-/swarm|[8,p]:1;
-/swallowed|[8,p]:2;

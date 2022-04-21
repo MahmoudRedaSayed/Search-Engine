@@ -1,6 +1,0 @@
-/obedience|[8,s]:1;[8,p]:2;
-/obedient|[8,s]:1;[8,p]:2;
-/obey|[8,s]:1;[8,p]:15;
-/obeys|[8,s]:1;[8,p]:1;
-/obeying|[8,p]:4;
-/obeyed|[8,p]:1;

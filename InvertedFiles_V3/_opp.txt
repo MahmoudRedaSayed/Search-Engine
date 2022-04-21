@@ -1,3 +1,0 @@
-/opportunity|[3,p]:1;[2,p]:1;
-/opponents'|[11,h]:1;
-/opposing|[8,p]:1;

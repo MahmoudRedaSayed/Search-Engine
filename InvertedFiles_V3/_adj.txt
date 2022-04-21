@@ -1,2 +1,0 @@
-/adjective|[2,p]:3;
-/adjectives|[2,p]:7;

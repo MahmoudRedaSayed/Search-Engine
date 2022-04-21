@@ -1,8 +1,0 @@
-/thrones|[9,h]:1;[8,s]:1;[9,p]:2;[8,p]:6;
-/throws|[9,h]:1;[9,p]:2;
-/threat|[9,h]:1;[9,p]:2;
-/threatening|[11,h]:1;
-/threats|[11,h]:2;
-/thrown|[8,p]:1;
-/thrust|[8,p]:2;
-/threescore|[8,p]:1;

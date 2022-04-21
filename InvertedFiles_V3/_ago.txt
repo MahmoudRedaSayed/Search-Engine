@@ -1,3 +1,0 @@
-/ago?|[8,p]:1;
-/agony|[8,p]:2;
-/agonizing|[8,p]:1;

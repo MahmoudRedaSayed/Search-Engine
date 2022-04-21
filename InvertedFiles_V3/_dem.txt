@@ -1,5 +1,0 @@
-/demolition|[4,h]:1;
-/democratic|[2,p]:1;[11,h]:1;
-/demodulation|[2,p]:1;
-/demons|[9,h]:1;[9,p]:2;[8,p]:1;
-/demand|[13,p]:1;

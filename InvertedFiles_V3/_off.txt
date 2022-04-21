@@ -1,7 +1,0 @@
-/office|[2,h]:1;[2,p]:3;[8,p]:1;
-/offers|[3,p]:4;[2,p]:2;[8,p]:1;[13,p]:2;
-/offered|[4,p]:1;[8,p]:1;[13,p]:2;
-/offended|[8,s]:1;[8,p]:1;
-/officials|[11,h]:1;[13,p]:2;
-/offensive|[13,p]:2;
-/offerapril|[13,p]:1;

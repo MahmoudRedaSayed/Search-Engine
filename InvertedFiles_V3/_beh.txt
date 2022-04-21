@@ -1,4 +1,0 @@
-/beheaded|[8,s]:1;[8,p]:6;
-/behind–ref|[8,p]:1;
-/behold|[8,p]:5;
-/beheld|[8,p]:1;

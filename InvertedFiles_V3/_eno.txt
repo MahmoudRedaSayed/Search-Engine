@@ -1,2 +1,0 @@
-/enoch|[8,p]:1;
-/enormous|[8,p]:1;

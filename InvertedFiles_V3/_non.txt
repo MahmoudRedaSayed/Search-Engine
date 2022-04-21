@@ -1,2 +1,0 @@
-/non-technical|[2,h]:1;[2,p]:1;[10,p]:1;
-/non-profit    thousands|[8,p]:1;

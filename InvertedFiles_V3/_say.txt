@@ -1,4 +1,0 @@
-/say?|[8,p]:2;
-/sayings|[8,p]:1;
-/saysapril|[13,p]:1;
-/sayapril|[13,p]:1;

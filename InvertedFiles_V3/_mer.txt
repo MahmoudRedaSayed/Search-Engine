@@ -1,3 +1,0 @@
-/mercy|[8,p]:6;
-/merchants|[8,p]:1;
-/merciful|[8,p]:2;

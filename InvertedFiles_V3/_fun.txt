@@ -1,4 +1,0 @@
-/funding|[3,p]:1;
-/functional|[2,p]:51;[13,p]:1;
-/functions|[2,p]:5;[8,p]:1;
-/functionalities|[2,p]:1;

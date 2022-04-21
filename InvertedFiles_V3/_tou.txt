@@ -1,4 +1,0 @@
-/tourist|[2,p]:1;[8,p]:1;[13,p]:1;
-/tougher|[9,p]:2;
-/touring|[8,p]:1;
-/tourist-starved|[13,p]:1;

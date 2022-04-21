@@ -1,6 +1,0 @@
-/idea|[2,p]:2;[10,p]:1;[8,p]:1;
-/identity|[4,h]:1;[11,h]:1;[11,p]:1;
-/ideas|[2,p]:1;[8,p]:2;
-/identification|[2,p]:1;
-/ideal|[2,p]:1;
-/identified|[11,h]:1;[11,p]:1;

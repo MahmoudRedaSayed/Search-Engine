@@ -1,3 +1,0 @@
-/tamper-resistant|[3,p]:1;
-/tamil|[9,p]:1;
-/tamborines|[8,p]:1;

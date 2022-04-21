@@ -1,4 +1,0 @@
-/initramfs|[2,p]:1;
-/initial|[10,p]:1;
-/initiated|[8,p]:1;
-/iniquity|[8,p]:3;

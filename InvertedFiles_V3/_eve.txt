@@ -1,7 +1,0 @@
-/event|[3,p]:1;[8,p]:13;
-/events|[3,p]:2;[2,p]:1;[8,s]:1;[8,p]:13;[13,p]:1;
-/evening|[8,s]:1;[8,p]:3;
-/everlasting|[8,p]:1;
-/everyone–acts|[8,p]:1;
-/eve–spiritual|[8,p]:1;
-/ever-expanding|[13,p]:2;

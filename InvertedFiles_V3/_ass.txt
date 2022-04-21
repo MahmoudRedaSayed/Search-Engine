@@ -1,8 +1,0 @@
-/assessment|[2,p]:1;
-/assault|[11,h]:2;[11,p]:2;
-/assets|[11,h]:2;
-/assembly|[8,p]:1;
-/assumes|[8,p]:1;
-/assyrians|[8,p]:1;
-/assembling|[8,p]:1;
-/assemble|[8,p]:1;

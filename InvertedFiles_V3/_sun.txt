@@ -1,8 +1,0 @@
-/sunwing|[4,h]:1;[9,p]:2;[8,p]:5;
-/sunny|[2,p]:2;
-/sundar|[2,p]:1;
-/sunscreens|[11,h]:1;
-/sung|[8,p]:1;
-/sun?|[8,p]:1;
-/sunglasses|[8,p]:1;
-/sunday|[13,p]:1;

@@ -1,3 +1,0 @@
-/doolittle|[2,p]:1;
-/doorashada|[9,p]:2;[8,p]:4;
-/doorstep|[8,p]:1;

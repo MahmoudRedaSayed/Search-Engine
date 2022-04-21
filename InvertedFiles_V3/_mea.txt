@@ -1,3 +1,0 @@
-/meaningless|[8,p]:3;
-/meant|[8,p]:2;
-/meals|[8,p]:1;

@@ -1,3 +1,0 @@
-/blenders|[11,h]:1;
-/blessed|[8,p]:1;
-/blesses|[8,p]:1;

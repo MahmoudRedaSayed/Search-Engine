@@ -1,2 +1,0 @@
-/psychological|[11,h]:1;
-/psychology|[8,p]:3;

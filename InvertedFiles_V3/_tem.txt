@@ -1,7 +1,0 @@
-/temples|[2,p]:3;[8,s]:3;[8,p]:15;
-/temporary|[8,p]:1;
-/tempted|[8,p]:1;
-/temptations|[8,p]:3;
-/temptation–not|[8,p]:1;
-/temptations–|[8,p]:1;
-/temptations–two|[8,p]:1;

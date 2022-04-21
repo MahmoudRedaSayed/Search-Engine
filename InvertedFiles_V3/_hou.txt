@@ -1,7 +1,0 @@
-/hounds?|[4,h]:1;
-/housing|[4,h]:1;[11,h]:1;[11,p]:1;
-/hours|[4,p]:2;[8,s]:2;[8,p]:25;
-/hour”|[8,s]:1;[8,p]:3;
-/housetop|[8,s]:1;[11,h]:1;[8,p]:9;
-/houses|[8,p]:2;
-/households|[8,p]:1;

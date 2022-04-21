@@ -1,3 +1,0 @@
-/again–in|[8,p]:1;
-/again–evidence|[8,p]:1;
-/again–not|[8,p]:1;

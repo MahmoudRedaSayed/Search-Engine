@@ -1,2 +1,0 @@
-/arithmetic|[2,p]:2;
-/arijit|[2,p]:1;

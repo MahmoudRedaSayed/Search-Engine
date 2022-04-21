@@ -1,6 +1,0 @@
-/walks|[2,p]:1;[8,p]:1;
-/walkers|[9,h]:1;[9,p]:2;
-/wall|[11,h]:1;[11,p]:1;
-/walked|[8,p]:1;
-/wales|[9,p]:1;
-/wallows|[13,p]:1;

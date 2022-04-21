@@ -1,11 +1,16 @@
 package IndexerPackages.Indexer;
 
+import HelpersPackages.Helpers.HelperClass;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileWriter;
 
 import java.io.IOException;
+import java.util.Scanner;
 
 public class PageParsing {
 
@@ -37,6 +42,28 @@ public class PageParsing {
 
         return data;
     }
+    //get length of page content
+    /*public static long getLengthOfPageContent(int pageId)
+    {
+        String path= HelperClass.pageContentFilesPath(String.valueOf(pageId));
+        File target = new File(path);
+        String content = "";
+        Scanner reader = null;
+        try {
+            reader = new Scanner(target);
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        }
+        while(reader.hasNextLine())
+        {
+            content+= reader.nextLine();
+        }
+
+
+
+        return content.length();
+    }*/
+
 
     // get headings
     public String[] getHeaders()
