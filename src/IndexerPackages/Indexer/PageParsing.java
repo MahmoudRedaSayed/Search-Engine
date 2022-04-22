@@ -18,10 +18,14 @@ public class PageParsing {
     private Elements elements;
 
     // get the whole structure of the web page
-    public void parseDocument(String url) throws IOException {
-        webPage = Jsoup.connect(url).get();
-    }
+//    public void parseDocument(String url) throws IOException {
+//        webPage = Jsoup.connect(url).get();
+//    }
+    public PageParsing(String Url) throws  IOException
+    {
+        webPage = Jsoup.connect(Url).get();
 
+    }
     // get the title of a page
     public String getTitleTag()
     {

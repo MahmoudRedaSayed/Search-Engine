@@ -22,6 +22,9 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+// indexing
+import IndexerPackages.Indexer.PageParsing;
+import org.json.*;
 //-------------------------------------------------------------------//
 
 
@@ -493,9 +496,34 @@ public class UrlThread implements  Runnable {
                             //-----------------------------------------------------------------------------------------------------------------//
                             // get the document and get the links from it
                             Document doc = Jsoup.connect(Url).get();
+
+                            // ------------------------------------------The data of the links the content and the paragraphs and the header and title -------------------//
+                            /*
+                            * this block to add the content of the link into the database put separeted
+                            * */
+                            PageParsing pageContent=new PageParsing(Url);
+                            String headers=pageContent.getHeaders().toString();
+                            String title=pageContent.getTitleTag();
+                            String paragraphs=pageContent.getParagraphs().toString();
+                            String listItems=pageContent.getListItems().toString();
+                            String strongWords=pageContent.getStrongs().toString();
+                            DataBaseObject.addElements(parentId,paragraphs,title,headers,listItems,strongWords);
+
+                            //----------------------------------------------------------------------------------------------------------------------------------------------//
+                            // check if its content is same content to another link in the database
+                            String content= DataBaseObject.getContent(parentId);
+                            ResultSet contentResultSet=DataBaseObject.getContents(content);
+
+                            try {
+                                if ((contentResultSet!=null&&contentResultSet.next())) return;
+                            }
+                            catch (SQLException e) {
+                                e.printStackTrace();
+                            }
+                            //-----------------------------------------------------------------------------------------------------------------------------------------------//
                             try {
                                 String desc = doc.select("meta[name=description]").get(0)
-                                        .attr("content").replaceAll("'"," ").replace('"', ' ');
+                                        .attr("content").replace("'","\\\'").replace("\"", "\\\"");
                                 DataBaseObject.addDesc(parentId, desc);
                             }
                             catch (IndexOutOfBoundsException e)
@@ -577,6 +605,31 @@ public class UrlThread implements  Runnable {
                             //-----------------------------------------------------------------------------------------------------------------//
                             // get the document and get the links from it
                             Document doc = Jsoup.connect(Url).get();
+                            // ------------------------------------------The data of the links the content and the paragraphs and the header and title -------------------//
+                            /*
+                             * this block to add the content of the link into the database put separeted
+                             * */
+                            PageParsing pageContent=new PageParsing(Url);
+                            String headers=pageContent.getHeaders().toString();
+                            String title=pageContent.getTitleTag();
+                            String paragraphs=pageContent.getParagraphs().toString();
+                            String listItems=pageContent.getListItems().toString();
+                            String strongWords=pageContent.getStrongs().toString();
+                            DataBaseObject.addElements(parentId,paragraphs,title,headers,listItems,strongWords);
+
+                            //----------------------------------------------------------------------------------------------------------------------------------------------//
+                            // check if its content is same content to another link in the database
+                            String content= DataBaseObject.getContent(parentId);
+                            ResultSet contentResultSet=DataBaseObject.getContents(content);
+
+                            try {
+                                if ((contentResultSet!=null&&contentResultSet.next())) return;
+                            }
+                            catch (SQLException e) {
+                                e.printStackTrace();
+                            }
+                            //-----------------------------------------------------------------------------------------------------------------------------------------------//
+
                             try {
                                 String desc = doc.select("meta[name=description]").get(0)
                                         .attr("content").replaceAll("'"," ").replace('"', ' ');
@@ -658,6 +711,30 @@ public class UrlThread implements  Runnable {
                             //-----------------------------------------------------------------------------------------------------------------//
                             // get the document and get the links from it
                             Document doc = Jsoup.connect(Url).get();
+                            // ------------------------------------------The data of the links the content and the paragraphs and the header and title -------------------//
+                            /*
+                             * this block to add the content of the link into the database put separeted
+                             * */
+                            PageParsing pageContent=new PageParsing(Url);
+                            String headers=pageContent.getHeaders().toString();
+                            String title=pageContent.getTitleTag();
+                            String paragraphs=pageContent.getParagraphs().toString();
+                            String listItems=pageContent.getListItems().toString();
+                            String strongWords=pageContent.getStrongs().toString();
+                            DataBaseObject.addElements(parentId,paragraphs,title,headers,listItems,strongWords);
+
+                            //----------------------------------------------------------------------------------------------------------------------------------------------//
+                            // check if its content is same content to another link in the database
+                            String content= DataBaseObject.getContent(parentId);
+                            ResultSet contentResultSet=DataBaseObject.getContents(content);
+
+                            try {
+                                if ((contentResultSet!=null&&contentResultSet.next())) return;
+                            }
+                            catch (SQLException e) {
+                                e.printStackTrace();
+                            }
+                            //-----------------------------------------------------------------------------------------------------------------------------------------------//
                             try {
                                 String desc = doc.select("meta[name=description]").get(0)
                                         .attr("content").replaceAll("'"," ").replace('"', ' ');

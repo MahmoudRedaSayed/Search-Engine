@@ -17,7 +17,7 @@ import java.io.IOException;
 
 public class Ranker {
     private DataBasePackages.DataBase.DataBase dataBaseObject = new DataBasePackages.DataBase.DataBase();
-    private PageParsing pageParsing = new PageParsing();
+//    private PageParsing pageParsing = new PageParsing();
     private QueryProcessing queryProcessingObject;
 
     {
@@ -189,7 +189,7 @@ public class Ranker {
                 int charTempType22 = stringSplits[j - 1].indexOf('[');
                 String idOfCurrentPage = stringSplits[j - 1].substring(charTempType22 + 1, stringSplits[j - 1].indexOf(','));                //to get id of current page
                 arr[j - 1] = Integer.parseInt(idOfCurrentPage);
-                long lengthOfPage = pageParsing.getLengthOfPageContent(Integer.parseInt(idOfCurrentPage));   //try to get pageID
+//                long lengthOfPage = pageParsing.getLengthOfPageContent(Integer.parseInt(idOfCurrentPage));   //try to get pageID
                 int charTempType = stringSplits[j - 1].indexOf(',');
                 char charTemp = stringSplits[j - 1].charAt(charTempType + 1);
 
@@ -222,7 +222,7 @@ public class Ranker {
                 int qw = Integer.parseInt(idOfNextPage);
                 int qe = Integer.parseInt(idOfCurrentPage);
                 if (qw != qe) {
-                    tf = Double.valueOf(numOfOccerrencesInCurrentDocument) / Double.valueOf(lengthOfPage);
+//                    tf = Double.valueOf(numOfOccerrencesInCurrentDocument) / Double.valueOf(lengthOfPage);
                     Ids_numOfOccurrences.put(Integer.parseInt(idOfCurrentPage), tf);          //put id and numOfOccerrencesInCurrentDocument into the map
                     numOfOccerrencesInCurrentDocument = 0;
                 }

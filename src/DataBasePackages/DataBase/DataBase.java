@@ -2,6 +2,7 @@ package DataBasePackages.DataBase;
 import java.time.format.DateTimeFormatter;
 
 import com.mysql.cj.xdevapi.Result;
+import org.json.JSONObject;
 
 import java.sql.*;
 import java.sql.ResultSet;
@@ -199,12 +200,14 @@ public synchronized Boolean getLinkByID (Integer ID, StringBuffer linkUrl, Strin
         try{
             if(Layer==1)
             {
-                ResultSet resultSet= this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+";");
+                ResultSet resultSet= this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+" AND Completed=0;");
                 while(resultSet.next())
                 {
                     grandLink.append(resultSet.getString("Link"));
+                    return this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+" AND Completed=0;");
                 }
-                return this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+";");
+                //If the parent  link is completed
+                Thread.currentThread().interrupt();
             }
             else if(Layer==2)
             {
@@ -219,9 +222,12 @@ public synchronized Boolean getLinkByID (Integer ID, StringBuffer linkUrl, Strin
                     }
 
                 }
+                //If the parent  link is completed
+                Thread.currentThread().interrupt();
             }
-            else if (Layer==3)
+            else if (Layer==3||Layer-1==3)
             {
+                Layer-=1;
                 ResultSet resultSet= this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+" AND Completed=0;");
                 while(resultSet.next())
                 {
@@ -241,6 +247,8 @@ public synchronized Boolean getLinkByID (Integer ID, StringBuffer linkUrl, Strin
 
 
                 }
+                //If the parent  link is completed
+                Thread.currentThread().interrupt();
             }
         }
         catch(SQLException e)
@@ -355,6 +363,55 @@ public synchronized Boolean getLinkByID (Integer ID, StringBuffer linkUrl, Strin
         }
     }
     // ---------------------------------------------------------------------------------------------------------------------//
+    //------------------------------------------function to add paragraphs and headers and title and itemlists-------------//
+    public void addElements(int id,String paragraphs,String title,String headers,String itemLists,String strong)
+    {
+        try {
+            this.stmt.executeUpdate("UPDATE links SET Paragraph='" + paragraphs + "' WHERE Id=" + id + ";");
+            this.stmt.executeUpdate("UPDATE links SET Title='" + title + "' WHERE Id=" + id + ";");
+            this.stmt.executeUpdate("UPDATE links SET Headers='" + headers + "' WHERE Id=" + id + ";");
+            this.stmt.executeUpdate("UPDATE links SET ListItems='" + itemLists + "' WHERE Id=" + id + ";");
+            this.stmt.executeUpdate("UPDATE links SET Strong='" + strong + "' WHERE Id=" + id + ";");
+        }
+        catch (SQLException e)
+        {
+
+        }
+    }
+    //---------------------------------------------------------------------------------------------------------------------//
+    //-----------------------------------------------get Link Content--------------------------------------------------//
+    public String getContent(int id)
+    {
+        try {
+            System.out.println("SELECT CONCAT(Paragraph,Headers,Title,Strong,ListItems) as 'content' FROM `links` WHERE Id="+id+";");
+            ResultSet resultSet=this.stmt.executeQuery("SELECT CONCAT(Paragraph,Headers,Title,Strong,ListItems) as 'content' FROM `links` WHERE Id="+id+";");
+            while(resultSet.next())
+            {
+                return resultSet.getString("content");
+            }
+        }
+        catch(SQLException e)
+        {
+            System.out.println(e);
+        }
+        return "none";
+    }
+    // ---------------------------------------------------------------------------------------------------------------------//
+    //------------------------------------------get Links Contents----------------------------------------------------------//
+    public ResultSet getContents(String content)
+    {
+        try {
+           ResultSet resultSet=this.stmt.executeQuery("Select * From links where CONCAT(Paragraph,Headers,Title,Strong,ListItems)='"+content+"';");
+           return resultSet;
+        }
+        catch(SQLException e)
+        {
+
+        }
+        return null;
+    }
+    //----------------------------------------------------------------------------------------------------------------------//
+
 
     //////////////////////////////////////////////// Mustafa : I will complete these functions /////////////////////////////
     public String getTitle(int urlId)

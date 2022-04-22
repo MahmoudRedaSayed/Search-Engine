@@ -27,6 +27,12 @@ import javax.xml.crypto.Data;
 public class Main {
 
     public static void main(String[] args) throws FileNotFoundException, JSONException {
+        UrlThread obj=new UrlThread();
+        Thread.currentThread().setName("Thread1");
+        Thread newthread=new Thread(new UrlThread());
+        newthread.setName("Thread2");
+        newthread.run();
+
 
         /*JSONArray dividedQuery =  new JSONArray();
         Ranker rankerObj = new Ranker();
@@ -70,9 +76,10 @@ public class Main {
 ////        Thread ThreadsArray[]=new Thread[43];
 ////        ThreadsArray[0]=Thread.currentThread();
 ////        ThreadsArray[0].setName("Thread1");
+////        UrlThread obj=new UrlThread();
 ////        for(int i=1;i<43;i++)
 ////        {
-////            ThreadsArray[i] = new Thread(new UrlThread());
+////            ThreadsArray[i] = new Thread(obj);
 ////            ThreadsArray[i].setName("Thread" + (i+1));
 ////            ThreadsArray[i].start();
 ////        }
