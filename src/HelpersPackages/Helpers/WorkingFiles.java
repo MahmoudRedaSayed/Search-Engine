@@ -9,7 +9,7 @@ import java.util.*;
 public class WorkingFiles {
     private static String[] stopWords;
 
-    // initialization of inverted files
+    // Creation of inverted files
     public static void createInvertedFiles()
     {
         String letters = "qwertyuiopasdfghjklzxcvbnm";
@@ -65,6 +65,23 @@ public class WorkingFiles {
         System.out.println("Inverted Files Created Successfully");
     }
 
+    // Creation of content length files
+    public static void createPageLengthFiles(int count)
+    {
+        for(int k = 1; k <= count; k++)
+        {
+
+            String path = HelperClass.contentLengthFiles(String.valueOf(k));
+            File myObj = new File(path);
+            try {
+                myObj.createNewFile();
+            } catch (IOException e) {
+                e.printStackTrace();
+                System.out.println("Failed to create the file");
+            }
+        }
+    }
+
     // read the stop words
     private static void readStopWords() throws FileNotFoundException {
         // open the file that contains stop words
@@ -117,6 +134,53 @@ public class WorkingFiles {
         }
 
         return wordsMap;
+    }
+
+    // add the passed count to the file with name id.txt
+    public static void addToContentLengthFile(int id, int count)
+    {
+        String path = HelperClass.contentLengthFiles(String.valueOf(id));
+
+        // if don't return, then the file was empty --> so this is the first line to insert in it
+        FileWriter myWriter = null;
+        try {
+            myWriter = new FileWriter(path);
+        } catch (IOException e) {
+            System.out.println("this file (" + String.valueOf(id) + ".txt) is not found");
+            return;
+        }
+        try {
+            myWriter.write(String.valueOf(count));
+        } catch (IOException e) {
+            System.out.println("error in writting the words count to the file");
+            return;
+        }
+        try {
+            myWriter.close();
+        } catch (IOException e) {
+            System.out.println("Can't close the file");
+            return;
+        }
+    }
+
+    // get the count of the website words
+    public static long getWordsContent(int id)
+    {
+        String path = HelperClass.contentLengthFiles(String.valueOf(id));
+
+        Scanner read = null;
+        try {
+            read = new Scanner(new File(path));
+        } catch (FileNotFoundException e) {
+            System.out.println("Failed to read the words count");
+            return -1;
+        }
+
+        while(read.hasNextLine())
+        {
+            return Long.parseLong(read.nextLine());
+        }
+        return -1;
     }
 
 }

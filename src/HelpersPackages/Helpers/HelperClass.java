@@ -38,6 +38,14 @@ public class HelperClass {
         return filePath;
     }
 
+    // get the path of the content length files
+    public static String contentLengthFiles(String fileName)
+    {
+        String filePath = Paths.get("").normalize().toAbsolutePath().toString();
+        filePath += File.separator + "ContentLength" + File.separator + fileName + ".txt";
+        return filePath;
+    }
+
     // check if a given word is existing in a given inverted file or not
     // returns the whole line that contains this word
     public static String isExistingInFile(String word, File myFile) throws IOException {
