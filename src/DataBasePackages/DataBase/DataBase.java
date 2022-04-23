@@ -201,6 +201,7 @@ public synchronized Boolean getLinkByID (Integer ID, StringBuffer linkUrl, Strin
             if(Layer==1)
             {
                 ResultSet resultSet= this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+" AND Completed=0;");
+                System.out.printf("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+" AND Completed=0;");
                 while(resultSet.next())
                 {
                     grandLink.append(resultSet.getString("Link"));

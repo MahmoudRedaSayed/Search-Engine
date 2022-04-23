@@ -21,9 +21,9 @@ public class PageParsing {
 //    public void parseDocument(String url) throws IOException {
 //        webPage = Jsoup.connect(url).get();
 //    }
-    public PageParsing(String Url) throws  IOException
+    public PageParsing(Document Doc) throws  IOException
     {
-        webPage = Jsoup.connect(Url).get();
+        webPage = Doc;
 
     }
     // get the title of a page

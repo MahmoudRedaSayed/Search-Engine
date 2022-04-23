@@ -14,6 +14,7 @@ import java.net.URL;
 import java.net.URLDecoder;
 import java.net.URISyntaxException;
 import java.util.ArrayList;
+import java.util.Arrays;
 
 
 // Jsoup Imports
@@ -119,7 +120,12 @@ public class UrlThread implements  Runnable {
             ResultSet ParentData=DataBaseObject.getParentUrl(Thread.currentThread().getName(), parentLink,grandLink,currentLink,Layer1);
             String ParentLink="";
             int Id=-1;
-            while(ParentData!=null&&ParentData.next())
+            if(ParentData==null)
+            {
+                Thread.currentThread().interrupt();
+                return;
+            }
+            while(ParentData.next())
             {
                 Id=ParentData.getInt("LinkParent");
                 Layer1=ParentData.getInt("Layer");
@@ -501,12 +507,12 @@ public class UrlThread implements  Runnable {
                             /*
                             * this block to add the content of the link into the database put separeted
                             * */
-                            PageParsing pageContent=new PageParsing(Url);
-                            String headers=pageContent.getHeaders().toString();
-                            String title=pageContent.getTitleTag();
-                            String paragraphs=pageContent.getParagraphs().toString();
-                            String listItems=pageContent.getListItems().toString();
-                            String strongWords=pageContent.getStrongs().toString();
+                            PageParsing pageContent=new PageParsing(doc);
+                            String headers=Arrays.toString(pageContent.getHeaders()).replace("'","\\\'").replace("\"","\\\"");
+                            String title=pageContent.getTitleTag().replace("'","\\\'").replace("\"","\\\"");
+                            String paragraphs= Arrays.toString(pageContent.getParagraphs()).replace("'","\\\'").replace("\"","\\\"");
+                            String listItems=Arrays.toString(pageContent.getListItems()).replace("'","\\\'").replace("\"","\\\"");
+                            String strongWords=Arrays.toString(pageContent.getStrongs()).replace("'","\\\'").replace("\"","\\\"");
                             DataBaseObject.addElements(parentId,paragraphs,title,headers,listItems,strongWords);
 
                             //----------------------------------------------------------------------------------------------------------------------------------------------//
@@ -609,12 +615,12 @@ public class UrlThread implements  Runnable {
                             /*
                              * this block to add the content of the link into the database put separeted
                              * */
-                            PageParsing pageContent=new PageParsing(Url);
-                            String headers=pageContent.getHeaders().toString();
-                            String title=pageContent.getTitleTag();
-                            String paragraphs=pageContent.getParagraphs().toString();
-                            String listItems=pageContent.getListItems().toString();
-                            String strongWords=pageContent.getStrongs().toString();
+                            PageParsing pageContent=new PageParsing(doc);
+                            String headers=Arrays.toString(pageContent.getHeaders()).replace("'","\\\'").replace("\"","\\\"");
+                            String title=pageContent.getTitleTag().replace("'","\\\'").replace("\"","\\\"");
+                            String paragraphs= Arrays.toString(pageContent.getParagraphs()).replace("'","\\\'").replace("\"","\\\"");
+                            String listItems=Arrays.toString(pageContent.getListItems()).replace("'","\\\'").replace("\"","\\\"");
+                            String strongWords=Arrays.toString(pageContent.getStrongs()).replace("'","\\\'").replace("\"","\\\"");
                             DataBaseObject.addElements(parentId,paragraphs,title,headers,listItems,strongWords);
 
                             //----------------------------------------------------------------------------------------------------------------------------------------------//
@@ -715,12 +721,12 @@ public class UrlThread implements  Runnable {
                             /*
                              * this block to add the content of the link into the database put separeted
                              * */
-                            PageParsing pageContent=new PageParsing(Url);
-                            String headers=pageContent.getHeaders().toString();
-                            String title=pageContent.getTitleTag();
-                            String paragraphs=pageContent.getParagraphs().toString();
-                            String listItems=pageContent.getListItems().toString();
-                            String strongWords=pageContent.getStrongs().toString();
+                            PageParsing pageContent=new PageParsing(doc);
+                            String headers=Arrays.toString(pageContent.getHeaders()).replace("'","\\\'").replace("\"","\\\"");
+                            String title=pageContent.getTitleTag().replace("'","\\\'").replace("\"","\\\"");
+                            String paragraphs= Arrays.toString(pageContent.getParagraphs()).replace("'","\\\'").replace("\"","\\\"");
+                            String listItems=Arrays.toString(pageContent.getListItems()).replace("'","\\\'").replace("\"","\\\"");
+                            String strongWords=Arrays.toString(pageContent.getStrongs()).replace("'","\\\'").replace("\"","\\\"");
                             DataBaseObject.addElements(parentId,paragraphs,title,headers,listItems,strongWords);
 
                             //----------------------------------------------------------------------------------------------------------------------------------------------//

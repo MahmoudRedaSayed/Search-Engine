@@ -27,11 +27,29 @@ import javax.xml.crypto.Data;
 public class Main {
 
     public static void main(String[] args) throws FileNotFoundException, JSONException {
+        //----------------------------------------Crawler-----------------------------------------//
+        Thread ThreadsArray[]=new Thread[44];
+        ThreadsArray[0]=Thread.currentThread();
+        ThreadsArray[0].setName("Thread1");
         UrlThread obj=new UrlThread();
-        Thread.currentThread().setName("Thread1");
-        Thread newthread=new Thread(new UrlThread());
-        newthread.setName("Thread2");
-        newthread.run();
+        for(int i=1;i<44;i++)
+        {
+            ThreadsArray[i] = new Thread(obj);
+            ThreadsArray[i].setName("Thread" + (i+1));
+            ThreadsArray[i].start();
+        }
+        for(int i=1;i<43;i++)
+        {
+
+            try {
+                ThreadsArray[i].join();
+            } catch (InterruptedException e) {
+
+            }
+        }
+        //------------------------------------------------------------------------------------------//
+
+
 
 
         /*JSONArray dividedQuery =  new JSONArray();
@@ -73,34 +91,7 @@ public class Main {
 ////        UrlThread.Limit+=DataBaseObject.getCompleteCount();
 ////        System.out.printf(" the limit %d",UrlThread.Limit);
 //
-////        Thread ThreadsArray[]=new Thread[43];
-////        ThreadsArray[0]=Thread.currentThread();
-////        ThreadsArray[0].setName("Thread1");
-////        UrlThread obj=new UrlThread();
-////        for(int i=1;i<43;i++)
-////        {
-////            ThreadsArray[i] = new Thread(obj);
-////            ThreadsArray[i].setName("Thread" + (i+1));
-////            ThreadsArray[i].start();
-////        }
-////        for(int i=1;i<43;i++)
-////        {
-////
-////            try {
-////                ThreadsArray[i].join();
-////            } catch (InterruptedException e) {
-////
-////            }
-////        }
-//////
-////        try {
-////            ThreadsArray.join();
-////            ThreadsArray2.join();
-////
-////        } catch (InterruptedException e) {
-////
-////            }
-//        //   System.out.println("The limit  "+UrlThread.Limit+" The inserted  "+UrlThread.inserted);
+        
 //
 //
 //
