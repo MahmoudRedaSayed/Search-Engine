@@ -12,14 +12,14 @@ import DataBasePackages.DataBase.*;
 import HelpersPackages.Helpers.HelperClass;
 import HelpersPackages.Helpers.WorkingFiles;
 import IndexerPackages.Indexer.Indexer;
-import PhraseSearchingPackages.PhraseSearching.*;
-import ServletsPackages.ServletPackage.QuerySearch;
+//import PhraseSearchingPackages.PhraseSearching.*;
+//import ServletsPackages.ServletPackage.QuerySearch;
 import IndexerPackages.Indexer.Indexer;
 import com.mysql.cj.xdevapi.DatabaseObject;
 import com.mysql.cj.xdevapi.JsonArray;
 import com.mysql.cj.xdevapi.JsonString;
-import QueryProcessingPackages.Query.QueryProcessing;
-import RankerPackage.Ranker.*;
+//import QueryProcessingPackages.Query.QueryProcessing;
+//import RankerPackage.Ranker.*;
 import org.json.*;
 
 import javax.xml.crypto.Data;
@@ -27,11 +27,11 @@ import javax.xml.crypto.Data;
 public class Main {
 
     public static void main(String[] args) throws FileNotFoundException, JSONException {
-        UrlThread obj=new UrlThread();
+       /* UrlThread obj=new UrlThread();
         Thread.currentThread().setName("Thread1");
         Thread newthread=new Thread(new UrlThread());
         newthread.setName("Thread2");
-        newthread.run();
+        newthread.run();*/
 
 
         /*JSONArray dividedQuery =  new JSONArray();
@@ -190,6 +190,7 @@ public class Main {
 //
 //
 //        /*---------------     End Of Indexing ----------------------*/
+
 
     }
 }

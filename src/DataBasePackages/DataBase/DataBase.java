@@ -1,13 +1,7 @@
 package DataBasePackages.DataBase;
-import java.time.format.DateTimeFormatter;
-
-import com.mysql.cj.xdevapi.Result;
-import org.json.JSONObject;
 
 import java.sql.*;
 import java.sql.ResultSet;
-import java.time.format.DateTimeFormatter;
-import java.util.List;
 
 public class DataBase {
     private Connection connect;
@@ -413,35 +407,85 @@ public synchronized Boolean getLinkByID (Integer ID, StringBuffer linkUrl, Strin
     //----------------------------------------------------------------------------------------------------------------------//
 
 
-    //////////////////////////////////////////////// Mustafa : I will complete these functions /////////////////////////////
+    //////////////////////////////////////////////// Mustafa /////////////////////////////
     public String getTitle(int urlId)
     {
-        String result = "jsoup: Java HTML Parser";      // for testing only
-        return result;
+        try {
+            ResultSet resultSet=this.stmt.executeQuery("Select Title From links where Id = " + urlId);
+            while(resultSet.next())
+            {
+                return resultSet.getString("Title");
+            }
+        }
+        catch(SQLException e)
+        {
+
+        }
+        return null;
     }
 
     public String getParagraphs(int urlId)
     {
-        String result = "jsoup: Java HTML Parser";      // for testing only
-        return result;
+        try {
+            ResultSet resultSet=this.stmt.executeQuery("Select Paragraph From links where Id = " + urlId);
+            while(resultSet.next())
+            {
+                return resultSet.getString("Paragraph");
+            }
+        }
+        catch(SQLException e)
+        {
+
+        }
+        return null;
     }
 
     public String getHeaders(int urlId)
     {
-        String result = "jsoup: Java HTML Parser";      // for testing only
-        return result;
+        try {
+            ResultSet resultSet=this.stmt.executeQuery("Select Headers From links where Id = " + urlId);
+            while(resultSet.next())
+            {
+                return resultSet.getString("Headers");
+            }
+        }
+        catch(SQLException e)
+        {
+
+        }
+        return null;
     }
 
     public String getListItems(int urlId)
     {
-        String result = "jsoup: Java HTML Parser";      // for testing only
-        return result;
+        try {
+            ResultSet resultSet=this.stmt.executeQuery("Select ListItems From links where Id = " + urlId);
+            while(resultSet.next())
+            {
+                return resultSet.getString("ListItems");
+            }
+        }
+        catch(SQLException e)
+        {
+
+        }
+        return null;
     }
 
     public String getStrongs(int urlId)
     {
-        String result = "jsoup: Java HTML Parser";      // for testing only
-        return result;
+        try {
+            ResultSet resultSet=this.stmt.executeQuery("Select Strong From links where Id = " + urlId);
+            while(resultSet.next())
+            {
+                return resultSet.getString("Strong");
+            }
+        }
+        catch(SQLException e)
+        {
+
+        }
+        return null;
     }
 
     //////////////////////////////////////////////////////////////////////////////////////////////////////

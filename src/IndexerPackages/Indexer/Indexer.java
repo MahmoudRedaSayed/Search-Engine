@@ -19,6 +19,7 @@ public class Indexer implements Runnable {
     private Map<Character, Vector<String>> stopWords;
     DataBase myDB;
     File workingFile;
+    int wordCount;
 
     // constructor
     public Indexer(int urlId, DataBase dbObjReference)
@@ -26,6 +27,7 @@ public class Indexer implements Runnable {
         System.out.println("My Page ID is : " + urlId);
 
         // initialization
+        wordCount = 0;
         stopWords = WorkingFiles.getStopWordsAsMap();
         myDB = dbObjReference;
         this.urlID = urlId;
@@ -43,6 +45,9 @@ public class Indexer implements Runnable {
         titleProcessing(doc_id);
         headingProcessing(doc_id);
         paragraphProcessing(doc_id);
+
+        // add word count to its file
+        WorkingFiles.addToContentLengthFile(this.urlID, wordCount);
     }
 
     // String Processing
@@ -100,6 +105,7 @@ public class Indexer implements Runnable {
                 // here we need the link of the server path     ( Mustafa )
                 String filePath = HelperClass.invertedFilePath_V3(fileName);
                 addInfoToInvertedFile(tempWord, filePath, wordInfo);
+                wordCount++;
             }
             catch (IOException e) {
                 System.out.println("Error in adding ( "+ tempWord + '|' + wordInfo +" ) to its inverted file ");
