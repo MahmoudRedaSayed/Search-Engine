@@ -27,39 +27,39 @@ import javax.xml.crypto.Data;
 public class Main {
 
     public static void main(String[] args) throws FileNotFoundException, JSONException {
-<<<<<<< HEAD
+
        /* UrlThread obj=new UrlThread();
         Thread.currentThread().setName("Thread1");
         Thread newthread=new Thread(new UrlThread());
         newthread.setName("Thread2");
         newthread.run();*/
-=======
+
         //----------------------------------------Crawler-----------------------------------------//
-        DataBase DataBaseObject = new DataBase();
-        UrlThread.Limit+=DataBaseObject.getCompleteCount();
-        Thread ThreadsArray[]=new Thread[44];
-        Thread.currentThread().setName("Thread1");
-        UrlThread obj=new UrlThread();
-        for(int i=1;i<44;i++)
-        {
-            ThreadsArray[i] = new Thread(new UrlThread());
-            ThreadsArray[i].setName("Thread" + (i+1));
-            ThreadsArray[i].start();
+        // DataBase DataBaseObject = new DataBase();
+        // UrlThread.Limit+=DataBaseObject.getCompleteCount();
+        // Thread ThreadsArray[]=new Thread[44];
+        // Thread.currentThread().setName("Thread1");
+        // UrlThread obj=new UrlThread();
+        // for(int i=1;i<44;i++)
+        // {
+        //     ThreadsArray[i] = new Thread(new UrlThread());
+        //     ThreadsArray[i].setName("Thread" + (i+1));
+        //     ThreadsArray[i].start();
 
-        }
-            for(int i=1;i<44;i++)
-        {
+        // }
+        //     for(int i=1;i<44;i++)
+        // {
 
-            try {
-                ThreadsArray[i].join();
-            } catch (InterruptedException e) {
+        //     try {
+        //         ThreadsArray[i].join();
+        //     } catch (InterruptedException e) {
 
-            }
-        }
+        //     }
+        // }
         //------------------------------------------------------------------------------------------//
 
 
->>>>>>> 493a42f3e6b823a89456d0410ed1dbe28da15782
+
 
 
         /*JSONArray dividedQuery =  new JSONArray();
