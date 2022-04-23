@@ -12,46 +12,47 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.*;
 
-
+// TODO : for Mustafa : Don't creat all 17562 files
 public class Indexer implements Runnable {
 
-    private int urlID;
+    private String url;
     private Map<Character, Vector<String>> stopWords;
     DataBase myDB;
     File workingFile;
     int wordCount;
 
     // constructor
-    public Indexer(int urlId, DataBase dbObjReference)
+    public Indexer(String url, Map<Character, Vector<String>> stopWords, DataBase dbObjReference)
     {
-        System.out.println("My Page ID is : " + urlId);
+        System.out.println("My Page is : " + url);
 
         // initialization
         wordCount = 0;
-        stopWords = WorkingFiles.getStopWordsAsMap();
+        this.stopWords = stopWords;
         myDB = dbObjReference;
-        this.urlID = urlId;
+        this.url = url;
     }
 
     // running function
     public void run()
     {
-        this.startIndexing(urlID);
+        this.startIndexing(url);
     }
 
     // Indexing Function
-    public void startIndexing(int doc_id)
+    public void startIndexing(String url)
     {
-        titleProcessing(doc_id);
-        headingProcessing(doc_id);
-        paragraphProcessing(doc_id);
+        titleProcessing(url);
+        headingProcessing(url);
+        paragraphProcessing(url);
 
         // add word count to its file
-        WorkingFiles.addToContentLengthFile(this.urlID, wordCount);
+        url = url.substring(url.indexOf("www")); // removing the https:// from the url
+        WorkingFiles.addToContentLengthFile(url, wordCount);
     }
 
     // String Processing
-    private void singleStringProcessing(String str, char tag, int doc_ic)    // tag --> ('t' = page title, 'h' = "heading", 'p' = "paragraph)
+    private void singleStringProcessing(String str, char tag, String url)    // tag --> ('t' = page title, 'h' = "heading", 'p' = "paragraph)
     {
         // remove stop words
         str = removeSymbols(str);
@@ -80,7 +81,7 @@ public class Indexer implements Runnable {
             }
 
             // prepare the info of the word ( doc_id, paragraph or heading)
-            wordInfo = "[" + doc_ic + "," + tag + ']';
+            wordInfo = "[" + url + "," + tag + ']';
 
             // <--- inserting the word into the file ---->
             String fileName = "";
@@ -114,31 +115,63 @@ public class Indexer implements Runnable {
     }
 
     // Title Processing
-    private void titleProcessing(int doc_id)
+    private void titleProcessing(String url)
     {
-        String title = myDB.getTitle(doc_id);
-        singleStringProcessing(title, 't', doc_id);
+        String title = myDB.getTitle(url);
+
+        if (title.equals("[]"))
+            return;
+
+        // removing the https:// from the url
+        url = url.substring(url.indexOf("www"));
+
+        // indexing step
+        singleStringProcessing(title, 't', url);
     }
 
     // headings processing  ( h1, h2, h3 )
-    private void headingProcessing(int doc_id)
+    private void headingProcessing(String url)
     {
         // Headers
-        String headers = myDB.getHeaders(doc_id);
-        singleStringProcessing(headers, 'h', doc_id);
+        String headers = myDB.getHeaders(url);
+
+        if (headers.equals("[]"))
+            return;
+
+        // removing the https:// from the url
+        String tempUrl = url.substring(url.indexOf("www"));
+
+        // indexing
+        singleStringProcessing(headers, 'h', tempUrl);
 
         // <strong>
-        String strongs = myDB.getStrongs(doc_id);
-        singleStringProcessing(strongs, 's', doc_id);
+        String strongs = myDB.getStrongs(url);
+
+        if (strongs.equals("[]"))
+            return;
+
+        // removing the https:// from the url
+        url = url.substring(url.indexOf("www"));
+
+        // indexing
+        singleStringProcessing(strongs, 's', url);
 
     }
 
     // paragraph processing
-    private void paragraphProcessing(int doc_id)
+    private void paragraphProcessing(String url)
     {
         // for <p> tags
-        String data = myDB.getParagraphs(doc_id);
-        singleStringProcessing(data, 'p', doc_id);
+        String data = myDB.getParagraphs(url);
+
+        if (data.equals("[]"))
+            return;
+
+        // removing the https:// from the url
+        url = url.substring(url.indexOf("www"));
+
+        // indexing
+        singleStringProcessing(data, 'p', url);
     }
 
     // checking whether stop word or not
@@ -155,7 +188,10 @@ public class Indexer implements Runnable {
     // remove non-important symbols
     private String removeSymbols(String str)
     {
-        str = str.replaceAll("[~@#$%^&*(){}|+:,.!;/1234567890]", "");  // replaced with a space, to use the space as a separator in splitting the string
+        // TODO : replace the /" or /' by " or '
+        str = str.replaceAll("[\\[~@#$%^&*()\\-{}|+:,.!;/1234567890\\]]", "");  // replaced with a space, to use the space as a separator in splitting the string
+        str = str.replaceAll("\\\"","\"");
+        str = str.replaceAll("\\\'","\'");
         str = str.replaceAll("\\s+", "&");  // remove spaces
         return str;
     }

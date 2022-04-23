@@ -137,16 +137,22 @@ public class WorkingFiles {
     }
 
     // add the passed count to the file with name id.txt
-    public static void addToContentLengthFile(int id, int count)
+    public static void addToContentLengthFile(String url, int count)
     {
-        String path = HelperClass.contentLengthFiles(String.valueOf(id));
+        String path = HelperClass.contentLengthFiles(url);
+        File targetFile = new File(path);
+        try {
+            targetFile.createNewFile();
+        } catch (IOException e) {
+            System.out.println("Failed to create this file -->" + url + ".txt");
+        }
 
         // if don't return, then the file was empty --> so this is the first line to insert in it
         FileWriter myWriter = null;
         try {
-            myWriter = new FileWriter(path);
+            myWriter = new FileWriter(path, false);// false to re-new the content not append
         } catch (IOException e) {
-            System.out.println("this file (" + String.valueOf(id) + ".txt) is not found");
+            System.out.println("this file (" + url + ".txt) is not found");
             return;
         }
         try {
@@ -164,9 +170,9 @@ public class WorkingFiles {
     }
 
     // get the count of the website words
-    public static long getWordsContent(int id)
+    public static long getWordsContent(String url)
     {
-        String path = HelperClass.contentLengthFiles(String.valueOf(id));
+        String path = HelperClass.contentLengthFiles(url);
 
         Scanner read = null;
         try {

@@ -1,1 +1,9 @@
-/TV|[1,t]:3;[1,h]:3;[1,s]:3;[1,p]:3;
+/qa|[www.javatpoint.com,p]:6;
+/io|[www.javatpoint.com,p]:6;
+/db|[www.javatpoint.com,p]:6;
+/ui|[www.javatpoint.com,p]:6;
+/ms|[www.javatpoint.com,p]:6;
+/bi|[www.javatpoint.com,p]:6;
+/vi|[www.javatpoint.com,p]:6;
+/es|[www.javatpoint.com,p]:6;
+/hr|[www.javatpoint.com,p]:5;

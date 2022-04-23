@@ -1,5 +1,0 @@
-/additional|[3,p]:2;[2,p]:2;[8,s]:1;[10,h]:1;[8,p]:2;
-/address|[2,p]:1;[8,p]:1;
-/addimage|[2,p]:1;
-/addnoiseimage|[2,p]:1;
-/adds|[8,p]:1;

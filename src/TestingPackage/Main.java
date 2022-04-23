@@ -107,93 +107,83 @@ public class Main {
 //
 //        ///////////////////////////////////////////////////////
 //
-//        /*---------------     Start Indexing ----------------------*/
-//
-//
-//
-//
-//        // connect to db
+        /*---------------     Start Indexing ----------------------*/
+
+/*
+        // create files
+        WorkingFiles.createInvertedFiles();
+
+        // connect to db
+        DataBase connect = new DataBase();
+
+        // get stop words
+        Map<Character, Vector<String>> stopWords = WorkingFiles.getStopWordsAsMap();
+
+        // get links from db
+        ResultSet links = connect.getAllUrls();
+
+        int ID = 0;
+        String myLink = "";
+        int linksCount = connect.getCompleteCount();
+        String[] completedLinks = new String[linksCount];
+        int i = 0;
+
+        // extracting the links from the result set
+        try{
+        while (links.next()) {
+            try {
+                myLink= links.getString("Link");
+            } catch (SQLException e) {
+                continue;
+            }
+            completedLinks[i++] = myLink;
+        }
+        } catch (SQLException e) {
+                e.printStackTrace();
+            }
+
+
+        // Threading
+        int threadCount = 5,
+                counter = 0,
+                threadsCounter = 0;
+        boolean done = false;
+
+        while (! done)
+        {
+            // creating Threads
+            Thread[] threadsArr = new Thread[threadCount];
+            while (counter < size && threadsCounter < threadCount)
+            {
+                threadsArr[threadsCounter] = new Thread(new Indexer(linksInfo[counter][0], linksInfo[counter][1], files));
+                threadsArr[threadsCounter].start();;
+                counter++;
+                threadsCounter++;
+            }
+            for (int j = 0; j < threadsCounter; j++)
+            {
+                try {
+                    threadsArr[j].join();
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+            }
+            done = counter == size;
+            threadsCounter = 0;
+        }
+
+
+        System.out.println("DONE !\n");
+
+
+*/
 
 
 
-//        DataBase connect = new DataBase();
-//
-//        // get links from db
-//        ResultSet links = connect.getAllUrls();
-////        int numberOfRecords = 0;
-////        try {
-////            if(links.next()){
-////                numberOfRecords = links.getRow();
-////            }
-////        } catch (SQLException e) {
-////        }
-//        int ID = 0;
-//        String myLink = "";
-//        String[][] linksInfo = new String[6000][2];
-//        int i = 0,size = 0;
-//
-//        // extracting the links from the result set
-//        try{
-//        while (links.next()) {
-//            try {
-//                myLink= links.getString("Link");
-//                size++;
-//            } catch (SQLException e) {
-//                e.printStackTrace();
-//            }
-//            try {
-//                ID = links.getInt("Id");
-//            } catch (SQLException e) {
-//                e.printStackTrace();
-//            }
-//            linksInfo[i][0] = myLink;
-//            linksInfo[i++][1] = String.valueOf(ID);
-//        }
-//        } catch (SQLException e) {
-//                e.printStackTrace();
-//            }
-//        // needed files
-//        WorkingFiles files = new WorkingFiles(size);
-//
-//
-//        // Threading
-//        int threadCount = 5,
-//                counter = 0,
-//                threadsCounter = 0;
-//        boolean done = false;
-//
-//        while (! done)
-//        {
-//            // creating Threads
-//            Thread[] threadsArr = new Thread[threadCount];
-//            while (counter < size && threadsCounter < threadCount)
-//            {
-//                threadsArr[threadsCounter] = new Thread(new Indexer(linksInfo[counter][0], linksInfo[counter][1], files));
-//                threadsArr[threadsCounter].start();;
-//                counter++;
-//                threadsCounter++;
-//            }
-//            for (int j = 0; j < threadsCounter; j++)
-//            {
-//                try {
-//                    threadsArr[j].join();
-//                } catch (InterruptedException e) {
-//                    e.printStackTrace();
-//                }
-//            }
-//            done = counter == size;
-//            threadsCounter = 0;
-//        }
-//
-//
-//        System.out.println("DONE !\n");
-//
-//
 
-//
-//
-//
-//        /*---------------     End Of Indexing ----------------------*/
+        /*---------------     End Of Indexing ----------------------*/
+        
+
 
 
     }

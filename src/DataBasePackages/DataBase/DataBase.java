@@ -416,10 +416,10 @@ public synchronized Boolean getLinkByID (Integer ID, StringBuffer linkUrl, Strin
 
 
     //////////////////////////////////////////////// Mustafa /////////////////////////////
-    public String getTitle(int urlId)
+    public String getTitle(String url)
     {
         try {
-            ResultSet resultSet=this.stmt.executeQuery("Select Title From links where Id = " + urlId);
+            ResultSet resultSet=this.stmt.executeQuery("Select Title From links where Link = '" + url + "'");
             while(resultSet.next())
             {
                 return resultSet.getString("Title");
@@ -432,10 +432,10 @@ public synchronized Boolean getLinkByID (Integer ID, StringBuffer linkUrl, Strin
         return null;
     }
 
-    public String getParagraphs(int urlId)
+    public String getParagraphs(String url)
     {
         try {
-            ResultSet resultSet=this.stmt.executeQuery("Select Paragraph From links where Id = " + urlId);
+            ResultSet resultSet=this.stmt.executeQuery("Select Paragraph From links where Link = '" + url+ "'");
             while(resultSet.next())
             {
                 return resultSet.getString("Paragraph");
@@ -448,10 +448,10 @@ public synchronized Boolean getLinkByID (Integer ID, StringBuffer linkUrl, Strin
         return null;
     }
 
-    public String getHeaders(int urlId)
+    public String getHeaders(String url)
     {
         try {
-            ResultSet resultSet=this.stmt.executeQuery("Select Headers From links where Id = " + urlId);
+            ResultSet resultSet=this.stmt.executeQuery("Select Headers From links where Link = '" + url+ "'");
             while(resultSet.next())
             {
                 return resultSet.getString("Headers");
@@ -464,10 +464,10 @@ public synchronized Boolean getLinkByID (Integer ID, StringBuffer linkUrl, Strin
         return null;
     }
 
-    public String getListItems(int urlId)
+    public String getListItems(String url)
     {
         try {
-            ResultSet resultSet=this.stmt.executeQuery("Select ListItems From links where Id = " + urlId);
+            ResultSet resultSet=this.stmt.executeQuery("Select ListItems From links where Link = '" + url+ "'");
             while(resultSet.next())
             {
                 return resultSet.getString("ListItems");
@@ -480,10 +480,10 @@ public synchronized Boolean getLinkByID (Integer ID, StringBuffer linkUrl, Strin
         return null;
     }
 
-    public String getStrongs(int urlId)
+    public String getStrongs(String url)
     {
         try {
-            ResultSet resultSet=this.stmt.executeQuery("Select Strong From links where Id = " + urlId);
+            ResultSet resultSet=this.stmt.executeQuery("Select Strong From links where Link = '" + url+ "'");
             while(resultSet.next())
             {
                 return resultSet.getString("Strong");
