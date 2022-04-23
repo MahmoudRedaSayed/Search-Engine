@@ -12,13 +12,13 @@ import DataBasePackages.DataBase.*;
 import HelpersPackages.Helpers.HelperClass;
 import HelpersPackages.Helpers.WorkingFiles;
 import IndexerPackages.Indexer.Indexer;
-//import PhraseSearchingPackages.PhraseSearching.*;
+import PhraseSearchingPackages.PhraseSearching.*;
 //import ServletsPackages.ServletPackage.QuerySearch;
 import IndexerPackages.Indexer.Indexer;
 import com.mysql.cj.xdevapi.DatabaseObject;
 import com.mysql.cj.xdevapi.JsonArray;
 import com.mysql.cj.xdevapi.JsonString;
-//import QueryProcessingPackages.Query.QueryProcessing;
+import QueryProcessingPackages.Query.QueryProcessing;
 //import RankerPackage.Ranker.*;
 import org.json.*;
 
@@ -62,25 +62,29 @@ public class Main {
 
 
 
-        /*JSONArray dividedQuery =  new JSONArray();
-        Ranker rankerObj = new Ranker();
+        JSONArray dividedQuery =  new JSONArray();
+        //Ranker rankerObj = new Ranker();
         String finalJSONARRAY;
         QueryProcessing obj = new QueryProcessing();
         PhraseSearching phraseSearchingObj = new PhraseSearching();
         String searchingQuery;
         ArrayList<String> rankerArray=new ArrayList<String>();
-        searchingQuery = "Additional is am additional";
+        searchingQuery = "Additional is additional";
         System.out.println(searchingQuery);
-        finalJSONARRAY = obj.run(searchingQuery, rankerArray, dividedQuery);*/
+        finalJSONARRAY = phraseSearchingObj.run(searchingQuery, rankerArray, dividedQuery);
+        HashMap<String, Double> toBeSorted = new HashMap<String, Double>();
+        toBeSorted.put("link1", 0.25);
+        toBeSorted.put("Link2", 0.5);
+        toBeSorted.put("Link3", 0.45);
 
 //        Map<Integer,Double> rankingResult= rankerObj.calculateRelevance(rankerArray);
 //        HashMap<Integer,Double> toBeSorted = new HashMap<Integer,Double>(rankingResult);
-//        HashMap<Integer,Double> sortedRankerMap = QueryProcessing.sortByValue(toBeSorted);
+         HashMap<String,Double> sortedRankerMap = QueryProcessing.sortByValue(toBeSorted);
 //        HashMap<String,Double> linksRankedMap = QueryProcessing.replaceIDByLink(toBeSorted);
 
-        /*System.out.println(finalJSONARRAY);
+        System.out.println(finalJSONARRAY);
         System.out.println(dividedQuery.toString());
-        System.out.println(rankerArray.toString());*/
+        System.out.println(rankerArray.toString());
 
 //        DataBase databaseObj  = new DataBase();
 //        System.out.println(databaseObj.getCompleteCount());

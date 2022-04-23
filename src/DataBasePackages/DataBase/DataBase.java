@@ -143,15 +143,13 @@ public class DataBase {
 
 
 //---------------------------------------get link by ID  -------------------------------------------------------------//
-public synchronized Boolean getLinkByID (Integer ID, StringBuffer linkUrl, StringBuffer description)
+public synchronized Boolean getDescription (String linkUrl, StringBuffer description)
 {
     try{
         //String query = "Select Link FROM links WHERE Id= " + ID +" ";
         String query = "Select * FROM links";
-        ResultSet resultSet = this.stmt.executeQuery("Select Link, Descripation FROM links WHERE Id= " + ID +";");
+        ResultSet resultSet = this.stmt.executeQuery("Select Descripation FROM links WHERE Link= '" + linkUrl +"';");
         resultSet.next();
-        String linkResult = resultSet.getString("Link");
-        linkUrl.append(linkResult);
         String descriptionResult = resultSet.getString("Descripation");
         description.append(descriptionResult);
         return true;
