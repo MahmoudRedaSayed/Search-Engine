@@ -207,6 +207,13 @@ public synchronized Boolean getLinkByID (Integer ID, StringBuffer linkUrl, Strin
                     grandLink.append(resultSet.getString("Link"));
                     return this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+" AND Completed=0;");
                 }
+
+//                ResultSet resultSet2= this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+" AND Completed=1;");
+//                while(resultSet2.next())
+//                {
+//                    grandLink.append(resultSet2.getString("Link"));
+//                    return this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+" AND Completed=1;");
+//                }
                 //If the parent  link is completed
                 Thread.currentThread().interrupt();
             }

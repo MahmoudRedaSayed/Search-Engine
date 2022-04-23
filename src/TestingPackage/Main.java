@@ -28,17 +28,19 @@ public class Main {
 
     public static void main(String[] args) throws FileNotFoundException, JSONException {
         //----------------------------------------Crawler-----------------------------------------//
+        DataBase DataBaseObject = new DataBase();
+        UrlThread.Limit+=DataBaseObject.getCompleteCount();
         Thread ThreadsArray[]=new Thread[44];
-        ThreadsArray[0]=Thread.currentThread();
-        ThreadsArray[0].setName("Thread1");
+        Thread.currentThread().setName("Thread1");
         UrlThread obj=new UrlThread();
         for(int i=1;i<44;i++)
         {
-            ThreadsArray[i] = new Thread(obj);
+            ThreadsArray[i] = new Thread(new UrlThread());
             ThreadsArray[i].setName("Thread" + (i+1));
             ThreadsArray[i].start();
+
         }
-        for(int i=1;i<43;i++)
+            for(int i=1;i<44;i++)
         {
 
             try {
@@ -102,7 +104,10 @@ public class Main {
 //
 //
 //
-////        // connect to db
+//        // connect to db
+
+
+
 //        DataBase connect = new DataBase();
 //
 //        // get links from db

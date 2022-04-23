@@ -83,7 +83,7 @@ public class UrlThread implements  Runnable {
     {
         System.out.printf("From the constructor\n");
         DataBaseObject=new DataBase();
-        Limit+=DataBaseObject.getCompleteCount();
+        //Limit+=DataBaseObject.getCompleteCount();
     }
     //---------------------------------------------------------------//
 
@@ -97,59 +97,52 @@ public class UrlThread implements  Runnable {
             and get the parent link of the required link
             and will call the linkProcessing function
     */
-    public void run()
-    {
+    public void run() {
 
-    try
-        {
+//        synchronized (this) {
+        try {
+                // query to get the url index and layer to start from
+                ResultSet Position = DataBaseObject.getThreadPosition(Thread.currentThread().getName());
 
-            // query to get the url index and layer to start from
-            ResultSet Position =DataBaseObject.getThreadPosition(Thread.currentThread().getName());
+                // give it the link of the parent and in the inner loop will skip until reach to the target link
+                int Layer1 = -1;
+                while (Position.next()) {
+                    FirstUrlLayer1 = Position.getInt("UrlIndex1");
+                    FirstUrlLayer2 = Position.getInt("UrlIndex2");
+                    FirstUrlLayer3 = Position.getInt("UrlIndex3");
+                    Layer1 = Position.getInt("Layer");
+                }
 
-            // give it the link of the parent and in the inner loop will skip until reach to the target link
-            int Layer1=-1;
-            while(Position.next())
-            {
-                FirstUrlLayer1=Position.getInt("UrlIndex1");
-                FirstUrlLayer2=Position.getInt("UrlIndex2");
-                FirstUrlLayer3=Position.getInt("UrlIndex3");
-                Layer1=Position.getInt("Layer");
-            }
-            parentLink.delete(0,parentLink.length()); grandLink.delete(0,parentLink.length());
-            currentLink="";
-            ResultSet ParentData=DataBaseObject.getParentUrl(Thread.currentThread().getName(), parentLink,grandLink,currentLink,Layer1);
-            String ParentLink="";
-            int Id=-1;
-            if(ParentData==null)
-            {
-                Thread.currentThread().interrupt();
-                return;
-            }
-            while(ParentData.next())
-            {
-                Id=ParentData.getInt("LinkParent");
-                Layer1=ParentData.getInt("Layer");
-            }
-            if(Layer1==1)
-            {
-                linkProcessing(grandLink.toString(),Layer1,FirstUrlLayer1,FirstUrlLayer2,FirstUrlLayer3,Id);
-            }
-            else if(Layer1==2)
-            {
-                linkProcessing(parentLink.toString(),Layer1,FirstUrlLayer1,FirstUrlLayer2,FirstUrlLayer3,Id);
-            }
-            else
-            {
-                linkProcessing(currentLink,Layer1,FirstUrlLayer1,FirstUrlLayer2,FirstUrlLayer3,Id);
-            }
+                parentLink.delete(0, parentLink.length());
+                grandLink.delete(0, parentLink.length());
+                currentLink = "";
+                ResultSet ParentData = DataBaseObject.getParentUrl(Thread.currentThread().getName(), parentLink, grandLink, currentLink, Layer1);
+                String ParentLink = "";
+                int Id = -1;
+                if (ParentData == null) {
+                    Thread.currentThread().interrupt();
+                    return;
+                }
+                while (ParentData!= null && ParentData.next()) {
+                    Id = ParentData.getInt("LinkParent");
+                    Layer1 = ParentData.getInt("Layer");
+                }
+                if (Layer1 == 1) {
+                    linkProcessing(grandLink.toString(), Layer1, FirstUrlLayer1, FirstUrlLayer2, FirstUrlLayer3, Id);
+                } else if (Layer1 == 2) {
+                    linkProcessing(parentLink.toString(), Layer1, FirstUrlLayer1, FirstUrlLayer2, FirstUrlLayer3, Id);
+                } else {
+                    linkProcessing(currentLink, Layer1, FirstUrlLayer1, FirstUrlLayer2, FirstUrlLayer3, Id);
+                }
 
-        }
+            }
     catch(SQLException e)
-        {
-            System.out.println(e);
-        }
+            {
+                System.out.println(e);
+            }
 
-    }
+        }
+    //}
 
     //---------------------------------------------------------------//
 
@@ -557,7 +550,7 @@ public class UrlThread implements  Runnable {
 
                                     forbidden=DisallowedCheck(Disallowed,Allowed,link.attr("href"));
 
-                                    if (getLimit() < 6000 && result != "-1"&&!forbidden) {
+                                    if (getLimit() < 5000 && result != "-1"&&!forbidden) {
                                         try {
                                             //-----------------------------------------------------------------------------------------------------------------//
                                             // this part to check if the link is inserted by another thread or not
@@ -583,7 +576,7 @@ public class UrlThread implements  Runnable {
 
                                         }
 
-                                    } else if (getLimit() >= 6000) {
+                                    } else if (getLimit() >= 5000) {
                                         // query to set the layer and the index to 0 setThread Position
                                         DataBaseObject.setThreadPosition(Thread.currentThread().getName(), -1, 0);
                                         Thread.currentThread().interrupt();
@@ -665,7 +658,7 @@ public class UrlThread implements  Runnable {
 
                                     forbidden=DisallowedCheck(Disallowed,Allowed,link.attr("href"));
 
-                                    if (getLimit() < 6000 && result != "-1"&&!forbidden) {
+                                    if (getLimit() < 5000 && result != "-1"&&!forbidden) {
                                         try {
                                             //-----------------------------------------------------------------------------------------------------------------//
                                             // this part to check if the link is inserted by another thread or not
@@ -691,7 +684,7 @@ public class UrlThread implements  Runnable {
 
                                         }
 
-                                    } else if (getLimit() >= 6000) {
+                                    } else if (getLimit() >= 5000) {
                                         // query to set the layer and the index to 0 setThread Position
                                         DataBaseObject.setThreadPosition(Thread.currentThread().getName(), -1, 0);
                                         Thread.currentThread().interrupt();
@@ -770,7 +763,7 @@ public class UrlThread implements  Runnable {
 
                                     forbidden=DisallowedCheck(Disallowed,Allowed,link.attr("href"));
 
-                                    if (getLimit() < 6000 && result != "-1"&&!forbidden) {
+                                    if (getLimit() < 5000 && result != "-1"&&!forbidden) {
                                         try {
                                             //-----------------------------------------------------------------------------------------------------------------//
                                             // this part to check if the link is inserted by another thread or not
@@ -796,7 +789,7 @@ public class UrlThread implements  Runnable {
 
                                         }
 
-                                    } else if (getLimit() >= 6000) {
+                                    } else if (getLimit() >= 5000) {
                                         // query to set the layer and the index to 0 setThread Position
                                         DataBaseObject.setThreadPosition(Thread.currentThread().getName(), -1, 0);
                                         Thread.currentThread().interrupt();
