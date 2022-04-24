@@ -305,7 +305,8 @@ public synchronized Boolean getDescription (String linkUrl, StringBuffer descrip
     public ResultSet getAllUrls()
     {
         try{
-            return this.stmt.executeQuery("SELECT Link, Id FROM links where Completed=1;" );
+            ResultSet result = this.stmt.executeQuery("SELECT Link FROM links where Completed=1;" );
+            return result;
         }
         catch(SQLException e)
         {
@@ -315,15 +316,17 @@ public synchronized Boolean getDescription (String linkUrl, StringBuffer descrip
 
     // ---------------------------------------------------------------------------------------------------------------------//
     //-----------------------------------------------get the number of links out from the parent link-----------------------//
-    public int getParentLinksNum(int childId)
+    public int getParentLinksNum(String url)
     {
 
         try{
-             ResultSet resultSet=this.stmt.executeQuery("SELECT LinkParent FROM links  where Id="+childId+" ;" );
+            String qq= "SELECT LinkParent FROM links  where Link='"+url+"' ;";
+             ResultSet resultSet=this.stmt.executeQuery(qq );
             while(resultSet.next())
             {
                 int parentId=resultSet.getInt("LinkParent");
-                return this.stmt.executeQuery("SELECT count(Id) as Number FROM links  where LinkParent="+parentId+" ;" ).getInt("Number");
+                String q = "SELECT count(Id) as Number FROM links  where LinkParent="+parentId+";";
+                return this.stmt.executeQuery( q).getInt("Number");
             }
         }
         catch(SQLException e)
@@ -334,21 +337,21 @@ public synchronized Boolean getDescription (String linkUrl, StringBuffer descrip
     }
     // ---------------------------------------------------------------------------------------------------------------------//
     //--------------------------------------------------function to get the parent id----------------------------------------//
-    public int getParentId(int childId)
+    public String getParentId(String url)
     {
         try{
-            ResultSet resultSet=this.stmt.executeQuery("SELECT LinkParent FROM links  where Id="+childId+" ;" );
+            ResultSet resultSet=this.stmt.executeQuery("SELECT LinkParent FROM links  where url='"+url+"' ;" );
             while(resultSet.next())
             {
-                int parentId=resultSet.getInt("LinkParent");
+                String parentId=resultSet.getString("LinkParent");
                 return parentId;
             }
         }
         catch(SQLException e)
         {
-            return -1;
+            return null;
         }
-        return -1;
+        return null;
     }
     //-----------------------------------------------------------------------------------------------------------------------//
     //-----------------------------------------------Add Link descripation--------------------------------------------------//
@@ -417,7 +420,8 @@ public synchronized Boolean getDescription (String linkUrl, StringBuffer descrip
     public String getTitle(String url)
     {
         try {
-            ResultSet resultSet=this.stmt.executeQuery("Select Title From links where Link = '" + url + "'");
+            String q = "Select Title From links where Link = '" + url + "'";
+            ResultSet resultSet=this.stmt.executeQuery(q);
             while(resultSet.next())
             {
                 return resultSet.getString("Title");

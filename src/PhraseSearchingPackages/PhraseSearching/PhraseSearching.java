@@ -51,10 +51,10 @@ public class PhraseSearching {
         // open the file that contains stop words
         String filePath = System.getProperty("user.dir");   // get the directory of the project
         System.out.println(filePath);
-        String finalfilePath = filePath.substring(0, filePath.lastIndexOf("\\")+1);
-        System.out.println(finalfilePath);
-        finalfilePath += File.separator + "helpers" + File.separator + "stop_words.txt";
-        File myFile = new File(finalfilePath);
+//        String finalfilePath = filePath.substring(0, filePath.lastIndexOf("\\")+1);
+//        System.out.println(finalfilePath);
+        filePath += File.separator + "helpers" + File.separator + "stop_words.txt";
+        File myFile = new File(filePath);
 
         this.stopWords = new String[851];
 
@@ -125,13 +125,13 @@ public class PhraseSearching {
             String filePath = System.getProperty("user.dir");   // get the directory of the project
 
             // Delete last Directory to get path of Inverted Files
-            String finalFilePath = filePath.substring(0, filePath.lastIndexOf("\\"));
+//            String finalFilePath = filePath.substring(0, filePath.lastIndexOf("\\"));
 
-            finalFilePath += File.separator + "InvertedFiles_V3" + File.separator;
+            filePath += File.separator + "InvertedFiles_V3" + File.separator;
 
-            finalFilePath += fileName + ".txt";
+            filePath += fileName + ".txt";
             //System.out.println(finalFilePath + "From Search Inverted Files");
-            File targetFile = new File(finalFilePath);
+            File targetFile = new File(filePath);
 
             QueryProcessing.searchInInvertedFiles(result[i], targetFile,oneWordResult, false);
 

@@ -15,6 +15,7 @@ import IndexerPackages.Indexer.Indexer;
 import PhraseSearchingPackages.PhraseSearching.*;
 //import ServletsPackages.ServletPackage.QuerySearch;
 import IndexerPackages.Indexer.Indexer;
+import RankerPackage.Ranker.Ranker;
 import com.mysql.cj.xdevapi.DatabaseObject;
 import com.mysql.cj.xdevapi.JsonArray;
 import com.mysql.cj.xdevapi.JsonString;
@@ -59,32 +60,33 @@ public class Main {
         //------------------------------------------------------------------------------------------//
 
 
-
-
-
         JSONArray dividedQuery =  new JSONArray();
-        //Ranker rankerObj = new Ranker();
+        Ranker rankerObj = new Ranker();
         String finalJSONARRAY;
         QueryProcessing obj = new QueryProcessing();
         PhraseSearching phraseSearchingObj = new PhraseSearching();
         String searchingQuery;
         ArrayList<String> rankerArray=new ArrayList<String>();
-        searchingQuery = "Additional is additional";
+        searchingQuery = "I want resources of egypt and infection";
         System.out.println(searchingQuery);
-        finalJSONARRAY = phraseSearchingObj.run(searchingQuery, rankerArray, dividedQuery);
-        HashMap<String, Double> toBeSorted = new HashMap<String, Double>();
-        toBeSorted.put("link1", 0.25);
-        toBeSorted.put("Link2", 0.5);
-        toBeSorted.put("Link3", 0.45);
+        finalJSONARRAY = obj.run(searchingQuery, rankerArray, dividedQuery);
+//        HashMap<String, Double> toBeSorted = new HashMap<String, Double>();
+//        toBeSorted.put("link1", 0.25);
+//        toBeSorted.put("Link2", 0.5);
+//        toBeSorted.put("Link3", 0.45);
 
-//        Map<Integer,Double> rankingResult= rankerObj.calculateRelevance(rankerArray);
-//        HashMap<Integer,Double> toBeSorted = new HashMap<Integer,Double>(rankingResult);
+        Map<String,Double> rankingResult= rankerObj.calculateRelevance(rankerArray);
+        HashMap<String,Double> toBeSorted = new HashMap<String,Double>(rankingResult);
          HashMap<String,Double> sortedRankerMap = QueryProcessing.sortByValue(toBeSorted);
 //        HashMap<String,Double> linksRankedMap = QueryProcessing.replaceIDByLink(toBeSorted);
 
-        System.out.println(finalJSONARRAY);
+        for (Map.Entry<String, Double> entry : sortedRankerMap.entrySet()) {
+            System.out.println(entry.getKey() + ":" + entry.getValue().toString());
+        }
+
+       /* System.out.println(finalJSONARRAY);
         System.out.println(dividedQuery.toString());
-        System.out.println(rankerArray.toString());
+        System.out.println(rankerArray.toString());*/
 
 //        DataBase databaseObj  = new DataBase();
 //        System.out.println(databaseObj.getCompleteCount());
@@ -113,9 +115,12 @@ public class Main {
 //
         /*---------------     Start Indexing ----------------------*/
 
+
 /*
+
+
         // create files
-        WorkingFiles.createInvertedFiles();
+       // WorkingFiles.createInvertedFiles();
 
         // connect to db
         DataBase connect = new DataBase();
@@ -124,30 +129,35 @@ public class Main {
         Map<Character, Vector<String>> stopWords = WorkingFiles.getStopWordsAsMap();
 
         // get links from db
-        ResultSet links = connect.getAllUrls();
+       // ResultSet links = connect.getAllUrls();
 
         int ID = 0;
         String myLink = "";
         int linksCount = connect.getCompleteCount();
-        String[] completedLinks = new String[linksCount];
+       // String[] completedLinks = new String[linksCount];
         int i = 0;
 
         // extracting the links from the result set
-        try{
-        while (links.next()) {
-            try {
-                myLink= links.getString("Link");
-            } catch (SQLException e) {
-                continue;
+
+        */
+/*try{
+            while (links.next()) {
+                try {
+                    myLink= links.getString("Link");
+                } catch (SQLException e) {
+                    continue;
+                }
+                completedLinks[i++] = myLink;
             }
-            completedLinks[i++] = myLink;
-        }
         } catch (SQLException e) {
-                e.printStackTrace();
-            }
+            e.printStackTrace();
+        }*//*
 
 
-        // Threading
+
+
+       */
+/* // Threading
         int threadCount = 5,
                 counter = 0,
                 threadsCounter = 0;
@@ -157,9 +167,9 @@ public class Main {
         {
             // creating Threads
             Thread[] threadsArr = new Thread[threadCount];
-            while (counter < size && threadsCounter < threadCount)
+            while (counter < i && threadsCounter < threadCount)
             {
-                threadsArr[threadsCounter] = new Thread(new Indexer(linksInfo[counter][0], linksInfo[counter][1], files));
+                threadsArr[threadsCounter] = new Thread(new Indexer(completedLinks[0], stopWords, connect));
                 threadsArr[threadsCounter].start();;
                 counter++;
                 threadsCounter++;
@@ -172,23 +182,47 @@ public class Main {
                     e.printStackTrace();
                 }
             }
-            done = counter == size;
+            done = counter == i;
             threadsCounter = 0;
         }
 
 
-        System.out.println("DONE !\n");
+        System.out.println("DONE !\n");*//*
+
+
 
 
 */
 
 
-
-
         /*---------------     End Of Indexing ----------------------*/
-        
+ /*WorkingFiles.createInvertedFiles();
+
+        // connect to db
+        DataBase connect = new DataBase();
+
+        // get stop words
+        Map<Character, Vector<String>> stopWords = WorkingFiles.getStopWordsAsMap();
+
+        String[] completedLinks = {
+                "https://www.javatpoint.com",
+                "https://www.marca.com",
+                "https://developer.mozilla.org",
+                "https://cplusplus.com"
+        };
+
+        for (String link : completedLinks)
+        {
+            Indexer test = new Indexer(link, stopWords, connect);
+            test.run();
+        }
+
+        System.out.println("domne");
 
 
+
+
+*/
 
     }
 }

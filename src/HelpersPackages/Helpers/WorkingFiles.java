@@ -140,6 +140,7 @@ public class WorkingFiles {
     public static void addToContentLengthFile(String url, int count)
     {
         String path = HelperClass.contentLengthFiles(url);
+        System.out.println(path);
         File targetFile = new File(path);
         try {
             targetFile.createNewFile();
@@ -173,7 +174,7 @@ public class WorkingFiles {
     public static long getWordsContent(String url)
     {
         String path = HelperClass.contentLengthFiles(url);
-
+        System.out.println(path);
         Scanner read = null;
         try {
             read = new Scanner(new File(path));

@@ -47,7 +47,8 @@ public class Indexer implements Runnable {
         paragraphProcessing(url);
 
         // add word count to its file
-        url = url.substring(url.indexOf("www")); // removing the https:// from the url
+        url = url.substring(url.indexOf("//") + 2); // removing the https:// from the url
+        url = url.replaceAll("[/]", "");
         WorkingFiles.addToContentLengthFile(url, wordCount);
     }
 
@@ -123,7 +124,7 @@ public class Indexer implements Runnable {
             return;
 
         // removing the https:// from the url
-        url = url.substring(url.indexOf("www"));
+        url = url.substring(url.indexOf("//") + 2);
 
         // indexing step
         singleStringProcessing(title, 't', url);
@@ -139,7 +140,7 @@ public class Indexer implements Runnable {
             return;
 
         // removing the https:// from the url
-        String tempUrl = url.substring(url.indexOf("www"));
+        String tempUrl = url.substring(url.indexOf("//") + 2);
 
         // indexing
         singleStringProcessing(headers, 'h', tempUrl);
@@ -151,7 +152,7 @@ public class Indexer implements Runnable {
             return;
 
         // removing the https:// from the url
-        url = url.substring(url.indexOf("www"));
+        url = url.substring(url.indexOf("//") + 2);
 
         // indexing
         singleStringProcessing(strongs, 's', url);
@@ -168,7 +169,7 @@ public class Indexer implements Runnable {
             return;
 
         // removing the https:// from the url
-        url = url.substring(url.indexOf("www"));
+        url = url.substring(url.indexOf("//") + 2);
 
         // indexing
         singleStringProcessing(data, 'p', url);
