@@ -171,23 +171,23 @@ public class WorkingFiles {
     }
 
     // get the count of the website words
-    public static long getWordsContent(String url)
-    {
-        String path = HelperClass.contentLengthFiles(url);
-        System.out.println(path);
-        Scanner read = null;
-        try {
-            read = new Scanner(new File(path));
-        } catch (FileNotFoundException e) {
-            System.out.println("Failed to read the words count");
-            return -1;
-        }
-
-        while(read.hasNextLine())
-        {
-            return Long.parseLong(read.nextLine());
-        }
-        return -1;
-    }
+//    public static long getWordsContent(String url)
+//    {
+//        String path = HelperClass.contentLengthFiles(url);
+//        System.out.println(path);
+//        Scanner read = null;
+//        try {
+//            read = new Scanner(new File(path));
+//        } catch (FileNotFoundException e) {
+//            System.out.println("Failed to read the words count");
+//            return -1;
+//        }
+//
+//        while(read.hasNextLine())
+//        {
+//            return Long.parseLong(read.nextLine());
+//        }
+//        return -1;
+//    }
 
 }

@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 5.1.1
+-- version 5.1.0
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Apr 23, 2022 at 07:10 AM
--- Server version: 10.4.22-MariaDB
--- PHP Version: 8.0.13
+-- Generation Time: Apr 24, 2022 at 05:58 PM
+-- Server version: 10.4.18-MariaDB
+-- PHP Version: 8.0.3
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -20,6 +20,17 @@ SET time_zone = "+00:00";
 --
 -- Database: `search-engine`
 --
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `lengths`
+--
+
+CREATE TABLE `lengths` (
+  `Link` text DEFAULT NULL,
+  `WordsCount` bigint(20) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 -- --------------------------------------------------------
 
@@ -5266,6 +5277,12 @@ INSERT INTO `threads` (`ThreadName`, `Layer`, `UrlIndex`, `UrlIndex1`, `UrlIndex
 --
 -- Indexes for dumped tables
 --
+
+--
+-- Indexes for table `lengths`
+--
+ALTER TABLE `lengths`
+  ADD UNIQUE KEY `Link` (`Link`) USING HASH;
 
 --
 -- Indexes for table `links`

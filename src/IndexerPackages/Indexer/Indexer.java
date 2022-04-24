@@ -1,9 +1,11 @@
 package IndexerPackages.Indexer;
-
+//<--------------------- Import -------------------------------------------->
+// data base
 import DataBasePackages.DataBase.DataBase;
+// Helpers
 import HelpersPackages.Helpers.HelperClass;
 import HelpersPackages.Helpers.WorkingFiles;
-
+// Files
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
@@ -12,7 +14,6 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.*;
 
-// TODO : for Mustafa : Don't creat all 17562 files
 public class Indexer implements Runnable {
 
     private String url;
@@ -46,10 +47,8 @@ public class Indexer implements Runnable {
         headingProcessing(url);
         paragraphProcessing(url);
 
-        // add word count to its file
-        url = url.substring(url.indexOf("//") + 2); // removing the https:// from the url
-        url = url.replaceAll("[/]", "");
-        WorkingFiles.addToContentLengthFile(url, wordCount);
+        // add word count to the database
+        myDB.addWordsCount(url, wordCount);
     }
 
     // String Processing
@@ -69,6 +68,7 @@ public class Indexer implements Runnable {
         for (int i = 0; i < size; i++)
         {
             tempWord = stringWords.get(i);
+            tempWord = tempWord.trim();
             // stemming the words
             //tempWord = HelperClass.stemTheWord(tempWord);
 
@@ -103,14 +103,17 @@ public class Indexer implements Runnable {
             }
 
             // second, inserting the word
+            String filePath = null;
             try {
                 // here we need the link of the server path     ( Mustafa )
-                String filePath = HelperClass.invertedFilePath_V3(fileName);
+                filePath = HelperClass.invertedFilePath_V3(fileName);
                 addInfoToInvertedFile(tempWord, filePath, wordInfo);
                 wordCount++;
             }
             catch (IOException e) {
                 System.out.println("Error in adding ( "+ tempWord + '|' + wordInfo +" ) to its inverted file ");
+                System.out.println("Paht : " + filePath);
+                System.out.println("Lentght = " + tempWord.length());
             }
         }
     }
@@ -120,7 +123,7 @@ public class Indexer implements Runnable {
     {
         String title = myDB.getTitle(url);
 
-        if (title.equals("[]"))
+        if (title == null || title.equals("[]"))
             return;
 
         // removing the https:// from the url
@@ -136,26 +139,21 @@ public class Indexer implements Runnable {
         // Headers
         String headers = myDB.getHeaders(url);
 
-        if (headers.equals("[]"))
+        if (headers == null || headers.equals("[]"))
             return;
 
-        // removing the https:// from the url
-        String tempUrl = url.substring(url.indexOf("//") + 2);
-
         // indexing
-        singleStringProcessing(headers, 'h', tempUrl);
+        String substring = url.substring(url.indexOf("//") + 2);
+
+        singleStringProcessing(headers, 'h', substring);
 
         // <strong>
         String strongs = myDB.getStrongs(url);
 
-        if (strongs.equals("[]"))
-            return;
-
-        // removing the https:// from the url
-        url = url.substring(url.indexOf("//") + 2);
+        if (strongs == null || strongs.equals("[]"))
 
         // indexing
-        singleStringProcessing(strongs, 's', url);
+        singleStringProcessing(strongs, 's', substring);
 
     }
 
@@ -165,7 +163,7 @@ public class Indexer implements Runnable {
         // for <p> tags
         String data = myDB.getParagraphs(url);
 
-        if (data.equals("[]"))
+        if (data == null || data.equals("[]"))
             return;
 
         // removing the https:// from the url
@@ -189,7 +187,6 @@ public class Indexer implements Runnable {
     // remove non-important symbols
     private String removeSymbols(String str)
     {
-        // TODO : replace the /" or /' by " or '
         str = str.replaceAll("[\\[~@#$%^&*()\\-{}|+:,.!;/1234567890\\]]", "");  // replaced with a space, to use the space as a separator in splitting the string
         str = str.replaceAll("\\\"","\"");
         str = str.replaceAll("\\\'","\'");
@@ -206,6 +203,7 @@ public class Indexer implements Runnable {
         if (this.workingFile == null)
         {
             System.out.println("Failed to add ^" + word + "^ to the inverted file file");
+            System.out.println("Paht : " + filePath);
             return;
         }
 

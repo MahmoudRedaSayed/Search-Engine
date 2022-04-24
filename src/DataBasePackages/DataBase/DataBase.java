@@ -2,6 +2,8 @@ package DataBasePackages.DataBase;
 
 import java.sql.*;
 import java.sql.ResultSet;
+import java.util.HashMap;
+import java.util.Map;
 
 public class DataBase {
     private Connection connect;
@@ -302,15 +304,23 @@ public synchronized Boolean getDescription (String linkUrl, StringBuffer descrip
     }
 
     //---------------------------------------------get url and its related ID-------------------------------------------//
-    public ResultSet getAllUrls()
+    public String[] getAllUrls()
     {
+        int linksCount = getCompleteCount();
+        String[] completedLinks = new String[linksCount];
+        int i = 0;
         try{
-            ResultSet result = this.stmt.executeQuery("SELECT Link FROM links where Completed=1;" );
-            return result;
+            ResultSet rs = this.stmt.executeQuery("SELECT Link FROM links where Completed = 1;" );
+            while (rs.next())
+            {
+                completedLinks[i++] = rs.getString("Link");
+            }
+            return completedLinks;
         }
         catch(SQLException e)
         {
-            return null;
+            System.out.println(e);
+            return completedLinks;
         }
     }
 
@@ -415,8 +425,7 @@ public synchronized Boolean getDescription (String linkUrl, StringBuffer descrip
     }
     //----------------------------------------------------------------------------------------------------------------------//
 
-
-    //////////////////////////////////////////////// Mustafa /////////////////////////////
+    // get the title of a website
     public String getTitle(String url)
     {
         try {
@@ -434,6 +443,7 @@ public synchronized Boolean getDescription (String linkUrl, StringBuffer descrip
         return null;
     }
 
+    // get the Paragraphs of a website
     public String getParagraphs(String url)
     {
         try {
@@ -449,7 +459,7 @@ public synchronized Boolean getDescription (String linkUrl, StringBuffer descrip
         }
         return null;
     }
-
+    // get the Headers of a website
     public String getHeaders(String url)
     {
         try {
@@ -465,7 +475,7 @@ public synchronized Boolean getDescription (String linkUrl, StringBuffer descrip
         }
         return null;
     }
-
+    // get the ListItems of a website
     public String getListItems(String url)
     {
         try {
@@ -481,7 +491,7 @@ public synchronized Boolean getDescription (String linkUrl, StringBuffer descrip
         }
         return null;
     }
-
+    // get the Strongs of a website
     public String getStrongs(String url)
     {
         try {
@@ -496,6 +506,42 @@ public synchronized Boolean getDescription (String linkUrl, StringBuffer descrip
 
         }
         return null;
+    }
+    // Add Words Count of a website
+    public void addWordsCount(String link, long count)
+    {
+        String query = "INSERT INTO lengths VALUES('" + link + "'," + count + ");";
+
+        try {
+            this.stmt.executeUpdate(query);
+        }
+        catch (SQLException e)
+        {
+            System.out.println("Error while adding the words count of the website : " + link);
+        }
+    }
+
+    // get map of words count for all websites
+    public Map<String, Long> getWordsCountAsMap()
+    {
+        Map<String, Long> resultMap = new HashMap<>();
+
+        String query = "SELECT * FROM lengths";
+
+        try {
+            ResultSet resultSet = this.stmt.executeQuery(query);
+
+            while (resultSet.next())
+            {
+                resultMap.put(resultSet.getString("Link"), resultSet.getLong("WordsCount"));
+            }
+
+        } catch (SQLException e) {
+            System.out.println("Failed to execute this query --> " + query);
+            return null;
+        }
+
+        return resultMap;
     }
 
     //////////////////////////////////////////////////////////////////////////////////////////////////////
