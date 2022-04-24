@@ -48,6 +48,7 @@ public class Indexer implements Runnable {
         paragraphProcessing(url);
 
         // add word count to the database
+        url = url.substring(url.indexOf("//") + 2);
         myDB.addWordsCount(url, wordCount);
     }
 
