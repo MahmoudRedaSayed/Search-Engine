@@ -48,13 +48,15 @@ public class Indexer implements Runnable {
         paragraphProcessing(url);
 
         // add word count to the database
-        url = url.substring(url.indexOf("//") + 2);
         myDB.addWordsCount(url, wordCount);
     }
 
     // String Processing
     private void singleStringProcessing(String str, char tag, String url)    // tag --> ('t' = page title, 'h' = "heading", 'p' = "paragraph)
     {
+        if (str == null)
+            return;
+
         // remove stop words
         str = removeSymbols(str);
 
@@ -127,9 +129,6 @@ public class Indexer implements Runnable {
         if (title == null || title.equals("[]"))
             return;
 
-        // removing the https:// from the url
-        url = url.substring(url.indexOf("//") + 2);
-
         // indexing step
         singleStringProcessing(title, 't', url);
     }
@@ -144,17 +143,13 @@ public class Indexer implements Runnable {
             return;
 
         // indexing
-        String substring = url.substring(url.indexOf("//") + 2);
-
-        singleStringProcessing(headers, 'h', substring);
+        singleStringProcessing(headers, 'h', url);
 
         // <strong>
         String strongs = myDB.getStrongs(url);
 
-        if (strongs == null || strongs.equals("[]"))
-
         // indexing
-        singleStringProcessing(strongs, 's', substring);
+        singleStringProcessing(strongs, 's', url);
 
     }
 
@@ -167,9 +162,6 @@ public class Indexer implements Runnable {
         if (data == null || data.equals("[]"))
             return;
 
-        // removing the https:// from the url
-        url = url.substring(url.indexOf("//") + 2);
-
         // indexing
         singleStringProcessing(data, 'p', url);
     }
@@ -177,7 +169,11 @@ public class Indexer implements Runnable {
     // checking whether stop word or not
     private boolean isStopWord(String word){
         try {
-            return stopWords.get(word.charAt(0)).contains(word);
+            if (word.charAt(0) >= 'A' && word.charAt(0) <= 'z')
+            {
+                return stopWords.get(word.charAt(0)).contains(word);
+            }else
+                return false;
         }
         catch (Exception e)
         {
@@ -188,7 +184,8 @@ public class Indexer implements Runnable {
     // remove non-important symbols
     private String removeSymbols(String str)
     {
-        str = str.replaceAll("[\\[~@#$%^&*()\\-{}|+:,.!;/1234567890\\]]", "");  // replaced with a space, to use the space as a separator in splitting the string
+        str = str.replaceAll("[\\[`~@#$%^&*(“)\\-{}|_=<–>+:,.!;/1234567890\\]]", "");  // replaced with a space, to use the space as a separator in splitting the string
+        str = str.replaceAll("[؟.,ٍـ،/ًٌَُ‘÷×؛’ْ~]", "");
         str = str.replaceAll("\\\"","\"");
         str = str.replaceAll("\\\'","\'");
         str = str.replaceAll("\\s+", "&");  // remove spaces
