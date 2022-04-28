@@ -1,0 +1,5 @@
+/evaluate|[https://www.everydayhealth.com/,p]:1;[https://www.mayoclinic.org/patient-care-and-health-information[https://www.everydayhealth.com/,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+,p]:1;
+/evaluated|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/evaluation|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/evapotranspiration|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;

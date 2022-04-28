@@ -1,0 +1,10 @@
+/docker|[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+/doctor|[https://www.bbc.com/,h]:1;[https://www.loc.gov,h]:1;[https://www.loc.gov,p]:1;[https://familydoctor.org/,h]:1;[https://kidshealth.org/[https://familydoctor.org/,p]:1;[https://familydoctor.org/,p]:1;[https://www.bbc.com,h]:1;[https://www.loc.gov/,h]:1;[https://www.loc.gov/,p]:1;[https://findaprovider.nemours.org/,t]:1;[https://findaprovider.nemours.org/,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+
+,p]:1;
+/doctors|[https://kidshealth.org/[https://jobs.mayoclinic.org/,p]:1;[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+
+,p]:1;
+/documentation|[https://developers.google.com/assistant,h]:1;[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;[https://www.iflscience.com/technology/,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://signup.mayoclinic.org/?applicationId=c77283b6-1f64-4808-a8af-7bbc3c45595b,p]:1;
+/docs|[https://www.iflscience.com/technology/,h]:1;
+/documents|[https://jobs.mayoclinic.org/benefits/,p]:1;[https://www.nationalarchivesstore.org/?utm_campaign=2019eStore&utm_medium=website&utm_source=nara&utm_content=organic,p]:1;[https://signup.mayoclinic.org/?applicationId=c77283b6-1f64-4808-a8af-7bbc3c45595b,p]:1;

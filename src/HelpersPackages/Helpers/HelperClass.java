@@ -34,6 +34,7 @@ public class HelperClass {
     public static String invertedFilePath_V3(String fileName)
     {
         String filePath = Paths.get("").normalize().toAbsolutePath().toString();
+        filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
         filePath += File.separator + "InvertedFiles_V3" + File.separator + fileName + ".txt";
         return filePath;
     }

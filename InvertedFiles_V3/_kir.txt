@@ -1,0 +1,2 @@
+/kirill|[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/kirtland|[https://www.dailymail.co.uk/news/index.html,p]:1;

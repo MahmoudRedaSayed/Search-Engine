@@ -1,0 +1,5 @@
+/irritation|[https://www.everydayhealth.com/,h]:1;[https://www.everydayhealth.com/,h]:1;
+/irritable|[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+/irrespective|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/irreplaceable|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/irrevocable|[https://www.mayoclinic.org/global,p]:1;

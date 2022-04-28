@@ -1,0 +1,15 @@
+/fourth|[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/founded|[https://www.dailymail.co.uk,p]:1;[https://www.sciencenewsforstudents.org,p]:1;[https://www.sciencenewsforstudents.org,p]:1;[https://www.sciencenewsforstudents.org/topics/,p]:1;[https://www.dailymail.co.uk/,p]:1;[https://www.sciencenewsforstudents.org/topic/space,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.iflscience.com/environment/russian-invasion-of-ukraine-suggests-fossil-fuel-demands-have-peaked-argues-ngo/,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/fourtime|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;
+/foundation|[https://kidshealth.org/[https://kidshealth.org/[https://kidshealth.org/[https://www.mayoclinic.org/patient-care-and-health-information[https://jobs.mayoclinic.org/,p]:1;[https://jobs.mayoclinic.org/,p]:1;[https://www.nemours.org?external_id=RE2350835010600,p]:1;[https://www.nemours.org?external_id=RE2350835010600,p]:1;[https://www.nemours.org?external_id=RE2350835010600,p]:1;[https://www.mayoclinic.org/,p]:1;[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;[https://jobs.mayoclinic.org/benefits/,p]:1;[https://jobs.mayoclinic.org/benefits/,p]:1;[https://jobs.mayoclinic.org/benefits/,p]:1;[https://www.nationalarchivesstore.org/?utm_campaign=2019eStore&utm_medium=website&utm_source=nara&utm_content=organic,p]:1;[https://jobs.mayoclinic.org/events/,p]:1;[https://jobs.mayoclinic.org/events/,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://findaprovider.nemours.org/,p]:1;[https://findaprovider.nemours.org/,p]:1;[https://signup.mayoclinic.org/?applicationId=c77283b6-1f64-4808-a8af-7bbc3c45595b,p]:1;[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;
+,p]:1;
+
+,p]:1;
+
+,p]:1;
+
+,p]:1;
+/founders|[https://jobs.mayoclinic.org/benefits/,p]:1;
+/founding|[https://www.nationalarchivesstore.org/?utm_campaign=2019eStore&utm_medium=website&utm_source=nara&utm_content=organic,p]:1;
+/fought|[https://ask.loc.gov/genealogy-local-history/,p]:1;
+/foundation's|[https://www.dailymail.co.uk/news/index.html,p]:1;

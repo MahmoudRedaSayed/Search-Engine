@@ -1,0 +1,5 @@
+/damien|[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/damietta|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;
+/dambeyen|[https://www.bbc.com/,p]:1;[https://www.bbc.com,p]:1;
+/damart|[https://discountcode.dailymail.co.uk/,p]:1;
+/damages|[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;

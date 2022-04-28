@@ -1,0 +1,13 @@
+/shimmering|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;
+/shift|[https://www.menshealth.com[https://www.menshealth.com[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.iflscience.com/environment/russian-invasion-of-ukraine-suggests-fossil-fuel-demands-have-peaked-argues-ngo/,p]:1;[https://www.iflscience.com/environment/russian-invasion-of-ukraine-suggests-fossil-fuel-demands-have-peaked-argues-ngo/,p]:1;
+,p]:1;
+,p]:1;
+/shipped|[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/shifting|[https://www.iflscience.com/environment/,h]:1;
+/shield"|[https://www.iflscience.com/technology/,h]:1;[https://www.iflscience.com/technology/,p]:1;
+/shield”|[https://www.iflscience.com/technology/,p]:1;
+/shields|[https://jobs.mayoclinic.org/benefits/,p]:1;
+/shipping|[https://www.nationalarchivesstore.org/?utm_campaign=2019eStore&utm_medium=website&utm_source=nara&utm_content=organic,p]:1;[https://www.nationalarchivesstore.org/?utm_campaign=2019eStore&utm_medium=website&utm_source=nara&utm_content=organic,p]:1;[https://www.mayoclinic.org/global,p]:1;
+/shifted|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/shielding|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/shine|[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;

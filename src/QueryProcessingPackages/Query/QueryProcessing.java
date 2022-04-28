@@ -47,7 +47,7 @@ public class QueryProcessing{
         // open the file that contains stop words
         String filePath = System.getProperty("user.dir");   // get the directory of the project
         System.out.println(filePath);
-        //String finalfilePath = filePath.substring(0, filePath.lastIndexOf("\\")+1);
+        filePath = filePath.substring(0, filePath.lastIndexOf("\\")+1);
 //        System.out.println(finalfilePath);
         filePath += File.separator + "helpers" + File.separator + "stop_words.txt";
         File myFile = new File(filePath);
@@ -232,7 +232,7 @@ public class QueryProcessing{
             String filePath = System.getProperty("user.dir");   // get the directory of the project
 
             // Delete last Directory to get path of Inverted Files
-//            String finalFilePath = filePath.substring(0, filePath.lastIndexOf("\\"));
+            filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
 
             filePath += File.separator + "InvertedFiles_V3" + File.separator;
 
@@ -266,6 +266,9 @@ public class QueryProcessing{
                     String[] finalID = temp.split(",");
 
                     String link = finalID[0];
+                    // For Karim Until here
+
+
                     StringBuffer description = new StringBuffer("");
                     JSONObject Jo = new JSONObject();
                     dataBaseObject.getDescription(link, description);

@@ -1,0 +1,3 @@
+/keitt|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/keir|[https://www.dailymail.co.uk/news/index.html,h]:1;
+/keir's|[https://www.dailymail.co.uk/news/index.html,p]:1;

@@ -1,5 +1,7 @@
 package DataBasePackages.DataBase;
 
+import IndexerPackages.Indexer.Indexer;
+
 import java.sql.*;
 import java.sql.ResultSet;
 import java.util.HashMap;
@@ -11,37 +13,37 @@ public class DataBase {
     public DataBase()
     {
         try{
-                    try{
-                            Class.forName("com.mysql.cj.jdbc.Driver");
-                       }
-                    catch(Exception e)
-                        {
+            try{
+                Class.forName("com.mysql.cj.jdbc.Driver");
+            }
+            catch(Exception e)
+            {
 
-                        }
-                    connect=DriverManager.getConnection("jdbc:mysql://localhost:3306/search-engine","root","");
-                    this.stmt=connect.createStatement();
-                    if (connect != null) {
-                        System.out.println("Connected to database");
-                    } else {
-                        System.out.println("Cannot connect to database");
-                    }
+            }
+            connect=DriverManager.getConnection("jdbc:mysql://localhost:3306/search-engine","root","");
+            this.stmt=connect.createStatement();
+            if (connect != null) {
+                System.out.println("Connected to database");
+            } else {
+                System.out.println("Cannot connect to database");
+            }
 
-                }
+        }
         catch(SQLException e)
-                {
+        {
 
-                }
+        }
     }
 
-//--------------------------------------Create Link --------------------------------------------------------------------//
+    //--------------------------------------Create Link --------------------------------------------------------------------//
     public synchronized void createLink(String Link,int Layer,String ThreadName,int ParentId)
     {
         try{
-               this.stmt.executeUpdate("INSERT INTO links (Link, Layer, ThreadName, LinkParent,Completed) VALUES ('"+Link+"', '"+Layer+"', '"+ThreadName+"', "+ParentId+",'"+0+"');");
-           }
+            this.stmt.executeUpdate("INSERT INTO links (Link, Layer, ThreadName, LinkParent,Completed) VALUES ('"+Link+"', '"+Layer+"', '"+ThreadName+"', "+ParentId+",'"+0+"');");
+        }
         catch(SQLException e)
-            {
-            }
+        {
+        }
     }
 //----------------------------------------------------------------------------------------------------------------------//
 
@@ -51,10 +53,10 @@ public class DataBase {
     {
         try{
             this.stmt.executeUpdate("UPDATE links SET Completed=1 WHERE link='"+Link+"'");
-            }
+        }
         catch(SQLException e)
-            {
-            }
+        {
+        }
     }
 //----------------------------------------------------------------------------------------------------------------------//
 
@@ -111,7 +113,7 @@ public class DataBase {
     {
         try{
             ResultSet resultSet=this.stmt.executeQuery("SELECT * FROM threads WHERE ThreadName='"+ThreadName+"'");
-           return resultSet;
+            return resultSet;
         }
         catch(SQLException e)
         {
@@ -130,7 +132,7 @@ public class DataBase {
             return null;
         }
     }
-//---------------------------------------------get the url similar to the url-------------------------------------------//
+    //---------------------------------------------get the url similar to the url-------------------------------------------//
     public synchronized ResultSet getUrls2(String Url)
     {
         try{
@@ -144,23 +146,23 @@ public class DataBase {
 // ---------------------------------------------------------------------------------------------------------------------//
 
 
-//---------------------------------------get link by ID  -------------------------------------------------------------//
-public synchronized Boolean getDescription (String linkUrl, StringBuffer description)
-{
-    try{
-        //String query = "Select Link FROM links WHERE Id= " + ID +" ";
-        String query = "Select * FROM links";
-        ResultSet resultSet = this.stmt.executeQuery("Select Descripation FROM links WHERE Link= '" + linkUrl +"';");
-        resultSet.next();
-        String descriptionResult = resultSet.getString("Descripation");
-        description.append(descriptionResult);
-        return true;
+    //---------------------------------------get link by ID  -------------------------------------------------------------//
+    public synchronized Boolean getDescription (String linkUrl, StringBuffer description)
+    {
+        try{
+            //String query = "Select Link FROM links WHERE Id= " + ID +" ";
+            String query = "Select * FROM links";
+            ResultSet resultSet = this.stmt.executeQuery("Select Descripation FROM links WHERE Link= '" + linkUrl +"';");
+            resultSet.next();
+            String descriptionResult = resultSet.getString("Descripation");
+            description.append(descriptionResult);
+            return true;
 
-    } catch (SQLException e) {
-        return false;
+        } catch (SQLException e) {
+            return false;
+        }
+
     }
-
-}
 
 
 
@@ -188,7 +190,7 @@ public synchronized Boolean getDescription (String linkUrl, StringBuffer descrip
     }
 //----------------------------------------------------------------------------------------------------------------------//
 
-//-----------------------------------------get the family of the link --------------------------------------------------//
+    //-----------------------------------------get the family of the link --------------------------------------------------//
     public synchronized ResultSet getParentUrl (String ThreadName,StringBuffer parentLink , StringBuffer grandLink , String link,int Layer)
     {
         try{
@@ -265,7 +267,7 @@ public synchronized Boolean getDescription (String linkUrl, StringBuffer descrip
 
 
 
-//------------------------------------------get the completed urls------------------------------------------------------//
+    //------------------------------------------get the completed urls------------------------------------------------------//
     public synchronized int getCompleteCount ()
     {
         try
@@ -293,7 +295,7 @@ public synchronized Boolean getDescription (String linkUrl, StringBuffer descrip
             java.sql.Date count=null;
             while(result.next())
             {
-                 count = result.getDate("columnName");
+                count = result.getDate("columnName");
             }
             return count;
         }
@@ -331,12 +333,16 @@ public synchronized Boolean getDescription (String linkUrl, StringBuffer descrip
 
         try{
             String qq= "SELECT LinkParent FROM links  where Link='"+url+"' ;";
-             ResultSet resultSet=this.stmt.executeQuery(qq );
+            ResultSet resultSet=this.stmt.executeQuery(qq );
             while(resultSet.next())
             {
                 int parentId=resultSet.getInt("LinkParent");
-                String q = "SELECT count(Id) as Number FROM links  where LinkParent="+parentId+";";
-                return this.stmt.executeQuery( q).getInt("Number");
+                String q = "SELECT count(*) as Number FROM links  where LinkParent="+parentId+";";
+                ResultSet resultSet2=this.stmt.executeQuery(qq );
+                while (resultSet2.next() )
+                {
+                    return resultSet2.getInt("Number");
+                }
             }
         }
         catch(SQLException e)
@@ -347,15 +353,21 @@ public synchronized Boolean getDescription (String linkUrl, StringBuffer descrip
     }
     // ---------------------------------------------------------------------------------------------------------------------//
     //--------------------------------------------------function to get the parent id----------------------------------------//
-    public String getParentId(String url)
+    public String getParentLink(String url)
     {
         try{
-            ResultSet resultSet=this.stmt.executeQuery("SELECT LinkParent FROM links  where url='"+url+"' ;" );
+            ResultSet resultSet=this.stmt.executeQuery("SELECT LinkParent FROM links  where Link='"+url+"' ;" );
             while(resultSet.next())
             {
-                String parentId=resultSet.getString("LinkParent");
-                return parentId;
+                int parentId=resultSet.getInt("LinkParent");
+                ResultSet resultSet2 =this.stmt.executeQuery("SELECT * FROM links  where Id="+parentId+" ;" );
+                while( resultSet2.next() )
+                {
+                    String linkParent = resultSet2.getString("Link");
+                    return linkParent;
+                }
             }
+
         }
         catch(SQLException e)
         {
@@ -370,7 +382,7 @@ public synchronized Boolean getDescription (String linkUrl, StringBuffer descrip
         try {
             this.stmt.executeUpdate("UPDATE links SET Descripation='" + desc + "' WHERE Id=" + id + ";");
         }
-         catch(SQLException e)
+        catch(SQLException e)
         {
 
         }
@@ -414,8 +426,8 @@ public synchronized Boolean getDescription (String linkUrl, StringBuffer descrip
     public ResultSet getContents(String content)
     {
         try {
-           ResultSet resultSet=this.stmt.executeQuery("Select * From links where CONCAT(Paragraph,Headers,Title,Strong,ListItems)='"+content+"';");
-           return resultSet;
+            ResultSet resultSet=this.stmt.executeQuery("Select * From links where CONCAT(Paragraph,Headers,Title,Strong,ListItems)='"+content+"';");
+            return resultSet;
         }
         catch(SQLException e)
         {
@@ -429,6 +441,7 @@ public synchronized Boolean getDescription (String linkUrl, StringBuffer descrip
     public String getTitle(String url)
     {
         try {
+            System.out.println(Thread.currentThread().getName()+   ":   Title: "  + url);
             String q = "Select Title From links where Link = '" + url + "'";
             ResultSet resultSet=this.stmt.executeQuery(q);
             while(resultSet.next())
@@ -447,6 +460,7 @@ public synchronized Boolean getDescription (String linkUrl, StringBuffer descrip
     public String getParagraphs(String url)
     {
         try {
+            System.out.println(Thread.currentThread().getName()+   ":   Paragraph: " + url);
             ResultSet resultSet=this.stmt.executeQuery("Select Paragraph From links where Link = '" + url+ "'");
             while(resultSet.next())
             {
@@ -463,6 +477,7 @@ public synchronized Boolean getDescription (String linkUrl, StringBuffer descrip
     public String getHeaders(String url)
     {
         try {
+            System.out.println(Thread.currentThread().getName()+   ":   Headers: " + url);
             ResultSet resultSet=this.stmt.executeQuery("Select Headers From links where Link = '" + url+ "'");
             while(resultSet.next())
             {

@@ -1,0 +1,11 @@
+/catalyst|[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;
+/cathedral|[https://english.ahram.org.eg/,h]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,h]:1;[https://english.ahram.org.eg/,h]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,h]:1;[https://english.ahram.org.eg/,h]:1;[https://english.ahram.org.eg/,h]:1;[https://english.ahram.org.eg/,h]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;
+;
+/catalog|[https://www.archives.gov/research/catalog,t]:1;[https://www.archives.gov/research/catalog,t]:1;
+/caterpillars|[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org/topics/,h]:1;[https://www.sciencenewsforstudents.org/topics/,h]:1;[https://www.sciencenewsforstudents.org/topics/,p]:1;[https://www.sciencenewsforstudents.org/topic/space,h]:1;
+/catalogue|[https://www.menshealth.com[https://www.menshealth.com
+,p]:1;
+,p]:1;
+/catch|[https://www.everydayhealth.com/,p]:1;[https://www.bbc.co.uk,p]:1;[https://www.everydayhealth.com/,p]:1;[https://www.bbc.co.uk,p]:1;[http://www.nowtv.com/promo/sky-sports?dcmp=ilc_SSNTV_skysports_hardcode_moredropdownlink,p]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+/categoryselect|[https://jobs.mayoclinic.org/,p]:1;[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;[https://jobs.mayoclinic.org/events/,p]:1;[https://jobs.mayoclinic.org/events/,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/categories|[https://discountcode.dailymail.co.uk/,h]:1;[https://discountcode.dailymail.co.uk/,h]:1;

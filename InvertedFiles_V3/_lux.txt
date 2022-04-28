@@ -1,0 +1,4 @@
+/luxors|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;
+/luxe'|[https://www.dailymail.co.uk/news/index.html,h]:1;
+/luxurious|[https://www.dailymail.co.uk/news/index.html,p]:1;
+/luxury|[https://www.dailymail.co.uk/news/index.html,p]:1;

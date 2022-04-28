@@ -1,0 +1,5 @@
+/judd|[https://www.menshealth.com[https://www.menshealth.com
+,h]:1;
+,h]:1;
+/judgment|[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.mayoclinic.org/global,p]:1;
+/judgments|[https://www.mayoclinic.org/global,p]:1;

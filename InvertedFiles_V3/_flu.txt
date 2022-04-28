@@ -1,0 +1,6 @@
+/fluent|[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/flutter|[https://www.javatpoint.com,p]:1;[https://developers.google.com,h]:1;[https://developers.google.com,h]:1;[https://developers.google.com,h]:1;[https://www.javatpoint.com,p]:1;[https://developers.google.com,h]:1;[https://www.javatpoint.com,p]:1;[https://developers.google.com,h]:1;[https://developers.google.com,h]:1;[https://developers.google.com,h]:1;[https://www.javatpoint.com,p]:1;[https://developers.google.com,h]:1;
+/fluid|[https://www.sciencenewsforstudents.org/topic/space,p]:1;
+/fluxes|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/fluidity|[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;
+/flurry|[https://www.dailymail.co.uk/news/index.html,p]:1;

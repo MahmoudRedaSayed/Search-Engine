@@ -1,0 +1,2 @@
+/ropa|[https://www.marca.com,h]:1;
+/rope|[https://www.dailymail.co.uk/news/index.html,h]:1;

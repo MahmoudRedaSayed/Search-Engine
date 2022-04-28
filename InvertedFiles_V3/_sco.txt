@@ -1,0 +1,10 @@
+/scores|[https://www.skysports.com/,t]:1;[https://www.skysports.com/,t]:1;[https://www.france24.com,p]:1;[https://www.skysports.com/,t]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.skysports.com/,t]:1;[https://www.skysports.com/,t]:1;[https://www.skysports.com/,t]:1;[https://www.france24.com,p]:1;[https://www.dailymail.co.uk/,h]:1;[http://www.nowtv.com/promo/sky-sports?dcmp=ilc_SSNTV_skysports_hardcode_moredropdownlink,p]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+/scotland|[https://www.bbc.co.uk,p]:1;[https://www.nationalgeographic.com,p]:1;[https://www.bbc.co.uk,p]:1;
+/scott|[https://www.loc.gov,h]:1;[https://www.loc.gov/,h]:1;
+/scopes|[https://discountcode.dailymail.co.uk/,p]:1;
+/scottsdale|[https://www.mayoclinic.org/,h]:1;[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;
+/scottish|[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/,p]:1;[https://www.iflscience.com/environment/,p]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/scotland's|[https://www.iflscience.com/environment/,h]:1;
+/scoop|[https://www.healthline.com/fitness,p]:1;
+/scour|[https://www.dailymail.co.uk/news/index.html,h]:1;
+/scouring|[https://www.dailymail.co.uk/news/index.html,p]:1;

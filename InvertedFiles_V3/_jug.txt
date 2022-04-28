@@ -1,0 +1,2 @@
+/jugadores|[https://www.marca.com,h]:1;[https://www.marca.com,h]:1;[https://www.marca.com,h]:1;
+/jugón|[https://www.marca.com,h]:1;

@@ -1,0 +1,6 @@
+/slaughtered|[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;
+/slavery|[https://www.bbc.co.uk,h]:1;[https://www.bbc.co.uk,h]:1;
+/slapped|[https://www.dailymail.co.uk/news/index.html,h]:1;
+/slasher|[https://www.dailymail.co.uk/news/index.html,h]:1;
+/slap'|[https://www.dailymail.co.uk/news/index.html,p]:1;
+/slammed|[https://www.dailymail.co.uk/news/index.html,p]:1;

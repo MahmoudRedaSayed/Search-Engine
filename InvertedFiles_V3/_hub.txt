@@ -1,0 +1,1 @@
+/hub|[https://www.sky.com,p]:1;

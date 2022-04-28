@@ -1,0 +1,2 @@
+/atoms|[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org/topics/,h]:1;[https://www.sciencenewsforstudents.org/topics/,h]:1;[https://www.sciencenewsforstudents.org/topic/space,h]:1;
+/atomic|[https://www.iflscience.com/environment/tonga-volcanic-eruption-was-the-most-powerful-this-century-new-paper-confirms/,p]:1;

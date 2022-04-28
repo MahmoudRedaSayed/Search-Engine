@@ -1,0 +1,6 @@
+/ratings|[https://www.france24.com,p]:1;[https://english.ahram.org.eg/,h]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://www.france24.com,p]:1;[https://english.ahram.org.eg/,h]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://www.france24.com,p]:1;[https://english.ahram.org.eg/,h]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://english.ahram.org.eg/,h]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;
+/rate|[https://www.healthline.com/nutrition,p]:1;[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;[https://www.nationalarchivesstore.org/?utm_campaign=2019eStore&utm_medium=website&utm_source=nara&utm_content=organic,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/ratified|[https://ask.loc.gov/genealogy-local-history/,p]:1;
+/rationale|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/rates|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/rats|[https://www.dailymail.co.uk/news/index.html,p]:1;

@@ -1,0 +1,14 @@
+/helmy|[https://english.ahram.org.eg/,h]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,h]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,h]:1;[https://english.ahram.org.eg/,h]:1;[https://english.ahram.org.eg/,p]:1;
+/held|[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk/,h]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+/helped|[https://www.menshealth.com[https://www.everydayhealth.com/,h]:1;[https://www.menshealth.com[https://www.everydayhealth.com/,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+,h]:1;
+,h]:1;
+/helps|[https://www.menshealth.com[https://www.menshealth.com[https://ask.loc.gov/,p]:1;[https://ask.loc.gov/film-tv-video,p]:1;[https://jobs.mayoclinic.org/benefits/,p]:1;[https://jobs.mayoclinic.org/benefits/,p]:1;[https://ask.loc.gov/genealogy-local-history/,p]:1;[https://ask.loc.gov/history-humanities-social-sciences/,p]:1;[https://ask.loc.gov/law,p]:1;[https://ask.loc.gov/manuscripts,p]:1;
+,h]:1;
+,h]:1;
+/helpful|[https://www.everydayhealth.com/,p]:1;[https://www.everydayhealth.com/,p]:1;[https://www.everydayhealth.com/,p]:1;[https://www.everydayhealth.com/,p]:1;[https://www.everydayhealth.com/,p]:1;[https://www.everydayhealth.com/,p]:1;[https://www.everydayhealth.com/,p]:1;[https://www.everydayhealth.com/,p]:1;[https://www.everydayhealth.com/,p]:1;[https://www.everydayhealth.com/,p]:1;[https://www.everydayhealth.com/,p]:1;[https://www.everydayhealth.com/,p]:1;[https://www.everydayhealth.com/,p]:1;[https://www.everydayhealth.com/,p]:1;[https://www.everydayhealth.com/,p]:1;[https://www.everydayhealth.com/,p]:1;
+/help…|[https://familydoctor.org/,p]:1;
+/hellofresh|[https://discountcode.dailymail.co.uk/,p]:1;
+/hell'|[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+/helmer|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/help?|[https://f24.my/SC,p]:1;[https://help.nowtv.com/,h]:1;

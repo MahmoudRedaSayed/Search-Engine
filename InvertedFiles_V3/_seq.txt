@@ -1,0 +1,4 @@
+/sequence|[https://www.healthline.com/fitness,p]:1;
+/sequestration|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/sequestering|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/sequel|[https://www.dailymail.co.uk/news/index.html,h]:1;

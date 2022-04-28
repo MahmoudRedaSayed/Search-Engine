@@ -1,0 +1,9 @@
+/variety|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://jobs.mayoclinic.org/,p]:1;[https://jobs.mayoclinic.org/,p]:1;[https://www.iflscience.com/technology/,p]:1;[https://jobs.mayoclinic.org/benefits/,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/variables|[https://www.sciencenewsforstudents.org/topics/,p]:1;
+/variation|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/variations|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/varies|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/varied|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+/variability|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/vargas|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/vary|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;

@@ -1,0 +1,5 @@
+/lastoe|[https://www.everydayhealth.com/,p]:1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]:1;[https://www.marca.com,h]:1;[https://www.marca.com,h]:1;[https://www.marca.com,h]:1;[https://www.marca.com,p]:1;[https://www.everydayhealth.com/,p]:1;
+/lasso|[https://www.loc.gov,h]:1;[https://www.loc.gov/,h]:1;
+/laser|[https://www.iflscience.com/technology/,h]:1;[https://www.iflscience.com/technology/,p]:1;
+/lasts|[http://www.nowtv.com/promo/sky-sports?dcmp=ilc_SSNTV_skysports_hardcode_moredropdownlink,p]:1;
+/lastly|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;

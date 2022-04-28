@@ -1,0 +1,2 @@
+/echó|[https://www.marca.com,h]:1;
+/echo|[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;

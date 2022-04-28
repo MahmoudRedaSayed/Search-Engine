@@ -1,0 +1,2 @@
+/evidence|[https://www.france24.com,p]:1;[https://www.iflscience.com/,p]:1;[https://www.iflscience.com/,p]:1;[https://www.france24.com,p]:1;[https://www.iflscience.com/,p]:1;[https://www.iflscience.com/,p]:1;[https://www.iflscience.com/,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+/evidencebased|[https://www.healthline.com/nutrition,p]:1;[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;

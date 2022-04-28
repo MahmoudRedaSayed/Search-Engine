@@ -1,0 +1,6 @@
+/sleepover|[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+/sleepradiation|[https://jobs.mayoclinic.org/,p]:1;[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;[https://jobs.mayoclinic.org/events/,p]:1;[https://jobs.mayoclinic.org/events/,p]:1;
+/sleeve|[https://www.sciencenewsforstudents.org/topics/,p]:1;
+/sleeping|[https://www.sciencenewsforstudents.org/topic/space,h]:1;[https://www.sciencenewsforstudents.org/topic/space,p]:1;
+/sleeves|[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;
+/sleeper'|[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;

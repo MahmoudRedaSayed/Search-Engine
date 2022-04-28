@@ -1,0 +1,1 @@
+/mbremove|[https://jobs.mayoclinic.org/,p]:1;[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;[https://jobs.mayoclinic.org/events/,p]:1;[https://jobs.mayoclinic.org/events/,p]:1;

@@ -1,0 +1,3 @@
+/astronauts|[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org/topics/,h]:1;[https://www.sciencenewsforstudents.org/topics/,h]:1;[https://www.sciencenewsforstudents.org/topic/space,h]:1;[https://www.sciencenewsforstudents.org/topic/space,h]:1;[https://www.sciencenewsforstudents.org/topic/space,h]:1;[https://www.sciencenewsforstudents.org/topic/space,p]:1;
+/astronomers|[https://www.sciencenewsforstudents.org/topic/space,h]:1;
+/asthma|[https://www.dailymail.co.uk/news/index.html,p]:1;

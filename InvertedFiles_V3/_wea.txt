@@ -1,0 +1,9 @@
+/wealth|[https://www.dailymail.co.uk,p]:1;[https://www.iflscience.com/,p]:1;[https://www.iflscience.com/,p]:1;[https://www.iflscience.com/,p]:1;[https://www.iflscience.com/,p]:1;[https://www.iflscience.com/,p]:1;[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/wearing|[https://www.dailymail.co.uk,p]:1;[https://www.menshealth.com/mvp-exclusives/,h]:1;[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/weapons|[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.iflscience.com/technology/,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/weather|[https://www.bbc.com/,h]:1;[https://www.bbc.com,h]:1;[https://www.iflscience.com/environment/,h]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.iflscience.com/environment/russian-invasion-of-ukraine-suggests-fossil-fuel-demands-have-peaked-argues-ngo/,p]:1;
+/wealthy|[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/weather?|[https://www.iflscience.com/environment/,p]:1;
+/weak|[https://www.sciencenewsforstudents.org/topic/space,p]:1;
+/weaken|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/weakening|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;

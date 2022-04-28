@@ -1,0 +1,3 @@
+/pedido|[https://www.marca.com,h]:1;
+/pedroche|[https://www.marca.com,h]:1;
+/pediatric|[https://www.nemours.org?external_id=RE2350835010600,p]:1;[https://www.nemours.org?external_id=RE2350835010600,p]:1;[https://www.dailymail.co.uk/,p]:1;[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;

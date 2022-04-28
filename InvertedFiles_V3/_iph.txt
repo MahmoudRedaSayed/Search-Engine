@@ -1,0 +1,1 @@
+/iphone|[https://www.sky.com,h]:1;[https://www.sky.com,p]:1;

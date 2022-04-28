@@ -1,0 +1,3 @@
+/mutua|[https://www.marca.com,h]:1;
+/mutual|[https://jobs.mayoclinic.org/,p]:1;
+/mutually|[https://www.healthline.com/fitness,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;

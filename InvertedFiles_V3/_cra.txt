@@ -1,0 +1,10 @@
+/craftsmanship|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;
+/crashes|[https://www.iflscience.com/,p]:1;[https://www.iflscience.com/,p]:1;[https://www.iflscience.com/,p]:1;[https://www.iflscience.com/,p]:1;[https://www.iflscience.com/,p]:1;[https://www.iflscience.com/environment/,p]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+/crazy|[https://www.bbc.com/,p]:1;[https://www.bbc.com,p]:1;
+/crane|[https://www.loc.gov,h]:1;[https://www.loc.gov/,h]:1;
+/cramps|[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;
+/cramped|[https://www.dailymail.co.uk/news/index.html,h]:1;
+/craving|[https://www.dailymail.co.uk/news/index.html,h]:1;
+/crackaddled|[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+/cravings|[https://www.dailymail.co.uk/news/index.html,p]:1;
+/crashed|[https://www.dailymail.co.uk/news/index.html,p]:1;

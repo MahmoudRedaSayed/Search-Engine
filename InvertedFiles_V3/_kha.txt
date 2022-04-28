@@ -1,0 +1,2 @@
+/khayamiya|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;
+/khan|[https://www.bbc.com/,h]:1;[https://www.bbc.com,h]:1;

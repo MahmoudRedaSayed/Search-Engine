@@ -1,0 +1,6 @@
+/alerts|[https://www.academia.edu,p]:1;[https://www.academia.edu,p]:1;[https://www.academia.edu,p]:1;[https://www.academia.edu,p]:1;[https://www.academia.edu,p]:1;[https://jobs.mayoclinic.org/,p]:1;[https://www.dailymail.co.uk/,h]:1;[https://www.sky.com,p]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/alexandria|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/alexander|[https://www.menshealth.com[https://www.menshealth.com
+,h]:1;
+,h]:1;
+/alevel|[https://www.dailymail.co.uk/news/index.html,p]:1;

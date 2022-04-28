@@ -1,0 +1,8 @@
+/cruise|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;
+/cruxgg|[https://www.menshealth.com[https://www.menshealth.com
+,h]:1;
+,h]:1;
+/crust|[https://www.sciencenewsforstudents.org/topics/,p]:1;[https://www.sciencenewsforstudents.org/topic/space,p]:1;
+/crucial|[https://www.iflscience.com/technology/,h]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/crush|[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;
+/cruiser|[https://www.dailymail.co.uk/news/index.html,p]:1;

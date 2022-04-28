@@ -1,0 +1,6 @@
+/folklife|[https://www.loc.gov,h]:1;[https://www.loc.gov,h]:1;[https://www.loc.gov/,h]:1;[https://www.loc.gov/,h]:1;
+/folded|[https://www.loc.gov,h]:1;[https://www.loc.gov/,h]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/follow|[https://www.mayoclinic.org/,h]:1;[https://ask.loc.gov/film-tv-video,h]:1;[https://ask.loc.gov/law,h]:1;
+/folks|[https://www.iflscience.com/environment/,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;
+/foliage|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/followers|[https://f24.my/SC,p]:1;

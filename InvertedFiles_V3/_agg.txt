@@ -1,0 +1,2 @@
+/aggregate|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;
+/aggravate|[https://www.sciencenewsforstudents.org/topics/,p]:1;[https://www.sciencenewsforstudents.org/topics/,p]:1;

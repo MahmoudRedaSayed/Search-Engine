@@ -115,8 +115,8 @@ public class Indexer implements Runnable {
             }
             catch (IOException e) {
                 System.out.println("Error in adding ( "+ tempWord + '|' + wordInfo +" ) to its inverted file ");
-                System.out.println("Paht : " + filePath);
-                System.out.println("Lentght = " + tempWord.length());
+                System.out.println("Path : " + filePath);
+                System.out.println("Lentgth = " + tempWord.length());
             }
         }
     }

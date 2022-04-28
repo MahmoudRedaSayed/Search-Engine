@@ -1,0 +1,3 @@
+/juror|[https://www.bbc.co.uk,p]:1;[https://www.bbc.co.uk,p]:1;
+/jurisdiction|[https://www.mayoclinic.org/global,h]:1;
+/jury|[https://www.dailymail.co.uk/news/index.html,p]:1;

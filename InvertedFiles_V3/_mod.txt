@@ -1,0 +1,16 @@
+/modern|[https://english.ahram.org.eg/,p]:1;[https://www.menshealth.com[https://www.bbc.co.uk,h]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://www.loc.gov,h]:1;[https://www.menshealth.com[https://www.bbc.co.uk,h]:1;[https://www.sciencenewsforstudents.org/topics/,h]:1;[https://www.loc.gov/,h]:1;
+,h]:1;
+,h]:1;
+/modifying|[https://www.iflscience.com/,h]:1;[https://www.iflscience.com/,h]:1;[https://www.iflscience.com/,h]:1;[https://www.iflscience.com/,h]:1;[https://www.iflscience.com/,h]:1;[https://www.iflscience.com/,h]:1;[https://www.iflscience.com/,h]:1;[https://www.iflscience.com/,h]:1;[https://www.iflscience.com/,h]:1;[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;
+/moderna|[https://familydoctor.org/,p]:1;[https://familydoctor.org/,p]:1;
+/modalities|[https://www.healthline.com/nutrition,p]:1;
+/model|[https://www.iflscience.com/environment/,p]:1;[https://jobs.mayoclinic.org/benefits/,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/moderation|[https://www.healthline.com/fitness,p]:1;
+/moderate|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/models|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.iflscience.com/environment/tonga-volcanic-eruption-was-the-most-powerful-this-century-new-paper-confirms/,p]:1;
+/modifies|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/modifications|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;
+/modeling|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/modis|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/moderately|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/modified|[https://www.mayoclinic.org/global,p]:1;

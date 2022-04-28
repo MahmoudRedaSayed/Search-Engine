@@ -1,0 +1,4 @@
+/gym|[https://www.menshealth.com[https://www.menshealth.com
+,h]:1;
+,h]:1;
+/gyms|[https://www.healthline.com/fitness,p]:1;[https://www.healthline.com/fitness,p]:1;

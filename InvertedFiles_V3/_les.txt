@@ -1,0 +1,4 @@
+/lessons|[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.marca.com,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/lesbian's|[https://www.bbc.com/,h]:1;[https://www.bbc.com,h]:1;
+/lester|[https://www.loc.gov,h]:1;[https://www.loc.gov/,h]:1;
+/lestrange|[https://www.dailymail.co.uk/news/index.html,p]:1;

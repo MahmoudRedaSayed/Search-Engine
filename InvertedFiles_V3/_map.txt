@@ -1,0 +1,5 @@
+/maple|[https://www.loc.gov,h]:1;[https://www.mayoclinic.org/,h]:1;[https://www.loc.gov/,h]:1;[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;
+/maps|[https://www.mayoclinic.org/patient-care-and-health-information[https://www.iflscience.com/environment/,h]:1;
+,p]:1;
+/maptools|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/mapping|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;

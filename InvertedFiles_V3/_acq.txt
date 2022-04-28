@@ -1,0 +1,1 @@
+/acquire|[https://www.mayoclinic.org/global,p]:1;

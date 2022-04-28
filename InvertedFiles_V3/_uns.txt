@@ -1,0 +1,6 @@
+/unsure|[https://familydoctor.org/,h]:1;[https://www.healthline.com/nutrition,p]:1;
+/unsustainable|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/unstable|[https://f24.my/SC,p]:1;
+/unsolicited|[https://www.mayoclinic.org/global,p]:1;
+/unspoiled|[https://www.dailymail.co.uk/news/index.html,h]:1;
+/unsatisfied|[https://www.dailymail.co.uk/news/index.html,p]:1;

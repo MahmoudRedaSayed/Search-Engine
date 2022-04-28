@@ -1,0 +1,4 @@
+/doldrums|[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+/dollars|[https://jobs.mayoclinic.org/benefits/,p]:1;[https://jobs.mayoclinic.org/benefits/,p]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+/dolby|[http://www.nowtv.com/promo/sky-sports?dcmp=ilc_SSNTV_skysports_hardcode_moredropdownlink,p]:1;
+/dolgopolov|[https://www.dailymail.co.uk/news/index.html,p]:1;

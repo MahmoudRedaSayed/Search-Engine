@@ -1,0 +1,2 @@
+/avoid|[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org/topic/space,p]:1;
+/avoided|[https://www.iflscience.com/environment/,h]:1;

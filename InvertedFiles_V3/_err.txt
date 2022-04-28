@@ -1,0 +1,2 @@
+/error|[https://www.marca.com,h]:1;[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;
+/errors|[https://www.mayoclinic.org/global,h]:1;[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;

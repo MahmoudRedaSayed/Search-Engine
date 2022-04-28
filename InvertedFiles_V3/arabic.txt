@@ -1,0 +1,14 @@
+/شولتز|[https://www.bbc.com/,p]:1;[https://www.bbc.com,p]:1;
+/يحذر|[https://www.bbc.com/,p]:1;[https://www.bbc.com,p]:1;
+/من|[https://www.bbc.com/,p]:1;[https://www.bbc.com,p]:1;
+/اندلاع|[https://www.bbc.com/,p]:1;[https://www.bbc.com,p]:1;
+/حرب|[https://www.bbc.com/,p]:1;[https://www.bbc.com,p]:1;
+/عالمية|[https://www.bbc.com/,p]:1;[https://www.bbc.com,p]:1;
+/ثالثة|[https://www.bbc.com/,p]:1;[https://www.bbc.com,p]:1;
+/قد|[https://www.bbc.com/,p]:1;[https://www.bbc.com,p]:1;
+/تستخدم|[https://www.bbc.com/,p]:1;[https://www.bbc.com,p]:1;
+/فيها|[https://www.bbc.com/,p]:1;[https://www.bbc.com,p]:1;
+/أسلحة|[https://www.bbc.com/,p]:1;[https://www.bbc.com,p]:1;
+/نووية|[https://www.bbc.com/,p]:1;[https://www.bbc.com,p]:1;
+/الصفحة|[https://www.facebook.com/MensHealth,t]:1;
+/الرئيسية|[https://www.facebook.com/MensHealth,t]:1;

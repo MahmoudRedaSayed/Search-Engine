@@ -1,0 +1,4 @@
+/eye|[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.iflscience.com/technology/,h]:1;
+/eyes|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://www.sciencenewsforstudents.org/topic/space,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/eyesight|[https://www.sciencenewsforstudents.org/topic/space,h]:1;
+/eyelashlike|[https://www.sciencenewsforstudents.org/topic/space,p]:1;

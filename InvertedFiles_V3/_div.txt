@@ -1,0 +1,10 @@
+/diva|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;
+/dive|[https://www.menshealth.com[https://www.menshealth.com
+,p]:1;
+,p]:1;
+/divorció|[https://www.marca.com,h]:1;
+/division|[https://www.loc.gov,p]:1;[https://www.loc.gov/,p]:1;[https://ask.loc.gov/genealogy-local-history/,p]:1;[https://ask.loc.gov/history-humanities-social-sciences/,p]:1;[https://ask.loc.gov/manuscripts,p]:1;
+/diversity|[https://jobs.mayoclinic.org/,p]:1;
+/diverse|[https://www.nlm.nih.gov/,p]:1;[https://www.healthline.com/nutrition,p]:1;[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/divisions|[https://www.nlm.nih.gov/,p]:1;
+/divorce|[https://www.dailymail.co.uk/news/index.html,p]:1;

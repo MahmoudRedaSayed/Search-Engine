@@ -1,0 +1,6 @@
+/coast|[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.dailymail.co.uk/,h]:1;[https://www.iflscience.com/environment/,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;
+/coastal|[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;
+/coach|[https://www.menshealth.com[https://www.menshealth.com
+,p]:1;
+,p]:1;
+/coarse|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;

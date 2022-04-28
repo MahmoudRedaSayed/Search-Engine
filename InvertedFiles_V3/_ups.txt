@@ -1,0 +1,2 @@
+/upside|[https://www.iflscience.com/,h]:1;[https://www.iflscience.com/,h]:1;[https://www.iflscience.com/,h]:1;[https://www.iflscience.com/,h]:1;[https://www.iflscience.com/,h]:1;[https://www.iflscience.com/,h]:1;[https://www.iflscience.com/,h]:1;[https://www.iflscience.com/,h]:1;
+/upset|[https://www.bbc.com/,p]:1;[https://www.bbc.com,p]:1;

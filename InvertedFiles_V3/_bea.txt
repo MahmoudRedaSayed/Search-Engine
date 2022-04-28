@@ -1,0 +1,14 @@
+/beach|[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.bbc.co.uk,p]:1;[https://www.dailymail.co.uk,h]:1;[https://www.bbc.com/,h]:1;[https://www.bbc.com/,h]:1;[https://www.bbc.com/,p]:1;[https://www.bbc.co.uk,p]:1;[https://www.bbc.com,h]:1;[https://www.bbc.com,p]:1;[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/beams|[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+/beard|[https://www.menshealth.com[https://www.menshealth.com[https://www.menshealth.com/mvp-exclusives/,h]:1;[https://jobs.mayoclinic.org/benefits/,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+,h]:1;
+,h]:1;
+/beasts'?|[https://www.menshealth.com[https://www.menshealth.com
+,p]:1;
+,p]:1;
+/beaten|[https://www.bbc.co.uk,p]:1;[https://www.bbc.com/,p]:1;[https://www.bbc.co.uk,p]:1;[https://www.bbc.com,p]:1;[https://www.menshealth.com/mvp-exclusives/,h]:1;[https://www.menshealth.com/mvp-exclusives/,h]:1;[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/beats|[https://www.bbc.com/,p]:1;[https://www.bbc.com,p]:1;
+/beall|[https://www.loc.gov,h]:1;[https://www.loc.gov/,h]:1;
+/beans|[https://www.loc.gov,h]:1;[https://www.loc.gov/,h]:1;
+/beauty|[https://www.healthline.com/fitness,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;
+/beach'|[https://www.dailymail.co.uk/news/index.html,h]:1;

@@ -1,0 +1,5 @@
+/yoghurt|[https://www.bbc.co.uk,p]:1;[https://www.bbc.co.uk,p]:1;
+/yoga|[https://www.healthline.com/fitness,p]:1;[https://www.healthline.com/fitness,p]:1;[https://www.healthline.com/fitness,p]:1;
+/yogi|[https://www.healthline.com/fitness,p]:1;
+/yoga…|[https://www.healthline.com/fitness,p]:1;
+/yoga's…|[https://www.healthline.com/fitness,p]:1;

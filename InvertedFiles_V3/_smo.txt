@@ -1,0 +1,3 @@
+/smooth|[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;
+/smoothie?|[https://www.menshealth.com/mvp-exclusives/,h]:1;
+/smoother|[http://www.nowtv.com/promo/sky-sports?dcmp=ilc_SSNTV_skysports_hardcode_moredropdownlink,p]:1;

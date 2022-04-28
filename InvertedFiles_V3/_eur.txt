@@ -1,0 +1,4 @@
+/europeans|[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.iflscience.com/environment/russian-invasion-of-ukraine-suggests-fossil-fuel-demands-have-peaked-argues-ngo/,p]:1;
+/europe's|[https://www.bbc.co.uk,p]:1;[https://www.bbc.co.uk,p]:1;
+/euromillions|[https://www.bbc.co.uk,p]:1;[https://www.bbc.co.uk,p]:1;
+/europa|[https://www.marca.com,h]:1;

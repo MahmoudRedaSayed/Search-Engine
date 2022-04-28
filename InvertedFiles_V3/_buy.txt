@@ -1,0 +1,4 @@
+/buy|[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk/,h]:1;[https://www.healthline.com/nutrition,p]:1;[https://www.iflscience.com/technology/,h]:1;[https://www.iflscience.com/technology/,p]:1;[http://www.nowtv.com/promo/sky-sports?dcmp=ilc_SSNTV_skysports_hardcode_moredropdownlink,p]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+/buying|[https://www.dailymail.co.uk/,h]:1;[https://www.iflscience.com/technology/,p]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/buyer|[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;
+/buysthe|[https://www.dailymail.co.uk/news/index.html,h]:1;

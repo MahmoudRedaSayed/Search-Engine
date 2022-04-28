@@ -1,0 +1,13 @@
+/theory|[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.iflscience.com/environment/,h]:1;
+/therapists|[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+/therapies|[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org,h]:1;
+/therapeuticspain|[https://jobs.mayoclinic.org/,p]:1;[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;[https://jobs.mayoclinic.org/events/,p]:1;[https://jobs.mayoclinic.org/events/,p]:1;
+/therapy|[https://www.sciencenewsforstudents.org/topics/,p]:1;
+/the…|[https://www.healthline.com/nutrition,p]:1;[https://www.healthline.com/nutrition,p]:1;[https://www.healthline.com/nutrition,p]:1;[https://www.healthline.com/fitness,p]:1;[https://www.healthline.com/fitness,p]:1;[https://www.healthline.com/fitness,p]:1;[https://www.healthline.com/fitness,p]:1;
+/theory's|[https://www.iflscience.com/environment/,p]:1;
+/theyve|[https://www.iflscience.com/technology/,p]:1;
+/their…|[https://www.healthline.com/fitness,p]:1;
+/thermal|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/theobald|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/thereon|[https://www.mayoclinic.org/global,p]:1;
+/thenrecord|[https://www.dailymail.co.uk/news/index.html,p]:1;

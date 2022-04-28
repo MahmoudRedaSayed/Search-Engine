@@ -1,0 +1,4 @@
+/glacial|[https://www.nationalgeographic.com/environment,h]:1;
+/glass|[https://www.sky.com,t]:1;[https://www.sky.com,s]:1;[https://www.sky.com,p]:1;[https://www.sky.com,p]:1;
+/glasgow|[https://www.dailymail.co.uk/news/index.html,p]:1;
+/glad|[https://www.dailymail.co.uk/news/index.html,p]:1;

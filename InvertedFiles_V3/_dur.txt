@@ -1,0 +1,5 @@
+/duration|[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;
+/durall|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/durable|[https://www.mayoclinic.org/global,p]:1;
+/durham|[https://www.dailymail.co.uk/news/index.html,p]:1;
+/durham's|[https://www.dailymail.co.uk/news/index.html,p]:1;

@@ -1,0 +1,2 @@
+/bottle|[https://www.bbc.co.uk,p]:1;[https://www.bbc.co.uk,p]:1;[https://www.menshealth.com/mvp-exclusives/,h]:1;
+/bottominset|[https://www.dailymail.co.uk/news/index.html,p]:1;

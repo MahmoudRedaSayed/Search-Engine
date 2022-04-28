@@ -1,0 +1,15 @@
+/delightful|[https://www.dailymail.co.uk,p]:1;[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org,p]:1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]:1;[https://www.marca.com,h]:1;[https://www.marca.com,h]:1;[https://www.marca.com,h]:1;[https://www.loc.gov,h]:1;[https://www.sciencenewsforstudents.org,h]:1;[https://www.marca.com,h]:1;[https://www.marca.com,h]:1;[https://www.marca.com,h]:1;[https://www.marca.com,h]:1;[https://www.marca.com,p]:1;[https://www.sciencenewsforstudents.org,p]:1;[https://www.loc.gov/,h]:1;[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/delayed|[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.mayoclinic.org/global,p]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+/delicious|[https://www.everydayhealth.com/,p]:1;[https://www.bbc.co.uk,p]:1;[https://www.everydayhealth.com/,p]:1;[https://www.bbc.co.uk,p]:1;[https://www.menshealth.com/mvp-exclusives/,h]:1;[https://www.healthline.com/nutrition,p]:1;[https://www.healthline.com/nutrition,p]:1;[https://www.iflscience.com/technology/,p]:1;
+/delano|[https://www.loc.gov,h]:1;[https://www.loc.gov,h]:1;[https://www.loc.gov,h]:1;[https://www.loc.gov/,h]:1;[https://www.loc.gov/,h]:1;[https://www.loc.gov/,h]:1;
+/delaware|[https://www.loc.gov,h]:1;[https://www.loc.gov/,h]:1;
+/deliver|[https://jobs.mayoclinic.org/,p]:1;[https://www.mayoclinic.org/,p]:1;[https://www.healthline.com/nutrition,p]:1;
+/deliverymarketingmayo|[https://jobs.mayoclinic.org/,p]:1;[https://www.nemours.org?external_id=RE2350835010600,p]:1;[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;[https://jobs.mayoclinic.org/events/,p]:1;[https://jobs.mayoclinic.org/events/,p]:1;[https://www.mayoclinic.org/global,p]:1;
+/delhi|[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;
+/delivered|[https://www.iflscience.com/environment/,p]:1;
+/delegated|[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;
+/delmotte|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/delete|[https://www.mayoclinic.org/global,p]:1;
+/deletions|[https://www.mayoclinic.org/global,p]:1;
+/delays|[https://www.dailymail.co.uk/news/index.html,h]:1;
+/delivering|[https://www.dailymail.co.uk/news/index.html,h]:1;

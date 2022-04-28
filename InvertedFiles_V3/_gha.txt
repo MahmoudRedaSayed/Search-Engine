@@ -1,0 +1,2 @@
+/ghalia|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;
+/gharam|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;

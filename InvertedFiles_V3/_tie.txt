@@ -1,0 +1,5 @@
+/ties|[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;
+/tiempo|[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org,h]:1;[https://www.marca.com,h]:1;
+/tied|[https://www.everydayhealth.com/,h]:1;[https://www.everydayhealth.com/,h]:1;[https://www.everydayhealth.com/,h]:1;[https://www.everydayhealth.com/,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+/tiene|[https://www.marca.com,h]:1;
+/tier|[https://discountcode.dailymail.co.uk/,p]:1;

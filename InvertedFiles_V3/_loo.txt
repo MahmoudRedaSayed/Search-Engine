@@ -1,0 +1,5 @@
+/loo|[https://www.bbc.com/,p]:1;[https://www.bbc.com,p]:1;
+/lookout|[https://discountcode.dailymail.co.uk/,p]:1;
+/loop|[https://www.nemours.org?external_id=RE2350835010600,h]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/looking…|[https://www.healthline.com/fitness,p]:1;
+/looked|[https://www.iflscience.com/environment/russian-invasion-of-ukraine-suggests-fossil-fuel-demands-have-peaked-argues-ngo/,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;

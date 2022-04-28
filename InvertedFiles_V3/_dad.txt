@@ -1,0 +1,2 @@
+/dad|[https://www.bbc.com/,h]:1;[https://www.bbc.com,h]:1;
+/dads|[https://www.menshealth.com/mvp-exclusives/,h]:1;

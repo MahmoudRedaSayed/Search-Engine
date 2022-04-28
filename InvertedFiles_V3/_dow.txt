@@ -1,0 +1,6 @@
+/download |[https://www.academia.edu,h]:1;[https://www.academia.edu,p]:1;[https://www.academia.edu,h]:1;[https://www.academia.edu,p]:1;[https://www.academia.edu,h]:1;[https://www.academia.edu,p]:1;[https://www.academia.edu,p]:1;[https://www.academia.edu,h]:1;[https://www.academia.edu,h]:1;[https://www.academia.edu,p]:1;[https://www.sky.com,p]:1;[https://www.sky.com,p]:1;[http://www.nowtv.com/promo/sky-sports?dcmp=ilc_SSNTV_skysports_hardcode_moredropdownlink,p]:1;[https://f24.my/SC,p]:1;[https://www.mayoclinic.org/global,p]:1;
+/downing|[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+/downtown|[https://www.nationalarchivesstore.org/?utm_campaign=2019eStore&utm_medium=website&utm_source=nara&utm_content=organic,p]:1;
+/downloaded|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/downed|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/downtime|[https://www.mayoclinic.org/global,p]:1;

@@ -1,0 +1,9 @@
+/choose|[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://familydoctor.org/,p]:1;[https://www.mayoclinic.org/,h]:1;[https://www.mayoclinic.org/,p]:1;[https://www.healthline.com/nutrition,p]:1;[https://jobs.mayoclinic.org/benefits/,p]:1;[http://www.nowtv.com/promo/sky-sports?dcmp=ilc_SSNTV_skysports_hardcode_moredropdownlink,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;
+/choice|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;
+/chollos|[https://www.marca.com,h]:1;
+/chosen|[https://discountcode.dailymail.co.uk/,p]:1;
+/cholesterol|[https://www.menshealth.com/mvp-exclusives/,h]:1;
+/choices|[https://www.healthline.com/nutrition,p]:1;
+/choosing|[https://www.healthline.com/nutrition,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;
+/chopsticks|[https://www.iflscience.com/technology/,h]:1;[https://www.iflscience.com/technology/,p]:1;
+/chojnacky|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;

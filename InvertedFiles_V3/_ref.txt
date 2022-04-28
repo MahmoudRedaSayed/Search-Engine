@@ -1,0 +1,16 @@
+/reflecting|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://www.healthline.com/nutrition,p]:1;[https://www.sciencenewsforstudents.org/topic/space,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/refugees|[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/reflective|[https://www.bbc.com/,h]:1;[https://www.bbc.com,h]:1;
+/refers|[https://www.healthline.com/nutrition,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/refine|[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;
+/referrals|[https://jobs.mayoclinic.org/benefits/,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/reference|[https://ask.loc.gov/genealogy-local-history/,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://ask.loc.gov/history-humanities-social-sciences/,p]:1;
+/references|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/referred|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/reflected|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/refugia|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/reforestation|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/referenced|[https://www.mayoclinic.org/global,p]:1;
+/refuse|[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;
+/refusal|[https://www.dailymail.co.uk/news/index.html,h]:1;
+/refuted|[https://www.dailymail.co.uk/news/index.html,p]:1;

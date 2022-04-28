@@ -1,0 +1,2 @@
+/cuida|[https://www.marca.com,h]:1;
+/cuisine|[https://www.healthline.com/nutrition,p]:1;[https://www.healthline.com/nutrition,p]:1;

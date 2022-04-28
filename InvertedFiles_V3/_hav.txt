@@ -1,0 +1,2 @@
+/have?|[https://ask.loc.gov/genealogy-local-history/,p]:1;
+/haverford|[https://www.dailymail.co.uk/news/index.html,p]:1;

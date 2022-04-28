@@ -1,0 +1,15 @@
+/met|[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;
+/meteoric|[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;
+/metro|[https://discountcode.dailymail.co.uk/,p]:1;
+/meteorite|[https://www.sciencenewsforstudents.org/topics/,p]:1;[https://www.sciencenewsforstudents.org/topic/space,p]:1;[https://www.sciencenewsforstudents.org/topic/space,p]:1;
+/metabolism?|[https://www.menshealth.com/mvp-exclusives/,h]:1;
+/metals|[https://www.iflscience.com/environment/,p]:1;
+/methodist|[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.iflscience.com/environment/tonga-volcanic-eruption-was-the-most-powerful-this-century-new-paper-confirms/,p]:1;[https://www.iflscience.com/environment/tonga-volcanic-eruption-was-the-most-powerful-this-century-new-paper-confirms/,p]:1;[https://www.mayoclinic.org/global,p]:1;
+/methods|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,h]:1;
+/metrics|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/metanetworks|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/meteorol|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/meteorological|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/meters|[https://www.iflscience.com/environment/tonga-volcanic-eruption-was-the-most-powerful-this-century-new-paper-confirms/,p]:1;
+/met's|[https://www.dailymail.co.uk/news/index.html,h]:1;
+/metropolitan|[https://www.dailymail.co.uk/news/index.html,p]:1;

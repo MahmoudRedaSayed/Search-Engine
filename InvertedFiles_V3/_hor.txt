@@ -1,0 +1,8 @@
+/horses|[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+/horus|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;
+/hornets|[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org/topics/,h]:1;
+/horarios|[https://www.marca.com,h]:1;
+/horizontal|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/hormone|[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/hormonal|[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;
+/horror|[https://www.dailymail.co.uk/news/index.html,p]:1;

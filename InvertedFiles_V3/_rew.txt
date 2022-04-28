@@ -1,0 +1,2 @@
+/reward|[https://discountcode.dailymail.co.uk/,p]:1;
+/rewarded|[https://www.dailymail.co.uk/news/index.html,h]:1;

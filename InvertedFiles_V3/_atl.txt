@@ -1,0 +1,2 @@
+/atlético|[https://www.marca.com,h]:1;
+/atlantic|[https://www.iflscience.com/environment/,h]:1;[https://www.iflscience.com/environment/,p]:1;

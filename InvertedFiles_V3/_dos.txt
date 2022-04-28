@@ -1,0 +1,3 @@
+/dos|[https://www.marca.com,h]:1;
+/doses|[https://familydoctor.org/,p]:1;[https://familydoctor.org/,p]:1;[https://familydoctor.org/,p]:1;[https://familydoctor.org/,p]:1;[https://jobs.mayoclinic.org/,p]:1;[https://jobs.mayoclinic.org/,p]:1;
+/dose…|[https://familydoctor.org/,p]:1;[https://familydoctor.org/,p]:1;

@@ -1,0 +1,14 @@
+/bel|[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/believes|[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+/belly|[https://www.menshealth.com[https://www.menshealth.com
+,h]:1;
+,h]:1;
+/bellissimo|[https://www.menshealth.com[https://www.menshealth.com
+,h]:1;
+,h]:1;
+/believed|[https://www.bbc.com/,p]:1;[https://www.bbc.com,p]:1;[https://jobs.mayoclinic.org/benefits/,p]:1;[https://jobs.mayoclinic.org/benefits/,p]:1;
+/belowground|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/belongs|[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;
+/belts|[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;
+/belarusian|[https://www.dailymail.co.uk/news/index.html,h]:1;
+/bellatrix|[https://www.dailymail.co.uk/news/index.html,p]:1;

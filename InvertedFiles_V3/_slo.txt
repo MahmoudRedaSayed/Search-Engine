@@ -1,0 +1,4 @@
+/slowly|[https://www.iflscience.com/,p]:1;[https://www.iflscience.com/,p]:1;[https://www.iflscience.com/,p]:1;[https://www.iflscience.com/,p]:1;[https://www.iflscience.com/,p]:1;[https://www.iflscience.com/,p]:1;[https://www.healthline.com/fitness,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/slouching'|[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;
+/slovenia|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/slowdown|[https://www.dailymail.co.uk/news/index.html,p]:1;

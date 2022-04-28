@@ -1,0 +1,3 @@
+/getty|[https://kidshealth.org/
+
+,p]:1;

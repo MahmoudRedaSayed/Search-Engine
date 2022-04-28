@@ -1,0 +1,1 @@
+/eqs|[https://www.dailymail.co.uk/news/index.html,h]:1;

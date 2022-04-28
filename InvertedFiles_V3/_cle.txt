@@ -1,0 +1,5 @@
+/cleared|[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/clean|[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;
+/cleaning|[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;
+/clearcut|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.iflscience.com/environment/russian-invasion-of-ukraine-suggests-fossil-fuel-demands-have-peaked-argues-ngo/,p]:1;
+/cleanliness|[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;

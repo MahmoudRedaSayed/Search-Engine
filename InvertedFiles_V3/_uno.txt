@@ -1,0 +1,2 @@
+/uno|[https://www.marca.com,h]:1;
+/unofficial|[https://www.dailymail.co.uk/news/index.html,h]:1;

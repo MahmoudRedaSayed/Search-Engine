@@ -1,0 +1,6 @@
+/admits|[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+/administration|[https://www.loc.gov,h]:1;[https://www.loc.gov,h]:1;[https://www.loc.gov,h]:1;[https://familydoctor.org/,p]:1;[https://jobs.mayoclinic.org/,p]:1;[https://www.loc.gov/,h]:1;[https://www.loc.gov/,h]:1;[https://www.loc.gov/,h]:1;[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;[https://jobs.mayoclinic.org/benefits/,p]:1;[https://jobs.mayoclinic.org/events/,p]:1;
+/administrationhousekeepinginternshipitlaboratorynursingoffice|[https://jobs.mayoclinic.org/,p]:1;[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;[https://jobs.mayoclinic.org/events/,p]:1;[https://jobs.mayoclinic.org/events/,p]:1;
+/administration's|[https://www.nationalarchivesstore.org/?utm_campaign=2019eStore&utm_medium=website&utm_source=nara&utm_content=organic,p]:1;
+/admitted|[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/admitting|[https://www.dailymail.co.uk/news/index.html,p]:1;

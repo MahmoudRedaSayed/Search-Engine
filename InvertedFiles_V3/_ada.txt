@@ -1,0 +1,4 @@
+/adagio|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;
+/adapt|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.mayoclinic.org/global,p]:1;
+/adapting|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/adams|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;

@@ -1,0 +1,5 @@
+/arrangements|[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/arrest|[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+/array|[https://www.iflscience.com/technology/,p]:1;
+/arrested|[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+/arrived|[https://www.dailymail.co.uk/news/index.html,p]:1;

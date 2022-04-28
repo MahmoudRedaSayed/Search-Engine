@@ -1,0 +1,9 @@
+/victoria|[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.bbc.com/,h]:1;[https://www.bbc.com,h]:1;[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+/vice'|[https://www.menshealth.com[https://www.menshealth.com
+,h]:1;
+,h]:1;
+/victims|[https://www.bbc.co.uk,p]:1;[https://www.bbc.co.uk,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/victorian|[https://www.bbc.com/,h]:1;[https://www.bbc.com,h]:1;
+/vicinity|[https://www.loc.gov,h]:1;[https://www.loc.gov/,h]:1;
+/vicente|[https://www.marca.com,p]:1;
+/victory|[https://www.dailymail.co.uk/news/index.html,p]:1;

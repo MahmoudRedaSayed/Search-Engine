@@ -90,10 +90,10 @@ public class Ranker {
 
                 //ToDO : send link instead of id ( Karim && Reda )
                 //I will send child link ang I must get Number of OutgoingLinks of the parent
-//                double OutgoingLinks = connect.getParentLinksNum(completedLinks[currentPage]);         //Get it from From ==> (Reda) to recieve the number of outgoing links from parent link
-                double OutgoingLinks = 4;       // TODO : this will be changed
+                double OutgoingLinks = connect.getParentLinksNum(completedLinks[currentPage]);         //Get it from From ==> (Reda) to recieve the number of outgoing links from parent link
+                //double OutgoingLinks = 4;       // TODO : this will be changed
                 //I will send child link and get parent link ==> it will be changed later
-                double temp = TempPageRank.get(connect.getParentId(completedLinks[currentPage])) * (1.0 / OutgoingLinks) ;
+                double temp = TempPageRank.get(connect.getParentLink(completedLinks[currentPage])) * (1.0 / OutgoingLinks) ;
                 pagesRank1.put(completedLinks[currentPage], temp);
                 tempSum += pagesRank1.get(completedLinks[currentPage]);
             }
@@ -192,9 +192,12 @@ public class Ranker {
             String arr[] = new String[stringSplits.length];
 
             for (int j = 1; j <= stringSplits.length; j++) {
+
                 int charTempType22 = stringSplits[j - 1].indexOf('[');
                 String linkOfCurrentPage = stringSplits[j - 1].substring(charTempType22 + 1, stringSplits[j - 1].indexOf(','));                //to get id of current page
                 arr[j - 1] = linkOfCurrentPage;
+                int tempForKarim = stringSplits[j-1].indexOf("//");
+                stringSplits[j-1] = stringSplits[j-1].substring(tempForKarim+1);
 
                 //to get the length of the page
               /*  int charTempType77 = linkOfCurrentPage.indexOf("//") + 2;
@@ -235,7 +238,7 @@ public class Ranker {
                 }
 
 
-                if (! linkOfNextPage.equals(linkOfCurrentPage) ) {
+                if (! linkOfNextPage.equals(linkOfCurrentPage) && lengthOfPage != null && lengthOfPage != 0) {
                     tf = Double.valueOf(numOfOccerrencesInCurrentDocument) / lengthOfPage;
                     Links_numOfOccurrences.put(linkOfCurrentPage, tf);          //put id
                 }

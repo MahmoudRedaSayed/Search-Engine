@@ -1,0 +1,2 @@
+/cinema|[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;
+/cinemas|[https://english.ahram.org.eg/,h]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,h]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,h]:1;[https://english.ahram.org.eg/,p]:1;

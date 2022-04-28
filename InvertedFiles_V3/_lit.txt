@@ -1,0 +1,7 @@
+/literature|[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.nlm.nih.gov/,p]:1;[https://www.sky.com,p]:1;[https://www.sky.com,p]:1;[https://www.nlm.nih.gov/portals/researchers.html,h]:1;[https://www.nlm.nih.gov/portals/researchers.html,p]:1;
+/littleknown|[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+/lithograph|[https://www.loc.gov,h]:1;[https://www.loc.gov,h]:1;[https://www.loc.gov/,h]:1;[https://www.loc.gov/,h]:1;
+/litters|[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+/littering|[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/little…|[https://www.healthline.com/fitness,p]:1;
+/litigation|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;

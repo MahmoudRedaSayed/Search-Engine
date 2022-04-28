@@ -1,0 +1,2 @@
+/sword|[https://www.bbc.com/,h]:1;[https://www.bbc.com,h]:1;
+/swole|[https://www.menshealth.com/mvp-exclusives/,h]:1;

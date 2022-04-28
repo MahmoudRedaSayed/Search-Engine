@@ -1,0 +1,3 @@
+/tax|[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;
+/taxdeductible|[https://www.mayoclinic.org/,p]:1;
+/taxes|[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;

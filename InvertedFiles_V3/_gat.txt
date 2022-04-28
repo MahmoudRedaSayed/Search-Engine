@@ -1,0 +1,2 @@
+/gathering|[https://www.loc.gov,h]:1;[https://www.loc.gov/,h]:1;
+/gatwick|[https://discountcode.dailymail.co.uk/,p]:1;

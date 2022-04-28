@@ -1,0 +1,3 @@
+/lodge|[https://www.nationalgeographic.com,p]:1;
+/lodging|[https://www.mayoclinic.org/patient-care-and-health-information
+,p]:1;

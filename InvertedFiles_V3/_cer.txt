@@ -1,0 +1,2 @@
+/certified|[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;
+/cervantes|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;

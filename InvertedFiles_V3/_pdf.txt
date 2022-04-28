@@ -1,0 +1,2 @@
+/pdfs|[https://www.academia.edu,h]:1;[https://www.academia.edu,h]:1;[https://www.javatpoint.com,p]:1;[https://www.academia.edu,h]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.academia.edu,h]:1;[https://www.javatpoint.com,p]:1;[https://www.academia.edu,h]:1;
+/pdfbox|[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;

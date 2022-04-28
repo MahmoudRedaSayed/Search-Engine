@@ -63,33 +63,33 @@ public class Main {
         //------------------------------------------------------------------------------------------//
 
 
-//        JSONArray dividedQuery =  new JSONArray();
-//        Ranker rankerObj = new Ranker();
-//        String finalJSONARRAY;
-//        QueryProcessing obj = new QueryProcessing();
-//        PhraseSearching phraseSearchingObj = new PhraseSearching();
-//        String searchingQuery;
-//        ArrayList<String> rankerArray=new ArrayList<String>();
-//        searchingQuery = "content complex";
-//        System.out.println(searchingQuery);
-//        finalJSONARRAY = obj.run(searchingQuery, rankerArray, dividedQuery);
-////        HashMap<String, Double> toBeSorted = new HashMap<String, Double>();
-////        toBeSorted.put("link1", 0.25);
-////        toBeSorted.put("Link2", 0.5);
-////        toBeSorted.put("Link3", 0.45);
-//
-//        Map<String,Double> rankingResult= rankerObj.calculateRelevance(rankerArray);
-//        HashMap<String,Double> toBeSorted = new HashMap<String,Double>(rankingResult);
-//         HashMap<String,Double> sortedRankerMap = QueryProcessing.sortByValue(toBeSorted);
-////        HashMap<String,Double> linksRankedMap = QueryProcessing.replaceIDByLink(toBeSorted);
-//
-//        for (Map.Entry<String, Double> entry : sortedRankerMap.entrySet()) {
-//            System.out.println(entry.getKey() + ":" + entry.getValue().toString());
-//        }
+        JSONArray dividedQuery = new JSONArray();
+        Ranker rankerObj = new Ranker();
+        String finalJSONARRAY;
+        QueryProcessing obj = new QueryProcessing();
+        //PhraseSearching phraseSearchingObj = new PhraseSearching();
+        String searchingQuery;
+        ArrayList<String> rankerArray = new ArrayList<String>();
+        searchingQuery = "transporting continues     controlling";
+        System.out.println(searchingQuery);
+        finalJSONARRAY = obj.run(searchingQuery, rankerArray, dividedQuery);
+//        HashMap<String, Double> toBeSorted = new HashMap<String, Double>();
+//        toBeSorted.put("link1", 0.25);
+//        toBeSorted.put("Link2", 0.5);
+//        toBeSorted.put("Link3", 0.45);
 
-       /* System.out.println(finalJSONARRAY);
-        System.out.println(dividedQuery.toString());
-        System.out.println(rankerArray.toString());*/
+        Map<String, Double> rankingResult = rankerObj.calculateRelevance(rankerArray);
+        HashMap<String, Double> toBeSorted = new HashMap<String, Double>(rankingResult);
+        HashMap<String, Double> sortedRankerMap = QueryProcessing.sortByValue(toBeSorted);
+//        HashMap<String,Double> linksRankedMap = QueryProcessing.replaceIDByLink(toBeSorted);
+
+        for (Map.Entry<String, Double> entry : sortedRankerMap.entrySet()) {
+            System.out.println(entry.getKey() + ":" + entry.getValue().toString());
+          }
+
+            System.out.println(finalJSONARRAY);
+            System.out.println(dividedQuery.toString());
+            System.out.println(rankerArray.toString());
 
 //        DataBase databaseObj  = new DataBase();
 //        System.out.println(databaseObj.getCompleteCount());
@@ -110,14 +110,14 @@ public class Main {
 ////        UrlThread.Limit+=DataBaseObject.getCompleteCount();
 ////        System.out.printf(" the limit %d",UrlThread.Limit);
 //
-        
+
 //
 //
 //
 //        ///////////////////////////////////////////////////////
 //
-        /*---------------     Start Indexing ----------------------*/
-        // create files
+            /*---------------     Start Indexing ----------------------*/
+//        // create files
 //        WorkingFiles.createInvertedFiles();
 //
 //        // connect to db
@@ -163,8 +163,6 @@ public class Main {
 //
 //        System.out.println("Indexing is finished :)\n");
 
-        /*---------------     End Of Indexing ----------------------*/
-
-    }
-
+            /*---------------     End Of Indexing ----------------------*/
+        }
 }

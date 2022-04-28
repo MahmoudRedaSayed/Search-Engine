@@ -1,0 +1,2 @@
+/cable|[https://f24.my/SC,p]:1;
+/cabin|[https://www.dailymail.co.uk/news/index.html,p]:1;

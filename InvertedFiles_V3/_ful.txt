@@ -1,0 +1,6 @@
+/fullgrown|[https://www.menshealth.com[https://www.menshealth.com
+,h]:1;
+,h]:1;
+/fully|[https://jobs.mayoclinic.org/,p]:1;[https://developers.google.com/assistant,p]:1;[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;[https://jobs.mayoclinic.org/benefits/,p]:1;[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;
+/fulfillment|[https://developers.google.com/assistant,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/fullcolor|[https://www.iflscience.com/technology/,h]:1;

@@ -1,0 +1,4 @@
+/embedded|[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;
+/embargo|[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+/embracing|[https://www.bbc.com/,h]:1;[https://www.bbc.com,h]:1;
+/embraces|[https://jobs.mayoclinic.org/,p]:1;

@@ -1,0 +1,2 @@
+/tobago|[https://www.healthline.com/nutrition,p]:1;
+/toby|[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;

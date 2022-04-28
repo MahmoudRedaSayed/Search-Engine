@@ -1,0 +1,3 @@
+/immigration|[https://www.bbc.com/,h]:1;[https://www.bbc.com,h]:1;
+/immunizations|[https://familydoctor.org/,p]:1;[https://jobs.mayoclinic.org/,p]:1;[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;[https://jobs.mayoclinic.org/benefits/,p]:1;[https://jobs.mayoclinic.org/events/,p]:1;
+/immobilization|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;

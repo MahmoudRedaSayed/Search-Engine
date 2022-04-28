@@ -1,0 +1,2 @@
+/std|[https://www.everydayhealth.com/,p]:1;[https://www.everydayhealth.com/,p]:1;
+/stds|[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;

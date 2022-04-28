@@ -1,0 +1,9 @@
+/occurring|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.mayoclinic.org/global,p]:1;
+/occurred|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/occurrence|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/occurs|[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;
+/occurrence”|[https://www.iflscience.com/environment/tonga-volcanic-eruption-was-the-most-powerful-this-century-new-paper-confirms/,p]:1;
+/occurrences|[https://www.mayoclinic.org/global,p]:1;
+/occupation|[https://www.dailymail.co.uk/news/index.html,h]:1;
+/occasion'|[https://www.dailymail.co.uk/news/index.html,p]:1;
+/occupied|[https://www.dailymail.co.uk/news/index.html,p]:1;

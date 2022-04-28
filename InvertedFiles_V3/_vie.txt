@@ -1,0 +1,9 @@
+/view|[https://www.javatpoint.com,h]:1;[https://www.javatpoint.com,h]:1;[https://www.javatpoint.com,h]:1;[https://www.javatpoint.com,h]:1;[https://www.javatpoint.com,h]:1;[https://www.javatpoint.com,h]:1;[https://www.loc.gov,h]:1;[https://www.mayoclinic.org/patient-care-and-health-information[https://www.loc.gov/,h]:1;[https://www.nlm.nih.gov/,s]:1;[https://www.nlm.nih.gov/,p]:1;[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;[https://www.mayoclinic.org/global,p]:1;
+,p]:1;
+/viewed|[https://english.ahram.org.eg/,h]:1;[https://english.ahram.org.eg/,h]:1;[https://english.ahram.org.eg/,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/views|[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.bbc.com/,h]:1;[https://www.france24.com,p]:1;[https://www.bbc.com,h]:1;[https://f24.my/SC,p]:1;
+/viewing|[https://www.menshealth.com[https://www.menshealth.com[https://ask.loc.gov/film-tv-video,p]:1;[http://www.nowtv.com/promo/sky-sports?dcmp=ilc_SSNTV_skysports_hardcode_moredropdownlink,p]:1;[http://www.nowtv.com/promo/sky-sports?dcmp=ilc_SSNTV_skysports_hardcode_moredropdownlink,p]:1;
+,h]:1;
+,h]:1;
+/vienna|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/viewership|[https://f24.my/SC,p]:1;[https://f24.my/SC,p]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;

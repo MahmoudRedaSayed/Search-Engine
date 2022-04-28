@@ -1,0 +1,2 @@
+/enrolled|[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;[https://www.mayoclinic.org/global,p]:1;
+/enrollment|[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;

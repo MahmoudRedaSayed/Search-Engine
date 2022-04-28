@@ -1,0 +1,12 @@
+/truth|[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/trump|[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/truths|[https://www.everydayhealth.com/,p]:1;[https://www.everydayhealth.com/,p]:1;
+/truckers|[https://www.bbc.com/,h]:1;[https://www.bbc.com,h]:1;
+/truco|[https://www.marca.com,h]:1;
+/trusted|[https://familydoctor.org/,t]:1;[https://www.healthline.com/,t]:1;[https://www.everydayhealth.com/,t]:1;[https://www.mayoclinic.org/,p]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+/trustworthy|[https://familydoctor.org/,p]:1;[https://www.mayoclinic.org/patient-care-and-health-information[https://www.mayoclinic.org/,p]:1;
+,p]:1;
+/trump'|[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/true|[https://www.healthline.com/nutrition,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.mayoclinic.org/global,p]:1;
+/trunk|[https://www.healthline.com/fitness,p]:1;
+/trump's|[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;

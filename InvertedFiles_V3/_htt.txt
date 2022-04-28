@@ -1,0 +1,9 @@
+/http|[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;
+/httpsappsfsusdagovfiadatamartcsvdatamartcsvhtml|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/httpswwwfrontiersinorgarticlesffgcfullsupplementarymaterial|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/httpscranrprojectorgpackagergdal|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/httpscranrprojectorgpackagemaptools|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/httpscranrprojectorgpackagedatatable|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/httpcranrprojectorgpackageraster|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/httpswwwiucnorgcrossroadsblogprimaryforestsaprioritynaturebasedsolution|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/httpswwwunenvironmentorgresourcesemissionsgapreport|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;

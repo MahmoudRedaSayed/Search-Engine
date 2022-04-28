@@ -1,0 +1,6 @@
+/phalcon|[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;
+/pharmacology|[https://jobs.mayoclinic.org/,p]:1;[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;[https://jobs.mayoclinic.org/events/,p]:1;[https://jobs.mayoclinic.org/events/,p]:1;
+/phase|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/pharmacy|[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;
+/pharmacologic|[https://www.mayoclinic.org/global,p]:1;
+/pharmacist|[https://www.mayoclinic.org/global,p]:1;

@@ -1,0 +1,2 @@
+/spy|[https://www.dailymail.co.uk/news/index.html,h]:1;
+/spying|[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;

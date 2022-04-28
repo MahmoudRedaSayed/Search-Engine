@@ -1,0 +1,11 @@
+/blockchain|[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;
+/blossom|[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;
+/blogger|[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/,p]:1;[https://www.nlm.nih.gov/,p]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/blood|[https://www.everydayhealth.com/,h]:1;[https://www.everydayhealth.com/,h]:1;[https://www.healthline.com/nutrition,p]:1;
+/blooming|[https://www.nationalgeographic.com,h]:1;
+/blooms|[https://www.nationalgeographic.com,p]:1;
+/blocks|[https://www.sciencenewsforstudents.org/topics/,p]:1;
+/bloated|[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;
+/blockbuster|[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/blonde|[https://www.dailymail.co.uk/news/index.html,p]:1;
+/blownup|[https://www.dailymail.co.uk/news/index.html,p]:1;

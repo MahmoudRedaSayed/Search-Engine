@@ -1,0 +1,15 @@
+/died'|[https://www.dailymail.co.uk,p]:1;[https://www.skysports.com/,h]:1;[https://english.ahram.org.eg/,p]:1;[https://www.skysports.com/,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.skysports.com/,h]:1;[https://english.ahram.org.eg/,p]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://english.ahram.org.eg/,p]:1;[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/diets|[https://www.iflscience.com/,p]:1;[https://www.iflscience.com/,p]:1;[https://www.iflscience.com/,p]:1;[https://www.menshealth.com[https://www.menshealth.com[https://www.everydayhealth.com/,h]:1;[https://www.everydayhealth.com/,h]:1;[https://www.bbc.co.uk,p]:1;[https://www.bbc.co.uk,p]:1;[https://www.iflscience.com/,p]:1;[https://www.iflscience.com/,p]:1;[https://www.menshealth.com[https://www.menshealth.com[https://www.everydayhealth.com/,h]:1;[https://www.everydayhealth.com/,h]:1;[https://www.bbc.co.uk,p]:1;[https://www.bbc.co.uk,p]:1;[https://www.healthline.com/nutrition,h]:1;[https://www.healthline.com/nutrition,p]:1;[https://www.healthline.com/nutrition,p]:1;[https://www.healthline.com/nutrition,p]:1;[https://www.healthline.com/nutrition,p]:1;[https://www.healthline.com/nutrition,p]:1;[https://www.healthline.com/nutrition,p]:1;[https://www.healthline.com/nutrition,p]:1;[https://www.healthline.com/nutrition,p]:1;[https://www.healthline.com/nutrition,p]:1;[https://www.healthline.com/nutrition,p]:1;[https://www.healthline.com/nutrition,p]:1;[https://www.iflscience.com/environment/,p]:1;
+,h]:1;
+,h]:1;
+,h]:1;
+,h]:1;
+/diet?|[https://www.everydayhealth.com/,h]:1;[https://www.everydayhealth.com/,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+/dieta|[https://www.marca.com,h]:1;
+/dietary|[https://familydoctor.org/,h]:1;
+/dietitian|[https://www.healthline.com/nutrition,p]:1;[https://www.healthline.com/nutrition,p]:1;[https://www.healthline.com/nutrition,p]:1;
+/dietitian…|[https://www.healthline.com/nutrition,p]:1;
+/dieting|[https://www.healthline.com/nutrition,p]:1;
+/dietetics|[https://www.healthline.com/nutrition,p]:1;
+/dieoff|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/dieters|[https://www.dailymail.co.uk/news/index.html,p]:1;

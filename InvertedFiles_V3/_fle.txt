@@ -1,0 +1,5 @@
+/flew|[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/flexitarian|[https://www.everydayhealth.com/,h]:1;[https://www.everydayhealth.com/,h]:1;
+/flexible|[https://jobs.mayoclinic.org/benefits/,p]:1;
+/fleeing|[https://www.dailymail.co.uk/news/index.html,p]:1;
+/fleet|[https://www.dailymail.co.uk/news/index.html,p]:1;

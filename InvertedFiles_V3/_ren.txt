@@ -1,0 +1,6 @@
+/renueva|[https://www.marca.com,h]:1;
+/rendered|[https://developers.google.com/assistant,p]:1;
+/renowned|[https://www.nemours.org?external_id=RE2350835010600,p]:1;
+/rentfree|[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;
+/renews|[http://www.nowtv.com/promo/sky-sports?dcmp=ilc_SSNTV_skysports_hardcode_moredropdownlink,p]:1;
+/renewables|[https://www.iflscience.com/environment/russian-invasion-of-ukraine-suggests-fossil-fuel-demands-have-peaked-argues-ngo/,p]:1;[https://www.iflscience.com/environment/russian-invasion-of-ukraine-suggests-fossil-fuel-demands-have-peaked-argues-ngo/,p]:1;

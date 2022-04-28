@@ -1,0 +1,10 @@
+/align|[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk/,h]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+/alive|[https://www.menshealth.com[https://www.menshealth.com[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+,p]:1;
+,p]:1;
+/aliexpress|[https://www.marca.com,h]:1;
+/alimentación|[https://www.marca.com,p]:1;
+/alicia|[https://www.loc.gov,p]:1;[https://www.loc.gov/,p]:1;
+/alignment|[https://www.nlm.nih.gov/,p]:1;
+/alien|[https://www.iflscience.com/technology/,h]:1;
+/alister|[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;

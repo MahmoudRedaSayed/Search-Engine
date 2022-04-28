@@ -1,0 +1,4 @@
+/clues|[https://www.bbc.com/,h]:1;[https://www.bbc.com,h]:1;
+/club|[https://www.healthline.com/fitness,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/clutter|[https://www.dailymail.co.uk/news/index.html,h]:1;
+/cluttered|[https://www.dailymail.co.uk/news/index.html,p]:1;

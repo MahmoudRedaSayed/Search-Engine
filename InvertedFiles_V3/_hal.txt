@@ -1,0 +1,6 @@
+/halkee|[https://www.bbc.com/,p]:1;[https://www.bbc.com,p]:1;
+/halo|[https://www.marca.com,h]:1;
+/halls|[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/halbleib|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/halts|[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;
+/hallows|[https://www.dailymail.co.uk/news/index.html,p]:1;

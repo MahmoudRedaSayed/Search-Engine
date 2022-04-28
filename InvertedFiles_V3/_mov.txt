@@ -1,0 +1,9 @@
+/movies|[https://www.skysports.com/,p]:1;[https://www.skysports.com/,p]:1;[https://www.skysports.com/,p]:1;[https://www.menshealth.com[https://www.skysports.com/,p]:1;[https://www.skysports.com/,p]:1;[https://www.menshealth.com[http://www.nowtv.com/promo/sky-sports?dcmp=ilc_SSNTV_skysports_hardcode_moredropdownlink,p]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+,h]:1;
+,h]:1;
+/movement|[https://www.sciencenewsforstudents.org,p]:1;[https://www.everydayhealth.com/,h]:1;[https://www.sciencenewsforstudents.org,p]:1;[https://www.everydayhealth.com/,h]:1;[https://www.healthline.com/fitness,h]:1;
+/moves|[https://www.menshealth.com[https://www.menshealth.com
+,p]:1;
+,p]:1;
+/moving|[https://www.loc.gov,h]:1;[https://www.nemours.org?external_id=RE2350835010600,h]:1;[https://www.loc.gov/,h]:1;[https://ask.loc.gov/film-tv-video,p]:1;[https://www.healthline.com/fitness,p]:1;[https://www.healthline.com/fitness,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+/moved|[https://www.dailymail.co.uk/news/index.html,h]:1;

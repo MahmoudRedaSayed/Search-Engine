@@ -1,0 +1,7 @@
+/mitigating|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/mitigation|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/mitigate|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/mitchell|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/miteva|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/mittermeir|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/mitigates|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;

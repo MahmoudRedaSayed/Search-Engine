@@ -1,0 +1,7 @@
+/this?|[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;
+/this'|[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/this…|[https://www.healthline.com/nutrition,p]:1;
+/think…|[https://www.healthline.com/nutrition,p]:1;
+/thinking|[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;
+/thinning|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/thief|[https://www.dailymail.co.uk/news/index.html,h]:1;
