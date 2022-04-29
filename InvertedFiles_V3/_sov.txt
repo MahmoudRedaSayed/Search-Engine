@@ -1,3 +1,3 @@
-/soviet|[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;
-/sovaldi|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;
-/sovereignty|[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;
+/soviet|[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/ushome/index.html,h]:1;
+/sovaldi|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;
+/sovereignty|[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;

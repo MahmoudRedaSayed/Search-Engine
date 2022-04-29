@@ -1,1 +1,3 @@
-/utilized|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/utilized|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/utilities|[https://developers.google.com/maps,p]:1;
+/utilizes|[https://historyhub.history.gov/community/military-records/military-and-civilian-personnel-records/blog/2021/09/08/the-sf-50-that-elusive-form-everyone-needs-asap,p]:1;

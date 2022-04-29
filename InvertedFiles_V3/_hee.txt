@@ -1,1 +1,2 @@
-/heels'|[https://www.dailymail.co.uk/news/index.html,p]:1;
+/heels'|[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/heerden|[https://www.dailymail.co.uk/sport/index.html,s]:1;

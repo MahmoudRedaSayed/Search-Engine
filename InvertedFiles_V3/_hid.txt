@@ -1,1 +1,5 @@
-/hiding|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;
+/hiding|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;
+/hide|[https://www.dailymail.co.uk/ushome/index.html,p]:1;[https://www.dailyom.com/,p]:1;
+/hidden|[https://www.sciencenewsforstudents.org/article/innovation_2022-green-material-tree-cellulose-nanocrystals,h]:1;[http://goo.gle/maps-platform-io21-announcements,p]:1;
+/hiddink|[https://www.dailymail.co.uk/sport/index.html,h]:1;
+/hide'|[https://www.dailymail.co.uk/sport/index.html,s]:1;

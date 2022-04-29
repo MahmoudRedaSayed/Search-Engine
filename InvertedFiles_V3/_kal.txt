@@ -1,4 +1,6 @@
-/kali|[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;
-/kaley|[https://www.menshealth.com[https://www.menshealth.com
+/kali|[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;
+/kaley|[https://www.menshealth.com[https://www.menshealth.com[https://www.menshealth.com
 ,h]:1;
 ,h]:1;
+,h]:1;
+/kalvin|[https://www.dailymail.co.uk/sport/index.html,h]:1;

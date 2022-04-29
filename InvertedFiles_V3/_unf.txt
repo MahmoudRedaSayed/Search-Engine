@@ -1,4 +1,8 @@
-/unfounded|[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;
-/unfaithfulness|[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;
-/unfccc|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
-/unfcccintresourcedocsconvkpconvengpdf|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/unfounded|[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.bbc.co.uk/news/help-41670342,p]:1;[https://www.bbc.co.uk/news/help-41670342,p]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;
+/unfaithfulness|[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;
+/unfccc|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/unfcccintresourcedocsconvkpconvengpdf|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/unfolded|[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;
+/unfertilized|[https://www.sciencenewsforstudents.org/article/murder-hornet-asian-giant-trap-sex-pheromone,p]:1;
+/unfolding|[https://www.iflscience.com/environment/over-300-dead-in-south-african-floods-as-scientists-warn-of-climate-changeinduced-stronger-storms/,p]:1;
+/unfortunate|[https://www.iflscience.com/environment/scotlands-anthrax-island-ablaze-with-apocalyptic-wildfires/,p]:1;

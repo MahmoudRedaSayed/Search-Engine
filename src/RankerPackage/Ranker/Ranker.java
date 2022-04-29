@@ -1,8 +1,8 @@
 package RankerPackage.Ranker;
-import IndexerPackages.Indexer.PageParsing;
+import IndexerPackages.Indexer.*;
 import DataBasePackages.DataBase.DataBase;
-import QueryProcessingPackages.Query.QueryProcessing;
-import HelpersPackages.Helpers.WorkingFiles;
+import QueryProcessingPackages.Query.*;
+import HelpersPackages.Helpers.*;
 import java.lang.reflect.Array;
 import java.util.*;
 import org.json.*;
@@ -84,14 +84,11 @@ public class Ranker {
             }
 
             double tempSum = 0;
-            for (int currentPage = 0; currentPage < totalNodes; currentPage++) {
-
+            for (int currentPage = 0; currentPage < totalNodes; currentPage++)
+            {
                 if (currentPage == 0) continue;
-
-                //ToDO : send link instead of id ( Karim && Reda )
                 //I will send child link ang I must get Number of OutgoingLinks of the parent
                 double OutgoingLinks = connect.getParentLinksNum(completedLinks[currentPage]);         //Get it from From ==> (Reda) to recieve the number of outgoing links from parent link
-                //double OutgoingLinks = 4;       // TODO : this will be changed
                 //I will send child link and get parent link ==> it will be changed later
                 double temp = TempPageRank.get(connect.getParentLink(completedLinks[currentPage])) * (1.0 / OutgoingLinks) ;
                 pagesRank1.put(completedLinks[currentPage], temp);
@@ -127,7 +124,6 @@ public class Ranker {
 //        for(String s : tempLines)
 //            System.out.println(tempLines);
 
-
         wordsCount = connect.getWordsCountAsMap();
 
         // get links from db
@@ -148,16 +144,15 @@ public class Ranker {
         //ArrayList<String> tempLines = new ArrayList<String>();
         // {"/experience|[41,t]:1;[41,h]:1;[41,p]:1;[42,h]:2;[42,h]:2;[43,h]:2;[45,h]:2;", "/encyclopedia|[40,t]:1;[42,t]:1;[42,t]:1;[43,h]:5;[44,s]:5;[44,p]:3;"};
 
+        //consultancy|[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;
+        //contract|[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.sky.com,p]:1;[http://www.nowtv.com/promo/sky-sports?dcmp=ilc_SSNTV_skysports_hardcode_moredropdownlink,p]:1;
+        //tempLines.add(0,"consultancy|[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;");
+        //tempLines.add(1,"contract|[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.sky.com,p]:1;[http://www.nowtv.com/promo/sky-sports?dcmp=ilc_SSNTV_skysports_hardcode_moredropdownlink,p]:1;");
+
         //This is an Array of Map to store tf-idf of each word in each document
         List<Map<String, Double>> TF_IDF = new ArrayList<Map<String, Double>>();
         Map<String, Double> Links_numOfOccurrences = new HashMap<String, Double>();
         HashMap<Integer, String[]> uniqueLinks = new HashMap<Integer, String[]>();
-
-        // initialized with 0
-        for (String line : tempLines)
-        {
-            Links_numOfOccurrences.put(line, 0.0);
-        }
 
         //experience|[41,t]:1;[41,h]:1;[41,p]:1;[42,h]:2;[42,h]:2;[43,h]:2;[45,h]:2;
         //encyclopedia|[40,t]:1;[42,t]:1;[43,t]:1;[42,h]:5;[44,s]:5;[44,p]:3;
@@ -169,24 +164,23 @@ public class Ranker {
             String sub = tempLines.get(i).substring(startIndex + 1);
             String[] stringSplits = sub.split(";");
 
-            //for word ==> experience
-            //After Splitting
-            // [41,t]:1
-            // [41,h]:1
-            // [41,p]:1
-            // [42,h]:2
-            // [42,h]:2
-            // [43,h]:2
-            // [45,h]:2
+            //for word consultancy
+            // [https://www.skysports.com/,h]:1
+            // [https://www.skysports.com/,h]:1
+            // [https://www.skysports.com/,h]:1
+            // [https://www.skysports.com/,h]:1
+            // [https://www.skysports.com/,h]:1
 
-            //for word ==> encyclopedia
-            // After splitting
-            // [40,t]:1
-            // [42,t]:1
-            // [43,t]:1
-            // [44,h]:5
-            // [44,s]:5
-            // [44,p]:3
+            //for word contract
+            // [https://www.skysports.com/,h]:1
+            // [https://www.skysports.com/,h]:1
+            // [https://www.skysports.com/,h]:1
+            // [https://www.skysports.com/,h]:1
+            // [https://www.skysports.com/,h]:1
+            // [https://www.skysports.com/,h]:1
+            // [https://www.sky.com,p]:1
+            // [http://www.nowtv.com/promo/sky-sports?dcmp=ilc_SSNTV_skysports_hardcode_moredropdownlink,p]:1
+
 
             int idOfPreviosPage = -1;
             String arr[] = new String[stringSplits.length];
@@ -196,14 +190,13 @@ public class Ranker {
                 int charTempType22 = stringSplits[j - 1].indexOf('[');
                 String linkOfCurrentPage = stringSplits[j - 1].substring(charTempType22 + 1, stringSplits[j - 1].indexOf(','));                //to get id of current page
                 arr[j - 1] = linkOfCurrentPage;
-                int tempForKarim = stringSplits[j-1].indexOf("//");
-                stringSplits[j-1] = stringSplits[j-1].substring(tempForKarim+1);
 
+                /*
                 //to get the length of the page
-              /*  int charTempType77 = linkOfCurrentPage.indexOf("//") + 2;
+                int charTempType77 = linkOfCurrentPage.indexOf("//") + 2;
                 String tempLinkOfCurrentPage = linkOfCurrentPage.substring(charTempType77);
-                tempLinkOfCurrentPage = tempLinkOfCurrentPage.replaceAll("[/]", "");*/
-
+                tempLinkOfCurrentPage = tempLinkOfCurrentPage.replaceAll("[/]", "");
+                */
 
                 Long lengthOfPage = wordsCount.get(linkOfCurrentPage);   //try to get pageID
 
@@ -219,8 +212,8 @@ public class Ranker {
                     coeff = 1.0 / 8.0;
 
                 //to get number of occurrences of each word
-                int countTempType = stringSplits[j - 1].indexOf(':');
-                String countTemp = stringSplits[j - 1].substring(countTempType + 1);
+                int countTempType = stringSplits[j - 1].indexOf("]:");
+                String countTemp = stringSplits[j - 1].substring(countTempType + 2);
                 numOfOccerrencesInCurrentDocument += coeff * Double.parseDouble(countTemp);
                 numOfOccerrencesInAllDocuments += Integer.parseInt(countTemp);                      //total occurrences of a word in all documents
 
@@ -230,8 +223,12 @@ public class Ranker {
                 String linkOfNextPage = "-1";                //to get id of current page
 
                 if (j == stringSplits.length) {
-                    charTempType55 = stringSplits[j - 2].indexOf('[');
-                    linkOfPreviousPage = stringSplits[j - 2].substring(charTempType55 + 1, stringSplits[j - 2].indexOf(','));                //to get id of current page
+                    if(j>1)
+                    {
+                        charTempType55 = stringSplits[j - 2].indexOf('[');
+                        linkOfPreviousPage = stringSplits[j - 2].substring(charTempType55 + 1, stringSplits[j - 2].indexOf(',')); //to get id of current page
+                    }
+
                 } else {
                     charTempType33 = stringSplits[j].indexOf('[');
                     linkOfNextPage = stringSplits[j].substring(charTempType33 + 1, stringSplits[j].indexOf(','));                //to get id of current page
@@ -240,6 +237,7 @@ public class Ranker {
 
                 if (! linkOfNextPage.equals(linkOfCurrentPage) && lengthOfPage != null && lengthOfPage != 0) {
                     tf = Double.valueOf(numOfOccerrencesInCurrentDocument) / lengthOfPage;
+
                     Links_numOfOccurrences.put(linkOfCurrentPage, tf);          //put id
                 }
                 tf = 0;
@@ -325,6 +323,18 @@ public class Ranker {
             System.out.println(pagesRank2.get(tempArray[t]));
         }
         return pagesRank2;
-
     }
+
+//    public  static void main(String  argv [])
+//    {
+//        Ranker r = new Ranker();
+//        Map<String , Double> m = new HashMap<>();
+//        try {
+//            m = r.calculateRelevance();
+//        } catch (FileNotFoundException e) {
+//            e.printStackTrace();
+//        } catch (JSONException e) {
+//            e.printStackTrace();
+//        }
+//    }
 }

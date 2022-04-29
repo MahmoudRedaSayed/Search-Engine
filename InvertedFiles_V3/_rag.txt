@@ -1,2 +1,2 @@
-/raged|[https://www.iflscience.com/environment/,p]:1;
-/rags|[https://www.dailymail.co.uk/news/index.html,h]:1;
+/raged|[https://www.iflscience.com/environment/,p]:1;[https://www.iflscience.com/environment/the-largest-accidental-release-of-radioactive-material-in-us-history-what-happened-at-church-rock/,p]:1;
+/rags|[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;

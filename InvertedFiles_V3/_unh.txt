@@ -1,1 +1,3 @@
-/unhappy|[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/unhappy|[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/unhealthy|[https://www.healthline.com/program/wellness,p]:1;[https://order.store.mayoclinic.com/books/GNWEB37?utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=Diet-Book&utm_content=DIET,p]:1;
+/unheard|[https://www.iflscience.com/plants-and-animals/new-humpback-whale-call-recorded-by-scientists-for-first-time/,p]:1;

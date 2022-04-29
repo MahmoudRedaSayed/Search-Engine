@@ -1,5 +1,8 @@
-/miracle|[https://www.iflscience.com/,p]:1;[https://www.iflscience.com/,p]:1;[https://www.iflscience.com/,p]:1;[https://www.iflscience.com/,p]:1;[https://www.iflscience.com/,p]:1;[https://www.menshealth.com/mvp-exclusives/,h]:1;
-/mirror|[https://www.menshealth.com[https://www.menshealth.com
+/miracle|[https://www.iflscience.com/,p]:1;[https://www.iflscience.com/,p]:1;[https://www.iflscience.com/,p]:1;[https://www.iflscience.com/,p]:1;[https://www.iflscience.com/,p]:1;[https://www.menshealth.com/mvp-exclusives/,h]:1;[https://www.iflscience.com/,p]:1;[https://www.menshealth.com/mvp-exclusives/,h]:1;[https://www.dailyom.com/,h]:1;[https://www.dailyom.com/,h]:1;
+/mirror|[https://www.menshealth.com[https://www.menshealth.com[https://www.menshealth.com
 ,p]:1;
 ,p]:1;
-/mirada|[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]:1;[https://www.marca.com,h]:1;
+,p]:1;
+/mirada|[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]:1;[https://www.marca.com,h]:1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]:1;
+/mirrorlike|[https://www.iflscience.com/environment/what-would-happen-if-you-jumped-into-lake-natron-you-wont-turn-to-stone-but-it-wouldnt-be-fun/,p]:1;
+/mire|[https://www.dailymail.co.uk/sport/index.html,h]:1;

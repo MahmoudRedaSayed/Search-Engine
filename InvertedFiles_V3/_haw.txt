@@ -1,2 +1,4 @@
-/hawkers|[https://www.marca.com,h]:1;
-/hawks|[https://www.dailymail.co.uk/news/index.html,p]:1;
+/hawkers|[https://www.marca.com,h]:1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]:1;
+/hawks|[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/hawaiians|[https://jobs.mayoclinic.org/diversity,p]:1;[https://www.iflscience.com/environment/people-avoided-chiles-coast-for-1000-years-after-ancient-megatsunami/,p]:1;
+/hawkins|[https://www.dailymail.co.uk/sport/index.html,p]:1;

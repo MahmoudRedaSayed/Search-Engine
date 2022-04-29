@@ -1,6 +1,12 @@
-/roubaix|[https://www.marca.com,h]:1;
-/routes|[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;
+/roubaix|[https://www.marca.com,h]:1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]:1;
+/routes|[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://developers.google.com/maps,h]:1;[https://developers.google.com/maps,p]:1;[https://developers.google.com/maps,p]:1;[https://mapsplatform.google.com/pricing/,p]:1;[https://mapsplatform.google.com/pricing/,p]:1;[https://mapsplatform.google.com/pricing/,p]:1;
 /rounds|[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;
-/routine|[https://www.healthline.com/fitness,p]:1;
-/rounded|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
-/rough|[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/routine|[https://www.healthline.com/fitness,p]:1;[https://www.healthline.com/fitness,p]:1;[https://www.healthline.com/program/wellness,p]:1;[https://www.healthline.com/program/wellness,p]:1;[https://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/in-depth/pregnancy/art-20047441,s]:1;[https://order.store.mayoclinic.com/flex/mmv/OBSTE01/?utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=Obstetricks-Book&utm_content=OB1,p]:1;[https://order.store.mayoclinic.com/books/GNWEB09?utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=Pregnancy-Book&utm_content=PREG,p]:1;[https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/expert-answers/breastfeeding-strike/faq-20058157,s]:1;[https://www.dailymail.co.uk/sport/index.html,h]:1;[https://order.store.mayoclinic.com/flex/mmv/LIVEY01/?utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=LiveYounger-Book&utm_content=LIVEY1,p]:1;[https://order.store.mayoclinic.com/books/GNWEB37?utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=Diet-Book&utm_content=DIET,p]:1;
+/rounded|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/rough|[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/routines|[https://www.healthline.com/program/sleep,h]:1;[https://www.healthline.com/program/sleep,p]:1;[https://www.healthline.com/program/wellness,p]:1;[https://www.healthline.com/sleep,h]:1;[https://www.healthline.com/sleep,p]:1;
+/routines…|[https://www.healthline.com/program/sleep,p]:1;[https://www.healthline.com/sleep,p]:1;
+/roundup|[https://www.healthline.com/program/the-sustainable-table,p]:1;[https://www.healthline.com/program/the-sustainable-table,p]:1;[https://www.healthline.com/program/the-sustainable-table#start-here,p]:1;[https://www.healthline.com/program/the-sustainable-table#start-here,p]:1;
+/rousing|[https://www.dailymail.co.uk/sport/index.html,s]:1;
+/roughly|[https://historyhub.history.gov/community/military-records/army-and-air-force-records/blog/2017/08/25/wwii-military-unit-records-at-the-national-archives,p]:1;[https://historyhub.history.gov/community/military-records/army-and-air-force-records/blog/2017/08/25/wwii-military-unit-records-at-the-national-archives,p]:1;
+/round'|[https://www.rfi.fr/en/,p]:1;

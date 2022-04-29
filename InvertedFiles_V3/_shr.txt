@@ -1,3 +1,5 @@
-/shrinking|[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
-/shredded|[https://www.menshealth.com/mvp-exclusives/,h]:1;
-/shrek|[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;
+/shrinking|[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+/shredded|[https://www.menshealth.com/mvp-exclusives/,h]:1;[https://www.menshealth.com/mvp-exclusives/,h]:1;[https://www.iflscience.com/environment/what-would-happen-if-you-jumped-into-lake-natron-you-wont-turn-to-stone-but-it-wouldnt-be-fun/,p]:1;[https://shop.menshealth.com/editors-picks.html?source=mhl_hamburger,s]:1;[https://shop.menshealth.com/editors-picks.html?source=mhl_hamburger,s]:1;
+/shrek|[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;
+/shrub|[https://www.sciencenewsforstudents.org/article/murder-hornet-asian-giant-trap-sex-pheromone,p]:1;
+/shrank|[https://www.sciencenewsforstudents.org/article/innovation_2022-green-material-tree-cellulose-nanocrystals,p]:1;

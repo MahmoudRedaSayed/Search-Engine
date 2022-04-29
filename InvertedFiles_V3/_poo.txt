@@ -1,5 +1,7 @@
-/poor|[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;
-/pool|[https://www.healthline.com/fitness,p]:1;
-/pooled|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
-/pooling|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
-/pools|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/poor|[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.healthline.com/program/sleep,p]:1;[https://www.healthline.com/sleep,p]:1;[https://www.iflscience.com/environment/over-300-dead-in-south-african-floods-as-scientists-warn-of-climate-changeinduced-stronger-storms/,p]:1;[https://www.dailymail.co.uk/sport/index.html,h]:1;[https://www.iflscience.com/environment/global-heating-means-faster-ocean-currents-66-million-years-of-data-suggests/,p]:1;
+/pool|[https://www.healthline.com/fitness,p]:1;[https://www.healthline.com/fitness,p]:1;
+/pooled|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/pooling|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/pools|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.iflscience.com/environment/the-largest-accidental-release-of-radioactive-material-in-us-history-what-happened-at-church-rock/,p]:1;[https://www.iflscience.com/environment/the-largest-accidental-release-of-radioactive-material-in-us-history-what-happened-at-church-rock/,p]:1;
+/poop|[https://www.sciencenewsforstudents.org/article/murder-hornet-asian-giant-trap-sex-pheromone,h]:1;
+/poorlybuilt|[https://www.iflscience.com/environment/over-300-dead-in-south-african-floods-as-scientists-warn-of-climate-changeinduced-stronger-storms/,p]:1;

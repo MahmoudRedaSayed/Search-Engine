@@ -1,1 +1,4 @@
-/ashour|[https://english.ahram.org.eg/,h]:1;[https://english.ahram.org.eg/,h]:1;[https://english.ahram.org.eg/,h]:1;[https://english.ahram.org.eg/,h]:1;
+/ashour|[https://english.ahram.org.eg/,h]:1;[https://english.ahram.org.eg/,h]:1;[https://english.ahram.org.eg/,h]:1;[https://english.ahram.org.eg/,h]:1;[https://english.ahram.org.eg/,h]:1;
+/ashshutterstockcom|[https://www.iflscience.com/environment/the-largest-accidental-release-of-radioactive-material-in-us-history-what-happened-at-church-rock/,p]:1;
+/asheville|[https://www.everydayhealthgroup.com/,s]:1;[https://www.everydayhealthgroup.com/,p]:1;[https://www.everydayhealthgroup.com/,p]:1;
+/ashley|[https://www.dailymail.co.uk/sport/index.html,s]:1;

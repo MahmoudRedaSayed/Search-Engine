@@ -1,1 +1,2 @@
-/bishops|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;
+/bishops|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;
+/bisexual|[https://jobs.mayoclinic.org/diversity,p]:1;

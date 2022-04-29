@@ -1,1 +1,3 @@
-/jim|[https://www.dailymail.co.uk/news/index.html,p]:1;
+/jim|[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.iflscience.com/environment/is-veganism-the-solution-to-climate-change/,p]:1;
+/jimi|[https://www.dailymail.co.uk/ushome/index.html,h]:1;
+/jimmy|[https://www.dailymail.co.uk/sport/index.html,s]:1;[https://www.dailymail.co.uk/sport/index.html,s]:1;

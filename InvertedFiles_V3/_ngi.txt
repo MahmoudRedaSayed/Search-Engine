@@ -1,1 +1,1 @@
-/nginx|[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;
+/nginx|[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;

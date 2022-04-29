@@ -1,2 +1,5 @@
-/bible|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
-/bibliographies|[https://ask.loc.gov/law,p]:1;
+/bible|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/bibliographies|[https://ask.loc.gov/law,p]:1;[https://ask.loc.gov/business,p]:1;[https://ask.loc.gov/law,p]:1;
+/biblioteca|[https://www.loc.gov/rr/video-tutorials.html,p]:1;[https://www.loc.gov/rr/video-tutorials.html,p]:1;[https://www.loc.gov/rr/video-tutorials.html,p]:1;[https://www.loc.gov/rr/video-tutorials.html,p]:1;[https://www.loc.gov/rr/video-tutorials.html,p]:1;
+/bibliotecario|[https://www.loc.gov/rr/video-tutorials.html,p]:1;
+/bibliography|[https://pubmed.ncbi.nlm.nih.gov/?term=covid-19,h]:1;

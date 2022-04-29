@@ -1,1 +1,3 @@
-/fda|[https://familydoctor.org/,p]:1;
+/fda|[https://familydoctor.org/,p]:1;[https://familydoctor.org/,p]:1;[https://www.healthline.com/program/wellness,p]:1;[https://www.whattoexpect.com/,h]:1;
+/fdaapproved|[https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/herd-immunity-and-coronavirus/art-20486808,p]:1;
+/fdaauthorized|[https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/herd-immunity-and-coronavirus/art-20486808,p]:1;

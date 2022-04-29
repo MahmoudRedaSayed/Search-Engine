@@ -1,2 +1,3 @@
-/kasa|[https://www.bbc.com/,p]:1;[https://www.bbc.com,p]:1;
+/kasa|[https://www.bbc.com/,p]:1;[https://www.bbc.com,p]:1;[https://www.bbc.com,p]:1;
 /kasson|[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;
+/kasie|[https://www.dailymail.co.uk/ushome/index.html,h]:1;

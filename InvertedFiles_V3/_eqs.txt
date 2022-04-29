@@ -1,1 +1,1 @@
-/eqs|[https://www.dailymail.co.uk/news/index.html,h]:1;
+/eqs|[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;

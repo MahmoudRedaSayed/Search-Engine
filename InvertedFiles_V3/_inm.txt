@@ -1,1 +1,2 @@
-/inmuta|[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]:1;[https://www.marca.com,h]:1;
+/inmuta|[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]:1;[https://www.marca.com,h]:1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]:1;
+/inminente|[https://www.marca.com/motor/formula1.html?intcmp=MENUMIGA&s_kw=formula-1,h]:1;

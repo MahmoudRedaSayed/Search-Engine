@@ -1,2 +1,2 @@
-/orthodox|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/orthodox|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
 /orthopedicsurology|[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;

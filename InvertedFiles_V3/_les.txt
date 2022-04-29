@@ -1,4 +1,6 @@
-/lessons|[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.marca.com,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
-/lesbian's|[https://www.bbc.com/,h]:1;[https://www.bbc.com,h]:1;
-/lester|[https://www.loc.gov,h]:1;[https://www.loc.gov/,h]:1;
-/lestrange|[https://www.dailymail.co.uk/news/index.html,p]:1;
+/lessons|[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.marca.com,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;[https://classroom.kidshealth.org,p]:1;[https://classroom.kidshealth.org,p]:1;[https://classroom.kidshealth.org,p]:1;[https://classroom.kidshealth.org/?WT.ac=mhp_e_en,p]:1;[https://classroom.kidshealth.org/?WT.ac=mhp_e_en,p]:1;[https://classroom.kidshealth.org/?WT.ac=mhp_e_en,p]:1;[https://www.francemediasmonde.com/en/legal-notice,p]:1;[https://fmm.io/MarchesPublics,p]:1;[https://fmm.io/MarchesPublics,p]:1;[https://fmm.io/MarchesPublics,p]:1;
+/lesbian's|[https://www.bbc.com/,h]:1;[https://www.bbc.com,h]:1;[https://www.bbc.com,h]:1;[https://jobs.mayoclinic.org/diversity,p]:1;
+/lester|[https://www.loc.gov,h]:1;[https://www.loc.gov/,h]:1;[https://www.iflscience.com/environment/buckle-up-for-yet-another-wild-atlantic-hurricane-season-this-year/,p]:1;
+/lestrange|[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/lesser|[https://www.iflscience.com/environment/what-would-happen-if-you-jumped-into-lake-natron-you-wont-turn-to-stone-but-it-wouldnt-be-fun/,p]:1;
+/lesions|[https://www.iflscience.com/environment/maps-show-locations-of-worryingly-high-uranium-levels-in-us-water-supply/,p]:1;

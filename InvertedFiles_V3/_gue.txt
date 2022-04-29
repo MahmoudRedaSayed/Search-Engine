@@ -1,2 +1,4 @@
-/guest|[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;
-/guess|[https://www.bbc.co.uk,p]:1;[https://www.bbc.co.uk,p]:1;[https://www.bbc.co.uk,p]:1;[https://www.bbc.co.uk,p]:1;[https://www.bbc.co.uk,p]:1;[https://www.bbc.co.uk,p]:1;[https://www.iflscience.com/technology/,p]:1;
+/guest|[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.rfi.fr/en/,p]:1;
+/guess|[https://www.bbc.co.uk,p]:1;[https://www.bbc.co.uk,p]:1;[https://www.bbc.co.uk,p]:1;[https://www.bbc.co.uk,p]:1;[https://www.bbc.co.uk,p]:1;[https://www.bbc.co.uk,p]:1;[https://www.iflscience.com/technology/,p]:1;[https://www.iflscience.com/technology/,p]:1;[https://www.healthline.com/parenthood,p]:1;[https://www.whattoexpect.com/,p]:1;
+/guests|[https://www.dailymail.co.uk/ushome/index.html,p]:1;
+/gueye|[https://www.dailymail.co.uk/sport/index.html,p]:1;

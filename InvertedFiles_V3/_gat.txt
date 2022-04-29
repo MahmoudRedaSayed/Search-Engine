@@ -1,2 +1,4 @@
-/gathering|[https://www.loc.gov,h]:1;[https://www.loc.gov/,h]:1;
+/gathering|[https://www.loc.gov,h]:1;[https://www.loc.gov/,h]:1;[https://www.healthline.com/program/the-sustainable-table,p]:1;[https://www.healthline.com/program/the-sustainable-table#start-here,p]:1;[https://itunes.apple.com/gb/app/kick-it-out/id630458751,p]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;[https://www.iflscience.com/environment/chernobyls-radiation-spikes-may-be-result-of-russian-equipment-interference-argue-scientists/,p]:1;
 /gatwick|[https://discountcode.dailymail.co.uk/,p]:1;
+/gathered|[https://www.healthline.com/program/wellness,p]:1;[https://www.healthline.com/program/wellness,p]:1;[https://www.healthline.com/program/wellness,p]:1;
+/gate|[https://www.sciencenewsforstudents.org/article/innovation_2022-green-material-tree-cellulose-nanocrystals,p]:1;

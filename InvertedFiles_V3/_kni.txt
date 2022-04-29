@@ -1,3 +1,6 @@
-/knife|[https://www.menshealth.com[https://www.menshealth.com[https://www.dailymail.co.uk/news/index.html,p]:1;
+/knife|[https://www.menshealth.com[https://www.menshealth.com[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.menshealth.com[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/ushome/index.html,h]:1;
 ,h]:1;
 ,h]:1;
+,h]:1;
+/knives|[https://www.sciencenewsforstudents.org/article/innovation_2022-green-material-tree-cellulose-nanocrystals,h]:1;
+/knight|[https://www.dailymail.co.uk/sport/index.html,h]:1;

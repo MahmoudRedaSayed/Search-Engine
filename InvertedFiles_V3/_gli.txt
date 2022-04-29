@@ -1,2 +1,4 @@
 /glidden|[https://www.loc.gov,h]:1;[https://www.loc.gov/,h]:1;
-/glimpse|[https://www.dailymail.co.uk/news/index.html,p]:1;
+/glimpse|[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/sport/index.html,p]:1;[https://www.iflscience.com/plants-and-animals/new-humpback-whale-call-recorded-by-scientists-for-first-time/,p]:1;
+/glitch?|[https://www.archives.gov/research/catalog,p]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;
+/glitter|[https://www.sciencenewsforstudents.org/article/innovation_2022-green-material-tree-cellulose-nanocrystals,h]:1;

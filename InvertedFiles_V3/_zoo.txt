@@ -1,0 +1,4 @@
+/zoo|[https://whyy.org/articles/should-i-get-my-kids-the-covid-19-vaccine-booster/,p]:1;
+/zoom|[https://developers.google.com/maps,p]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;[http://goo.gle/map-move-camera,h]:1;[http://goo.gle/map-move-camera,p]:1;[http://goo.gle/map-move-camera,p]:1;[http://goo.gle/map-move-camera,p]:1;[http://goo.gle/map-move-camera,p]:1;[http://goo.gle/map-move-camera,p]:1;[http://goo.gle/map-move-camera,p]:1;[http://goo.gle/map-move-camera,p]:1;[http://goo.gle/map-move-camera,p]:1;[http://goo.gle/map-move-camera,p]:1;[http://goo.gle/map-move-camera,p]:1;[http://goo.gle/map-move-camera,p]:1;[http://goo.gle/map-move-camera,p]:1;
+/zooming|[https://mapsplatform.google.com/pricing/,p]:1;[http://goo.gle/map-move-camera,p]:1;
+/zoomlevel|[http://goo.gle/maps-platform-io21-announcements,p]:1;

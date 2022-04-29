@@ -1,2 +1,4 @@
-/likens|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
-/like?”|[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;
+/likens|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/like?”|[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;
+/likely”|[https://www.iflscience.com/environment/is-veganism-the-solution-to-climate-change/,p]:1;
+/likes|[http://www.premierleague.com/en-gb/,p]:1;[https://www.dailymail.co.uk/sport/index.html,s]:1;[https://www.dailymail.co.uk/sport/index.html,s]:1;[https://www.dailymail.co.uk/sport/index.html,p]:1;

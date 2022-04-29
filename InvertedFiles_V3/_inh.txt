@@ -1,3 +1,7 @@
-/inhabitants|[https://www.iflscience.com/environment/,p]:1;
-/inhibited|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
-/inherent|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;
+/inhabitants|[https://www.iflscience.com/environment/,p]:1;[https://www.iflscience.com/environment/people-avoided-chiles-coast-for-1000-years-after-ancient-megatsunami/,p]:1;[http://kidshealth.org/en/kids/,p]:1;
+/inhibited|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/inherent|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;
+/inhalation|[https://www.iflscience.com/environment/the-largest-accidental-release-of-radioactive-material-in-us-history-what-happened-at-church-rock/,p]:1;
+/inherit|[https://www.dailymail.co.uk/sport/index.html,p]:1;
+/inhaling|[https://www.iflscience.com/environment/scotlands-anthrax-island-ablaze-with-apocalyptic-wildfires/,p]:1;
+/inhaled|[https://www.iflscience.com/environment/scotlands-anthrax-island-ablaze-with-apocalyptic-wildfires/,p]:1;

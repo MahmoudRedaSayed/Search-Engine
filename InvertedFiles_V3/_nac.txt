@@ -1,1 +1,2 @@
-/nacido|[https://www.marca.com,h]:1;
+/nacido|[https://www.marca.com,h]:1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]:1;
+/nacrelike|[https://www.sciencenewsforstudents.org/article/innovation_2022-green-material-tree-cellulose-nanocrystals,p]:1;

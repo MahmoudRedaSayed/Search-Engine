@@ -1,1 +1,2 @@
-/beware|[https://www.bbc.com/,h]:1;[https://www.bbc.com,h]:1;
+/beware|[https://www.bbc.com/,h]:1;[https://www.bbc.com,h]:1;[https://www.bbc.com,h]:1;
+/bewildering|[https://www.loc.gov/duplicationservices/,p]:1;

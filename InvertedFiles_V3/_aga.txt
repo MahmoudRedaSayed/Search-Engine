@@ -1,3 +1,4 @@
 /again?|[https://www.bbc.co.uk,p]:1;[https://www.bbc.co.uk,p]:1;
 /again"|[https://discountcode.dailymail.co.uk/,p]:1;
-/again'|[https://www.dailymail.co.uk/news/index.html,h]:1;
+/again'|[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/sport/index.html,h]:1;[https://www.dailymail.co.uk/sport/index.html,h]:1;
+/agatha|[https://www.iflscience.com/environment/buckle-up-for-yet-another-wild-atlantic-hurricane-season-this-year/,p]:1;

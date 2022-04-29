@@ -1,0 +1,2 @@
+/jason|[https://www.dailymail.co.uk/sport/index.html,p]:1;
+/jasa|[https://www.iflscience.com/plants-and-animals/new-humpback-whale-call-recorded-by-scientists-for-first-time/,p]:1;[https://asa.scitation.org/doi/10.1121/10.0010072,t]:1;

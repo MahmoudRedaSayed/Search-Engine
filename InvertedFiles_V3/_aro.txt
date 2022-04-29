@@ -1,2 +1,3 @@
-/arousing|[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;
-/arousal|[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;
+/arousing|[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;
+/arousal|[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;
+/aroma|[https://www.sciencenewsforstudents.org/article/murder-hornet-asian-giant-trap-sex-pheromone,p]:1;

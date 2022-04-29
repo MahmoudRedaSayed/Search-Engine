@@ -1,1 +1,2 @@
-/itv|[https://www.marca.com,h]:1;[https://www.sky.com,p]:1;
+/itv|[https://www.marca.com,h]:1;[https://www.sky.com,p]:1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]:1;[https://www.sky.com,p]:1;
+/itv's|[https://www.dailymail.co.uk/sport/index.html,p]:1;

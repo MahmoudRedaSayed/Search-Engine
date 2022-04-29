@@ -1,1 +1,3 @@
-/adequately|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/adequately|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/adelphi|[https://www.archives.gov/research/catalog,p]:1;
+/adeleye|[https://www.dailymail.co.uk/sport/index.html,s]:1;

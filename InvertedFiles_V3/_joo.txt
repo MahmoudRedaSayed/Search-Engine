@@ -1,1 +1,2 @@
-/joomla|[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;
+/joomla|[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;
+/joon|[http://www.enable-javascript.com/,p]:1;

@@ -1,2 +1,4 @@
-/italian|[https://www.bbc.com/,h]:1;[https://www.bbc.com,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
-/italy|[https://www.dailymail.co.uk/news/index.html,p]:1;
+/italian|[https://www.bbc.com/,h]:1;[https://www.bbc.com,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.bbc.com,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/sport/index.html,h]:1;[https://www.dailymail.co.uk/sport/index.html,p]:1;[https://www.dailymail.co.uk/sport/index.html,p]:1;
+/italy|[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/italiano|[http://www.enable-javascript.com/,p]:1;
+/italiana|[https://www.marca.com/motor/formula1.html?intcmp=MENUMIGA&s_kw=formula-1,h]:1;

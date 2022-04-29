@@ -1,3 +1,5 @@
-/razors|[https://www.menshealth.com[https://www.menshealth.com
+/razors|[https://www.menshealth.com[https://www.menshealth.com[https://www.menshealth.com
 ,h]:1;
 ,h]:1;
+,h]:1;
+/razorsharp|[https://www.iflscience.com/environment/what-would-happen-if-you-jumped-into-lake-natron-you-wont-turn-to-stone-but-it-wouldnt-be-fun/,p]:1;

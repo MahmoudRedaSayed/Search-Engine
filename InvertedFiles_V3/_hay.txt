@@ -1,1 +1,4 @@
-/hay|[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org,h]:1;
+/hay|[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org,h]:1;[https://www.marca.com/motor/formula1.html?intcmp=MENUMIGA&s_kw=formula-1,s]:1;
+/hayu|[https://www.nowtv.com/tv-passes,p]:1;[https://www.nowtv.com/tv-passes,p]:1;[https://www.nowtv.com/tv-passes,p]:1;
+/haye|[https://www.dailymail.co.uk/sport/index.html,h]:1;[https://www.dailymail.co.uk/sport/index.html,s]:1;[https://www.dailymail.co.uk/sport/index.html,p]:1;[https://www.dailymail.co.uk/sport/index.html,p]:1;[https://www.dailymail.co.uk/sport/index.html,p]:1;
+/hayes|[https://www.dailymail.co.uk/sport/index.html,h]:1;

@@ -1,5 +1,10 @@
-/pillow|[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;
+/pillow|[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;
 /pillaged|[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;
-/pilates|[https://www.healthline.com/fitness,p]:1;
-/pills|[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;
-/piles|[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/pilates|[https://www.healthline.com/fitness,p]:1;[https://www.healthline.com/fitness,p]:1;
+/pills|[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.healthline.com/program/wellness,p]:1;
+/piles|[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/piloto|[https://www.marca.com/motor/formula1.html?intcmp=MENUMIGA&s_kw=formula-1,h]:1;
+/pilotos|[https://www.marca.com/motor/formula1.html?intcmp=MENUMIGA&s_kw=formula-1,h]:1;
+/pileup|[https://www.dailymail.co.uk/sport/index.html,p]:1;
+/pilots|[https://historyhub.history.gov/community/military-records/army-and-air-force-records/blog/2017/08/25/wwii-military-unit-records-at-the-national-archives,p]:1;
+/pillows|[https://www.whattoexpect.com/,h]:1;

@@ -1,2 +1,4 @@
-/fabric|[https://www.sciencenewsforstudents.org/topics/,p]:1;
-/fabricating|[https://www.dailymail.co.uk/news/index.html,p]:1;
+/fabric|[https://www.sciencenewsforstudents.org/topics/,p]:1;[https://jobs.mayoclinic.org/diversity,p]:1;[https://www.healthline.com/program/wellness,p]:1;[https://www.sciencenewsforstudents.org/author/katie-grace-carpenter,p]:1;[http://www.premierleague.com/en-gb/,p]:1;
+/fabricating|[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;
+/fabio|[https://www.dailymail.co.uk/sport/index.html,s]:1;
+/fabinho|[https://www.dailymail.co.uk/sport/index.html,s]:1;

@@ -1,5 +1,8 @@
-/judd|[https://www.menshealth.com[https://www.menshealth.com
+/judd|[https://www.menshealth.com[https://www.menshealth.com[https://www.menshealth.com
 ,h]:1;
 ,h]:1;
-/judgment|[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.mayoclinic.org/global,p]:1;
-/judgments|[https://www.mayoclinic.org/global,p]:1;
+,h]:1;
+/judgment|[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.mayoclinic.org/global,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.mayoclinic.org/global,p]:1;
+/judgments|[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;
+/judgement|[https://www.healthline.com/mental-health,p]:1;[https://www.bbc.co.uk/news/help-41670342,p]:1;[https://www.bbc.co.uk/news/help-41670342,p]:1;[https://www.dailymail.co.uk/ushome/index.html,h]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;
+/judging|[https://www.iflscience.com/environment/people-avoided-chiles-coast-for-1000-years-after-ancient-megatsunami/,p]:1;

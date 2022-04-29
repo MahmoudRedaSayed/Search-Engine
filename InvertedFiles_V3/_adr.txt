@@ -1,0 +1,2 @@
+/adrian|[https://www.dailymail.co.uk/sport/index.html,p]:1;
+/adriana|[https://www.iflscience.com/environment/global-heating-means-faster-ocean-currents-66-million-years-of-data-suggests/,p]:1;

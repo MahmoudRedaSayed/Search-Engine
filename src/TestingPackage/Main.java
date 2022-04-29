@@ -67,25 +67,25 @@ public class Main {
         Ranker rankerObj = new Ranker();
         String finalJSONARRAY;
         QueryProcessing obj = new QueryProcessing();
-        //PhraseSearching phraseSearchingObj = new PhraseSearching();
+        PhraseSearching phraseSearchingObj = new PhraseSearching();
         String searchingQuery;
         ArrayList<String> rankerArray = new ArrayList<String>();
-        searchingQuery = "transporting continues     controlling";
+        searchingQuery = "اندلاع consumption     conference";
         System.out.println(searchingQuery);
-        finalJSONARRAY = obj.run(searchingQuery, rankerArray, dividedQuery);
+        finalJSONARRAY = phraseSearchingObj.run(searchingQuery, rankerArray, dividedQuery);
 //        HashMap<String, Double> toBeSorted = new HashMap<String, Double>();
 //        toBeSorted.put("link1", 0.25);
 //        toBeSorted.put("Link2", 0.5);
 //        toBeSorted.put("Link3", 0.45);
 
-        Map<String, Double> rankingResult = rankerObj.calculateRelevance(rankerArray);
-        HashMap<String, Double> toBeSorted = new HashMap<String, Double>(rankingResult);
-        HashMap<String, Double> sortedRankerMap = QueryProcessing.sortByValue(toBeSorted);
+//        Map<String, Double> rankingResult = rankerObj.calculateRelevance(rankerArray);
+//        HashMap<String, Double> toBeSorted = new HashMap<String, Double>(rankingResult);
+//        HashMap<String, Double> sortedRankerMap = QueryProcessing.sortByValue(toBeSorted);
 //        HashMap<String,Double> linksRankedMap = QueryProcessing.replaceIDByLink(toBeSorted);
 
-        for (Map.Entry<String, Double> entry : sortedRankerMap.entrySet()) {
-            System.out.println(entry.getKey() + ":" + entry.getValue().toString());
-          }
+//        for (Map.Entry<String, Double> entry : sortedRankerMap.entrySet()) {
+//            System.out.println(entry.getKey() + ":" + entry.getValue().toString());
+//          }
 
             System.out.println(finalJSONARRAY);
             System.out.println(dividedQuery.toString());
@@ -116,7 +116,7 @@ public class Main {
 //
 //        ///////////////////////////////////////////////////////
 //
-            /*---------------     Start Indexing ----------------------*/
+//            /*---------------     Start Indexing ----------------------*/
 //        // create files
 //        WorkingFiles.createInvertedFiles();
 //

@@ -1,1 +1,2 @@
-/bianca|[https://www.dailymail.co.uk/news/index.html,p]:1;
+/bianca|[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/bias|[https://www.everydayhealthgroup.com/,p]:1;[http://www.thepfa.com/,p]:1;

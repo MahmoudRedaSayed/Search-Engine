@@ -1,1 +1,2 @@
-/coffee|[https://developers.google.com/assistant,p]:1;
+/coffee|[https://developers.google.com/assistant,p]:1;[https://developers.google.com/assistant,p]:1;[https://www.healthline.com/program/the-sustainable-table,p]:1;[https://www.healthline.com/program/the-sustainable-table,p]:1;[https://www.healthline.com/program/the-sustainable-table#start-here,p]:1;[https://www.healthline.com/program/the-sustainable-table#start-here,p]:1;
+/coffeecolored|[https://www.nationalgeographic.com/environment/article/why-old-growth-forests-matter,p]:1;

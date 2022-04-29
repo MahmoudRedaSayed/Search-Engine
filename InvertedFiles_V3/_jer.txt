@@ -1,2 +1,5 @@
 /jerusalem's|[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;
-/jersey|[https://www.loc.gov,h]:1;[https://www.loc.gov/,h]:1;
+/jersey|[https://www.loc.gov,h]:1;[https://www.loc.gov/,h]:1;[https://whyy.org/articles/should-i-get-my-kids-the-covid-19-vaccine-booster/,p]:1;
+/jerry|[https://www.nationalgeographic.com/environment/article/why-old-growth-forests-matter,p]:1;
+/jeremy|[http://www.enable-javascript.com/,p]:1;[http://www.enable-javascript.com/,p]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;
+/jerarquías"|[https://www.marca.com/motor/formula1.html?intcmp=MENUMIGA&s_kw=formula-1,h]:1;

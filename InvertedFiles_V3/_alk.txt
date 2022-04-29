@@ -1,1 +1,3 @@
-/alkhalili|[https://www.dailymail.co.uk/news/index.html,p]:1;
+/alkhalili|[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/alkaline|[https://www.iflscience.com/environment/what-would-happen-if-you-jumped-into-lake-natron-you-wont-turn-to-stone-but-it-wouldnt-be-fun/,p]:1;
+/alkalinity|[https://www.iflscience.com/environment/what-would-happen-if-you-jumped-into-lake-natron-you-wont-turn-to-stone-but-it-wouldnt-be-fun/,p]:1;

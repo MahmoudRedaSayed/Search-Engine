@@ -1,3 +1,6 @@
-/nasa|[https://www.bbc.com/,h]:1;[https://www.bbc.com,h]:1;
-/nasas|[https://www.nationalgeographic.com/environment,h]:1;[https://www.nationalgeographic.com/environment,h]:1;[https://www.nationalgeographic.com/environment,h]:1;[https://www.iflscience.com/technology/,p]:1;
-/nasa's|[https://www.iflscience.com/technology/,h]:1;
+/nasa|[https://www.bbc.com/,h]:1;[https://www.bbc.com,h]:1;[https://www.nationalgeographic.com/environment/article/why-old-growth-forests-matter,h]:1;[https://www.bbc.com,h]:1;[https://www.iflscience.com/environment/buckle-up-for-yet-another-wild-atlantic-hurricane-season-this-year/,p]:1;
+/nasas|[https://www.nationalgeographic.com/environment,h]:1;[https://www.nationalgeographic.com/environment,h]:1;[https://www.nationalgeographic.com/environment,h]:1;[https://www.iflscience.com/technology/,p]:1;[https://www.nationalgeographic.com/environment/article/why-old-growth-forests-matter,h]:1;[https://www.nationalgeographic.com/environment/article/why-old-growth-forests-matter,h]:1;[https://www.nationalgeographic.com/environment/article/why-old-growth-forests-matter,h]:1;[https://www.nationalgeographic.com/environment,h]:1;[https://www.nationalgeographic.com/environment,h]:1;[https://www.nationalgeographic.com/environment,h]:1;[https://www.iflscience.com/technology/,p]:1;
+/nasa's|[https://www.iflscience.com/technology/,h]:1;[https://www.iflscience.com/technology/,h]:1;
+/nasal|[https://whyy.org/articles/should-i-get-my-kids-the-covid-19-vaccine-booster/,p]:1;
+/nasdaq|[https://www.everydayhealthgroup.com/,p]:1;[https://www.everydayhealthgroup.com/,p]:1;
+/nasajpl|[https://www.iflscience.com/environment/global-heating-means-faster-ocean-currents-66-million-years-of-data-suggests/,p]:1;

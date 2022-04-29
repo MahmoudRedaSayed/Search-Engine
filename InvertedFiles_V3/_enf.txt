@@ -1,1 +1,1 @@
-/enforcement|[https://www.mayoclinic.org/global,p]:1;
+/enforcement|[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;[http://google.com/chrome,p]:1;[https://www.iflscience.com/environment/maps-show-locations-of-worryingly-high-uranium-levels-in-us-water-supply/,p]:1;

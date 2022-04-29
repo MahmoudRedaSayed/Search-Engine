@@ -1,1 +1,2 @@
-/mechanisms|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/mechanisms|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://itunes.apple.com/gb/app/kick-it-out/id630458751,p]:1;[https://www.ncbi.nlm.nih.gov/research/,p]:1;
+/mechanics|[https://shop.menshealth.com/?source=mhl_hamburger,p]:1;[https://shop.menshealth.com/editors-picks.html?source=mhl_hamburger,s]:1;[https://shop.menshealth.com/editors-picks.html?source=mhl_hamburger,p]:1;[https://shop.menshealth.com/mens-health-weight-loss.html?source=mhl_hamburger,p]:1;[https://shop.menshealth.com/apparel.html?source=mhl_hamburger,p]:1;

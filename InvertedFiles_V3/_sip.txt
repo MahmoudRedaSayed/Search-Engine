@@ -1,1 +1,1 @@
-/sip|[https://www.dailymail.co.uk/news/index.html,p]:1;
+/sip|[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;

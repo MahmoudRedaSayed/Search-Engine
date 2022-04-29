@@ -1,1 +1,1 @@
-/adsl|[https://f24.my/SC,p]:1;
+/adsl|[https://f24.my/SC,p]:1;[https://f24.my/SC,p]:1;[http://google.com/chrome,p]:1;

@@ -1,1 +1,2 @@
-/eccentric|[https://www.dailymail.co.uk/news/index.html,h]:1;
+/eccentric|[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+/eccentricity|[https://www.iflscience.com/environment/how-2-million-years-of-shifting-climates-shaped-humanitys-evolution/,p]:1;

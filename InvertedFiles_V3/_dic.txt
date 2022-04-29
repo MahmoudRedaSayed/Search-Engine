@@ -1,1 +1,4 @@
-/dictate|[https://www.mayoclinic.org/global,p]:1;
+/dictate|[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;
+/dictionary's|[https://www.dailymail.co.uk/ushome/index.html,h]:1;
+/dictator|[https://www.dailymail.co.uk/ushome/index.html,h]:1;
+/dictated|[https://order.store.mayoclinic.com/flex/mmv/CSEWCB3/?utm_source=MC-DotOrg-Text&utm_medium=Link&utm_campaign=CookSmart-Book&utm_content=COOK,p]:1;[https://order.store.mayoclinic.com/flex/mmv/CSEWCB3/?utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=CookSmart-Book&utm_content=COOK,p]:1;

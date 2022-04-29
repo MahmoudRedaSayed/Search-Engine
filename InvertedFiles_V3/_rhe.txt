@@ -1,1 +1,1 @@
-/rheumatoid|[https://www.healthline.com/fitness,p]:1;
+/rheumatoid|[https://www.healthline.com/fitness,p]:1;[https://www.healthline.com/fitness,p]:1;

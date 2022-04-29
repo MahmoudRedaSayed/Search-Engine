@@ -1,2 +1,4 @@
-/atazakar|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;
-/atacama|[https://www.iflscience.com/environment/,p]:1;
+/atazakar|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;
+/atacama|[https://www.iflscience.com/environment/,p]:1;[https://www.iflscience.com/environment/people-avoided-chiles-coast-for-1000-years-after-ancient-megatsunami/,p]:1;[https://www.iflscience.com/environment/people-avoided-chiles-coast-for-1000-years-after-ancient-megatsunami/,p]:1;
+/atacamas|[https://www.iflscience.com/environment/people-avoided-chiles-coast-for-1000-years-after-ancient-megatsunami/,p]:1;[https://www.iflscience.com/environment/people-avoided-chiles-coast-for-1000-years-after-ancient-megatsunami/,p]:1;
+/atacameño|[https://www.iflscience.com/environment/people-avoided-chiles-coast-for-1000-years-after-ancient-megatsunami/,p]:1;

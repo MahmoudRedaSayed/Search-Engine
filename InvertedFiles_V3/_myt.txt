@@ -1,3 +1,4 @@
-/myths|[https://www.menshealth.com[https://www.bbc.com/,h]:1;[https://www.bbc.com/,h]:1;[https://familydoctor.org/,h]:1;[https://www.menshealth.com[https://www.bbc.com,h]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;
+/myths|[https://www.menshealth.com[https://www.bbc.com/,h]:1;[https://www.bbc.com/,h]:1;[https://familydoctor.org/,h]:1;[https://www.menshealth.com[https://www.bbc.com,h]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://familydoctor.org/,h]:1;[https://www.menshealth.com[https://www.bbc.com,h]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.mayoclinic.org/coronavirus-covid-19/vaccine-tracker/,p]:1;
+,h]:1;
 ,h]:1;
 ,h]:1;

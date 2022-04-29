@@ -1,2 +1,7 @@
-/sido|[https://www.marca.com,h]:1;
-/sides|[https://www.dailymail.co.uk/news/index.html,p]:1;
+/sido|[https://www.marca.com,h]:1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]:1;[https://www.marca.com/motor/formula1.html?intcmp=MENUMIGA&s_kw=formula-1,h]:1;
+/sides|[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailyom.com/,h]:1;
+/sidelines|[http://mayoclinichealthsystem.org,p]:1;[https://www.dailymail.co.uk/sport/index.html,p]:1;
+/sidelined|[https://www.healthline.com/program/wellness,p]:1;
+/sidewalk|[https://order.store.mayoclinic.com/flex/mmv/HRBAL02/?utm_source=MC-DotOrg-Text&utm_medium=Link&utm_campaign=Hearing-Book&utm_content=HEAR,p]:1;
+/side's|[https://www.dailymail.co.uk/sport/index.html,p]:1;[https://www.dailymail.co.uk/sport/index.html,p]:1;
+/sidewalks|[https://www.dailyom.com/,p]:1;

@@ -1,1 +1,2 @@
-/erling|[https://www.bbc.com/,p]:1;[https://www.bbc.com,p]:1;
+/erling|[https://www.bbc.com/,p]:1;[https://www.bbc.com,p]:1;[https://www.bbc.com,p]:1;[https://www.dailymail.co.uk/sport/index.html,h]:1;
+/erland|[http://www.enable-javascript.com/,p]:1;

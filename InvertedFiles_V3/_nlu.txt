@@ -1,1 +1,1 @@
-/nlu|[https://developers.google.com/assistant,p]:1;
+/nlu|[https://developers.google.com/assistant,p]:1;[https://developers.google.com/assistant,p]:1;[https://developers.googleblog.com/2020/06/announcing-actions-builder-actions-sdk.html,p]:1;[https://developers.googleblog.com/2020/06/announcing-actions-builder-actions-sdk.html,p]:1;[https://developers.googleblog.com/2020/06/announcing-actions-builder-actions-sdk.html,p]:1;[https://developers.googleblog.com/2020/06/announcing-actions-builder-actions-sdk.html,p]:1;

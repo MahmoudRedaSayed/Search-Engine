@@ -1,3 +1,4 @@
-/lodge|[https://www.nationalgeographic.com,p]:1;
-/lodging|[https://www.mayoclinic.org/patient-care-and-health-information
+/lodge|[https://www.nationalgeographic.com,p]:1;[https://www.nationalgeographic.com,p]:1;
+/lodging|[https://www.mayoclinic.org/patient-care-and-health-information[https://www.mayoclinic.org/patient-care-and-health-information
+,p]:1;
 ,p]:1;

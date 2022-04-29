@@ -1,3 +1,6 @@
-/austriaco|[https://www.marca.com,h]:1;
-/aussenac|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
-/australian|[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/austriaco|[https://www.marca.com,h]:1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]:1;
+/aussenac|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/australian|[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/sport/index.html,h]:1;[https://www.iflscience.com/environment/flash-droughts-are-becoming-more-severe-posing-new-climate-threat/,p]:1;
+/australians|[https://www.iflscience.com/environment/people-avoided-chiles-coast-for-1000-years-after-ancient-megatsunami/,p]:1;
+/austin|[https://www.iflscience.com/environment/flash-droughts-are-becoming-more-severe-posing-new-climate-threat/,p]:1;
+/auspices|[https://order.store.mayoclinic.com/books/GNWEB30?utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=HighBloodPressure-Book&utm_content=HBP,p]:1;

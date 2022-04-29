@@ -1,2 +1,4 @@
-/nodejs|[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;
-/nodding|[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org,h]:1;
+/nodejs|[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.dailymail.co.uk/sport/index.html,h]:1;
+/nodding|[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org,h]:1;
+/nodebased|[https://www.geeksforgeeks.org/must-do-coding-questions-for-product-based-companies/?ref=ghm,p]:1;
+/nodes|[https://www.geeksforgeeks.org/must-do-coding-questions-for-product-based-companies/?ref=ghm,p]:1;[https://www.geeksforgeeks.org/must-do-coding-questions-for-product-based-companies/?ref=ghm,p]:1;[https://www.geeksforgeeks.org/must-do-coding-questions-for-product-based-companies/?ref=ghm,p]:1;[https://developers.google.com/maps,p]:1;

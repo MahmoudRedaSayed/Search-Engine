@@ -1,2 +1,4 @@
-/daly|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
-/dalton|[https://www.dailymail.co.uk/news/index.html,p]:1;
+/daly|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/dalton|[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/dale|[https://www.everydayhealthgroup.com/,s]:1;[https://www.everydayhealthgroup.com/,p]:1;
+/dalglish|[https://www.dailymail.co.uk/sport/index.html,s]:1;

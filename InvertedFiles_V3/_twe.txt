@@ -1,2 +1,2 @@
-/tweaks|[https://www.iflscience.com/environment/tonga-volcanic-eruption-was-the-most-powerful-this-century-new-paper-confirms/,p]:1;
-/tweeted|[https://www.dailymail.co.uk/news/index.html,p]:1;
+/tweaks|[https://www.iflscience.com/environment/tonga-volcanic-eruption-was-the-most-powerful-this-century-new-paper-confirms/,p]:1;[https://www.iflscience.com/environment/tonga-volcanic-eruption-was-the-most-powerful-this-century-new-paper-confirms/,p]:1;
+/tweeted|[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;

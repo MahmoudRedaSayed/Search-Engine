@@ -1,2 +1,4 @@
-/tigers|[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;
-/tightness|[https://www.healthline.com/fitness,p]:1;
+/tigers|[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.dailymail.co.uk/sport/index.html,p]:1;
+/tightness|[https://www.healthline.com/fitness,p]:1;[https://www.healthline.com/fitness,p]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;
+/tightly|[https://www.dailyom.com/,p]:1;
+/tigar|[https://www.whattoexpect.com/,p]:1;

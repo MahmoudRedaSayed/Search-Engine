@@ -1,2 +1,5 @@
-/soomaalida|[https://www.bbc.com/,p]:1;[https://www.bbc.com,p]:1;
-/soothing|[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;
+/soomaalida|[https://www.bbc.com/,p]:1;[https://www.bbc.com,p]:1;[https://www.bbc.com,p]:1;
+/soothing|[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;
+/soon?|[https://magazine.medlineplus.gov/issues/spring-2021,p]:1;
+/sooner|[https://www.sciencenewsforstudents.org/article/murder-hornet-asian-giant-trap-sex-pheromone,p]:1;[https://order.store.mayoclinic.com/books/GNWEB30?utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=HighBloodPressure-Book&utm_content=HBP,p]:1;
+/sookpranee|[https://developers.google.com/maps,p]:1;

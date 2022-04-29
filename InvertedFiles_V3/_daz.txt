@@ -1,0 +1,2 @@
+/dazzles|[https://www.dailymail.co.uk/ushome/index.html,h]:1;
+/dazzling|[https://www.dailymail.co.uk/sport/index.html,h]:1;

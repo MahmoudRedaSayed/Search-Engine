@@ -1,2 +1,12 @@
-/swetnam|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
-/swearing|[https://www.dailymail.co.uk/news/index.html,h]:1;
+/swetnam|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/swearing|[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/ushome/index.html,h]:1;
+/sweet|[https://www.healthline.com/program/wellness,p]:1;[https://www.healthline.com/program/wellness,p]:1;[https://order.store.mayoclinic.com/books/GNWEB37?utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=Diet-Book&utm_content=DIET,p]:1;[https://order.store.mayoclinic.com/books/GNWEB37?utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=Diet-Book&utm_content=DIET,p]:1;[https://order.store.mayoclinic.com/books/GNWEB37?utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=Diet-Book&utm_content=DIET,p]:1;[https://order.store.mayoclinic.com/books/GNWEB37?utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=Diet-Book&utm_content=DIET,p]:1;
+/sweden|[https://www.sciencenewsforstudents.org/author/katie-grace-carpenter,p]:1;
+/sweltering|[https://www.iflscience.com/environment/what-would-happen-if-you-jumped-into-lake-natron-you-wont-turn-to-stone-but-it-wouldnt-be-fun/,p]:1;
+/sweat|[https://www.iflscience.com/environment/what-would-happen-if-you-jumped-into-lake-natron-you-wont-turn-to-stone-but-it-wouldnt-be-fun/,p]:1;[https://shop.menshealth.com/editors-picks.html?source=mhl_hamburger,s]:1;[https://shop.menshealth.com/mens-health-weight-loss.html?source=mhl_hamburger,s]:1;
+/sweatpants|[https://shop.menshealth.com/editors-picks.html?source=mhl_hamburger,s]:1;[https://shop.menshealth.com/apparel.html?source=mhl_hamburger,s]:1;
+/sweaty|[http://kidshealth.org/en/kids/,p]:1;
+/sweep|[https://www.iflscience.com/environment/global-heating-means-faster-ocean-currents-66-million-years-of-data-suggests/,p]:1;
+/sweatshirt|[https://shop.menshealth.com/apparel.html?source=mhl_hamburger,s]:1;[https://shop.menshealth.com/apparel.html?source=mhl_hamburger,s]:1;[https://shop.menshealth.com/apparel.html?source=mhl_hamburger,s]:1;
+/sweating|[https://www.iflscience.com/environment/scotlands-anthrax-island-ablaze-with-apocalyptic-wildfires/,p]:1;
+/sweets|[https://order.store.mayoclinic.com/books/GNWEB37?utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=Diet-Book&utm_content=DIET,p]:1;

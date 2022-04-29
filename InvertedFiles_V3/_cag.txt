@@ -1,1 +1,1 @@
-/cage|[https://www.bbc.com/,h]:1;[https://www.bbc.com/,h]:1;[https://www.bbc.com,h]:1;
+/cage|[https://www.bbc.com/,h]:1;[https://www.bbc.com/,h]:1;[https://www.bbc.com,h]:1;[https://www.bbc.com,h]:1;

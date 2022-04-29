@@ -1,1 +1,1 @@
-/hoy|[https://www.marca.com,s]:1;
+/hoy|[https://www.marca.com,s]:1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,s]:1;

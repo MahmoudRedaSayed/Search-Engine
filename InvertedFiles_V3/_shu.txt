@@ -1,7 +1,15 @@
-/shut|[https://www.bbc.com/,h]:1;[https://www.bbc.com,h]:1;[https://www.iflscience.com/technology/,h]:1;[https://www.iflscience.com/technology/,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
-/shugaban|[https://www.bbc.com/,p]:1;[https://www.bbc.com,p]:1;
-/shutterstock|[https://kidshealth.org/
+/shut|[https://www.bbc.com/,h]:1;[https://www.bbc.com,h]:1;[https://www.iflscience.com/technology/,h]:1;[https://www.iflscience.com/technology/,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.bbc.com,h]:1;[https://www.iflscience.com/technology/,h]:1;[https://www.iflscience.com/technology/,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.healthline.com/program/sleep,p]:1;[https://www.healthline.com/sleep,p]:1;
+/shugaban|[https://www.bbc.com/,p]:1;[https://www.bbc.com,p]:1;[https://www.bbc.com,p]:1;
+/shutterstock|[https://kidshealth.org/[https://kidshealth.org/[https://classroom.kidshealth.org,p]:1;[http://kidshealth.org/en/kids/,p]:1;[https://classroom.kidshealth.org/?WT.ac=mhp_e_en,p]:1;
 
 ,p]:1;
-/shuttered|[https://www.healthline.com/fitness,p]:1;
-/shukla|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+
+,p]:1;
+/shuttered|[https://www.healthline.com/fitness,p]:1;[https://www.healthline.com/fitness,p]:1;
+/shukla|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/shuteye|[https://www.healthline.com/program/sleep,p]:1;[https://www.healthline.com/sleep,p]:1;
+/shutterstockcom|[https://www.iflscience.com/environment/what-would-happen-if-you-jumped-into-lake-natron-you-wont-turn-to-stone-but-it-wouldnt-be-fun/,p]:1;
+/shuffled|[https://www.iflscience.com/environment/how-2-million-years-of-shifting-climates-shaped-humanitys-evolution/,p]:1;
+/shuttle|[https://www.iflscience.com/environment/buckle-up-for-yet-another-wild-atlantic-hurricane-season-this-year/,p]:1;
+/shutout|[https://www.dailymail.co.uk/sport/index.html,p]:1;
+/shuo|[https://www.iflscience.com/environment/flash-droughts-are-becoming-more-severe-posing-new-climate-threat/,p]:1;

@@ -1,2 +1,5 @@
-/certified|[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;
-/cervantes|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;
+/certified|[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.loc.gov/duplicationservices/,p]:1;[https://order.store.mayoclinic.com/flex/mmv/OBSTE01/?utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=Obstetricks-Book&utm_content=OB1,p]:1;[https://order.store.mayoclinic.com/flex/mmv/OBSTE01/?utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=Obstetricks-Book&utm_content=OB1,p]:1;[https://www.rfi.fr/en/,p]:1;[https://order.store.mayoclinic.com/books/GNWEB44?utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=HomeRemedies-Book&utm_content=HOM,p]:1;[https://order.store.mayoclinic.com/books/GNWEB30?utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=HighBloodPressure-Book&utm_content=HBP,p]:1;
+/cervantes|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;
+/certificate|[https://jobs.mayoclinic.org/surgicalservices,p]:1;
+/certificates|[https://ask.loc.gov/business,p]:1;
+/ceremony|[https://www.dailymail.co.uk/ushome/index.html,p]:1;

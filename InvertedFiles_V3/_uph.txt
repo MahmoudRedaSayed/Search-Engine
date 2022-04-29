@@ -1,1 +1,4 @@
-/upham|[https://www.everydayhealth.com/,p]:1;[https://www.everydayhealth.com/,p]:1;
+/upham|[https://www.everydayhealth.com/,p]:1;[https://www.everydayhealth.com/,p]:1;[https://www.everydayhealth.com/,p]:1;
+/uphold|[https://www.nationalgeographic.com/environment/article/why-old-growth-forests-matter,h]:1;
+/upheld|[https://www.everydayhealthgroup.com/,p]:1;
+/upheaval|[https://www.iflscience.com/environment/people-avoided-chiles-coast-for-1000-years-after-ancient-megatsunami/,p]:1;

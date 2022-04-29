@@ -1,5 +1,7 @@
-/flew|[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
-/flexitarian|[https://www.everydayhealth.com/,h]:1;[https://www.everydayhealth.com/,h]:1;
-/flexible|[https://jobs.mayoclinic.org/benefits/,p]:1;
-/fleeing|[https://www.dailymail.co.uk/news/index.html,p]:1;
-/fleet|[https://www.dailymail.co.uk/news/index.html,p]:1;
+/flew|[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;[https://www.dailymail.co.uk/sport/index.html,p]:1;[https://www.dailymail.co.uk/sport/index.html,p]:1;
+/flexitarian|[https://www.everydayhealth.com/,h]:1;[https://www.everydayhealth.com/,h]:1;[https://www.everydayhealth.com/,h]:1;
+/flexible|[https://jobs.mayoclinic.org/benefits/,p]:1;[https://jobs.mayoclinic.org/benefits/,p]:1;
+/fleeing|[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;
+/fleet|[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/flexitarian”|[https://www.iflscience.com/environment/is-veganism-the-solution-to-climate-change/,p]:1;
+/fled|[https://www.dailymail.co.uk/ushome/index.html,h]:1;

@@ -1,1 +1,2 @@
-/woke|[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
+/woke|[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/ushome/index.html,h]:1;[https://www.dailymail.co.uk/ushome/index.html,h]:1;[https://www.dailymail.co.uk/ushome/index.html,h]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;
+/wokeism'|[https://www.dailymail.co.uk/ushome/index.html,h]:1;

@@ -1,4 +1,10 @@
-/inaugurated|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;
-/inadequate|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
-/inaccuracies|[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;
-/inaccuracy|[https://www.mayoclinic.org/global,p]:1;
+/inaugurated|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;
+/inadequate|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/inaccuracies|[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;
+/inaccuracy|[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;[https://www.bbc.co.uk/news/help-41670342,p]:1;[https://www.francemediasmonde.com/en/legal-notice,p]:1;
+/inanimate|[https://www.sciencenewsforstudents.org/article/murder-hornet-asian-giant-trap-sex-pheromone,p]:1;
+/inaugural|[https://www.everydayhealthgroup.com/,p]:1;
+/inappropriately|[https://order.store.mayoclinic.com/flex/mmv/HRBAL02/?utm_source=MC-DotOrg-Text&utm_medium=Link&utm_campaign=Hearing-Book&utm_content=HEAR,p]:1;
+/inaction|[https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/22/fact-sheet-president-biden-signs-executive-order-to-strengthen-americas-forests-boost-wildfire-resilience-and-combat-global-deforestation/,p]:1;
+/inactivity|[https://www.francemediasmonde.com/en/legal-notice,p]:1;
+/inapplicable|[https://www.francemediasmonde.com/en/legal-notice,p]:1;

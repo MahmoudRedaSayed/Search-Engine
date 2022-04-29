@@ -1,4 +1,9 @@
-/eye|[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.iflscience.com/technology/,h]:1;
-/eyes|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://www.sciencenewsforstudents.org/topic/space,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
-/eyesight|[https://www.sciencenewsforstudents.org/topic/space,h]:1;
-/eyelashlike|[https://www.sciencenewsforstudents.org/topic/space,p]:1;
+/eye|[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.iflscience.com/technology/,h]:1;[https://www.iflscience.com/technology/,h]:1;[https://www.healthline.com/program/sleep,p]:1;[https://www.healthline.com/sleep,p]:1;[http://www.premierleague.com/en-gb/,p]:1;[https://order.store.mayoclinic.com/books/GNWEB16?utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=Baby-Book&utm_content=BFY,p]:1;[https://www.sciencenewsforstudents.org/article/innovation_2022-green-material-tree-cellulose-nanocrystals,p]:1;[https://www.dailymail.co.uk/sport/index.html,s]:1;
+/eyes|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://www.sciencenewsforstudents.org/topic/space,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://english.ahram.org.eg/,p]:1;[https://www.sciencenewsforstudents.org/topic/space,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.iflscience.com/environment/what-would-happen-if-you-jumped-into-lake-natron-you-wont-turn-to-stone-but-it-wouldnt-be-fun/,p]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;
+/eyesight|[https://www.sciencenewsforstudents.org/topic/space,h]:1;[https://www.sciencenewsforstudents.org/topic/space,h]:1;
+/eyelashlike|[https://www.sciencenewsforstudents.org/topic/space,p]:1;[https://www.sciencenewsforstudents.org/topic/space,p]:1;
+/eyeopening|[https://www.healthline.com/program/wellness,p]:1;
+/eyes?|[https://www.healthline.com/program/wellness,p]:1;
+/eyes”|[https://www.iflscience.com/environment/what-would-happen-if-you-jumped-into-lake-natron-you-wont-turn-to-stone-but-it-wouldnt-be-fun/,p]:1;
+/eyes''|[https://www.iflscience.com/environment/what-would-happen-if-you-jumped-into-lake-natron-you-wont-turn-to-stone-but-it-wouldnt-be-fun/,p]:1;
+/eyewitnesses|[https://www.iflscience.com/environment/scotlands-anthrax-island-ablaze-with-apocalyptic-wildfires/,p]:1;

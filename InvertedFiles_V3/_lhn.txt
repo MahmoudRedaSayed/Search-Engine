@@ -1,1 +1,1 @@
-/lhncbc|[https://www.nlm.nih.gov/,p]:1;
+/lhncbc|[https://www.nlm.nih.gov/,p]:1;[https://www.nlm.nih.gov/,p]:1;

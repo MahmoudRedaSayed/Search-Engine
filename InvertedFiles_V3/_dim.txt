@@ -1,1 +1,5 @@
-/diminished|[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;
+/diminished|[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;
+/diminishing|[https://www.iflscience.com/environment/-destructive-effects-of-the-climate-crisis-highlighted-in-todays-google-doodle/,p]:1;
+/dimensions|[https://developers.google.com/maps,p]:1;[http://goo.gle/maps-platform-io21-announcements,p]:1;
+/dimasidshutterstockcom|[https://www.iflscience.com/environment/chernobyls-radiation-spikes-may-be-result-of-russian-equipment-interference-argue-scientists/,p]:1;
+/dimensional|[http://goo.gle/maps-platform-io21-announcements,p]:1;

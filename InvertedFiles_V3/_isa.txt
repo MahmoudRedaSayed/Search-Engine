@@ -1,4 +1,5 @@
-/isaac's|[https://www.menshealth.com[https://www.menshealth.com
+/isaac's|[https://www.menshealth.com[https://www.menshealth.com[https://www.menshealth.com
 ,h]:1;
 ,h]:1;
-/isabelle|[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+,h]:1;
+/isabelle|[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;

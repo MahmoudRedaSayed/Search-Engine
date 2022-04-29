@@ -1,5 +1,7 @@
-/loo|[https://www.bbc.com/,p]:1;[https://www.bbc.com,p]:1;
+/loo|[https://www.bbc.com/,p]:1;[https://www.bbc.com,p]:1;[https://www.bbc.com,p]:1;
 /lookout|[https://discountcode.dailymail.co.uk/,p]:1;
-/loop|[https://www.nemours.org?external_id=RE2350835010600,h]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
-/looking…|[https://www.healthline.com/fitness,p]:1;
-/looked|[https://www.iflscience.com/environment/russian-invasion-of-ukraine-suggests-fossil-fuel-demands-have-peaked-argues-ngo/,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;
+/loop|[https://www.nemours.org?external_id=RE2350835010600,h]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.nemours.org?external_id=RE2350835010600,h]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.nemours.org/?utm_source=khcnem&utm_medium=nemours&utm_campaign=logo&utm_term=footer,h]:1;[http://goo.gle/map-move-camera,p]:1;
+/looking…|[https://www.healthline.com/fitness,p]:1;[https://www.healthline.com/fitness,p]:1;
+/looked|[https://www.iflscience.com/environment/russian-invasion-of-ukraine-suggests-fossil-fuel-demands-have-peaked-argues-ngo/,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.iflscience.com/environment/russian-invasion-of-ukraine-suggests-fossil-fuel-demands-have-peaked-argues-ngo/,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;[https://www.iflscience.com/environment/global-heating-means-faster-ocean-currents-66-million-years-of-data-suggests/,p]:1;[https://www.iflscience.com/environment/global-heating-means-faster-ocean-currents-66-million-years-of-data-suggests/,p]:1;
+/looms|[https://www.dailymail.co.uk/sport/index.html,h]:1;
+/lookouts|[https://historyhub.history.gov/community/military-records/army-and-air-force-records/blog/2017/08/25/wwii-military-unit-records-at-the-national-archives,p]:1;

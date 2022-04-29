@@ -1,1 +1,2 @@
-/bryan|[https://www.dailymail.co.uk/news/index.html,p]:1;
+/bryan|[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/bryson|[https://www.dailymail.co.uk/sport/index.html,s]:1;

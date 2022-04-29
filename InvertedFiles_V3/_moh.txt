@@ -1,1 +1,2 @@
-/mohieldin|[https://english.ahram.org.eg/,h]:1;[https://english.ahram.org.eg/,h]:1;[https://english.ahram.org.eg/,h]:1;[https://english.ahram.org.eg/,h]:1;
+/mohieldin|[https://english.ahram.org.eg/,h]:1;[https://english.ahram.org.eg/,h]:1;[https://english.ahram.org.eg/,h]:1;[https://english.ahram.org.eg/,h]:1;[https://english.ahram.org.eg/,h]:1;
+/mohamed|[https://www.dailymail.co.uk/sport/index.html,h]:1;[https://www.dailymail.co.uk/sport/index.html,p]:1;

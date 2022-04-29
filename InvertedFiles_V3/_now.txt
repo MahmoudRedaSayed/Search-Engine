@@ -1,1 +1,4 @@
-/nowtvcom|[http://www.nowtv.com/promo/sky-sports?dcmp=ilc_SSNTV_skysports_hardcode_moredropdownlink,p]:1;
+/nowtvcom|[http://www.nowtv.com/promo/sky-sports?dcmp=ilc_SSNTV_skysports_hardcode_moredropdownlink,p]:1;[http://www.nowtv.com/promo/sky-sports?dcmp=ilc_SSNTV_skysports_hardcode_moredropdownlink,p]:1;[https://www.nowtv.com/premier-league-live,p]:1;
+/nowadays|[http://www.enable-javascript.com/,h]:1;
+/now?|[https://www.nowtv.com/tv-passes,p]:1;[https://www.dailymail.co.uk/ushome/index.html,h]:1;
+/now'|[https://www.dailymail.co.uk/sport/index.html,s]:1;

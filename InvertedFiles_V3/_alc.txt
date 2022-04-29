@@ -1,3 +1,4 @@
-/alcaraz|[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]:1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]:1;[https://www.marca.com,h]:1;[https://www.marca.com,h]:1;
-/alcarazmanía|[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]:1;[https://www.marca.com,h]:1;
-/alcohol|[https://www.bbc.com/,h]:1;[https://www.bbc.com,h]:1;
+/alcaraz|[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]:1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]:1;[https://www.marca.com,h]:1;[https://www.marca.com,h]:1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]:1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]:1;
+/alcarazmanía|[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]:1;[https://www.marca.com,h]:1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]:1;
+/alcohol|[https://www.bbc.com/,h]:1;[https://www.bbc.com,h]:1;[https://www.bbc.com,h]:1;
+/alcantara's|[https://www.dailymail.co.uk/sport/index.html,h]:1;[https://www.dailymail.co.uk/sport/index.html,p]:1;

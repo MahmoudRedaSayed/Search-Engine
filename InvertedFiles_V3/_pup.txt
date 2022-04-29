@@ -1,1 +1,3 @@
-/puppet|[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;
+/puppet|[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;
+/pupils|[https://www.dailymail.co.uk/sport/index.html,h]:1;
+/puppy'|[https://www.dailymail.co.uk/sport/index.html,s]:1;

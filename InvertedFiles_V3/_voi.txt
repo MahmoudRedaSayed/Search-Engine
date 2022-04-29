@@ -1,2 +1,5 @@
-/voice|[https://www.bbc.co.uk,p]:1;[https://www.bbc.co.uk,p]:1;[https://developers.google.com/assistant,h]:1;[https://developers.google.com/assistant,p]:1;[https://developers.google.com/assistant,p]:1;
-/voiceenable|[https://developers.google.com/assistant,h]:1;
+/voice|[https://www.bbc.co.uk,p]:1;[https://www.bbc.co.uk,p]:1;[https://developers.google.com/assistant,h]:1;[https://developers.google.com/assistant,p]:1;[https://developers.google.com/assistant,p]:1;[https://developers.google.com/assistant,h]:1;[https://developers.google.com/assistant,p]:1;[https://developers.google.com/assistant,p]:1;[https://developers.googleblog.com/2020/06/announcing-actions-builder-actions-sdk.html,p]:1;[https://developers.googleblog.com/2020/06/announcing-actions-builder-actions-sdk.html,p]:1;[https://whyy.org/articles/should-i-get-my-kids-the-covid-19-vaccine-booster/,p]:1;[https://itunes.apple.com/gb/app/kick-it-out/id630458751,p]:1;[https://www.everydayhealthgroup.com/,p]:1;[https://www.dailymail.co.uk/sport/index.html,s]:1;
+/voiceenable|[https://developers.google.com/assistant,h]:1;[https://developers.google.com/assistant,h]:1;
+/voice'|[https://www.dailymail.co.uk/ushome/index.html,p]:1;
+/voices|[https://order.store.mayoclinic.com/flex/mmv/HRBAL02/?utm_source=MC-DotOrg-Text&utm_medium=Link&utm_campaign=Hearing-Book&utm_content=HEAR,p]:1;
+/voie|[https://fmm.io/MarchesPublics,p]:1;

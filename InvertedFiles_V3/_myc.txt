@@ -1,1 +1,2 @@
-/mycorrhizal|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/mycorrhizal|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/mycloudfitness|[https://www.amazon.com/stores/%20Women%2527s%20Health%20Men%2527s%20Health/page/4FF43C7C-7888-48A8-8609-7628914190AA?ref_=ast_bln&_encoding=UTF8&tag=mh-lift-20&linkCode=ur2&linkId=8e8a3e45a568035c7d654586b4ddbca5&camp=1789&creative=9325,h]:1;

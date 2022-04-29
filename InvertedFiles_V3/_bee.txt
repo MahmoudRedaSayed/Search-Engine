@@ -1,4 +1,11 @@
-/beef|[https://www.menshealth.com[https://www.menshealth.com[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;
+/beef|[https://www.menshealth.com[https://www.menshealth.com[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.menshealth.com[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;
 ,h]:1;
 ,h]:1;
-/beer|[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+,h]:1;
+/beer|[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/beetles|[https://www.iflscience.com/environment/-destructive-effects-of-the-climate-crisis-highlighted-in-todays-google-doodle/,p]:1;[https://www.sciencenewsforstudents.org/article/murder-hornet-asian-giant-trap-sex-pheromone,p]:1;
+/beekeeper|[https://www.sciencenewsforstudents.org/article/murder-hornet-asian-giant-trap-sex-pheromone,p]:1;[https://www.dailymail.co.uk/sport/index.html,s]:1;
+/bees|[https://www.sciencenewsforstudents.org/article/murder-hornet-asian-giant-trap-sex-pheromone,p]:1;
+/beers|[https://www.dailymail.co.uk/sport/index.html,h]:1;[https://www.dailymail.co.uk/sport/index.html,s]:1;
+/beefed|[https://www.dailymail.co.uk/sport/index.html,p]:1;
+/beers'|[https://www.dailymail.co.uk/sport/index.html,p]:1;

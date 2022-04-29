@@ -1,0 +1,2 @@
+/ugas|[https://www.dailymail.co.uk/sport/index.html,s]:1;
+/uganda's|[https://www.rfi.fr/en/,p]:1;

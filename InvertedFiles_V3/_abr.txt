@@ -1,1 +1,3 @@
-/abril|[https://www.marca.com,p]:1;
+/abril|[https://www.marca.com,p]:1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,p]:1;[https://www.marca.com/motor/formula1.html?intcmp=MENUMIGA&s_kw=formula-1,p]:1;
+/abrupt|[https://whyy.org/articles/should-i-get-my-kids-the-covid-19-vaccine-booster/,p]:1;
+/abramovich|[https://www.dailymail.co.uk/sport/index.html,h]:1;

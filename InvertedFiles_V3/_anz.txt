@@ -1,0 +1,2 @@
+/anzac|[https://www.dailymail.co.uk/sport/index.html,h]:1;
+/anzacs|[https://www.dailymail.co.uk/sport/index.html,p]:1;

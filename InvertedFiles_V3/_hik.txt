@@ -1,1 +1,1 @@
-/hiking|[https://www.healthline.com/fitness,p]:1;
+/hiking|[https://www.healthline.com/fitness,p]:1;[https://www.healthline.com/fitness,p]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;[https://www.sciencenewsforstudents.org/article/innovation_2022-green-material-tree-cellulose-nanocrystals,p]:1;

@@ -1,0 +1,3 @@
+/amino|[https://magazine.medlineplus.gov/issues/spring-2021,p]:1;
+/amir|[https://www.dailymail.co.uk/sport/index.html,h]:1;[https://www.dailymail.co.uk/sport/index.html,p]:1;[https://www.dailymail.co.uk/sport/index.html,p]:1;
+/amitriptyline|[https://www.migraineagain.com/,h]:1;

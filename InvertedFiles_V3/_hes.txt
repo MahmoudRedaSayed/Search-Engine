@@ -1,6 +1,8 @@
-/hesitant|[https://www.dailymail.co.uk,p]:1;[https://www.menshealth.com[https://www.menshealth.com[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/hesitant|[https://www.dailymail.co.uk,p]:1;[https://www.menshealth.com[https://www.menshealth.com[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk,p]:1;[https://www.menshealth.com[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://historyhub.history.gov/community/military-records/military-and-civilian-personnel-records/blog/2021/09/08/the-sf-50-that-elusive-form-everyone-needs-asap,p]:1;
 ,h]:1;
 ,h]:1;
-/hessburg|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
-/hessenmöller|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
-/heshe|[https://www.mayoclinic.org/global,p]:1;
+,h]:1;
+/hessburg|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/hessenmöller|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/heshe|[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;[https://www.francemediasmonde.com/en/legal-notice,p]:1;
+/hesitancy|[https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/herd-immunity-and-coronavirus/art-20486808,s]:1;

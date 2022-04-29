@@ -1,5 +1,10 @@
-/irritation|[https://www.everydayhealth.com/,h]:1;[https://www.everydayhealth.com/,h]:1;
-/irritable|[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
-/irrespective|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
-/irreplaceable|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
-/irrevocable|[https://www.mayoclinic.org/global,p]:1;
+/irritation|[https://www.everydayhealth.com/,h]:1;[https://www.everydayhealth.com/,h]:1;[https://www.everydayhealth.com/,h]:1;
+/irritable|[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/ushome/index.html,h]:1;
+/irrespective|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/irreplaceable|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.nationalgeographic.com/environment/article/why-old-growth-forests-matter,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/irrevocable|[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;
+/irritate|[https://www.healthline.com/program/wellness,p]:1;
+/irregular|[https://www.healthline.com/program/wellness,p]:1;[https://www.healthline.com/program/wellness,p]:1;
+/irrigation”|[https://www.iflscience.com/environment/the-largest-accidental-release-of-radioactive-material-in-us-history-what-happened-at-church-rock/,p]:1;
+/irresistible”|[https://www.sciencenewsforstudents.org/article/murder-hornet-asian-giant-trap-sex-pheromone,p]:1;
+/irreversible|[https://www.iflscience.com/environment/taming-the-butterfly-scientists-use-chaos-theory-to-control-weather/,p]:1;

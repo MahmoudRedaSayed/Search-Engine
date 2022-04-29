@@ -1,1 +1,1 @@
-/olmsted|[https://www.mayoclinic.org/global,p]:1;
+/olmsted|[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;

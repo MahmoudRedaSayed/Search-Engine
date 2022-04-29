@@ -1,1 +1,2 @@
-/says…|[https://www.healthline.com/fitness,p]:1;
+/says…|[https://www.healthline.com/fitness,p]:1;[https://www.healthline.com/fitness,p]:1;
+/say?|[https://order.store.mayoclinic.com/flex/mmv/HRBAL02/?utm_source=MC-DotOrg-Text&utm_medium=Link&utm_campaign=Hearing-Book&utm_content=HEAR,p]:1;[https://order.store.mayoclinic.com/flex/mmv/HRBAL02/?utm_source=MC-DotOrg-Text&utm_medium=Link&utm_campaign=Hearing-Book&utm_content=HEAR,p]:1;

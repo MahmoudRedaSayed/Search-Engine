@@ -1,1 +1,4 @@
-/fifteenth|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;
+/fifteenth|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;
+/fifo|[https://www.geeksforgeeks.org/must-do-coding-questions-for-product-based-companies/?ref=ghm,p]:1;
+/fiftyyear|[https://www.everydayhealthgroup.com/,p]:1;
+/fifa|[https://www.dailymail.co.uk/sport/index.html,h]:1;[https://www.dailymail.co.uk/sport/index.html,p]:1;

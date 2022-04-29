@@ -1,0 +1,4 @@
+/olympic|[https://www.nationalgeographic.com/environment/article/why-old-growth-forests-matter,p]:1;[https://www.nationalgeographic.com/environment/article/why-old-growth-forests-matter,p]:1;[https://www.healthline.com/program/wellness,p]:1;[https://www.dailymail.co.uk/sport/index.html,p]:1;[https://www.dailymail.co.uk/sport/index.html,p]:1;[https://www.dailymail.co.uk/sport/index.html,p]:1;
+/olympus|[https://www.iflscience.com/environment/-destructive-effects-of-the-climate-crisis-highlighted-in-todays-google-doodle/,p]:1;
+/olympics|[https://www.dailymail.co.uk/sport/index.html,h]:1;
+/olympian|[https://www.dailymail.co.uk/sport/index.html,p]:1;

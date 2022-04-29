@@ -389,9 +389,15 @@ public class UrlThread implements  Runnable {
 
         uri = uri.normalize();
 
+        sb = new StringBuffer(uri.toString());
+        if(sb.charAt(sb.length()-1) != '/')
+        {
+            sb.append('/');
+        }
+
 
 //        ---------------------------------------------------------//
-         String NormalizedUrl=uri.toString();
+         String NormalizedUrl=sb.toString();
         try {
             if(DataBaseObject.getUrls(NormalizedUrl) != null) {
                 if (DataBaseObject.getUrls(NormalizedUrl).next()) {

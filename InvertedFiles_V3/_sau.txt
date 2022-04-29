@@ -1,4 +1,4 @@
 /saugstad|[https://www.loc.gov,h]:1;[https://www.loc.gov,h]:1;[https://www.loc.gov,h]:1;[https://www.loc.gov,h]:1;[https://www.loc.gov/,h]:1;[https://www.loc.gov/,h]:1;[https://www.loc.gov/,h]:1;[https://www.loc.gov/,h]:1;
-/sauron"|[https://www.iflscience.com/technology/,h]:1;
-/saunders|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
-/sausage|[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/sauron"|[https://www.iflscience.com/technology/,h]:1;[https://www.iflscience.com/technology/,h]:1;
+/saunders|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/sausage|[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;

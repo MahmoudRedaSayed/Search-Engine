@@ -1,2 +1,2 @@
-/ropa|[https://www.marca.com,h]:1;
-/rope|[https://www.dailymail.co.uk/news/index.html,h]:1;
+/ropa|[https://www.marca.com,h]:1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]:1;
+/rope|[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/ushome/index.html,h]:1;

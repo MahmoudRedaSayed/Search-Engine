@@ -1,1 +1,3 @@
-/sueur|[https://jobs.mayoclinic.org/,p]:1;[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;[https://jobs.mayoclinic.org/events/,p]:1;[https://jobs.mayoclinic.org/events/,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/sueur|[https://jobs.mayoclinic.org/,p]:1;[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;[https://jobs.mayoclinic.org/events/,p]:1;[https://jobs.mayoclinic.org/events/,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://jobs.mayoclinic.org/,p]:1;[https://jobs.mayoclinic.org/surgicalservices,p]:1;[https://jobs.mayoclinic.org/events/,p]:1;[https://jobs.mayoclinic.org/events/,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
+/suelo|[https://www.marca.com/motor/formula1.html?intcmp=MENUMIGA&s_kw=formula-1,h]:1;
+/sues|[https://www.dailymail.co.uk/ushome/index.html,h]:1;

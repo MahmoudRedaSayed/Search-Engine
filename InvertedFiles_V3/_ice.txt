@@ -1,3 +1,6 @@
-/ice|[https://www.menshealth.com[https://www.loc.gov,h]:1;[https://www.loc.gov,h]:1;[https://www.menshealth.com[https://www.loc.gov/,h]:1;[https://www.loc.gov/,h]:1;
+/ice|[https://www.menshealth.com[https://www.loc.gov,h]:1;[https://www.loc.gov,h]:1;[https://www.menshealth.com[https://www.loc.gov/,h]:1;[https://www.loc.gov/,h]:1;[https://www.menshealth.com[https://www.iflscience.com/environment/-destructive-effects-of-the-climate-crisis-highlighted-in-todays-google-doodle/,p]:1;[https://www.sciencenewsforstudents.org/author/katie-grace-carpenter,h]:1;[https://www.sciencenewsforstudents.org/author/katie-grace-carpenter,p]:1;[https://education.everydayhealth.com/for-patients/learning-all-about-sexual-health-hiv-stds-and-hiv-prevention-a-patient-education-and-resource-center/,h]:1;[https://www.iflscience.com/environment/taming-the-butterfly-scientists-use-chaos-theory-to-control-weather/,p]:1;[https://www.migraineagain.com/,h]:1;[https://www.migraineagain.com/,h]:1;
 ,h]:1;
 ,h]:1;
+,h]:1;
+/ice"|[https://www.iflscience.com/environment/-destructive-effects-of-the-climate-crisis-highlighted-in-todays-google-doodle/,p]:1;
+/ice?|[https://www.sciencenewsforstudents.org/author/katie-grace-carpenter,h]:1;

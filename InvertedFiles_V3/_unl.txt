@@ -1,5 +1,9 @@
 /unlock|[https://www.academia.edu,h]:1;[https://www.academia.edu,h]:1;[https://www.academia.edu,h]:1;[https://www.academia.edu,h]:1;[https://www.academia.edu,h]:1;
 /unlicensed|[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;
-/unlogged|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
-/unlawful|[https://www.mayoclinic.org/global,p]:1;
-/unleash|[https://www.dailymail.co.uk/news/index.html,h]:1;
+/unlogged|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/unlawful|[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;
+/unleash|[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/ushome/index.html,h]:1;
+/unlimited|[https://shop.menshealth.com/?source=mhl_hamburger,p]:1;
+/unlocking|[https://developers.google.com/maps,h]:1;
+/unleashes|[https://www.dailymail.co.uk/sport/index.html,s]:1;
+/unluckily|[https://www.dailymail.co.uk/sport/index.html,p]:1;

@@ -1,2 +1,2 @@
-/uno|[https://www.marca.com,h]:1;
-/unofficial|[https://www.dailymail.co.uk/news/index.html,h]:1;
+/uno|[https://www.marca.com,h]:1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]:1;
+/unofficial|[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;

@@ -1,6 +1,8 @@
-/gear|[https://www.menshealth.com[https://www.menshealth.com
+/gear|[https://www.menshealth.com[https://www.menshealth.com[https://www.menshealth.com[http://mayoclinichealthsystem.org,p]:1;
 ,h]:1;
 ,h]:1;
-/gear—and|[https://www.menshealth.com[https://www.menshealth.com
+,h]:1;
+/gear—and|[https://www.menshealth.com[https://www.menshealth.com[https://www.menshealth.com
+,h]:1;
 ,h]:1;
 ,h]:1;

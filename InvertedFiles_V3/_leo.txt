@@ -1,1 +1,1 @@
-/leonard|[https://www.dailymail.co.uk/news/index.html,p]:1;
+/leonard|[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;

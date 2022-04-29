@@ -1,1 +1,2 @@
-/mamífero|[https://www.sciencenewsforstudents.org,p]:1;[https://www.sciencenewsforstudents.org,p]:1;
+/mamífero|[https://www.sciencenewsforstudents.org,p]:1;[https://www.sciencenewsforstudents.org,p]:1;[https://www.sciencenewsforstudents.org,p]:1;
+/mammals|[https://www.sciencenewsforstudents.org/article/murder-hornet-asian-giant-trap-sex-pheromone,h]:1;
