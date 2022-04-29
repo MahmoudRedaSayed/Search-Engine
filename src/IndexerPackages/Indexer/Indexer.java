@@ -188,6 +188,10 @@ public class Indexer implements Runnable {
         str = str.replaceAll("[؟.,ٍـ،/ًٌَُ‘÷×؛’ْ~]", "");
         str = str.replaceAll("\\\"","\"");
         str = str.replaceAll("\\\'","\'");
+
+        //Previous 2 Lines are causing errors with files
+
+
         str = str.replaceAll("\\s+", "&");  // remove spaces
         return str;
     }
