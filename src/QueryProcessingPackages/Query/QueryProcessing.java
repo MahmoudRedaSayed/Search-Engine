@@ -17,24 +17,53 @@ import HelpersPackages.Helpers.*;
 import DataBasePackages.DataBase.*;
 import org.json.*;
 
-import javax.xml.crypto.Data;
 
+//-------------------------- Class QueryProcessing--------------------------//
+/*
+
+
+* Data member:
+    1-workingFilesObject
+    2-dataBaseObject
+    3-stopWords Array
+
+*Functions :
+    1-run
+    2-SplitQuery
+    3-removeElement
+    4-removeStopWords
+    5-searchInInvertedFiles
+    6-sortByValue Should be for Ranker
+
+* */
 
 public class QueryProcessing{
-    DataBase dataBaseObject = new DataBase();
-    //WorkingFiles working;
-    private Map<String, File> invertedFiles;
-    public  PorterStemmer stemObject = new PorterStemmer();
+
+    //--------------------- The Data Members-------------------------//
+    WorkingFiles workingFilesObject;
+    DataBase dataBaseObject;
     public String[] stopWords;
 
-
+    //--------------------- Constructor-----------------------------//
+    /*
+        * Explanation:
+            Constructor to initialize the object of the Database
+            Read Stop Words to use in further functions
+    */
     public QueryProcessing() throws FileNotFoundException {
-        //working = files;
-        readStopWords();
+        workingFilesObject = new WorkingFiles();
+        WorkingFiles.readStopWords();
+        dataBaseObject = new DataBase();
+        this.stopWords = workingFilesObject.getStopWordsAsArray();
         System.out.println("The consturctor");
 
     }
 
+    //--------------------------Function SplitQuery--------------------------//
+    /*
+        * Explanation:
+            Utility Function to divide the search query into the words constituting it
+    */
     private String[] SplitQuery(String searchQuery)
     {
         String[] subStrings = searchQuery.trim().split("\\s+");
@@ -42,39 +71,11 @@ public class QueryProcessing{
     }
 
 
-
-    private void readStopWords() throws FileNotFoundException {
-        // open the file that contains stop words
-        String filePath = System.getProperty("user.dir");   // get the directory of the project
-        System.out.println(filePath);
-        filePath = filePath.substring(0, filePath.lastIndexOf("\\")+1);
-//        System.out.println(finalfilePath);
-        filePath += File.separator + "helpers" + File.separator + "stop_words.txt";
-        File myFile = new File(filePath);
-
-        this.stopWords = new String[851];
-
-        // read from the file
-        Scanner read = new Scanner(myFile);
-        String tempInput;
-        int counter = 0;
-        while(read.hasNextLine())
-        {
-            tempInput = read.nextLine();
-            stopWords[counter++] = tempInput;
-        }
-        read.close();
-
-    }
-
-    private String stemGivenWord(String word)
-    {
-        stemObject.setCurrent(word);
-        stemObject.stem();
-        return stemObject.getCurrent();
-    }
-
-    //Utility Function for removeStopWords()
+    //--------------------------Function removeElement--------------------------//
+    /*
+        * Explanation:
+            Utility Function for removeStopWords, used to remove elements from array
+    */
     private static String[] removeElement(String[] arr, int[] index) {
         List<String> list = new ArrayList<>(Arrays.asList(arr));
         for (int i=0; i<index.length;i++)
@@ -84,7 +85,11 @@ public class QueryProcessing{
         return list.toArray(String[]::new);
     }
 
-
+    //--------------------------Function removeStopWords--------------------------//
+    /*
+        * Explanation:
+            Function used to remove all stop words from the Search Query
+    */
     private String[] removeStopWords(String[] searchQuery)
     {
         int length =searchQuery.length;
@@ -101,11 +106,12 @@ public class QueryProcessing{
         return searchQuery;
     }
 
-    //What remains: Search for word in file and create array for each word in the search query:
-    //First element is the actual word if present
-    //The rest are the words with same root in that file
 
-
+    //--------------------------Function searchInInvertedFiles--------------------------//
+    /*
+        * Explanation:
+            Function used to search inverted Files,to fetch results for Search Queries.
+    */
     public static void searchInInvertedFiles(String word, File myFile, ArrayList<String> results, boolean stemmingFlag) throws FileNotFoundException {
         Scanner read = new Scanner(myFile);
         String tempInput,
@@ -153,6 +159,12 @@ public class QueryProcessing{
         }
     }
 
+    //--------------------------Function sortByValue--------------------------//
+    /*
+        * Explanation:
+            Static Function to sort a map descendingly by its values
+    */
+
     public static HashMap<String, Double> sortByValue(HashMap<String, Double> hm)
     {
         // Create a list from elements of HashMap
@@ -176,49 +188,44 @@ public class QueryProcessing{
         return temp;
     }
 
-//    public static HashMap<String, Double> replaceIDByLink(HashMap<Integer, Double> hm)
-//    {
-//        StringBuffer link = new StringBuffer("");
-//        DataBase dataBaseObject = new DataBase();
-//        StringBuffer description = new StringBuffer("");
-//        HashMap<String, Double> temp = new HashMap<String, Double>();
-//        for (Iterator<Map.Entry<Integer, Double>> it = hm.entrySet().iterator(); it.hasNext(); )
-//        {
-//            Map.Entry<Integer, Double> IDEntry = it.next();
-//            dataBaseObject.getLinkByID(IDEntry.getKey(), link, description);
-//            temp.put(link.toString(), IDEntry.getValue());
-//        }
-//
-//        return temp;
-//    }
+
+    //--------------------------Function run--------------------------//
+    /*
+        * Explanation:
+            Returns a Json Array of all results,
+            * prepares for ranking by sending results
+            * Prepares for Highlighting websites content by dividing the query into its constituents
+    */
 
     public String run(String message, ArrayList<String> queryLinesResult, JSONArray dividedQuery)
             throws FileNotFoundException, JSONException {
 
         System.out.println("The running function");
 
-
-        Map<Integer, Integer> allIDs = new HashMap<Integer, Integer>();
+//Used to add each word together with the whole query; to populate dividedQuery array
         ArrayList<String> words = new ArrayList<String>();
-        words.add(message);
-        JSONObject divide = new JSONObject();
-        ArrayList<String> allWordsResult = new ArrayList<String>();
+        words.add(message);                    //First part of dividedQuery array
+        JSONObject divide = new JSONObject();  //Used for divided Query servlet to highlight content in results
 
 
-        String[] result = SplitQuery(message);
-        result  = removeStopWords(result);
+        String[] result = SplitQuery(message); //Splitting for words
+        result  = removeStopWords(result);     // Remove Stop Words from the query
 
-        String json = "{ [";
-        StringBuffer jsonFile = new StringBuffer(json);
-        JSONArray finalJsonFile = new JSONArray();
+        JSONArray finalJsonFile = new JSONArray(); //For final results
+
+
+        // Loop over words
         int length = result.length;
         for(int i=0; i<length;i++)
         {
-
-            // Loop over words
+            //Add each word to words Array
             words.add(result[i]);
+
+            // Results for one word.
             ArrayList<String> oneWordResult = new ArrayList<String>();
 
+
+            // Search for proper file name for each word
             String fileName = "";
             if (HelperClass.isProbablyArabic(result[i]))
                 fileName = "arabic";
@@ -228,47 +235,58 @@ public class QueryProcessing{
             else
                 fileName = "_" + result[i].substring(0,3);
 
-            // Mustafa : I edited this code
+
             String filePath = System.getProperty("user.dir");   // get the directory of the project
 
-            // Delete last Directory to get path of Inverted Files
+            // Delete last Directory to get path of Inverted Files, root folder src
             filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
 
             filePath += File.separator + "InvertedFiles_V3" + File.separator;
 
             filePath += fileName + ".txt";
-           // System.out.println(finalFilePath + "From Search Inverted Files");
+
             File targetFile = new File(filePath);
+
+            //true to sepcify it's Query Processing not Phrase Searching
             searchInInvertedFiles(result[i], targetFile,oneWordResult, true);
 
 
 
+
+            // Loop over versions of Words
+            // Adding words results to ranker Array
+            // And splitting for the same line to prepare for fetching links
             int length_2 = oneWordResult.size();
             for(int j = 0; j<length_2; j++)
             {
+                //Don't send to ranker
                 if(oneWordResult.get(j).equals(""))
                 {continue;}
 
                 queryLinesResult.add(oneWordResult.get(j));
-                // Loop over versions of Words
+
 
 
                 String[] splitLine= oneWordResult.get(j).split("\\[");
+
+
+
+                // Loop over links of the same version of each Word
                 int length_3 = splitLine.length;
                 for (int k=1; k<length_3; k++)
                 {
 
-                    // Loop over links of the same version of each Word
-
+                    //Split Each part of the line to get the links, split over ','
                     int End = splitLine[k].indexOf(']');
                     String temp = splitLine[k].substring(0, End);
 
                     String[] finalID = temp.split(",");
 
                     String link = finalID[0];
-                    // For Karim Until here
 
 
+
+                    // Get description and populate Json Array
                     StringBuffer description = new StringBuffer("");
                     JSONObject Jo = new JSONObject();
                     dataBaseObject.getDescription(link, description);
@@ -284,7 +302,7 @@ public class QueryProcessing{
 
 
 
-
+        // Populate DividedQuery Array
         divide.put("Result", words);
         dividedQuery.put(divide);
         return finalJsonFile.toString();

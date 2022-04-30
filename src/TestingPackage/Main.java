@@ -70,9 +70,9 @@ public class Main {
         PhraseSearching phraseSearchingObj = new PhraseSearching();
         String searchingQuery;
         ArrayList<String> rankerArray = new ArrayList<String>();
-        searchingQuery = "اندلاع consumption     conference";
+        searchingQuery = " consumption  is   conference";
         System.out.println(searchingQuery);
-        finalJSONARRAY = phraseSearchingObj.run(searchingQuery, rankerArray, dividedQuery);
+        finalJSONARRAY = obj.run(searchingQuery, rankerArray, dividedQuery);
 //        HashMap<String, Double> toBeSorted = new HashMap<String, Double>();
 //        toBeSorted.put("link1", 0.25);
 //        toBeSorted.put("Link2", 0.5);

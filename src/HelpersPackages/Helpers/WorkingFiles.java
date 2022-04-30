@@ -82,8 +82,12 @@ public class WorkingFiles {
         }
     }
 
-    // read the stop words
-    private static void readStopWords() throws FileNotFoundException {
+    //--------------------------Function readStopWords--------------------------//
+    /*
+        * Explanation:
+            Utility Function to divide the search query into the words constituting it
+    */
+    public static void readStopWords() throws FileNotFoundException {
         // open the file that contains stop words
         String filePath = System.getProperty("user.dir");   // get the directory of the project
         filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
@@ -105,7 +109,13 @@ public class WorkingFiles {
 
     }
 
-    // get stop words
+    //get Stop Words as Array
+    public String[] getStopWordsAsArray()
+    {
+        return this.stopWords;
+    }
+
+    // get stop words as Map
     public static Map<Character, Vector<String>> getStopWordsAsMap()
     {
         try {

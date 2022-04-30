@@ -19,26 +19,59 @@ import QueryProcessingPackages.Query.*;
 import org.json.*;
 
 
+
+//-------------------------- Class PhraseSearching--------------------------//
+/*
+
+
+* Data member:
+    1-workingFilesObject
+    2-dataBaseObject
+    3-stopWords Array
+
+*Functions :
+    1-run
+    2-SplitQuery
+    3-removeElement
+    4-removeStopWords
+    5-searchInInvertedFiles
+    6-sortByValue Should be for Ranker
+
+* */
+
 public class PhraseSearching {
-    DataBase dataBaseObject = new DataBase();
-    //WorkingFiles working;
-    private Map<String, File> invertedFiles;
-    PorterStemmer stemObject = new PorterStemmer();
-    String[] stopWords;
+    WorkingFiles workingFilesObject;
+    DataBase dataBaseObject;
+    public  PorterStemmer stemObject = new PorterStemmer();
+    public String[] stopWords;
 
 
     public PhraseSearching() throws FileNotFoundException {
-        //working = files;
-        readStopWords();
+
+        workingFilesObject = new WorkingFiles();
+        WorkingFiles.readStopWords();
+        dataBaseObject = new DataBase();
+        this.stopWords = workingFilesObject.getStopWordsAsArray();
         System.out.println("Phrase Searching consturctor");
     }
 
+    //--------------------------Function SplitQuery--------------------------//
+    /*
+        * Explanation:
+            Utility Function to divide the search query into the words constituting it
+    */
 
     private String[] SplitQuery(String searchQuery) {
         String[] subStrings = searchQuery.trim().split("\\s+");
         return subStrings;
     }
 
+
+    //--------------------------Function removeElement--------------------------//
+    /*
+        * Explanation:
+            Utility Function for removeStopWords, used to remove elements from array
+    */
     private static String[] removeElement(String[] arr, int[] index) {
         List<String> list = new ArrayList<>(Arrays.asList(arr));
         for (int i = 0; i < index.length; i++) {
@@ -47,30 +80,12 @@ public class PhraseSearching {
         return list.toArray(String[]::new);
     }
 
-    private void readStopWords() throws FileNotFoundException {
-        // open the file that contains stop words
-        String filePath = System.getProperty("user.dir");   // get the directory of the project
-        System.out.println(filePath);
-        filePath = filePath.substring(0, filePath.lastIndexOf("\\")+1);
-//        System.out.println(finalfilePath);
-        filePath += File.separator + "helpers" + File.separator + "stop_words.txt";
-        File myFile = new File(filePath);
 
-        this.stopWords = new String[851];
-
-        // read from the file
-        Scanner read = new Scanner(myFile);
-        String tempInput;
-        int counter = 0;
-        while(read.hasNextLine())
-        {
-            tempInput = read.nextLine();
-            stopWords[counter++] = tempInput;
-        }
-        read.close();
-
-    }
-
+    //--------------------------Function removeStopWords--------------------------//
+    /*
+        * Explanation:
+            Function used to remove all stop words from the Search Query
+    */
 
     private String[] removeStopWords(String[] searchQuery) {
         int length = searchQuery.length;
@@ -86,31 +101,40 @@ public class PhraseSearching {
     }
 
 
+    //--------------------------Function run--------------------------//
+    /*
+        * Explanation:
+            Returns a Json Array of all results,
+            * prepares for ranking by sending results
+            * Prepares for Highlighting websites content by dividing the query into its constituents
+    */
+
     public String run(String message, ArrayList<String> queryLinesResult, JSONArray dividedQuery) throws FileNotFoundException, JSONException {
-        //invertedFiles = working.getInvertedFiles();
+
         System.out.println("Phrase Searching Run Function");
-        boolean[] indexProcessed;
-        Map<String, Integer> allIDs = new HashMap<String, Integer>();
-        JSONObject divide = new JSONObject();
+        boolean[] indexProcessed;  //Used for Links map, to not add links over and over again
+        Map<String, Integer> allLinks = new HashMap<String, Integer>(); //Has links that are repeated for each word of the search query
+        JSONObject divide = new JSONObject();             //Used for divided Query servlet to highlight content in results
         divide.put("Results", message);
-        dividedQuery.put(divide);
+        dividedQuery.put(divide);                    //Populating the array using the whole search query
 
 
-        ArrayList<String> allWordsResult = new ArrayList<String>();
+
+        String[] result = SplitQuery(message);  //Splitting for words
+        result  = removeStopWords(result);     // Remove Stop Words from the query
+        indexProcessed = new boolean[result.length];  //Initializing indexes array
+        JSONArray finalJsonFile = new JSONArray();   //For final results
 
 
-        String[] result = SplitQuery(message);
-        result = removeStopWords(result);
-        indexProcessed = new boolean[result.length];
-        String json = "{ [";
-        StringBuffer jsonFile = new StringBuffer(json);
-        JSONArray finalJsonFile = new JSONArray();
+        // Loop over words
         int length = result.length;
         for (int i = 0; i < length; i++) {
-            // Loop over words
+
+            // Results for one word.
             ArrayList<String> oneWordResult = new ArrayList<String>();
 
 
+            // Search for proper file name for each word
             String fileName = "";
             if (HelperClass.isProbablyArabic(result[i]))
                 fileName = "arabic";
@@ -121,7 +145,7 @@ public class PhraseSearching {
                 fileName = "_" + result[i].substring(0,3);
 
 
-            // Mustafa : I edited this code
+
             String filePath = System.getProperty("user.dir");   // get the directory of the project
 
             // Delete last Directory to get path of Inverted Files
@@ -133,62 +157,79 @@ public class PhraseSearching {
             //System.out.println(finalFilePath + "From Search Inverted Files");
             File targetFile = new File(filePath);
 
+
+            //false to sepcify it's Phrase Searching not Query Processing
             QueryProcessing.searchInInvertedFiles(result[i], targetFile,oneWordResult, false);
 
+
+            // Loop over versions of Words
+            // And splitting for the same line to prepare for fetching links
             int length_2 = oneWordResult.size();
             for (int j = 0; j < length_2; j++) {
 
+                //Don't send to ranker
                 if(oneWordResult.get(j).equals(""))
                 {continue;}
+
+
                 // Should we let this be like that? Or should it be just links from map? I don't know
                 queryLinesResult.add(oneWordResult.get(j));
-                // Loop over versions of Words
 
 
                 String[] splitLine = oneWordResult.get(j).split("\\[");
+
+
+                // Loop over links of the same version of each Word
                 int length_3 = splitLine.length;
                 for (int k = 1; k < length_3; k++) {
 
-                    // Loop over links of the same version of each Word
-
+                    //Split Each part of the line to get the links, split over ','
                     int End = splitLine[k].indexOf(']');
                     String temp = splitLine[k].substring(0, End);
 
                     String[] finalID = temp.split(",");
                     //int ID = Integer.parseInt(finalID[0]);
                     String Link = finalID[0];
+
+                    // Populating Links Map
+
                     if (i == 0 && !indexProcessed[i]) {
-                        allIDs.put(Link, 1);
+                        // For First word, add links
+                        allLinks.put(Link, 1);
                         if(k == length_3-1)
                         {
-                            indexProcessed[0] = true;
+                            indexProcessed[0] = true; //To not add again
                         }
                     }
-                    else if (!indexProcessed[i] && allIDs.containsKey(Link)) {
-                        allIDs.put(Link, 1 + allIDs.get(Link));
+                    //Then, only increment those already in the map
+                    else if (!indexProcessed[i] && allLinks.containsKey(Link)) {
+                        allLinks.put(Link, 1 + allLinks.get(Link));
                         if(k == length_3-1)
                         {
-                            indexProcessed[i] = true;
+                            indexProcessed[i] = true;  //To not add again
                         }
                     }
                 }
             }
 
         }
-
-        for (Iterator<Map.Entry<String, Integer>> it = allIDs.entrySet().iterator(); it.hasNext(); ) {
+        // Removing links that aren't repeated with every single word.
+        for (Iterator<Map.Entry<String, Integer>> it = allLinks.entrySet().iterator(); it.hasNext(); ) {
             Map.Entry<String, Integer> entry = it.next();
             if (entry.getValue() < length) {
                 it.remove();
             }
         }
 
-        for (Iterator<Map.Entry<String, Integer>> iter = allIDs.entrySet().iterator(); iter.hasNext(); ) {
+        for (Iterator<Map.Entry<String, Integer>> iter = allLinks.entrySet().iterator(); iter.hasNext(); ) {
 
 
             Map.Entry<String, Integer> IDEntry = iter.next();
 
+
             String link = IDEntry.getKey();
+
+            // Get description and populate Json Array
             StringBuffer description = new StringBuffer("");
             JSONObject Jo = new JSONObject();
             dataBaseObject.getDescription(link, description);
