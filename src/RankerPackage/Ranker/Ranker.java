@@ -28,7 +28,8 @@ public class Ranker {
     {
         try {
             queryProcessingObject = new QueryProcessing();
-        } catch (FileNotFoundException e) {
+        }
+        catch (FileNotFoundException e) {
             e.printStackTrace();
         }
     }
@@ -84,19 +85,33 @@ public class Ranker {
             }
 
             double tempSum = 0;
-            for (int currentPage = 0; currentPage < totalNodes; currentPage++)
+            int counter=0;
+            /*for (int currentPage = 0; currentPage < 4424 ; currentPage++)      //ToDo: chang it later
             {
-                if (currentPage == 0) continue;
                 //I will send child link ang I must get Number of OutgoingLinks of the parent
-                double OutgoingLinks = connect.getParentLinksNum(completedLinks[currentPage]);         //Get it from From ==> (Reda) to recieve the number of outgoing links from parent link
+                int OutgoingLinks = connect.getParentLinksNum(completedLinks[currentPage]);         //Get it from From ==> (Reda) to recieve the number of outgoing links from parent link
+                if ( OutgoingLinks == -1 )
+                {
+                    pagesRank1.put(completedLinks[currentPage], -1.0);
+                    counter++;
+                    continue;
+                }
                 //I will send child link and get parent link ==> it will be changed later
                 double temp = TempPageRank.get(connect.getParentLink(completedLinks[currentPage])) * (1.0 / OutgoingLinks) ;
                 pagesRank1.put(completedLinks[currentPage], temp);
                 tempSum += pagesRank1.get(completedLinks[currentPage]);
-            }
+            }*/
 
             //Special handling for the first page only as there is no outgoing links to it
             double temp = 1 - tempSum;
+            double slice = temp / 4424;//ToDo: chang it later
+            for ( int i=0 ; i<4424 ; i++ )//ToDo: chang it later
+            {
+                //if ( pagesRank1.get(completedLinks[i]).equals(-1.0) )
+                //{
+                pagesRank1.put(completedLinks[i] , slice);
+                //}
+            }
             pagesRank1.put(completedLinks[0], temp);
             ITERATION_STEP++;
 
@@ -322,7 +337,7 @@ public class Ranker {
             System.out.println(tempArray[t]);
             System.out.println(pagesRank2.get(tempArray[t]));
         }
-        return pagesRank2;
+        return pagesRank2;  // get final results
     }
 
 //    public  static void main(String  argv [])
