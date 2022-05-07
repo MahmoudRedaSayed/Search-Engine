@@ -1,4 +1,3 @@
-// import FontAwesome from 'react-fontawesome';
 import React, { Component, useState,useEffect } from "react";
 import "../../node_modules/bootstrap/dist/css/bootstrap.css";
 import "../../node_modules/@fortawesome/fontawesome-free/css/all.css";
@@ -15,13 +14,39 @@ function SearchField(Style){
         resetTranscript,
         browserSupportsSpeechRecognition
       } = useSpeechRecognition();
+
+      // Every rerender
+    useEffect(() => {
+        if(listening==true)
+        {
+            console.log("inside use effect")
+            setValue(transcript);
+        }
+
+        if(value.trim()!=="")
+        {
+        
+            fetch(" http://localhost:8000/History").then(response=>{
+                if(response.ok)
+                {
+                    return response.json();
+                }
+                }).then(data=>{
+                console.log(data);
+                console.log(value);
+                setHistoryData(data.filter
+                    ((data)=>(data.search.toLocaleLowerCase().startsWith
+                    (value.trim().toLowerCase()))));
+            })
+        }
+        else{
+            setHistoryData([]);
+        }
+    });
     
       if (!browserSupportsSpeechRecognition) {
         return <span>Browser doesn't support speech recognition.</span>;
       }
-    // function record () {SpeechRecognition.startListening;
-    // console.log(transcript);
-    // }
     function submit(e){
         if(e.code==="Enter"||e.code==="NumpadEnter")
         {
@@ -111,26 +136,45 @@ function SearchField(Style){
         }
     }
 
-    function listen(){
+    // useEffect(()=>{
+    //     if(listening==true)
+    //     {
+    //         console.log("inside use effect")
+    //         setValue(transcript);
+    //     }
+    // },[])
+
+    function listen(e){
+        e.preventDefault();
         console.log("testing");
         SpeechRecognition.startListening();
-        setValue(transcript);
+    }
+
+    function cutListen()
+    {
+        SpeechRecognition.stopListening();
+        listening=false;
     }
 
     return(
         <div>
         {/* <p onClick={SpeechRecognition.startListening}>button</p> */}
-        <button onClick={listen}>Start</button>
-      <button onClick={SpeechRecognition.stopListening}>Stop</button>
+        <a preventdefault className="btn btn-primary" onClick={listen}>Start</a>
+        <a className="btn btn-primary" onClick={cutListen}>Stop</a>
         <form >
-                                <input className="form-control me-2"  type="search"  
+        {(listening==true)?<input className="form-control me-2"  type="search"  
                                 onKeyDown={submit}
                                 onChange={inc}
                                 value={value} 
                                 placeholder="Search" aria-label="Search" 
                                 style={Style.Style}
-                                
-                                />
+                                />:<input className="form-control me-2"  type="search"  
+                                onKeyDown={submit}
+                                onChange={inc}
+                                value={value} 
+                                placeholder="Search" aria-label="Search" 
+                                style={Style.Style}
+                                />}
                                 {/* <FontAwesomeIcon icon="fa-solid fa-microphone" onClick = {this.record} /> */}
                                 
                                 </form>
