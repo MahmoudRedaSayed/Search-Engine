@@ -39,6 +39,15 @@ public class HelperClass {
         return filePath;
     }
 
+    // get the path of the inverted Files_V3 folder
+    public static String invertedFilePathDirectoryPath()
+    {
+        String filePath = Paths.get("").normalize().toAbsolutePath().toString();
+        filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
+        filePath += File.separator + "InvertedFiles_V3";
+        return filePath;
+    }
+
     // get the path of the content length files
     public static String contentLengthFiles(String fileName)
     {

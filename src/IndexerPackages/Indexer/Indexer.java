@@ -94,15 +94,24 @@ public class Indexer implements Runnable {
             {
                 fileName = "arabic";
             }
+
+            if (tempWord.length() == 2)
+            {
+                fileName = "two";
+            }
             else if(tempWord.length() > 2)
             {
                 fileName = "_";
                 fileName += tempWord.charAt(0) ;
                 fileName += tempWord.charAt(1) ;
                 fileName += tempWord.charAt(2) ;
-            }else if (tempWord.length() == 2)
-            {
-                fileName = "two";
+
+                // if the word is something like that => UK's
+                File tempFile = new File(HelperClass.invertedFilePath_V3(fileName));
+                if (! tempFile.exists())
+                {
+                    fileName = "others";
+                }
             }
 
             // second, inserting the word

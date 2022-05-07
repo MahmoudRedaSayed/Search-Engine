@@ -1,12 +1,27 @@
+// import FontAwesome from 'react-fontawesome';
 import React, { Component, useState,useEffect } from "react";
 import "../../node_modules/bootstrap/dist/css/bootstrap.css";
 import "../../node_modules/@fortawesome/fontawesome-free/css/all.css";
 import {useNavigate} from "react-router-dom";
+import SpeechRecognition, { useSpeechRecognition } from 'react-speech-recognition';
 
 function SearchField(Style){
     const nav=useNavigate();
     const [historyData,setHistoryData]=useState([]);
-    const [value,setValue]=useState("");  
+    const [value,setValue]=useState("");
+    const {
+        transcript,
+        listening,
+        resetTranscript,
+        browserSupportsSpeechRecognition
+      } = useSpeechRecognition();
+    
+      if (!browserSupportsSpeechRecognition) {
+        return <span>Browser doesn't support speech recognition.</span>;
+      }
+    // function record () {SpeechRecognition.startListening;
+    // console.log(transcript);
+    // }
     function submit(e){
         if(e.code==="Enter"||e.code==="NumpadEnter")
         {
@@ -95,8 +110,18 @@ function SearchField(Style){
             setHistoryData([]);
         }
     }
+
+    function listen(){
+        console.log("testing");
+        SpeechRecognition.startListening();
+        setValue(transcript);
+    }
+
     return(
         <div>
+        {/* <p onClick={SpeechRecognition.startListening}>button</p> */}
+        <button onClick={listen}>Start</button>
+      <button onClick={SpeechRecognition.stopListening}>Stop</button>
         <form >
                                 <input className="form-control me-2"  type="search"  
                                 onKeyDown={submit}
@@ -106,7 +131,8 @@ function SearchField(Style){
                                 style={Style.Style}
                                 
                                 />
-                                {/* <p>{Recongnition.}</p> */}
+                                {/* <FontAwesomeIcon icon="fa-solid fa-microphone" onClick = {this.record} /> */}
+                                
                                 </form>
                                 <div className="Slider mt-2 " style={{"border-radius":"10px" , "scrollbar-width": "none"}}>
                                     {historyData.map((record)=>{return (<p className="p-2" style={{"cursor":"pointer"}}  onClick={()=>add(record.search)}>{record.search}</p>)})}

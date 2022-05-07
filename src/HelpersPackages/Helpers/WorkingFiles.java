@@ -58,11 +58,22 @@ public class WorkingFiles {
             myObj_2.createNewFile();
         } catch (IOException e) {
             e.printStackTrace();
-            System.out.println("Failed to create the file");
+            System.out.println("Failed to create the file Arabic.txt");
+        }
+
+        // create a file for others words ( uk's )
+        currentFileName = "others";
+        path = HelperClass.invertedFilePath_V3(currentFileName);
+        File myObj_3 = new File(path);
+        try {
+            myObj_3.createNewFile();
+        } catch (IOException e) {
+            e.printStackTrace();
+            System.out.println("Failed to create the file others.txt");
         }
 
         // print
-        System.out.println("Inverted Files Created Successfully");
+        System.out.println("Inverted Files are Created Successfully");
     }
 
     // Creation of content length files
@@ -178,6 +189,19 @@ public class WorkingFiles {
         } catch (IOException e) {
             System.out.println("Can't close the file");
             return;
+        }
+    }
+
+    // remove the empty files after finishing indexing
+    public static void removeEmptyFiles()
+    {
+        File targetFolder = new File(HelperClass.invertedFilePathDirectoryPath());
+        File[] allFiles = targetFolder.listFiles();
+
+        for (File currentFile : allFiles)
+        {
+            if (currentFile.length() == 0)
+                currentFile.delete();
         }
     }
 
