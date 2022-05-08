@@ -1,1 +1,1 @@
-/luis|[http://www.enable-javascript.com/,p]:1;
+/luis|[https://www.marca.com,h]::1;

@@ -1,2 +1,0 @@
-/mcphail|[https://developers.google.com/maps,p]:1;
-/mcphails|[http://goo.gle/maps-platform-io21-announcements,p]:1;

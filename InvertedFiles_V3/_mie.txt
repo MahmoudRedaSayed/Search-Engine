@@ -1,0 +1,2 @@
+/miedo|[https://www.marca.com,h]::1;
+/miedos|[https://www.marca.com,h]::1;

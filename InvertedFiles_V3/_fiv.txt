@@ -1,4 +1,0 @@
-/fivehour|[https://www.bbc.com/,h]:1;[https://www.bbc.com,h]:1;[https://www.bbc.com,h]:1;
-/fiveyear|[https://www.iflscience.com/environment/the-largest-accidental-release-of-radioactive-material-in-us-history-what-happened-at-church-rock/,p]:1;
-/five?|[https://www.dailymail.co.uk/sport/index.html,p]:1;
-/fiveday|[https://www.dailymail.co.uk/sport/index.html,p]:1;[https://www.iflscience.com/environment/flash-droughts-are-becoming-more-severe-posing-new-climate-threat/,p]:1;

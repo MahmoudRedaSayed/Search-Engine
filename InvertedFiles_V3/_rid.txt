@@ -1,7 +1,1 @@
-/ridiculous'|[https://www.bbc.co.uk,p]:1;[https://www.bbc.co.uk,p]:1;[https://www.bbc.co.uk,p]:1;[https://www.bbc.co.uk,p]:1;[https://www.dailymail.co.uk/sport/index.html,p]:1;
-/riders|[https://www.bbc.com/,h]:1;[https://www.bbc.com,h]:1;[https://www.bbc.com,h]:1;
-/ridiculously|[https://www.iflscience.com/technology/,p]:1;[https://www.iflscience.com/technology/,p]:1;
-/riding|[https://order.store.mayoclinic.com/flex/mmv/OBSTE01/?utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=Obstetricks-Book&utm_content=OB1,p]:1;[https://www.iflscience.com/environment/people-avoided-chiles-coast-for-1000-years-after-ancient-megatsunami/,p]:1;
-/ridicules|[https://www.dailymail.co.uk/ushome/index.html,h]:1;[https://www.dailymail.co.uk/ushome/index.html,h]:1;
-/riddance'|[https://www.dailymail.co.uk/sport/index.html,h]:1;[https://www.dailymail.co.uk/sport/index.html,s]:1;
-/rides|[https://www.dailymail.co.uk/sport/index.html,h]:1;
+/ridículo|[https://www.marca.com,h]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;

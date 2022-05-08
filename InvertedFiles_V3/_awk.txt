@@ -1,1 +1,1 @@
-/awkwardly|[https://www.dailymail.co.uk/sport/index.html,h]:1;
+/awkward|[https://www.dailymail.co.uk,p]::1;

@@ -1,1 +1,0 @@
-/isfractionalzoomenabled|[http://goo.gle/map-move-camera,s]:1;[http://goo.gle/map-move-camera,p]:1;[http://goo.gle/map-move-camera,p]:1;[http://goo.gle/map-move-camera,p]:1;

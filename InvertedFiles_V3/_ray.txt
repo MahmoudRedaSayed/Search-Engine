@@ -1,1 +1,1 @@
-/raymond|[https://www.dailymail.co.uk/ushome/index.html,p]:1;
+/rayo|[https://www.marca.com,h]::1;

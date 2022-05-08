@@ -1,2 +1,0 @@
-/dubai|[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.dailymail.co.uk/sport/index.html,p]:1;
-/dubbed|[https://www.iflscience.com/plants-and-animals/new-humpback-whale-call-recorded-by-scientists-for-first-time/,p]:1;

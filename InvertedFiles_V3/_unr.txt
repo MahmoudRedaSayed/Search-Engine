@@ -1,7 +1,3 @@
-/unrivalled|[https://www.skysports.com/,p]:1;[https://www.skysports.com/,p]:1;[https://www.skysports.com/,p]:1;[https://www.skysports.com/,p]:1;[https://www.skysports.com/,p]:1;
-/unrivaled|[https://jobs.mayoclinic.org/,h]:1;[https://jobs.mayoclinic.org/,h]:1;
-/unrepentant|[https://www.iflscience.com/environment/the-largest-accidental-release-of-radioactive-material-in-us-history-what-happened-at-church-rock/,p]:1;
-/unrepresentative|[https://www.iflscience.com/environment/how-2-million-years-of-shifting-climates-shaped-humanitys-evolution/,p]:1;
-/unrecognised|[https://www.dailymail.co.uk/sport/index.html,h]:1;
-/unreservedly|[https://www.francemediasmonde.com/en/legal-notice,p]:1;
-/unrecorded|[https://www.iflscience.com/plants-and-animals/new-humpback-whale-call-recorded-by-scientists-for-first-time/,p]:1;
+/unrest|[https://www.dailymail.co.uk,p]::1;
+/unrivaled|[https://jobs.mayoclinic.org,h]::1;
+/unrelated|[https://www.everydayhealth.com/cancer/guide,p]::1;

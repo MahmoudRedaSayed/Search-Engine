@@ -1,3 +1,0 @@
-/bumpy|[https://www.dailymail.co.uk/sport/index.html,p]:1;
-/bumble|[https://www.iflscience.com/environment/scotlands-anthrax-island-ablaze-with-apocalyptic-wildfires/,p]:1;
-/bumps|[https://www.iflscience.com/environment/scotlands-anthrax-island-ablaze-with-apocalyptic-wildfires/,p]:1;

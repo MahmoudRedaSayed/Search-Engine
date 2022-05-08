@@ -1,1 +1,1 @@
-/pamphlets|[https://www.loc.gov/rr/,p]:1;
+/pam|[https://www.dailymail.co.uk,p]::1;

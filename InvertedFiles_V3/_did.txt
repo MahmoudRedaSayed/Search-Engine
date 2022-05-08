@@ -1,4 +1,2 @@
-/didactic|[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;
-/didn't…|[https://www.healthline.com/parenthood,p]:1;
-/didnt|[https://www.sciencenewsforstudents.org/article/innovation_2022-green-material-tree-cellulose-nanocrystals,p]:1;
-/didi|[https://www.dailymail.co.uk/sport/index.html,h]:1;
+/diddly|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
+/didnt|[https://www.everydayhealth.com/cancer/guide,p]::1;

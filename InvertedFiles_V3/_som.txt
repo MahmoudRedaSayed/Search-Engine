@@ -1,2 +1,1 @@
-/somalian|[https://www.bbc.com/,h]:1;[https://www.bbc.com/,h]:1;[https://www.bbc.com,h]:1;[https://www.bbc.com,h]:1;[https://www.bbc.com,h]:1;[https://www.bbc.com,h]:1;
-/somethings|[https://www.iflscience.com/environment/is-veganism-the-solution-to-climate-change/,p]:1;
+/somerset's|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::2;

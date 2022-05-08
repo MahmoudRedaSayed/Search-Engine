@@ -1,1 +1,0 @@
-/pmc|[https://pubmed.ncbi.nlm.nih.gov/?term=covid-19,p]:1;[https://www.ncbi.nlm.nih.gov/pubmed/,p]:1;

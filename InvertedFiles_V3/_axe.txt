@@ -1,3 +1,1 @@
-/axed|[https://www.dailymail.co.uk/ushome/index.html,h]:1;[https://www.dailymail.co.uk/ushome/index.html,h]:1;[https://www.dailymail.co.uk/sport/index.html,s]:1;
-/axed'|[https://www.dailymail.co.uk/ushome/index.html,h]:1;
-/axel|[https://www.iflscience.com/environment/how-2-million-years-of-shifting-climates-shaped-humanitys-evolution/,p]:1;
+/axed|[https://www.dailymail.co.uk,h]::1;

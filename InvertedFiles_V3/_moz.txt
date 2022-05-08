@@ -1,2 +1,1 @@
-/mozilla|[http://www.enable-javascript.com/,h]:1;
-/mozambique|[https://www.iflscience.com/environment/over-300-dead-in-south-african-floods-as-scientists-warn-of-climate-changeinduced-stronger-storms/,p]:1;
+/mozilla|[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;

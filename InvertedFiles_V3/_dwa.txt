@@ -1,1 +1,1 @@
-/dwarfism|[http://kidshealth.org/en/kids/,p]:1;
+/dwarf|[https://www.sciencenewsforstudents.org,p]::1;[https://www.sciencenewsforstudents.org/topics,p]::1;

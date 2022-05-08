@@ -1,3 +1,2 @@
-/session|[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[http://www.loc.gov/rr/main/inforeas/orient.html,p]:1;[http://goo.gle/maps-platform-io21-announcements,p]:1;[http://goo.gle/maps-platform-io21-announcements,p]:1;
-/sessions|[http://www.loc.gov/rr/main/inforeas/orient.html,p]:1;[http://www.loc.gov/rr/main/inforeas/orient.html,p]:1;[http://goo.gle/maps-platform-io21-announcements,p]:1;
-/sesame|[https://classroom.kidshealth.org,p]:1;[https://classroom.kidshealth.org,p]:1;[https://classroom.kidshealth.org/?WT.ac=mhp_e_en,p]:1;[https://classroom.kidshealth.org/?WT.ac=mhp_e_en,p]:1;
+/session|[https://www.dailymail.co.uk,p]::2;
+/sessions|[https://www.everydayhealth.com/cancer/guide,p]::1;

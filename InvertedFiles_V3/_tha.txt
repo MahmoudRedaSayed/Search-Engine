@@ -1,8 +1,2 @@
-/that?|[https://discountcode.dailymail.co.uk/,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://order.store.mayoclinic.com/flex/mmv/CSEWCB3/?utm_source=MC-DotOrg-Text&utm_medium=Link&utm_campaign=CookSmart-Book&utm_content=COOK,p]:1;[https://order.store.mayoclinic.com/flex/mmv/CSEWCB3/?utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=CookSmart-Book&utm_content=COOK,p]:1;
-/that…|[https://www.healthline.com/nutrition,p]:1;[https://www.healthline.com/program/sleep,p]:1;[https://www.healthline.com/program/sleep,p]:1;[https://www.healthline.com/sleep,p]:1;[https://www.healthline.com/sleep,p]:1;
-/thanksgiving|[https://www.nationalarchivesstore.org/?utm_campaign=2019eStore&utm_medium=website&utm_source=nara&utm_content=organic,p]:1;[https://www.nationalarchivesstore.org/?utm_campaign=2019eStore&utm_medium=website&utm_source=nara&utm_content=organic,p]:1;
-/that'|[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/ushome/index.html,h]:1;
-/thankfully|[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://magazine.medlineplus.gov/issues/spring-2021,p]:1;[https://order.store.mayoclinic.com/books/GNWEB37?utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=Diet-Book&utm_content=DIET,p]:1;
-/that”|[https://www.nationalgeographic.com/environment/article/why-old-growth-forests-matter,p]:1;[https://whyy.org/articles/should-i-get-my-kids-the-covid-19-vaccine-booster/,p]:1;
-/thawed|[https://www.sciencenewsforstudents.org/author/katie-grace-carpenter,p]:1;
-/thames|[https://developers.google.com/maps,p]:1;
+/that?|[https://www.everydayhealth.com/cancer/guide,p]::1;[https://discountcode.dailymail.co.uk,p]::1;
+/that…|[https://www.healthline.com/nutrition,p]::1;

@@ -1,2 +1,0 @@
-/ankle|[https://www.dailymail.co.uk/ushome/index.html,p]:1;[https://www.dailymail.co.uk/sport/index.html,p]:1;
-/ankara|[https://www.rfi.fr/en/,p]:1;

@@ -1,0 +1,2 @@
+/ribbon|[https://www.everydayhealth.com/cancer/guide,p]::1;
+/ribbons|[https://www.everydayhealth.com/cancer/guide,p]::2;

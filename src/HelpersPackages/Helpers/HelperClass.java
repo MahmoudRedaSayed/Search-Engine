@@ -34,7 +34,7 @@ public class HelperClass {
     public static String invertedFilePath_V3(String fileName)
     {
         String filePath = Paths.get("").normalize().toAbsolutePath().toString();
-        filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
+        //filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
         filePath += File.separator + "InvertedFiles_V3" + File.separator + fileName + ".txt";
         return filePath;
     }
@@ -43,7 +43,7 @@ public class HelperClass {
     public static String invertedFilePathDirectoryPath()
     {
         String filePath = Paths.get("").normalize().toAbsolutePath().toString();
-        filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
+       // filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
         filePath += File.separator + "InvertedFiles_V3";
         return filePath;
     }
@@ -139,21 +139,21 @@ public class HelperClass {
         for (String info : infoList) {
 
             // split the frequency counter from the info of the word
-            List<String> tempList = new ArrayList<>(List.of(info.split(":", 0)));
+            List<String> tempList = new ArrayList<>(List.of(info.split("::", 0)));
 
             // check if the same info is existing or not
             if (tempList.get(0).equals(oldInfo)) {
                 String frequency = tempList.get(1);
                 int integerFrequency = Integer.parseInt(frequency);
-                theNewInfo = tempList.get(0) + ":" + String.valueOf(integerFrequency + 1); /* convert the ( int freq + 1 ) to string here */
-                oldInfo = oldInfo + ":" + frequency;
+                theNewInfo = tempList.get(0) + "::" + String.valueOf(integerFrequency + 1); /* convert the ( int freq + 1 ) to string here */
+                oldInfo = oldInfo + "::" + frequency;
                 line = line.replace(oldInfo , theNewInfo);
                 return line;
             }
         }
 
         // if not returned, then the info is not exist
-        theNewInfo = oldInfo + ":1";
+        theNewInfo = oldInfo + "::1";
         line += theNewInfo + ';';
         return line;
 

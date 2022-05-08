@@ -1,2 +1,0 @@
-/ruth|[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.nationalgeographic.com/environment/article/why-old-growth-forests-matter,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
-/ruthless|[https://www.dailymail.co.uk/sport/index.html,s]:1;

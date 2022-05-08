@@ -1,7 +1,2 @@
-/getty|[https://kidshealth.org/[https://kidshealth.org/[https://classroom.kidshealth.org,p]:1;[http://kidshealth.org/en/kids/,p]:1;[https://classroom.kidshealth.org/?WT.ac=mhp_e_en,p]:1;
-
-,p]:1;
-
-,p]:1;
-/get…|[https://www.healthline.com/program/sleep,p]:1;[https://www.healthline.com/sleep,p]:1;
-/get?|[https://www.mayoclinic.org/coronavirus-covid-19/vaccine-tracker/,h]:1;
+/getafe|[https://www.marca.com,h]::1;
+/gettysburg|[https://www.loc.gov,h]::1;

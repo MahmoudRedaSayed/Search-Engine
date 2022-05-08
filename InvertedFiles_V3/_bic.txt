@@ -1,2 +1,2 @@
-/bicycle|[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
-/bicycling|[https://shop.menshealth.com/?source=mhl_hamburger,p]:1;[https://shop.menshealth.com/editors-picks.html?source=mhl_hamburger,p]:1;[https://shop.menshealth.com/mens-health-weight-loss.html?source=mhl_hamburger,p]:1;[https://shop.menshealth.com/apparel.html?source=mhl_hamburger,p]:1;
+/bichikaev|[https://www.dailymail.co.uk,p]::1;
+/bichikaev's|[https://www.dailymail.co.uk,p]::1;

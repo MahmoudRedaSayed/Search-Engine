@@ -1,1 +1,1 @@
-/tossed|[https://www.dailymail.co.uk/ushome/index.html,p]:1;
+/toshack|[https://www.marca.com,h]::1;

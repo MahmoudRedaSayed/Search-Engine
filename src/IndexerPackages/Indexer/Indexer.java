@@ -94,8 +94,7 @@ public class Indexer implements Runnable {
             {
                 fileName = "arabic";
             }
-
-            if (tempWord.length() == 2)
+            else if (tempWord.length() == 2)
             {
                 fileName = "two";
             }
@@ -126,6 +125,7 @@ public class Indexer implements Runnable {
                 System.out.println("Error in adding ( "+ tempWord + '|' + wordInfo +" ) to its inverted file ");
                 System.out.println("Path : " + filePath);
                 System.out.println("Lentgth = " + tempWord.length());
+                continue;
             }
         }
     }
@@ -245,7 +245,7 @@ public class Indexer implements Runnable {
                 }else               // then, this is the first time to add this word
                 {
                     FileWriter myWriter = new FileWriter(filePath, true);   // true to activate the appending mode
-                    myWriter.write('/' + word + '|' + info + ":1;" + '\n');
+                    myWriter.write('/' + word + '|' + info + "::1;" + '\n');
                     myWriter.close();
                 }
             }
@@ -254,7 +254,7 @@ public class Indexer implements Runnable {
 
         // if don't return, then the file was empty --> so this is the first line to insert in it
         FileWriter myWriter = new FileWriter(filePath);
-        myWriter.write('/' + word + '|' + info + ":1;" + '\n');
+        myWriter.write('/' + word + '|' + info + "::1;" + '\n');
         myWriter.close();
     }
 

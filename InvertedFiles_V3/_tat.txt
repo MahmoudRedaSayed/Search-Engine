@@ -1,6 +1,0 @@
-/tatler|[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;
-/tattoo|[https://www.menshealth.com[https://www.menshealth.com[https://www.menshealth.com[https://www.dailymail.co.uk/sport/index.html,s]:1;
-,h]:1;
-,h]:1;
-,h]:1;
-/tatum|[https://www.dailymail.co.uk/ushome/index.html,p]:1;

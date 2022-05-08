@@ -1,5 +1,1 @@
-/gym|[https://www.menshealth.com[https://www.menshealth.com[https://www.menshealth.com[https://shop.menshealth.com/editors-picks.html?source=mhl_hamburger,s]:1;[https://shop.menshealth.com/editors-picks.html?source=mhl_hamburger,s]:1;[https://www.dailymail.co.uk/sport/index.html,h]:1;
-,h]:1;
-,h]:1;
-,h]:1;
-/gyms|[https://www.healthline.com/fitness,p]:1;[https://www.healthline.com/fitness,p]:1;[https://www.healthline.com/fitness,p]:1;[https://www.healthline.com/fitness,p]:1;
+/gymnasium|[https://www.dailymail.co.uk,p]::1;

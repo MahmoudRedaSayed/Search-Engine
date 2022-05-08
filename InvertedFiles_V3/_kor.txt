@@ -1,3 +1,2 @@
-/korean|[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.iflscience.com/technology/,h]:1;[https://www.iflscience.com/technology/,p]:1;[https://www.iflscience.com/technology/,h]:1;[https://www.iflscience.com/technology/,p]:1;[https://historyhub.history.gov/community/military-records/army-and-air-force-records/blog/2017/08/25/wwii-military-unit-records-at-the-national-archives,p]:1;
-/kormos|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
-/korea's|[https://www.iflscience.com/environment/how-2-million-years-of-shifting-climates-shaped-humanitys-evolution/,p]:1;
+/korean|[https://www.loc.gov,h]::1;
+/kors|[https://discountcode.dailymail.co.uk,p]::1;

@@ -1,1 +1,2 @@
-/ihalainen|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
+/ihadcancer|[https://www.everydayhealth.com/cancer/guide,s]::1;[https://www.everydayhealth.com/cancer/guide,p]::2;
+/ihadcancercom|[https://www.everydayhealth.com/cancer/guide,p]::1;

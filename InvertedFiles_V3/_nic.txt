@@ -1,7 +1,2 @@
-/nicaragua|[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;
-/nicolas|[https://www.bbc.com/,h]:1;[https://www.bbc.com/,h]:1;[https://www.bbc.com,h]:1;[https://www.bbc.com,h]:1;[https://www.dailymail.co.uk/sport/index.html,p]:1;
-/nicole|[https://www.nemours.org?external_id=RE2350835010600,p]:1;[https://www.nemours.org?external_id=RE2350835010600,p]:1;[http://www.premierleague.com/en-gb/,p]:1;[https://www.nemours.org/?utm_source=khcnem&utm_medium=nemours&utm_campaign=logo&utm_term=footer,p]:1;
-/nicosia|[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;
-/nice|[http://google.com/chrome,h]:1;[https://www.iflscience.com/environment/what-would-happen-if-you-jumped-into-lake-natron-you-wont-turn-to-stone-but-it-wouldnt-be-fun/,p]:1;
-/nickname|[https://www.sciencenewsforstudents.org/article/murder-hornet-asian-giant-trap-sex-pheromone,p]:1;[https://www.iflscience.com/environment/what-would-happen-if-you-jumped-into-lake-natron-you-wont-turn-to-stone-but-it-wouldnt-be-fun/,p]:1;[https://www.dailymail.co.uk/sport/index.html,s]:1;
-/niche|[https://order.store.mayoclinic.com/flex/mmv/CSEWCB3/?utm_source=MC-DotOrg-Text&utm_medium=Link&utm_campaign=CookSmart-Book&utm_content=COOK,p]:1;[https://order.store.mayoclinic.com/flex/mmv/CSEWCB3/?utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=CookSmart-Book&utm_content=COOK,p]:1;
+/nice|[https://stackoverflow.com,p]::1;
+/nicole|[https://www.nemours.org?external_id=RE2350835010600,p]::1;

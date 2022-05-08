@@ -1,3 +1,0 @@
-/pfa|[http://www.thepfa.com/,t]:1;[http://www.thepfa.com/,h]:1;[http://www.thepfa.com/,h]:1;[http://www.thepfa.com/,h]:1;[http://www.thepfa.com/,p]:1;[http://www.thepfa.com/,p]:1;[http://www.thepfa.com/,p]:1;[http://www.thepfa.com/,p]:1;[http://www.thepfa.com/,p]:1;[http://www.thepfa.com/,p]:1;[http://www.thepfa.com/,p]:1;[http://www.thepfa.com/,p]:1;[http://www.thepfa.com/,p]:1;
-/pfas|[http://www.thepfa.com/,h]:1;
-/pfafunded|[http://www.thepfa.com/,p]:1;

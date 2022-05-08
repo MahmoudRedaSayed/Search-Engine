@@ -1,6 +1,1 @@
-/blind|[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;
-/blisters|[http://mayoclinichealthsystem.org,h]:1;[https://www.iflscience.com/environment/the-largest-accidental-release-of-radioactive-material-in-us-history-what-happened-at-church-rock/,p]:1;[https://www.iflscience.com/environment/scotlands-anthrax-island-ablaze-with-apocalyptic-wildfires/,p]:1;
-/blistered|[http://mayoclinichealthsystem.org,p]:1;
-/blizzard|[https://www.healthline.com/program/wellness,p]:1;
-/blistering|[https://www.dailymail.co.uk/sport/index.html,h]:1;
-/blitzer|[https://www.dailymail.co.uk/sport/index.html,p]:1;
+/blind|[https://www.loc.gov,h]::1;[https://accounts.accessibe.com/statement/?domain=academicinfo.net,s]::1;[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::3;

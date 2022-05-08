@@ -1,3 +1,1 @@
-/oracle|[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://developers.google.com/maps/get-started,p]:1;[http://goo.gle/map-move-camera,p]:1;
-/orange|[https://www.sciencenewsforstudents.org/article/murder-hornet-asian-giant-trap-sex-pheromone,p]:1;
-/oradoursurglane|[https://www.francemediasmonde.com/en/legal-notice,p]:1;
+/oracle|[https://www.addthis.com/bookmark.php?v=250,p]::3;

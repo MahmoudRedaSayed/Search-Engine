@@ -1,6 +1,1 @@
-/ultra|[https://www.sky.com,p]:1;[https://www.sky.com,p]:1;
-/ultimate|[https://shop.menshealth.com/editors-picks.html?source=mhl_hamburger,s]:1;[https://shop.menshealth.com/editors-picks.html?source=mhl_hamburger,s]:1;[https://www.dailymail.co.uk/sport/index.html,h]:1;[https://order.store.mayoclinic.com/books/GNWEB43?utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=FamilyHealth-Book&utm_content=FHB,h]:1;
-/ultrasound|[https://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/expert-answers/implantation-bleeding/faq-20058257,p]:1;
-/ultrasonic|[https://www.sciencenewsforstudents.org/article/innovation_2022-green-material-tree-cellulose-nanocrystals,p]:1;
-/ultimatum|[https://www.dailymail.co.uk/sport/index.html,p]:1;
-/ultrapremium|[https://www.dailymail.co.uk/sport/index.html,p]:1;
+/ultimate|[https://www.dailymail.co.uk,p]::1;

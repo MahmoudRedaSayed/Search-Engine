@@ -1,1 +1,1 @@
-/tiff|[https://www.dailymail.co.uk/ushome/index.html,h]:1;
+/tifton|[https://www.loc.gov,h]::1;

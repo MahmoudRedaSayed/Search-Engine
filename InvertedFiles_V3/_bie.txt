@@ -1,2 +1,0 @@
-/bieber|[https://www.dailymail.co.uk/ushome/index.html,h]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;
-/bienvenue|[https://fmm.io/MarchesPublics,s]:1;[https://fmm.io/MarchesPublics,p]:1;

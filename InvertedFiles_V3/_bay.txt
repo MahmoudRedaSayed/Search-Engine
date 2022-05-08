@@ -1,2 +1,1 @@
-/bayesian|[https://www.mayoclinic.org/coronavirus-covid-19/vaccine-tracker/,p]:1;[https://www.mayoclinic.org/coronavirus-covid-19/vaccine-tracker/,p]:1;[https://www.mayoclinic.org/coronavirus-covid-19/vaccine-tracker/,p]:1;[https://www.mayoclinic.org/coronavirus-covid-19/map,p]:1;[https://www.mayoclinic.org/coronavirus-covid-19/map,p]:1;[https://www.mayoclinic.org/coronavirus-covid-19/map,p]:1;
-/bayern|[https://www.dailymail.co.uk/sport/index.html,h]:1;[https://www.dailymail.co.uk/sport/index.html,h]:1;[https://www.dailymail.co.uk/sport/index.html,s]:1;[https://www.dailymail.co.uk/sport/index.html,s]:1;[https://www.dailymail.co.uk/sport/index.html,s]:1;[https://www.dailymail.co.uk/sport/index.html,p]:1;
+/bay|[https://www.dailymail.co.uk,p]::1;

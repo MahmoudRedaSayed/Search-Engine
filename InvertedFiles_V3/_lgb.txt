@@ -1,2 +1,0 @@
-/lgbtq|[https://www.bbc.co.uk,p]:1;[https://www.bbc.com/,p]:1;[https://www.bbc.co.uk,p]:1;[https://www.bbc.com,p]:1;[https://www.bbc.com,p]:1;[https://jobs.mayoclinic.org/diversity,p]:1;[https://jobs.mayoclinic.org/diversity,p]:1;[https://www.healthline.com/program/wellness,p]:1;
-/lgbti|[https://jobs.mayoclinic.org/diversity,p]:1;[https://jobs.mayoclinic.org/diversity,p]:1;

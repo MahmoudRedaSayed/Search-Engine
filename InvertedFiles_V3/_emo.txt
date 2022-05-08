@@ -1,8 +1,1 @@
-/emotions|[https://kidshealth.org/[https://www.iflscience.com/technology/,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://kidshealth.org/[https://www.healthline.com/mental-health,p]:1;[https://www.healthline.com/mental-health,p]:1;[https://www.iflscience.com/technology/,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.healthline.com/program/wellness,p]:1;[https://www.dailyom.com/,h]:1;
-
-,p]:1;
-
-,p]:1;
-/emotional|[https://www.healthline.com/wellness,p]:1;[https://www.dailymail.co.uk/ushome/index.html,h]:1;[https://www.dailymail.co.uk/ushome/index.html,h]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;[https://www.everydayhealthgroup.com/,p]:1;[https://order.store.mayoclinic.com/flex/mmv/ESDIAB1/?utm_source=MC-DotOrg-Text&utm_medium=Link&utm_campaign=Diabetes-Book&utm_content=EDIAB,p]:1;[https://classroom.kidshealth.org,p]:1;[https://www.dailymail.co.uk/sport/index.html,s]:1;[https://www.dailyom.com/,h]:1;[https://www.dailyom.com/,h]:1;[http://www.thepfa.com/,p]:1;[https://classroom.kidshealth.org/?WT.ac=mhp_e_en,p]:1;[https://order.store.mayoclinic.com/books/GNWEB44?utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=HomeRemedies-Book&utm_content=HOM,p]:1;
-/emotions…|[https://www.healthline.com/mental-health,p]:1;
-/emotionally|[https://order.store.mayoclinic.com/flex/mmv/ESDIAB1/?utm_source=MC-DotOrg-Text&utm_medium=Link&utm_campaign=Diabetes-Book&utm_content=EDIAB,p]:1;
+/emotional|[https://www.dailymail.co.uk,h]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;

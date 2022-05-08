@@ -1,4 +1,4 @@
-/owner|[https://www.loc.gov,h]:1;[https://www.loc.gov,h]:1;[https://www.loc.gov/,h]:1;[https://www.loc.gov/,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/ushome/index.html,h]:1;[https://www.iflscience.com/environment/scotlands-anthrax-island-ablaze-with-apocalyptic-wildfires/,p]:1;
-/owners|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.mayoclinic.org/global,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.mayoclinic.org/global,p]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;[https://www.dailymail.co.uk/sport/index.html,p]:1;[https://www.francemediasmonde.com/en/legal-notice,p]:1;
-/ownership|[https://www.healthline.com/program/the-sustainable-table,p]:1;[https://www.healthline.com/program/the-sustainable-table#start-here,p]:1;[https://www.bbc.co.uk/news/help-41670342,p]:1;
-/owner's|[https://order.store.mayoclinic.com/books/GNWEB43?utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=FamilyHealth-Book&utm_content=FHB,p]:1;
+/owned|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
+/owner|[https://www.dailymail.co.uk,p]::1;[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::2;
+/owns|[https://www.dailymail.co.uk,p]::1;
+/owners|[https://www.addthis.com/bookmark.php?v=250,p]::1;

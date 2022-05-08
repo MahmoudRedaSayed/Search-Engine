@@ -1,4 +1,0 @@
-/anything'|[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;
-/anyplace|[https://www.nationalgeographic.com/environment/article/why-old-growth-forests-matter,p]:1;
-/anytime|[https://www.nowtv.com/tv-passes,p]:1;[https://www.nowtv.com/tv-passes,p]:1;[https://www.nowtv.com/tv-passes,p]:1;[http://google.com/chrome,p]:1;[https://developers.google.com/maps/get-started,p]:1;[https://order.store.mayoclinic.com/books/GNWEB43?utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=FamilyHealth-Book&utm_content=FHB,p]:1;
-/anyway?|[https://historyhub.history.gov/community/military-records/military-and-civilian-personnel-records/blog/2021/09/08/the-sf-50-that-elusive-form-everyone-needs-asap,h]:1;

@@ -1,2 +1,2 @@
-/mamífero|[https://www.sciencenewsforstudents.org,p]:1;[https://www.sciencenewsforstudents.org,p]:1;[https://www.sciencenewsforstudents.org,p]:1;
-/mammals|[https://www.sciencenewsforstudents.org/article/murder-hornet-asian-giant-trap-sex-pheromone,h]:1;
+/mamífero|[https://www.sciencenewsforstudents.org,p]::1;
+/mammograms|[https://www.everydayhealth.com/cancer/guide,p]::1;

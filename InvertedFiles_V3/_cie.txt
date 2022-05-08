@@ -1,1 +1,1 @@
-/científicos|[https://www.sciencenewsforstudents.org,p]:1;[https://www.sciencenewsforstudents.org,p]:1;[https://www.sciencenewsforstudents.org,p]:1;
+/científicos|[https://www.sciencenewsforstudents.org,p]::1;
