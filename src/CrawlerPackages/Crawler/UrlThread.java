@@ -593,6 +593,10 @@ public class UrlThread implements  Runnable {
                                         Thread.currentThread().interrupt();
                                         break;
                                     }
+                                    else
+                                    {
+                                        flag=1;
+                                    }
                                 } else {
                                     FirstUrlLayer1--;
                                 }
@@ -704,6 +708,10 @@ public class UrlThread implements  Runnable {
                                         DataBaseObject.setThreadPosition(Thread.currentThread().getName(), -1, 0);
                                         Thread.currentThread().interrupt();
                                         break;
+                                    }
+                                    else
+                                    {
+                                        flag=1;
                                     }
                                 } else {
                                     FirstUrlLayer2--;
@@ -834,6 +842,48 @@ public class UrlThread implements  Runnable {
                     {
                         DataBaseObject.setThreadPosition(Thread.currentThread().getName(), Layer, Index3);
                         // query mark the current link as completed and it if it over layer 3
+                        try {
+                            //-----------------------------------------------------------------------------------------------------------------//
+                            // get the document and get the links from it
+                            Document doc = Jsoup.connect(Url).get();
+                            // ------------------------------------------The data of the links the content and the paragraphs and the header and title -------------------//
+                            /*
+                             * this block to add the content of the link into the database put separeted
+                             * */
+                            PageParsing pageContent = new PageParsing(doc);
+                            String headers = Arrays.toString(pageContent.getHeaders()).replace("'", "\\\'").replace("\"", "\\\"");
+                            String title = pageContent.getTitleTag().replace("'", "\\\'").replace("\"", "\\\"");
+                            String paragraphs = Arrays.toString(pageContent.getParagraphs()).replace("'", "\\\'").replace("\"", "\\\"");
+                            String listItems = Arrays.toString(pageContent.getListItems()).replace("'", "\\\'").replace("\"", "\\\"");
+                            String strongWords = Arrays.toString(pageContent.getStrongs()).replace("'", "\\\'").replace("\"", "\\\"");
+                            DataBaseObject.addElements(parentId, paragraphs, title, headers, listItems, strongWords);
+
+                            //----------------------------------------------------------------------------------------------------------------------------------------------//
+                            // check if its content is same content to another link in the database
+                            String content = DataBaseObject.getContent(parentId);
+                            ResultSet contentResultSet = DataBaseObject.getContents(content, parentId);
+
+//                            try {
+//                                if ((contentResultSet!=null&&contentResultSet.next())) return;
+//                            }
+//                            catch (SQLException e) {
+//                                e.printStackTrace();
+//                            }
+                            //-----------------------------------------------------------------------------------------------------------------------------------------------//
+
+                            try {
+                                String desc = doc.select("meta[name=description]").get(0)
+                                        .attr("content").replaceAll("'", " ").replace('"', ' ');
+                                DataBaseObject.addDesc(parentId, desc);
+                            } catch (IndexOutOfBoundsException e) {
+                                DataBaseObject.addDesc(parentId, "");
+                            }
+                            //-----------------------------------------------------------------------------------------------------------------//
+                        }
+                        catch(IOException e)
+                        {
+
+                        }
                         DataBaseObject.urlCompleted(Url);
                     }
     }
