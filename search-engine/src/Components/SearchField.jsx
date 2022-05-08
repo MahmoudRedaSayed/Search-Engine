@@ -1,6 +1,8 @@
 import React, { Component, useState,useEffect } from "react";
 import "../../node_modules/bootstrap/dist/css/bootstrap.css";
 import "../../node_modules/@fortawesome/fontawesome-free/css/all.css";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { fa4, faMicrophoneAlt,faMicrophoneAltSlash } from '@fortawesome/free-solid-svg-icons';
 import {useNavigate} from "react-router-dom";
 import SpeechRecognition, { useSpeechRecognition } from 'react-speech-recognition';
 
@@ -20,27 +22,30 @@ function SearchField(Style){
         if(listening==true)
         {
             console.log("inside use effect")
+            if(transcript!="")
+            {
             setValue(transcript);
+            if(value.trim()!=="")
+            {
+            
+                fetch(" http://localhost:8000/History").then(response=>{
+                    if(response.ok)
+                    {
+                        return response.json();
+                    }
+                    }).then(data=>{
+                    console.log(data);
+                    console.log(value);
+                    setHistoryData(data.filter
+                        ((data)=>(data.search.toLocaleLowerCase().startsWith
+                        (value.trim().toLowerCase()))));
+                })
+            }
+            else{
+                setHistoryData([]);
+            }
         }
 
-        if(value.trim()!=="")
-        {
-        
-            fetch(" http://localhost:8000/History").then(response=>{
-                if(response.ok)
-                {
-                    return response.json();
-                }
-                }).then(data=>{
-                console.log(data);
-                console.log(value);
-                setHistoryData(data.filter
-                    ((data)=>(data.search.toLocaleLowerCase().startsWith
-                    (value.trim().toLowerCase()))));
-            })
-        }
-        else{
-            setHistoryData([]);
         }
     });
     
@@ -136,14 +141,6 @@ function SearchField(Style){
         }
     }
 
-    // useEffect(()=>{
-    //     if(listening==true)
-    //     {
-    //         console.log("inside use effect")
-    //         setValue(transcript);
-    //     }
-    // },[])
-
     function listen(e){
         e.preventDefault();
         console.log("testing");
@@ -154,29 +151,30 @@ function SearchField(Style){
     {
         SpeechRecognition.stopListening();
         listening=false;
+        transcript="";
     }
 
     return(
         <div>
-        {/* <p onClick={SpeechRecognition.startListening}>button</p> */}
-        <a preventdefault className="btn btn-primary" onClick={listen}>Start</a>
-        <a className="btn btn-primary" onClick={cutListen}>Stop</a>
         <form >
-        {(listening==true)?<input className="form-control me-2"  type="search"  
+        {(listening==true)?<div className="row "><input className="form-control me-2"  type="search"  
                                 onKeyDown={submit}
                                 onChange={inc}
                                 value={value} 
                                 placeholder="Search" aria-label="Search" 
                                 style={Style.Style}
-                                />:<input className="form-control me-2"  type="search"  
+                                />
+                                <FontAwesomeIcon icon={faMicrophoneAltSlash}  onClick={cutListen} style={{"font-size":"30px","marginTop":"10px"}}/></div>
+                                :<div className="row "><input className="form-control me-2 col-md-4 "  type="search"  
                                 onKeyDown={submit}
                                 onChange={inc}
                                 value={value} 
                                 placeholder="Search" aria-label="Search" 
                                 style={Style.Style}
-                                />}
-                                {/* <FontAwesomeIcon icon="fa-solid fa-microphone" onClick = {this.record} /> */}
-                                
+                                />
+                                <FontAwesomeIcon  icon={faMicrophoneAlt} onClick={listen} style={{"font-size":"30px","marginTop":"10px"}} />
+                                </div>
+                                }
                                 </form>
                                 <div className="Slider mt-2 " style={{"border-radius":"10px" , "scrollbar-width": "none"}}>
                                     {historyData.map((record)=>{return (<p className="p-2" style={{"cursor":"pointer"}}  onClick={()=>add(record.search)}>{record.search}</p>)})}
