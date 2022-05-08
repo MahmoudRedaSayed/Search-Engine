@@ -394,7 +394,7 @@ public class DataBase {
     //------------------------------------------function to add paragraphs and headers and title and itemlists-------------//
     public synchronized void addElements(int id,String paragraphs,String title,String headers,String itemLists,String strong)
     {
-        System.out.printf("UPDATE links SET Paragraph='" + paragraphs + "' WHERE Id=" + id + ";");
+       // System.out.printf("UPDATE links SET Paragraph='" + paragraphs + "' WHERE Id=" + id + ";");
         try {
             this.stmt.executeUpdate("UPDATE links SET Paragraph='" + paragraphs + "' WHERE Id=" + id + ";");
             this.stmt.executeUpdate("UPDATE links SET Title='" + title + "' WHERE Id=" + id + ";");
