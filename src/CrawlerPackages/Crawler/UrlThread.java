@@ -127,6 +127,7 @@ public class UrlThread implements  Runnable {
                     Id = ParentData.getInt("LinkParent");
                     Layer1 = ParentData.getInt("Layer");
                 }
+                Layer1=1;
                 if (Layer1 == 1) {
                     linkProcessing(grandLink.toString(), Layer1, FirstUrlLayer1, FirstUrlLayer2, FirstUrlLayer3, Id);
                 } else if (Layer1 == 2) {
@@ -390,14 +391,14 @@ public class UrlThread implements  Runnable {
         uri = uri.normalize();
 
         sb = new StringBuffer(uri.toString());
-        if(sb.charAt(sb.length()-1) != '/')
+        String NormalizedUrl=sb.toString();
+        if(sb.charAt(sb.length()-1) == '/')
         {
-            sb.append('/');
+            NormalizedUrl=NormalizedUrl.substring(0,NormalizedUrl.length()-1);
         }
 
 
 //        ---------------------------------------------------------//
-         String NormalizedUrl=sb.toString();
         try {
             if(DataBaseObject.getUrls(NormalizedUrl) != null) {
                 if (DataBaseObject.getUrls(NormalizedUrl).next()) {
@@ -410,7 +411,6 @@ public class UrlThread implements  Runnable {
             e.printStackTrace();
         }
         return NormalizedUrl;
-//        return "";
     }
     //---------------------------------------------------------------//
 
@@ -500,6 +500,7 @@ public class UrlThread implements  Runnable {
 
                             //-----------------------------------------------------------------------------------------------------------------//
                             // get the document and get the links from it
+
                             Document doc = Jsoup.connect(Url).get();
 
                             // ------------------------------------------The data of the links the content and the paragraphs and the header and title -------------------//
@@ -517,14 +518,14 @@ public class UrlThread implements  Runnable {
                             //----------------------------------------------------------------------------------------------------------------------------------------------//
                             // check if its content is same content to another link in the database
                             String content= DataBaseObject.getContent(parentId);
-                            ResultSet contentResultSet=DataBaseObject.getContents(content);
+                            ResultSet contentResultSet=DataBaseObject.getContents(content,parentId);
 
-                            try {
-                                if ((contentResultSet!=null&&contentResultSet.next())) return;
-                            }
-                            catch (SQLException e) {
-                                e.printStackTrace();
-                            }
+//                            try {
+//                                if ((contentResultSet!=null&&contentResultSet.next())) return;
+//                            }
+//                            catch (SQLException e) {
+//                                e.printStackTrace();
+//                            }
                             //-----------------------------------------------------------------------------------------------------------------------------------------------//
                             try {
                                 String desc = doc.select("meta[name=description]").get(0)
@@ -575,7 +576,11 @@ public class UrlThread implements  Runnable {
                                         //-----------------------------------------------------------------------------------------------------------------//
 
                                             linkProcessing(result, Layer + 1, counter,Index2,Index3, parentId);
-                                            IncrementLimit();
+                                            ResultSet resultSet=DataBaseObject.getUrls2(result);
+                                            while (resultSet.next())
+                                            {
+                                                IncrementLimit();
+                                            }
                                         }
                                         catch( Exception e)
                                         {
@@ -625,14 +630,14 @@ public class UrlThread implements  Runnable {
                             //----------------------------------------------------------------------------------------------------------------------------------------------//
                             // check if its content is same content to another link in the database
                             String content= DataBaseObject.getContent(parentId);
-                            ResultSet contentResultSet=DataBaseObject.getContents(content);
+                            ResultSet contentResultSet=DataBaseObject.getContents(content,parentId);
 
-                            try {
-                                if ((contentResultSet!=null&&contentResultSet.next())) return;
-                            }
-                            catch (SQLException e) {
-                                e.printStackTrace();
-                            }
+//                            try {
+//                                if ((contentResultSet!=null&&contentResultSet.next())) return;
+//                            }
+//                            catch (SQLException e) {
+//                                e.printStackTrace();
+//                            }
                             //-----------------------------------------------------------------------------------------------------------------------------------------------//
 
                             try {
@@ -683,7 +688,11 @@ public class UrlThread implements  Runnable {
                                             //-----------------------------------------------------------------------------------------------------------------//
 
                                             linkProcessing(result, Layer + 1,Index1, counter,Index3, parentId);
-                                            IncrementLimit();
+                                            ResultSet resultSet=DataBaseObject.getUrls2(result);
+                                            while (resultSet.next())
+                                            {
+                                                IncrementLimit();
+                                            }
                                         }
                                         catch( Exception e)
                                         {
@@ -731,14 +740,14 @@ public class UrlThread implements  Runnable {
                             //----------------------------------------------------------------------------------------------------------------------------------------------//
                             // check if its content is same content to another link in the database
                             String content= DataBaseObject.getContent(parentId);
-                            ResultSet contentResultSet=DataBaseObject.getContents(content);
+                            ResultSet contentResultSet=DataBaseObject.getContents(content,parentId);
 
-                            try {
-                                if ((contentResultSet!=null&&contentResultSet.next())) return;
-                            }
-                            catch (SQLException e) {
-                                e.printStackTrace();
-                            }
+//                            try {
+//                                if ((contentResultSet!=null&&contentResultSet.next())) return;
+//                            }
+//                            catch (SQLException e) {
+//                                e.printStackTrace();
+//                            }
                             //-----------------------------------------------------------------------------------------------------------------------------------------------//
                             try {
                                 String desc = doc.select("meta[name=description]").get(0)
@@ -788,7 +797,11 @@ public class UrlThread implements  Runnable {
                                             //-----------------------------------------------------------------------------------------------------------------//
 
                                             linkProcessing(result, Layer + 1,Index1 ,Index2,counter, parentId);
-                                            IncrementLimit();
+                                            ResultSet resultSet=DataBaseObject.getUrls2(result);
+                                            while (resultSet.next())
+                                            {
+                                                IncrementLimit();
+                                            }
                                         }
                                         catch( Exception e)
                                         {
@@ -800,6 +813,10 @@ public class UrlThread implements  Runnable {
                                         DataBaseObject.setThreadPosition(Thread.currentThread().getName(), -1, 0);
                                         Thread.currentThread().interrupt();
                                         break;
+                                    }
+                                    else
+                                    {
+                                        flag=1;
                                     }
                                 } else {
                                     FirstUrlLayer3--;

@@ -32,34 +32,39 @@ public class Main {
 
     public static void main(String[] args) throws FileNotFoundException, JSONException {
 
-       /* UrlThread obj=new UrlThread();
-        Thread.currentThread().setName("Thread1");
-        Thread newthread=new Thread(new UrlThread());
-        newthread.setName("Thread2");
-        newthread.run();*/
+//       UrlThread obj=new UrlThread();
+//       obj.linkProcessing("https://cplusplus.com",1,1,1,1,-1);
+//        Thread.currentThread().setName("Thread1");
+//        Thread newthread=new Thread(new UrlThread());
+//        newthread.setName("Thread2");
+//        newthread.run();*/
 
         //----------------------------------------Crawler-----------------------------------------//
         // DataBase DataBaseObject = new DataBase();
         // UrlThread.Limit+=DataBaseObject.getCompleteCount();
-        // Thread ThreadsArray[]=new Thread[44];
-        // Thread.currentThread().setName("Thread1");
+         Thread ThreadsArray[]=new Thread[44];
+
         // UrlThread obj=new UrlThread();
-        // for(int i=1;i<44;i++)
-        // {
-        //     ThreadsArray[i] = new Thread(new UrlThread());
-        //     ThreadsArray[i].setName("Thread" + (i+1));
-        //     ThreadsArray[i].start();
+         for(int i=5;i<12;i++)
+         {
+             ThreadsArray[i] = new Thread(new UrlThread());
+             ThreadsArray[i].setName("Thread" + (i+1));
 
-        // }
-        //     for(int i=1;i<44;i++)
-        // {
+         }
+//         Thread.currentThread().setName("Thread4");
+         for(int i=5;i<12;i++)
+         {
+             ThreadsArray[i].start();
+         }
+             for(int i=5;i<12;i++)
+         {
 
-        //     try {
-        //         ThreadsArray[i].join();
-        //     } catch (InterruptedException e) {
+             try {
+                 ThreadsArray[i].join();
+             } catch (InterruptedException e) {
 
-        //     }
-        // }
+             }
+         }
         //------------------------------------------------------------------------------------------//
 
 //

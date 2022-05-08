@@ -193,15 +193,13 @@ public class DataBase {
     //-----------------------------------------get the family of the link --------------------------------------------------//
     public synchronized ResultSet getParentUrl (String ThreadName,StringBuffer parentLink , StringBuffer grandLink , String link,int Layer)
     {
-        try{
-            if(Layer==1)
-            {
-                ResultSet resultSet= this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+" AND Completed=0;");
-                System.out.printf("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+" AND Completed=0;");
-                while(resultSet.next())
-                {
+        try {
+//            if (Layer == 1) {
+                ResultSet resultSet = this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='" + ThreadName + "' AND Layer=1 AND Completed=0;");
+                System.out.printf("SELECT * FROM links WHERE  ThreadName='" + ThreadName + "' AND Layer=" + Layer + " AND Completed=0;");
+                while (resultSet.next()) {
                     grandLink.append(resultSet.getString("Link"));
-                    return this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+" AND Completed=0;");
+                    return this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='" + ThreadName + "' AND Layer=1 AND Completed=0;");
                 }
 
 //                ResultSet resultSet2= this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+" AND Completed=1;");
@@ -212,54 +210,59 @@ public class DataBase {
 //                }
                 //If the parent  link is completed
                 Thread.currentThread().interrupt();
-            }
-            else if(Layer==2)
-            {
-                ResultSet resultSet= this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+" AND Completed=0;");
-                while(resultSet.next())
-                {
-                    resultSet=this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent , k.Layer FROM links as e , links as k WHERE e.Layer= "+Layer+" AND e.ThreadName='"+ThreadName+"' AND k.Id=e.LinkParent;");
-                    while(resultSet.next())
-                    {
-                        parentLink.append(resultSet.getString("Link"));
-                        return this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent , k.Layer FROM links as e , links as k WHERE e.Layer= "+Layer+" AND e.ThreadName='"+ThreadName+"' AND k.Id=e.LinkParent;");
-                    }
-
-                }
-                //If the parent  link is completed
-                Thread.currentThread().interrupt();
-            }
-            else if (Layer==3||Layer-1==3)
-            {
-                Layer-=1;
-                ResultSet resultSet= this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+" AND Completed=0;");
-                while(resultSet.next())
-                {
-                    resultSet =this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent , k.Layer FROM links as e , links as k WHERE e.Layer= "+Layer+" AND e.ThreadName='"+ThreadName+"' AND k.Id=e.LinkParent;");
-                    while(resultSet.next())
-                    {
-                        parentLink.append(resultSet.getString("Link"));
-                        Layer=resultSet.getInt("Layer");
-                        resultSet =this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent , k.Layer FROM links as e , links as k WHERE e.Layer= "+Layer+" AND e.ThreadName='"+ThreadName+"' AND k.Id=e.LinkParent;");
-                        while(resultSet.next())
-                        {
-                            grandLink.append(resultSet.getString("Link"));
-                            return this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent , k.Layer FROM links as e , links as k WHERE e.Layer= "+Layer+" AND e.ThreadName='"+ThreadName+"' AND k.Id=e.LinkParent;");
-                        }
-
-                    }
-
-
-                }
-                //If the parent  link is completed
-                Thread.currentThread().interrupt();
-            }
+//            }
         }
-        catch(SQLException e)
+        catch (SQLException e)
         {
-            return null;
 
         }
+//            else if(Layer==2)
+//            {
+//                ResultSet resultSet= this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+" AND Completed=0;");
+//                while(resultSet.next())
+//                {
+//                    resultSet=this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent , k.Layer FROM links as e , links as k WHERE e.Layer= "+Layer+" AND e.ThreadName='"+ThreadName+"' AND k.Id=e.LinkParent;");
+//                    while(resultSet.next())
+//                    {
+//                        parentLink.append(resultSet.getString("Link"));
+//                        return this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent , k.Layer FROM links as e , links as k WHERE e.Layer= "+Layer+" AND e.ThreadName='"+ThreadName+"' AND k.Id=e.LinkParent;");
+//                    }
+//
+//                }
+//                //If the parent  link is completed
+//                Thread.currentThread().interrupt();
+//            }
+//            else if (Layer==3||Layer-1==3)
+//            {
+//                Layer-=1;
+//                ResultSet resultSet= this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+" AND Completed=0;");
+//                while(resultSet.next())
+//                {
+//                    resultSet =this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent , k.Layer FROM links as e , links as k WHERE e.Layer= "+Layer+" AND e.ThreadName='"+ThreadName+"' AND k.Id=e.LinkParent;");
+//                    while(resultSet.next())
+//                    {
+//                        parentLink.append(resultSet.getString("Link"));
+//                        Layer=resultSet.getInt("Layer");
+//                        resultSet =this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent , k.Layer FROM links as e , links as k WHERE e.Layer= "+Layer+" AND e.ThreadName='"+ThreadName+"' AND k.Id=e.LinkParent;");
+//                        while(resultSet.next())
+//                        {
+//                            grandLink.append(resultSet.getString("Link"));
+//                            return this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent , k.Layer FROM links as e , links as k WHERE e.Layer= "+Layer+" AND e.ThreadName='"+ThreadName+"' AND k.Id=e.LinkParent;");
+//                        }
+//
+//                    }
+//
+//
+//                }
+//                //If the parent  link is completed
+//                Thread.currentThread().interrupt();
+//            }
+//        }
+//        catch(SQLException e)
+//        {
+//            return null;
+//
+//        }
         return null;
     }
 //----------------------------------------------------------------------------------------------------------------------//
@@ -353,7 +356,7 @@ public class DataBase {
     }
     // ---------------------------------------------------------------------------------------------------------------------//
     //--------------------------------------------------function to get the parent id----------------------------------------//
-    public String getParentLink(String url)
+    public synchronized String getParentLink(String url)
     {
         try{
             ResultSet resultSet=this.stmt.executeQuery("SELECT LinkParent FROM links  where Link='"+url+"' ;" );
@@ -377,7 +380,7 @@ public class DataBase {
     }
     //-----------------------------------------------------------------------------------------------------------------------//
     //-----------------------------------------------Add Link descripation--------------------------------------------------//
-    public void addDesc(int id,String desc)
+    public  synchronized void addDesc(int id,String desc)
     {
         try {
             this.stmt.executeUpdate("UPDATE links SET Descripation='" + desc + "' WHERE Id=" + id + ";");
@@ -389,8 +392,9 @@ public class DataBase {
     }
     // ---------------------------------------------------------------------------------------------------------------------//
     //------------------------------------------function to add paragraphs and headers and title and itemlists-------------//
-    public void addElements(int id,String paragraphs,String title,String headers,String itemLists,String strong)
+    public synchronized void addElements(int id,String paragraphs,String title,String headers,String itemLists,String strong)
     {
+        System.out.printf("UPDATE links SET Paragraph='" + paragraphs + "' WHERE Id=" + id + ";");
         try {
             this.stmt.executeUpdate("UPDATE links SET Paragraph='" + paragraphs + "' WHERE Id=" + id + ";");
             this.stmt.executeUpdate("UPDATE links SET Title='" + title + "' WHERE Id=" + id + ";");
@@ -405,10 +409,10 @@ public class DataBase {
     }
     //---------------------------------------------------------------------------------------------------------------------//
     //-----------------------------------------------get Link Content--------------------------------------------------//
-    public String getContent(int id)
+    public synchronized String getContent(int id)
     {
         try {
-            System.out.println("SELECT CONCAT(Paragraph,Headers,Title,Strong,ListItems) as 'content' FROM `links` WHERE Id="+id+";");
+//            System.out.println("SELECT CONCAT(Paragraph,Headers,Title,Strong,ListItems) as 'content' FROM `links` WHERE Id="+id+";");
             ResultSet resultSet=this.stmt.executeQuery("SELECT CONCAT(Paragraph,Headers,Title,Strong,ListItems) as 'content' FROM `links` WHERE Id="+id+";");
             while(resultSet.next())
             {
@@ -423,11 +427,15 @@ public class DataBase {
     }
     // ---------------------------------------------------------------------------------------------------------------------//
     //------------------------------------------get Links Contents----------------------------------------------------------//
-    public ResultSet getContents(String content)
+    public synchronized ResultSet getContents(String content , int id)
     {
         try {
-            ResultSet resultSet=this.stmt.executeQuery("Select * From links where CONCAT(Paragraph,Headers,Title,Strong,ListItems)='"+content+"';");
-            return resultSet;
+            ResultSet resultSet=this.stmt.executeQuery("Select * From links as K ,links as J where CONCAT(K.Paragraph,K.Headers,K.Strong,K.ListItems)=CONCAT(J.Paragraph,J.Headers,J.Strong,J.ListItems) AND K.Id="+id+" AND K.Id!=J.Id;");
+            while(resultSet.next())
+            {
+                this.stmt.executeUpdate("Delete from links where Id="+id+";");
+            }
+            return null;
         }
         catch(SQLException e)
         {
