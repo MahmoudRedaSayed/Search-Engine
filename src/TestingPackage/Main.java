@@ -42,21 +42,21 @@ public class Main {
         //----------------------------------------Crawler-----------------------------------------//
         // DataBase DataBaseObject = new DataBase();
         // UrlThread.Limit+=DataBaseObject.getCompleteCount();
-         Thread ThreadsArray[]=new Thread[42];
+         Thread ThreadsArray[]=new Thread[51];
 
         // UrlThread obj=new UrlThread();
-         for(int i=0;i<42;i++)
+         for(int i=0;i<51;i++)
          {
              ThreadsArray[i] = new Thread(new UrlThread());
              ThreadsArray[i].setName("Thread" + (i+1));
 
          }
 //         Thread.currentThread().setName("Thread4");
-         for(int i=0;i<42;i++)
+         for(int i=0;i<51;i++)
          {
              ThreadsArray[i].start();
          }
-             for(int i=0;i<42;i++)
+             for(int i=0;i<51;i++)
          {
 
              try {

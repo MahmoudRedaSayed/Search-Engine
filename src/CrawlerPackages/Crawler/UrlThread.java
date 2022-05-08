@@ -838,6 +838,120 @@ public class UrlThread implements  Runnable {
                         }
 
                     }
+                    else if(Layer==4)
+                    {
+                        DataBaseObject.setThreadPosition(Thread.currentThread().getName(), Layer, Index3);
+
+                        int counter = 0;
+                        try {
+                            //-----------------------------------------------------------------------------------------------------------------//
+                            // get the document and get the links from it
+                            Document doc = Jsoup.connect(Url).get();
+                            // ------------------------------------------The data of the links the content and the paragraphs and the header and title -------------------//
+                            /*
+                             * this block to add the content of the link into the database put separeted
+                             * */
+                            PageParsing pageContent=new PageParsing(doc);
+                            String headers=Arrays.toString(pageContent.getHeaders()).replace("'","\\\'").replace("\"","\\\"");
+                            String title=pageContent.getTitleTag().replace("'","\\\'").replace("\"","\\\"");
+                            String paragraphs= Arrays.toString(pageContent.getParagraphs()).replace("'","\\\'").replace("\"","\\\"");
+                            String listItems=Arrays.toString(pageContent.getListItems()).replace("'","\\\'").replace("\"","\\\"");
+                            String strongWords=Arrays.toString(pageContent.getStrongs()).replace("'","\\\'").replace("\"","\\\"");
+                            DataBaseObject.addElements(parentId,paragraphs,title,headers,listItems,strongWords);
+
+                            //----------------------------------------------------------------------------------------------------------------------------------------------//
+                            // check if its content is same content to another link in the database
+                            String content= DataBaseObject.getContent(parentId);
+                            ResultSet contentResultSet=DataBaseObject.getContents(content,parentId);
+
+//                            try {
+//                                if ((contentResultSet!=null&&contentResultSet.next())) return;
+//                            }
+//                            catch (SQLException e) {
+//                                e.printStackTrace();
+//                            }
+                            //-----------------------------------------------------------------------------------------------------------------------------------------------//
+                            try {
+                                String desc = doc.select("meta[name=description]").get(0)
+                                        .attr("content").replaceAll("'"," ").replace('"', ' ');
+                                DataBaseObject.addDesc(parentId, desc);
+                            }
+                            catch (IndexOutOfBoundsException e)
+                            {
+                                DataBaseObject.addDesc(parentId, "");
+                            }
+                            Elements links = doc.select("a[href]");
+                            //-----------------------------------------------------------------------------------------------------------------//
+
+                            //-----------------------------------------------------------------------------------------------------------------//
+                            // call function robotSafe
+                            // this part will be extracted from the robot.txt file the Allowed and Disallowed the Allowed will be sent by reference
+                            ArrayList<String> Allowed=new ArrayList<>();
+                            ArrayList<String> Disallowed = robotSafe(Url,Allowed);
+                            //-----------------------------------------------------------------------------------------------------------------//
+
+                            boolean forbidden=false;
+                            int flag=FirstUrlLayer3;
+                            for (Element link : links)
+                            {
+                                counter++;
+                                if (FirstUrlLayer3 == 1) {
+                                    String result = Normalized(link.attr("href"));
+
+                                    forbidden=DisallowedCheck(Disallowed,Allowed,link.attr("href"));
+
+                                    if (getLimit() < 5000 && result != "-1"&&!forbidden) {
+                                        try {
+                                            //-----------------------------------------------------------------------------------------------------------------//
+                                            // this part to check if the link is inserted by another thread or not
+                                            if(flag==1)
+                                            {
+                                                ResultSet resultSet=DataBaseObject.getUrls2(link.attr("href"));
+                                                if (resultSet!=null&&resultSet.next())
+                                                {
+                                                    continue;
+                                                }
+
+                                            }
+                                            else{
+                                                flag=1;
+                                            }
+                                            //-----------------------------------------------------------------------------------------------------------------//
+
+                                            linkProcessing(result, Layer + 1,Index1 ,Index2,counter, parentId);
+                                            ResultSet resultSet=DataBaseObject.getUrls2(result);
+                                            while (resultSet.next())
+                                            {
+                                                IncrementLimit();
+                                            }
+                                        }
+                                        catch( Exception e)
+                                        {
+
+                                        }
+
+                                    } else if (getLimit() >= 5000) {
+                                        // query to set the layer and the index to 0 setThread Position
+                                        DataBaseObject.setThreadPosition(Thread.currentThread().getName(), -1, 0);
+                                        Thread.currentThread().interrupt();
+                                        break;
+                                    }
+                                    else
+                                    {
+                                        flag=1;
+                                    }
+                                } else {
+                                    FirstUrlLayer3--;
+                                }
+                            }
+                            DataBaseObject.urlCompleted(Url);
+                        }
+                        catch (IOException e)
+                        {
+
+                        }
+
+                    }
                     else
                     {
                         DataBaseObject.setThreadPosition(Thread.currentThread().getName(), Layer, Index3);
