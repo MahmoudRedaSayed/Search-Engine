@@ -32,13 +32,6 @@ public class Main {
 
     public static void main(String[] args) throws FileNotFoundException, JSONException {
 
-//       UrlThread obj=new UrlThread();
-//       obj.linkProcessing("https://cplusplus.com",1,1,1,1,-1);
-//        Thread.currentThread().setName("Thread1");
-//        Thread newthread=new Thread(new UrlThread());
-//        newthread.setName("Thread2");
-//        newthread.run();*/
-
         //----------------------------------------Crawler-----------------------------------------//
         // DataBase DataBaseObject = new DataBase();
         // UrlThread.Limit+=DataBaseObject.getCompleteCount();
