@@ -1,3 +1,1 @@
-/kelly|[https://www.iflscience.com/environment/the-largest-accidental-release-of-radioactive-material-in-us-history-what-happened-at-church-rock/,p]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;
-/kelsey|[https://order.store.mayoclinic.com/books/GNWEB16?utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=Baby-Book&utm_content=BFY,s]:1;[https://order.store.mayoclinic.com/books/GNWEB16?utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=Baby-Book&utm_content=BFY,p]:1;
-/kelman|[https://www.whattoexpect.com/,p]:1;
+/kelly|[https://www.academicinfo.net,h]::1;

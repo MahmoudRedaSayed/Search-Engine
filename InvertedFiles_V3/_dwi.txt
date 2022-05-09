@@ -1,3 +1,0 @@
-/dwight|[https://www.loc.gov,h]:1;[https://www.loc.gov/,h]:1;[https://www.dailymail.co.uk/sport/index.html,p]:1;
-/dwindling|[https://www.sciencenewsforstudents.org/article/murder-hornet-asian-giant-trap-sex-pheromone,p]:1;
-/dwindle|[https://www.iflscience.com/environment/flash-droughts-are-becoming-more-severe-posing-new-climate-threat/,p]:1;

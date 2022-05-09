@@ -1,3 +1,0 @@
-/nagios|[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;
-/nagashima|[http://www.enable-javascript.com/,p]:1;
-/nagelsmann|[https://www.dailymail.co.uk/sport/index.html,s]:1;[https://www.dailymail.co.uk/sport/index.html,s]:1;

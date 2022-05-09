@@ -1,2 +1,0 @@
-/uml|[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;
-/umls|[https://www.nlm.nih.gov/,s]:1;[https://www.nlm.nih.gov/,p]:1;[https://www.nlm.nih.gov/,s]:1;[https://www.nlm.nih.gov/,p]:1;

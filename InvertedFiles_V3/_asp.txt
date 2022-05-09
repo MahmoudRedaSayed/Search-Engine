@@ -1,5 +1,1 @@
-/aspnet|[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;
-/aspects|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://www.loc.gov,p]:1;[https://www.loc.gov/,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.mayoclinic.org/global,p]:1;[https://english.ahram.org.eg/,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.mayoclinic.org/global,p]:1;[https://itunes.apple.com/gb/app/kick-it-out/id630458751,p]:1;[https://www.bbc.co.uk/news/help-41670342,p]:1;[http://www.loc.gov/rr/main/inforeas/orient.html,p]:1;[https://order.store.mayoclinic.com/flex/mmv/ESDIAB1/?utm_source=MC-DotOrg-Text&utm_medium=Link&utm_campaign=Diabetes-Book&utm_content=EDIAB,p]:1;
-/asparagus|[https://www.healthline.com/program/wellness,p]:1;[https://www.healthline.com/program/wellness,p]:1;
-/asphyxiation|[https://www.dailymail.co.uk/ushome/index.html,h]:1;
-/aspirations|[https://www.everydayhealthgroup.com/,p]:1;
+/asp|[https://w3schools.com,h]::1;

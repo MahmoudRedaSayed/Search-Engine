@@ -1,3 +1,1 @@
-/toxic|[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org,h]:1;[https://www.iflscience.com/environment/the-largest-accidental-release-of-radioactive-material-in-us-history-what-happened-at-church-rock/,p]:1;
-/toxins|[https://www.healthline.com/program/the-sustainable-table,h]:1;[https://www.healthline.com/program/the-sustainable-table#start-here,h]:1;
-/toxicity|[https://www.iflscience.com/environment/maps-show-locations-of-worryingly-high-uranium-levels-in-us-water-supply/,p]:1;
+/toxic|[https://www.sciencenewsforstudents.org,h]::1;

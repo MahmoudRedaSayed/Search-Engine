@@ -1,2 +1,1 @@
-/cuando|[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org,h]:1;
-/cuarto|[https://www.marca.com/motor/formula1.html?intcmp=MENUMIGA&s_kw=formula-1,p]:1;
+/cuando|[https://www.sciencenewsforstudents.org,h]::1;

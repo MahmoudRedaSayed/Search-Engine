@@ -1,2 +1,0 @@
-/arabic|[https://www.bbc.com/,h]:1;[https://www.bbc.com,h]:1;[https://f24.my/SC,p]:1;[https://www.bbc.com,h]:1;[https://f24.my/SC,p]:1;[http://www.enable-javascript.com/,p]:1;
-/arabe|[https://f24.my/SC,h]:1;[https://f24.my/SC,h]:1;[https://f24.my/SC,h]:1;[https://f24.my/SC,h]:1;

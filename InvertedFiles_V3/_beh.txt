@@ -1,11 +1,6 @@
-/behavior|[https://kidshealth.org/[https://www.iflscience.com/environment/,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.mayoclinic.org/global,p]:1;[https://kidshealth.org/[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.mayoclinic.org/global,p]:1;[https://developers.googleblog.com/2020/06/announcing-actions-builder-actions-sdk.html,p]:1;[https://www.mayoclinic.org/coronavirus-covid-19/vaccine-tracker/,p]:1;[https://www.sciencenewsforstudents.org/article/murder-hornet-asian-giant-trap-sex-pheromone,p]:1;[https://developers.google.com/maps,p]:1;[https://www.mayoclinic.org/coronavirus-covid-19/map,p]:1;[https://www.everydayhealthgroup.com/,p]:1;[https://www.sciencenewsforstudents.org/article/scientists-say-equation,p]:1;[https://www.iflscience.com/environment/people-avoided-chiles-coast-for-1000-years-after-ancient-megatsunami/,p]:1;[https://www.ncbi.nlm.nih.gov/research/,p]:1;[https://www.iflscience.com/environment/global-heating-means-faster-ocean-currents-66-million-years-of-data-suggests/,p]:1;[http://goo.gle/maps-platform-io21-announcements,p]:1;
-
-,p]:1;
-
-,p]:1;
-/behalf|[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.mayoclinic.org/global,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.mayoclinic.org/global,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
-/behaviors|[https://www.healthline.com/nutrition,p]:1;[https://www.healthline.com/program/sleep,p]:1;[https://www.healthline.com/program/wellness,p]:1;[https://www.healthline.com/sleep,p]:1;
-/behavioral|[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;[https://www.healthline.com/mental-health,p]:1;[https://www.healthline.com/program/wellness,p]:1;
-/behind…|[https://www.healthline.com/mental-health,p]:1;
-/behaviour|[https://itunes.apple.com/gb/app/kick-it-out/id630458751,p]:1;[https://itunes.apple.com/gb/app/kick-it-out/id630458751,p]:1;[https://www.dailymail.co.uk/sport/index.html,s]:1;
-/behold|[https://www.iflscience.com/environment/scotlands-anthrax-island-ablaze-with-apocalyptic-wildfires/,p]:1;
+/behindthescenes|[https://www.dailymail.co.uk,p]::1;
+/behold|[https://nautil.us,p]::1;
+/behavior|[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;
+/behavioral|[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;
+/behave|[https://www.everydayhealth.com/cancer/guide,p]::1;
+/behaviors|[https://www.healthline.com/nutrition,p]::1;

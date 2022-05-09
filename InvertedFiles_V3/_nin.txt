@@ -1,4 +1,1 @@
-/nineyearold|[https://www.dailymail.co.uk/ushome/index.html,p]:1;
-/ningbo|[https://www.dailymail.co.uk/ushome/index.html,p]:1;
-/ninth|[https://www.dailymail.co.uk/sport/index.html,h]:1;[http://www.thepfa.com/,h]:1;[http://www.thepfa.com/,p]:1;
-/nineminute|[https://www.dailymail.co.uk/sport/index.html,p]:1;
+/ninetynine|[https://www.everydayhealth.com/cancer/guide,p]::1;

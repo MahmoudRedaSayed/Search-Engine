@@ -1,2 +1,0 @@
-/elasticsearch|[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;
-/elapsed|[https://www.geeksforgeeks.org/must-do-coding-questions-for-product-based-companies/?ref=ghm,p]:1;

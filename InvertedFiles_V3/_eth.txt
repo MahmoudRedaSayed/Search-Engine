@@ -1,3 +1,1 @@
-/ethical|[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.healthline.com/program/the-sustainable-table,p]:1;[https://www.healthline.com/program/the-sustainable-table#start-here,p]:1;[https://www.iflscience.com/environment/taming-the-butterfly-scientists-use-chaos-theory-to-control-weather/,p]:1;[https://www.everydayhealthgroup.com/,p]:1;
-/ethnic|[https://magazine.medlineplus.gov/issues/spring-2021,p]:1;
-/ethics|[https://www.bbc.co.uk/news/help-41670342,p]:1;[https://www.everydayhealthgroup.com/,p]:1;[https://www.everydayhealthgroup.com/,p]:1;
+/ethical|[https://stackoverflow.co,p]::1;

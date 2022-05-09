@@ -1,4 +1,2 @@
-/pellegrini|[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]:1;[https://www.marca.com,h]:1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]:1;
-/pelvic|[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;
-/pelosi's|[https://www.dailymail.co.uk/ushome/index.html,h]:1;
-/pelvis|[https://www.dailyom.com/,h]:1;[https://www.dailyom.com/,h]:1;
+/pelea?|[https://www.marca.com,h]::1;
+/pellegrino|[https://nautil.us/about-us,p]::1;

@@ -1,5 +1,0 @@
-/have?|[https://ask.loc.gov/genealogy-local-history/,p]:1;[https://ask.loc.gov/genealogy-local-history/,p]:1;
-/haverford|[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
-/havent|[https://whyy.org/articles/should-i-get-my-kids-the-covid-19-vaccine-booster/,p]:1;[https://www.mayoclinic.org/coronavirus-covid-19/map,p]:1;
-/havoc|[https://www.iflscience.com/environment/people-avoided-chiles-coast-for-1000-years-after-ancient-megatsunami/,p]:1;
-/have?'|[https://www.dailymail.co.uk/sport/index.html,s]:1;

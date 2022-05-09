@@ -1,2 +1,1 @@
-/nazca|[https://www.iflscience.com/environment/people-avoided-chiles-coast-for-1000-years-after-ancient-megatsunami/,p]:1;
-/nazi|[https://www.iflscience.com/environment/scotlands-anthrax-island-ablaze-with-apocalyptic-wildfires/,p]:1;
+/nazi|[https://www.dailymail.co.uk,h]::2;[https://www.dailymail.co.uk,p]::1;

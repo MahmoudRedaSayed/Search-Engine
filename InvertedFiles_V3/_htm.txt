@@ -1,1 +1,1 @@
-/html|[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://developers.google.com/assistant,p]:1;[https://www.javatpoint.com,p]:1;[https://developers.google.com/assistant,p]:1;[https://historyhub.history.gov/welcome,h]:1;
+/html|[https://w3schools.com,h]::4;[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;

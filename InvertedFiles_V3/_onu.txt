@@ -1,1 +1,1 @@
-/onu|[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org,h]:1;
+/onu|[https://www.sciencenewsforstudents.org,h]::1;

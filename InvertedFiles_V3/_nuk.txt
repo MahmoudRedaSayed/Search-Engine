@@ -1,1 +1,1 @@
-/nuking|[https://www.iflscience.com/technology/,h]:1;[https://www.iflscience.com/technology/,h]:1;
+/nukes|[https://www.dailymail.co.uk,p]::1;

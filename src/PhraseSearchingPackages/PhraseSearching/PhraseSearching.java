@@ -141,10 +141,17 @@ public class PhraseSearching {
             else if(result[i].length() == 2)
                 fileName = "two";
 
-            else
+            else if(result[i].length() > 2)
+            {
                 fileName = "_" + result[i].substring(0,3);
 
-
+                // if the word is something like that => UK's
+                File tempFile = new File(HelperClass.invertedFilePath_V3(fileName));
+                if (! tempFile.exists())
+                {
+                    fileName = "others";
+                }
+            }
 
             String filePath = System.getProperty("user.dir");   // get the directory of the project
 

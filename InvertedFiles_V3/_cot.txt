@@ -1,2 +1,0 @@
-/cotton|[https://www.loc.gov,h]:1;[https://www.loc.gov/,h]:1;
-/cottage|[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;

@@ -1,3 +1,0 @@
-/elsafar|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;
-/else's|[https://www.healthline.com/fitness,p]:1;[https://www.healthline.com/fitness,p]:1;[https://www.dailymail.co.uk/sport/index.html,s]:1;
-/elselectnodata|[https://www.francemediasmonde.com/en/legal-notice,p]:1;

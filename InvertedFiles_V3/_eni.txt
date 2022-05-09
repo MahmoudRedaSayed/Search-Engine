@@ -1,2 +1,0 @@
-/enigma|[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
-/enigmatic|[https://historyhub.history.gov/community/help-and-support/blog/2021/12/30/top-history-hub-questions-of-2021,p]:1;

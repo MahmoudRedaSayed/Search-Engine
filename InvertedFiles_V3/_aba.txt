@@ -1,3 +1,0 @@
-/abate|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
-/abatzoglou|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
-/abandoned|[https://www.dailymail.co.uk/ushome/index.html,p]:1;[https://www.iflscience.com/environment/over-300-dead-in-south-african-floods-as-scientists-warn-of-climate-changeinduced-stronger-storms/,p]:1;[https://www.iflscience.com/environment/chernobyls-radiation-spikes-may-be-result-of-russian-equipment-interference-argue-scientists/,p]:1;

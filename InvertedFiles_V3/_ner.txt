@@ -1,3 +1,1 @@
-/nervous|[https://www.healthline.com/mental-health,p]:1;[https://www.healthline.com/program/wellness,p]:1;
-/nerves|[https://www.mayoclinic.org/coronavirus-covid-19/vaccine-tracker/,p]:1;
-/nervewracking|[https://order.store.mayoclinic.com/books/GNWEB16?utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=Baby-Book&utm_content=BFY,p]:1;
+/nervous|[https://www.everydayhealth.com/cancer/guide,p]::1;

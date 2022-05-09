@@ -1,1 +1,2 @@
-/onboarding|[https://jobs.mayoclinic.org/,p]:1;[https://jobs.mayoclinic.org/nursetrainingprograms,p]:1;[https://jobs.mayoclinic.org/benefits/,p]:1;[https://jobs.mayoclinic.org/events/,p]:1;[https://jobs.mayoclinic.org/,p]:1;[https://jobs.mayoclinic.org/surgicalservices,p]:1;[https://jobs.mayoclinic.org/diversity,p]:1;[https://jobs.mayoclinic.org/benefits/,p]:1;[https://jobs.mayoclinic.org/events/,p]:1;
+/onboard|[https://www.dailymail.co.uk,p]::1;
+/onboarding|[https://jobs.mayoclinic.org,p]::1;

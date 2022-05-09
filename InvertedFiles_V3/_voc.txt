@@ -1,5 +1,0 @@
-/vocabularies|[https://www.nlm.nih.gov/,p]:1;[https://www.nlm.nih.gov/,p]:1;
-/vocational|[https://jobs.mayoclinic.org/surgicalservices,p]:1;
-/vocal|[https://www.iflscience.com/environment/david-attenborough-has-been-named-champion-of-the-earth-by-un/,p]:1;
-/vocabulary|[https://www.ncbi.nlm.nih.gov/mesh,h]:1;
-/vocalizations|[https://asa.scitation.org/doi/10.1121/10.0010072,t]:1;

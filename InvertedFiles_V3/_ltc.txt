@@ -1,0 +1,1 @@
+/ltcol|[https://www.dailymail.co.uk,p]::3;

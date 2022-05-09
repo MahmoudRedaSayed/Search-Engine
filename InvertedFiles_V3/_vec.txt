@@ -1,2 +1,1 @@
-/vector|[https://developers.google.com/maps,p]:1;[https://developers.google.com/maps,p]:1;[http://goo.gle/map-move-camera,t]:1;[http://goo.gle/map-move-camera,h]:1;[http://goo.gle/map-move-camera,p]:1;[http://goo.gle/map-move-camera,p]:1;[http://goo.gle/map-move-camera,p]:1;[http://goo.gle/map-move-camera,p]:1;[http://goo.gle/map-move-camera,p]:1;[http://goo.gle/map-move-camera,p]:1;[http://goo.gle/map-move-camera,p]:1;[http://goo.gle/map-move-camera,p]:1;[http://goo.gle/maps-platform-io21-announcements,p]:1;[http://goo.gle/maps-platform-io21-announcements,p]:1;
-/vectorbased|[http://goo.gle/map-move-camera,p]:1;[http://goo.gle/map-move-camera,p]:1;
+/veces|[https://www.marca.com,h]::1;

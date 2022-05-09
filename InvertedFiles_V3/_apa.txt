@@ -1,9 +1,1 @@
-/apache|[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://developers.google.com/maps/get-started,p]:1;[http://goo.gle/map-move-camera,p]:1;
-/apathy|[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;
-/apatow|[https://www.menshealth.com[https://www.menshealth.com[https://www.menshealth.com
-,h]:1;
-,h]:1;
-,h]:1;
-/apartment|[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/ushome/index.html,h]:1;[https://www.dailymail.co.uk/ushome/index.html,h]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;
-/apaga|[https://www.marca.com/motor/formula1.html?intcmp=MENUMIGA&s_kw=formula-1,h]:1;
-/apatite|[https://www.sciencenewsforstudents.org/article/innovation_2022-green-material-tree-cellulose-nanocrystals,p]:1;
+/apache|[https://www.loc.gov,h]::1;

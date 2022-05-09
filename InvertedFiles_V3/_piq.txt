@@ -1,2 +1,1 @@
-/piques|[https://discountcode.dailymail.co.uk/,p]:1;
-/piqué|[https://www.marca.com/motor/formula1.html?intcmp=MENUMIGA&s_kw=formula-1,s]:1;
+/piques|[https://discountcode.dailymail.co.uk,p]::1;

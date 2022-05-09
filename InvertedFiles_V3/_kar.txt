@@ -1,7 +1,0 @@
-/karimi|[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/sport/index.html,s]:1;
-/karnak|[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;[https://english.ahram.org.eg/,p]:1;
-/kardashians|[https://www.bbc.co.uk,p]:1;[https://www.bbc.com/,h]:1;[https://www.bbc.com/,p]:1;[https://www.marca.com,h]:1;[https://www.bbc.co.uk,p]:1;[https://www.bbc.com,h]:1;[https://www.bbc.com,p]:1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]:1;[https://www.bbc.com,h]:1;[https://www.bbc.com,p]:1;[https://www.dailymail.co.uk/ushome/index.html,h]:1;[https://www.dailymail.co.uk/ushome/index.html,h]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;
-/karl|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
-/karr|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
-/karma|[https://developers.google.com/maps,p]:1;
-/kardashian's|[https://www.dailymail.co.uk/ushome/index.html,h]:1;

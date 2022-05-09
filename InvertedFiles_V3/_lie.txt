@@ -1,3 +1,0 @@
-/lied|[https://www.france24.com,p]:1;[https://www.sciencenewsforstudents.org,p]:1;[https://www.france24.com,p]:1;[https://www.sciencenewsforstudents.org,p]:1;[https://www.sciencenewsforstudents.org/topics/,p]:1;[https://www.sciencenewsforstudents.org,p]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;[https://www.iflscience.com/environment/chernobyls-radiation-spikes-may-be-result-of-russian-equipment-interference-argue-scientists/,p]:1;
-/lies|[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/ushome/index.html,h]:1;
-/lie'|[https://www.dailymail.co.uk/sport/index.html,s]:1;

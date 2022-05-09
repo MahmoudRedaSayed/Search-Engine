@@ -1,4 +1,0 @@
-/wrapped|[https://www.dailymail.co.uk/,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk,h]:1;[https://www.dailymail.co.uk/home/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
-/wraps|[https://www.healthline.com/program/wellness,p]:1;
-/wrapup|[https://whyy.org/articles/should-i-get-my-kids-the-covid-19-vaccine-booster/,s]:1;[https://whyy.org/articles/should-i-get-my-kids-the-covid-19-vaccine-booster/,p]:1;
-/wrath|[https://www.iflscience.com/environment/people-avoided-chiles-coast-for-1000-years-after-ancient-megatsunami/,p]:1;

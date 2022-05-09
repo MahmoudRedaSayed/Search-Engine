@@ -1,7 +1,1 @@
-/duration|[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.francemediasmonde.com/en/legal-notice,p]:1;[https://www.francemediasmonde.com/en/legal-notice,p]:1;
-/durall|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
-/durable|[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;
-/durham|[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
-/durham's|[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
-/durban|[https://www.iflscience.com/environment/over-300-dead-in-south-african-floods-as-scientists-warn-of-climate-changeinduced-stronger-storms/,p]:1;
-/durability|[https://www.sciencenewsforstudents.org/article/innovation_2022-green-material-tree-cellulose-nanocrystals,p]:1;
+/durham|[https://www.dailymail.co.uk,p]::2;

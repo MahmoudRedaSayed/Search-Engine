@@ -1,7 +1,0 @@
-/buccaneers|[https://www.marca.com,h]:1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]:1;
-/buckinghamshire|[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
-/buckle|[https://www.iflscience.com/environment/,h]:1;[https://www.iflscience.com/environment/,p]:1;[https://www.iflscience.com/environment/buckle-up-for-yet-another-wild-atlantic-hurricane-season-this-year/,t]:1;[https://www.iflscience.com/environment/buckle-up-for-yet-another-wild-atlantic-hurricane-season-this-year/,h]:1;[https://www.iflscience.com/environment/buckle-up-for-yet-another-wild-atlantic-hurricane-season-this-year/,p]:1;
-/bucket|[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;[https://www.healthline.com/program/sexual-health-for-every-body,p]:1;
-/bucha|[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
-/bucha'|[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;
-/buckets|[https://www.iflscience.com/environment/the-largest-accidental-release-of-radioactive-material-in-us-history-what-happened-at-church-rock/,p]:1;

@@ -1,2 +1,1 @@
-/fever|[https://www.nationalgeographic.com/environment/article/why-old-growth-forests-matter,p]:1;[https://www.iflscience.com/environment/scotlands-anthrax-island-ablaze-with-apocalyptic-wildfires/,p]:1;
-/fevers|[https://order.store.mayoclinic.com/books/GNWEB16?utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=Baby-Book&utm_content=BFY,p]:1;
+/fever|[https://www.everydayhealth.com/cancer/guide,p]::1;

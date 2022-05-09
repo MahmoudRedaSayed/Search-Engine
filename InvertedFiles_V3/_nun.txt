@@ -1,1 +1,1 @@
-/nunca|[https://www.marca.com,h]:1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]:1;
+/nunca|[https://www.marca.com,h]::1;

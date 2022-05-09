@@ -1,3 +1,2 @@
-/cognitive|[https://www.healthline.com/mental-health,p]:1;
-/cognition|[https://www.healthline.com/program/sleep,p]:1;[https://www.healthline.com/sleep,p]:1;
-/cogs|[https://www.ncbi.nlm.nih.gov/research/,p]:1;
+/cognitive|[https://accounts.accessibe.com/statement/?domain=academicinfo.net,s]::1;[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;
+/cognitive disorders|[https://accounts.accessibe.com/statement/?domain=academicinfo.net,s]::1;

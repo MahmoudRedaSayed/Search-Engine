@@ -1,1 +1,1 @@
-/tui|[https://discountcode.dailymail.co.uk/,p]:1;
+/tui|[https://discountcode.dailymail.co.uk,p]::1;

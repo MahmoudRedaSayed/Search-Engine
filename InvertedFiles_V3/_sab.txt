@@ -1,2 +1,2 @@
-/sabertoothed|[https://www.sciencenewsforstudents.org/article/murder-hornet-asian-giant-trap-sex-pheromone,h]:1;
-/sabotage|[https://historyhub.history.gov/community/military-records/army-and-air-force-records/blog/2017/08/25/wwii-military-unit-records-at-the-national-archives,p]:1;
+/sabadell|[https://www.marca.com,h]::1;
+/sabotage|[https://www.dailymail.co.uk,p]::1;

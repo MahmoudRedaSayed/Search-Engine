@@ -1,4 +1,2 @@
-/eagle|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
-/eagles'|[http://www.premierleague.com/en-gb/,p]:1;[http://www.premierleague.com/en-gb/,p]:1;
-/eagerlyanticipated|[https://www.dailymail.co.uk/sport/index.html,p]:1;
-/eagerlyawaited|[https://www.dailymail.co.uk/sport/index.html,p]:1;
+/eagles|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
+/eager|[https://stackoverflow.co,p]::1;

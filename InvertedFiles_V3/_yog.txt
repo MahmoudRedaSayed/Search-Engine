@@ -1,5 +1,1 @@
-/yoghurt|[https://www.bbc.co.uk,p]:1;[https://www.bbc.co.uk,p]:1;
-/yoga|[https://www.healthline.com/fitness,p]:1;[https://www.healthline.com/fitness,p]:1;[https://www.healthline.com/fitness,p]:1;[https://www.healthline.com/mental-health,p]:1;[https://www.healthline.com/mental-health,p]:1;[https://www.healthline.com/fitness,p]:1;[https://www.healthline.com/fitness,p]:1;[https://www.healthline.com/fitness,p]:1;[https://www.healthline.com/program/wellness,p]:1;[https://www.healthline.com/program/wellness,p]:1;[https://shop.menshealth.com/editors-picks.html?source=mhl_hamburger,s]:1;
-/yogi|[https://www.healthline.com/fitness,p]:1;[https://www.healthline.com/fitness,p]:1;
-/yoga…|[https://www.healthline.com/fitness,p]:1;[https://www.healthline.com/fitness,p]:1;
-/yoga's…|[https://www.healthline.com/fitness,p]:1;[https://www.healthline.com/fitness,p]:1;
+/yoga|[https://www.dailymail.co.uk,p]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;

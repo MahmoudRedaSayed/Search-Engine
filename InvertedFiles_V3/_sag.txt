@@ -1,1 +1,1 @@
-/sag|[https://www.everydayhealthgroup.com/,p]:1;
+/sagan|[https://nautil.us/about-us,p]::1;

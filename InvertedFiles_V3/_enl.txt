@@ -1,5 +1,1 @@
-/enlightened|[https://www.healthline.com/parenthood,p]:1;
-/enlist|[https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/22/fact-sheet-president-biden-signs-executive-order-to-strengthen-americas-forests-boost-wildfire-resilience-and-combat-global-deforestation/,s]:1;
-/enlisting|[https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/22/fact-sheet-president-biden-signs-executive-order-to-strengthen-americas-forests-boost-wildfire-resilience-and-combat-global-deforestation/,s]:1;[https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/22/fact-sheet-president-biden-signs-executive-order-to-strengthen-americas-forests-boost-wildfire-resilience-and-combat-global-deforestation/,p]:1;
-/enlisted|[https://historyhub.history.gov/community/military-records/army-and-air-force-records/blog/2017/08/25/wwii-military-unit-records-at-the-national-archives,p]:1;[https://historyhub.history.gov/community/military-records/army-and-air-force-records/blog/2017/08/25/wwii-military-unit-records-at-the-national-archives,p]:1;
-/enlistment|[https://historyhub.history.gov/community/military-records/army-and-air-force-records/blog/2017/08/25/wwii-military-unit-records-at-the-national-archives,p]:1;
+/enlighten|[https://nautil.us/about-us,p]::1;

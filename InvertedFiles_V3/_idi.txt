@@ -1,2 +1,0 @@
-/idiot|[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;
-/idiomatic|[https://developers.google.com/maps,h]:1;[https://developers.google.com/maps,p]:1;

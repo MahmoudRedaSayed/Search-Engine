@@ -1,1 +1,1 @@
-/eightstory|[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;
+/eightytwo|[https://www.loc.gov,h]::1;

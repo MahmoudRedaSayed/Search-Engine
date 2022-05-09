@@ -1,3 +1,1 @@
-/atrocity'|[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;
-/atrisk|[https://magazine.medlineplus.gov/issues/spring-2021,h]:1;
-/através|[https://www.loc.gov/rr/video-tutorials.html,p]:1;
+/atrapados|[https://www.marca.com,h]::1;

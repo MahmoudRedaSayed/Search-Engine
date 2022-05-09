@@ -1,7 +1,1 @@
-/lee|[https://www.loc.gov,h]:1;[https://www.loc.gov,h]:1;[https://www.loc.gov,h]:1;[https://www.loc.gov,h]:1;[https://www.loc.gov,h]:1;[https://www.loc.gov,h]:1;[https://www.loc.gov/,h]:1;[https://www.loc.gov/,h]:1;[https://www.loc.gov/,h]:1;[https://www.loc.gov/,h]:1;[https://www.loc.gov/,h]:1;[https://www.loc.gov/,h]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
-/leeway|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
-/leeks|[https://www.healthline.com/program/wellness,p]:1;[https://www.healthline.com/program/wellness,p]:1;[https://www.healthline.com/program/the-sustainable-table,p]:1;[https://www.healthline.com/program/the-sustainable-table,p]:1;[https://www.healthline.com/program/the-sustainable-table#start-here,p]:1;[https://www.healthline.com/program/the-sustainable-table#start-here,p]:1;
-/leewhyy|[https://whyy.org/articles/should-i-get-my-kids-the-covid-19-vaccine-booster/,p]:1;
-/leesmelou|[http://www.premierleague.com/en-gb/,p]:1;
-/leeds|[https://www.dailymail.co.uk/sport/index.html,h]:1;[https://www.dailymail.co.uk/sport/index.html,h]:1;[https://www.dailymail.co.uk/sport/index.html,p]:1;
-/leeds'|[https://www.dailymail.co.uk/sport/index.html,s]:1;
+/lee|[https://www.dailymail.co.uk,p]::1;[https://www.loc.gov,h]::3;

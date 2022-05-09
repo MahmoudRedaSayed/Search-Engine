@@ -1,5 +1,3 @@
-/ties|[https://www.france24.com,p]:1;[https://www.france24.com,p]:1;[https://www.rfi.fr/en/,p]:1;
-/tiempo|[https://www.sciencenewsforstudents.org,h]:1;[https://www.sciencenewsforstudents.org,h]:1;[https://www.marca.com,h]:1;[https://www.sciencenewsforstudents.org,h]:1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]:1;[https://www.marca.com/motor/formula1.html?intcmp=MENUMIGA&s_kw=formula-1,h]:1;
-/tied|[https://www.everydayhealth.com/,h]:1;[https://www.everydayhealth.com/,h]:1;[https://www.everydayhealth.com/,h]:1;[https://www.everydayhealth.com/,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.everydayhealth.com/,h]:1;[https://www.everydayhealth.com/,h]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/ushome/index.html,h]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;[https://www.iflscience.com/environment/global-heating-means-faster-ocean-currents-66-million-years-of-data-suggests/,p]:1;
-/tiene|[https://www.marca.com,h]:1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]:1;
-/tier|[https://discountcode.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/sport/index.html,s]:1;
+/tierra|[https://www.marca.com,h]::1;
+/tiempo|[https://www.sciencenewsforstudents.org,h]::1;
+/ties|[https://www.everydayhealth.com/cancer/guide,p]::1;

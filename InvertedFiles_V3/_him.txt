@@ -1,3 +1,0 @@
-/him'|[https://www.dailymail.co.uk/ushome/index.html,h]:1;[https://www.dailymail.co.uk/sport/index.html,h]:1;[https://www.dailymail.co.uk/sport/index.html,s]:1;
-/himself'|[https://www.dailymail.co.uk/sport/index.html,h]:1;[https://www.dailymail.co.uk/sport/index.html,s]:1;
-/himher|[https://www.francemediasmonde.com/en/legal-notice,p]:1;

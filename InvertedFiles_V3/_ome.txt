@@ -1,2 +1,1 @@
-/omega|[https://www.healthline.com/nutrition,p]:1;[https://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/in-depth/prenatal-vitamins/art-20046945,p]:1;[https://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/in-depth/prenatal-vitamins/art-20046945,p]:1;[https://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/in-depth/prenatal-vitamins/art-20046945,p]:1;
-/omen|[https://www.dailymail.co.uk/sport/index.html,p]:1;
+/omega|[https://www.healthline.com/nutrition,p]::1;

@@ -1,0 +1,1 @@
+/inyecciones|[https://es.familydoctor.org,h]::1;

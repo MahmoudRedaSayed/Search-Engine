@@ -1,2 +1,0 @@
-/obligation|[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;[https://www.mayoclinic.org/global,p]:1;
-/oblique|[http://goo.gle/maps-platform-io21-announcements,p]:1;

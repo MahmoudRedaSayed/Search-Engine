@@ -1,2 +1,3 @@
-/naughties|[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk/,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk,p]:1;[https://www.dailymail.co.uk/home/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/ushome/index.html,p]:1;
-/nausea|[https://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/in-depth/pregnancy/art-20047441,h]:1;[https://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/in-depth/pregnancy/art-20047441,s]:1;[https://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/in-depth/pregnancy/art-20047441,p]:1;
+/nautilus|[https://nautil.us,t]::1;[https://nautil.us/about-us,t]::1;[https://nautil.us,h]::1;[https://nautil.us/about-us,h]::3;[https://nautil.us,p]::2;[https://nautil.us/about-us,p]::2;
+/nautilusthink|[https://nautil.us,p]::1;[https://nautil.us/about-us,p]::1;
+/nautilusnext|[https://nautil.us/about-us,p]::1;

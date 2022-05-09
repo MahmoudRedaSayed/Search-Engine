@@ -1,5 +1,1 @@
-/twoyearold|[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/news/index.html,h]:1;[https://www.dailymail.co.uk/news/index.html,p]:1;[https://www.dailymail.co.uk/sport/index.html,s]:1;
-/twopart|[http://mayoclinichealthsystem.org,p]:1;
-/two”|[https://www.sciencenewsforstudents.org/article/scientists-say-equation,p]:1;
-/twotime|[https://order.store.mayoclinic.com/flex/mmv/LIVEY01/?utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=LiveYounger-Book&utm_content=LIVEY1,p]:1;
-/twodimensional|[http://goo.gle/maps-platform-io21-announcements,p]:1;
+/twotoone|[https://www.dailymail.co.uk,p]::1;

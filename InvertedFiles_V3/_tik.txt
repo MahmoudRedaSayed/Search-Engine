@@ -1,1 +1,2 @@
-/tika|[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;
+/tikka|[https://www.dailymail.co.uk,h]::1;
+/tiktok|[https://www.dailymail.co.uk,p]::1;

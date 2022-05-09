@@ -1,2 +1,1 @@
-/obtén|[https://www.nemours.org?external_id=RE2350835010600,p]:1;[https://www.nemours.org?external_id=RE2350835010600,p]:1;[https://www.nemours.org/?utm_source=khcnem&utm_medium=nemours&utm_campaign=logo&utm_term=footer,p]:1;
-/obtener|[https://www.loc.gov/rr/video-tutorials.html,p]:1;
+/obtén|[https://www.nemours.org?external_id=RE2350835010600,p]::1;

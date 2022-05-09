@@ -446,7 +446,7 @@ public class DataBase {
     //----------------------------------------------------------------------------------------------------------------------//
 
     // get the title of a website
-    public String getTitle(String url)
+    public synchronized String getTitle(String url)
     {
         try {
             System.out.println(Thread.currentThread().getName()+   ":   Title: "  + url);
@@ -465,7 +465,7 @@ public class DataBase {
     }
 
     // get the Paragraphs of a website
-    public String getParagraphs(String url)
+    public synchronized String getParagraphs(String url)
     {
         try {
             System.out.println(Thread.currentThread().getName()+   ":   Paragraph: " + url);
@@ -482,7 +482,7 @@ public class DataBase {
         return null;
     }
     // get the Headers of a website
-    public String getHeaders(String url)
+    public synchronized String getHeaders(String url)
     {
         try {
             System.out.println(Thread.currentThread().getName()+   ":   Headers: " + url);
@@ -499,7 +499,7 @@ public class DataBase {
         return null;
     }
     // get the ListItems of a website
-    public String getListItems(String url)
+    public synchronized String getListItems(String url)
     {
         try {
             ResultSet resultSet=this.stmt.executeQuery("Select ListItems From links where Link = '" + url+ "'");
@@ -515,7 +515,7 @@ public class DataBase {
         return null;
     }
     // get the Strongs of a website
-    public String getStrongs(String url)
+    public synchronized String getStrongs(String url)
     {
         try {
             ResultSet resultSet=this.stmt.executeQuery("Select Strong From links where Link = '" + url+ "'");
@@ -531,9 +531,9 @@ public class DataBase {
         return null;
     }
     // Add Words Count of a website
-    public void addWordsCount(String link, long count)
+    public synchronized void addWordsCount(String link, long count)
     {
-        String query = "INSERT INTO lengths VALUES('" + link + "'," + count + ");";
+        String query = "UPDATE links SET WordsCount = " + count + " WHERE Link = '" + link + "';";
 
         try {
             this.stmt.executeUpdate(query);

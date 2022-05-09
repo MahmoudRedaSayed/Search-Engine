@@ -1,4 +1,0 @@
-/avión|[https://www.marca.com,h]:1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]:1;
-/aviator|[https://historyhub.history.gov/community/help-and-support/blog/2021/12/30/top-history-hub-questions-of-2021,p]:1;
-/avis|[https://fmm.io/MarchesPublics,h]:1;[https://fmm.io/MarchesPublics,h]:1;[https://fmm.io/MarchesPublics,h]:1;[https://fmm.io/MarchesPublics,p]:1;[https://fmm.io/MarchesPublics,p]:1;[https://fmm.io/MarchesPublics,p]:1;[https://fmm.io/MarchesPublics,p]:1;[https://fmm.io/MarchesPublics,p]:1;
-/aviation|[https://order.store.mayoclinic.com/books/GNWEB44?utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=HomeRemedies-Book&utm_content=HOM,p]:1;

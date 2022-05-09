@@ -1,7 +1,0 @@
-/hydrow|[https://www.healthline.com/fitness,p]:1;[https://www.healthline.com/fitness,p]:1;
-/hydraulic|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
-/hydrological|[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;[https://www.frontiersin.org/articles/10.3389/ffgc.2020.594274/full,p]:1;
-/hydrogen|[https://www.sciencenewsforstudents.org/author/katie-grace-carpenter,p]:1;[https://www.sciencenewsforstudents.org/author/katie-grace-carpenter,p]:1;[https://www.sciencenewsforstudents.org/article/murder-hornet-asian-giant-trap-sex-pheromone,p]:1;[https://www.sciencenewsforstudents.org/article/murder-hornet-asian-giant-trap-sex-pheromone,p]:1;
-/hydrogel|[https://www.sciencenewsforstudents.org/author/katie-grace-carpenter,p]:1;
-/hydroponic|[https://www.healthline.com/program/the-sustainable-table,p]:1;[https://www.healthline.com/program/the-sustainable-table#start-here,p]:1;
-/hydrophones|[https://www.iflscience.com/plants-and-animals/new-humpback-whale-call-recorded-by-scientists-for-first-time/,p]:1;

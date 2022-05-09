@@ -1,2 +1,0 @@
-/noche|[https://www.marca.com,h]:1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]:1;
-/nocharge|[https://developers.google.com/maps/get-started,p]:1;

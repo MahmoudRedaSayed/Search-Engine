@@ -1,2 +1,0 @@
-/bugzilla|[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://www.javatpoint.com,p]:1;[https://developers.googleblog.com/2019/07/developer-preview-of-local-home-sdk.html,p]:1;[https://developers.google.com/maps,p]:1;[http://goo.gle/maps-platform-io21-announcements,p]:1;
-/bugs|[https://www.bbc.com/,h]:1;[https://www.bbc.com,h]:1;[https://www.bbc.com,h]:1;
