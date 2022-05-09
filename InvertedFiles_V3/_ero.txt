@@ -1,0 +1,4 @@
+/erotica|[https://www.healthline.com/program/sexual-health-for-every-body,p]::1;[http://healthline.com/program/sexual-health-for-every-body#covid-19,p]::1;[http://healthline.com/program/sexual-health-for-every-body#identity,p]::1;[http://healthline.com/program/sexual-health-for-every-body#help,p]::1;[http://healthline.com/program/sexual-health-for-every-body#morning-after,p]::1;
+/erogenous|[https://www.healthline.com/program/sexual-health-for-every-body,p]::1;[http://healthline.com/program/sexual-health-for-every-body#covid-19,p]::1;[http://healthline.com/program/sexual-health-for-every-body#identity,p]::1;[http://healthline.com/program/sexual-health-for-every-body#help,p]::1;[http://healthline.com/program/sexual-health-for-every-body#morning-after,p]::1;
+/eros|[https://www.acco.org,p]::4;
+/eroding|[https://wayback.archive-it.org/all/20180819022850/https:/papers.ssrn.com/sol3/papers.cfm?abstract_id=597543,p]::1;

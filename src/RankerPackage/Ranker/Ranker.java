@@ -15,6 +15,7 @@ import org.jsoup.select.Elements;
 import java.io.IOException;
 import java.sql.*;
 import java.sql.ResultSet;
+
 public class Ranker
 {
     private DataBase connect = new DataBase();
@@ -47,7 +48,7 @@ public class Ranker
         double InitialPageRank = 1.0 / totalNodes;
 
         // initialize the rank of each page //
-        for (int k = 1; k <= totalNodes; k++)
+        for (int k = 1; k < totalNodes; k++)
             pagesRank1.put(completedLinks[k], InitialPageRank);
 
         //ITERATION_STEP is used to iterate twice following PageRank Algorithm steps
@@ -55,7 +56,7 @@ public class Ranker
         while (ITERATION_STEP <= 2) {
 
             // Store the PageRank for All Nodes in Temporary Map
-            for (int k = 71; k <= totalNodes; k++) {
+            for (int k = 71; k < totalNodes; k++) {
                 TempPageRank.put(completedLinks[k], pagesRank1.get(completedLinks[k]));
                 pagesRank1.put(completedLinks[k], 0.0);
             }
@@ -83,7 +84,7 @@ public class Ranker
         // Add the Damping Factor to PageRank
         double DampingFactor = 0.75;
         double temp = 0;
-        for (int k = 0; k < totalNodes; k++) {
+        for (int k = 1; k < totalNodes; k++) {
             temp = (1 - DampingFactor) + DampingFactor * pagesRank1.get(completedLinks[k]);
             pagesRank1.put(completedLinks[k], temp);
         }
@@ -146,8 +147,8 @@ public class Ranker
                     coeff = 1.0 / 8.0;
 
                 //to get number of occurrences of each word
-                int countSeperator = linksWithWordPosition[j].indexOf("]:");
-                String wordCount = linksWithWordPosition[j].substring(countSeperator + 2);
+                int countSeperator = linksWithWordPosition[j].indexOf("]::");
+                String wordCount = linksWithWordPosition[j].substring(countSeperator + 3);
                 numOfOccerrencesInCurrentDocument=  coeff * Integer.parseInt(wordCount);
                 numOfOccerrencesInAllDocuments+=coeff * Integer.parseInt(wordCount);
 

@@ -1,0 +1,2 @@
+/edta|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::6;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::3;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,h]::7;[https://www.ajmc.com/meetings,p]::2;
+/edta･sodium|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;

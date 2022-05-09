@@ -1,0 +1,4 @@
+/dup|[https://www.dailymail.co.uk,h]::1;
+/duplicates|[https://www.everydayhealth.com/cancer/guide,p]::1;[https://www.everydayhealth.com/symptom-checker,p]::1;[https://www.tutorialspoint.com/computer_glossary.htm,p]::1;[https://www.everydayhealth.com/cancer/living-with/how-keep-friendships-strong-while-being-treated-cancer,p]::1;[https://twitter.com/privacy,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::1;
+/duplicated|[https://web.archive.org/web/20180810220427/https:/www.bbc.co.uk/news/technology-12668552,p]::1;
+/duplications|[https://www.cancer.gov/about-cancer/understanding/what-is-cancer,p]::1;

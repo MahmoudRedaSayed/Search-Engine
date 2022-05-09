@@ -1,0 +1,8 @@
+/muchos|[https://www.marca.com,h]::1;
+/muchneeded|[https://www.everydayhealth.com/cancer/guide,p]::1;[https://www.hearstmagazines.co.uk/covid-19,p]::1;[https://www.everydayhealth.com/cancer/living-with/how-keep-friendships-strong-while-being-treated-cancer,p]::1;
+/mucus|[https://www.everydayhealth.com/ulcerative-colitis/guide,p]::1;[https://www.everydayhealth.com/symptom-checker,p]::2;[https://www.cancer.gov/about-cancer/understanding/what-is-cancer,p]::1;[https://www.everydayhealth.com/colon-cancer,p]::1;
+/mucuna|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
+/much?|[https://www.everydayhealth.com/lifestyle/healthy-living,h]::3;
+/much |[https://www.everydayhealth.com/cancer/guide/cancer-risk-factors-prevention,s]::1;
+/mucous|[https://www.everydayhealth.com/news/chemotherapy,p]::1;
+/mucositis|[https://www.cancer.gov/about-cancer/treatment/side-effects/appetite-loss/nutrition-pdq#targetText=Good%2520nutrition%2520is%2520important%2520for,healthy%252C%2520and%2520to%2520replace%2520tissue.&targetText=Eating%2520the%2520right%2520kinds%2520of,feel%2520better%2520and%2520stay%2520stronger.,p]::2;

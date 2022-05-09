@@ -1,0 +1,2 @@
+/lodge|[https://www.cancer.org,p]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,s]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::2;
+/lodging|[https://www.cancer.org,p]::2;[https://www.cancerfac.org,p]::1;

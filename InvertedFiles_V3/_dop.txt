@@ -1,0 +1,2 @@
+/doppler|[https://www.sciencenewsforstudents.org,h]::1;
+/dopamine|[https://www.iflscience.com/,p]::1;

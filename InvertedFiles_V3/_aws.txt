@@ -1,0 +1,2 @@
+/aws|[https://www.tutorialspoint.com/prime-pack/complete-python-prime-pack/index.asp,p]::1;
+/awsapollo|[https://wayback.archive-it.org/all/20180819022850/https:/papers.ssrn.com/sol3/papers.cfm?abstract_id=597543,p]::1;

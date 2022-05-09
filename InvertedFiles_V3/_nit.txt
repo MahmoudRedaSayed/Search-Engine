@@ -1,0 +1,3 @@
+/nitrate|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::1;
+/nitrocellulose|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
+/nits|[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::1;

@@ -1,0 +1,1 @@
+/gdpr|[https://developers.google.com/assistant/console/policies/general-policies,p]::3;[https://en.wikipedia.org/wiki/HTTP_cookie,p]::9;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,s]::4;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::5;

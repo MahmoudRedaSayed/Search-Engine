@@ -1,0 +1,2 @@
+/wax|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::3;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::6;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::3;[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;
+/waxed|[https://www.everydayhealth.com/cancer/cancer-news-digest-the-latest-developments-in-cancer-research-and-treatment-for-september,p]::1;

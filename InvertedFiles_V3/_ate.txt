@@ -1,0 +1,2 @@
+/ate|[https://www.everydayhealth.com/diet-nutrition/diet/low-carb-diet-beginners-guide-food-list-meal-plan-tips,p]::1;[https://www.everydayhealth.com/mediterranean-diet/guide,p]::1;[https://www.everydayhealth.com/diet-nutrition/the-paleo-diet.aspx,p]::2;[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,p]::1;[https://dx.doi.org/10.1145/502152.502153,p]::1;
+/ated|[https://www.everydayhealth.com/cancer/everyday-healths-hereditary-cancer-risk-twitter-chat-heres-what-you-missed,s]::1;

@@ -1,0 +1,5 @@
+/nazi|[https://www.marca.com,h]::1;[https://www.dailymail.co.uk,p]::1;
+/nazar|[https://www.tutorialspoint.com/categories/data_science_and_ai_ml,p]::1;
+/nazareth|[http://www.archive-it.org,p]::1;
+/nazionale|[http://www.archive-it.org,p]::1;
+/nazis|[https://developers.google.com/assistant/console/policies/general-policies,p]::1;

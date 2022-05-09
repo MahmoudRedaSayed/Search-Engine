@@ -1,0 +1,5 @@
+/edges|[https://www.everydayhealth.com/eczema/guide,p]::1;[https://www.everydayhealth.com/stress/guide,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;[http://www.archive-it.org,p]::1;[https://en.wikipedia.org/wiki/HTTP_cookie,p]::2;[https://web.archive.org/web/20131209210402/http:/news.cnet.com/8301-10789_3-9918582-57.html,p]::1;[https://support.google.com/maps/?hl=ar&authuser=0&p=no_javascript,h]::1;[https://support.google.com/maps/?hl=en&authuser=0&p=no_javascript,h]::1;[https://www.everydayhealth.com/about-us,p]::1;
+/edge”|[https://www.everydayhealth.com/stress/guide,p]::1;
+/edgewood|[http://www.archive-it.org,p]::1;
+/edgar|[https://www.tutorialspoint.com/computer_whoiswho.htm,h]::1;[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::1;
+/edgecases|[http://www.thesecuritypractice.com/the_security_practice/2011/03/http-state-management-mechanism-to-proposed-standard.html,p]::1;

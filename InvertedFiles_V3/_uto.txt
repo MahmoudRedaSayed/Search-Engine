@@ -1,0 +1,8 @@
+/utorialframehtm|[http://msdn.microsoft.com/en-us/library/ms526029(v=vs.90).aspx,s]::1;
+/utorialmenuhtm|[http://msdn.microsoft.com/en-us/library/ms526029(v=vs.90).aspx,s]::1;
+/utorialcustomgreetingasp|[http://msdn.microsoft.com/en-us/library/ms526029(v=vs.90).aspx,s]::1;
+/utorialdeletegreetingcookieasp|[http://msdn.microsoft.com/en-us/library/ms526029(v=vs.90).aspx,s]::1;
+/utorialselectcolorsasp|[http://msdn.microsoft.com/en-us/library/ms526029(v=vs.90).aspx,s]::1;
+/utorialdeletecolorcookieasp|[http://msdn.microsoft.com/en-us/library/ms526029(v=vs.90).aspx,s]::1;
+/utorialcookieasp|[http://msdn.microsoft.com/en-us/library/ms526029(v=vs.90).aspx,s]::1;
+/utorialvisitcountasp|[http://msdn.microsoft.com/en-us/library/ms526029(v=vs.90).aspx,s]::1;

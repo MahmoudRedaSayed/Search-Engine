@@ -1,0 +1,5 @@
+/fenómeno|[https://www.marca.com,h]::1;
+/fended|[https://www.dailymail.co.uk,p]::1;[https://www.everydayhealth.com/healthy-living/consumers-guide-drug-discounts,p]::1;
+/fenske|[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::1;
+/fennel|[https://www.everydayhealth.com/mediterranean-diet/guide,p]::1;
+/fenian|[https://twitter.com/privacy,p]::1;[https://twitter.com/tos,p]::1;[https://legal.twitter.com/imprint.html,p]::1;

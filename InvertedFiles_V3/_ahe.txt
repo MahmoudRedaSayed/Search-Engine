@@ -1,0 +1,1 @@
+/ahead?|[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus,p]::1;

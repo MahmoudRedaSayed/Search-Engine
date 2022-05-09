@@ -1,0 +1,3 @@
+/goicoechea|[https://www.marca.com,h]::1;
+/going?|[https://blog.archive.org,s]::1;[https://blog.archive.org,p]::1;
+/going…|[https://www.healthline.com/fitness,p]::1;

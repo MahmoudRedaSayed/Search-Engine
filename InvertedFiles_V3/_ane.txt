@@ -1,0 +1,5 @@
+/aneurysm|[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::1;
+/anecdotal|[https://www.everydayhealth.com/diet-nutrition/the-paleo-diet.aspx,p]::1;
+/anecdotally|[https://www.everydayhealth.com/diet-nutrition/the-paleo-diet.aspx,p]::1;
+/anemia|[https://www.everydayhealth.com/cancer/fda-approves-pacritinib-for-treatment-of-myelofibrosis,p]::1;[https://www.everydayhealth.com/cancer/cancer-news-digest-the-latest-developments-in-cancer-research-and-treatment-for-february,p]::1;[https://www.everydayhealth.com/cancer/guide/cancer-symptoms,s]::1;[https://www.everydayhealth.com/news/chemotherapy,p]::1;[https://www.everydayhealth.com/most-popular,p]::1;
+/anemic?|[https://www.everydayhealth.com/cancer/guide/cancer-symptoms,s]::1;[https://www.everydayhealth.com/cancer/guide/cancer-symptoms,p]::1;

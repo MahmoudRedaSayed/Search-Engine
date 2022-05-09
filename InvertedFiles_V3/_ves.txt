@@ -1,0 +1,5 @@
+/vestibular|[https://www.healthline.com/nutrition,p]::1;
+/vessels|[https://www.everydayhealth.com/cancer/guide,p]::2;[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;[https://www.everydayhealth.com/type-2-diabetes/guide,p]::2;[https://www.cancer.org/cancer/cancer-basics/questions-people-ask-about-cancer.html,p]::3;[https://www.everydayhealth.com/cancer/guide/cancer-symptoms,p]::2;[https://www.everydayhealth.com/cancer/living-with/how-keep-friendships-strong-while-being-treated-cancer,p]::2;[https://www.cancer.gov/about-cancer/understanding/what-is-cancer,p]::7;
+/vesuvius|[https://www.redescapes.com/?utm_source=hearstmagazines&utm_medium=referral&utm_campaign=hearst-holidays&utm_term=red&utm_content=nav-bar,p]::1;
+/vestibulum|[https://www.acco.org,p]::4;
+/vessels—whats|[https://www.cancer.gov/about-cancer/understanding/what-is-cancer,p]::1;

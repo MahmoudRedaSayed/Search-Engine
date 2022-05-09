@@ -1,0 +1,5 @@
+/unwarranted|[https://www.healthline.com/mental-health,p]::1;
+/unwanted|[https://www.everydayhealth.com/diet-nutrition/atkins-diet.aspx,p]::1;[https://www.healthline.com/health/mental-health/discovering-gender-identity-in-isolation,p]::1;[https://www.inlife.co.uk/why-are-cookies-called-cookies,p]::1;
+/unwind|[https://www.everydayhealth.com/tippi/coronavirus-tips,h]::1;[https://www.cancersupportcommunity.org,p]::1;
+/unwavering|[https://www.gatewaycr.org,p]::1;
+/unwelcome|[https://www.nytimes.com/2001/09/04/technology/04COOK.html,p]::1;

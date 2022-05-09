@@ -1,0 +1,4 @@
+/cystic|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::1;[https://www.everydayhealth.com/most-popular,p]::1;
+/cysts|[https://www.everydayhealth.com/symptom-checker,p]::1;
+/cystoscopies|[https://www.everydayhealth.com/cancer/biden-relaunches-cancer-moonshot-program-with-pledge-to-end-cancer-as-we-know-it,p]::1;
+/cystoscopy|[https://www.everydayhealth.com/cancer/guide/cancer-diagnosis-tests,p]::1;[https://www.everydayhealth.com/cancer/cancer-news-digest-latest-developments-in-cancer-research-and-treatment-for-june,p]::2;

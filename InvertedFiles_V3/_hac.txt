@@ -1,0 +1,8 @@
+/hacked|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;[https://www.everydayhealth.com/depression/guide,h]::1;[https://www.tutorialspoint.com/cyber_security_go_from_zero_to_hero/index.asp,p]::1;[https://www.youtube.com/creators,p]::4;
+/hace|[https://www.marca.com,h]::1;
+/hacer|[https://www.marca.com,h]::1;
+/hacking|[https://www.tutorialspoint.com/cyber_security_go_from_zero_to_hero/index.asp,s]::2;[https://www.tutorialspoint.com/cyber_security_go_from_zero_to_hero/index.asp,p]::4;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;
+/hackers|[https://www.tutorialspoint.com/cyber_security_go_from_zero_to_hero/index.asp,p]::3;[https://www.tutorialspoint.com/computer_glossary.htm,h]::1;[https://www.tutorialspoint.com/computer_glossary.htm,p]::3;[http://dominopower.com/article/where-cookie-comes-from,p]::2;[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;
+/hackers?|[https://www.tutorialspoint.com/cyber_security_go_from_zero_to_hero/index.asp,p]::1;
+/hackensack|[https://www.everydayhealth.com/diet-nutrition/atkins-diet.aspx,p]::1;
+/hacks|[https://www.everydayhealth.com/dehydration/hydration-calculator,h]::1;[https://www.everydayhealth.com/dehydration/hydration-calculator,s]::1;[https://www.everydayhealth.com/dehydration/hydration-calculator,p]::1;

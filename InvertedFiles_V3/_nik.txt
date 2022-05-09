@@ -1,0 +1,3 @@
+/nikita|[https://www.everydayhealth.com/stress/guide,h]::1;
+/nikki|[https://www.everydayhealth.com/wellness/resilience,s]::1;
+/nikoloz|[https://www.tutorialspoint.com/artificial_intelligence_with_python/index.htm,p]::1;

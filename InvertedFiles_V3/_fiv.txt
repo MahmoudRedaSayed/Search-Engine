@@ -1,0 +1,8 @@
+/fivestar|[https://www.dailymail.co.uk,h]::1;
+/fiveminute|[https://www.dailymail.co.uk,p]::1;
+/fiveday|[https://www.everydayhealth.com/diet-nutrition/the-paleo-diet.aspx,s]::1;[https://www.everydayhealth.com/diet-nutrition/the-paleo-diet.aspx,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;
+/fiveingredient|[https://www.everydayhealth.com/diet-nutrition/the-paleo-diet.aspx,p]::1;
+/fiveyear|[https://www.everydayhealth.com/diet-and-nutrition/diet/mind-diet-can-this-diet-plan-help-reverse-alzheimers-disease,p]::1;[https://www.everydayhealth.com/lung-cancer/living-with/your-lungs-get-healthier-every-hour-every-day-after-you-quit-smoking,p]::1;[https://www.everydayhealth.com/cancer/cancer-news-digest-latest-developments-in-cancer-research-and-treatment-for-october,p]::1;[https://www.everydayhealth.com/cervical-cancer/guide,p]::1;[https://www.everydayhealth.com/colon-cancer,p]::1;
+/fivecourse|[https://www.redescapes.com/?utm_source=hearstmagazines&utm_medium=referral&utm_campaign=hearst-holidays&utm_term=red&utm_content=nav-bar,p]::1;
+/fivedrug|[https://www.everydayhealth.com/healthy-living/consumers-guide-drug-discounts,p]::1;
+/fivepage|[https://www.nytimes.com/2001/09/04/technology/04COOK.html,p]::1;

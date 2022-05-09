@@ -1,0 +1,14 @@
+/diminished|[https://www.everydayhealth.com/,p]::1;[https://assistant.google.com,h]::1;
+/diminishing|[https://www.dailymail.co.uk,p]::1;[https://www.everydayhealth.com/diet-and-nutrition/diet/mind-diet-can-this-diet-plan-help-reverse-alzheimers-disease,p]::1;
+/diminishes|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;
+/dimethiconemethicone|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::7;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::6;[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::3;
+/dimethiconepeg|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;
+/dimethiconol|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;
+/dimethiconedivinyldimethicone|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;
+/dimensional|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::1;
+/dimethiconevinyl|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::2;
+/dimethylimidazolidinone|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::2;[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;
+/dimethylmethoxy|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
+/dimensions|[https://blog.archive.org,p]::1;[http://www.archive-it.org,p]::1;[https://www.commonweal.org/program/cchp,p]::1;
+/dimple|[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::1;
+/dimmed|[https://www.healthline.com/health/mental-health/discovering-gender-identity-in-isolation,p]::1;

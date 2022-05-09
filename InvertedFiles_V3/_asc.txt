@@ -1,0 +1,15 @@
+/ascendido|[https://www.marca.com,h]::1;[http://www.archive-it.org,p]::2;
+/asco |[https://www.everydayhealth.com/cancer/guide,s]::1;[https://www.everydayhealth.com/cancer/guide,p]::3;[https://www.everydayhealth.com/cancer/living-with/how-keep-friendships-strong-while-being-treated-cancer,s]::1;[https://www.everydayhealth.com/cancer/living-with/how-keep-friendships-strong-while-being-treated-cancer,p]::3;[https://www.asco.org,t]::1;[https://www.asco.org,h]::3;[https://www.asco.org,p]::23;[https://www.gatewaycr.org,h]::1;[https://www.cancer.net/navigating-cancer-care/managing-your-care/mobile-applications,p]::3;[https://www.everydayhealth.com/cancer/genetic-counseling-for-cancer-risk-just-as-effective-via-telehealth-and-more-cancer-news-from-ascos-annual-meeting,h]::1;[https://www.everydayhealth.com/cancer/genetic-counseling-for-cancer-risk-just-as-effective-via-telehealth-and-more-cancer-news-from-ascos-annual-meeting,s]::1;[https://www.everydayhealth.com/cancer/genetic-counseling-for-cancer-risk-just-as-effective-via-telehealth-and-more-cancer-news-from-ascos-annual-meeting,p]::2;
+/ascoorg|[https://www.everydayhealth.com/cancer/guide,p]::1;[https://www.everydayhealth.com/cancer/living-with/how-keep-friendships-strong-while-being-treated-cancer,p]::1;
+/ascorbate|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
+/ascorbyl|[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::5;
+/ascendify|[http://careers.hearst.co.uk,h]::1;
+/aschnurtrinityedu|[http://www.archive-it.org,p]::1;
+/ascla|[http://www.archive-it.org,p]::1;
+/ascii|[https://www.tutorialspoint.com/computer_glossary.htm,h]::1;[https://www.tutorialspoint.com/computer_glossary.htm,p]::1;[https://en.wikipedia.org/wiki/HTTP_cookie,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::13;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::7;
+/ascertaining|[https://www.everydayhealth.com/lung-cancer/living-with/your-lungs-get-healthier-every-hour-every-day-after-you-quit-smoking,p]::2;
+/ascoconnectionorg|[https://www.asco.org,p]::2;
+/ascos|[https://www.asco.org,p]::4;[https://www.everydayhealth.com/cancer/genetic-counseling-for-cancer-risk-just-as-effective-via-telehealth-and-more-cancer-news-from-ascos-annual-meeting,t]::1;[https://www.everydayhealth.com/cancer/genetic-counseling-for-cancer-risk-just-as-effective-via-telehealth-and-more-cancer-news-from-ascos-annual-meeting,h]::1;
+/asco's|[https://www.asco.org,p]::3;
+/asco®|[https://www.asco.org,p]::1;
+/asco mobile|[https://www.cancer.net/navigating-cancer-care/managing-your-care/mobile-applications,p]::1;

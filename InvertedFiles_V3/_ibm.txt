@@ -1,0 +1,3 @@
+/ibm|[https://www.tutorialspoint.com/cplusplus/index.htm,p]::1;[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::3;
+/ibm's|[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::1;
+/ibmcompatible|[https://www.tutorialspoint.com/computer_glossary.htm,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::1;

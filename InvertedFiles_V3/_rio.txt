@@ -1,0 +1,2 @@
+/rio|[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus,p]::1;[http://www.archive-it.org,p]::1;
+/rios|[https://web.archive.org/web/20131209210402/http:/news.cnet.com/8301-10789_3-9918582-57.html,p]::7;

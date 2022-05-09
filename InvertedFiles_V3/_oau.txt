@@ -1,0 +1,1 @@
+/oauthbased|[https://developers.google.com/assistant/identity,h]::2;[https://developers.google.com/assistant/identity,p]::9;[https://developers.google.com/assistant/console/policies/general-policies,p]::8;

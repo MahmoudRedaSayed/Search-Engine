@@ -1,0 +1,3 @@
+/zustellungsbevollmächtigter|[https://legal.twitter.com/imprint.html,p]::1;
+/zustellungsbevollmächtigung|[https://legal.twitter.com/imprint.html,p]::1;
+/zustellungen|[https://legal.twitter.com/imprint.html,p]::1;

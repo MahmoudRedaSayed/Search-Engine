@@ -1,0 +1,10 @@
+/psoriasis?|[https://www.everydayhealth.com/psoriasis/guide,t]::1;[https://www.everydayhealth.com/psoriasis/guide,h]::43;[https://www.everydayhealth.com/psoriasis/guide,s]::20;[https://www.everydayhealth.com/psoriasis/guide,p]::124;[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::1;[https://www.everydayhealth.com/wellness/resilience,s]::1;[https://www.everydayhealth.com/wellness/resilience,p]::3;[https://www.everydayhealth.com/symptom-checker,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus,h]::1;[https://www.everydayhealth.com/newsletter-subscriptions/signup,h]::1;[https://www.everydayhealth.com/newsletter-subscriptions/signup,p]::1;[https://www.everydayhealth.com/most-popular,p]::2;
+/psoriatic|[https://www.everydayhealth.com/psoriasis/guide,h]::1;[https://www.everydayhealth.com/psoriasis/guide,s]::1;[https://www.everydayhealth.com/psoriasis/guide,p]::4;[https://www.everydayhealth.com/rheumatoid-arthritis/guide,h]::1;[https://www.everydayhealth.com/tippi,h]::1;
+/psoriasis vulgaris plaque|[https://www.everydayhealth.com/psoriasis/guide,p]::1;
+/psoriasis is|[https://www.everydayhealth.com/psoriasis/guide,p]::1;
+/psoriasis causes|[https://www.everydayhealth.com/psoriasis/guide,p]::1;
+/psoriasis occurs|[https://www.everydayhealth.com/psoriasis/guide,p]::1;
+/psoriasisrelated|[https://www.everydayhealth.com/psoriasis/guide,p]::2;
+/psoriasisbased|[https://www.everydayhealth.com/psoriasis/guide,p]::1;
+/psoriasisinsomnia|[https://www.everydayhealth.com/sleep-disorders/sleep/sleep-101-ultimate-guide-on-how-get-better-nights-sleep,h]::1;
+/psoriasis eczema|[https://www.everydayhealth.com/diet-nutrition/the-paleo-diet.aspx,p]::1;

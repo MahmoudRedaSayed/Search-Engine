@@ -1,0 +1,4 @@
+/sooner|[https://www.everydayhealth.com/cancer/guide,p]::1;[https://www.everydayhealth.com/cancer/guide/cancer-symptoms,p]::1;[https://www.everydayhealth.com/cancer/living-with/how-keep-friendships-strong-while-being-treated-cancer,p]::1;[https://www.everydayhealth.com/cancer/fda-rejects-promising-new-drug-that-aims-to-prevent-low-white-blood-cell-counts-in-patients-receiving-chemotherapy,p]::1;
+/soothe|[https://www.everydayhealth.com/eczema/guide,h]::1;[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;[https://www.everydayhealth.com/stress/guide,h]::1;
+/soothing|[https://www.everydayhealth.com/wellness,h]::1;[https://www.everydayhealth.com/stress/guide,p]::2;[https://www.everydayhealth.com/alternative-health/all-articles,h]::1;[https://www.everydayhealth.com/wellness/healthy-skin,h]::1;[https://www.blogforacure.com,p]::1;
+/sood|[https://www.everydayhealth.com/wellness/resilience,p]::4;

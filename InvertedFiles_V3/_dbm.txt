@@ -1,0 +1,1 @@
+/dbms?|[https://www.tutorialspoint.com/dbms/index.htm,h]::2;[https://www.tutorialspoint.com/dbms/index.htm,p]::18;[https://www.tutorialspoint.com/computer_glossary.htm,p]::1;

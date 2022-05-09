@@ -1,0 +1,4 @@
+/kamat|[https://www.tutorialspoint.com/categories/lifestyle,p]::1;
+/kamila|[https://www.everydayhealth.com/heart-health/fda-approves-camzyos-for-the-treatment-of-obstructive-hypertrophic-cardiomyopathy,p]::1;
+/kamala|[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;[http://www.archive-it.org,p]::1;
+/kamloops|[http://www.archive-it.org,p]::1;

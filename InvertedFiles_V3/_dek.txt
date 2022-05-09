@@ -1,0 +1,2 @@
+/dekika|[https://english.ahram.org.eg/,p]::1;
+/dekalb|[http://www.archive-it.org,p]::1;

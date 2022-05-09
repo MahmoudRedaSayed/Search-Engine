@@ -1,0 +1,2 @@
+/obispo|[http://www.archive-it.org,p]::2;
+/obituary|[http://www.archive-it.org,p]::1;

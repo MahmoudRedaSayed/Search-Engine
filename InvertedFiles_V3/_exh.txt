@@ -1,0 +1,12 @@
+/exhibition|[https://english.ahram.org.eg/,p]::1;[https://www.everydayhealth.com/wellness/resilience,p]::1;[https://archive.org/about/bios.php,p]::2;[http://www.archive-it.org,p]::5;[https://developers.google.com/assistant/console/policies/general-policies,p]::1;
+/exhausting|[https://www.everydayhealth.com/crohns-disease/guide,p]::1;
+/exhausted|[https://www.everydayhealth.com/psoriasis/guide,p]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;
+/exhaustive|[https://www.everydayhealth.com/psoriasis/guide,p]::1;
+/exhibitors|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;
+/exhorted|[https://blog.archive.org,p]::1;
+/exhaustion|[https://www.everydayhealth.com/symptom-checker,p]::1;[https://www.everydayhealth.com/heart-health/fda-approves-camzyos-for-the-treatment-of-obstructive-hypertrophic-cardiomyopathy,p]::1;[http://www.hearst.co.uk/hearst-magazines-uk-complaints-procedure,s]::1;
+/exhales|[https://www.everydayhealth.com/infectious-diseases/coronavirus,p]::1;[https://www.everydayhealth.com/breast-cancer/living-with/on-chemo-brain-dropped-words,h]::1;
+/exhibiting|[http://www.archive-it.org,p]::2;
+/exhibits|[http://www.archive-it.org,p]::4;
+/exhibitions|[http://www.archive-it.org,p]::6;
+/exhaled|[https://www.everydayhealth.com/lung-cancer/living-with/your-lungs-get-healthier-every-hour-every-day-after-you-quit-smoking,p]::1;

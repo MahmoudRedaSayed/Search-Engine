@@ -1,0 +1,3 @@
+/ginseng|[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
+/ginger|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;[https://www.everydayhealth.com/symptom-checker,p]::1;[https://www.everydayhealth.com/most-popular,p]::1;
+/ginsburg|[https://www.everydayhealth.com/wellness/resilience,p]::1;

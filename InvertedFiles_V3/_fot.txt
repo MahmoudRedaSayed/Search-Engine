@@ -1,0 +1,2 @@
+/fotos|[https://www.marca.com,h]::2;
+/fotogramas|[http://www.hearst.es,h]::1;

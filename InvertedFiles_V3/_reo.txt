@@ -1,0 +1,3 @@
+/reorienting|[https://blog.archive.org,p]::1;
+/reorganization|[https://twitter.com/privacy,p]::1;
+/reopening|[http://www.thesecuritypractice.com/the_security_practice/2011/03/http-state-management-mechanism-to-proposed-standard.html,p]::1;

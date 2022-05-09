@@ -1,0 +1,3 @@
+/swollen|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::3;[https://www.everydayhealth.com/symptom-checker,p]::2;[https://www.everydayhealth.com/cancer/guide/cancer-symptoms,s]::1;[https://www.everydayhealth.com/most-popular,p]::1;
+/swog|[https://www.everydayhealth.com/cancer/cancer-news-digest-the-latest-developments-in-cancer-research-and-treatment-for-february,p]::1;
+/sworduc|[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;

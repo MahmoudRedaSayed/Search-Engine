@@ -1,0 +1,10 @@
+/energy|[https://www.sciencenewsforstudents.org,h]::4;[https://www.dailymail.co.uk,h]::2;[https://www.dailymail.co.uk,p]::3;[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::2;[https://www.everydayhealth.com/stress/guide,h]::1;[https://www.everydayhealth.com/stress/guide,p]::1;[https://www.everydayhealth.com/emotional-health/index.aspx,h]::1;[https://www.everydayhealth.com/emotional-health/index.aspx,p]::1;[https://www.everydayhealth.com/diet-nutrition/ketogenic-diet,p]::4;[https://www.everydayhealth.com/diet-nutrition/burning-questions-about-intermittent-fasting-answered,p]::7;[https://www.everydayhealth.com/diet-nutrition/diet/low-carb-diet-beginners-guide-food-list-meal-plan-tips,p]::1;[https://www.everydayhealth.com/diet-nutrition/atkins-diet.aspx,p]::3;[https://www.everydayhealth.com/symptom-checker,p]::1;[https://www.everydayhealth.com/courses,h]::1;[https://www.everydayhealth.com/coronavirus/all-articles,h]::1;[https://www.everydayhealth.com/cancer/guide/cancer-symptoms,p]::2;[https://www.cancer.gov/about-cancer/treatment/side-effects/appetite-loss/nutrition-pdq#targetText=Good%2520nutrition%2520is%2520important%2520for,healthy%252C%2520and%2520to%2520replace%2520tissue.&targetText=Eating%2520the%2520right%2520kinds%2520of,feel%2520better%2520and%2520stay%2520stronger.,p]::3;[https://www.everydayhealthgroup.com,p]::1;
+/energetic|[https://www.hearstmagazines.co.uk,p]::1;[https://www.hearstmagazines.co.uk/home,p]::1;
+/enemy|[https://www.everydayhealth.com/crohns-disease/guide,p]::1;[https://www.bbc.co.uk/news/technology-12668552,p]::1;
+/energetics|[https://www.everydayhealth.com/lifestyle/healthy-living,h]::1;[http://www.archive-it.org,p]::1;
+/energy”|[https://www.everydayhealth.com/diet-nutrition/atkins-diet.aspx,p]::1;
+/energy popeck|[https://www.everydayhealth.com/diet-nutrition/atkins-diet.aspx,p]::1;
+/energising|[https://www.hearstmagazines.co.uk/about-us,p]::1;[https://www.hearst.co.uk,p]::1;
+/energia|[https://www.hearst.it,h]::1;
+/energie|[https://www.hearst.it,p]::1;
+/enews|[https://www.cancercare.org,h]::1;[https://www.cancerfac.org,h]::1;

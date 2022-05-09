@@ -1,0 +1,2 @@
+/orthostatic|[https://www.medicalnewstoday.com,p]::1;
+/orta|[https://www.goodhousekeepingholidays.com/?utm_source=hearstmagazines&utm_medium=referral&utm_campaign=hearst-holidays&utm_term=ghk&utm_content=nav-bar,p]::1;

@@ -1,0 +1,4 @@
+/vagus|[https://www.everydayhealth.com/depression/guide,s]::1;
+/vague|[https://www.everydayhealth.com/depression/guide,p]::1;
+/vaginal|[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::6;[https://www.healthline.com/program/sexual-health-for-every-body,p]::2;[http://healthline.com/program/sexual-health-for-every-body#covid-19,p]::2;[https://www.everydayhealth.com/symptom-checker,s]::1;[https://www.everydayhealth.com/symptom-checker,p]::3;[http://healthline.com/program/sexual-health-for-every-body#identity,p]::2;[https://www.navigatingcare.com/cancer_blogs,h]::1;[http://healthline.com/program/sexual-health-for-every-body#help,p]::2;[https://www.everydayhealth.com/cervical-cancer/guide,p]::5;[http://healthline.com/program/sexual-health-for-every-body#morning-after,p]::2;[https://www.everydayhealth.com/most-popular,p]::1;
+/vaginally|[https://www.blogforacure.com,p]::1;

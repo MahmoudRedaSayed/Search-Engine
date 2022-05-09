@@ -1,0 +1,2 @@
+/uganda|[https://archive.org/projects,p]::1;
+/ugas|[http://www.archive-it.org,p]::1;

@@ -1,0 +1,11 @@
+/whales|[https://www.sciencenewsforstudents.org,p]::2;
+/whatevers|[https://www.everydayhealth.com/sleep-disorders/sleep/sleep-101-ultimate-guide-on-how-get-better-nights-sleep,p]::1;
+/whack|[https://www.everydayhealth.com/sleep-disorders/sleep/sleep-101-ultimate-guide-on-how-get-better-nights-sleep,p]::1;
+/what you|[https://www.everydayhealth.com/diet-nutrition/burning-questions-about-intermittent-fasting-answered,p]::1;
+/what?|[https://www.healthline.com/health/healthy-sex/sexual-guilt-purity-culture,p]::1;
+/whatsapp|[https://web.archive.org/web/20180810220427/https:/www.bbc.co.uk/news/technology-12668552,p]::1;
+/whatsnew|[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::1;
+/what?”|[https://www.everydayhealth.com/cancer/celebrities-with-cancer-why-do-some-decide-to-go-public-and-others-dont,p]::1;
+/whateverhtmlbrowse|[http://edbrowse.org/usersguide.html#cook,p]::1;
+/whatsoever|[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::3;
+/whateverlocaldomain|[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;

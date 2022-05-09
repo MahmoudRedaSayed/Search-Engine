@@ -1,0 +1,2 @@
+/uterus|[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::1;[https://www.cancer.org/cancer/cancer-causes/genetics/family-cancer-syndromes.html,p]::1;[https://www.everydayhealth.com/cervical-cancer/guide,p]::2;
+/uterine|[https://www.everydayhealth.com/cancer/guide/cancer-symptoms,h]::1;[https://www.navigatingcare.com/cancer_blogs,h]::1;

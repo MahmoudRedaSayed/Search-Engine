@@ -1,0 +1,2 @@
+/dahl|[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::1;
+/dahlke|[http://edbrowse.org/usersguide.html#cook,p]::2;

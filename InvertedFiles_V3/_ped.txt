@@ -1,0 +1,6 @@
+/pediatric|[https://www.everydayhealth.com/flu/guide,p]::1;[https://www.everydayhealth.com/ulcerative-colitis/guide,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;[https://www.acco.org,p]::7;
+/pediatrics|[https://www.everydayhealth.com/flu/guide,p]::1;[https://www.everydayhealth.com/wellness/resilience,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;[https://www.skincancer.org/skin-cancer-information/skin-cancer-facts,h]::1;
+/pedagogy|[https://blog.archive.org,p]::1;
+/pediatrician|[https://www.everydayhealth.com/wellness/resilience,p]::1;
+/pedestal|[https://www.everydayhealth.com/emotional-health/lili-reinhart-called-out-other-celebs-for-starving-themselves-why-body-image-experts-are-applauding-her,h]::1;[https://www.everydayhealth.com/emotional-health/lili-reinhart-called-out-other-celebs-for-starving-themselves-why-body-image-experts-are-applauding-her,s]::1;
+/pedophilia|[https://developers.google.com/assistant/console/policies/general-policies,p]::1;

@@ -1,0 +1,11 @@
+/tone|[https://www.everydayhealth.com/eczema/guide,p]::1;[https://www.healthline.com/fitness,p]::1;[https://www.healthline.com/program/sexual-health-for-every-body,p]::1;[http://healthline.com/program/sexual-health-for-every-body#covid-19,p]::1;[http://healthline.com/program/sexual-health-for-every-body#identity,p]::1;[http://healthline.com/program/sexual-health-for-every-body#help,p]::1;[http://healthline.com/program/sexual-health-for-every-body#morning-after,p]::1;
+/tones|[https://www.everydayhealth.com/psoriasis/guide,p]::2;
+/tonight|[https://greatist.com,p]::1;[https://www.everydayhealth.com/sleep-disorders/sleep/sleep-101-ultimate-guide-on-how-get-better-nights-sleep,h]::1;
+/tonic|[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,h]::1;[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,s]::1;
+/toning|[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
+/tongueincheek|[https://www.everydayhealth.com/diet-nutrition/atkins-diet.aspx,p]::1;[https://www.everydayhealth.com/symptom-checker,p]::1;
+/toner|[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;[https://www.tutorialspoint.com/computer_glossary.htm,p]::1;
+/tons|[https://www.tutorialspoint.com/javascript/index.htm,p]::2;
+/tonsil|[https://www.blogforacure.com,p]::1;[https://www.everydayhealth.com/most-popular,p]::1;
+/tony|[https://www.everydayhealthgroup.com,s]::1;[https://www.everydayhealthgroup.com,p]::1;
+/tonsils|[https://www.everydayhealth.com/most-popular,p]::1;

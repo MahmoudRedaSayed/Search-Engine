@@ -1,0 +1,2 @@
+/tifton|[https://www.loc.gov,h]::1;
+/tiffiney|[https://www.everydayhealth.com/cancer/everyday-healths-hereditary-cancer-risk-twitter-chat-heres-what-you-missed,s]::4;[https://www.everydayhealth.com/cancer/everyday-healths-hereditary-cancer-risk-twitter-chat-heres-what-you-missed,p]::3;

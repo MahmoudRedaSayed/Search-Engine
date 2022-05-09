@@ -533,7 +533,7 @@ public class DataBase {
     // Add Words Count of a website
     public synchronized void addWordsCount(String link, long count)
     {
-        String query = "UPDATE links SET WordsCount = " + count + " WHERE Link = '" + link + "';";
+        String query = "UPDATE links SET WordCounts = " + count + " WHERE Link = '" + link + "';";
 
         try {
             this.stmt.executeUpdate(query);
@@ -553,7 +553,7 @@ public class DataBase {
 
             while (resultSet.next())
             {
-                resultMap.put(resultSet.getString("Link"), resultSet.getLong("wordsCount"));
+                resultMap.put(resultSet.getString("Link"), resultSet.getLong("wordCounts"));
             }
             return resultMap;
 

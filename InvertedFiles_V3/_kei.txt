@@ -1,0 +1,2 @@
+/keir|[https://www.dailymail.co.uk,h]::2;
+/keith|[https://www.dailymail.co.uk,p]::1;

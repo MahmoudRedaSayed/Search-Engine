@@ -1,0 +1,2 @@
+/elusive|[https://www.bbc.com/,h]::1;
+/elude|[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::3;

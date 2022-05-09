@@ -1,0 +1,7 @@
+/shuts|[https://www.everydayhealth.com/depression/guide,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,h]::2;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,s]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;[https://www.tutorialspoint.com/computer_glossary.htm,p]::1;
+/shukla|[https://www.medicalnewstoday.com,p]::2;
+/shuteye|[https://www.everydayhealth.com/sleep-disorders/sleep/sleep-101-ultimate-guide-on-how-get-better-nights-sleep,p]::1;
+/shuttered|[https://www.healthline.com/fitness,p]::1;
+/shuttle|[https://archive.org/about/bios.php,p]::1;
+/shuswap|[http://www.archive-it.org,p]::3;
+/shutdown|[http://www.archive-it.org,p]::1;

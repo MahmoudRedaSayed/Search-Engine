@@ -1,0 +1,2 @@
+/ankles|[https://www.everydayhealth.com/eczema/guide,p]::1;
+/ankylosing|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;[https://www.everydayhealth.com/stress/guide,h]::1;[https://www.everydayhealth.com/emotional-health/index.aspx,h]::1;[https://www.everydayhealth.com/most-popular,p]::1;

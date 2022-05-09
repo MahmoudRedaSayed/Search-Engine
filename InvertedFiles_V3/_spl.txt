@@ -1,0 +1,7 @@
+/splits?|[https://www.bbc.com/,h]::1;[https://archive.org/about/contact.php,p]::2;[https://www.tutorialspoint.com/dbms/index.htm,p]::1;[https://www.healthline.com/health/healthy-sex/black-women-sexuality,h]::1;[https://www.healthline.com/health/healthy-sex/black-women-sexuality,p]::2;[http://edbrowse.org/usersguide.html#cook,p]::5;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::5;
+/splattered|[https://www.france24.com,p]::1;
+/splitscreen|[https://www.everydayhealth.com/psoriasis/guide,p]::1;
+/splashing|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;
+/splashed|[https://www.everydayhealth.com/emotional-health/lili-reinhart-called-out-other-celebs-for-starving-themselves-why-body-image-experts-are-applauding-her,p]::1;
+/spleen|[https://www.everydayhealth.com/cancer/fda-approves-pacritinib-for-treatment-of-myelofibrosis,p]::3;
+/splenomegaly|[https://www.everydayhealth.com/cancer/fda-approves-pacritinib-for-treatment-of-myelofibrosis,p]::1;

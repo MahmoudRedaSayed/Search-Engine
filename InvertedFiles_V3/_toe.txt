@@ -1,0 +1,2 @@
+/toes|[https://www.everydayhealth.com/eczema/guide,p]::1;[https://www.everydayhealth.com/psoriasis/guide,p]::1;[https://www.everydayhealth.com/coronavirus,h]::1;
+/toenail|[https://www.everydayhealth.com/most-popular,p]::1;

@@ -1,0 +1,2 @@
+/yahoo|[https://blog.archive.org,p]::1;[https://archive.org/projects,p]::1;[https://www.tutorialspoint.com/computer_glossary.htm,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::1;
+/yahoos|[https://blog.archive.org,p]::1;

@@ -1,0 +1,4 @@
+/spur|[https://www.everydayhealth.com/cancer/guide,p]::1;[https://web.archive.org/web/20180810220427/https:/www.bbc.co.uk/news/technology-12668552,p]::1;[https://www.bbc.co.uk/news/technology-12668552,p]::1;[https://www.everydayhealth.com/cancer/living-with/how-keep-friendships-strong-while-being-treated-cancer,p]::1;
+/spurs|[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,h]::1;
+/spunky|[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::1;
+/spurious|[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;

@@ -1,0 +1,7 @@
+/karnalkar|[https://www.tutorialspoint.com/categories/it_and_software,p]::1;
+/karl|[https://archive.org/about/bios.php,p]::2;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::2;[http://edbrowse.org/usersguide.html#cook,p]::2;
+/kardashian|[https://www.everydayhealth.com/emotional-health/lili-reinhart-called-out-other-celebs-for-starving-themselves-why-body-image-experts-are-applauding-her,p]::6;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::2;
+/kardashians|[https://www.everydayhealth.com/emotional-health/lili-reinhart-called-out-other-celebs-for-starving-themselves-why-body-image-experts-are-applauding-her,p]::3;
+/karthikeya|[https://www.tutorialspoint.com/hibernate/index.htm,p]::1;[https://www.tutorialspoint.com/servlets/index.htm,p]::1;[https://www.tutorialspoint.com/spring/index.htm,p]::1;
+/karnataka|[https://www.tutorix.com,p]::1;
+/kartik|[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,h]::2;[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::2;

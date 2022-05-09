@@ -1,0 +1,7 @@
+/apoyan|[https://www.marca.com,h]::1;
+/apologies'|[https://www.dailymail.co.uk,h]::1;
+/apologise|[https://www.hearstmagazines.co.uk/covid-19,p]::1;
+/apologize|[http://www.archive-it.org,p]::1;
+/apostrophes|[https://developers.google.com/assistant/console/policies/general-policies,p]::1;
+/apology|[https://www.ipso.co.uk/editors-code-of-practice,p]::1;
+/apolitical|[https://wayback.archive-it.org/all/20180819022850/https:/papers.ssrn.com/sol3/papers.cfm?abstract_id=597543,p]::1;

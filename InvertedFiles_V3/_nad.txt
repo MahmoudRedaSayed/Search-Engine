@@ -1,0 +1,2 @@
+/nadal|[https://www.marca.com,h]::1;
+/nadine|[https://www.medicalnewstoday.com,p]::1;

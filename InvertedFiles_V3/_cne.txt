@@ -1,0 +1,2 @@
+/cnet|[https://web.archive.org/web/20131209210402/http:/news.cnet.com/8301-10789_3-9918582-57.html,t]::1;[https://web.archive.org/web/20131209210402/http:/news.cnet.com/8301-10789_3-9918582-57.html,h]::2;[https://web.archive.org/web/20131209210402/http:/news.cnet.com/8301-10789_3-9918582-57.html,p]::1;
+/cnet's|[https://web.archive.org/web/20131209210402/http:/news.cnet.com/8301-10789_3-9918582-57.html,p]::1;

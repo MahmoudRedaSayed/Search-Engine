@@ -1,0 +1,7 @@
+/tax|[https://www.dailymail.co.uk,h]::1;[https://www.tutorialspoint.com/market/teach_with_us.jsp,p]::1;[https://www.everydayhealth.com/stress/guide,p]::1;[https://blog.archive.org,p]::1;[https://developers.google.com/assistant/console/policies/general-policies,p]::1;[https://www.cancer.org/cancer/cancer-basics/questions-people-ask-about-cancer.html,p]::1;[https://www.cancer.org/cancer/cancer-causes/genetics/family-cancer-syndromes.html,p]::1;[https://www.cancer.org,p]::1;[https://www.acco.org,p]::1;[https://stupidcancer.org,p]::1;[https://www.friend4life.org,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;
+/taxonomic|[https://blog.archive.org,p]::3;
+/taxonomists|[https://blog.archive.org,p]::1;
+/taxdeductible|[https://www.cancer.org/cancer/cancer-basics/questions-people-ask-about-cancer.html,p]::1;[https://www.cancer.org/cancer/cancer-causes/genetics/family-cancer-syndromes.html,p]::1;[https://www.cancer.org,p]::2;[https://www.acco.org,p]::1;
+/taxexempt|[https://www.cancer.org/cancer/cancer-basics/questions-people-ask-about-cancer.html,p]::1;[https://www.cancer.org/cancer/cancer-causes/genetics/family-cancer-syndromes.html,p]::1;[https://www.cancer.org,p]::1;
+/taxol|[https://www.everydayhealth.com/cervical-cancer/guide,p]::1;
+/taxes|[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;

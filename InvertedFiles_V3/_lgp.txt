@@ -1,0 +1,1 @@
+/lgpl|[https://www.tutorialspoint.com/hibernate/index.htm,p]::1;

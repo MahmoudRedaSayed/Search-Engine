@@ -1,0 +1,2 @@
+/czech|[https://www.dailymail.co.uk,h]::1;[http://wordpress.org/plugins/broken-link-checker,p]::1;[https://www.healthline.com/health/mental-health/discovering-gender-identity-in-isolation,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;
+/czech?|[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;

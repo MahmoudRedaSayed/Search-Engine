@@ -1,0 +1,4 @@
+/giant|[https://www.bbc.com/,h]::1;[https://www.iflscience.com/,h]::1;[https://www.dailymail.co.uk,p]::1;[https://www.nytimes.com/2001/09/04/technology/04COOK.html,p]::1;
+/giants|[https://www.bbc.com/,p]::1;
+/gias|[https://archive.org/about/bios.php,p]::1;
+/giannandrea|[https://en.wikipedia.org/wiki/HTTP_cookie,p]::1;

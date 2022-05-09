@@ -1,0 +1,12 @@
+/pluto|[https://www.sciencenewsforstudents.org,h]::1;
+/plunge|[https://www.dailymail.co.uk,h]::1;[https://www.tutorialspoint.com/python_blockchain/index.htm,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus,h]::1;
+/plugin|[https://www.grammar-quizzes.com/,h]::1;[https://developers.google.com/assistant/app/overview,p]::2;[http://wordpress.org/plugins/broken-link-checker,t]::1;[http://wordpress.org/plugins/broken-link-checker,h]::1;[http://wordpress.org/plugins/broken-link-checker,p]::5;[https://www.tutorialspoint.com/computer_glossary.htm,h]::1;[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,p]::1;[https://codelabs.developers.google.com/codelabs/appactions,h]::1;[https://codelabs.developers.google.com/codelabs/appactions,s]::1;[https://codelabs.developers.google.com/codelabs/appactions,p]::5;[https://developers.google.com/assistant/app/get-started,p]::2;[http://edbrowse.org/usersguide.html#cook,h]::1;[http://edbrowse.org/usersguide.html#cook,p]::7;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,h]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::7;
+/plum|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::1;[http://www.archive-it.org,p]::1;
+/plumping|[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::2;
+/plummeted|[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::1;
+/plummeting|[https://blog.archive.org,p]::1;
+/plunging|[https://archive.org/about/bios.php,p]::1;
+/plumbing|[https://archive.org/about/bios.php,p]::1;
+/plugins|[http://wordpress.org/plugins/broken-link-checker,p]::2;[https://en.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,s]::1;[http://edbrowse.org/usersguide.html#cook,p]::16;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::11;
+/pluginenabled|[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;
+/plugging|[http://www.thesecuritypractice.com/the_security_practice/2011/03/http-state-management-mechanism-to-proposed-standard.html,p]::1;

@@ -1,0 +1,2 @@
+/oops|[http://wordpress.org/plugins/broken-link-checker,p]::1;[https://www.tutorialspoint.com/effective_resume_writing.htm,p]::1;
+/oopssorry|[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::1;

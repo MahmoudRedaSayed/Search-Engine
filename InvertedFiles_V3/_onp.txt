@@ -1,0 +1,1 @@
+/onprovideassistcontent|[https://developers.google.com/assistant/app/assistant-sharing,p]::4;[https://developers.google.com/assistant/app/read-it,p]::6;

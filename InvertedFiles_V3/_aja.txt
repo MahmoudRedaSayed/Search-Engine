@@ -1,0 +1,4 @@
+/ajax|[https://www.bbc.com/,p]::1;[https://www.tutorialspoint.com/javascript/index.htm,p]::1;[http://www.archive-it.org,p]::3;[https://www.tutorialspoint.com/asp.net/index.htm,p]::1;
+/ajaton|[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;
+/ajaxrequests|[https://www.tutorialspoint.com/ethereum/index.htm,p]::1;
+/ajay|[https://www.gatewaycr.org,p]::1;

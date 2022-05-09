@@ -1,0 +1,2 @@
+/ect|[https://www.everydayhealth.com/depression/guide,s]::1;
+/ectopic|[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::1;

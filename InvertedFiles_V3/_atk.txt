@@ -1,0 +1,4 @@
+/atkins|[https://www.bbc.com/,h]::1;[https://www.everydayhealth.com/lifestyle/food,h]::1;[https://www.everydayhealth.com/diet-nutrition/diet/low-carb-diet-beginners-guide-food-list-meal-plan-tips,s]::1;[https://www.everydayhealth.com/diet-nutrition/diet/low-carb-diet-beginners-guide-food-list-meal-plan-tips,p]::2;[https://www.everydayhealth.com/diet-nutrition/atkins-diet.aspx,t]::1;[https://www.everydayhealth.com/diet-nutrition/atkins-diet.aspx,h]::22;[https://www.everydayhealth.com/diet-nutrition/atkins-diet.aspx,s]::11;[https://www.everydayhealth.com/diet-nutrition/atkins-diet.aspx,p]::66;[http://www.archive-it.org,p]::3;
+/atkins?|[https://www.everydayhealth.com/diet-nutrition/ketogenic-diet,h]::1;
+/atkinsfriendly|[https://www.everydayhealth.com/diet-nutrition/atkins-diet.aspx,h]::1;
+/atkinson|[https://www.everydayhealth.com/emotional-health/lili-reinhart-called-out-other-celebs-for-starving-themselves-why-body-image-experts-are-applauding-her,p]::10;

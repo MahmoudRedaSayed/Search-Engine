@@ -1,0 +1,1 @@
+/sms|[https://developers.google.com/assistant/console/policies/general-policies,p]::1;[https://twitter.com/tos,p]::2;

@@ -1,0 +1,4 @@
+/exodus'|[https://www.dailymail.co.uk,p]::1;
+/exopolysaccharides|[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;
+/exorbitant|[https://www.everydayhealth.com/healthy-living/consumers-guide-drug-discounts,p]::1;
+/exocervix|[https://www.everydayhealth.com/cervical-cancer/guide,p]::1;

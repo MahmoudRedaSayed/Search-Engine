@@ -1,0 +1,2 @@
+/pocket|[https://www.academia.edu,h]::1;[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;[https://www.everydayhealth.com/healthy-living/consumers-guide-drug-discounts,p]::2;
+/pockets|[https://www.everydayhealth.com/crohns-disease/guide,p]::2;[https://www.hearstmagazines.co.uk/prima-pattern,s]::1;

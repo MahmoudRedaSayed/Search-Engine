@@ -1,0 +1,2 @@
+/rugby|[https://www.dailymail.co.uk,h]::1;
+/rugged|[https://www.countrylivingholidays.com/?utm_source=hearstmagazines&utm_medium=referral&utm_campaign=hearst-holidays&utm_term=clv&utm_content=nav-bar,p]::1;

@@ -1,0 +1,2 @@
+/lurks|[https://nautil.us,h]::1;
+/lured|[https://web.archive.org/web/20131209210402/http:/news.cnet.com/8301-10789_3-9918582-57.html,p]::1;

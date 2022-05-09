@@ -1,0 +1,9 @@
+/rubbing|[https://www.everydayhealth.com/eczema/guide,p]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::2;[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::2;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
+/rubus|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;
+/rubbish|[http://wordpress.org/plugins/broken-link-checker,h]::1;
+/rubenstein|[http://www.archive-it.org,p]::1;
+/rubenstein's|[http://www.archive-it.org,p]::1;
+/rubinstein|[https://www.gatewaycr.org,p]::1;
+/rubust|[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::1;
+/ruby|[https://web.archive.org/web/20051001113951/http:/www.microsoft.com/windows/IE/community/columns/historyofie.mspx,p]::1;
+/rubble|[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;

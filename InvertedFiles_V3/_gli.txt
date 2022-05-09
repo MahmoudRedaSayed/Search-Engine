@@ -1,0 +1,6 @@
+/glimpse|[https://www.campdream.org/,p]::1;[https://web.archive.org/web/20051001113951/http:/www.microsoft.com/windows/IE/community/columns/historyofie.mspx,p]::1;
+/glide|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::2;
+/glitch|[https://www.tutorialspoint.com/computer_glossary.htm,h]::1;[http://catb.org/jargon/html/M/magic-cookie.html,p]::1;[https://stupidcancer.org,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::1;
+/glitter|[https://www.acco.org,p]::1;[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::1;
+/glioblastoma|[https://www.cancer.gov/about-cancer/treatment/side-effects/appetite-loss/nutrition-pdq#targetText=Good%2520nutrition%2520is%2520important%2520for,healthy%252C%2520and%2520to%2520replace%2520tissue.&targetText=Eating%2520the%2520right%2520kinds%2520of,feel%2520better%2520and%2520stay%2520stronger.,p]::3;
+/glitches|[https://apps.apple.com/us/app/t2d-healthline-diabetes/id1498858311,p]::1;

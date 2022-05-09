@@ -1,0 +1,5 @@
+/mix|[https://nautil.us,p]::1;[https://www.hearstmagazines.co.uk/elle-decoration-magazine-subscription,p]::3;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::1;[https://www.healthline.com/mental-health,p]::1;[https://www.tutorialspoint.com/compiler_design/index.htm,p]::1;[https://web.archive.org/web/20170316175133/https:/staff.washington.edu/fmf/2009/06/19/setting-cookies,p]::1;
+/mixed|[https://www.everydayhealth.com/depression/guide,p]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::1;[https://www.everydayhealth.com/wellness/resilience,p]::1;[https://www.healthline.com/health/healthy-sex/black-women-sexuality,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::2;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;
+/mixercast|[https://archive.org/about/bios.php,p]::1;
+/mixing|[https://archive.org/about/bios.php,p]::1;
+/mixto|[http://www.archive-it.org,p]::1;

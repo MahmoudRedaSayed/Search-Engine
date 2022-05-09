@@ -1,0 +1,2 @@
+/atazakar|[https://english.ahram.org.eg/,p]::1;
+/atac|[https://www.tutorialspoint.com/angular4/index.htm,p]::2;[https://www.tutorialspoint.com/spring/index.htm,p]::4;[https://www.tutorialspoint.com/react_native/index.htm,p]::2;

@@ -1,0 +1,11 @@
+/abortion|[https://www.everydayhealth.com/,p]::1;[https://www.healthline.com/,p]::1;[https://psychcentral.com,p]::1;[https://www.healthline.com/program/sexual-health-for-every-body,h]::1;[https://www.healthline.com/program/sexual-health-for-every-body,p]::5;[http://healthline.com/program/sexual-health-for-every-body#covid-19,h]::1;[http://healthline.com/program/sexual-health-for-every-body#covid-19,p]::5;[http://healthline.com/program/sexual-health-for-every-body#identity,h]::1;[http://healthline.com/program/sexual-health-for-every-body#identity,p]::5;[https://developers.google.com/assistant/console/analytics,s]::1;[http://healthline.com/program/sexual-health-for-every-body#help,h]::1;[http://healthline.com/program/sexual-health-for-every-body#help,p]::5;[http://healthline.com/program/sexual-health-for-every-body#morning-after,h]::1;[http://healthline.com/program/sexual-health-for-every-body#morning-after,p]::5;[http://edbrowse.org/usersguide.html#cook,p]::4;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::4;
+/about reversing diabetes|[https://www.everydayhealth.com/type-2-diabetes/guide,p]::1;
+/aboard|[https://www.countrylivingholidays.com/?utm_source=hearstmagazines&utm_medium=referral&utm_campaign=hearst-holidays&utm_term=clv&utm_content=nav-bar,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;
+/abolitionist|[https://archive.org/about/bios.php,p]::1;
+/abovementioned|[https://www.tutorialspoint.com/data_structures_algorithms/index.htm,p]::1;
+/about sharing|[https://web.archive.org/web/20180810220427/https:/www.bbc.co.uk/news/technology-12668552,h]::1;
+/about''|[https://www.nytimes.com/2001/09/04/technology/04COOK.html,p]::1;
+/above?|[https://www.everydayhealth.com/cancer/everyday-healths-hereditary-cancer-risk-twitter-chat-heres-what-you-missed,s]::1;[https://www.everydayhealth.com/cancer/everyday-healths-hereditary-cancer-risk-twitter-chat-heres-what-you-missed,p]::1;
+/aboutgeneticcounselorsorg and findageneticcounselororg|[https://www.everydayhealth.com/cancer/everyday-healths-hereditary-cancer-risk-twitter-chat-heres-what-you-missed,p]::1;
+/about everyday|[https://www.everydayhealth.com/contact-us,p]::1;
+/aborted|[http://edbrowse.org/usersguide.html#cook,p]::1;

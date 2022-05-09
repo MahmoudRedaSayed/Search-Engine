@@ -1,0 +1,3 @@
+/enquiry|[https://www.hearst.co.uk/contact-us,s]::1;[https://www.hearstmagazines.co.uk/contact-us,p]::1;
+/enquiries|[https://www.hearst.co.uk/contact-us,s]::1;[https://www.ipso.co.uk/editors-code-of-practice,p]::4;
+/enquiring|[https://www.hearstmagazines.co.uk/faq,p]::1;

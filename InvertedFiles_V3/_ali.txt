@@ -1,0 +1,15 @@
+/alivia|[https://www.marca.com,h]::1;[https://www.tutorialspoint.com/categories/it_and_software,p]::2;[https://www.tutorialspoint.com/computer_whoiswho.htm,h]::1;[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::1;
+/alina|[https://www.dailymail.co.uk,p]::1;
+/alisha bridges|[https://www.everydayhealth.com/wellness/resilience,s]::1;
+/align|[https://www.everydayhealth.com/diet-nutrition/the-paleo-diet.aspx,p]::1;[http://www.archive-it.org,p]::1;
+/alike|[https://archive.org/about/bios.php,p]::1;[https://seer.cancer.gov/statfacts/html/all.html,p]::1;[https://www.cancer.org/cancer/cancer-basics/questions-people-ask-about-cancer.html,p]::1;
+/alive|[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::2;[http://www.archive-it.org,p]::1;[https://www.cancer.gov/about-cancer/understanding/statistics,p]::1;[https://www.everydayhealth.com/lung-cancer/living-with/your-lungs-get-healthier-every-hour-every-day-after-you-quit-smoking,p]::2;
+/alive”|[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;
+/alignment|[http://www.archive-it.org,p]::1;[https://www.healthline.com/health/mental-health/discovering-gender-identity-in-isolation,p]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;
+/aligned|[https://www.tutorialspoint.com/effective_resume_writing.htm,p]::1;[https://www.healthline.com/health/mental-health/discovering-gender-identity-in-isolation,p]::1;
+/aliyah|[https://www.youtube.com/about/press,h]::1;
+/alist|[https://web.archive.org/web/20110824225528/http:/adage.com/article/digital/sen-rockefeller-ready-a-real-track-bill/227426,h]::1;
+/alive''|[https://www.nytimes.com/2001/09/04/technology/04COOK.html,p]::1;
+/alias|[http://edbrowse.org/usersguide.html#cook,p]::6;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::6;
+/aliases|[http://edbrowse.org/usersguide.html#cook,p]::7;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::7;
+/alissa|[http://www.thesecuritypractice.com/the_security_practice/2011/03/http-state-management-mechanism-to-proposed-standard.html,p]::1;

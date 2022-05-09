@@ -1,0 +1,2 @@
+/mcauley|[http://www.archive-it.org,p]::2;
+/mcardle|[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,p]::1;

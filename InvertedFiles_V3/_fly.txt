@@ -1,0 +1,3 @@
+/flyover|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;[https://www.tutorialspoint.com/javascript/index.htm,p]::1;[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::4;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::5;
+/flying|[https://www.dailymail.co.uk,p]::1;
+/flynn|[https://www.medicalnewstoday.com,p]::1;

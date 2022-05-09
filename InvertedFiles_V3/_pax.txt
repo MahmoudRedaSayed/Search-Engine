@@ -1,0 +1,2 @@
+/paxton|[https://www.tutorialspoint.com/categories/marketing,p]::2;
+/paxlovid|[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,h]::3;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,s]::3;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::12;

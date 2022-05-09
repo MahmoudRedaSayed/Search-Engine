@@ -1,0 +1,4 @@
+/guests|[https://www.dailymail.co.uk,h]::1;[https://www.everydayhealth.com/psoriasis/guide,p]::1;[https://blog.archive.org,p]::2;[https://archive.org/about/volunteerpositions.php,p]::2;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;
+/guess|[https://developers.google.com/assistant/games,p]::1;[https://www.healthline.com/health/healthy-sex/sexual-guilt-purity-culture,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;
+/guesswork|[https://www.everydayhealth.com/diet-nutrition/the-paleo-diet.aspx,p]::1;
+/guessed|[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;

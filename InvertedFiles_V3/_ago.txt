@@ -1,0 +1,3 @@
+/agony|[https://www.dailymail.co.uk,h]::1;
+/ago |[https://www.blogforacure.com,p]::1;
+/agoraphobia|[https://www.everydayhealth.com/most-popular,p]::1;

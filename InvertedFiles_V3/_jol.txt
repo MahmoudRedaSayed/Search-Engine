@@ -1,0 +1,3 @@
+/joliet|[https://blog.archive.org,p]::1;
+/jolocom|[https://blog.archive.org,p]::3;
+/jolocoms|[https://blog.archive.org,p]::1;

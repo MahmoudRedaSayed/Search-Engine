@@ -1,0 +1,3 @@
+/yesterday|[https://www.dailymail.co.uk,p]::1;
+/yeshiva|[http://www.archive-it.org,p]::1;
+/yes”|[https://web.archive.org/web/20110824225528/http:/adage.com/article/digital/sen-rockefeller-ready-a-real-track-bill/227426,p]::1;[https://web.archive.org/web/20110427123350/http:/groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::1;

@@ -1,0 +1,9 @@
+/sclerosis|[https://www.everydayhealth.com/,p]::1;[https://www.everydayhealth.com/multiple-sclerosis/guide,t]::1;[https://www.everydayhealth.com/multiple-sclerosis/guide,h]::28;[https://www.everydayhealth.com/multiple-sclerosis/guide,s]::10;[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::17;[https://www.medicalnewstoday.com,p]::1;[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;[https://www.everydayhealth.com/stress/guide,h]::1;[https://www.everydayhealth.com/stress/guide,p]::1;[https://www.everydayhealth.com/diet-nutrition/the-paleo-diet.aspx,p]::1;[https://www.everydayhealth.com/symptom-checker,p]::1;[https://www.everydayhealth.com/tippi,h]::2;[https://www.everydayhealth.com/newsletter-subscriptions/signup,h]::1;[https://www.everydayhealth.com/most-popular,p]::2;
+/sclerosing|[https://www.everydayhealth.com/crohns-disease/guide,p]::1;
+/sclerosis?|[https://www.everydayhealth.com/multiple-sclerosis/guide,h]::4;
+/sclerosis”|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::2;
+/scleroderma|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;
+/sclerotium|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::1;
+/sclareolide|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
+/sclibugaedu|[http://www.archive-it.org,p]::1;
+/sclc|[https://www.everydayhealth.com/lung-cancer/living-with/your-lungs-get-healthier-every-hour-every-day-after-you-quit-smoking,h]::1;[https://www.everydayhealth.com/lung-cancer/living-with/your-lungs-get-healthier-every-hour-every-day-after-you-quit-smoking,s]::1;[https://www.everydayhealth.com/lung-cancer/living-with/your-lungs-get-healthier-every-hour-every-day-after-you-quit-smoking,p]::1;

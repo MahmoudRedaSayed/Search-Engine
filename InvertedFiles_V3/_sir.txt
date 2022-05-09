@@ -1,0 +1,4 @@
+/sir|[https://www.dailymail.co.uk,h]::2;[http://www.archive-it.org,p]::1;
+/siren|[https://www.france24.com,p]::1;
+/sirah|[https://english.ahram.org.eg/,p]::1;
+/sirtfood|[https://www.everydayhealth.com/diet-and-nutrition/diet/mind-diet-can-this-diet-plan-help-reverse-alzheimers-disease,h]::1;

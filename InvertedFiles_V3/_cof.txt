@@ -1,0 +1,6 @@
+/coffee|[https://developers.google.com/assistant,p]::1;[https://greatist.com,p]::1;[https://archive.org/about/bios.php,p]::1;[https://www.inlife.co.uk/why-are-cookies-called-cookies,p]::2;[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::1;
+/coffeetime|[https://www.hearstmagazines.co.uk/best-magazine-digital-subscription,p]::1;
+/cofounded|[https://archive.org/about/bios.php,p]::5;[http://www.archive-it.org,p]::1;[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::3;
+/cofounding|[https://archive.org/about/bios.php,p]::1;
+/cofounder|[https://archive.org/about/bios.php,p]::1;[https://www.everydayhealth.com/courses,h]::1;[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::3;[https://www.commonweal.org/program/cchp,p]::1;
+/coffin|[https://www.healthline.com/health/healthy-sex/black-women-sexuality,p]::1;

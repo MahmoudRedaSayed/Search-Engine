@@ -1,0 +1,4 @@
+/sids|[https://www.dailymail.co.uk,h]::1;
+/sides|[https://www.everydayhealth.com/eczema/guide,p]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::1;[https://www.everydayhealth.com/diet-nutrition/ketogenic-diet,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;[https://twitter.com/privacy,p]::2;
+/sidebars|[https://www.tutorialspoint.com/word/index.htm,p]::1;
+/sidebyside|[https://web.archive.org/web/20051001113951/http:/www.microsoft.com/windows/IE/community/columns/historyofie.mspx,p]::1;

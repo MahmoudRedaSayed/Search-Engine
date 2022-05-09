@@ -1,0 +1,2 @@
+/fap|[https://www.cancer.org/cancer/cancer-causes/genetics/family-cancer-syndromes.html,p]::1;
+/fapa|[https://www.everydayhealth.com/about-us,h]::1;

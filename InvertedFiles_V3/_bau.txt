@@ -1,0 +1,2 @@
+/bauer|[https://www.everydayhealth.com/diet-nutrition/the-paleo-diet.aspx,p]::1;
+/baug|[https://www.everydayhealthgroup.com,p]::1;

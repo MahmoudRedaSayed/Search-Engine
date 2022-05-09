@@ -1,0 +1,3 @@
+/sniffing|[https://www.sciencenewsforstudents.org,h]::5;[https://en.wikipedia.org/wiki/HTTP_cookie,p]::1;
+/snippet|[https://developers.google.com/assistant/app/slices,p]::2;[https://developers.google.com/assistant/app/assistant-sharing,p]::1;[https://developers.google.com/assistant/app/read-it,p]::1;
+/snippets|[https://www.tutorialspoint.com/openshift/index.htm,p]::1;[https://www.youtube.com/about/copyright,p]::1;

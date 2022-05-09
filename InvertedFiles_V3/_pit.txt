@@ -1,0 +1,6 @@
+/pityriasis|[https://www.everydayhealth.com/psoriasis/guide,p]::1;
+/pitting|[https://www.everydayhealth.com/psoriasis/guide,p]::1;
+/pituitary|[https://www.everydayhealth.com/stress/guide,p]::1;
+/pita|[https://www.everydayhealth.com/mediterranean-diet/guide,p]::1;
+/pittsburgh|[https://archive.org/about/bios.php,p]::1;[https://www.cancer.org/cancer/cancer-basics/questions-people-ask-about-cancer.html,p]::2;[https://www.everydayhealth.com/cancer/genetic-counseling-for-cancer-risk-just-as-effective-via-telehealth-and-more-cancer-news-from-ascos-annual-meeting,p]::1;
+/pitted|[https://www.healthline.com/health/healthy-sex/black-women-sexuality,p]::1;

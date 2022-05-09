@@ -1,0 +1,4 @@
+/foster|[https://bezzy.com,p]::1;[http://www.archive-it.org,p]::2;[https://www.everydayhealth.com/cancer/biden-relaunches-cancer-moonshot-program-with-pledge-to-end-cancer-as-we-know-it,p]::1;[https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https%253A%252F%252Fwww.youtube.com%252Fhowyoutubeworks%253Futm_source%253Dythp%2526utm_medium%253DLeftNav%2526utm_campaign%253Dytgen,p]::1;[http://www.thesecuritypractice.com/the_security_practice/2011/03/http-state-management-mechanism-to-proposed-standard.html,p]::1;[https://apps.apple.com/us/app/t2d-healthline-diabetes/id1498858311,p]::1;
+/fosta|[https://blog.archive.org,p]::1;
+/fostering|[http://www.archive-it.org,p]::5;
+/fosters|[http://www.archive-it.org,p]::2;

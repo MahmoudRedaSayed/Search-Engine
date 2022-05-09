@@ -1,0 +1,3 @@
+/fabric|[https://www.sciencenewsforstudents.org,h]::2;[https://www.redescapes.com/?utm_source=hearstmagazines&utm_medium=referral&utm_campaign=hearst-holidays&utm_term=red&utm_content=nav-bar,p]::1;[https://www.acco.org,p]::1;
+/fabulous|[https://www.hearstmagazines.co.uk,p]::1;[https://www.hearstmagazines.co.uk/home,p]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::1;[https://www.hearstmagazines.co.uk/become-a-hearst-affiliate,p]::1;
+/fabricated|[https://en.wikipedia.org/wiki/HTTP_cookie,p]::2;

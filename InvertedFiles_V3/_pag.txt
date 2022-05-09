@@ -1,0 +1,5 @@
+/page   |[https://blog.archive.org/2013/10/24/web-archive-404-handler-for-webmasters,p]::1;
+/page's|[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::1;
+/paget|[https://www.everydayhealth.com/breast-cancer/living-with/on-chemo-brain-dropped-words,h]::1;
+/pagereference|[https://twitter.com/privacy,p]::15;
+/page?|[https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie2,h]::1;

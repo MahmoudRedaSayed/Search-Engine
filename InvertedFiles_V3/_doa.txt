@@ -1,0 +1,3 @@
+/doable|[https://www.everydayhealth.com/mediterranean-diet/guide,p]::1;
+/doan|[https://www.everydayhealth.com/emotional-health/lili-reinhart-called-out-other-celebs-for-starving-themselves-why-body-image-experts-are-applauding-her,h]::1;
+/doable”|[https://www.everydayhealth.com/cancer/biden-relaunches-cancer-moonshot-program-with-pledge-to-end-cancer-as-we-know-it,p]::1;

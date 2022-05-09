@@ -1,0 +1,13 @@
+/bower|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::2;
+/bowel|[https://www.everydayhealth.com/crohns-disease/guide,h]::1;[https://www.everydayhealth.com/crohns-disease/guide,p]::9;[https://www.medicalnewstoday.com,p]::1;[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;[https://www.everydayhealth.com/ulcerative-colitis/guide,p]::5;[https://www.everydayhealth.com/stress/guide,p]::1;[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::1;[https://www.everydayhealth.com/wellness/resilience,p]::1;[https://www.everydayhealth.com/mediterranean-diet/guide,h]::1;[https://www.everydayhealth.com/diet-nutrition/the-paleo-diet.aspx,p]::1;[https://www.everydayhealth.com/cancer/guide/cancer-symptoms,s]::1;[https://www.cancer.gov/about-cancer/treatment/side-effects/appetite-loss/nutrition-pdq#targetText=Good%2520nutrition%2520is%2520important%2520for,healthy%252C%2520and%2520to%2520replace%2520tissue.&targetText=Eating%2520the%2520right%2520kinds%2520of,feel%2520better%2520and%2520stay%2520stronger.,p]::1;[https://www.everydayhealth.com/colon-cancer,p]::2;
+/bowl|[https://www.everydayhealth.com/mediterranean-diet/guide,p]::2;
+/bowls|[https://www.everydayhealth.com/diet-and-nutrition/diet/mind-diet-can-this-diet-plan-help-reverse-alzheimers-disease,p]::1;
+/bowels|[https://www.everydayhealth.com/symptom-checker,p]::1;
+/bowdoin|[http://www.archive-it.org,p]::7;
+/bowdoins|[http://www.archive-it.org,p]::1;
+/bowdoinedu|[http://www.archive-it.org,p]::1;
+/bowdoineduacademics|[http://www.archive-it.org,p]::1;
+/bowdoinmanaged|[http://www.archive-it.org,p]::1;
+/bowie|[https://www.everydayhealth.com/cancer/celebrities-with-cancer-why-do-some-decide-to-go-public-and-others-dont,p]::2;
+/bowie's|[https://www.everydayhealth.com/cancer/celebrities-with-cancer-why-do-some-decide-to-go-public-and-others-dont,p]::1;
+/bowies|[https://www.everydayhealth.com/cancer/celebrities-with-cancer-why-do-some-decide-to-go-public-and-others-dont,p]::1;

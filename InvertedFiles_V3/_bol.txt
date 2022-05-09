@@ -1,0 +1,6 @@
+/bold|[https://www.sciencenewsforstudents.org,h]::1;[https://english.ahram.org.eg/,p]::1;[https://www.tutorialspoint.com/effective_resume_writing.htm,p]::1;[https://www.tutorialspoint.com/computer_glossary.htm,p]::1;[https://www.everydayhealth.com/cancer/biden-relaunches-cancer-moonshot-program-with-pledge-to-end-cancer-as-we-know-it,p]::1;[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::1;
+/bolsonaro|[https://www.france24.com,p]::1;
+/bolivia|[https://www.france24.com,p]::1;
+/bolster|[https://www.everydayhealth.com/flu/guide,p]::1;[https://www.everydayhealth.com/wellness/resilience,p]::1;[https://www.everydayhealth.com/diet-nutrition/burning-questions-about-intermittent-fasting-answered,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus,p]::1;
+/bolus|[https://www.everydayhealth.com/type-2-diabetes/guide,s]::1;[https://www.everydayhealth.com/type-2-diabetes/guide,p]::1;
+/bolinas|[https://www.commonweal.org/program/cchp,p]::2;

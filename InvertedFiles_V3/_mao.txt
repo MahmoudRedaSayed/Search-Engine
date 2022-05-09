@@ -1,0 +1,2 @@
+/maori|[https://www.dailymail.co.uk,h]::1;
+/maois|[https://www.everydayhealth.com/depression/guide,s]::1;[https://www.everydayhealth.com/most-popular,p]::1;

@@ -1,0 +1,12 @@
+/alerts|[https://www.academia.edu,p]::1;[https://www.everydayhealth.com/news,h]::1;[https://www.everydayhealth.com/coronavirus,h]::2;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,t]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,h]::5;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,s]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::2;[https://www.everydayhealth.com/infectious-diseases/coronavirus,h]::2;[https://www.everydayhealth.com/infectious-diseases/coronavirus,p]::1;[https://www.everydayhealth.com/coronavirus/all-articles,h]::1;[https://developers.google.com/assistant/console/policies/general-policies,p]::1;[https://web.archive.org/web/20131209210402/http:/news.cnet.com/8301-10789_3-9918582-57.html,p]::2;[https://twitter.com/privacy,p]::1;[https://dx.doi.org/10.1145/502152.502153,h]::2;[https://dx.doi.org/10.1145/502152.502153,p]::2;[https://www.everydayhealth.com/cancer/everyday-healths-hereditary-cancer-risk-twitter-chat-heres-what-you-missed,p]::1;[https://www.everydayhealth.com/accessibility-statement,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;
+/alex|[https://www.dailymail.co.uk,h]::1;[https://archive.org/about/bios.php,p]::2;
+/alertan|[https://www.marca.com,h]::1;
+/alexander|[https://english.ahram.org.eg/,p]::1;[https://www.dailymail.co.uk,p]::1;[https://www.tutorialspoint.com/market/teach_with_us.jsp,p]::1;[https://archive.org/about/bios.php,p]::3;
+/alexandria|[https://english.ahram.org.eg/,p]::1;[https://www.asco.org,p]::2;
+/alexis|[https://www.medicalnewstoday.com,p]::2;[https://blog.archive.org,h]::1;[https://blog.archive.org,p]::1;[https://archive.org/about/bios.php,p]::3;
+/alexopoulos|[https://blog.archive.org,p]::1;
+/alec|[https://blog.archive.org,p]::1;
+/alexisrossicom|[https://archive.org/about/bios.php,p]::1;
+/alerting|[https://developers.google.com/assistant/console/analytics,p]::2;[https://www.nytimes.com/2001/09/04/technology/04COOK.html,p]::1;
+/alexas|[https://web.archive.org/web/20110824225528/http:/adage.com/article/digital/sen-rockefeller-ready-a-real-track-bill/227426,p]::1;[https://web.archive.org/web/20110427123350/http:/groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::1;
+/alexey|[http://www.thesecuritypractice.com/the_security_practice/2011/03/http-state-management-mechanism-to-proposed-standard.html,p]::1;

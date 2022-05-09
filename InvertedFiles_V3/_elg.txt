@@ -1,0 +1,2 @@
+/elgebaly|[https://english.ahram.org.eg/,p]::1;
+/elgin|[http://www.archive-it.org,p]::3;

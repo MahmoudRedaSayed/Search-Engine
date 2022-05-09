@@ -1,0 +1,11 @@
+/galvan|[https://www.tutorialspoint.com,p]::1;[https://www.tutorialspoint.com/profile/juan_galvan,h]::1;[https://www.tutorialspoint.com/profile/juan_galvan,p]::8;[https://www.tutorialspoint.com/learn_python_programming_from_a_z_beginner_to_expert_course/index.asp,p]::1;[https://www.tutorialspoint.com/sas/index.htm,p]::1;[https://wayback.archive-it.org/all/20180819022850/https:/papers.ssrn.com/sol3/papers.cfm?abstract_id=597543,p]::1;
+/galleries|[https://www.loc.gov,h]::1;[https://archive.org/about/bios.php,p]::1;[http://www.archive-it.org,p]::4;
+/gala|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::2;[https://www.everydayhealth.com/emotional-health/lili-reinhart-called-out-other-celebs-for-starving-themselves-why-body-image-experts-are-applauding-her,p]::2;[https://www.cancercare.org,p]::1;[https://www.cancerhopenetwork.org,h]::1;
+/galosmo|[https://www.tutorialspoint.com/categories/business,p]::1;[https://www.tutorialspoint.com/categories/marketing,p]::2;
+/gallica|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;
+/gallery|[https://www.tutorialspoint.com/prime-pack/javascript-prime-pack/index.asp,p]::1;[https://archive.org/about/bios.php,p]::1;[http://www.archive-it.org,p]::5;
+/gally|[https://blog.archive.org,p]::2;
+/galactica|[https://archive.org/about/bios.php,p]::1;
+/galician|[http://wordpress.org/plugins/broken-link-checker,p]::1;
+/galinha|[https://developers.googleblog.com/2020/06/announcing-actions-builder-actions-sdk.html,p]::4;
+/gallbladder|[https://www.everydayhealth.com/colon-cancer,p]::1;[https://www.everydayhealth.com/most-popular,p]::2;

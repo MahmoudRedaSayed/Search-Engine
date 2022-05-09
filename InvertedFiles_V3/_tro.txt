@@ -1,0 +1,18 @@
+/troops|[https://www.bbc.com/,p]::1;[https://www.france24.com,p]::1;[https://www.dailymail.co.uk,p]::1;
+/trofeo|[https://www.marca.com,h]::1;
+/trout'|[https://www.dailymail.co.uk,h]::1;
+/tropical|[https://www.sciencenewsforstudents.org,p]::1;[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;
+/trophies|[https://english.ahram.org.eg/,p]::1;
+/trouble|[https://nautil.us,h]::1;[https://www.everydayhealth.com/depression/guide,h]::1;[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;[https://www.everydayhealth.com/sleep-disorders/sleep/sleep-101-ultimate-guide-on-how-get-better-nights-sleep,p]::1;[https://www.everydayhealth.com/diet-nutrition/the-paleo-diet.aspx,p]::1;[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::1;[https://www.cancer.gov/about-cancer/treatment/side-effects/appetite-loss/nutrition-pdq#targetText=Good%2520nutrition%2520is%2520important%2520for,healthy%252C%2520and%2520to%2520replace%2520tissue.&targetText=Eating%2520the%2520right%2520kinds%2520of,feel%2520better%2520and%2520stay%2520stronger.,h]::1;[https://www.cancer.gov/about-cancer/treatment/side-effects/appetite-loss/nutrition-pdq#targetText=Good%2520nutrition%2520is%2520important%2520for,healthy%252C%2520and%2520to%2520replace%2520tissue.&targetText=Eating%2520the%2520right%2520kinds%2520of,feel%2520better%2520and%2520stay%2520stronger.,p]::1;[https://www.everydayhealth.com/contact-us,p]::2;
+/troubled|[https://www.everydayhealth.com/depression/guide,p]::1;[https://www.everydayhealth.com/wellness/resilience,p]::1;[https://www.healthline.com/fitness,p]::1;[https://www.everydayhealth.com/diet-nutrition/the-dash-diet.aspx,p]::1;[https://www.healthline.com/health/healthy-sex/sexual-guilt-purity-culture,p]::1;
+/trouble swallowing|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;
+/troublefree|[https://www.tutorialspoint.com/prime-pack/complete-python-prime-pack/index.asp,p]::1;
+/tropaeolum|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;
+/trouble?|[https://www.everydayhealth.com/sleep-disorders/sleep/sleep-101-ultimate-guide-on-how-get-better-nights-sleep,h]::1;
+/trojan|[https://www.tutorialspoint.com/prime-pack/cyber-security-prime-pack/index.asp,p]::1;[https://www.tutorialspoint.com/computer_glossary.htm,h]::1;[https://www.tutorialspoint.com/computer_glossary.htm,p]::1;
+/troubling|[https://blog.archive.org,p]::1;
+/tropicos|[https://archive.org/about/bios.php,p]::1;
+/troubles|[https://www.healthline.com/health/healthy-sex/sexual-guilt-purity-culture,p]::2;
+/troubleshoot|[https://www.youtube.com/creators,p]::1;
+/troubleshooting|[https://codelabs.developers.google.com/codelabs/appactions,p]::1;
+/trove|[https://www.nytimes.com/2001/09/04/technology/04COOK.html,p]::1;

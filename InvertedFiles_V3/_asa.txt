@@ -1,0 +1,2 @@
+/asap|[https://greatist.com,p]::1;
+/asavailable|[https://archive.org/about/terms.php,p]::1;

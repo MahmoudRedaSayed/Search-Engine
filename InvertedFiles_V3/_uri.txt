@@ -1,0 +1,8 @@
+/urinary|[https://www.everydayhealth.com/multiple-sclerosis/guide,h]::1;[https://www.everydayhealth.com/multiple-sclerosis/guide,s]::1;[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;[https://developers.google.com/assistant/app/slices,p]::2;[https://developers.google.com/assistant/app/read-it,p]::3;[https://www.everydayhealth.com/cervical-cancer/guide,p]::1;[https://www.everydayhealth.com/colon-cancer,p]::1;
+/urine|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::2;[https://www.everydayhealth.com/type-2-diabetes/guide,p]::1;[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::2;[https://www.everydayhealth.com/diet-nutrition/atkins-diet.aspx,p]::1;[https://www.cancer.org/cancer/cancer-causes/genetics/family-cancer-syndromes.html,p]::1;[https://www.everydayhealth.com/cancer/guide/cancer-diagnosis-tests,p]::1;[https://www.everydayhealth.com/cancer/cancer-news-digest-latest-developments-in-cancer-research-and-treatment-for-june,p]::6;[https://www.everydayhealth.com/most-popular,p]::2;
+/urinating|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;
+/urinate|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;
+/uris|[https://developers.google.com/assistant/app/slices,p]::1;[https://developers.google.com/assistant/app/read-it,p]::1;[https://blog.archive.org,p]::2;
+/urims|[https://blog.archive.org,p]::1;
+/urination|[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::2;
+/uric|[https://www.everydayhealth.com/diet-nutrition/atkins-diet.aspx,p]::1;

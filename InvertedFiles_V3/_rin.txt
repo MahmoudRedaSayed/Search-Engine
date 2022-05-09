@@ -1,0 +1,6 @@
+/ringworm|[https://www.everydayhealth.com/psoriasis/guide,p]::1;[https://www.healthline.com/program/sexual-health-for-every-body,p]::1;[http://healthline.com/program/sexual-health-for-every-body#covid-19,p]::1;[http://healthline.com/program/sexual-health-for-every-body#identity,p]::1;[http://healthline.com/program/sexual-health-for-every-body#help,p]::1;[http://healthline.com/program/sexual-health-for-every-body#morning-after,p]::1;
+/rinse|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::3;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::2;[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::2;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::3;
+/rinsing|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::2;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
+/rings|[https://www.everydayhealth.com/sleep-disorders/sleep/sleep-101-ultimate-guide-on-how-get-better-nights-sleep,p]::1;
+/rinseout|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
+/ringing|[https://www.everydayhealth.com/symptom-checker,p]::1;

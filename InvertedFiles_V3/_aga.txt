@@ -1,0 +1,4 @@
+/again?|[https://www.dailymail.co.uk,h]::1;
+/agame|[https://www.hearstmagazines.co.uk/cosmopolitan-magazine-subscription,p]::3;
+/again? |[https://www.everydayhealth.com/diet-nutrition/burning-questions-about-intermittent-fasting-answered,h]::1;[https://www.everydayhealth.com/diet-nutrition/burning-questions-about-intermittent-fasting-answered,s]::1;
+/again”|[https://www.everydayhealth.com/diet-nutrition/atkins-diet.aspx,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::2;

@@ -1,0 +1,2 @@
+/festival|[https://www.dailymail.co.uk,p]::1;[https://www.goodhousekeepingholidays.com/?utm_source=hearstmagazines&utm_medium=referral&utm_campaign=hearst-holidays&utm_term=ghk&utm_content=nav-bar,p]::1;[https://www.countrylivingholidays.com/?utm_source=hearstmagazines&utm_medium=referral&utm_campaign=hearst-holidays&utm_term=clv&utm_content=nav-bar,p]::1;
+/festivals|[http://www.archive-it.org,p]::1;

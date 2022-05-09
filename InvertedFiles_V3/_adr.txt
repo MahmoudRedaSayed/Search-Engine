@@ -1,0 +1,2 @@
+/adrian|[https://english.ahram.org.eg/,p]::1;
+/adrenal|[https://www.everydayhealth.com/stress/guide,p]::1;[https://www.everydayhealth.com/diet-nutrition/diet/low-carb-diet-beginners-guide-food-list-meal-plan-tips,p]::1;[https://www.cancer.org/cancer/cancer-causes/genetics/family-cancer-syndromes.html,p]::2;[https://www.everydayhealth.com/cancer/guide/cancer-symptoms,p]::1;

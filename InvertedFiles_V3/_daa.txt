@@ -1,0 +1,3 @@
+/daas|[https://twitter.com/privacy,p]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::4;
+/daa”|[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,s]::1;
+/daac|[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;

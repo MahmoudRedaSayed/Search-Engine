@@ -1,0 +1,4 @@
+/cup|[https://www.dailymail.co.uk,h]::1;[https://www.france24.com,p]::2;[https://www.everydayhealth.com/mediterranean-diet/guide,s]::6;[https://www.everydayhealth.com/mediterranean-diet/guide,p]::6;[https://www.everydayhealth.com/cancer-photos/top-foods-to-fight-cancer.aspx,p]::1;
+/cups|[https://www.everydayhealth.com/depression/guide,s]::1;[https://www.everydayhealth.com/depression/guide,p]::2;[https://www.everydayhealth.com/dehydration/hydration-calculator,p]::2;
+/cuppa|[https://www.hearstmagazines.co.uk/gift-ideas,p]::1;
+/cupik|[https://blog.archive.org,p]::1;

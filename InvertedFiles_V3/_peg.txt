@@ -1,0 +1,8 @@
+/peg|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::5;
+/pegm|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
+/pegging|[https://www.healthline.com/program/sexual-health-for-every-body,p]::1;[http://healthline.com/program/sexual-health-for-every-body#covid-19,p]::1;[http://healthline.com/program/sexual-health-for-every-body#identity,p]::1;[http://healthline.com/program/sexual-health-for-every-body#help,p]::1;[http://healthline.com/program/sexual-health-for-every-body#morning-after,p]::1;
+/peggy|[https://archive.org/about/bios.php,p]::1;
+/pegged|[https://www.healthline.com/health/mental-health/discovering-gender-identity-in-isolation,p]::1;
+/pegaspargase|[https://www.acco.org,p]::1;
+/pegfilgrastim|[https://www.everydayhealth.com/cancer/fda-rejects-promising-new-drug-that-aims-to-prevent-low-white-blood-cell-counts-in-patients-receiving-chemotherapy,p]::5;
+/pegfilgrastim”|[https://www.everydayhealth.com/cancer/fda-rejects-promising-new-drug-that-aims-to-prevent-low-white-blood-cell-counts-in-patients-receiving-chemotherapy,p]::1;

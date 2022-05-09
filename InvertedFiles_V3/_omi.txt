@@ -1,0 +1,5 @@
+/omitting|[https://www.everydayhealth.com/eczema/guide,p]::1;[https://www.everydayhealth.com/diet-nutrition/atkins-diet.aspx,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::2;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::2;
+/omits|[https://www.everydayhealth.com/diet-and-nutrition/diet/mind-diet-can-this-diet-plan-help-reverse-alzheimers-disease,p]::1;
+/omicron|[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,h]::3;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,s]::2;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::9;[https://www.everydayhealth.com/infectious-diseases/coronavirus,h]::1;[https://www.everydayhealth.com/coronavirus/all-articles,h]::1;
+/omicronfighting|[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;
+/omissions|[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;

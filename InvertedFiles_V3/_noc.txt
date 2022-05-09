@@ -1,0 +1,2 @@
+/nocost|[https://www.everydayhealth.com/healthy-living/consumers-guide-drug-discounts,p]::1;
+/noch|[https://legal.twitter.com/imprint.html,p]::1;

@@ -1,0 +1,4 @@
+/smell|[https://www.everydayhealth.com/,h]::1;[https://www.everydayhealth.com/,p]::1;[https://www.everydayhealth.com/flu/guide,p]::1;[https://www.everydayhealth.com/coronavirus,h]::1;[https://www.everydayhealth.com/breast-cancer/living-with/on-chemo-brain-dropped-words,p]::1;[https://www.justdontsendflowers.com,p]::1;[https://www.cancer.gov/about-cancer/treatment/side-effects/appetite-loss/nutrition-pdq#targetText=Good%2520nutrition%2520is%2520important%2520for,healthy%252C%2520and%2520to%2520replace%2520tissue.&targetText=Eating%2520the%2520right%2520kinds%2520of,feel%2520better%2520and%2520stay%2520stronger.,p]::1;
+/smear|[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::1;[https://www.everydayhealth.com/cervical-cancer/guide,p]::2;
+/smelly|[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::1;
+/smears|[https://www.everydayhealth.com/cervical-cancer/guide,p]::1;

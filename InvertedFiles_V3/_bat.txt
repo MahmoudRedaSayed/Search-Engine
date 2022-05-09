@@ -1,0 +1,17 @@
+/bats|[https://www.sciencenewsforstudents.org,h]::2;[https://www.everydayhealth.com/infectious-diseases/coronavirus,p]::4;
+/battle|[https://www.dailymail.co.uk,h]::2;[https://www.everydayhealth.com/depression/guide,p]::1;[https://www.everydayhealth.com/psoriasis/guide,p]::1;[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;[https://www.everydayhealth.com/lifestyle/healthy-living,h]::1;[https://www.everydayhealth.com/diet-nutrition/atkins-diet.aspx,p]::1;[https://www.everydayhealth.com/emotional-health/lili-reinhart-called-out-other-celebs-for-starving-themselves-why-body-image-experts-are-applauding-her,p]::1;[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::1;[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,h]::1;[https://www.everydayhealth.com/healthy-living/consumers-guide-drug-discounts,p]::1;[https://www.acco.org,p]::3;[https://www.blogforacure.com,p]::1;[https://www.everydayhealth.com/colon-cancer,p]::1;
+/battlefield|[https://www.dailymail.co.uk,p]::1;
+/battling|[https://www.dailymail.co.uk,p]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;[https://www.everydayhealth.com/depression/guide,p]::2;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,t]::1;[https://www.everydayhealth.com/cancer/living-with/how-keep-friendships-strong-while-being-treated-cancer,p]::1;[https://www.acco.org,p]::1;[https://www.blogforacure.com,p]::1;
+/battles|[https://www.everydayhealth.com/cancer/guide,p]::1;[https://www.everydayhealth.com/psoriasis/guide,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,h]::1;[https://www.healthline.com/health/healthy-sex/black-women-sexuality,p]::1;[https://www.everydayhealth.com/cancer/living-with/how-keep-friendships-strong-while-being-treated-cancer,p]::1;
+/bath|[https://www.everydayhealth.com/eczema/guide,h]::1;[https://www.justdontsendflowers.com,p]::1;
+/bathroom|[https://www.everydayhealth.com/crohns-disease/guide,p]::1;[https://www.healthline.com/health/healthy-sex/sexual-guilt-purity-culture,p]::1;
+/bathe|[https://www.everydayhealth.com/eczema/guide,s]::1;[https://www.everydayhealth.com/psoriasis/guide,p]::1;
+/baths|[https://www.everydayhealth.com/wellness,h]::1;[https://www.everydayhealth.com/alternative-health/all-articles,h]::1;
+/battleground|[https://archive.org/projects,p]::1;
+/battle”|[https://www.everydayhealth.com/diet-nutrition/atkins-diet.aspx,p]::1;
+/baton|[http://www.archive-it.org,p]::1;
+/batterypowered|[https://www.tutorialspoint.com/computer_glossary.htm,p]::2;
+/baty|[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::1;
+/bates|[https://www.everydayhealth.com/cancer/celebrities-with-cancer-why-do-some-decide-to-go-public-and-others-dont,h]::1;[https://www.everydayhealth.com/cancer/celebrities-with-cancer-why-do-some-decide-to-go-public-and-others-dont,p]::1;
+/batess|[https://www.everydayhealth.com/cancer/celebrities-with-cancer-why-do-some-decide-to-go-public-and-others-dont,p]::1;
+/batch|[http://edbrowse.org/usersguide.html#cook,p]::3;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;

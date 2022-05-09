@@ -1,0 +1,4 @@
+/jokes|[https://www.dailymail.co.uk,h]::3;[https://www.dailymail.co.uk,p]::1;
+/jokic|[https://www.marca.com,h]::1;
+/joke'|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
+/joked|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;

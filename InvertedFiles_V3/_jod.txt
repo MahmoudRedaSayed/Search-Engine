@@ -1,0 +1,2 @@
+/jodie|[https://www.bbc.com/,h]::1;[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
+/jody|[https://www.bbc.com/,p]::1;

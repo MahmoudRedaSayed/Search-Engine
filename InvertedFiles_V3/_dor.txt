@@ -1,0 +1,9 @@
+/dortmund|[https://www.bbc.com/,p]::1;[https://www.marca.com,h]::1;
+/doris|[https://www.loc.gov,h]::1;[http://www.archive-it.org,p]::1;[https://www.canceradvocacy.org,p]::2;
+/dorothea|[https://www.loc.gov,h]::1;
+/dorothy|[https://www.loc.gov,h]::2;[http://www.archive-it.org,p]::1;
+/dorough|[https://blog.archive.org,p]::1;
+/doria|[https://archive.org/about/bios.php,p]::1;
+/dora|[http://www.archive-it.org,p]::3;
+/doroshow|[https://www.cancer.org/cancer/cancer-causes/genetics/family-cancer-syndromes.html,p]::2;
+/dorey|[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::1;

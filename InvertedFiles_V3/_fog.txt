@@ -1,0 +1,1 @@
+/fog|[https://www.dailymail.co.uk,h]::1;[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;

@@ -1,0 +1,5 @@
+/adidas|[https://developers.google.com/assistant,p]::1;[https://www.hearstmagazines.co.uk,p]::2;[https://www.hearstmagazines.co.uk/home,p]::2;[https://www.hearstmagazines.co.uk/mens-health-magazine-subscription,s]::2;
+/adipic|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
+/adipateipdi|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;
+/aditya|[https://www.tutorialspoint.com/android/index.htm,p]::1;
+/adipiscing|[https://www.acco.org,p]::4;

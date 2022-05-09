@@ -1,0 +1,2 @@
+/joe|[https://www.hearstmagazines.co.uk/holidays,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::2;[https://www.everydayhealth.com/cancer/biden-relaunches-cancer-moonshot-program-with-pledge-to-end-cancer-as-we-know-it,p]::1;
+/joel|[https://wayback.archive-it.org/all/20180819022850/https:/papers.ssrn.com/sol3/papers.cfm?abstract_id=597543,p]::1;

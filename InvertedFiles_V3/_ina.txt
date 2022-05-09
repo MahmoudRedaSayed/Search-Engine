@@ -1,0 +1,17 @@
+/inalámbricos|[https://www.marca.com,h]::1;
+/inauguration|[https://english.ahram.org.eg/,p]::1;
+/inaccuracies|[https://nautil.us,p]::1;[https://www.ipso.co.uk/editors-code-of-practice,p]::1;[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,p]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,s]::2;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::2;
+/inaccurate|[http://www.hearst.co.uk/privacy-notice,p]::1;[https://www.ipso.co.uk/editors-code-of-practice,p]::1;[https://en.wikipedia.org/wiki/HTTP_cookie,h]::1;[https://www.everydayhealth.com/cancer/guide/cancer-screening,p]::1;[https://twitter.com/tos,p]::2;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::2;
+/inapp|[https://developers.google.com/assistant/app,h]::1;[https://developers.google.com/assistant/app,p]::1;[https://developers.google.com/assistant/app/overview,p]::5;[https://www.everydayhealth.com/diet-nutrition/the-paleo-diet.aspx,p]::1;[https://developers.google.com/assistant/transactions,p]::2;[https://developers.google.com/assistant/app/get-started,p]::3;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;
+/inactive|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;[http://www.archive-it.org,p]::2;
+/inability|[https://www.healthonnet.org/HONcode/Conduct.html?HONConduct694855,p]::1;[https://www.everydayhealth.com/symptom-checker,p]::1;[https://archive.org/about/terms.php,p]::1;[https://twitter.com/tos,p]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;[https://www.healthonnet.org/HONcode/Conduct.html?HONConduct736517,p]::1;
+/inadequate|[https://www.everydayhealth.com/sleep-disorders/sleep/sleep-101-ultimate-guide-on-how-get-better-nights-sleep,p]::1;[https://www.everydayhealth.com/diet-nutrition/atkins-diet.aspx,p]::1;[https://www.everydayhealth.com/colon-cancer,p]::1;[https://www.everydayhealth.com/cancer/cancer-news-digest-latest-developments-in-cancer-research-and-treatment-for-june,p]::1;
+/inaction|[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus,p]::1;[https://developers.google.com/assistant/console/policies/general-policies,p]::2;[https://web.archive.org/web/20180810220427/https:/www.bbc.co.uk/news/technology-12668552,p]::1;[https://www.bbc.co.uk/news/technology-12668552,p]::1;
+/inappropriate|[https://developers.google.com/assistant/console/policies/general-policies,p]::9;[https://www.youtube.com/about/policies,p]::2;[https://twitter.com/tos,p]::2;
+/inaccuracy|[https://www.ipso.co.uk/editors-code-of-practice,p]::1;
+/inactivity|[https://www.everydayhealth.com/cancer/guide/cancer-risk-factors-prevention,p]::1;[https://www.everydayhealth.com/cancer/guide/cancer-symptoms,p]::1;[https://twitter.com/tos,p]::2;
+/inaugural|[https://www.asco.org,p]::1;[https://www.everydayhealthgroup.com,p]::1;
+/inacio|[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,h]::1;
+/inabox?|[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::2;
+/inactivate|[https://www.cancer.gov/about-cancer/understanding/what-is-cancer,p]::1;
+/inaccessible|[http://edbrowse.org/usersguide.html#cook,p]::2;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::2;

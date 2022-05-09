@@ -1,0 +1,3 @@
+/esmx|[https://developers.google.com/assistant/console/languages-locales,p]::3;
+/esmo|[https://www.everydayhealth.com/cancer/cancer-news-digest-latest-developments-in-cancer-research-and-treatment-for-june,s]::1;[https://www.everydayhealth.com/cancer/cancer-news-digest-latest-developments-in-cancer-research-and-treatment-for-june,p]::1;
+/esmos|[https://www.everydayhealth.com/cancer/cancer-news-digest-the-latest-developments-in-cancer-research-and-treatment-for-september,p]::1;

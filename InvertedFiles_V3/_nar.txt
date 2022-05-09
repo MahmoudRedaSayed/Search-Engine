@@ -1,0 +1,16 @@
+/narcissism|[https://www.bbc.com/,h]::1;
+/narrative|[https://nautil.us,h]::1;[https://blog.archive.org,p]::3;[https://www.everydayhealth.com/cancer/celebrities-with-cancer-why-do-some-decide-to-go-public-and-others-dont,h]::1;[https://www.everydayhealth.com/cancer/celebrities-with-cancer-why-do-some-decide-to-go-public-and-others-dont,s]::1;[https://www.everydayhealth.com/cancer/celebrities-with-cancer-why-do-some-decide-to-go-public-and-others-dont,p]::1;
+/narrow|[https://www.everydayhealth.com/crohns-disease/guide,p]::2;[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::1;[https://www.everydayhealth.com/cervical-cancer/guide,p]::1;[https://www.everydayhealth.com/colon-cancer,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;
+/narrowed|[https://www.everydayhealth.com/crohns-disease/guide,p]::1;
+/narciso|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,h]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,s]::1;
+/narcolepsy|[https://www.everydayhealth.com/sleep-disorders/sleep/sleep-101-ultimate-guide-on-how-get-better-nights-sleep,h]::1;[https://www.everydayhealth.com/sleep-disorders/sleep/sleep-101-ultimate-guide-on-how-get-better-nights-sleep,s]::1;[https://www.everydayhealth.com/sleep-disorders/sleep/sleep-101-ultimate-guide-on-how-get-better-nights-sleep,p]::7;
+/narcolepsy |[https://www.everydayhealth.com/sleep-disorders/sleep/sleep-101-ultimate-guide-on-how-get-better-nights-sleep,s]::1;
+/nardostachys|[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;
+/narratives|[https://bezzy.com,p]::1;[https://www.healthline.com/health/healthy-sex/second-queer-adolescence,p]::1;
+/narnia|[https://archive.org/about/bios.php,p]::1;
+/nara|[https://archive.org/about/bios.php,p]::1;
+/narcissistic|[https://www.everydayhealth.com/courses,h]::1;
+/nardini|[https://www.everydayhealth.com/courses,h]::1;
+/narrowly|[https://www.ipso.co.uk/editors-code-of-practice,p]::1;
+/narrowing|[https://www.blogforacure.com,p]::1;
+/narrower|[https://web.archive.org/web/20170316175133/https:/staff.washington.edu/fmf/2009/06/19/setting-cookies,p]::1;

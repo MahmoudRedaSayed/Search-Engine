@@ -1,0 +1,7 @@
+/osteoporosis osteopenia|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;[https://www.everydayhealth.com/emotional-health/lili-reinhart-called-out-other-celebs-for-starving-themselves-why-body-image-experts-are-applauding-her,p]::1;[https://www.everydayhealth.com/most-popular,p]::1;
+/osteoarthritis fibromyalgia|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::2;[https://www.everydayhealth.com/symptom-checker,p]::3;[https://www.everydayhealth.com/most-popular,p]::1;
+/ostomy|[https://www.everydayhealth.com/ulcerative-colitis/guide,p]::2;
+/osteopathic|[https://www.everydayhealth.com/emotional-health/index.aspx,p]::1;
+/ostfildern|[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::1;
+/osteosarcoma|[https://www.cancer.org/cancer/cancer-causes/genetics/family-cancer-syndromes.html,p]::1;[https://www.cancer.gov/about-cancer/understanding/what-is-cancer,p]::1;
+/ostomate|[https://www.cancerhopenetwork.org,h]::1;

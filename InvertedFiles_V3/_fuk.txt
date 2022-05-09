@@ -1,0 +1,2 @@
+/fukushima?|[https://www.iflscience.com/,h]::1;
+/fukushima's|[https://www.iflscience.com/,p]::1;

@@ -1,0 +1,3 @@
+/pts|[https://www.hearstmagazines.co.uk/mens-health-magazine-subscription,p]::1;[https://www.hearstmagazines.co.uk/mens-health-squad-membership-subscription,p]::1;[https://www.hearstmagazines.co.uk/gift-ideas,p]::1;
+/ptsd|[https://www.everydayhealth.com/stress/guide,h]::2;[https://www.everydayhealth.com/wellness/resilience,p]::2;[https://www.ihadcancer.com/h3-blog,h]::1;
+/ptsd?|[https://www.everydayhealth.com/wellness/resilience,h]::1;

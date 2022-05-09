@@ -1,0 +1,1 @@
+/xss|[https://en.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://web.archive.org/web/20131209210402/http:/news.cnet.com/8301-10789_3-9918582-57.html,p]::3;

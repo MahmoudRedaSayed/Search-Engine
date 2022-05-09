@@ -1,0 +1,4 @@
+/pseudobulbar|[https://www.everydayhealth.com/depression/guide,h]::1;
+/pseudozyma|[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::2;
+/pseudoalteromonas|[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::2;
+/pseudonym|[https://twitter.com/privacy,p]::2;

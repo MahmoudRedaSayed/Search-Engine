@@ -1,0 +1,2 @@
+/gmt|[https://en.wikipedia.org/wiki/HTTP_cookie,p]::2;
+/gmt"|[https://www.cisco.com/c/en/us/support/docs/security/web-security-appliance/117925-technote-csc-00.html,p]::1;

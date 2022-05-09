@@ -1,0 +1,2 @@
+/etag|[https://en.wikipedia.org/wiki/HTTP_cookie,h]::1;[https://en.wikipedia.org/wiki/HTTP_cookie,p]::4;
+/etags|[https://en.wikipedia.org/wiki/HTTP_cookie,p]::2;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;

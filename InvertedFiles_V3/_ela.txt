@@ -1,0 +1,1 @@
+/elaborate|[https://www.dailymail.co.uk,p]::1;[https://blog.archive.org,p]::1;[https://www.tutorialspoint.com/time_series/index.htm,p]::1;

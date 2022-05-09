@@ -1,0 +1,2 @@
+/bahamas|[https://www.dailymail.co.uk,h]::1;
+/bahasa|[https://www.youtube.com/creators,p]::1;

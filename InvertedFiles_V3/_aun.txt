@@ -1,0 +1,2 @@
+/aunt|[https://www.dailymail.co.uk,h]::1;
+/aunties|[https://www.hearstmagazines.co.uk/gift-ideas,p]::1;

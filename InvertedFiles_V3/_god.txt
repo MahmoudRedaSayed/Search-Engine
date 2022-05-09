@@ -1,0 +1,5 @@
+/goddess|[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;[http://www.archive-it.org,p]::3;[https://www.blogforacure.com,p]::2;[http://edbrowse.org/usersguide.html#cook,p]::2;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;
+/gods|[http://www.archive-it.org,p]::1;[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::1;
+/god's|[http://www.archive-it.org,p]::1;
+/godel's|[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::1;
+/godfearing|[https://www.healthline.com/health/healthy-sex/sexual-guilt-purity-culture,p]::1;

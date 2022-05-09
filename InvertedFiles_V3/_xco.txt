@@ -1,0 +1,1 @@
+/xcode|[https://www.tutorialspoint.com/cplusplus/index.htm,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;

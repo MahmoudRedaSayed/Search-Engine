@@ -1,0 +1,2 @@
+/acpmojd|[https://www.france24.com,p]::1;[http://www.archive-it.org,p]::2;
+/acpas|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::2;

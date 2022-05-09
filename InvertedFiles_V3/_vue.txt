@@ -1,0 +1,2 @@
+/vue|[https://www.tutorialspoint.com/prime-pack/fullstack-web-development-prime-pack/index.asp,p]::1;
+/vuejs|[https://www.tutorialspoint.com/javascript/index.htm,p]::1;

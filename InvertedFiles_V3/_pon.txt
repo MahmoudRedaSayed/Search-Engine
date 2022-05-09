@@ -1,0 +1,3 @@
+/ponds|[https://www.sciencenewsforstudents.org,h]::2;[http://www.archive-it.org,p]::1;
+/ponemos|[http://www.hearst.es,p]::1;
+/ponte|[http://www.hearst.es,p]::1;

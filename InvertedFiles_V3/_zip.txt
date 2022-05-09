@@ -1,0 +1,2 @@
+/ziprasidone|[https://www.everydayhealth.com/depression/guide,p]::1;[https://www.everydayhealth.com/wellness/resilience,p]::1;[https://www.tutorialspoint.com/computer_glossary.htm,p]::1;[https://www.everydayhealth.com/healthy-living/consumers-guide-drug-discounts,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::2;
+/zippy|[https://www.tutorialspoint.com/php/index.htm,p]::1;

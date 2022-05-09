@@ -1,0 +1,8 @@
+/kern|[https://www.loc.gov,h]::1;
+/kernel|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::2;[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::7;[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::2;[http://edbrowse.org/usersguide.html#cook,p]::1;
+/keras|[https://www.tutorialspoint.com/prime-pack/artificial-intelligence-and-machine-learning-prime-pack/index.asp,p]::1;
+/kerkenbush|[https://www.everydayhealth.com/diet-and-nutrition/diet/mind-diet-can-this-diet-plan-help-reverse-alzheimers-disease,p]::2;
+/kerry|[https://web.archive.org/web/20110824225528/http:/adage.com/article/digital/sen-rockefeller-ready-a-real-track-bill/227426,p]::1;
+/kerrymccain|[https://web.archive.org/web/20110824225528/http:/adage.com/article/digital/sen-rockefeller-ready-a-real-track-bill/227426,p]::2;
+/keratin|[https://www.everydayhealth.com/cancer/cancer-news-digest-latest-developments-in-cancer-research-and-treatment-for-june,p]::1;
+/kerberos|[http://edbrowse.org/usersguide.html#cook,p]::1;

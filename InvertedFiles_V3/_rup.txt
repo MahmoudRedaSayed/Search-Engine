@@ -1,0 +1,2 @@
+/rupees|[https://www.tutorialspoint.com/market/teach_with_us.jsp,p]::4;
+/rupture|[https://www.healthline.com/health/healthy-sex/second-queer-adolescence,p]::1;

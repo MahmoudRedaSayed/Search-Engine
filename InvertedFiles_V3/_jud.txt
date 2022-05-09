@@ -1,0 +1,8 @@
+/judds|[https://www.everydayhealth.com/,h]::1;[https://www.everydayhealth.com/depression/guide,h]::2;[https://www.everydayhealth.com/news,h]::1;[https://www.everydayhealth.com/emotional-health/lili-reinhart-called-out-other-celebs-for-starving-themselves-why-body-image-experts-are-applauding-her,h]::1;
+/judi|[https://www.dailymail.co.uk,p]::1;
+/judgment|[https://www.campdream.org/,p]::1;[https://www.healthline.com/program/sexual-health-for-every-body,p]::1;[http://healthline.com/program/sexual-health-for-every-body#covid-19,p]::1;[http://healthline.com/program/sexual-health-for-every-body#identity,p]::1;[http://healthline.com/program/sexual-health-for-every-body#help,p]::1;[http://healthline.com/program/sexual-health-for-every-body#morning-after,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;
+/judgement|[https://www.healthline.com/mental-health,p]::1;[http://www.archive-it.org,p]::1;[https://www.healthline.com/health/mental-health/discovering-gender-identity-in-isolation,p]::2;
+/jude|[https://archive.org/about/bios.php,p]::1;
+/judges|[http://www.archive-it.org,p]::1;
+/judicial|[http://www.archive-it.org,p]::3;
+/judgements|[https://www.healthline.com/health/mental-health/discovering-gender-identity-in-isolation,p]::1;

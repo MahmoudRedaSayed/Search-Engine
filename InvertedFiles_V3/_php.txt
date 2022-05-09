@@ -1,0 +1,3 @@
+/php|[https://www.tutorialspoint.com/codingground.htm,t]::1;[https://www.tutorialspoint.com/prime-pack/fullstack-web-development-prime-pack/index.asp,p]::2;[https://www.tutorialspoint.com/html/index.htm,p]::1;[https://www.tutorialspoint.com/css/index.htm,p]::1;[https://www.tutorialspoint.com/php/index.htm,t]::1;[https://www.tutorialspoint.com/php/index.htm,h]::4;[https://www.tutorialspoint.com/php/index.htm,p]::26;[https://www.tutorialspoint.com/cplusplus/index.htm,p]::1;[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::1;[https://en.wikipedia.org/wiki/HTTP_cookie,p]::1;
+/php?|[https://www.tutorialspoint.com/php/index.htm,h]::1;
+/php's|[https://www.tutorialspoint.com/php/index.htm,p]::1;

@@ -1,0 +1,6 @@
+/royal's|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::2;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::2;[https://www.tutorialspoint.com/cplusplus/index.htm,p]::1;[http://www.archive-it.org,p]::2;[https://www.tutorialspoint.com/mongodb/index.htm,p]::1;[https://www.tutorialspoint.com/asp.net/index.htm,p]::1;[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::1;[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::1;[http://www.thesecuritypractice.com/the_security_practice/2011/03/http-state-management-mechanism-to-proposed-standard.html,p]::1;
+/royal who|[https://www.dailymail.co.uk,p]::1;
+/royalty|[https://www.countrylivingholidays.com/?utm_source=hearstmagazines&utm_medium=referral&utm_campaign=hearst-holidays&utm_term=clv&utm_content=nav-bar,p]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;
+/royalties|[https://www.tutorialspoint.com/computer_glossary.htm,p]::2;[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,p]::1;
+/royaltyfree|[https://archive.org/about/terms.php,p]::1;[https://twitter.com/tos,p]::4;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::2;
+/roychowdhury|[https://www.gatewaycr.org,p]::1;

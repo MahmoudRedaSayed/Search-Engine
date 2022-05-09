@@ -1,0 +1,5 @@
+/joslin diabetes|[https://www.everydayhealth.com/type-2-diabetes/guide,s]::1;[https://www.everydayhealth.com/type-2-diabetes/guide,p]::1;
+/jose|[https://blog.archive.org,p]::1;[http://www.archive-it.org,p]::1;
+/joshi|[https://www.tutorialspoint.com/blockchain/index.htm,p]::1;
+/joseph|[https://www.everydayhealth.com/cancer/condition-kitchen-easy-recipes-people-living-with-cancer,h]::1;[https://www.everydayhealth.com/cancer/condition-kitchen-easy-recipes-people-living-with-cancer,p]::1;
+/joseph's|[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::1;

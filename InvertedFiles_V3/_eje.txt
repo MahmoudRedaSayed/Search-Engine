@@ -1,0 +1,3 @@
+/ejercicio|[https://www.marca.com,h]::1;
+/ejection|[https://www.everydayhealth.com/heart-health/fda-approves-camzyos-for-the-treatment-of-obstructive-hypertrophic-cardiomyopathy,p]::1;
+/ejerciendo|[http://www.archive-it.org,p]::1;

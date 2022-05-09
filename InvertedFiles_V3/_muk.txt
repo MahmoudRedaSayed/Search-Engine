@@ -1,0 +1,2 @@
+/mukherjee|[https://www.tutorialspoint.com/categories/it_and_software,p]::1;
+/mukund|[https://www.tutorialspoint.com/artificial_intelligence_with_python/index.htm,p]::1;[https://www.tutorialspoint.com/scala/index.htm,p]::1;

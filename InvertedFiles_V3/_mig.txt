@@ -1,0 +1,9 @@
+/migration|[https://www.sciencenewsforstudents.org,h]::1;
+/migrants|[https://www.dailymail.co.uk,h]::1;[https://www.france24.com,p]::2;[https://www.dailymail.co.uk,p]::1;
+/migraine|[https://www.healthline.com/nutrition,p]::1;[https://www.everydayhealth.com/multiple-sclerosis/guide,h]::3;[https://www.everydayhealth.com/multiple-sclerosis/guide,s]::1;[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::3;[https://bezzy.com,s]::1;[https://bezzy.com,p]::2;[https://www.everydayhealth.com/symptom-checker,p]::1;[https://www.everydayhealthgroup.com,s]::1;[https://www.everydayhealthgroup.com,p]::4;[https://www.everydayhealth.com/most-popular,p]::1;[https://www.migraineagain.com,t]::2;[https://www.migraineagain.com,h]::12;[https://www.migraineagain.com,p]::5;[https://apps.apple.com/us/app/t2d-healthline-diabetes/id1498858311,p]::1;
+/migraineagaincom|[https://www.everydayhealth.com/lifestyle/healthy-living,h]::1;
+/migrating|[https://www.countrylivingholidays.com/?utm_source=hearstmagazines&utm_medium=referral&utm_campaign=hearst-holidays&utm_term=clv&utm_content=nav-bar,p]::1;[https://www.tutorialspoint.com/data_communication_computer_network/index.htm,p]::1;
+/migraine?|[https://www.everydayhealth.com/coronavirus,h]::1;[https://www.migraineagain.com,h]::1;
+/migliora|[https://www.hearst.it,p]::1;
+/migrated|[https://developers.googleblog.com/2020/06/announcing-actions-builder-actions-sdk.html,p]::1;
+/migrainefree|[https://www.migraineagain.com,p]::1;

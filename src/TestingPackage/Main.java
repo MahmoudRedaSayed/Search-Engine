@@ -192,27 +192,27 @@ public class Main {
 //         Thread ThreadsArray[]=new Thread[51];
 //
 //        JSONArray dividedQuery = new JSONArray();
-//        //Ranker rankerObj = new Ranker();
+//        Ranker rankerObj = new Ranker();
 //        String finalJSONARRAY;
 //        QueryProcessing obj = new QueryProcessing();
 //        PhraseSearching phraseSearchingObj = new PhraseSearching();
 //        String searchingQuery;
 //        ArrayList<String> rankerArray = new ArrayList<String>();
-//        searchingQuery = " canvas  is   cancer accessibility";
+//        searchingQuery = " provide programs";
 //        System.out.println(searchingQuery);
 //        finalJSONARRAY = obj.run(searchingQuery, rankerArray, dividedQuery);
-//        HashMap<String, Double> toBeSorted = new HashMap<String, Double>();
-//        toBeSorted.put("link1", 0.25);
-//        toBeSorted.put("Link2", 0.5);
-//        toBeSorted.put("Link3", 0.45);
-
+////        HashMap<String, Double> toBeSorted = new HashMap<String, Double>();
+////        toBeSorted.put("link1", 0.25);
+////        toBeSorted.put("Link2", 0.5);
+////        toBeSorted.put("Link3", 0.45);
+//
 //        Map<String, Double> rankingResult = rankerObj.calculateRelevance(rankerArray);
 //        HashMap<String, Double> toBeSorted = new HashMap<String, Double>(rankingResult);
 //        HashMap<String, Double> sortedRankerMap = QueryProcessing.sortByValue(toBeSorted);
-//        HashMap<String,Double> linksRankedMap = QueryProcessing.replaceIDByLink(toBeSorted);
-
+//       // HashMap<String,Double> linksRankedMap = QueryProcessing.replaceIDByLink(toBeSorted);
+//
 //        for (Map.Entry<String, Double> entry : sortedRankerMap.entrySet()) {
-//            System.out.println(entry.getKey() + ":" + entry.getValue().toString());
+//            System.out.println(entry.getKey() /*+ "   :" + entry.getValue().toString()*/);
 //          }
 //
 //            System.out.println(finalJSONARRAY);
@@ -245,7 +245,7 @@ public class Main {
 //        ///////////////////////////////////////////////////////
 //
             /*---------------     Start Indexing ----------------------*/
-//     //    create files
+      //   create files
 //        WorkingFiles.createInvertedFiles();
 //
 //        // connect to db
@@ -289,8 +289,8 @@ public class Main {
 //            threadsCounter = 0;
 //            finished += threadCount;
 //            System.out.println("finished Indexing : " + finished);
-//            if (finished == 30)
-//                done = true;
+//            /*if (finished == 1000)
+//                done = true;*/
 //        }
 //
 //
@@ -299,7 +299,7 @@ public class Main {
 //        // removing the empty files
 //        WorkingFiles.removeEmptyFiles();
 //        System.out.println("Removed empty files");
-
-            /*---------------     End Of Indexing ----------------------*/
+//
+//            /*---------------     End Of Indexing ----------------------*/
         }
 }

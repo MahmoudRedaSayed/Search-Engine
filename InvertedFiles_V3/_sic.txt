@@ -1,0 +1,5 @@
+/sicklecell|[https://www.sciencenewsforstudents.org,h]::1;[https://www.everydayhealth.com/flu/guide,p]::1;[https://www.everydayhealth.com/depression/guide,p]::1;[https://www.everydayhealth.com/stress/guide,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus,p]::1;[http://www.archive-it.org,p]::2;[https://www.canceradvocacy.org,h]::1;
+/sick”|[https://www.everydayhealth.com/diet-nutrition/diet/low-carb-diet-beginners-guide-food-list-meal-plan-tips,p]::1;
+/sickness|[https://www.everydayhealth.com/symptom-checker,p]::2;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;[https://stupidcancer.org,h]::1;
+/sich|[http://www.archive-it.org,p]::1;
+/sick?|[https://stupidcancer.org,p]::1;

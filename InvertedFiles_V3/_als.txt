@@ -1,0 +1,2 @@
+/als|[https://hearst.nl,p]::1;
+/also download information|[https://twitter.com/privacy,p]::1;

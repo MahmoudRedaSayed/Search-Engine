@@ -1,0 +1,4 @@
+/eres|[https://www.marca.com,p]::1;
+/erection|[https://www.healthline.com/program/sexual-health-for-every-body,p]::4;[http://healthline.com/program/sexual-health-for-every-body#covid-19,p]::4;[http://healthline.com/program/sexual-health-for-every-body#identity,p]::4;[http://healthline.com/program/sexual-health-for-every-body#help,p]::4;[http://healthline.com/program/sexual-health-for-every-body#morning-after,p]::4;
+/erectile|[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus,p]::1;
+/ereader|[https://dx.doi.org/10.1145/502152.502153,h]::1;[https://dx.doi.org/10.1145/502152.502153,p]::1;

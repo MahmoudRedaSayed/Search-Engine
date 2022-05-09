@@ -1,0 +1,3 @@
+/him |[https://www.dailymail.co.uk,h]::1;
+/himanshu|[https://www.tutorialspoint.com/machine_learning/index.htm,p]::1;[https://www.tutorialspoint.com/machine_learning_with_python/index.htm,p]::1;[https://www.tutorialspoint.com/power_bi/index.htm,p]::1;
+/himachal|[https://www.tutorix.com,p]::1;

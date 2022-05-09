@@ -1,0 +1,1 @@
+/wcag|[https://www.everydayhealth.com/accessibility-statement,p]::1;

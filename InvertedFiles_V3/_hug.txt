@@ -1,0 +1,6 @@
+/huge|[https://www.dailymail.co.uk,p]::1;[https://www.healthline.com/mental-health,p]::1;[https://blog.archive.org,p]::1;[https://www.tutorialspoint.com/cyber_security_go_from_zero_to_hero/index.asp,p]::1;[https://archive.org/about/jobs.php,p]::1;[https://www.tutorialspoint.com/blockchain/index.htm,p]::1;[https://www.everydayhealth.com/emotional-health/lili-reinhart-called-out-other-celebs-for-starving-themselves-why-body-image-experts-are-applauding-her,p]::1;[https://www.tutorialspoint.com/data_communication_computer_network/index.htm,p]::1;[https://www.tutorialspoint.com/php/index.htm,p]::1;[https://www.tutorialspoint.com/big_data_analytics/index.htm,p]::1;[https://stupidcancer.org,p]::1;
+/hugecomplex|[https://www.tutorialspoint.com/tableau_online_training/index.asp,p]::1;
+/hugs|[https://www.everydayhealth.com/diet-nutrition/diet/low-carb-diet-beginners-guide-food-list-meal-plan-tips,p]::1;[https://www.blogforacure.com,p]::1;
+/hugely|[https://www.tutorialspoint.com/data_communication_computer_network/index.htm,p]::1;
+/hugged|[https://www.healthline.com/health/mental-health/discovering-gender-identity-in-isolation,p]::1;
+/hugh|[https://www.everydayhealth.com/cancer/celebrities-with-cancer-why-do-some-decide-to-go-public-and-others-dont,h]::2;

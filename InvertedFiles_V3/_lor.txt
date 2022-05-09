@@ -1,0 +1,6 @@
+/lord|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;[https://www.countrylivingholidays.com/?utm_source=hearstmagazines&utm_medium=referral&utm_campaign=hearst-holidays&utm_term=clv&utm_content=nav-bar,p]::1;
+/lori|[https://www.medicalnewstoday.com,p]::1;[https://archive.org/about/bios.php,p]::3;
+/loréal|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,h]::1;
+/loren|[https://www.everydayhealth.com/diet-nutrition/the-paleo-diet.aspx,p]::1;[https://archive.org/about/bios.php,p]::1;
+/lorem|[https://www.acco.org,p]::4;
+/loretta|[https://www.canceradvocacy.org,p]::2;

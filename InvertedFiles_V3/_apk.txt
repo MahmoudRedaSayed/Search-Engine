@@ -1,0 +1,2 @@
+/apk|[https://codelabs.developers.google.com/codelabs/appactions,s]::1;
+/apks|[https://codelabs.developers.google.com/codelabs/appactions,s]::1;

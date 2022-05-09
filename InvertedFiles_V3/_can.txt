@@ -1,0 +1,13 @@
+/cancer|[https://www.everydayhealth.com/colon-cancer,p]::39;[https://www.everydayhealth.com/cervical-cancer/guide,p]::8;[https://www.everydayhealth.com/cancer/cancer-news-digest-the-latest-developments-in-cancer-research-and-treatment-for-september,p]::20;[https://www.everydayhealth.com/cancer/cancer-news-digest-latest-developments-in-cancer-research-and-treatment-for-june,p]::31;[https://www.everydayhealth.com/most-popular,h]::1;[https://www.everydayhealth.com/most-popular,p]::11;[https://apps.apple.com/us/app/t2d-healthline-diabetes/id1498858311,p]::1;
+/cancerfree|[https://www.everydayhealth.com/cancer/cancer-news-digest-the-latest-developments-in-cancer-research-and-treatment-for-september,p]::1;
+/cancers|[https://www.everydayhealth.com/cancer/cancer-news-digest-the-latest-developments-in-cancer-research-and-treatment-for-september,p]::2;[https://www.everydayhealth.com/colon-cancer,p]::2;[https://www.everydayhealth.com/cancer/cancer-news-digest-latest-developments-in-cancer-research-and-treatment-for-june,p]::2;
+/cancerhpv|[https://www.everydayhealth.com/cervical-cancer/guide,p]::1;
+/cancerous|[https://www.everydayhealth.com/cancer/cancer-news-digest-latest-developments-in-cancer-research-and-treatment-for-june,p]::1;
+/cancer ovarian|[https://www.everydayhealth.com/colon-cancer,p]::1;
+/cancer?|[https://www.everydayhealth.com/cancer/cancer-news-digest-latest-developments-in-cancer-research-and-treatment-for-june,p]::1;[https://www.everydayhealth.com/most-popular,p]::1;
+/cancer|[https://www.everydayhealth.com/cancer/cancer-news-digest-latest-developments-in-cancer-research-and-treatment-for-june,p]::1;
+/cancer|[https://www.everydayhealth.com/cancer/cancer-news-digest-latest-developments-in-cancer-research-and-treatment-for-june,p]::1;
+/cancel|[https://web.archive.org/web/20170316175133/https:/staff.washington.edu/fmf/2009/06/19/setting-cookies,h]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::2;
+/candida|[https://www.everydayhealth.com/most-popular,p]::1;
+/canada|[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::2;
+/canned|[http://edbrowse.org/usersguide.html#cook,p]::2;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::2;

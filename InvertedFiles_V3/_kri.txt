@@ -1,0 +1,5 @@
+/krishna|[https://www.tutorialspoint.com/categories/lifestyle,p]::8;
+/kristen|[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::1;
+/kristine|[https://blog.archive.org/2013/10/24/web-archive-404-handler-for-webmasters,p]::2;
+/kria|[http://www.archive-it.org,p]::1;
+/kristol|[https://en.wikipedia.org/wiki/HTTP_cookie,p]::2;[https://www.nytimes.com/2001/09/04/technology/04COOK.html,p]::7;[http://www.thesecuritypractice.com/the_security_practice/2011/03/http-state-management-mechanism-to-proposed-standard.html,p]::4;

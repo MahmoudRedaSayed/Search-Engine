@@ -1,0 +1,1 @@
+/oses|[http://catb.org/jargon/html/M/magic-cookie.html,p]::1;

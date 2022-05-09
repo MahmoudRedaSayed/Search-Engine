@@ -1,0 +1,7 @@
+/wikidata|[https://blog.archive.org,p]::1;[http://www.archive-it.org,p]::1;[http://edbrowse.org/usersguide.html#cook,h]::1;[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,h]::1;
+/wikicite|[https://blog.archive.org,p]::1;
+/wikimedia|[https://blog.archive.org,p]::1;[https://archive.org/projects,p]::1;
+/wikipedia|[https://blog.archive.org,p]::7;[https://en.wikipedia.org/w/index.php?title=Template:HTTP&action=edit,t]::1;[https://en.wikipedia.org/w/index.php?title=HTTP_cookie&action=edit,t]::1;[https://en.wikipedia.org/wiki/HTTP_cookie,t]::1;
+/wikipedians|[https://blog.archive.org,p]::1;
+/wikileaks|[http://www.archive-it.org,p]::1;
+/wikis|[https://twitter.com/privacy,p]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;

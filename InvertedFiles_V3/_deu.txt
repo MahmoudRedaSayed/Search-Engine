@@ -1,0 +1,2 @@
+/deutscher|[http://www.archive-it.org,p]::1;[https://www.youtube.com/creators,p]::1;
+/deutschen|[https://legal.twitter.com/imprint.html,p]::1;

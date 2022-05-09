@@ -1,0 +1,1 @@
+/avg|[https://developers.google.com/assistant/console/analytics,s]::1;

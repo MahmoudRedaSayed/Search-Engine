@@ -1,0 +1,2 @@
+/gnome|[https://developers.google.com/assistant/games,h]::1;
+/gnocchi|[https://www.everydayhealth.com/mediterranean-diet/guide,p]::1;
