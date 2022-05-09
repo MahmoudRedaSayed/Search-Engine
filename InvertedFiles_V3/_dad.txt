@@ -1,2 +1,0 @@
-/dad|[https://www.dailymail.co.uk,p]::2;
-/dadyal|[https://www.dailymail.co.uk,p]::1;

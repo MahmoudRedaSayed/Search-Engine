@@ -1,3 +1,0 @@
-/bombs|[https://www.dailymail.co.uk,h]::4;[https://www.dailymail.co.uk,p]::2;
-/bombshell|[https://www.dailymail.co.uk,p]::1;
-/bombing|[https://www.dailymail.co.uk,p]::1;

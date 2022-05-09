@@ -1,2 +1,0 @@
-/gol|[https://www.marca.com,h]::1;
-/goleada|[https://www.marca.com,h]::1;

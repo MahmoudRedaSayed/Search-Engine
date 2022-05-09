@@ -1,9 +1,0 @@
-/school|[https://www.dailymail.co.uk,h]::2;[https://www.dailymail.co.uk,p]::3;[https://jobs.mayoclinic.org,p]::1;
-/schwabe|[https://www.marca.com,p]::1;
-/scheherazade|[https://www.dailymail.co.uk,p]::2;
-/scheherazade's|[https://www.dailymail.co.uk,p]::1;
-/schools|[https://www.academicinfo.net,t]::1;[https://www.academicinfo.net,h]::1;[https://www.nemours.org?external_id=RE2350835010600,p]::1;
-/schedule|[https://www.loc.gov,h]::1;
-/schriever|[https://www.loc.gov,h]::1;
-/schmidt|[https://nautil.us/about-us,p]::1;
-/scheduled|[https://jobs.mayoclinic.org,p]::1;

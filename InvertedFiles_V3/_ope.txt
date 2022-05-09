@@ -1,8 +1,0 @@
-/open|[https://developers.google.com,h]::1;[https://www.academia.edu,h]::1;[https://www.marca.com,h]::1;[https://stackoverflow.com,h]::1;[https://www.dailymail.co.uk,p]::1;[https://discountcode.dailymail.co.uk,p]::1;
-/operate|[https://www.dailymail.co.uk,h]::1;[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::2;
-/operation'|[https://www.dailymail.co.uk,p]::1;
-/openly|[https://www.dailymail.co.uk,p]::1;[https://stackoverflow.co,p]::1;
-/operational|[https://www.dailymail.co.uk,p]::1;
-/opening|[https://www.loc.gov,h]::1;
-/operado|[https://es.familydoctor.org,p]::1;
-/operationsdevelopment|[https://jobs.mayoclinic.org,p]::2;

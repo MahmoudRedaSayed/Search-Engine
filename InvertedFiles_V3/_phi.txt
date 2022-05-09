@@ -1,3 +1,0 @@
-/philanthropy|[https://nautil.us,p]::1;[https://nautil.us/about-us,p]::1;
-/philosopher|[https://nautil.us,p]::1;[https://nautil.us/about-us,p]::1;
-/philanthropylegalprimary|[https://jobs.mayoclinic.org,p]::1;

@@ -1,2 +1,0 @@
-/mirada|[https://www.marca.com,h]::1;
-/miracle|[https://nautil.us,p]::1;

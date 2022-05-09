@@ -1,9 +1,0 @@
-/surprise|[https://www.dailymail.co.uk,h]::2;[https://www.dailymail.co.uk,p]::3;
-/surging|[https://www.dailymail.co.uk,h]::1;
-/surgeryphysiology|[https://jobs.mayoclinic.org,p]::1;[https://www.everydayhealth.com/cancer/guide,p]::2;
-/surgeryhealthcare|[https://jobs.mayoclinic.org,p]::1;
-/survival|[https://www.everydayhealth.com/cancer/guide,h]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;
-/survivorship nccs|[https://www.everydayhealth.com/cancer/guide,s]::1;[https://www.everydayhealth.com/cancer/guide,p]::9;
-/surfaces|[https://www.everydayhealth.com/cancer/guide,p]::1;
-/survive|[https://www.everydayhealth.com/cancer/guide,p]::1;
-/surprised|[https://www.everydayhealth.com/cancer/guide,p]::1;

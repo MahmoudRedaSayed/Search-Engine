@@ -1,3 +1,0 @@
-/suffers|[https://www.dailymail.co.uk,h]::2;
-/suffered|[https://www.dailymail.co.uk,p]::3;
-/sufferers|[https://www.dailymail.co.uk,p]::1;

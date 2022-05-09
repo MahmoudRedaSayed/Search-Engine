@@ -1,3 +1,0 @@
-/zelensky|[https://www.dailymail.co.uk,h]::2;[https://www.dailymail.co.uk,p]::2;
-/zelensky's|[https://www.dailymail.co.uk,h]::1;
-/zelenska|[https://www.dailymail.co.uk,p]::1;

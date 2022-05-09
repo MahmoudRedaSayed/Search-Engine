@@ -1,2 +1,0 @@
-/user|[https://stackoverflow.com,p]::2;[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::3;
-/users|[https://accounts.accessibe.com/statement/?domain=academicinfo.net,s]::1;[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::4;[https://www.everydayhealth.com/cancer/guide,p]::1;

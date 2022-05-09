@@ -1,2 +1,0 @@
-/boundaries|[https://www.academicinfo.net,h]::1;[https://nautil.us,p]::1;[https://discountcode.dailymail.co.uk,p]::1;
-/boundary|[https://jobs.mayoclinic.org,p]::1;

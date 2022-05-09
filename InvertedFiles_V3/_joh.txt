@@ -1,4 +1,0 @@
-/johan|[https://www.marca.com,h]::1;
-/johnson|[https://www.dailymail.co.uk,p]::4;[https://www.loc.gov,h]::3;
-/johnston|[https://www.loc.gov,h]::2;
-/johannes|[https://nautil.us/about-us,p]::1;

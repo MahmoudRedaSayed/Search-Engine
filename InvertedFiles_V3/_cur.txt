@@ -1,8 +1,0 @@
-/current|[https://stackoverflow.com,h]::1;[https://www.academicinfo.net,p]::1;
-/curry|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::2;
-/curiosity|[https://www.academia.edu,p]::1;
-/curtis|[https://www.loc.gov,h]::1;
-/currier|[https://www.loc.gov,h]::1;
-/curator|[https://nautil.us/about-us,p]::1;
-/curious|[https://stackoverflow.co,p]::1;
-/cure|[https://www.everydayhealth.com/cancer/guide,p]::1;[https://www.healthline.com/nutrition,p]::1;

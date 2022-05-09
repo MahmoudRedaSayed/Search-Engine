@@ -1,3 +1,0 @@
-/journey|[https://www.academicinfo.net,h]::1;[https://nautil.us/about-us,p]::1;[https://www.nemours.org?external_id=RE2350835010600,p]::1;[https://www.everydayhealth.com/cancer/guide,p]::3;
-/journalism|[https://www.sciencenewsforstudents.org/topics,h]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;
-/joules|[https://discountcode.dailymail.co.uk,p]::1;

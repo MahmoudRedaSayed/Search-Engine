@@ -1,6 +1,0 @@
-/excel|[https://w3schools.com,h]::1;
-/exchange|[https://stackoverflow.com,h]::1;[https://stackoverflow.com,p]::4;[https://stackoverflow.co,p]::1;
-/exclusive|[https://www.dailymail.co.uk,p]::1;[https://discountcode.dailymail.co.uk,p]::2;
-/excellentia|[https://nautil.us/about-us,p]::1;
-/excess|[https://www.everydayhealth.com/cancer/guide,p]::1;
-/exclude|[https://www.healthline.com/nutrition,p]::1;

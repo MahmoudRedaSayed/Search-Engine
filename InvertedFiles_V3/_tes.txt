@@ -1,3 +1,0 @@
-/testing|[https://w3schools.com,p]::1;[https://jobs.mayoclinic.org,p]::2;[https://www.nemours.org?external_id=RE2350835010600,p]::1;[https://www.everydayhealth.com/cancer/guide,p]::2;
-/tests|[https://jobs.mayoclinic.org,p]::1;[https://www.everydayhealth.com/cancer/guide,t]::1;[https://www.everydayhealth.com/cancer/guide,h]::2;[https://www.everydayhealth.com/cancer/guide,s]::1;[https://www.everydayhealth.com/cancer/guide,p]::3;
-/tested|[https://discountcode.dailymail.co.uk,h]::1;

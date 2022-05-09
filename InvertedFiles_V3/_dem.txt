@@ -1,5 +1,0 @@
-/demand|[https://www.dailymail.co.uk,h]::2;[https://www.dailymail.co.uk,p]::2;
-/dems|[https://www.dailymail.co.uk,h]::2;[https://www.dailymail.co.uk,p]::1;
-/demolishes|[https://www.dailymail.co.uk,h]::1;
-/demuestra|[https://www.marca.com,p]::1;
-/democrats|[https://www.dailymail.co.uk,p]::1;

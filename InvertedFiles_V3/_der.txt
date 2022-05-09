@@ -1,3 +1,0 @@
-/derbis|[https://www.marca.com,h]::2;
-/derechos|[https://www.marca.com,p]::1;
-/derived|[https://www.everydayhealth.com/cancer/guide,p]::1;

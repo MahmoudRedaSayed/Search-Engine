@@ -1,4 +1,0 @@
-/altitude|[https://www.dailymail.co.uk,h]::1;
-/alternative|[https://www.dailymail.co.uk,p]::1;
-/alterations|[https://www.everydayhealth.com/cancer/guide,p]::1;
-/alternatives|[https://www.healthline.com/nutrition,p]::1;

@@ -1,2 +1,0 @@
-/mundo|[https://www.marca.com,p]::1;
-/munich|[https://stackoverflow.co,p]::1;

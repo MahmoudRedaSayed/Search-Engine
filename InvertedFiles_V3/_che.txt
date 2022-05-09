@@ -1,5 +1,0 @@
-/cheat|[https://www.sciencenewsforstudents.org,h]::1;
-/checklists|[https://stackoverflow.com,p]::1;[https://stackoverflow.co,p]::1;
-/chemistry|[https://nautil.us/about-us,p]::1;[https://www.sciencenewsforstudents.org/topics,h]::1;
-/chemotherapy?|[https://www.everydayhealth.com/cancer/guide,h]::4;[https://www.everydayhealth.com/cancer/guide,s]::1;[https://www.everydayhealth.com/cancer/guide,p]::4;
-/chemical|[https://www.everydayhealth.com/cancer/guide,p]::1;

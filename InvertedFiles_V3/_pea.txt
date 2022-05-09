@@ -1,5 +1,0 @@
-/peasants'|[https://www.dailymail.co.uk,h]::1;
-/peanut|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/peacefully|[https://www.dailymail.co.uk,p]::1;
-/pearl|[https://www.dailymail.co.uk,p]::1;
-/pearce|[https://www.dailymail.co.uk,p]::1;

@@ -1,5 +1,0 @@
-/week|[https://www.sciencenewsforstudents.org,h]::1;[https://www.dailymail.co.uk,h]::2;[https://www.dailymail.co.uk,p]::5;
-/weekly|[https://www.sciencenewsforstudents.org,p]::1;
-/weeds|[https://www.academicinfo.net,p]::1;
-/weeklong|[https://www.everydayhealth.com/cancer/guide,p]::1;
-/weeknbsp|[https://www.everydayhealth.com/cancer/guide,p]::1;

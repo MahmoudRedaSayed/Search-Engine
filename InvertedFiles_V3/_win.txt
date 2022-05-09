@@ -1,4 +1,0 @@
-/wins|[https://www.dailymail.co.uk,h]::2;[https://discountcode.dailymail.co.uk,p]::1;
-/winners|[https://www.dailymail.co.uk,h]::1;
-/wing|[https://jobs.mayoclinic.org,p]::1;
-/windows|[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;

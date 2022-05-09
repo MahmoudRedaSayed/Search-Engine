@@ -1,3 +1,0 @@
-/punto|[https://www.marca.com,h]::1;
-/puntos|[https://www.marca.com,h]::1;
-/punish|[https://www.dailymail.co.uk,p]::1;

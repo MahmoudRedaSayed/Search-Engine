@@ -1,2 +1,0 @@
-/alerts|[https://www.academia.edu,p]::1;[https://jobs.mayoclinic.org,p]::1;
-/alexei|[https://www.dailymail.co.uk,p]::1;

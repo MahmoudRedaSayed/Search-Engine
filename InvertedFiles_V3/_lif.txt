@@ -1,7 +1,0 @@
-/life|[https://www.sciencenewsforstudents.org,h]::5;[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;[https://jobs.mayoclinic.org,h]::1;[https://www.academicinfo.net,h]::1;[https://www.loc.gov,h]::5;[https://nautil.us,p]::1;[https://jobs.mayoclinic.org,p]::1;[https://www.everydayhealth.com/cancer/guide,h]::1;[https://www.healthline.com/nutrition,t]::1;[https://www.everydayhealth.com/cancer/guide,s]::2;[https://www.sciencenewsforstudents.org/topics,h]::5;[https://www.everydayhealth.com/cancer/guide,p]::4;[https://www.sciencenewsforstudents.org/topics,p]::2;[https://www.healthline.com/nutrition,p]::1;
-/lifechanging|[https://jobs.mayoclinic.org,h]::1;[https://jobs.mayoclinic.org,p]::3;[https://www.nemours.org?external_id=RE2350835010600,h]::1;
-/lifetime|[https://www.everydayhealth.com/cancer/guide,p]::1;
-/lifestyle|[https://www.everydayhealth.com/cancer/guide,p]::1;[https://www.healthline.com/nutrition,h]::1;
-/lift|[https://www.nemours.org?external_id=RE2350835010600,p]::1;
-/life”|[https://www.everydayhealth.com/cancer/guide,p]::1;
-/lifethreatening|[https://www.everydayhealth.com/cancer/guide,p]::1;

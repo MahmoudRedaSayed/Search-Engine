@@ -1,9 +1,0 @@
-/climb|[https://www.sciencenewsforstudents.org,h]::2;[https://www.sciencenewsforstudents.org/topics,h]::2;
-/climate|[https://developers.google.com,h]::1;[https://www.sciencenewsforstudents.org,h]::1;[https://www.dailymail.co.uk,p]::1;
-/climatewarming|[https://www.sciencenewsforstudents.org,h]::2;[https://www.sciencenewsforstudents.org/topics,h]::3;
-/climber|[https://www.dailymail.co.uk,h]::1;
-/climbing|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/clicking|[https://stackoverflow.com,p]::1;[https://jobs.mayoclinic.org,p]::1;[https://discountcode.dailymail.co.uk,p]::4;
-/clinic|[https://www.dailymail.co.uk,p]::1;[https://jobs.mayoclinic.org,t]::1;[https://jobs.mayoclinic.org,p]::26;
-/clinical|[https://jobs.mayoclinic.org,p]::2;[https://www.everydayhealth.com/cancer/guide,s]::1;[https://www.nemours.org?external_id=RE2350835010600,p]::2;[https://www.everydayhealth.com/cancer/guide,p]::5;
-/clinic"|[https://jobs.mayoclinic.org,p]::1;

@@ -1,3 +1,0 @@
-/embattled|[https://www.dailymail.co.uk,p]::1;
-/embarked|[https://nautil.us/about-us,p]::1;
-/embraces|[https://jobs.mayoclinic.org,p]::1;

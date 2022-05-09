@@ -1,9 +1,0 @@
-/students|[https://www.sciencenewsforstudents.org,t]::1;[https://www.sciencenewsforstudents.org,h]::3;[https://www.sciencenewsforstudents.org,p]::2;[https://www.dailymail.co.uk,p]::1;[https://www.academicinfo.net,h]::5;[https://www.academicinfo.net,p]::2;[https://jobs.mayoclinic.org,p]::1;[https://www.sciencenewsforstudents.org/topics,t]::1;[https://www.sciencenewsforstudents.org/topics,h]::3;[https://www.sciencenewsforstudents.org/topics,p]::2;
-/study|[https://www.sciencenewsforstudents.org,h]::3;[https://nautil.us,p]::1;[https://nautil.us/about-us,p]::1;[https://www.sciencenewsforstudents.org/topics,h]::3;
-/stuttgart|[https://www.marca.com,h]::1;
-/sturgeon's|[https://www.dailymail.co.uk,h]::1;
-/studies|[https://www.sciencenewsforstudents.org,p]::1;[https://www.sciencenewsforstudents.org/topics,p]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;
-/stunned|[https://www.dailymail.co.uk,p]::1;
-/studio|[https://www.loc.gov,h]::1;
-/stupid|[https://www.everydayhealth.com/cancer/guide,s]::1;[https://www.everydayhealth.com/cancer/guide,p]::2;
-/stupidcancerorg|[https://www.everydayhealth.com/cancer/guide,p]::1;

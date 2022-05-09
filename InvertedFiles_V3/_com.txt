@@ -1,7 +1,0 @@
-/community|[https://www.everydayhealth.com/cancer/guide,p]::2;
-/complicated|[https://www.healthline.com/nutrition,p]::1;
-/comprehensive|[https://www.everydayhealth.com/cancer/guide,p]::1;
-/completely|[https://www.healthline.com/nutrition,p]::1;
-/commonweal|[https://www.everydayhealth.com/cancer/guide,p]::1;[https://www.healthline.com/nutrition,p]::1;
-/commonwealorg|[https://www.everydayhealth.com/cancer/guide,p]::1;
-/composting|[https://www.healthline.com/nutrition,p]::1;

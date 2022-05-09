@@ -1,2 +1,0 @@
-/firmly|[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;
-/firefox|[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;

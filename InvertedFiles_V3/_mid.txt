@@ -1,2 +1,0 @@
-/middle|[https://www.dailymail.co.uk,p]::2;
-/middleton|[https://www.dailymail.co.uk,p]::1;

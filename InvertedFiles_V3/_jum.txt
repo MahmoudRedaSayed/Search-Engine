@@ -1,2 +1,0 @@
-/jumpsuit|[https://www.dailymail.co.uk,h]::1;
-/jumpstart|[https://www.academia.edu,p]::1;

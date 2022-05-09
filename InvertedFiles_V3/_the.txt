@@ -1,8 +1,0 @@
-/therapies|[https://www.sciencenewsforstudents.org,h]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;
-/therapist|[https://www.dailymail.co.uk,p]::2;
-/the |[https://www.dailymail.co.uk,p]::1;
-/theatre|[https://www.dailymail.co.uk,p]::1;
-/therapeutic|[https://nautil.us,p]::1;
-/therapeuticspain|[https://jobs.mayoclinic.org,p]::1;
-/therapy|[https://www.everydayhealth.com/cancer/guide,p]::3;
-/the…|[https://www.healthline.com/nutrition,p]::3;

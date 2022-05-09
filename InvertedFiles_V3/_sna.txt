@@ -1,4 +1,0 @@
-/snap|[https://www.sciencenewsforstudents.org,h]::1;
-/snapping|[https://www.sciencenewsforstudents.org,h]::1;
-/snaps|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/snake|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;

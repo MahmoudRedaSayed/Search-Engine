@@ -1,4 +1,0 @@
-/body|[https://www.dailymail.co.uk,p]::2;[https://www.everydayhealth.com/cancer/guide,h]::1;[https://www.everydayhealth.com/cancer/guide,s]::1;[https://www.everydayhealth.com/cancer/guide,p]::12;[https://discountcode.dailymail.co.uk,p]::1;[https://www.healthline.com/nutrition,p]::1;
-/body—and|[https://www.everydayhealth.com/cancer/guide,h]::1;
-/body?|[https://www.everydayhealth.com/cancer/guide,p]::1;
-/bodys|[https://www.everydayhealth.com/cancer/guide,p]::1;

@@ -1,7 +1,0 @@
-/diario|[https://www.marca.com,t]::1;
-/diakhaby|[https://www.marca.com,h]::1;
-/diagnose|[https://www.everydayhealth.com/cancer/guide,h]::1;
-/diagnosis|[https://www.everydayhealth.com/cancer/guide,h]::2;[https://www.everydayhealth.com/cancer/guide,s]::1;[https://www.everydayhealth.com/cancer/guide,p]::8;
-/diagnosed|[https://www.everydayhealth.com/cancer/guide,p]::5;
-/diagnostic|[https://www.everydayhealth.com/cancer/guide,p]::2;
-/diabetes|[https://www.healthline.com/nutrition,p]::1;

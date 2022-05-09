@@ -1,7 +1,0 @@
-/black|[https://www.dailymail.co.uk,h]::3;[https://www.dailymail.co.uk,p]::1;[https://nautil.us,p]::1;[https://nautil.us/about-us,p]::1;[https://discountcode.dailymail.co.uk,p]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;
-/blackandwhite|[https://www.dailymail.co.uk,h]::1;
-/blackpool|[https://www.dailymail.co.uk,p]::1;
-/blamed|[https://www.dailymail.co.uk,p]::1;
-/blandos|[https://es.familydoctor.org,h]::1;
-/blameless|[https://stackoverflow.co,p]::1;
-/black…|[https://www.healthline.com/nutrition,p]::1;

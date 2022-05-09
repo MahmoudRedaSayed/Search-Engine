@@ -1,4 +1,0 @@
-/roberts|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/robots|[https://www.sciencenewsforstudents.org,h]::1;
-/robust|[https://www.academia.edu,p]::1;
-/robinson|[https://www.loc.gov,h]::1;

@@ -1,3 +1,0 @@
-/coalition|[https://www.dailymail.co.uk,h]::1;[https://www.everydayhealth.com/cancer/guide,s]::2;[https://www.everydayhealth.com/cancer/guide,p]::3;
-/coach|[https://www.everydayhealth.com/cancer/guide,s]::1;[https://discountcode.dailymail.co.uk,p]::1;[https://www.everydayhealth.com/cancer/guide,p]::2;
-/coast|[https://discountcode.dailymail.co.uk,p]::1;

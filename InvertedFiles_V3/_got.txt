@@ -1,2 +1,0 @@
-/gotfryd|[https://www.loc.gov,h]::3;
-/goto|[https://www.everydayhealth.com/cancer/guide,h]::3;[https://www.healthline.com/nutrition,p]::2;

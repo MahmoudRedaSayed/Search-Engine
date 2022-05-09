@@ -1,6 +1,0 @@
-/fran|[https://www.marca.com,h]::1;
-/fragments|[https://www.dailymail.co.uk,p]::1;
-/france's|[https://www.dailymail.co.uk,p]::1;
-/frazzled|[https://www.dailymail.co.uk,p]::1;
-/frances|[https://www.loc.gov,h]::1;
-/francis|[https://www.loc.gov,h]::1;

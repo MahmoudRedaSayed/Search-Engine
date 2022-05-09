@@ -157,22 +157,26 @@ function SearchField(Style){
     return(
         <div>
         <form >
-        {(listening==true)?<div className="row "><input className="form-control me-2"  type="search"  
+        {(listening==true)?<div className="row ">
+        <FontAwesomeIcon icon={faMicrophoneAltSlash}  onClick={cutListen} style={{"font-size":"40px","margin-bottom":"10px"}}/>
+
+                                <input className="form-control me-2"  type="search"  
                                 onKeyDown={submit}
                                 onChange={inc}
                                 value={value} 
                                 placeholder="Search" aria-label="Search" 
                                 style={Style.Style}
                                 />
-                                <FontAwesomeIcon icon={faMicrophoneAltSlash}  onClick={cutListen} style={{"font-size":"30px","marginTop":"10px"}}/></div>
-                                :<div className="row "><input className="form-control me-2 col-md-4 "  type="search"  
+                                </div>
+                                :<div className="row ">
+                                <FontAwesomeIcon  icon={faMicrophoneAlt} onClick={listen} style={{"font-size":"40px","margin-bottom":"10px"}} />
+                                <input className="form-control me-2 col-md-4 "  type="search"  
                                 onKeyDown={submit}
                                 onChange={inc}
                                 value={value} 
                                 placeholder="Search" aria-label="Search" 
                                 style={Style.Style}
                                 />
-                                <FontAwesomeIcon  icon={faMicrophoneAlt} onClick={listen} style={{"font-size":"30px","marginTop":"10px"}} />
                                 </div>
                                 }
                                 </form>

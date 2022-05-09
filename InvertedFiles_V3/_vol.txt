@@ -1,5 +1,0 @@
-/volata|[https://www.marca.com,h]::1;
-/volcán|[https://www.sciencenewsforstudents.org,h]::1;
-/volcanic|[https://www.sciencenewsforstudents.org,h]::1;
-/volunteering|[https://www.nemours.org?external_id=RE2350835010600,h]::1;
-/volunteers|[https://www.everydayhealth.com/cancer/guide,p]::4;

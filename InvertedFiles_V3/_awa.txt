@@ -1,3 +1,0 @@
-/awards|[https://www.dailymail.co.uk,h]::8;[https://www.dailymail.co.uk,p]::6;
-/awardwinning|[https://www.sciencenewsforstudents.org,p]::1;[https://www.sciencenewsforstudents.org/topics,p]::1;
-/awareness|[https://www.everydayhealth.com/cancer/guide,p]::6;

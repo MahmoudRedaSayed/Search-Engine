@@ -1,2 +1,0 @@
-/swipe|[https://www.dailymail.co.uk,p]::1;
-/swing|[https://www.dailymail.co.uk,p]::1;

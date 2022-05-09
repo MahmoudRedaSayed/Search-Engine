@@ -1,2 +1,0 @@
-/pledge|[https://www.everydayhealth.com/cancer/guide,h]::3;
-/plenty|[https://www.healthline.com/nutrition,p]::1;

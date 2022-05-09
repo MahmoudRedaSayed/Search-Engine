@@ -1,5 +1,0 @@
-/masala|[https://www.dailymail.co.uk,h]::1;
-/massachusetts|[https://www.loc.gov,h]::2;[https://www.healthline.com/nutrition,p]::2;
-/mask|[https://www.nemours.org?external_id=RE2350835010600,h]::1;[https://www.nemours.org?external_id=RE2350835010600,p]::1;
-/mask?|[https://www.nemours.org?external_id=RE2350835010600,h]::1;
-/massage|[https://www.everydayhealth.com/cancer/guide,p]::1;

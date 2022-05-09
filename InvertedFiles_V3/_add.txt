@@ -1,6 +1,0 @@
-/address|[https://www.dailymail.co.uk,h]::1;[https://jobs.mayoclinic.org,p]::1;[https://discountcode.dailymail.co.uk,p]::1;[https://www.healthline.com/nutrition,p]::1;
-/additional|[https://stackoverflow.com,h]::1;[https://jobs.mayoclinic.org,p]::1;[https://accounts.accessibe.com/statement/?domain=academicinfo.net,h]::1;[https://ask.loc.gov,p]::1;[https://accounts.accessibe.com/statement/?domain=academicinfo.net,s]::1;[https://www.healthline.com/nutrition,p]::1;
-/addthis|[https://www.addthis.com/bookmark.php?v=250,t]::1;
-/additionally|[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;
-/adding|[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;[https://discountcode.dailymail.co.uk,p]::1;[https://www.sciencenewsforstudents.org/topics,p]::1;
-/addresses|[https://www.nemours.org?external_id=RE2350835010600,p]::1;

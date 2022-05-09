@@ -1,5 +1,0 @@
-/sheets|[https://w3schools.com,h]::1;[https://www.sciencenewsforstudents.org,h]::1;
-/shelter|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/shedevil|[https://www.dailymail.co.uk,p]::1;
-/shelters|[https://www.dailymail.co.uk,p]::1;
-/sheep|[https://www.loc.gov,h]::1;

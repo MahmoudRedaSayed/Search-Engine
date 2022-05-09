@@ -1,2 +1,0 @@
-/cognitive|[https://accounts.accessibe.com/statement/?domain=academicinfo.net,s]::1;[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;
-/cognitive disorders|[https://accounts.accessibe.com/statement/?domain=academicinfo.net,s]::1;

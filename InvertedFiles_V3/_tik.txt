@@ -1,2 +1,0 @@
-/tikka|[https://www.dailymail.co.uk,h]::1;
-/tiktok|[https://www.dailymail.co.uk,p]::1;

@@ -1,4 +1,0 @@
-/mutua|[https://www.marca.com,h]::1;
-/mutual|[https://jobs.mayoclinic.org,p]::1;
-/muting |[https://accounts.accessibe.com/statement/?domain=academicinfo.net,s]::1;
-/mutations”|[https://www.everydayhealth.com/cancer/guide,p]::8;

@@ -1,4 +1,0 @@
-/legendary|[https://www.dailymail.co.uk,p]::1;
-/legal|[https://www.dailymail.co.uk,p]::1;[https://www.nemours.org?external_id=RE2350835010600,h]::1;
-/legs|[https://www.dailymail.co.uk,p]::1;
-/legacy|[https://jobs.mayoclinic.org,p]::2;

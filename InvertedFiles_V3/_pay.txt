@@ -1,2 +1,0 @@
-/pays|[https://www.dailymail.co.uk,h]::1;[https://discountcode.dailymail.co.uk,p]::1;
-/paying|[https://www.academicinfo.net,h]::1;

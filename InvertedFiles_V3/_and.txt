@@ -1,4 +1,0 @@
-/anderson|[https://www.dailymail.co.uk,p]::1;
-/andor|[https://www.addthis.com/bookmark.php?v=250,p]::2;[https://ask.loc.gov,p]::1;
-/andra|[https://www.loc.gov,p]::1;
-/andy|[https://www.healthline.com/nutrition,p]::1;

@@ -1,4 +1,0 @@
-/nuria|[https://www.marca.com,h]::1;
-/nurse|[https://jobs.mayoclinic.org,h]::1;[https://jobs.mayoclinic.org,p]::4;
-/nurture|[https://stackoverflow.co,p]::1;
-/nurses|[https://www.nemours.org?external_id=RE2350835010600,p]::1;

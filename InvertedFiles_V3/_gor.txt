@@ -1,2 +1,0 @@
-/gorgeous|[https://www.dailymail.co.uk,p]::1;[https://www.loc.gov,p]::1;
-/gordon|[https://www.loc.gov,h]::3;

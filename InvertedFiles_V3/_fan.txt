@@ -1,2 +1,0 @@
-/fantasy|[https://fantasy.filgoal.com,t]::1;
-/fannie|[https://www.loc.gov,h]::1;

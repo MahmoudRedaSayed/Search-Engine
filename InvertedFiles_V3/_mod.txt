@@ -1,3 +1,0 @@
-/mod|[https://www.dailymail.co.uk,h]::1;
-/modernise|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/modalities|[https://www.healthline.com/nutrition,p]::1;

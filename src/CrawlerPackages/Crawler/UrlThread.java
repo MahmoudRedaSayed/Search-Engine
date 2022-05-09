@@ -557,7 +557,7 @@ public class UrlThread implements  Runnable {
 
                                     forbidden=DisallowedCheck(Disallowed,Allowed,link.attr("href"));
 
-                                    if (getLimit() < 5000 && result != "-1"&&!forbidden) {
+                                    if (getLimit() < 1000 && result != "-1"&&!forbidden) {
                                         try {
                                             //-----------------------------------------------------------------------------------------------------------------//
                                             // this part to check if the link is inserted by another thread or not
@@ -587,7 +587,7 @@ public class UrlThread implements  Runnable {
 
                                         }
 
-                                    } else if (getLimit() >= 5000) {
+                                    } else if (getLimit() >= 1000) {
                                         // query to set the layer and the index to 0 setThread Position
                                         DataBaseObject.setThreadPosition(Thread.currentThread().getName(), -1, 0);
                                         Thread.currentThread().interrupt();
@@ -673,7 +673,7 @@ public class UrlThread implements  Runnable {
 
                                     forbidden=DisallowedCheck(Disallowed,Allowed,link.attr("href"));
 
-                                    if (getLimit() < 5000 && result != "-1"&&!forbidden) {
+                                    if (getLimit() < 1000 && result != "-1"&&!forbidden) {
                                         try {
                                             //-----------------------------------------------------------------------------------------------------------------//
                                             // this part to check if the link is inserted by another thread or not
@@ -703,7 +703,7 @@ public class UrlThread implements  Runnable {
 
                                         }
 
-                                    } else if (getLimit() >= 5000) {
+                                    } else if (getLimit() >= 1000) {
                                         // query to set the layer and the index to 0 setThread Position
                                         DataBaseObject.setThreadPosition(Thread.currentThread().getName(), -1, 0);
                                         Thread.currentThread().interrupt();
@@ -786,7 +786,7 @@ public class UrlThread implements  Runnable {
 
                                     forbidden=DisallowedCheck(Disallowed,Allowed,link.attr("href"));
 
-                                    if (getLimit() < 5000 && result != "-1"&&!forbidden) {
+                                    if (getLimit() < 1000 && result != "-1"&&!forbidden) {
                                         try {
                                             //-----------------------------------------------------------------------------------------------------------------//
                                             // this part to check if the link is inserted by another thread or not
@@ -816,7 +816,7 @@ public class UrlThread implements  Runnable {
 
                                         }
 
-                                    } else if (getLimit() >= 5000) {
+                                    } else if (getLimit() >= 1000) {
                                         // query to set the layer and the index to 0 setThread Position
                                         DataBaseObject.setThreadPosition(Thread.currentThread().getName(), -1, 0);
                                         Thread.currentThread().interrupt();
@@ -900,7 +900,7 @@ public class UrlThread implements  Runnable {
 
                                     forbidden=DisallowedCheck(Disallowed,Allowed,link.attr("href"));
 
-                                    if (getLimit() < 5000 && result != "-1"&&!forbidden) {
+                                    if (getLimit() < 1000 && result != "-1"&&!forbidden) {
                                         try {
                                             //-----------------------------------------------------------------------------------------------------------------//
                                             // this part to check if the link is inserted by another thread or not
@@ -930,7 +930,7 @@ public class UrlThread implements  Runnable {
 
                                         }
 
-                                    } else if (getLimit() >= 5000) {
+                                    } else if (getLimit() >= 1000) {
                                         // query to set the layer and the index to 0 setThread Position
                                         DataBaseObject.setThreadPosition(Thread.currentThread().getName(), -1, 0);
                                         Thread.currentThread().interrupt();

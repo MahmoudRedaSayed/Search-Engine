@@ -1,5 +1,0 @@
-/hour'|[https://www.dailymail.co.uk,h]::2;[https://www.dailymail.co.uk,p]::1;
-/houses|[https://www.dailymail.co.uk,h]::2;[https://www.dailymail.co.uk,p]::3;
-/hours'|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;[https://www.loc.gov,h]::1;
-/housefacilities|[https://jobs.mayoclinic.org,p]::1;
-/housing|[https://www.nemours.org?external_id=RE2350835010600,p]::1;

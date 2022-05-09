@@ -1,2 +1,0 @@
-/reid|[https://www.dailymail.co.uk,h]::2;
-/reign|[https://www.dailymail.co.uk,h]::1;

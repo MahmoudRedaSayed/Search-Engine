@@ -1,1 +1,0 @@
-/roles|[https://www.dailymail.co.uk,h]::2;[https://www.dailymail.co.uk,p]::2;[https://jobs.mayoclinic.org,p]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;[https://www.healthline.com/nutrition,p]::1;

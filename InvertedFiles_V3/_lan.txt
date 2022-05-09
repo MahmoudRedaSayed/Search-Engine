@@ -1,6 +1,0 @@
-/lanzado|[https://www.marca.com,h]::1;
-/land|[https://www.dailymail.co.uk,h]::2;[https://www.dailymail.co.uk,p]::3;
-/language|[https://w3schools.com,p]::5;[https://nautil.us,p]::1;
-/landscape|[https://www.dailymail.co.uk,p]::1;
-/lange|[https://www.loc.gov,h]::1;
-/languages|[https://ask.loc.gov,h]::1;

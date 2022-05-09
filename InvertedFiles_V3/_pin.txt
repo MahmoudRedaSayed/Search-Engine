@@ -1,5 +1,0 @@
-/pine|[https://w3schools.com,h]::1;
-/pineapple|[https://www.dailymail.co.uk,h]::1;
-/pings|[https://stackoverflow.com,p]::1;
-/pink|[https://www.dailymail.co.uk,p]::1;
-/pinching|[https://discountcode.dailymail.co.uk,p]::1;

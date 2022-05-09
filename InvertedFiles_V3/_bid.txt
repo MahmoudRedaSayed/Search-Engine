@@ -1,3 +1,0 @@
-/biden|[https://www.dailymail.co.uk,h]::3;[https://www.dailymail.co.uk,p]::1;[https://www.everydayhealth.com/cancer/guide,h]::3;
-/bidding|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/biden visited|[https://www.dailymail.co.uk,p]::1;

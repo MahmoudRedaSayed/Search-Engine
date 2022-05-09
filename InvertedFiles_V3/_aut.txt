@@ -1,4 +1,0 @@
-/authorities|[https://www.dailymail.co.uk,p]::1;
-/authorization|[https://jobs.mayoclinic.org,p]::1;
-/authentically|[https://stackoverflow.co,p]::1;
-/automatically|[https://discountcode.dailymail.co.uk,p]::1;

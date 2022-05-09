@@ -1,6 +1,0 @@
-/seas|[https://www.sciencenewsforstudents.org,h]::1;[https://www.sciencenewsforstudents.org/topics,h]::2;
-/seats|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/season|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::2;
-/search|[https://www.academia.edu,p]::2;[https://stackoverflow.com,p]::3;[https://www.academicinfo.net,h]::1;[https://jobs.mayoclinic.org,h]::2;[https://www.academicinfo.net,p]::1;[https://jobs.mayoclinic.org,p]::1;[https://www.nemours.org?external_id=RE2350835010600,h]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;
-/searches|[https://www.loc.gov,h]::1;[https://www.nemours.org?external_id=RE2350835010600,h]::1;
-/seasonal|[https://discountcode.dailymail.co.uk,h]::1;[https://discountcode.dailymail.co.uk,p]::2;

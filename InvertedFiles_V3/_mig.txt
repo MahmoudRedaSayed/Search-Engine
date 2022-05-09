@@ -1,2 +1,0 @@
-/migration|[https://www.sciencenewsforstudents.org,h]::1;
-/migraine|[https://www.healthline.com/nutrition,p]::1;

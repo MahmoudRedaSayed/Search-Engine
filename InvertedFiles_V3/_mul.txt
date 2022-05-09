@@ -1,6 +1,0 @@
-/multimillionpound|[https://www.dailymail.co.uk,p]::1;
-/multidisciplinary|[https://www.dailymail.co.uk,p]::1;
-/multiple myelomas|[https://www.everydayhealth.com/cancer/guide,s]::1;
-/multiple myelomas multiple myeloma is|[https://www.everydayhealth.com/cancer/guide,p]::1;
-/multimix|[https://www.healthline.com/nutrition,p]::1;
-/multicultural|[https://www.healthline.com/nutrition,p]::1;

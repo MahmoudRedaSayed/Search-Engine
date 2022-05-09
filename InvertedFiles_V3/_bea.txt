@@ -1,5 +1,0 @@
-/beat|[https://www.dailymail.co.uk,h]::1;
-/beaches|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;[https://www.loc.gov,h]::1;
-/bearded|[https://www.loc.gov,h]::1;
-/beauty|[https://www.everydayhealth.com/cancer/guide,h]::1;
-/beating|[https://www.everydayhealth.com/cancer/guide,p]::1;

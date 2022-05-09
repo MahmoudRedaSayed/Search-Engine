@@ -1,8 +1,0 @@
-/chollos|[https://www.marca.com,h]::1;
-/choi|[https://www.loc.gov,h]::1;
-/choice|[https://nautil.us,p]::1;
-/choose|[https://www.everydayhealth.com/cancer/guide,s]::1;[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;[https://www.everydayhealth.com/cancer/guide,p]::2;[https://www.healthline.com/nutrition,p]::1;
-/chosen|[https://discountcode.dailymail.co.uk,p]::1;
-/choosehopecom|[https://www.everydayhealth.com/cancer/guide,p]::1;
-/choices|[https://www.healthline.com/nutrition,p]::1;
-/choosing|[https://www.healthline.com/nutrition,p]::1;

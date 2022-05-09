@@ -1,2 +1,0 @@
-/knowledge?|[https://stackoverflow.com,h]::3;[https://stackoverflow.com,p]::8;[https://stackoverflow.co,t]::1;[https://stackoverflow.co,h]::1;[https://stackoverflow.co,p]::4;
-/knowing|[https://www.everydayhealth.com/cancer/guide,p]::2;

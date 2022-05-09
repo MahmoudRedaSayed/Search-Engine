@@ -1,3 +1,0 @@
-/squad|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/squat|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/squamous cell|[https://www.everydayhealth.com/cancer/guide,s]::1;

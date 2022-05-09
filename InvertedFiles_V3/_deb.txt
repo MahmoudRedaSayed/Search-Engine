@@ -1,3 +1,0 @@
-/debut|[https://www.dailymail.co.uk,h]::1;
-/debe|[https://www.marca.com,h]::1;
-/debenhams|[https://discountcode.dailymail.co.uk,p]::1;

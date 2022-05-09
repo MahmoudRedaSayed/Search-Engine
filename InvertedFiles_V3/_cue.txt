@@ -1,2 +1,0 @@
-/cuentas|[https://www.marca.com,h]::1;
-/cuerpo|[https://www.sciencenewsforstudents.org,h]::1;

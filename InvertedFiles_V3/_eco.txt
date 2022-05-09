@@ -1,3 +1,0 @@
-/ecosystem|[https://nautil.us,p]::1;
-/ecosystems|[https://nautil.us,p]::1;
-/ecofriendly|[https://www.healthline.com/nutrition,p]::1;

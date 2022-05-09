@@ -1,3 +1,0 @@
-/mercedes|[https://www.marca.com,h]::1;
-/mercury|[https://www.dailymail.co.uk,h]::1;
-/merchandise|[https://www.everydayhealth.com/cancer/guide,p]::1;

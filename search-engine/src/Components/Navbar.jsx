@@ -10,7 +10,7 @@ function Navbar (show){
             <div>
                 <nav className="navbar navbar-light bg-light">
                     <div className="container-fluid">
-                        <a className="navbar-brand" style={{"font-size":"2rem" , "color":"#198754"}} href="/K3M">K3M</a>
+                        <a className="navbar-brand" style={{"font-size":"2rem" , "color":" rgb(11 149 212)", "font-family": "cursive"}} href="/K3M">K<i style={{"color":"#c7c2c2"}}>3</i>M</a>
                     </div>
                 </nav>
             </div>

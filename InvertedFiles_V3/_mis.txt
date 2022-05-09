@@ -1,7 +1,0 @@
-/missiles |[https://www.dailymail.co.uk,h]::2;
-/mission|[https://www.dailymail.co.uk,h]::1;[https://stackoverflow.com,p]::1;[https://www.dailymail.co.uk,p]::1;[https://www.academicinfo.net,h]::1;[https://www.academicinfo.net,p]::1;[https://jobs.mayoclinic.org,p]::1;[https://www.everydayhealth.com/cancer/guide,p]::2;
-/misinformation|[https://stackoverflow.com,p]::1;
-/mission'|[https://www.dailymail.co.uk,p]::1;
-/missionary|[https://www.loc.gov,h]::1;
-/missing|[https://www.academicinfo.net,p]::1;
-/missed|[https://www.everydayhealth.com/cancer/guide,h]::1;

@@ -1,2 +1,0 @@
-/archewell|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/archie|[https://www.dailymail.co.uk,h]::1;

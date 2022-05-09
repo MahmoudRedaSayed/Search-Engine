@@ -1,2 +1,0 @@
-/westminster|[https://www.dailymail.co.uk,h]::1;
-/western|[https://www.healthline.com/nutrition,p]::1;

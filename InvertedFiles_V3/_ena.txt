@@ -1,2 +1,0 @@
-/enabled|[https://stackoverflow.com,p]::1;[https://cancer.osu.edu,p]::1;
-/enables|[https://jobs.mayoclinic.org,p]::1;

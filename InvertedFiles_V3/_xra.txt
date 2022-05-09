@@ -1,2 +1,0 @@
-/xray|[https://www.loc.gov,h]::2;
-/xrays|[https://www.everydayhealth.com/cancer/guide,p]::1;

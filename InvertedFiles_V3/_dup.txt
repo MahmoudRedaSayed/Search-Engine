@@ -1,2 +1,0 @@
-/dup|[https://www.dailymail.co.uk,h]::1;
-/duplicates|[https://www.everydayhealth.com/cancer/guide,p]::1;

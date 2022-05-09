@@ -1,8 +1,0 @@
-/announces|[https://www.dailymail.co.uk,h]::1;[https://www.loc.gov,h]::1;
-/anniversary|[https://www.dailymail.co.uk,h]::2;[https://www.dailymail.co.uk,p]::2;
-/announcing|[https://www.dailymail.co.uk,h]::1;
-/announced|[https://www.dailymail.co.uk,p]::4;
-/announcement|[https://www.dailymail.co.uk,p]::2;
-/annette|[https://www.loc.gov,h]::1;
-/annual|[https://www.everydayhealth.com/cancer/guide,h]::1;[https://www.everydayhealth.com/cancer/guide,s]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;
-/annually|[https://www.everydayhealth.com/cancer/guide,p]::1;

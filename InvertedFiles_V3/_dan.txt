@@ -1,2 +1,0 @@
-/daniel|[https://www.dailymail.co.uk,p]::1;
-/dangerous|[https://www.everydayhealth.com/cancer/guide,p]::1;

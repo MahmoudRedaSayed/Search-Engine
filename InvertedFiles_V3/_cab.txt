@@ -1,2 +1,0 @@
-/cabin|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/cabot|[https://nautil.us/about-us,p]::1;

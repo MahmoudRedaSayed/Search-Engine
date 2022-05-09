@@ -1,5 +1,0 @@
-/bats|[https://www.sciencenewsforstudents.org,h]::2;[https://www.sciencenewsforstudents.org/topics,h]::2;
-/battles|[https://www.dailymail.co.uk,h]::2;[https://www.everydayhealth.com/cancer/guide,p]::1;
-/bataclan|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/battered|[https://www.dailymail.co.uk,p]::1;
-/battling|[https://www.everydayhealth.com/cancer/guide,p]::1;

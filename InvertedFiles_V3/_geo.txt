@@ -1,4 +1,0 @@
-/geordie|[https://www.dailymail.co.uk,p]::1;
-/georgia|[https://www.loc.gov,h]::1;
-/george|[https://www.loc.gov,h]::1;
-/geology|[https://nautil.us/about-us,p]::1;

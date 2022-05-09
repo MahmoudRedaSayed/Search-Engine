@@ -1,3 +1,0 @@
-/emergency|[https://www.sciencenewsforstudents.org,h]::1;
-/emerald|[https://www.dailymail.co.uk,p]::1;
-/emeritus|[https://nautil.us/about-us,p]::2;

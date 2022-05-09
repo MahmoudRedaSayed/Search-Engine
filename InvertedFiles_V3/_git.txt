@@ -1,2 +1,0 @@
-/git|[https://w3schools.com,h]::1;
-/github|[https://stackoverflow.com,p]::1;

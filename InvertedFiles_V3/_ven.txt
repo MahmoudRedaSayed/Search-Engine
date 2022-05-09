@@ -1,2 +1,0 @@
-/venture|[https://nautil.us/about-us,p]::2;
-/ventures|[https://nautil.us/about-us,p]::1;

@@ -1,2 +1,0 @@
-/pierced|[https://www.dailymail.co.uk,p]::1;
-/pieced|[https://www.loc.gov,h]::1;

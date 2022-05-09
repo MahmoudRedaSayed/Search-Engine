@@ -1,2 +1,0 @@
-/adhd|[https://accounts.accessibe.com/statement/?domain=academicinfo.net,s]::1;
-/adhere|[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;

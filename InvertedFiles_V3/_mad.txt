@@ -1,3 +1,0 @@
-/madrid|[https://www.marca.com,h]::3;
-/madre|[https://www.marca.com,h]::1;
-/madin|[https://www.academicinfo.net,p]::1;

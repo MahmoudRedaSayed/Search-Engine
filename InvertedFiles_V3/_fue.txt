@@ -1,4 +1,0 @@
-/fueron|[https://www.marca.com,h]::1;
-/fuerza|[https://www.marca.com,p]::1;
-/fuels|[https://www.dailymail.co.uk,p]::1;
-/fueled|[https://jobs.mayoclinic.org,p]::1;

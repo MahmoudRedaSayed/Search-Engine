@@ -1,2 +1,0 @@
-/les|[https://www.marca.com,h]::1;
-/lesson|[https://www.loc.gov,h]::1;

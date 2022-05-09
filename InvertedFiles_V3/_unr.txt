@@ -1,3 +1,0 @@
-/unrest|[https://www.dailymail.co.uk,p]::1;
-/unrivaled|[https://jobs.mayoclinic.org,h]::1;
-/unrelated|[https://www.everydayhealth.com/cancer/guide,p]::1;

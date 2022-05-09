@@ -1,2 +1,0 @@
-/session|[https://www.dailymail.co.uk,p]::2;
-/sessions|[https://www.everydayhealth.com/cancer/guide,p]::1;

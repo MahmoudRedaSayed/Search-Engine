@@ -1,7 +1,0 @@
-/reduce|[https://www.sciencenewsforstudents.org,h]::3;[https://www.dailymail.co.uk,h]::3;[https://stackoverflow.com,p]::1;[https://www.dailymail.co.uk,p]::4;[https://www.loc.gov,h]::1;[https://www.sciencenewsforstudents.org/topics,h]::2;[https://www.healthline.com/nutrition,p]::2;[https://www.everydayhealth.com/cancer/guide,p]::1;
-/redes|[https://www.marca.com,h]::1;
-/redman|[https://www.dailymail.co.uk,p]::1;
-/reduction|[https://www.dailymail.co.uk,p]::1;
-/redefining|[https://www.nemours.org?external_id=RE2350835010600,p]::1;
-/redeem|[https://discountcode.dailymail.co.uk,p]::1;
-/redeeming|[https://discountcode.dailymail.co.uk,p]::1;

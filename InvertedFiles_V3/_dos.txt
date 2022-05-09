@@ -1,2 +1,0 @@
-/dos|[https://www.marca.com,h]::1;
-/dose|[https://jobs.mayoclinic.org,p]::2;

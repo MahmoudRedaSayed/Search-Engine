@@ -1,2 +1,0 @@
-/van|[https://www.marca.com,h]::2;
-/vanessa|[https://www.healthline.com/nutrition,p]::1;

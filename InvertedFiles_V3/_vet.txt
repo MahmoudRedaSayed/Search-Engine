@@ -1,2 +1,0 @@
-/veteran|[https://www.dailymail.co.uk,p]::1;[https://www.loc.gov,h]::1;[https://jobs.mayoclinic.org,p]::1;
-/veterans|[https://www.loc.gov,p]::1;

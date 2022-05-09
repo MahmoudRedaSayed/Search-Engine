@@ -1,2 +1,0 @@
-/lights|[https://www.sciencenewsforstudents.org,h]::1;[https://www.dailymail.co.uk,p]::1;[https://www.sciencenewsforstudents.org/topics,h]::2;
-/ligaments|[https://www.everydayhealth.com/cancer/guide,p]::1;

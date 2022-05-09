@@ -1,2 +1,0 @@
-/getafe|[https://www.marca.com,h]::1;
-/gettysburg|[https://www.loc.gov,h]::1;

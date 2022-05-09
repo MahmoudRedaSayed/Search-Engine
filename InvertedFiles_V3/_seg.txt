@@ -1,2 +1,0 @@
-/segunda|[https://www.marca.com,h]::1;
-/segundo|[https://www.marca.com,h]::2;

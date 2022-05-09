@@ -1,2 +1,0 @@
-/wounded'|[https://www.dailymail.co.uk,p]::1;
-/wounds|[https://www.loc.gov,h]::1;

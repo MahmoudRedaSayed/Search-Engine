@@ -1,2 +1,0 @@
-/names|[https://www.dailymail.co.uk,h]::1;[https://www.addthis.com/bookmark.php?v=250,p]::1;
-/named|[https://www.dailymail.co.uk,p]::2;[https://www.everydayhealth.com/cancer/guide,p]::1;

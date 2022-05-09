@@ -1,8 +1,0 @@
-/met|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/metal|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;[https://stackoverflow.co,p]::1;
-/mets|[https://www.loc.gov,h]::1;
-/method|[https://nautil.us,p]::1;
-/metastasis|[https://www.everydayhealth.com/cancer/guide,h]::1;[https://www.everydayhealth.com/cancer/guide,s]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;
-/metastatic|[https://www.everydayhealth.com/cancer/guide,s]::1;[https://www.everydayhealth.com/cancer/guide,p]::3;
-/metastasize|[https://www.everydayhealth.com/cancer/guide,p]::1;
-/metro|[https://discountcode.dailymail.co.uk,p]::1;

@@ -1,6 +1,0 @@
-/oncologysecurityorthopedicstransplantgeneral|[https://jobs.mayoclinic.org,p]::1;[https://www.everydayhealth.com/cancer/guide,s]::2;[https://www.everydayhealth.com/cancer/guide,p]::4;
-/oncologyoncologyophthalmologyinternationalsocial|[https://jobs.mayoclinic.org,p]::1;
-/oncolink|[https://www.everydayhealth.com/cancer/guide,s]::1;[https://www.everydayhealth.com/cancer/guide,p]::2;
-/oncologist|[https://www.everydayhealth.com/cancer/guide,p]::1;
-/oncologists|[https://www.everydayhealth.com/cancer/guide,p]::1;
-/oncolinkorg|[https://www.everydayhealth.com/cancer/guide,p]::1;

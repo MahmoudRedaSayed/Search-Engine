@@ -1,2 +1,0 @@
-/launch|[https://www.dailymail.co.uk,p]::1;
-/launched|[https://www.academicinfo.net,p]::1;

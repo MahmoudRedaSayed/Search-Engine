@@ -1,2 +1,0 @@
-/shipping|[https://stackoverflow.com,p]::1;
-/shinsundo|[https://www.loc.gov,h]::1;

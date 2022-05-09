@@ -1,6 +1,0 @@
-/dive|[https://www.academicinfo.net,p]::1;
-/diversity|[https://jobs.mayoclinic.org,p]::1;
-/diverse|[https://stackoverflow.co,p]::1;[https://www.healthline.com/nutrition,p]::1;
-/divide|[https://www.everydayhealth.com/cancer/guide,p]::1;
-/dividing|[https://www.everydayhealth.com/cancer/guide,p]::1;
-/divided|[https://www.everydayhealth.com/cancer/guide,p]::2;

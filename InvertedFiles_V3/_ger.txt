@@ -1,3 +1,0 @@
-/germany|[https://www.dailymail.co.uk,h]::2;[https://www.dailymail.co.uk,p]::1;[https://www.everydayhealth.com/cancer/guide,s]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;
-/gershwin|[https://www.loc.gov,h]::1;[https://www.loc.gov,s]::1;
-/germeshausen|[https://nautil.us/about-us,p]::1;

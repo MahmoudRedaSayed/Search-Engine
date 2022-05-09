@@ -1,2 +1,0 @@
-/text|[https://www.academia.edu,p]::1;
-/texas|[https://www.loc.gov,h]::1;

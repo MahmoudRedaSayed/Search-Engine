@@ -1,3 +1,0 @@
-/bold|[https://www.sciencenewsforstudents.org,h]::1;
-/bolam|[https://www.dailymail.co.uk,p]::1;
-/boldly|[https://www.nemours.org?external_id=RE2350835010600,h]::1;

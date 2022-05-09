@@ -1,6 +1,0 @@
-/barcelona|[https://www.marca.com,h]::1;
-/baritt|[https://www.dailymail.co.uk,p]::1;
-/bardstown|[https://www.loc.gov,h]::1;
-/barriers|[https://jobs.mayoclinic.org,p]::1;
-/bargain|[https://discountcode.dailymail.co.uk,p]::2;
-/baraghani|[https://www.healthline.com/nutrition,p]::1;

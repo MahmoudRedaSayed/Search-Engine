@@ -1,8 +1,0 @@
-/blood|[https://www.sciencenewsforstudents.org,h]::2;[https://www.everydayhealth.com/cancer/guide,h]::1;[https://www.sciencenewsforstudents.org/topics,h]::2;[https://www.everydayhealth.com/cancer/guide,p]::7;[https://www.healthline.com/nutrition,p]::1;
-/blow|[https://www.dailymail.co.uk,h]::2;[https://www.dailymail.co.uk,p]::3;
-/blouse|[https://www.dailymail.co.uk,h]::1;
-/bloodbath|[https://www.dailymail.co.uk,p]::1;
-/bloody|[https://www.dailymail.co.uk,p]::2;
-/blogs|[https://www.everydayhealth.com/cancer/guide,h]::1;[https://www.everydayhealth.com/cancer/guide,s]::3;[https://www.everydayhealth.com/cancer/guide,p]::8;
-/bloodforming|[https://www.everydayhealth.com/cancer/guide,p]::1;
-/blogforacurecom|[https://www.everydayhealth.com/cancer/guide,p]::1;

@@ -1,6 +1,0 @@
-/han|[https://www.marca.com,h]::1;[https://www.sciencenewsforstudents.org,p]::1;
-/handbag|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/handful|[https://www.sciencenewsforstudents.org,p]::1;[https://www.sciencenewsforstudents.org/topics,p]::2;
-/hands|[https://www.dailymail.co.uk,p]::1;
-/handblown|[https://www.dailymail.co.uk,p]::1;
-/handtested|[https://discountcode.dailymail.co.uk,h]::1;

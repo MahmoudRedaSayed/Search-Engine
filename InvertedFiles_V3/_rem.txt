@@ -1,6 +1,0 @@
-/removes|[https://www.dailymail.co.uk,h]::1;
-/remontadas|[https://www.marca.com,h]::1;
-/remedies|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/remotefirst|[https://stackoverflow.com,p]::1;[https://jobs.mayoclinic.org,h]::1;[https://jobs.mayoclinic.org,p]::1;[https://stackoverflow.co,p]::2;
-/remain|[https://www.dailymail.co.uk,p]::1;
-/remediates|[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;

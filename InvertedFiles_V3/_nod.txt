@@ -1,2 +1,0 @@
-/nodejs|[https://w3schools.com,h]::1;
-/nodding|[https://www.sciencenewsforstudents.org,h]::1;

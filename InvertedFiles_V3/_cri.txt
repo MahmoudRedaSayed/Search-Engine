@@ -1,4 +1,0 @@
-/crisis|[https://www.dailymail.co.uk,h]::1;
-/crime'|[https://www.dailymail.co.uk,h]::1;
-/critic|[https://www.dailymail.co.uk,p]::1;
-/critical|[https://jobs.mayoclinic.org,p]::1;

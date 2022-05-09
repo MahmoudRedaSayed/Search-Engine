@@ -1,4 +1,0 @@
-/affordable|[https://www.dailymail.co.uk,p]::1;
-/affiliates|[https://www.addthis.com/bookmark.php?v=250,p]::2;
-/affairscenter|[https://jobs.mayoclinic.org,p]::1;
-/affect|[https://www.everydayhealth.com/cancer/guide,p]::1;

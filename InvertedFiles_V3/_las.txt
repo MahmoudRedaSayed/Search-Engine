@@ -1,2 +1,0 @@
-/las|[https://www.marca.com,h]::4;
-/lash|[https://www.dailymail.co.uk,h]::1;

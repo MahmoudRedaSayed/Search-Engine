@@ -1,2 +1,0 @@
-/takes|[https://www.sciencenewsforstudents.org,p]::1;[https://jobs.mayoclinic.org,p]::2;[https://www.sciencenewsforstudents.org/topics,p]::2;
-/takeaway|[https://www.dailymail.co.uk,p]::1;[https://discountcode.dailymail.co.uk,h]::1;

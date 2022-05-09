@@ -1,2 +1,0 @@
-/gillian|[https://www.dailymail.co.uk,p]::1;
-/gillihan|[https://www.academicinfo.net,h]::1;

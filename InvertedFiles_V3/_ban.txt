@@ -1,7 +1,0 @@
-/ban|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/banishing|[https://www.dailymail.co.uk,h]::1;
-/bankrupt'|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/banning|[https://www.dailymail.co.uk,p]::1;
-/band|[https://www.dailymail.co.uk,p]::1;
-/bang|[https://nautil.us,h]::1;
-/banks|[https://www.loc.gov,h]::1;

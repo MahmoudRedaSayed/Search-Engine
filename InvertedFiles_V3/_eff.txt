@@ -1,8 +1,0 @@
-/effortlessly|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/efficient|[https://stackoverflow.com,p]::1;
-/effiong|[https://www.dailymail.co.uk,p]::1;
-/effects|[https://www.everydayhealth.com/cancer/guide,s]::1;[https://www.everydayhealth.com/cancer/guide,p]::3;
-/effectively|[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;[https://www.healthline.com/nutrition,p]::1;
-/efforts|[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;
-/efficiency|[https://www.everydayhealth.com/cancer/guide,p]::1;
-/efficacy|[https://www.everydayhealth.com/cancer/guide,p]::1;

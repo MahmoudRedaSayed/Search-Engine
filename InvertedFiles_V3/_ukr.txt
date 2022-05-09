@@ -1,3 +1,0 @@
-/ukraine|[https://www.dailymail.co.uk,h]::9;[https://www.dailymail.co.uk,p]::9;
-/ukrainian|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::5;
-/ukraine |[https://www.dailymail.co.uk,h]::2;

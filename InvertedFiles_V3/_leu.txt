@@ -1,2 +1,0 @@
-/leukemias|[https://www.everydayhealth.com/cancer/guide,s]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;
-/leukemias cancers|[https://www.everydayhealth.com/cancer/guide,p]::1;

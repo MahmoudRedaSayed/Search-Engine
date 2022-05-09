@@ -1,4 +1,0 @@
-/hong|[https://www.dailymail.co.uk,h]::1;
-/honestly|[https://stackoverflow.co,p]::1;
-/honor|[https://www.everydayhealth.com/cancer/guide,p]::1;
-/honoring|[https://www.healthline.com/nutrition,p]::1;

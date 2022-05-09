@@ -1,1 +1,0 @@
-/magazine|[https://www.sciencenewsforstudents.org,p]::1;[https://nautil.us,p]::1;[https://nautil.us/about-us,p]::1;[https://www.sciencenewsforstudents.org/topics,p]::1;

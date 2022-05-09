@@ -1,5 +1,0 @@
-/easyjet|[https://www.dailymail.co.uk,h]::1;[https://stackoverflow.com,p]::1;[https://www.dailymail.co.uk,p]::2;[https://www.everydayhealth.com/cancer/guide,h]::3;[https://discountcode.dailymail.co.uk,p]::2;[https://www.everydayhealth.com/cancer/guide,p]::1;[https://www.healthline.com/nutrition,p]::3;
-/eastern|[https://www.dailymail.co.uk,h]::1;
-/easton|[https://nautil.us/about-us,p]::1;
-/ease|[https://www.everydayhealth.com/cancer/guide,h]::1;
-/easier|[https://discountcode.dailymail.co.uk,p]::1;

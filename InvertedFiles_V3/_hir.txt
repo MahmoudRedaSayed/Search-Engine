@@ -1,3 +1,0 @@
-/hiring|[https://www.academia.edu,s]::1;[https://www.nemours.org?external_id=RE2350835010600,p]::1;
-/hirsch|[https://www.loc.gov,h]::1;
-/hires|[https://jobs.mayoclinic.org,p]::2;

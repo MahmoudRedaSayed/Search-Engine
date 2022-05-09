@@ -1,4 +1,0 @@
-/network|[https://cplusplus.com,t]::1;[https://www.academia.edu,p]::1;[https://stackoverflow.com,p]::2;[https://www.everydayhealth.com/cancer/guide,s]::3;[https://www.everydayhealth.com/cancer/guide,p]::3;
-/netflix|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::2;
-/netflix's|[https://www.dailymail.co.uk,p]::1;
-/networks|[https://www.everydayhealth.com/cancer/guide,h]::1;[https://www.everydayhealth.com/cancer/guide,s]::1;

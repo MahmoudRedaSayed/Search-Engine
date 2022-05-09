@@ -1,1 +1,0 @@
-/daily|[https://www.dailymail.co.uk,t]::1;[https://discountcode.dailymail.co.uk,t]::1;[https://discountcode.dailymail.co.uk,h]::2;[https://discountcode.dailymail.co.uk,p]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;

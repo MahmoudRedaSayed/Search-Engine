@@ -1,5 +1,0 @@
-/browse|[https://ask.loc.gov,p]::2;[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;
-/broadcast|[https://www.sciencenewsforstudents.org/topics,h]::3;[https://www.everydayhealth.com/cancer/guide,p]::2;
-/broadest|[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;
-/browsers|[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;
-/brought|[https://www.everydayhealth.com/cancer/guide,p]::1;

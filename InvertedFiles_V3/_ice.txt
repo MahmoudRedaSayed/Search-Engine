@@ -1,2 +1,0 @@
-/ice|[https://www.sciencenewsforstudents.org,h]::6;[https://www.sciencenewsforstudents.org/topics,h]::5;[https://www.sciencenewsforstudents.org/topics,p]::3;
-/iceland|[https://discountcode.dailymail.co.uk,p]::1;

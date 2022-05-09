@@ -1,4 +1,0 @@
-/fulmina|[https://www.marca.com,h]::1;
-/fullblown|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/fully|[https://jobs.mayoclinic.org,p]::1;[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;[https://stackoverflow.co,p]::1;
-/fulfill|[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;

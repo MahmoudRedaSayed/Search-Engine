@@ -1,6 +1,0 @@
-/sandra|[https://www.marca.com,h]::1;[https://www.loc.gov,h]::1;
-/santorini|[https://www.sciencenewsforstudents.org,h]::1;
-/sanctions|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::2;
-/sandals|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::2;
-/santa|[https://nautil.us/about-us,p]::6;
-/sandtray|[https://www.everydayhealth.com/cancer/guide,p]::1;

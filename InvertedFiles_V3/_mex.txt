@@ -1,2 +1,0 @@
-/mexico|[https://www.dailymail.co.uk,h]::1;
-/mexican|[https://www.loc.gov,h]::1;

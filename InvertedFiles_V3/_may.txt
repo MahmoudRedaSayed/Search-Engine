@@ -1,1 +1,0 @@
-/mayo|[https://www.marca.com,p]::1;[https://jobs.mayoclinic.org,t]::1;[https://jobs.mayoclinic.org,p]::23;

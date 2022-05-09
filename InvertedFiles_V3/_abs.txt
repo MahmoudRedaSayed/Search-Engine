@@ -1,3 +1,0 @@
-/absolutamente|[https://www.marca.com,p]::1;
-/abstractions|[https://nautil.us,p]::1;[https://nautil.us/about-us,p]::1;
-/absolute|[https://discountcode.dailymail.co.uk,p]::1;

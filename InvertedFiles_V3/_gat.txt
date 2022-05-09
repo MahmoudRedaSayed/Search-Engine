@@ -1,4 +1,0 @@
-/gatwa|[https://www.dailymail.co.uk,h]::2;[https://www.dailymail.co.uk,p]::4;
-/gateway|[https://www.everydayhealth.com/cancer/guide,s]::1;[https://www.everydayhealth.com/cancer/guide,p]::3;
-/gatwick|[https://discountcode.dailymail.co.uk,p]::1;
-/gatewaycrorg|[https://www.everydayhealth.com/cancer/guide,p]::1;

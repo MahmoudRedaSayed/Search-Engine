@@ -1,2 +1,0 @@
-/victorias|[https://www.marca.com,h]::1;
-/victory|[https://www.dailymail.co.uk,h]::3;[https://www.dailymail.co.uk,p]::2;

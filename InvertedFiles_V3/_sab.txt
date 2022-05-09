@@ -1,2 +1,0 @@
-/sabadell|[https://www.marca.com,h]::1;
-/sabotage|[https://www.dailymail.co.uk,p]::1;

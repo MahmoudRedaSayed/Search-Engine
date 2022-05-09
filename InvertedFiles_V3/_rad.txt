@@ -1,2 +1,0 @@
-/radio|[https://www.marca.com,s]::1;[https://www.dailymail.co.uk,p]::1;
-/radiation|[https://www.everydayhealth.com/cancer/guide,p]::2;

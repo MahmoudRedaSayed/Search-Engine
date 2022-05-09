@@ -1,3 +1,0 @@
-/male|[https://www.sciencenewsforstudents.org,h]::1;
-/malignant|[https://www.everydayhealth.com/cancer/guide,p]::1;
-/malefemale|[https://www.healthline.com/nutrition,p]::1;

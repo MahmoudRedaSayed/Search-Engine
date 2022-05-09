@@ -1,2 +1,0 @@
-/suit|[https://www.dailymail.co.uk,h]::2;
-/suicide|[https://www.dailymail.co.uk,h]::1;

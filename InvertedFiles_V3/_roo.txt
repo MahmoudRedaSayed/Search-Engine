@@ -1,3 +1,0 @@
-/room|[https://www.dailymail.co.uk,h]::2;[https://www.loc.gov,h]::1;
-/roost|[https://www.dailymail.co.uk,p]::1;
-/rooms|[https://ask.loc.gov,p]::1;

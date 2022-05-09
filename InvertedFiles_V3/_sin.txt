@@ -1,4 +1,0 @@
-/sinn|[https://www.dailymail.co.uk,h]::1;[https://www.sciencenewsforstudents.org,h]::1;[https://www.dailymail.co.uk,p]::1;
-/sinclair|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/single|[https://stackoverflow.com,p]::1;[https://jobs.mayoclinic.org,p]::1;
-/singer|[https://www.dailymail.co.uk,p]::1;

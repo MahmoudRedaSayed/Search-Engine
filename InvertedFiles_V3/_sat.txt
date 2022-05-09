@@ -1,2 +1,0 @@
-/satellites|[https://www.sciencenewsforstudents.org,h]::1;
-/saturday|[https://www.dailymail.co.uk,p]::3;

@@ -1,3 +1,0 @@
-/neuroscience|[https://nautil.us,h]::1;[https://nautil.us,p]::3;
-/neuroendocrine tumors|[https://www.everydayhealth.com/cancer/guide,s]::1;
-/neuroendocrine tumors they|[https://www.everydayhealth.com/cancer/guide,p]::1;

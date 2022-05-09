@@ -1,2 +1,0 @@
-/april|[https://www.dailymail.co.uk,p]::1;
-/apron|[https://www.loc.gov,h]::1;

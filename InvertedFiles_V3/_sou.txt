@@ -1,5 +1,0 @@
-/sounds|[https://www.sciencenewsforstudents.org,h]::2;[https://www.sciencenewsforstudents.org/topics,h]::3;[https://www.healthline.com/nutrition,p]::2;
-/south|[https://www.dailymail.co.uk,p]::2;
-/southern|[https://nautil.us/about-us,p]::1;
-/sources|[https://www.everydayhealth.com/cancer/guide,h]::2;[https://ask.loc.gov,p]::1;[https://www.everydayhealth.com/cancer/guide,s]::1;
-/soul|[https://www.healthline.com/nutrition,p]::1;

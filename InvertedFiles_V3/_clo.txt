@@ -1,4 +1,0 @@
-/close|[https://stackoverflow.com,p]::1;
-/cloud|[https://jobs.mayoclinic.org,p]::1;
-/cloth|[https://www.sciencenewsforstudents.org/topics,h]::1;
-/clothing|[https://www.sciencenewsforstudents.org/topics,h]::1;

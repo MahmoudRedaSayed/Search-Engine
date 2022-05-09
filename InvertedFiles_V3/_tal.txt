@@ -1,5 +1,0 @@
-/talent|[https://jobs.mayoclinic.org,h]::2;[https://jobs.mayoclinic.org,p]::1;[https://stackoverflow.co,p]::2;
-/tales|[https://www.loc.gov,h]::1;
-/talking|[https://www.loc.gov,p]::1;[https://www.healthline.com/nutrition,p]::1;
-/talented|[https://jobs.mayoclinic.org,p]::1;
-/talks|[https://www.nemours.org?external_id=RE2350835010600,p]::1;

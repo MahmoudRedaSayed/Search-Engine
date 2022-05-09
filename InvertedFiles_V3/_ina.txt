@@ -1,2 +1,0 @@
-/inalámbricos|[https://www.marca.com,h]::1;
-/inaccuracies|[https://nautil.us,p]::1;

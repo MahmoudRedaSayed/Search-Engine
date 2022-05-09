@@ -1,2 +1,0 @@
-/buscar|[https://www.marca.com,s]::1;
-/business|[https://stackoverflow.com,h]::1;[https://stackoverflow.com,p]::2;[https://www.academicinfo.net,h]::1;[https://jobs.mayoclinic.org,p]::1;

@@ -1,9 +1,0 @@
-/extend|[https://www.dailymail.co.uk,h]::1;
-/extended|[https://www.dailymail.co.uk,p]::1;
-/extravaganza|[https://www.dailymail.co.uk,p]::1;[https://discountcode.dailymail.co.uk,p]::2;
-/extension|[https://www.dailymail.co.uk,p]::1;
-/extraterrestrials|[https://nautil.us,p]::1;
-/external|[https://nautil.us/about-us,p]::2;
-/extensive|[https://www.everydayhealth.com/cancer/guide,p]::1;
-/extreme|[https://www.everydayhealth.com/cancer/guide,p]::1;
-/extracted|[https://www.sciencenewsforstudents.org/topics,p]::1;

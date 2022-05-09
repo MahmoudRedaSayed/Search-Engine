@@ -1,1 +1,0 @@
-/mozilla|[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;

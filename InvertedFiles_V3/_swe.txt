@@ -1,3 +1,0 @@
-/sweeney|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/sweet|[https://nautil.us,h]::1;
-/sweats|[https://www.everydayhealth.com/cancer/guide,p]::1;

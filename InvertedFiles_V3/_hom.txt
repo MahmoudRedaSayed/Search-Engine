@@ -1,4 +1,0 @@
-/homeless|[https://www.dailymail.co.uk,h]::1;
-/homelessness|[https://www.dailymail.co.uk,p]::1;
-/homepage|[https://www.loc.gov,h]::1;
-/homeland|[https://jobs.mayoclinic.org,p]::1;

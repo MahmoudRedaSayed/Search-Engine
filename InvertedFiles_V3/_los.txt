@@ -1,6 +1,0 @@
-/los|[https://www.marca.com,h]::5;[https://www.sciencenewsforstudents.org,p]::1;[https://www.marca.com,p]::1;
-/losing|[https://www.sciencenewsforstudents.org,h]::2;[https://www.sciencenewsforstudents.org/topics,h]::2;[https://www.everydayhealth.com/cancer/guide,p]::1;
-/lost|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::2;
-/loses|[https://www.dailymail.co.uk,h]::1;[https://nautil.us,p]::1;
-/losa|[https://www.marca.com,h]::1;
-/loss|[https://www.everydayhealth.com/cancer/guide,p]::1;[https://www.healthline.com/nutrition,p]::2;

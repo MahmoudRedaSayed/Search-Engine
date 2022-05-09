@@ -1,2 +1,0 @@
-/people|[https://www.academia.edu,h]::1;[https://stackoverflow.com,p]::3;[https://www.dailymail.co.uk,p]::6;[https://www.loc.gov,h]::5;[https://nautil.us,p]::2;[https://jobs.mayoclinic.org,p]::2;[https://www.everydayhealth.com/cancer/guide,h]::3;[https://stackoverflow.co,h]::1;[https://stackoverflow.co,s]::1;[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::3;[https://stackoverflow.co,p]::8;[https://www.everydayhealth.com/cancer/guide,p]::10;[https://www.healthline.com/nutrition,p]::5;
-/people's|[https://www.loc.gov,h]::1;

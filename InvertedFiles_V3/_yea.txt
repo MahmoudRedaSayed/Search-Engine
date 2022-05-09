@@ -1,4 +1,0 @@
-/years|[https://www.dailymail.co.uk,h]::3;[https://www.sciencenewsforstudents.org,p]::1;[https://www.dailymail.co.uk,p]::4;[https://www.loc.gov,h]::3;[https://nautil.us,p]::3;[https://www.academicinfo.net,p]::1;[https://jobs.mayoclinic.org,p]::3;[https://www.everydayhealth.com/cancer/guide,p]::8;[https://www.nemours.org?external_id=RE2350835010600,p]::1;[https://www.healthline.com/nutrition,p]::2;
-/year's|[https://www.dailymail.co.uk,p]::3;
-/yearold|[https://www.dailymail.co.uk,p]::5;
-/yearlong|[https://jobs.mayoclinic.org,p]::1;

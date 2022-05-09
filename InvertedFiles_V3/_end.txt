@@ -1,5 +1,0 @@
-/ends|[https://www.sciencenewsforstudents.org,p]::1;
-/endured|[https://www.dailymail.co.uk,p]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;
-/enduring|[https://www.dailymail.co.uk,p]::1;
-/endorse|[https://jobs.mayoclinic.org,p]::1;
-/endoscopy|[https://www.everydayhealth.com/cancer/guide,p]::1;

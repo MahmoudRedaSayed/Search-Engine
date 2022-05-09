@@ -1,2 +1,0 @@
-/pulls|[https://www.sciencenewsforstudents.org,h]::3;[https://www.sciencenewsforstudents.org/topics,h]::3;
-/pulling|[https://www.dailymail.co.uk,p]::1;

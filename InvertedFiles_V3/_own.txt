@@ -1,4 +1,0 @@
-/owned|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/owner|[https://www.dailymail.co.uk,p]::1;[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::2;
-/owns|[https://www.dailymail.co.uk,p]::1;
-/owners|[https://www.addthis.com/bookmark.php?v=250,p]::1;

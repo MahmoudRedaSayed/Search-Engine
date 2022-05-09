@@ -1,2 +1,0 @@
-/adjunct|[https://nautil.us/about-us,p]::1;
-/adjustments|[https://accounts.accessibe.com/statement/?domain=academicinfo.net,h]::1;[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::2;

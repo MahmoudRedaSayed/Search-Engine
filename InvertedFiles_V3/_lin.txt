@@ -1,5 +1,0 @@
-/lintononouse|[https://www.dailymail.co.uk,p]::1;
-/linda|[https://www.dailymail.co.uk,p]::1;
-/linz|[https://nautil.us/about-us,p]::1;
-/linked|[https://jobs.mayoclinic.org,p]::1;
-/links|[https://ask.loc.gov,p]::1;

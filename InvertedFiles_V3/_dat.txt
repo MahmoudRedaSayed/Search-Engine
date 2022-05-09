@@ -1,3 +1,0 @@
-/data|[https://developers.google.com,h]::1;[https://w3schools.com,h]::3;[https://stackoverflow.com,h]::1;[https://w3schools.com,p]::1;[https://stackoverflow.com,p]::2;[https://www.everydayhealth.com/cancer/guide,p]::1;
-/dating|[https://www.sciencenewsforstudents.org,h]::4;[https://www.sciencenewsforstudents.org,p]::1;[https://www.dailymail.co.uk,h]::1;[https://www.sciencenewsforstudents.org/topics,h]::5;[https://www.sciencenewsforstudents.org/topics,p]::2;
-/databases|[https://w3schools.com,p]::1;

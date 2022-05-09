@@ -1,4 +1,0 @@
-/val|[https://www.marca.com,h]::1;
-/values|[https://stackoverflow.co,h]::1;
-/valid|[https://discountcode.dailymail.co.uk,p]::1;
-/valuebased|[https://www.everydayhealth.com/cancer/guide,p]::1;

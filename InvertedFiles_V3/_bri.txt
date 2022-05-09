@@ -1,6 +1,0 @@
-/bring|[https://www.sciencenewsforstudents.org,h]::5;[https://nautil.us,p]::1;[https://www.sciencenewsforstudents.org/topics,h]::4;[https://www.sciencenewsforstudents.org/topics,p]::2;
-/bright|[https://www.sciencenewsforstudents.org,h]::1;[https://www.sciencenewsforstudents.org/topics,h]::2;
-/british|[https://www.dailymail.co.uk,h]::3;[https://www.dailymail.co.uk,p]::4;
-/britain|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/britons|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::2;
-/brings|[https://jobs.mayoclinic.org,p]::1;

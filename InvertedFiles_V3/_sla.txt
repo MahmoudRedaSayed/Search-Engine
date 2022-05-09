@@ -1,4 +1,0 @@
-/slams|[https://www.dailymail.co.uk,h]::1;
-/slack|[https://stackoverflow.com,p]::2;
-/slaverylewis|[https://www.loc.gov,h]::1;
-/slash|[https://www.everydayhealth.com/cancer/guide,p]::1;

@@ -1,4 +1,0 @@
-/equipos|[https://www.marca.com,h]::2;
-/equation|[https://stackoverflow.com,p]::1;[https://www.sciencenewsforstudents.org/topics,h]::1;[https://www.sciencenewsforstudents.org/topics,p]::1;
-/equal|[https://jobs.mayoclinic.org,s]::1;[https://jobs.mayoclinic.org,p]::1;[https://www.sciencenewsforstudents.org/topics,p]::1;
-/equity|[https://nautil.us/about-us,p]::1;[https://jobs.mayoclinic.org,p]::1;[https://www.nemours.org?external_id=RE2350835010600,p]::1;

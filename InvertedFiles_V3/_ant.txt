@@ -1,9 +1,0 @@
-/ante|[https://www.marca.com,h]::3;[https://www.dailymail.co.uk,h]::1;
-/antytila's|[https://www.dailymail.co.uk,p]::1;
-/anthropology|[https://nautil.us,h]::1;[https://nautil.us/about-us,p]::1;
-/antonio|[https://www.loc.gov,h]::1;
-/ants|[https://nautil.us,p]::1;
-/anthropologist|[https://nautil.us,p]::1;
-/anticipating|[https://jobs.mayoclinic.org,p]::2;
-/anticancer|[https://www.everydayhealth.com/cancer/guide,h]::1;
-/antibiotics|[https://www.everydayhealth.com/cancer/guide,p]::1;

@@ -1,2 +1,0 @@
-/lounge'|[https://www.dailymail.co.uk,p]::1;
-/louisiana|[https://www.loc.gov,h]::1;

@@ -1,2 +1,0 @@
-/burnout|[https://stackoverflow.com,p]::1;
-/burns|[https://www.loc.gov,h]::1;

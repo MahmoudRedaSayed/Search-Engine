@@ -1,3 +1,0 @@
-/rules'|[https://www.dailymail.co.uk,h]::2;[https://www.sciencenewsforstudents.org,p]::1;[https://www.dailymail.co.uk,p]::2;[https://www.sciencenewsforstudents.org/topics,p]::2;
-/ruled|[https://www.dailymail.co.uk,p]::1;
-/rules”|[https://www.everydayhealth.com/cancer/guide,p]::1;

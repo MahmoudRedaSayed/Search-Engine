@@ -1,2 +1,0 @@
-/dramatically|[https://www.dailymail.co.uk,p]::2;
-/drawing|[https://www.loc.gov,h]::1;

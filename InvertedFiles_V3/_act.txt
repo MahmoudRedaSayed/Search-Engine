@@ -1,9 +1,0 @@
-/actor|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::4;
-/activists|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/action|[https://www.dailymail.co.uk,h]::1;
-/actors|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::2;
-/actress|[https://www.dailymail.co.uk,p]::1;
-/acting|[https://www.dailymail.co.uk,p]::1;[https://stackoverflow.co,p]::1;
-/active|[https://www.dailymail.co.uk,p]::1;
-/actualizaciones|[https://www.nemours.org?external_id=RE2350835010600,p]::1;
-/acts|[https://www.everydayhealth.com/cancer/guide,p]::1;

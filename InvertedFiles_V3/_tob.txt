@@ -1,2 +1,0 @@
-/tobacco|[https://www.everydayhealth.com/cancer/guide,p]::2;
-/tobago|[https://www.healthline.com/nutrition,p]::1;

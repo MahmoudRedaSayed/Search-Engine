@@ -1,5 +1,0 @@
-/saltan|[https://www.marca.com,h]::1;
-/sales|[https://stackoverflow.com,p]::1;[https://discountcode.dailymail.co.uk,p]::3;
-/salud|[https://es.familydoctor.org,t]::1;
-/salvo|[https://www.nemours.org?external_id=RE2350835010600,p]::1;
-/salmon|[https://www.healthline.com/nutrition,p]::1;

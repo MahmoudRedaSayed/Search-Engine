@@ -1,4 +1,0 @@
-/rochelle|[https://www.dailymail.co.uk,h]::2;[https://www.dailymail.co.uk,p]::1;
-/roca|[https://www.marca.com,h]::1;
-/rockers|[https://www.dailymail.co.uk,h]::1;
-/rocking|[https://www.loc.gov,h]::1;

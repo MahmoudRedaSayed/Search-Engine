@@ -1,2 +1,0 @@
-/sleepy|[https://www.dailymail.co.uk,h]::1;
-/sleepcardiovascular|[https://jobs.mayoclinic.org,p]::1;

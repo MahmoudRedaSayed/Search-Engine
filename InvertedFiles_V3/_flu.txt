@@ -1,2 +1,0 @@
-/flutter|[https://developers.google.com,h]::1;
-/flushes|[https://www.dailymail.co.uk,h]::1;

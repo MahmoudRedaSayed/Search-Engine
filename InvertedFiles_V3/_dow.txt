@@ -1,3 +1,0 @@
-/download |[https://www.academia.edu,h]::1;[https://www.academia.edu,p]::1;
-/down |[https://www.dailymail.co.uk,h]::1;
-/downland|[https://www.dailymail.co.uk,p]::1;

@@ -1,2 +1,0 @@
-/separatist|[https://www.dailymail.co.uk,h]::1;
-/september|[https://www.everydayhealth.com/cancer/guide,h]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;

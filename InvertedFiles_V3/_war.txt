@@ -1,8 +1,0 @@
-/war|[https://www.dailymail.co.uk,h]::4;[https://www.dailymail.co.uk,p]::6;[https://www.loc.gov,h]::4;
-/warns|[https://www.dailymail.co.uk,h]::1;
-/wartorn|[https://www.dailymail.co.uk,h]::2;
-/warmer|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/warrant|[https://w3schools.com,p]::1;
-/warrior|[https://www.loc.gov,h]::1;
-/warning|[https://ask.loc.gov,s]::1;
-/warms|[https://www.sciencenewsforstudents.org/topics,h]::1;

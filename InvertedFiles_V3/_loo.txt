@@ -1,3 +1,0 @@
-/looked|[https://www.dailymail.co.uk,p]::2;
-/loop|[https://www.nemours.org?external_id=RE2350835010600,h]::1;
-/lookout|[https://discountcode.dailymail.co.uk,p]::1;

@@ -1,5 +1,0 @@
-/flanker|[https://www.dailymail.co.uk,h]::1;
-/flagging|[https://www.dailymail.co.uk,p]::1;
-/flashing|[https://www.dailymail.co.uk,p]::1;[https://discountcode.dailymail.co.uk,p]::1;
-/flankers|[https://www.dailymail.co.uk,p]::1;
-/flare|[https://www.loc.gov,h]::1;

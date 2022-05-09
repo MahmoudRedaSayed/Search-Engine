@@ -1,3 +1,0 @@
-/drop|[https://www.dailymail.co.uk,p]::1;[https://nautil.us,p]::1;
-/drowned|[https://nautil.us,h]::1;
-/dropped|[https://www.everydayhealth.com/cancer/guide,h]::2;

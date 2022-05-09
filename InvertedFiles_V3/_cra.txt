@@ -1,6 +1,0 @@
-/crackdown|[https://www.dailymail.co.uk,h]::1;
-/cramps|[https://www.dailymail.co.uk,h]::1;
-/cravings|[https://www.dailymail.co.uk,h]::1;
-/craig|[https://www.dailymail.co.uk,p]::1;
-/crazy'|[https://www.dailymail.co.uk,p]::1;
-/cradle|[https://www.loc.gov,h]::2;

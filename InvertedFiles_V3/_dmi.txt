@@ -1,2 +1,0 @@
-/dmitry|[https://www.dailymail.co.uk,p]::1;
-/dmitriev|[https://www.dailymail.co.uk,p]::1;

@@ -1,4 +1,0 @@
-/layer|[https://www.sciencenewsforstudents.org,h]::2;
-/lays|[https://www.dailymail.co.uk,h]::1;
-/laying|[https://www.dailymail.co.uk,p]::1;
-/laypeople|[https://www.everydayhealth.com/cancer/guide,p]::1;

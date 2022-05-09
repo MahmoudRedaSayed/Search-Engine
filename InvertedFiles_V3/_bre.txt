@@ -1,7 +1,0 @@
-/brexit|[https://www.dailymail.co.uk,h]::1;
-/breakfast|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::2;
-/breakthrough|[https://www.dailymail.co.uk,p]::1;
-/breathing|[https://nautil.us,h]::1;
-/breakdown|[https://www.academicinfo.net,h]::1;
-/breeding|[https://nautil.us,p]::1;
-/breast|[https://www.everydayhealth.com/cancer/guide,h]::3;[https://www.everydayhealth.com/cancer/guide,s]::2;[https://www.everydayhealth.com/cancer/guide,p]::10;

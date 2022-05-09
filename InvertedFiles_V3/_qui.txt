@@ -1,7 +1,0 @@
-/quizzes|[https://w3schools.com,h]::3;[https://w3schools.com,p]::1;
-/quiso|[https://www.marca.com,h]::1;
-/quitarse|[https://www.marca.com,h]::1;
-/quirófano|[https://www.marca.com,h]::1;
-/quilting|[https://www.loc.gov,h]::3;
-/quick|[https://discountcode.dailymail.co.uk,p]::1;[https://www.healthline.com/nutrition,p]::1;
-/quick…|[https://www.healthline.com/nutrition,p]::1;

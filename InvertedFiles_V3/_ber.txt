@@ -1,3 +1,0 @@
-/berlin|[https://www.dailymail.co.uk,h]::1;
-/berry|[https://www.dailymail.co.uk,p]::1;
-/bernard|[https://www.loc.gov,h]::3;

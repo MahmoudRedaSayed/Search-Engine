@@ -1,7 +1,0 @@
-/queda|[https://www.marca.com,h]::2;
-/queen's|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/question|[https://stackoverflow.com,h]::1;[https://www.nemours.org?external_id=RE2350835010600,h]::1;[https://ask.loc.gov,p]::3;
-/questions|[https://stackoverflow.com,h]::1;[https://stackoverflow.com,p]::3;[https://www.everydayhealth.com/cancer/guide,h]::2;[https://stackoverflow.co,p]::1;[https://www.nemours.org?external_id=RE2350835010600,p]::1;
-/questioning|[https://www.academicinfo.net,h]::1;
-/question?|[https://ask.loc.gov,s]::1;
-/questionnaires|[https://www.everydayhealth.com/cancer/guide,p]::1;

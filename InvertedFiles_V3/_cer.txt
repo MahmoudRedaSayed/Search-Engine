@@ -1,6 +1,0 @@
-/certificates|[https://w3schools.com,h]::1;
-/ceremony|[https://www.dailymail.co.uk,h]::1;
-/ceremonies|[https://www.dailymail.co.uk,h]::1;
-/certified|[https://w3schools.com,p]::1;
-/cervix|[https://www.everydayhealth.com/cancer/guide,p]::1;
-/cervical|[https://www.everydayhealth.com/cancer/guide,p]::1;

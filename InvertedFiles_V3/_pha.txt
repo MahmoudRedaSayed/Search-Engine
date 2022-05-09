@@ -1,3 +1,0 @@
-/phase|[https://www.dailymail.co.uk,p]::1;[https://www.everydayhealth.com/cancer/guide,p]::2;
-/phasing|[https://www.dailymail.co.uk,p]::1;
-/pharmacology|[https://jobs.mayoclinic.org,p]::1;

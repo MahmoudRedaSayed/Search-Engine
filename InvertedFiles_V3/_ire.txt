@@ -1,2 +1,0 @@
-/ireland|[https://www.dailymail.co.uk,h]::1;
-/irene|[https://www.loc.gov,h]::2;

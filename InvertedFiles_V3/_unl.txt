@@ -1,3 +1,0 @@
-/unlock|[https://www.academia.edu,h]::1;
-/unlimited|[https://stackoverflow.com,p]::2;
-/unleashing|[https://www.dailymail.co.uk,p]::1;

@@ -1,4 +1,0 @@
-/meant|[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::2;
-/meal|[https://www.healthline.com/nutrition,h]::1;[https://www.healthline.com/nutrition,p]::2;
-/meat|[https://www.healthline.com/nutrition,p]::2;
-/meals|[https://www.healthline.com/nutrition,p]::2;

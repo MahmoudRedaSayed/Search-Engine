@@ -1,8 +1,0 @@
-/basic|[https://stackoverflow.com,h]::1;[https://w3schools.com,p]::1;
-/bases|[https://stackoverflow.com,p]::1;
-/basement|[https://www.dailymail.co.uk,p]::1;
-/basal|[https://www.everydayhealth.com/cancer/guide,s]::1;
-/based|[https://www.everydayhealth.com/cancer/guide,p]::2;[https://www.healthline.com/nutrition,p]::1;
-/basements|[https://discountcode.dailymail.co.uk,p]::1;
-/basket|[https://discountcode.dailymail.co.uk,p]::1;
-/baskets|[https://www.everydayhealth.com/cancer/guide,p]::1;

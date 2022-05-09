@@ -1,5 +1,0 @@
-/quality|[https://www.academia.edu,h]::1;[https://www.everydayhealth.com/cancer/guide,p]::2;
-/quantum|[https://www.sciencenewsforstudents.org,h]::1;
-/quartet|[https://www.dailymail.co.uk,p]::1;
-/quanta|[https://nautil.us,p]::1;[https://nautil.us/about-us,p]::1;
-/qualified|[https://jobs.mayoclinic.org,p]::1;

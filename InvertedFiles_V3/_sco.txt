@@ -1,5 +1,0 @@
-/scoop|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/scotland|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/scots|[https://www.dailymail.co.uk,h]::1;
-/scottish|[https://www.dailymail.co.uk,p]::1;
-/scopes|[https://discountcode.dailymail.co.uk,p]::1;

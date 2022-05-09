@@ -1,2 +1,0 @@
-/bites|[https://www.dailymail.co.uk,h]::1;
-/bitter|[https://www.dailymail.co.uk,p]::1;

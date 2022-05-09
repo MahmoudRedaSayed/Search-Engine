@@ -1,3 +1,0 @@
-/summer|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/summaries|[https://www.academia.edu,p]::1;
-/sumida|[https://www.loc.gov,h]::1;

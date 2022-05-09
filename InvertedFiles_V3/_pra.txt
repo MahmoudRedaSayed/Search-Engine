@@ -1,7 +1,0 @@
-/practicando|[https://www.marca.com,h]::2;
-/practice|[https://nautil.us,p]::1;[https://jobs.mayoclinic.org,p]::2;[https://stackoverflow.co,p]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;
-/practitionerproviderbusinesseducationengineeringexecutivefacilitiesfinancehealthcare|[https://jobs.mayoclinic.org,p]::1;
-/prague|[https://jobs.mayoclinic.org,p]::1;
-/practices|[https://jobs.mayoclinic.org,p]::1;
-/practical|[https://www.everydayhealth.com/cancer/guide,p]::1;
-/practitioners|[https://www.everydayhealth.com/cancer/guide,p]::1;

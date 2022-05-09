@@ -1,5 +1,0 @@
-/public|[https://stackoverflow.com,h]::1;[https://www.dailymail.co.uk,h]::1;[https://www.sciencenewsforstudents.org,p]::2;[https://www.dailymail.co.uk,p]::2;[https://stackoverflow.co,h]::1;[https://ask.loc.gov,p]::1;[https://www.everydayhealth.com/cancer/guide,h]::1;[https://stackoverflow.co,p]::2;[https://www.sciencenewsforstudents.org/topics,p]::2;[https://www.everydayhealth.com/cancer/guide,p]::2;
-/publication|[https://www.sciencenewsforstudents.org,p]::2;[https://www.sciencenewsforstudents.org/topics,p]::2;
-/published|[https://www.sciencenewsforstudents.org,p]::1;[https://discountcode.dailymail.co.uk,p]::1;[https://www.sciencenewsforstudents.org/topics,p]::1;
-/publisher|[https://nautil.us/about-us,p]::1;
-/publications|[https://www.nemours.org?external_id=RE2350835010600,p]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;

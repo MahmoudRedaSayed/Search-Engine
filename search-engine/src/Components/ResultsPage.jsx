@@ -10,7 +10,7 @@ let {query}= useParams();
 console.log(query);
         return(
 
-            <div>
+            <div style={{    "background-color": "gray","height": "100vh"}} >
                 <Navbar showField={true}></Navbar>
                 <Result query={query} ></Result>
             </div>

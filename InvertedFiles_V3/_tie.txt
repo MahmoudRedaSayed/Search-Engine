@@ -1,3 +1,0 @@
-/tierra|[https://www.marca.com,h]::1;
-/tiempo|[https://www.sciencenewsforstudents.org,h]::1;
-/ties|[https://www.everydayhealth.com/cancer/guide,p]::1;

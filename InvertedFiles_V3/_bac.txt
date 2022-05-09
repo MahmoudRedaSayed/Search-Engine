@@ -1,7 +1,0 @@
-/backs|[https://www.dailymail.co.uk,h]::1;
-/backstage|[https://www.dailymail.co.uk,h]::1;
-/backroom|[https://www.dailymail.co.uk,h]::1;
-/backed|[https://stackoverflow.com,p]::1;
-/backing|[https://www.dailymail.co.uk,p]::1;
-/bacher|[https://www.loc.gov,h]::1;
-/backgrounds|[https://jobs.mayoclinic.org,p]::1;[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;

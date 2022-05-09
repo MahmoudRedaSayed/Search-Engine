@@ -1,2 +1,0 @@
-/object|[https://www.sciencenewsforstudents.org,p]::1;[https://www.sciencenewsforstudents.org/topics,p]::2;
-/objectives'|[https://www.dailymail.co.uk,p]::1;

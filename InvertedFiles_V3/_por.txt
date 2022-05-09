@@ -1,6 +1,0 @@
-/portada|[https://www.marca.com,h]::4;[https://www.marca.com,s]::1;[https://www.marca.com,p]::1;[https://www.dailymail.co.uk,p]::1;[https://es.familydoctor.org,p]::1;
-/porcinos|[https://www.marca.com,h]::1;
-/portrayed|[https://www.dailymail.co.uk,p]::1;
-/portrait|[https://www.loc.gov,h]::1;
-/portraits|[https://www.loc.gov,p]::1;
-/portion|[https://www.healthline.com/nutrition,p]::1;

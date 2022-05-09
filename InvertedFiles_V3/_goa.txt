@@ -1,3 +1,0 @@
-/goalcom|[https://www.goal.com,t]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;[https://www.healthline.com/nutrition,p]::1;
-/goals|[https://www.everydayhealth.com/cancer/guide,p]::1;
-/goals…|[https://www.healthline.com/nutrition,p]::1;

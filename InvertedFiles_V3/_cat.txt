@@ -1,6 +1,0 @@
-/caterpillars|[https://www.sciencenewsforstudents.org,h]::2;[https://www.dailymail.co.uk,h]::1;[https://www.sciencenewsforstudents.org/topics,h]::2;
-/category|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/catalogado|[https://www.marca.com,h]::1;
-/catching|[https://www.dailymail.co.uk,h]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;
-/categoryselect|[https://jobs.mayoclinic.org,p]::1;
-/categories|[https://discountcode.dailymail.co.uk,h]::2;[https://www.everydayhealth.com/cancer/guide,p]::1;

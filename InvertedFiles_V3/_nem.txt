@@ -1,3 +1,0 @@
-/nemo|[https://nautil.us/about-us,p]::1;
-/nemours|[https://www.nemours.org?external_id=RE2350835010600,t]::1;[https://www.nemours.org?external_id=RE2350835010600,h]::3;[https://www.nemours.org?external_id=RE2350835010600,p]::7;
-/nemours®|[https://www.nemours.org?external_id=RE2350835010600,p]::1;

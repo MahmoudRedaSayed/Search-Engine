@@ -1,4 +1,0 @@
-/susanna|[https://www.dailymail.co.uk,h]::2;[https://www.sciencenewsforstudents.org,p]::1;
-/suspected|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/sustainable|[https://www.dailymail.co.uk,p]::1;[https://stackoverflow.co,p]::1;[https://www.healthline.com/nutrition,p]::1;
-/suspicious|[https://www.everydayhealth.com/cancer/guide,p]::1;

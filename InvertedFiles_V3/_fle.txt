@@ -1,5 +1,0 @@
-/fled|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/fleet|[https://www.dailymail.co.uk,p]::1;
-/fleeing|[https://www.dailymail.co.uk,p]::1;
-/flexible|[https://stackoverflow.co,h]::1;
-/flexibility|[https://stackoverflow.co,p]::1;

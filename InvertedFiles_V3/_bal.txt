@@ -1,2 +1,0 @@
-/bald|[https://www.dailymail.co.uk,p]::1;
-/balance|[https://jobs.mayoclinic.org,h]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;

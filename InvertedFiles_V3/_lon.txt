@@ -1,5 +1,0 @@
-/longer|[https://www.sciencenewsforstudents.org,h]::2;[https://www.academia.edu,p]::1;[https://stackoverflow.com,p]::1;[https://discountcode.dailymail.co.uk,p]::1;[https://www.everydayhealth.com/cancer/guide,p]::2;
-/longawaited|[https://www.sciencenewsforstudents.org,h]::1;
-/london's|[https://www.dailymail.co.uk,p]::6;[https://stackoverflow.co,p]::1;
-/londonbased|[https://www.dailymail.co.uk,p]::1;
-/longterm|[https://stackoverflow.co,p]::1;

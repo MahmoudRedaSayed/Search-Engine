@@ -1,4 +1,0 @@
-/telescope|[https://www.sciencenewsforstudents.org,h]::1;
-/television|[https://www.dailymail.co.uk,p]::4;
-/telling|[https://www.dailymail.co.uk,p]::1;
-/tells|[https://nautil.us,h]::1;

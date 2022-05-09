@@ -1,4 +1,0 @@
-/immunization|[https://jobs.mayoclinic.org,p]::1;
-/immune|[https://www.everydayhealth.com/cancer/guide,p]::3;
-/immunotherapy|[https://www.everydayhealth.com/cancer/guide,p]::1;
-/immunotherapies|[https://www.everydayhealth.com/cancer/guide,p]::1;

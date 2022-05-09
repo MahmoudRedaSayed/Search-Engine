@@ -1,2 +1,0 @@
-/filgoal|[https://www.filgoal.com,t]::1;[https://fantasy.filgoal.com,t]::1;
-/fills|[https://www.everydayhealth.com/cancer/guide,p]::2;

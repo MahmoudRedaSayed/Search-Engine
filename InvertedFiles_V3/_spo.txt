@@ -1,3 +1,0 @@
-/spotlight|[https://nautil.us,p]::1;[https://nautil.us/about-us,p]::2;[https://www.everydayhealth.com/cancer/guide,p]::3;
-/sponsorship|[https://jobs.mayoclinic.org,p]::2;
-/sponsored|[https://www.everydayhealth.com/cancer/guide,p]::1;

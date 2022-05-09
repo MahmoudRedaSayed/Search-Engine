@@ -1,4 +1,0 @@
-/villarreal|[https://www.marca.com,h]::1;
-/village|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/village'|[https://www.dailymail.co.uk,p]::1;
-/villagers|[https://www.dailymail.co.uk,p]::1;

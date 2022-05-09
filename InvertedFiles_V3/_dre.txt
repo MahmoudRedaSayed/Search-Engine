@@ -1,4 +1,0 @@
-/dress|[https://www.dailymail.co.uk,p]::1;
-/drew|[https://www.dailymail.co.uk,p]::1;[https://www.loc.gov,h]::1;
-/dreams|[https://www.dailymail.co.uk,p]::1;
-/dresden|[https://www.loc.gov,h]::1;

@@ -1,4 +1,0 @@
-/verona|[https://www.marca.com,h]::1;
-/version|[https://www.dailymail.co.uk,p]::2;
-/verificador|[https://es.familydoctor.org,p]::1;
-/versions|[https://nautil.us,p]::1;

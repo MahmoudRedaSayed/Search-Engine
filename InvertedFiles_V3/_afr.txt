@@ -1,2 +1,0 @@
-/african|[https://www.dailymail.co.uk,p]::1;[https://www.healthline.com/nutrition,p]::1;
-/africa"|[https://www.loc.gov,h]::1;

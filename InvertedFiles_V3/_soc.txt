@@ -1,3 +1,0 @@
-/society|[https://www.sciencenewsforstudents.org,h]::1;[https://www.sciencenewsforstudents.org,p]::2;[https://nautil.us/about-us,p]::1;[https://www.everydayhealth.com/cancer/guide,s]::2;[https://www.sciencenewsforstudents.org/topics,h]::2;[https://www.everydayhealth.com/cancer/guide,p]::2;[https://www.sciencenewsforstudents.org/topics,p]::2;
-/socially|[https://www.dailymail.co.uk,p]::1;[https://www.addthis.com/bookmark.php?v=250,t]::1;[https://www.academicinfo.net,h]::1;[https://nautil.us/about-us,p]::1;[https://jobs.mayoclinic.org,p]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;
-/society…|[https://www.healthline.com/nutrition,p]::1;

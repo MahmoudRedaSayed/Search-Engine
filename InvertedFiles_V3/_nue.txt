@@ -1,2 +1,0 @@
-/nuestros|[https://www.marca.com,h]::1;
-/nuevo|[https://www.sciencenewsforstudents.org,h]::1;

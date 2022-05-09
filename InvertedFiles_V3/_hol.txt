@@ -1,2 +1,0 @@
-/hold|[https://www.dailymail.co.uk,h]::2;
-/hollem|[https://www.loc.gov,h]::2;

@@ -1,1 +1,0 @@
-/vouchers|[https://discountcode.dailymail.co.uk,t]::1;[https://discountcode.dailymail.co.uk,h]::3;[https://discountcode.dailymail.co.uk,p]::13;

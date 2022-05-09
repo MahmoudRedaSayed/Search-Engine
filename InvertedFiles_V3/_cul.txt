@@ -1,2 +1,0 @@
-/cultures|[https://nautil.us,p]::1;[https://nautil.us/about-us,p]::2;[https://jobs.mayoclinic.org,p]::1;[https://www.healthline.com/nutrition,p]::3;
-/cultural…|[https://www.healthline.com/nutrition,p]::1;

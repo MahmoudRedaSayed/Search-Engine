@@ -1,5 +1,0 @@
-/dec|[https://www.dailymail.co.uk,h]::1;
-/decrease|[https://stackoverflow.com,p]::1;[https://www.dailymail.co.uk,p]::1;
-/decisions|[https://stackoverflow.com,p]::1;[https://www.everydayhealth.com/cancer/guide,p]::2;
-/decide|[https://www.nemours.org?external_id=RE2350835010600,p]::1;
-/decided|[https://www.healthline.com/nutrition,p]::1;

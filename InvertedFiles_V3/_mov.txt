@@ -1,3 +1,0 @@
-/moving|[https://www.dailymail.co.uk,p]::1;[https://www.nemours.org?external_id=RE2350835010600,h]::1;
-/movement|[https://www.loc.gov,h]::1;
-/movements|[https://www.everydayhealth.com/cancer/guide,p]::1;

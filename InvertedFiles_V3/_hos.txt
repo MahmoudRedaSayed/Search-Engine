@@ -1,2 +1,0 @@
-/host|[https://www.sciencenewsforstudents.org,h]::1;
-/hospital|[https://jobs.mayoclinic.org,h]::1;[https://jobs.mayoclinic.org,p]::1;

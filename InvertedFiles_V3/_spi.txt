@@ -1,6 +1,0 @@
-/spirited|[https://www.dailymail.co.uk,p]::1;
-/spice|[https://www.dailymail.co.uk,p]::1;
-/spink|[https://www.dailymail.co.uk,p]::1;
-/spinning|[https://www.loc.gov,h]::1;
-/spinal|[https://www.everydayhealth.com/cancer/guide,s]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;
-/spikes|[https://www.sciencenewsforstudents.org/topics,h]::1;

@@ -1,8 +1,0 @@
-/claims |[https://www.dailymail.co.uk,h]::4;[https://www.dailymail.co.uk,p]::2;[https://jobs.mayoclinic.org,p]::1;
-/claro|[https://www.marca.com,h]::1;
-/clarkson|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/claimed|[https://www.dailymail.co.uk,p]::1;
-/clarke |[https://www.dailymail.co.uk,p]::1;
-/classics|[https://www.dailymail.co.uk,p]::1;[https://www.loc.gov,h]::1;
-/clarity|[https://nautil.us/about-us,p]::1;
-/claire|[https://jobs.mayoclinic.org,p]::1;

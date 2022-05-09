@@ -1,2 +1,0 @@
-/moscow|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/most—one|[https://jobs.mayoclinic.org,p]::1;

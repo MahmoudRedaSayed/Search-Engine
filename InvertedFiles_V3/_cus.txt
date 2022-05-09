@@ -1,4 +1,0 @@
-/customers|[https://stackoverflow.com,p]::3;[https://stackoverflow.co,p]::1;[https://discountcode.dailymail.co.uk,p]::1;
-/customerfirst|[https://stackoverflow.co,h]::1;
-/customize|[https://www.everydayhealth.com/cancer/guide,p]::1;
-/customs|[https://www.healthline.com/nutrition,p]::1;

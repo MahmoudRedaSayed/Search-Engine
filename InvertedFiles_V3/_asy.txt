@@ -1,2 +1,0 @@
-/asylum|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/asynchronous|[https://stackoverflow.co,p]::1;

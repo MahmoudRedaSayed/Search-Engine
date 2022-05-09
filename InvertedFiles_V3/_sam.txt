@@ -1,2 +1,0 @@
-/samuels|[https://www.dailymail.co.uk,p]::1;
-/sample|[https://www.everydayhealth.com/cancer/guide,p]::1;

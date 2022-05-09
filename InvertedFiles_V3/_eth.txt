@@ -1,1 +1,0 @@
-/ethical|[https://stackoverflow.co,p]::1;

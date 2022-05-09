@@ -1,2 +1,0 @@
-/vitality|[https://nautil.us/about-us,p]::1;
-/vitamins|[https://www.healthline.com/nutrition,h]::1;[https://www.healthline.com/nutrition,p]::4;

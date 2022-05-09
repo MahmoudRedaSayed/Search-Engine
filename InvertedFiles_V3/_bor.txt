@@ -1,3 +1,0 @@
-/boris|[https://www.dailymail.co.uk,h]::2;[https://www.dailymail.co.uk,p]::3;
-/borrow|[https://www.sciencenewsforstudents.org,h]::1;
-/born|[https://www.dailymail.co.uk,p]::1;[https://www.loc.gov,h]::2;[https://www.everydayhealth.com/cancer/guide,p]::1;

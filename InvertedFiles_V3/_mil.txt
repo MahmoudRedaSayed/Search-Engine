@@ -1,6 +1,0 @@
-/milan|[https://www.marca.com,h]::1;
-/military|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::3;
-/millions|[https://www.academia.edu,p]::2;[https://nautil.us,p]::1;
-/miles|[https://www.dailymail.co.uk,p]::1;
-/milling|[https://www.loc.gov,h]::1;
-/mills|[https://jobs.mayoclinic.org,p]::1;

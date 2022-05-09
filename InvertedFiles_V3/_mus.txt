@@ -1,2 +1,0 @@
-/museum|[https://nautil.us/about-us,p]::1;
-/muscles|[https://www.everydayhealth.com/cancer/guide,p]::1;

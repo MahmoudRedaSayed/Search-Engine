@@ -1,2 +1,0 @@
-/rendimiento|[https://www.marca.com,h]::1;
-/renowned|[https://www.nemours.org?external_id=RE2350835010600,p]::1;

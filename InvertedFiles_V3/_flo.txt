@@ -1,7 +1,0 @@
-/floods|[https://www.sciencenewsforstudents.org,h]::2;[https://www.sciencenewsforstudents.org/topics,h]::3;
-/florida|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::3;[https://www.loc.gov,h]::4;
-/flown|[https://www.dailymail.co.uk,p]::1;
-/flock|[https://www.dailymail.co.uk,p]::1;
-/floor|[https://www.dailymail.co.uk,p]::1;[https://stackoverflow.co,p]::1;
-/floridala|[https://jobs.mayoclinic.org,p]::1;
-/flowers|[https://www.everydayhealth.com/cancer/guide,s]::1;[https://www.everydayhealth.com/cancer/guide,p]::2;

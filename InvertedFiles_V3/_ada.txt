@@ -1,2 +1,0 @@
-/adams|[https://www.loc.gov,h]::2;
-/adapts|[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;

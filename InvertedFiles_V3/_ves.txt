@@ -1,4 +1,0 @@
-/vessel|[https://www.dailymail.co.uk,h]::1;
-/vessel's|[https://www.dailymail.co.uk,p]::1;
-/vessels|[https://www.everydayhealth.com/cancer/guide,p]::2;
-/vestibular|[https://www.healthline.com/nutrition,p]::1;

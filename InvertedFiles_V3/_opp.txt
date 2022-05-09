@@ -1,3 +1,0 @@
-/opposition|[https://www.dailymail.co.uk,p]::1;
-/opportunities|[https://www.academicinfo.net,p]::1;[https://jobs.mayoclinic.org,p]::7;[https://discountcode.dailymail.co.uk,h]::2;
-/opportunity|[https://jobs.mayoclinic.org,s]::1;[https://jobs.mayoclinic.org,p]::2;

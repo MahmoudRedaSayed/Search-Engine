@@ -1,2 +1,0 @@
-/exercises|[https://w3schools.com,h]::3;[https://w3schools.com,p]::1;[https://www.everydayhealth.com/cancer/guide,p]::2;
-/exemption|[https://jobs.mayoclinic.org,p]::1;

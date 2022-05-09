@@ -1,3 +1,0 @@
-/sorpresón|[https://www.marca.com,h]::1;
-/sore|[https://www.dailymail.co.uk,p]::1;
-/sorrow|[https://www.loc.gov,p]::1;

@@ -1,2 +1,0 @@
-/occupied|[https://www.dailymail.co.uk,p]::1;
-/occur|[https://www.everydayhealth.com/cancer/guide,p]::1;

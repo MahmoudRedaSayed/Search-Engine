@@ -1,2 +1,0 @@
-/boasted|[https://www.dailymail.co.uk,p]::1;
-/boarded|[https://www.dailymail.co.uk,p]::1;[https://nautil.us/about-us,h]::1;

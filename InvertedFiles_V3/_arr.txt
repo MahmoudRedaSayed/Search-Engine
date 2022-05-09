@@ -1,5 +1,0 @@
-/arrival|[https://www.dailymail.co.uk,h]::1;
-/arrested|[https://www.dailymail.co.uk,h]::1;
-/arrival at|[https://www.dailymail.co.uk,p]::1;
-/array|[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;
-/arranged|[https://www.everydayhealth.com/cancer/guide,p]::1;

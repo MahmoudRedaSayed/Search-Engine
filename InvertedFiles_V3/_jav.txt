@@ -1,1 +1,0 @@
-/javascript|[https://developers.google.com,h]::1;[https://w3schools.com,h]::5;[https://cancer.osu.edu,p]::1;[https://www.addthis.com/bookmark.php?v=250,p]::1;

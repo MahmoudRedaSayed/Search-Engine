@@ -1,2 +1,0 @@
-/island|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/islanders|[https://www.loc.gov,p]::1;

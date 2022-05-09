@@ -1,5 +1,0 @@
-/simplified|[https://w3schools.com,p]::1;
-/simply|[https://www.dailymail.co.uk,p]::1;
-/simple|[https://nautil.us,h]::1;[https://discountcode.dailymail.co.uk,p]::1;
-/simba|[https://discountcode.dailymail.co.uk,p]::1;
-/simple…|[https://www.healthline.com/nutrition,p]::1;

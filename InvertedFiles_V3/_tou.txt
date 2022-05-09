@@ -1,4 +1,0 @@
-/toughen|[https://www.sciencenewsforstudents.org,h]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;
-/touch|[https://www.dailymail.co.uk,h]::1;
-/tour|[https://www.dailymail.co.uk,h]::1;
-/touched|[https://www.everydayhealth.com/cancer/guide,p]::1;

@@ -1,2 +1,0 @@
-/keir|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::2;
-/keir's|[https://www.dailymail.co.uk,p]::1;

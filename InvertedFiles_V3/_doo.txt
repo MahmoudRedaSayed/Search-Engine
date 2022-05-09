@@ -1,2 +1,0 @@
-/doomed|[https://www.dailymail.co.uk,h]::1;
-/door'|[https://www.dailymail.co.uk,p]::1;[https://www.healthline.com/nutrition,p]::1;

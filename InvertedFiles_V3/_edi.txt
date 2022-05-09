@@ -1,5 +1,0 @@
-/editor|[https://w3schools.com,h]::1;[https://nautil.us/about-us,p]::3;
-/ediciones|[https://www.marca.com,p]::1;
-/editorial|[https://www.marca.com,p]::1;[https://nautil.us/about-us,p]::1;[https://www.everydayhealth.com/cancer/guide,h]::1;
-/edition|[https://nautil.us/about-us,p]::1;
-/editors'|[https://www.healthline.com/nutrition,h]::1;

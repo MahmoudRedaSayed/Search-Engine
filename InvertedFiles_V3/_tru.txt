@@ -1,3 +1,0 @@
-/trudeau|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/trusted|[https://stackoverflow.com,p]::2;[https://stackoverflow.co,p]::1;
-/true|[https://www.healthline.com/nutrition,p]::1;

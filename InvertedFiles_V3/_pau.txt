@@ -1,2 +1,0 @@
-/paul|[https://www.dailymail.co.uk,p]::1;
-/paulbloomington|[https://jobs.mayoclinic.org,p]::1;

@@ -1,6 +1,0 @@
-/behindthescenes|[https://www.dailymail.co.uk,p]::1;
-/behold|[https://nautil.us,p]::1;
-/behavior|[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;
-/behavioral|[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;
-/behave|[https://www.everydayhealth.com/cancer/guide,p]::1;
-/behaviors|[https://www.healthline.com/nutrition,p]::1;

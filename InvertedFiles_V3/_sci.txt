@@ -1,8 +1,0 @@
-/science|[https://www.sciencenewsforstudents.org,t]::2;[https://www.sciencenewsforstudents.org,h]::5;[https://w3schools.com,h]::1;[https://www.sciencenewsforstudents.org,p]::6;[https://www.dailymail.co.uk,p]::1;[https://nautil.us,t]::1;[https://nautil.us/about-us,t]::1;[https://nautil.us,h]::1;[https://nautil.us/about-us,h]::1;[https://www.academicinfo.net,h]::1;[https://nautil.us,p]::6;[https://nautil.us/about-us,p]::13;[https://jobs.mayoclinic.org,p]::1;[https://www.sciencenewsforstudents.org/topics,t]::1;[https://www.sciencenewsforstudents.org/topics,h]::6;[https://www.sciencenewsforstudents.org/topics,p]::6;
-/scientists|[https://www.sciencenewsforstudents.org,h]::9;[https://stackoverflow.com,h]::1;[https://www.sciencenewsforstudents.org,p]::2;[https://nautil.us,p]::1;[https://www.sciencenewsforstudents.org/topics,h]::7;[https://www.sciencenewsforstudents.org/topics,p]::2;
-/scipy|[https://w3schools.com,h]::1;
-/scientific|[https://www.sciencenewsforstudents.org,p]::1;[https://www.sciencenewsforstudents.org/topics,p]::1;
-/sciences|[https://www.academicinfo.net,h]::2;[https://nautil.us/about-us,p]::2;
-/scientists—educate|[https://nautil.us/about-us,p]::1;
-/sciencescenter|[https://jobs.mayoclinic.org,p]::1;
-/scienceexecutive|[https://jobs.mayoclinic.org,p]::1;

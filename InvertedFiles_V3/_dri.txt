@@ -1,3 +1,0 @@
-/drive|[https://www.dailymail.co.uk,h]::1;
-/dried|[https://www.dailymail.co.uk,p]::1;
-/drinks|[https://www.dailymail.co.uk,p]::1;[https://www.healthline.com/nutrition,p]::1;

@@ -1,4 +1,0 @@
-/will'|[https://www.dailymail.co.uk,h]::1;
-/wild|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/william|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;[https://www.loc.gov,h]::1;[https://stackoverflow.co,p]::1;
-/wiltshire|[https://www.dailymail.co.uk,p]::1;

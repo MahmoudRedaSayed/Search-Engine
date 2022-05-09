@@ -1,2 +1,0 @@
-/civil|[https://www.loc.gov,h]::1;
-/civilizations|[https://nautil.us,p]::1;

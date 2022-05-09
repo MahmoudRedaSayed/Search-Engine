@@ -1,3 +1,0 @@
-/deja|[https://www.marca.com,h]::1;
-/dejado|[https://www.marca.com,h]::1;
-/dejadas|[https://www.marca.com,h]::1;

@@ -1,2 +1,0 @@
-/butterfield|[https://www.dailymail.co.uk,p]::1;
-/button|[https://www.addthis.com/bookmark.php?v=250,t]::1;[https://jobs.mayoclinic.org,p]::1;[https://ask.loc.gov,p]::1;[https://discountcode.dailymail.co.uk,p]::1;

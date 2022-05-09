@@ -1,3 +1,0 @@
-/hall|[https://www.dailymail.co.uk,p]::4;
-/hall |[https://www.dailymail.co.uk,p]::1;
-/hall'|[https://www.dailymail.co.uk,p]::1;

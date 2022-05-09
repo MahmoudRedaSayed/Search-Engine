@@ -1,2 +1,0 @@
-/observed|[https://www.sciencenewsforstudents.org,p]::1;
-/obstacles|[https://www.everydayhealth.com/cancer/guide,p]::1;

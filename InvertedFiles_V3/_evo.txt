@@ -1,2 +1,0 @@
-/evolution|[https://nautil.us,h]::1;
-/evolves|[https://jobs.mayoclinic.org,p]::2;

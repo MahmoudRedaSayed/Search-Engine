@@ -1,1 +1,0 @@
-/yorkshire|[https://www.dailymail.co.uk,h]::1;[https://nautil.us,h]::1;[https://www.loc.gov,h]::5;[https://stackoverflow.co,h]::1;[https://stackoverflow.co,p]::2;

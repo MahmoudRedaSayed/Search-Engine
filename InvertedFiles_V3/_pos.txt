@@ -1,7 +1,0 @@
-/posing|[https://www.dailymail.co.uk,p]::1;
-/post|[https://www.dailymail.co.uk,p]::1;[https://www.loc.gov,h]::2;[https://jobs.mayoclinic.org,p]::1;
-/pose|[https://nautil.us,h]::1;
-/postings|[https://jobs.mayoclinic.org,p]::1;
-/positions|[https://www.nemours.org?external_id=RE2350835010600,h]::1;
-/positive|[https://www.everydayhealth.com/cancer/guide,p]::2;
-/poses|[https://www.healthline.com/nutrition,p]::1;

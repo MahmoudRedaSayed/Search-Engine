@@ -1,4 +1,0 @@
-/smartphones|[https://www.sciencenewsforstudents.org,h]::5;[https://www.sciencenewsforstudents.org/topics,h]::5;[https://www.sciencenewsforstudents.org/topics,p]::2;
-/smarter|[https://www.academia.edu,h]::1;[https://www.sciencenewsforstudents.org,h]::1;
-/small|[https://www.dailymail.co.uk,h]::1;[https://www.everydayhealth.com/cancer/guide,p]::2;
-/smaller|[https://nautil.us,p]::1;

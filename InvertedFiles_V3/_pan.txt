@@ -1,5 +1,0 @@
-/pandas|[https://w3schools.com,h]::1;
-/panama|[https://www.dailymail.co.uk,p]::1;
-/pancreatic|[https://www.everydayhealth.com/cancer/guide,p]::2;
-/pandora|[https://discountcode.dailymail.co.uk,p]::1;
-/panic|[https://www.everydayhealth.com/cancer/guide,p]::1;

@@ -1,2 +1,0 @@
-/clean|[https://www.dailymail.co.uk,p]::1;
-/clearer|[https://www.dailymail.co.uk,p]::1;

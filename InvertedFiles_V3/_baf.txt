@@ -1,3 +1,0 @@
-/bafta|[https://www.dailymail.co.uk,h]::8;[https://www.dailymail.co.uk,p]::2;
-/bafta television|[https://www.dailymail.co.uk,p]::2;
-/baftas|[https://www.dailymail.co.uk,p]::2;

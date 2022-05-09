@@ -1,5 +1,0 @@
-/picker|[https://w3schools.com,h]::1;
-/picnicked|[https://www.dailymail.co.uk,p]::1;[https://www.loc.gov,h]::1;
-/picnicking|[https://www.dailymail.co.uk,p]::1;
-/pictured|[https://www.dailymail.co.uk,p]::5;[https://nautil.us,p]::1;
-/picks|[https://www.healthline.com/nutrition,h]::1;

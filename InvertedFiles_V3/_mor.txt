@@ -1,6 +1,0 @@
-/morir|[https://www.marca.com,h]::1;
-/mordisco|[https://www.marca.com,h]::1;
-/morant?|[https://www.marca.com,h]::1;
-/morancos'|[https://www.marca.com,h]::1;
-/morning|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::4;
-/more content|[https://www.loc.gov,p]::1;

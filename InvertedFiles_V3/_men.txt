@@ -1,4 +1,0 @@
-/menores|[https://www.marca.com,h]::1;[https://www.dailymail.co.uk,p]::2;[https://www.loc.gov,h]::2;[https://www.loc.gov,p]::2;[https://www.everydayhealth.com/cancer/guide,p]::1;
-/mention|[https://www.academia.edu,p]::1;
-/menstrual|[https://www.dailymail.co.uk,p]::1;
-/mental|[https://www.nemours.org?external_id=RE2350835010600,p]::1;

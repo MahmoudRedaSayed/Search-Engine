@@ -1,3 +1,0 @@
-/sick|[https://www.dailymail.co.uk,h]::1;
-/sicklecell|[https://www.sciencenewsforstudents.org,h]::2;
-/sickness|[https://www.dailymail.co.uk,h]::1;

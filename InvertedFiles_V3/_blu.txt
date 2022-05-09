@@ -1,3 +1,0 @@
-/blur|[https://www.sciencenewsforstudents.org,h]::1;
-/blue|[https://www.sciencenewsforstudents.org,p]::1;[https://www.dailymail.co.uk,p]::1;
-/blunders|[https://www.dailymail.co.uk,h]::1;

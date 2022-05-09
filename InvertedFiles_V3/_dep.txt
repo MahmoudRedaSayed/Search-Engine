@@ -1,8 +1,0 @@
-/deportiva|[https://www.marca.com,t]::1;[https://www.marca.com,p]::1;
-/deportivas|[https://www.marca.com,h]::1;
-/dependency|[https://www.dailymail.co.uk,p]::1;
-/deputy|[https://www.dailymail.co.uk,p]::2;
-/depth|[https://www.academicinfo.net,h]::1;
-/depths|[https://nautil.us,p]::1;[https://nautil.us/about-us,p]::2;
-/department|[https://nautil.us/about-us,p]::2;[https://jobs.mayoclinic.org,p]::1;
-/depending|[https://www.everydayhealth.com/cancer/guide,p]::1;

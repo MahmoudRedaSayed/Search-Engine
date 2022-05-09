@@ -1,2 +1,0 @@
-/poisoning|[https://www.dailymail.co.uk,h]::1;
-/pointed|[https://www.dailymail.co.uk,p]::1;[https://nautil.us/about-us,p]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;

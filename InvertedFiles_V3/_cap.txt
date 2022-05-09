@@ -1,5 +1,0 @@
-/capa|[https://www.sciencenewsforstudents.org,h]::1;
-/captain|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;[https://nautil.us/about-us,p]::1;
-/captures|[https://www.sciencenewsforstudents.org,h]::1;[https://stackoverflow.com,p]::2;
-/capital|[https://www.dailymail.co.uk,p]::1;[https://nautil.us/about-us,p]::1;
-/capital's|[https://www.dailymail.co.uk,p]::1;

@@ -1,2 +1,0 @@
-/teen|[https://www.sciencenewsforstudents.org,h]::2;[https://www.sciencenewsforstudents.org,p]::1;[https://www.sciencenewsforstudents.org/topics,h]::2;[https://www.sciencenewsforstudents.org/topics,p]::1;
-/teens|[https://www.sciencenewsforstudents.org,p]::1;[https://www.sciencenewsforstudents.org/topics,p]::1;

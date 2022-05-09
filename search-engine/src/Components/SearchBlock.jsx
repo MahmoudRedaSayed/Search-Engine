@@ -106,7 +106,7 @@ function SearchBlock (){
                 <div className="card mb-3 center-block" style={{"margin-top": "20%","width": "100%","border":"none","background-color": "transparent"}}>
                     <div className="row g-0">
                         <div className=" col-md-12">
-                            <h1 className="text-center"style={{"color":"#198754","font-size":"5rem"}} >K3M</h1>
+                            <h1 className="text-center"style={{"color":"rgb(11 149 212)","font-size":"5rem","font-family": "cursive"}} >K<i style={{"color":"#c7c2c2"}}>3</i>M</h1>
                             <div className="card-body">
                                 <SearchField Style={{"padding": "20px","border-radius": "30px"
                                 ,"font-size": "21px","background-color": "#fff"

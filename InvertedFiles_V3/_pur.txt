@@ -1,1 +1,0 @@
-/purchase|[https://www.dailymail.co.uk,p]::1;[https://discountcode.dailymail.co.uk,p]::2;[https://www.everydayhealth.com/cancer/guide,p]::1;

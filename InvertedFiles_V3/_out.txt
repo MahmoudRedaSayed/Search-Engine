@@ -1,5 +1,0 @@
-/outfit|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/out?|[https://www.dailymail.co.uk,h]::1;
-/outrage|[https://www.dailymail.co.uk,h]::1;
-/outstanding|[https://stackoverflow.co,h]::1;
-/outlook|[https://www.everydayhealth.com/cancer/guide,p]::1;

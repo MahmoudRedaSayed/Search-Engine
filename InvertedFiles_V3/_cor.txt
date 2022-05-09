@@ -1,9 +1,0 @@
-/corals|[https://www.sciencenewsforstudents.org,h]::2;[https://www.sciencenewsforstudents.org,p]::1;
-/correctness|[https://w3schools.com,p]::1;
-/coroner's|[https://www.dailymail.co.uk,p]::2;
-/cornwallbased|[https://www.dailymail.co.uk,p]::1;[https://nautil.us,h]::1;
-/corporate|[https://nautil.us/about-us,p]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;
-/cornell|[https://nautil.us/about-us,p]::1;
-/core|[https://stackoverflow.co,h]::1;
-/cord|[https://www.everydayhealth.com/cancer/guide,s]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;
-/cornerstone|[https://www.healthline.com/nutrition,p]::1;

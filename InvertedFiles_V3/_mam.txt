@@ -1,2 +1,0 @@
-/mamífero|[https://www.sciencenewsforstudents.org,p]::1;
-/mammograms|[https://www.everydayhealth.com/cancer/guide,p]::1;

@@ -1,4 +1,0 @@
-/sunpowered|[https://www.sciencenewsforstudents.org,h]::3;[https://www.dailymail.co.uk,p]::1;[https://www.sciencenewsforstudents.org/topics,h]::3;[https://www.everydayhealth.com/cancer/guide,p]::2;
-/sunday|[https://www.dailymail.co.uk,s]::1;[https://www.dailymail.co.uk,p]::9;[https://discountcode.dailymail.co.uk,p]::1;
-/sunday'|[https://www.dailymail.co.uk,p]::1;
-/sunglass|[https://discountcode.dailymail.co.uk,p]::1;

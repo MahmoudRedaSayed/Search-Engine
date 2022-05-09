@@ -1,4 +1,0 @@
-/favourite|[https://discountcode.dailymail.co.uk,h]::3;
-/favorite|[https://www.everydayhealth.com/cancer/guide,h]::7;[https://www.everydayhealth.com/cancer/guide,s]::6;[https://www.everydayhealth.com/cancer/guide,p]::1;
-/fave|[https://discountcode.dailymail.co.uk,p]::1;
-/favourites|[https://discountcode.dailymail.co.uk,p]::1;

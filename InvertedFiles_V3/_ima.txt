@@ -1,7 +1,0 @@
-/images|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;[https://www.loc.gov,p]::1;
-/imaginary|[https://www.sciencenewsforstudents.org,h]::1;
-/imagine|[https://jobs.mayoclinic.org,h]::1;
-/imani|[https://nautil.us,p]::1;
-/imaginations|[https://nautil.us/about-us,p]::1;
-/imaging|[https://www.everydayhealth.com/cancer/guide,p]::1;
-/imagery|[https://www.everydayhealth.com/cancer/guide,p]::1;

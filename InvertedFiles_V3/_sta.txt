@@ -1,9 +1,0 @@
-/stack|[https://stackoverflow.co,s]::2;[https://stackoverflow.co,p]::9;
-/stackers|[https://stackoverflow.co,p]::1;
-/start|[https://www.everydayhealth.com/cancer/guide,p]::4;[https://discountcode.dailymail.co.uk,p]::1;[https://www.healthline.com/nutrition,p]::1;
-/stay|[https://www.everydayhealth.com/cancer/guide,p]::4;
-/starts|[https://www.nemours.org?external_id=RE2350835010600,p]::1;
-/started|[https://www.everydayhealth.com/cancer/guide,p]::3;[https://www.healthline.com/nutrition,p]::1;
-/stage|[https://www.everydayhealth.com/cancer/guide,p]::7;
-/staging|[https://www.everydayhealth.com/cancer/guide,p]::2;
-/stages|[https://www.everydayhealth.com/cancer/guide,p]::2;

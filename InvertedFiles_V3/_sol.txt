@@ -1,8 +1,0 @@
-/solution|[https://developers.google.com,h]::1;[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;
-/soldiers|[https://www.dailymail.co.uk,h]::2;[https://www.dailymail.co.uk,p]::3;[https://www.loc.gov,h]::1;
-/solve|[https://stackoverflow.com,p]::2;
-/solved|[https://stackoverflow.com,p]::1;
-/solovyov|[https://www.dailymail.co.uk,p]::1;
-/solutions|[https://nautil.us,p]::1;
-/solving|[https://jobs.mayoclinic.org,p]::1;
-/solid|[https://www.everydayhealth.com/cancer/guide,p]::1;

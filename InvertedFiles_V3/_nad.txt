@@ -1,2 +1,0 @@
-/nadal|[https://www.marca.com,h]::2;
-/nada"|[https://www.marca.com,h]::1;

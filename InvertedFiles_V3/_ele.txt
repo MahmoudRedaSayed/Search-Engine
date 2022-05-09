@@ -1,3 +1,0 @@
-/eleanor|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/elections|[https://www.dailymail.co.uk,h]::4;
-/elevation|[https://www.dailymail.co.uk,p]::1;

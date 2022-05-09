@@ -1,4 +1,0 @@
-/labour|[https://www.dailymail.co.uk,h]::2;[https://www.dailymail.co.uk,p]::1;[https://nautil.us/about-us,p]::1;
-/labs|[https://nautil.us/about-us,p]::1;
-/laboratories|[https://jobs.mayoclinic.org,p]::1;
-/laboratoriesmayo|[https://jobs.mayoclinic.org,p]::1;

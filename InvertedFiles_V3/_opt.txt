@@ -1,6 +1,0 @@
-/optimized|[https://w3schools.com,p]::1;[https://www.addthis.com/bookmark.php?v=250,p]::1;[https://ask.loc.gov,p]::1;
-/options|[https://www.academicinfo.net,p]::2;[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;[https://www.everydayhealth.com/cancer/guide,p]::3;
-/optional|[https://ask.loc.gov,s]::1;[https://ask.loc.gov,p]::1;
-/optimization |[https://accounts.accessibe.com/statement/?domain=academicinfo.net,s]::2;
-/optimizes|[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;
-/optimal|[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;[https://www.healthline.com/nutrition,p]::1;

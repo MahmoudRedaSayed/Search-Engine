@@ -1,4 +1,0 @@
-/moon|[https://www.sciencenewsforstudents.org,p]::1;[https://www.sciencenewsforstudents.org/topics,p]::1;
-/moore|[https://www.loc.gov,h]::1;
-/moorhouse|[https://www.loc.gov,h]::1;
-/moonshot|[https://www.everydayhealth.com/cancer/guide,h]::3;

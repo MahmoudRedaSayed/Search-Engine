@@ -1,2 +1,0 @@
-/bee|[https://www.dailymail.co.uk,h]::1;
-/beergate|[https://www.dailymail.co.uk,h]::1;

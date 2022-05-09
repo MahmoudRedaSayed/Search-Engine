@@ -1,2 +1,0 @@
-/kickstart|[https://w3schools.com,h]::1;[https://www.dailymail.co.uk,h]::2;
-/kicked|[https://www.dailymail.co.uk,p]::1;

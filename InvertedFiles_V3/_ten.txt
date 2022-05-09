@@ -1,3 +1,0 @@
-/tenerife|[https://www.marca.com,h]::1;
-/tend|[https://www.sciencenewsforstudents.org,h]::1;[https://www.healthline.com/nutrition,p]::1;
-/tendons|[https://www.everydayhealth.com/cancer/guide,p]::1;

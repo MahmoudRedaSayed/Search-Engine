@@ -1,3 +1,0 @@
-/vegetarian|[https://www.healthline.com/nutrition,p]::1;
-/vegan|[https://www.healthline.com/nutrition,p]::2;
-/veganism|[https://www.healthline.com/nutrition,p]::1;

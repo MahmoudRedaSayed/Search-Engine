@@ -1,3 +1,0 @@
-/una|[https://www.marca.com,h]::2;
-/unannounced|[https://www.dailymail.co.uk,h]::1;
-/unable|[https://www.dailymail.co.uk,p]::1;

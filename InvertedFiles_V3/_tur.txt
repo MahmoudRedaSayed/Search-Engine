@@ -1,3 +1,0 @@
-/turning|[https://www.sciencenewsforstudents.org,h]::2;[https://www.dailymail.co.uk,p]::1;[https://www.everydayhealth.com/cancer/guide,h]::1;[https://www.sciencenewsforstudents.org/topics,h]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;
-/turns|[https://www.sciencenewsforstudents.org,h]::1;
-/turkey|[https://www.healthline.com/nutrition,p]::1;

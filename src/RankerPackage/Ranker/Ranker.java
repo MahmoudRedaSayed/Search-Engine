@@ -47,7 +47,7 @@ public class Ranker
         double InitialPageRank = 1.0 / totalNodes;
 
         // initialize the rank of each page //
-        for (int k = 0; k < totalNodes; k++)
+        for (int k = 1; k <= totalNodes; k++)
             pagesRank1.put(completedLinks[k], InitialPageRank);
 
         //ITERATION_STEP is used to iterate twice following PageRank Algorithm steps
@@ -55,7 +55,7 @@ public class Ranker
         while (ITERATION_STEP <= 2) {
 
             // Store the PageRank for All Nodes in Temporary Map
-            for (int k = 0; k < totalNodes; k++) {
+            for (int k = 71; k <= totalNodes; k++) {
                 TempPageRank.put(completedLinks[k], pagesRank1.get(completedLinks[k]));
                 pagesRank1.put(completedLinks[k], 0.0);
             }
@@ -68,15 +68,12 @@ public class Ranker
             double temp = 1 - tempSum;
 
             //slice of each link of them
-            double slice = temp / totalNodes;//ToDo: chang it later
+            double slice = temp / 70;//ToDo: chang it later
 
             //if the link don't have parents
-            for ( int i=0 ; i<totalNodes ; i++ )//ToDo: chang it later
+            for ( int i=1 ; i<=70 ; i++ )//ToDo: chang it later
             {
-                //if ( pagesRank1.get(completedLinks[i]).equals(-1.0) )
-                //{
                 pagesRank1.put(completedLinks[i] , slice);
-                //}
             }
 
             //increase the ITERATION_STEP

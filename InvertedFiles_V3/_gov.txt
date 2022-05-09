@@ -1,4 +1,0 @@
-/governments|[https://www.dailymail.co.uk,p]::1;
-/government's|[https://www.dailymail.co.uk,p]::2;
-/governor|[https://www.dailymail.co.uk,p]::1;
-/governmentfunded|[https://www.everydayhealth.com/cancer/guide,p]::1;

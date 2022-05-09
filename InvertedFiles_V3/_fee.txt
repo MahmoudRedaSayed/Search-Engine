@@ -1,4 +1,0 @@
-/feel|[https://www.dailymail.co.uk,h]::1;[https://www.academicinfo.net,p]::1;[https://www.everydayhealth.com/cancer/guide,s]::2;[https://www.everydayhealth.com/cancer/guide,p]::3;
-/feeling|[https://www.dailymail.co.uk,p]::1;[https://nautil.us,p]::1;
-/feedback|[https://accounts.accessibe.com/statement/?domain=academicinfo.net,h]::1;[https://stackoverflow.co,s]::1;[https://stackoverflow.co,p]::1;[https://www.healthline.com/nutrition,p]::1;
-/feel…|[https://www.healthline.com/nutrition,p]::1;

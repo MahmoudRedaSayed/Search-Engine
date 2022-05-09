@@ -1,6 +1,0 @@
-/palmeo|[https://www.marca.com,h]::1;[https://www.healthline.com/nutrition,p]::1;
-/pale|[https://www.dailymail.co.uk,p]::1;
-/palouse|[https://www.loc.gov,h]::1;
-/paleontologist|[https://nautil.us,p]::1;
-/paleontology|[https://nautil.us/about-us,p]::1;
-/palliative|[https://jobs.mayoclinic.org,p]::1;[https://www.everydayhealth.com/cancer/guide,h]::1;[https://www.everydayhealth.com/cancer/guide,s]::1;[https://www.everydayhealth.com/cancer/guide,p]::2;

@@ -1,2 +1,0 @@
-/again'|[https://www.dailymail.co.uk,h]::1;
-/again"|[https://discountcode.dailymail.co.uk,p]::1;

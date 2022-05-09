@@ -1,8 +1,0 @@
-/center|[https://www.academia.edu,s]::1;[https://cancer.osu.edu,t]::1;[https://www.loc.gov,h]::3;[https://stackoverflow.co,h]::1;
-/centralized|[https://stackoverflow.com,p]::2;[https://jobs.mayoclinic.org,p]::1;
-/century|[https://www.dailymail.co.uk,p]::1;
-/centuries|[https://www.loc.gov,p]::1;
-/centercenter|[https://jobs.mayoclinic.org,p]::1;
-/centershealthy|[https://jobs.mayoclinic.org,p]::1;[https://ask.loc.gov,p]::1;[https://www.nemours.org?external_id=RE2350835010600,p]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;
-/centerurgent|[https://jobs.mayoclinic.org,p]::1;
-/cents|[https://www.everydayhealth.com/cancer/guide,p]::1;

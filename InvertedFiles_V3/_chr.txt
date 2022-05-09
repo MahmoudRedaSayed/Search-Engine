@@ -1,4 +1,0 @@
-/chrome's|[https://developers.google.com,h]::1;[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;
-/chris|[https://www.dailymail.co.uk,p]::1;
-/chromolithograph|[https://www.loc.gov,h]::2;
-/chronic|[https://www.healthline.com/nutrition,p]::1;

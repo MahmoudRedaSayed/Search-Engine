@@ -1,2 +1,0 @@
-/ripping|[https://www.dailymail.co.uk,p]::1;
-/ripples|[https://nautil.us,p]::1;[https://nautil.us/about-us,p]::2;

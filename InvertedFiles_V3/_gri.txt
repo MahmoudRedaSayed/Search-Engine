@@ -1,5 +1,0 @@
-/gritty|[https://www.sciencenewsforstudents.org,h]::1;[https://www.sciencenewsforstudents.org/topics,h]::1;
-/grilled|[https://www.dailymail.co.uk,p]::1;
-/grievous|[https://www.dailymail.co.uk,p]::1;
-/grinning|[https://www.dailymail.co.uk,p]::1;
-/grief|[https://nautil.us,p]::1;

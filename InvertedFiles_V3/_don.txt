@@ -1,9 +1,0 @@
-/dont|[https://stackoverflow.com,p]::1;[https://www.everydayhealth.com/cancer/guide,s]::1;[https://www.everydayhealth.com/cancer/guide,p]::6;[https://www.healthline.com/nutrition,p]::1;
-/donbas|[https://www.dailymail.co.uk,p]::2;
-/donnis|[https://www.dailymail.co.uk,p]::3;
-/donovan|[https://www.dailymail.co.uk,p]::1;
-/donaldson|[https://www.loc.gov,h]::1;
-/donations|[https://www.nemours.org?external_id=RE2350835010600,h]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;
-/dont?|[https://www.everydayhealth.com/cancer/guide,h]::1;
-/donating|[https://www.sciencenewsforstudents.org/topics,p]::1;
-/doneinaflash|[https://www.healthline.com/nutrition,p]::1;

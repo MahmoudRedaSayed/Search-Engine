@@ -1,2 +1,0 @@
-/onboard|[https://www.dailymail.co.uk,p]::1;
-/onboarding|[https://jobs.mayoclinic.org,p]::1;

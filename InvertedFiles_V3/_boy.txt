@@ -1,2 +1,0 @@
-/boycott|[https://www.dailymail.co.uk,h]::1;
-/boyz|[https://www.loc.gov,p]::1;

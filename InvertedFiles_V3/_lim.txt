@@ -1,2 +1,0 @@
-/limit|[https://stackoverflow.com,p]::1;
-/limitations|[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;

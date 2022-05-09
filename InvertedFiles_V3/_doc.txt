@@ -1,5 +1,0 @@
-/doctor|[https://www.dailymail.co.uk,h]::3;[https://www.dailymail.co.uk,p]::5;[https://www.everydayhealth.com/cancer/guide,p]::5;
-/docs|[https://stackoverflow.com,p]::1;
-/dock|[https://www.dailymail.co.uk,p]::1;
-/document|[https://www.dailymail.co.uk,p]::2;[https://www.everydayhealth.com/cancer/guide,p]::1;
-/doctors|[https://jobs.mayoclinic.org,p]::1;[https://www.everydayhealth.com/cancer/guide,p]::10;

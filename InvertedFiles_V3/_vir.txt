@@ -1,3 +1,0 @@
-/virgin|[https://www.dailymail.co.uk,p]::1;
-/viral|[https://nautil.us,h]::1;
-/virtual|[https://ask.loc.gov,p]::1;[https://www.sciencenewsforstudents.org/topics,h]::1;

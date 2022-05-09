@@ -1,8 +1,0 @@
-/finds|[https://www.sciencenewsforstudents.org,h]::2;[https://www.sciencenewsforstudents.org/topics,h]::3;
-/fingers|[https://www.sciencenewsforstudents.org,h]::1;
-/finalista|[https://www.marca.com,h]::1;[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/fined|[https://www.dailymail.co.uk,h]::1;
-/financial|[https://www.dailymail.co.uk,p]::1;[https://nautil.us,p]::1;[https://www.everydayhealth.com/cancer/guide,s]::1;[https://www.everydayhealth.com/cancer/guide,p]::6;
-/finalise|[https://discountcode.dailymail.co.uk,p]::1;
-/findings|[https://www.everydayhealth.com/cancer/guide,p]::1;
-/finances|[https://www.everydayhealth.com/cancer/guide,p]::1;

@@ -1,4 +1,0 @@
-/earth|[https://www.sciencenewsforstudents.org,h]::2;[https://nautil.us,p]::2;[https://nautil.us/about-us,p]::1;[https://www.sciencenewsforstudents.org/topics,h]::1;
-/early|[https://www.everydayhealth.com/cancer/guide,p]::2;
-/early?|[https://www.everydayhealth.com/cancer/guide,p]::1;
-/earlier|[https://www.everydayhealth.com/cancer/guide,p]::1;

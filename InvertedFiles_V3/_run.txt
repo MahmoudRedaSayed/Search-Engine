@@ -1,2 +1,0 @@
-/runny|[https://www.dailymail.co.uk,p]::1;
-/runs|[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;

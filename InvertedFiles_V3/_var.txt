@@ -1,2 +1,0 @@
-/variety|[https://nautil.us,p]::1;[https://jobs.mayoclinic.org,p]::2;[https://www.everydayhealth.com/cancer/guide,h]::1;[https://www.everydayhealth.com/cancer/guide,s]::1;[https://www.everydayhealth.com/cancer/guide,p]::3;
-/variables|[https://www.sciencenewsforstudents.org/topics,p]::1;

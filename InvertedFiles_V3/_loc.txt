@@ -1,9 +1,0 @@
-/local|[https://www.dailymail.co.uk,h]::3;[https://www.dailymail.co.uk,p]::4;
-/locura|[https://www.marca.com,h]::1;
-/location|[https://stackoverflow.com,p]::1;[https://jobs.mayoclinic.org,p]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;
-/located|[https://www.dailymail.co.uk,p]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;
-/locals|[https://www.dailymail.co.uk,p]::1;
-/locations|[https://jobs.mayoclinic.org,p]::1;
-/locationselect|[https://jobs.mayoclinic.org,p]::1;
-/locationalbert|[https://jobs.mayoclinic.org,p]::1;
-/locally|[https://ask.loc.gov,p]::1;

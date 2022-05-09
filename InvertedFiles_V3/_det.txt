@@ -1,7 +1,0 @@
-/detailed|[https://www.academia.edu,p]::1;
-/detained|[https://www.dailymail.co.uk,p]::1;
-/detroit|[https://www.loc.gov,h]::1;
-/details|[https://www.academicinfo.net,p]::1;
-/determination|[https://www.loc.gov,p]::1;
-/determine|[https://ask.loc.gov,p]::1;
-/determined|[https://www.everydayhealth.com/cancer/guide,p]::1;

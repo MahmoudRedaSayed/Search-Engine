@@ -1,2 +1,0 @@
-/writer|[https://www.dailymail.co.uk,h]::1;[https://nautil.us/about-us,p]::1;[https://www.healthline.com/nutrition,p]::1;
-/writers—journalists|[https://nautil.us/about-us,p]::1;

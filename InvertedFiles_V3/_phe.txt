@@ -1,2 +1,0 @@
-/pheasants|[https://www.dailymail.co.uk,h]::2;[https://www.dailymail.co.uk,p]::1;
-/phelps|[https://www.nemours.org?external_id=RE2350835010600,p]::2;

@@ -1,3 +1,0 @@
-/doris|[https://www.loc.gov,h]::1;
-/dorothea|[https://www.loc.gov,h]::1;
-/dorothy|[https://www.loc.gov,h]::2;

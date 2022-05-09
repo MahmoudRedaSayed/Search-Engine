@@ -1,3 +1,0 @@
-/especialista|[https://www.marca.com,h]::1;
-/español|[https://www.sciencenewsforstudents.org,h]::1;
-/españa"|[https://www.marca.com,h]::1;

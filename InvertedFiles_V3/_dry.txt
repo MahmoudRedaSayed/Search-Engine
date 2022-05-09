@@ -1,2 +1,0 @@
-/dry|[https://www.dailymail.co.uk,p]::1;
-/dryden|[https://www.dailymail.co.uk,p]::1;

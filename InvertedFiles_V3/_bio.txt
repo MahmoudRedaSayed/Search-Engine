@@ -1,7 +1,0 @@
-/biology|[https://nautil.us,p]::1;[https://nautil.us/about-us,p]::2;
-/biological|[https://nautil.us,p]::1;[https://nautil.us/about-us,p]::1;
-/biologydermatologyquantitative|[https://jobs.mayoclinic.org,p]::1;
-/biomedical|[https://jobs.mayoclinic.org,p]::1;
-/biologyclinical|[https://jobs.mayoclinic.org,p]::1;
-/biologyhealth|[https://jobs.mayoclinic.org,p]::1;
-/biopsy|[https://www.everydayhealth.com/cancer/guide,p]::1;

@@ -1,2 +1,0 @@
-/korean|[https://www.loc.gov,h]::1;
-/kors|[https://discountcode.dailymail.co.uk,p]::1;

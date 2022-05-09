@@ -1,2 +1,0 @@
-/fell|[https://www.dailymail.co.uk,h]::1;
-/fellowship|[https://jobs.mayoclinic.org,p]::1;[https://stackoverflow.co,p]::1;[https://discountcode.dailymail.co.uk,p]::1;

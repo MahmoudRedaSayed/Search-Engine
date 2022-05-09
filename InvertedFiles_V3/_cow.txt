@@ -1,2 +1,0 @@
-/cows|[https://www.sciencenewsforstudents.org,h]::1;
-/coworkers|[https://stackoverflow.co,p]::1;

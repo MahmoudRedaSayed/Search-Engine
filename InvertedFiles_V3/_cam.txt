@@ -1,3 +1,0 @@
-/camisetas|[https://www.marca.com,h]::2;
-/campaign|[https://www.dailymail.co.uk,p]::2;[https://www.loc.gov,h]::1;[https://discountcode.dailymail.co.uk,h]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;
-/campus|[https://www.academicinfo.net,h]::1;

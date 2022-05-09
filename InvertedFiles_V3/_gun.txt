@@ -1,2 +1,0 @@
-/gun|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;[https://www.loc.gov,h]::2;
-/gunmen|[https://www.dailymail.co.uk,h]::1;

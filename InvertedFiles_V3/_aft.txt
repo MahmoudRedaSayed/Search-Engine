@@ -1,2 +1,0 @@
-/afternoon|[https://www.dailymail.co.uk,p]::2;
-/afternoon at|[https://www.dailymail.co.uk,p]::2;

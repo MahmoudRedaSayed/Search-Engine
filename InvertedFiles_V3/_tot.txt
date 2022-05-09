@@ -1,2 +1,0 @@
-/total|[https://www.dailymail.co.uk,p]::1;[https://www.loc.gov,h]::1;
-/totnes|[https://www.dailymail.co.uk,p]::1;

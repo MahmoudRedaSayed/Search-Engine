@@ -1,2 +1,0 @@
-/washing|[https://www.loc.gov,h]::1;
-/washington|[https://www.loc.gov,h]::3;
