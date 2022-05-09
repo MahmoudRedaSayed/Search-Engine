@@ -31,6 +31,13 @@ import javax.xml.crypto.Data;
 public class Main {
 
     public static void main(String[] args) throws FileNotFoundException, JSONException {
+        Ranker rand=new Ranker();
+        ArrayList<String> data=new ArrayList<String>();
+        //consultancy|[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;
+        //contract|[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.sky.com,p]:1;[http://www.nowtv.com/promo/sky-sports?dcmp=ilc_SSNTV_skysports_hardcode_moredropdownlink,p]:1;
+        data.add("consultancy|[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;");
+        data.add("contract|[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.skysports.com/,h]:1;[https://www.sky.com,p]:1;[http://www.nowtv.com/promo/sky-sports?dcmp=ilc_SSNTV_skysports_hardcode_moredropdownlink,p]:1;");
+        rand.calculateRelevance(data);
 
 //       UrlThread obj=new UrlThread();
 //       obj.linkProcessing("https://cplusplus.com",1,1,1,1,-1);
@@ -42,29 +49,29 @@ public class Main {
         //----------------------------------------Crawler-----------------------------------------//
         // DataBase DataBaseObject = new DataBase();
         // UrlThread.Limit+=DataBaseObject.getCompleteCount();
-         Thread ThreadsArray[]=new Thread[51];
-
-        // UrlThread obj=new UrlThread();
-         for(int i=0;i<51;i++)
-         {
-             ThreadsArray[i] = new Thread(new UrlThread());
-             ThreadsArray[i].setName("Thread" + (i+1));
-
-         }
-//         Thread.currentThread().setName("Thread4");
-         for(int i=0;i<51;i++)
-         {
-             ThreadsArray[i].start();
-         }
-             for(int i=0;i<51;i++)
-         {
-
-             try {
-                 ThreadsArray[i].join();
-             } catch (InterruptedException e) {
-
-             }
-         }
+//         Thread ThreadsArray[]=new Thread[51];
+//
+//        // UrlThread obj=new UrlThread();
+//         for(int i=0;i<10;i++)
+//         {
+//             ThreadsArray[i] = new Thread(new UrlThread());
+//             ThreadsArray[i].setName("Thread" + (i+1));
+//
+//         }
+////         Thread.currentThread().setName("Thread4");
+//         for(int i=0;i<10;i++)
+//         {
+//             ThreadsArray[i].start();
+//         }
+//         for(int i=0;i<10;i++)
+//         {
+//
+//             try {
+//                 ThreadsArray[i].join();
+//             } catch (InterruptedException e) {
+//
+//             }
+//         }
         //------------------------------------------------------------------------------------------//
 
 //

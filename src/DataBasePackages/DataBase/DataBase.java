@@ -315,7 +315,7 @@ public class DataBase {
         String[] completedLinks = new String[linksCount];
         int i = 0;
         try{
-            ResultSet rs = this.stmt.executeQuery("SELECT Link FROM links where Completed = 1;" );
+            ResultSet rs = this.stmt.executeQuery("SELECT * FROM links where Completed = 1;" );
             while (rs.next())
             {
                 completedLinks[i++] = rs.getString("Link");
@@ -548,23 +548,19 @@ public class DataBase {
     public Map<String, Long> getWordsCountAsMap()
     {
         Map<String, Long> resultMap = new HashMap<>();
-
-        String query = "SELECT * FROM lengths";
-
         try {
-            ResultSet resultSet = this.stmt.executeQuery(query);
+            ResultSet resultSet = this.stmt.executeQuery("SELECT * FROM links;");
 
             while (resultSet.next())
             {
-                resultMap.put(resultSet.getString("Link"), resultSet.getLong("WordsCount"));
+                resultMap.put(resultSet.getString("Link"), resultSet.getLong("wordsCount"));
             }
+            return resultMap;
 
         } catch (SQLException e) {
-            System.out.println("Failed to execute this query --> " + query);
             return null;
         }
 
-        return resultMap;
     }
 
     //////////////////////////////////////////////////////////////////////////////////////////////////////
