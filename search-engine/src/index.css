@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  margin-bottom: -15px;
   /* max-height: 100vh; */
   /* overflow-y: hidden; */
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -7,6 +8,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /* position: relative; */
   /* overflow: hidden; */
 }
 
@@ -23,14 +25,18 @@ code {
   height: 100%;
 }
 .navbar{
-  z-index: 1;
+  z-index: 2;
+  position:fixed !important;
+  top: 0;
+  right: 0;
+  left: 0;
 }
 .Slider{
   max-height: 300px;
   overflow-y: scroll;
   background-color: #fff;
 }
-.Slider::-webkit-scrollbar {
+*::-webkit-scrollbar {
   display: none;
 }
 .Overlay{

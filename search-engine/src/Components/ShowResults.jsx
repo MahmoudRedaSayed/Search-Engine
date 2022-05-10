@@ -4,6 +4,7 @@ import { render } from "react-dom";
 import {BrowserRouter,Route,Link} from "react-router-dom"
 import "../../node_modules/bootstrap/dist/css/bootstrap.css";
 import Result from "./Result";
+import Spinner from "react-spinkit";
 
 class Results extends Component{
     state={
@@ -14,8 +15,12 @@ class Results extends Component{
             PagePosts:[],
             query:this.props.query,
             queryArray:[],
+            load:true,
         };
         componentDidMount(){
+            this.setState({load:true});
+            console.log(this.state.load);
+            console.log("ahhhhhhhhhhhhhhhhhhhhh");
             fetch(" http://localhost:8000/History").then(response=>{
                 if(response.ok)
                 {
@@ -48,6 +53,9 @@ class Results extends Component{
                 console.log(data);
             })
             
+            setTimeout(()=>{this.setState({load:false});},12000);
+            console.log(this.state.load);
+
         }
         ChangePage=(pageNumber)=>{
             setTimeout(()=>{
@@ -95,9 +103,10 @@ class Results extends Component{
         
         return(
             <div >
-                <Result Posts={this.state.PagePosts} query={this.state.query}/>
-
-                {this.state.PagesNumbers.length>1&&<section aria-label="Page navigation example">
+                {this.state.load&&<Spinner name="chasing-dots" style={{ width: 100, height: 100 , position:"absolute", top:"50%",left:"45%",color:"rgb(11 149 212)" }} />}
+                {!this.state.load&&
+                <div>
+                    {this.state.PagesNumbers.length>1&&<section aria-label="Page navigation example" style={{position:"relative","z-index":"1","padding-top":"40px"}}>
                     <ul className="pagination justify-content-center mt-5">
                         <li className="page-item" style={{"cursor":"pointer"}}>
                         <a class="page-link" onClick={this.prePage}  PreventDefault>Previous</a>
@@ -108,6 +117,9 @@ class Results extends Component{
                         </li>
                     </ul>
                 </section>}
+                    <Result Posts={this.state.PagePosts} query={this.state.query}/>
+                </div>
+                }
 
             </div>
         ) ;

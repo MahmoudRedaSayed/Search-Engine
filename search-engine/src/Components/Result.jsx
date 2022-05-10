@@ -42,7 +42,7 @@ componentDidMount(){
                 
                         <div className="col-md-12 card mt-5 bg-light p-4 " style={{"width": "100%"}}>
                             <a className="card-title"target="_blank" href={Post.Link}>{Post.Link}</a>
-                            <p className="card-text" dangerouslySetInnerHTML={{ __html: this.makeBold(Post.Description+"additions",this.state.queryArray) }}></p>
+                            <p className="card-text" dangerouslySetInnerHTML={{ __html: this.makeBold(Post.Description,this.state.queryArray) }}></p>
                         </div>
                 )}
                 {(this.props.Posts.length===0&&this.state.loading==false)?<div className="container mt-5 row" ><img className="col-md-12 mt-5" src={img} style={{"border-radius":"50px"}} alt="" /></div>:""}

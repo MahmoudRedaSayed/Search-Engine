@@ -34,7 +34,7 @@ public class HelperClass {
     public static String invertedFilePath_V3(String fileName)
     {
 //        String filePath = Paths.get("").normalize().toAbsolutePath().toString();
-        String filePath = "D:\\College\\Second_Year\\Second Term\\APT\\Project\\Final Version\\Sreach-Engine";
+        String filePath = "D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";
         //filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
         filePath += File.separator + "InvertedFiles_V3" + File.separator + fileName + ".txt";
         return filePath;

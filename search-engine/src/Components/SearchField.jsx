@@ -158,7 +158,7 @@ function SearchField(Style){
         <div>
         <form >
         {(listening==true)?<div className="row ">
-        <FontAwesomeIcon icon={faMicrophoneAltSlash}  onClick={cutListen} style={{"font-size":"40px","margin-bottom":"10px"}}/>
+        <FontAwesomeIcon icon={faMicrophoneAltSlash}  onClick={cutListen} style={{"font-size":"40px","margin-bottom":"10px","color":"#0b95d4"}}/>
 
                                 <input className="form-control me-2"  type="search"  
                                 onKeyDown={submit}
@@ -169,7 +169,7 @@ function SearchField(Style){
                                 />
                                 </div>
                                 :<div className="row ">
-                                <FontAwesomeIcon  icon={faMicrophoneAlt} onClick={listen} style={{"font-size":"40px","margin-bottom":"10px"}} />
+                                <FontAwesomeIcon  icon={faMicrophoneAlt} onClick={listen} style={{"font-size":"40px","margin-bottom":"10px","color":"#0b95d4"}} />
                                 <input className="form-control me-2 col-md-4 "  type="search"  
                                 onKeyDown={submit}
                                 onChange={inc}
