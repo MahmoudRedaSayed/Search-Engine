@@ -1,5 +1,0 @@
-/reremembered|[https://blog.archive.org,p]::1;
-/rereading|[https://www.tutorialspoint.com/computer_glossary.htm,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::3;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::3;
-/rereview|[https://www.youtube.com/about/policies,p]::1;
-/rerender|[http://edbrowse.org/usersguide.html#cook,p]::2;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;
-/rereads|[http://edbrowse.org/usersguide.html#cook,p]::1;

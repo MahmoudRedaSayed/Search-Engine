@@ -1,4 +1,0 @@
-/hey|[https://developers.google.com/assistant/app/overview,p]::1;[https://developers.google.com/assistant/smarthome/concepts/devices-traits,p]::2;[https://developers.google.com/assistant/console/policies/general-policies,h]::1;[https://developers.google.com/assistant/console/policies/general-policies,p]::2;[https://assistant.google.com,h]::1;[http://edbrowse.org/usersguide.html#cook,p]::1;
-/heyday|[https://archive.org/details/software,p]::1;
-/heya|[https://www.healthline.com/health/healthy-sex/second-queer-adolescence,p]::1;
-/hey google|[https://assistant.google.com,h]::5;

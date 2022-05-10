@@ -1,5 +1,0 @@
-/fish|[https://www.iflscience.com/,h]::1;[https://www.iflscience.com/,p]::1;[https://www.healthline.com/nutrition,p]::2;[https://www.everydayhealth.com/ulcerative-colitis/guide,p]::1;[https://www.everydayhealth.com/stress/guide,p]::1;[https://www.everydayhealth.com/diet-nutrition/ketogenic-diet,p]::1;[https://www.everydayhealth.com/mediterranean-diet/guide,p]::2;[https://www.everydayhealth.com/diet-nutrition/atkins-diet.aspx,p]::2;[https://www.everydayhealth.com/cancer-photos/top-foods-to-fight-cancer.aspx,s]::1;[https://www.everydayhealth.com/breast-cancer/living-with/on-chemo-brain-dropped-words,p]::1;[https://www.cancer.gov/about-cancer/understanding/what-is-cancer,p]::1;
-/fishing|[https://nautil.us,h]::1;[https://developers.google.com/assistant/console/policies/general-policies,p]::1;
-/fiscal|[https://blog.archive.org,p]::1;[http://www.archive-it.org,p]::1;
-/fist”|[https://www.everydayhealth.com/symptom-checker,p]::1;
-/fissures|[https://www.everydayhealth.com/symptom-checker,p]::2;[https://www.blogforacure.com,p]::1;

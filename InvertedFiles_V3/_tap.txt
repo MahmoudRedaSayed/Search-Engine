@@ -1,8 +1,0 @@
-/tap|[https://www.dailymail.co.uk,p]::1;[https://developers.google.com/assistant,p]::1;[https://www.everydayhealth.com/type-2-diabetes/guide,p]::1;[https://www.hearstmagazines.co.uk/womens-health-collective-membership-subscription,s]::1;[https://www.hearstmagazines.co.uk/womens-health-collective-membership-subscription,p]::1;[https://developers.google.com/assistant/app/slices,p]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::1;[https://bezzy.com,p]::1;[https://www.everydayhealth.com/wellness/resilience,p]::6;[https://www.inlife.co.uk/why-are-cookies-called-cookies,p]::1;
-/tapering|[https://www.everydayhealth.com/depression/guide,p]::2;[https://www.everydayhealth.com/rheumatoid-arthritis/guide,s]::1;[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::3;[http://www.archive-it.org,p]::1;
-/tapered|[https://www.everydayhealth.com/depression/guide,p]::1;
-/tapioca|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;
-/tapping|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::1;[https://codelabs.developers.google.com/codelabs/appactions,p]::3;
-/tapes|[https://blog.archive.org,s]::1;
-/tapped|[https://www.healthline.com/program/sexual-health-for-every-body,p]::1;[http://healthline.com/program/sexual-health-for-every-body#covid-19,p]::1;[http://healthline.com/program/sexual-health-for-every-body#identity,p]::1;[http://healthline.com/program/sexual-health-for-every-body#help,p]::1;[http://healthline.com/program/sexual-health-for-every-body#morning-after,p]::1;
-/tapur|[https://www.asco.org,p]::2;

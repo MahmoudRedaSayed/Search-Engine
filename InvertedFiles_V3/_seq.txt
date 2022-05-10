@@ -1,4 +1,0 @@
-/sequence|[https://www.healthline.com/fitness,p]::1;[https://www.tutorialspoint.com/time_series/index.htm,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus,p]::1;[https://archive.org/about/terms.php,p]::1;[https://en.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://web.archive.org/web/20170316175133/https:/staff.washington.edu/fmf/2009/06/19/setting-cookies,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::5;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::4;
-/sequencing”|[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;[https://www.everydayhealth.com/cancer/guide/cancer-diagnosis-tests,p]::2;
-/sequel|[https://www.everydayhealth.com/cancer/celebrities-with-cancer-why-do-some-decide-to-go-public-and-others-dont,p]::1;
-/sequences|[http://edbrowse.org/usersguide.html#cook,p]::9;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::9;

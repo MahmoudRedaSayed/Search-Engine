@@ -1,3 +1,0 @@
-/arxivlabs|[https://arxiv.org/abs/cs.SE/0105018,h]::1;[https://arxiv.org/abs/cs.SE/0105018,s]::1;[https://arxiv.org/abs/cs.SE/0105018,p]::7;
-/arxivcs|[https://arxiv.org/abs/cs.SE/0105018,s]::1;
-/arxiv's|[https://arxiv.org/abs/cs.SE/0105018,p]::1;

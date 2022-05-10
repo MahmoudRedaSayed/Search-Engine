@@ -1,2 +1,0 @@
-/nall|[https://www.medicalnewstoday.com,p]::1;
-/nalis|[http://www.archive-it.org,p]::2;

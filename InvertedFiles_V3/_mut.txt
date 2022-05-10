@@ -1,2 +1,0 @@
-/mutations|[https://www.cancer.gov/about-cancer/understanding/what-is-cancer,p]::3;[https://www.everydayhealth.com/colon-cancer,p]::5;
-/mutually|[http://healthline.com/program/sexual-health-for-every-body#morning-after,p]::1;

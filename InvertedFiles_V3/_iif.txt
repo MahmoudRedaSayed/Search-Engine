@@ -1,1 +1,0 @@
-/iife|[https://developers.google.com/assistant/smarthome/concepts/local,p]::1;

@@ -1,1 +1,0 @@
-/oysters|[https://nautil.us,h]::1;[https://nautil.us,p]::1;[http://www.archive-it.org,p]::1;

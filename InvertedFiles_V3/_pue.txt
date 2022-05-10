@@ -1,2 +1,0 @@
-/puede|[https://www.marca.com,h]::1;
-/puerto|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;[http://www.archive-it.org,p]::4;[https://www.cancerhopenetwork.org,p]::1;

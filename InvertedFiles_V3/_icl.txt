@@ -1,2 +1,0 @@
-/icloud|[https://www.cancer.net/navigating-cancer-care/managing-your-care/mobile-applications,p]::1;
-/icloudenabled|[https://www.cancer.net/navigating-cancer-care/managing-your-care/mobile-applications,p]::1;

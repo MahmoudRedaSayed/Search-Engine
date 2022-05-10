@@ -1,4 +1,0 @@
-/hoosismoxmox|[https://www.loc.gov,h]::1;
-/hook|[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::5;[https://www.everydayhealth.com/wellness/resilience,p]::1;
-/hood|[https://blog.archive.org,p]::1;[https://developers.googleblog.com/2020/06/announcing-actions-builder-actions-sdk.html,p]::1;
-/hoogstaande|[https://hearst.nl,p]::1;

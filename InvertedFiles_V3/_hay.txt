@@ -1,4 +1,0 @@
-/hay|[https://www.sciencenewsforstudents.org,h]::1;[https://www.everydayhealth.com/eczema/guide,p]::1;
-/haythe|[https://www.everydayhealth.com/stress/guide,p]::3;
-/hayes|[https://archive.org/about/contact.php,p]::2;
-/hays|[http://www.archive-it.org,p]::3;

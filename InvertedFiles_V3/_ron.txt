@@ -1,3 +1,0 @@
-/ron|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,h]::1;[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;
-/ronneberger|[https://www.medicalnewstoday.com,p]::1;
-/ronald|[https://wayback.archive-it.org/all/20180819022850/https:/papers.ssrn.com/sol3/papers.cfm?abstract_id=597543,p]::1;

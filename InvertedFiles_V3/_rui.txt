@@ -1,2 +1,0 @@
-/ruin|[https://www.dailymail.co.uk,p]::1;
-/ruins|[https://archive.org/about/bios.php,p]::1;

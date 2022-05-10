@@ -1,5 +1,0 @@
-/hawass|[https://english.ahram.org.eg/,p]::1;
-/hawaii|[https://archive.org/about/bios.php,p]::1;[http://www.archive-it.org,p]::2;[https://www.healthline.com/health/mental-health/discovering-gender-identity-in-isolation,p]::1;
-/hawai'i|[http://www.archive-it.org,p]::1;
-/hawaiian|[http://www.archive-it.org,p]::3;
-/hawaiʻi|[http://www.archive-it.org,p]::1;

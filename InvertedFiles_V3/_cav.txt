@@ -1,3 +1,0 @@
-/cavaco|[https://www.medicalnewstoday.com,p]::1;
-/caveman|[https://www.everydayhealth.com/diet-nutrition/the-paleo-diet.aspx,h]::2;[https://www.everydayhealth.com/diet-nutrition/the-paleo-diet.aspx,p]::3;
-/caveats|[https://www.everydayhealth.com/mediterranean-diet/guide,p]::1;

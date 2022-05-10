@@ -1,2 +1,0 @@
-/pixels|[http://www.hearst.co.uk/privacy-notice,p]::1;[http://www.hearst.co.uk/cookies-policy,p]::1;[https://support.twitter.com/articles/20170514,p]::8;[https://www.everydayhealth.com/cancer/cancer-news-digest-latest-developments-in-cancer-research-and-treatment-for-june,p]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::5;
-/pixar|[https://archive.org/about/bios.php,p]::1;

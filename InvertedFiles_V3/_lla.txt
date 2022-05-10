@@ -1,2 +1,0 @@
-/llamada|[https://www.marca.com,h]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
-/llamativo|[https://www.marca.com,h]::1;

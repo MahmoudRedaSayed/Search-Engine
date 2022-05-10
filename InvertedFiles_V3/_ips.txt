@@ -1,5 +1,0 @@
-/ipso|[http://www.hearst.co.uk/hearst-magazines-uk-complaints-procedure,s]::2;[http://www.hearst.co.uk/hearst-magazines-uk-complaints-procedure,p]::2;[https://www.ipso.co.uk/editors-code-of-practice,p]::3;[http://www.ipso.co.uk,p]::2;
-/ipso”|[http://www.hearst.co.uk/hearst-magazines-uk-complaints-procedure,p]::1;
-/ipsonews|[http://www.ipso.co.uk,s]::1;[http://www.ipso.co.uk,p]::1;
-/ipsos|[http://www.ipso.co.uk,p]::3;
-/ipsum|[https://www.acco.org,p]::4;

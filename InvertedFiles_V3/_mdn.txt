@@ -1,1 +1,0 @@
-/mdns|[https://developers.google.com/assistant/smarthome/concepts/local,p]::1;[https://developers.googleblog.com/2019/07/developer-preview-of-local-home-sdk.html,p]::1;[https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie2,t]::1;[https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie2,h]::1;

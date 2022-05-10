@@ -1,3 +1,0 @@
-/noise|[https://www.healthline.com/,p]::1;[https://www.dailyom.com,h]::2;
-/noir|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
-/noisy|[https://www.inlife.co.uk/why-are-cookies-called-cookies,p]::1;

@@ -1,2 +1,0 @@
-/kaios|[https://developers.google.com/assistant/conversational,p]::1;[https://developers.google.com/assistant/why-build,p]::1;[https://developers.google.com/assistant/surfaces/feature-entry-level-phones,h]::1;[https://developers.google.com/assistant/surfaces/feature-entry-level-phones,s]::2;[https://developers.google.com/assistant/surfaces/feature-entry-level-phones,p]::7;
-/kaiser|[https://www.hearstmagazines.co.uk,p]::1;[https://www.hearstmagazines.co.uk/home,p]::1;

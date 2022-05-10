@@ -1,2 +1,0 @@
-/mejor|[https://www.marca.com,h]::1;
-/mejores|[http://www.hearst.es,p]::1;

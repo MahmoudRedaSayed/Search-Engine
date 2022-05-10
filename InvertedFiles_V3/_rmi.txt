@@ -1,1 +1,0 @@
-/rmi|[https://www.tutorialspoint.com/servlets/index.htm,p]::2;

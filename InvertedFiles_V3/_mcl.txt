@@ -1,2 +1,0 @@
-/mclogan|[https://www.youtube.com/about/press,p]::1;
-/mclane|[http://edbrowse.org/usersguide.html#cook,p]::1;

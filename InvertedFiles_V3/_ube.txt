@@ -1,2 +1,0 @@
-/uber|[https://www.france24.com,p]::1;[https://www.tutorialspoint.com/kotlin/index.htm,p]::1;
-/uber's|[https://www.tutorialspoint.com/pytorch/index.htm,p]::1;

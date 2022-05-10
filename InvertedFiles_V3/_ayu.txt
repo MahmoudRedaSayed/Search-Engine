@@ -1,3 +1,0 @@
-/ayurvedic|[https://www.everydayhealth.com/eczema/guide,p]::1;
-/ayudar|[http://www.hearst.es,p]::2;
-/ayudarte|[http://www.hearst.es,p]::1;

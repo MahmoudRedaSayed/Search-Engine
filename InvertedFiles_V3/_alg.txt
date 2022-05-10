@@ -1,6 +1,0 @@
-/algorithms|[https://www.tutorialspoint.com/prime-pack/complete-python-prime-pack/index.asp,p]::1;[https://blog.archive.org,p]::2;[https://www.tutorialspoint.com/tensorflow/index.htm,p]::1;[https://www.tutorialspoint.com/pytorch/index.htm,p]::1;[https://www.tutorialspoint.com/machine_learning_with_python/index.htm,p]::1;[https://www.tutorialspoint.com/artificial_intelligence_with_python/index.htm,p]::1;[https://www.tutorialspoint.com/data_structures_algorithms/index.htm,t]::1;[https://www.tutorialspoint.com/data_structures_algorithms/index.htm,h]::2;[https://www.tutorialspoint.com/dbms/index.htm,p]::1;[https://www.tutorialspoint.com/data_structures_algorithms/index.htm,p]::11;[https://www.tutorialspoint.com/hadoop/index.htm,p]::1;[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::5;
-/algin|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::2;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::2;
-/algae|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
-/algorithmic|[https://blog.archive.org,p]::1;[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::1;
-/algorithms?|[https://www.tutorialspoint.com/data_structures_algorithms/index.htm,h]::1;
-/algoma|[http://www.archive-it.org,p]::5;

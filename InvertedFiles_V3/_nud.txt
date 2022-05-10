@@ -1,2 +1,0 @@
-/nudata|[https://blog.archive.org,p]::1;
-/nudity|[https://developers.google.com/assistant/console/policies/general-policies,p]::1;

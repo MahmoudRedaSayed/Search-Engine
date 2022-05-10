@@ -1,1 +1,0 @@
-/rdms|[https://www.tutorialspoint.com/sql/index.htm,p]::1;

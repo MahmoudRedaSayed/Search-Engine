@@ -1,3 +1,0 @@
-/vips|[https://www.marca.com,h]::1;
-/vipps|[https://www.everydayhealth.com/healthy-living/consumers-guide-drug-discounts,p]::1;
-/vippsaccredited|[https://www.everydayhealth.com/healthy-living/consumers-guide-drug-discounts,p]::1;

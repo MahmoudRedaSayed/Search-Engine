@@ -1,2 +1,0 @@
-/jdbc|[https://www.tutorialspoint.com/jdbc/index.htm,t]::1;[https://www.tutorialspoint.com/jdbc/index.htm,h]::3;[https://www.tutorialspoint.com/hibernate/index.htm,p]::1;[https://www.tutorialspoint.com/jdbc/index.htm,p]::10;[https://www.tutorialspoint.com/servlets/index.htm,p]::1;[https://www.tutorialspoint.com/spring/index.htm,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::3;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;
-/jdbc?|[https://www.tutorialspoint.com/jdbc/index.htm,h]::1;

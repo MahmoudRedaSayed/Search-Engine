@@ -1,3 +1,0 @@
-/tayo|[https://www.dailymail.co.uk,p]::1;
-/tayyab|[https://www.tutorialspoint.com/categories/it_and_software,p]::1;
-/taylor|[https://www.everydayhealth.com/courses,h]::1;[http://www.archive-it.org,p]::1;

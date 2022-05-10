@@ -1,2 +1,0 @@
-/pjammin|[https://www.acco.org,p]::1;
-/pjammin®|[https://www.acco.org,p]::4;

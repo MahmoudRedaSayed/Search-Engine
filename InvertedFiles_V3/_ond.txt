@@ -1,3 +1,0 @@
-/ondemand|[https://www.everydayhealth.com/,p]::1;[https://www.everydayhealth.com/depression/guide,p]::1;[https://blog.archive.org,p]::1;[https://www.asco.org,p]::2;
-/ondes|[https://www.france24.com,p]::1;
-/ondevice|[https://developers.google.com/assistant/smarthome/concepts/local,p]::1;[https://developers.google.com/assistant/interactivecanvas,p]::1;[https://developers.googleblog.com/2019/07/developer-preview-of-local-home-sdk.html,p]::1;

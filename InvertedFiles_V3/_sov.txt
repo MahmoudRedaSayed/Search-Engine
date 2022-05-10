@@ -1,4 +1,0 @@
-/soviet|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/sovereign|[https://blog.archive.org,p]::1;
-/sovereignty|[https://blog.archive.org,p]::1;
-/sovam|[https://archive.org/about/bios.php,p]::1;

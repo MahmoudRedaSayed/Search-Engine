@@ -1,2 +1,0 @@
-/eprivacy|[https://en.wikipedia.org/wiki/HTTP_cookie,p]::4;[https://web.archive.org/web/20180810220427/https:/www.bbc.co.uk/news/technology-12668552,p]::1;[https://www.bbc.co.uk/news/technology-12668552,p]::1;
-/eprescription|[https://www.everydayhealth.com/healthy-living/consumers-guide-drug-discounts,p]::1;

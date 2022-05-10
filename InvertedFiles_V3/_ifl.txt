@@ -1,2 +1,0 @@
-/iflscience|[https://www.iflscience.com/,t]::1;
-/ifla|[http://www.archive-it.org,p]::1;

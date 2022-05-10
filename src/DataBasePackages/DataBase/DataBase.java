@@ -449,7 +449,6 @@ public class DataBase {
     public synchronized String getTitle(String url)
     {
         try {
-            System.out.println(Thread.currentThread().getName()+   ":   Title: "  + url);
             String q = "Select Title From links where Link = '" + url + "'";
             ResultSet resultSet=this.stmt.executeQuery(q);
             while(resultSet.next())
@@ -468,7 +467,6 @@ public class DataBase {
     public synchronized String getParagraphs(String url)
     {
         try {
-            System.out.println(Thread.currentThread().getName()+   ":   Paragraph: " + url);
             ResultSet resultSet=this.stmt.executeQuery("Select Paragraph From links where Link = '" + url+ "'");
             while(resultSet.next())
             {
@@ -485,7 +483,6 @@ public class DataBase {
     public synchronized String getHeaders(String url)
     {
         try {
-            System.out.println(Thread.currentThread().getName()+   ":   Headers: " + url);
             ResultSet resultSet=this.stmt.executeQuery("Select Headers From links where Link = '" + url+ "'");
             while(resultSet.next())
             {

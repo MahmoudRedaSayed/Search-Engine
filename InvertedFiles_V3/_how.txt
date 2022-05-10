@@ -1,7 +1,0 @@
-/howard|[https://www.loc.gov,h]::2;[https://www.everydayhealth.com/psoriasis/guide,p]::1;[https://www.everydayhealth.com/wellness/resilience,s]::1;
-/howto|[https://developers.google.com/assistant/content,h]::1;[https://developers.google.com/assistant/content/overview,s]::1;[https://developers.google.com/assistant/content/overview,p]::8;
-/how insulin|[https://www.everydayhealth.com/type-2-diabetes/guide,p]::1;
-/however some|[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::1;[https://blog.archive.org,p]::1;
-/however”|[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::1;
-/howtos|[https://blog.archive.org,p]::1;
-/howell|[http://www.archive-it.org,p]::3;

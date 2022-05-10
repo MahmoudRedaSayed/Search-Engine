@@ -1,3 +1,0 @@
-/tuscany's|[https://www.bbc.com/,h]::1;[http://www.hearst.es,p]::1;
-/tush|[https://www.healthline.com/program/sexual-health-for-every-body,p]::1;[http://healthline.com/program/sexual-health-for-every-body#covid-19,p]::1;[http://healthline.com/program/sexual-health-for-every-body#identity,p]::1;[http://healthline.com/program/sexual-health-for-every-body#help,p]::1;[http://healthline.com/program/sexual-health-for-every-body#morning-after,p]::1;
-/tushar|[https://www.tutorialspoint.com/java8/index.htm,p]::1;[https://www.tutorialspoint.com/jdbc/index.htm,p]::1;

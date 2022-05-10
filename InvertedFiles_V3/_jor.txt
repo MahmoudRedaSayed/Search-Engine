@@ -1,4 +1,0 @@
-/jornada|[https://www.marca.com,h]::1;
-/jordan|[https://www.everydayhealth.com/crohns-disease/guide,p]::1;[https://www.everydayhealth.com/ulcerative-colitis/guide,p]::1;
-/jorld|[http://edbrowse.org/usersguide.html#cook,p]::1;
-/jorld"|[http://edbrowse.org/usersguide.html#cook,p]::1;

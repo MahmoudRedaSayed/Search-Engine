@@ -1,9 +1,0 @@
-/woods|[https://www.dailymail.co.uk,h]::3;[https://www.dailymail.co.uk,p]::1;[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;[https://archive.org/about/bios.php,p]::1;
-/woodland|[https://www.dailymail.co.uk,p]::1;
-/wool|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::1;
-/woodcock|[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;
-/woodstock|[http://www.archive-it.org,p]::1;
-/woolwich|[http://www.archive-it.org,p]::1;
-/woodlands|[http://www.archive-it.org,p]::1;
-/wooster—the|[http://www.archive-it.org,p]::1;
-/woodhull|[https://www.healthline.com/health/healthy-sex/black-women-sexuality,p]::1;

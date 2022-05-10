@@ -1,2 +1,0 @@
-/saggy|[https://www.dailymail.co.uk,p]::1;[https://www.everydayhealthgroup.com,p]::1;
-/sage|[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;

@@ -1,6 +1,0 @@
-/ticket|[https://www.dailymail.co.uk,h]::2;[https://www.dailymail.co.uk,p]::1;[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;[https://www.tutorialspoint.com/html5-and-css3-fundamentals/index.asp,p]::1;[http://catb.org/jargon/html/M/magic-cookie.html,p]::1;
-/tickle|[https://www.dailymail.co.uk,h]::1;
-/ticks|[https://www.dailymail.co.uk,p]::1;
-/tictactoe|[https://www.tutorialspoint.com/prime-pack/complete-python-prime-pack/index.asp,p]::1;
-/tictoe|[https://www.tutorialspoint.com/prime-pack/javascript-prime-pack/index.asp,p]::1;
-/ticking|[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,p]::1;

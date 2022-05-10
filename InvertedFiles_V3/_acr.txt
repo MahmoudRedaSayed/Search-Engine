@@ -1,9 +1,0 @@
-/acre|[https://www.everydayhealth.com/cancer/guide,p]::1;[https://www.everydayhealth.com/psoriasis/guide,s]::1;[https://www.everydayhealth.com/psoriasis/guide,p]::1;[https://www.everydayhealth.com/rheumatoid-arthritis/guide,h]::1;[http://www.archive-it.org,p]::3;[https://www.everydayhealth.com/cancer/living-with/how-keep-friendships-strong-while-being-treated-cancer,p]::1;
-/acryloyldimethyltauratevp|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::2;
-/acrylatesc|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::2;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::2;[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::2;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::3;
-/acrylatesodium|[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
-/acronym|[https://www.everydayhealth.com/diet-and-nutrition/diet/mind-diet-can-this-diet-plan-help-reverse-alzheimers-disease,p]::1;[https://www.tutorialspoint.com/css/index.htm,p]::1;[https://www.tutorialspoint.com/php/index.htm,p]::1;
-/acres|[http://www.archive-it.org,p]::3;
-/acreditada|[http://www.archive-it.org,p]::1;
-/acrobat|[https://www.tutorialspoint.com/computer_glossary.htm,p]::1;
-/acrylamide|[https://www.everydayhealth.com/cancer/guide/cancer-risk-factors-prevention,s]::1;

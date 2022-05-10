@@ -1,2 +1,0 @@
-/fidgeted|[https://www.dailymail.co.uk,p]::1;[https://www.everydayhealth.com/stress/guide,p]::1;
-/fidelity|[https://developers.google.com/assistant/console/languages-locales,p]::1;

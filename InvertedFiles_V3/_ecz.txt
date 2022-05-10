@@ -1,8 +1,0 @@
-/eczema|[https://www.everydayhealth.com/eczema/guide,t]::1;[https://www.everydayhealth.com/eczema/guide,h]::45;[https://www.everydayhealth.com/eczema/guide,s]::23;[https://www.everydayhealth.com/eczema/guide,p]::63;[https://www.everydayhealth.com/psoriasis/guide,s]::1;[https://www.everydayhealth.com/psoriasis/guide,p]::8;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::1;[https://www.everydayhealth.com/wellness/resilience,p]::1;[https://www.everydayhealth.com/symptom-checker,p]::1;[https://www.everydayhealth.com/tippi,h]::1;[https://www.everydayhealth.com/most-popular,p]::1;
-/eczema?|[https://www.everydayhealth.com/eczema/guide,h]::6;[https://www.everydayhealth.com/psoriasis/guide,h]::1;[https://www.everydayhealth.com/psoriasis/guide,s]::1;
-/eczemaprone|[https://www.everydayhealth.com/eczema/guide,h]::2;
-/eczemaproof|[https://www.everydayhealth.com/eczema/guide,h]::1;
-/eczema stress and|[https://www.everydayhealth.com/eczema/guide,p]::1;
-/eczema symptoms|[https://www.everydayhealth.com/eczema/guide,p]::1;
-/eczemarelated|[https://www.everydayhealth.com/eczema/guide,p]::1;
-/eczema can|[https://www.everydayhealth.com/psoriasis/guide,p]::1;

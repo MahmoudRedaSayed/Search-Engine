@@ -1,6 +1,0 @@
-/eightytwo|[https://www.loc.gov,h]::1;
-/eightday|[https://www.primaholidays.co.uk/?utm_source=hearstmagazines&utm_medium=referral&utm_campaign=hearst-holidays&utm_term=pri&utm_content=nav-bar,p]::1;[https://www.everydayhealth.com/cancer/fda-rejects-promising-new-drug-that-aims-to-prevent-low-white-blood-cell-counts-in-patients-receiving-chemotherapy,p]::1;
-/eighties|[https://archive.org/about/bios.php,p]::1;
-/eighth|[http://www.archive-it.org,p]::3;[http://edbrowse.org/usersguide.html#cook,p]::2;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;
-/eighteen|[http://www.archive-it.org,p]::1;
-/eigenzinnige|[https://hearst.nl,p]::1;

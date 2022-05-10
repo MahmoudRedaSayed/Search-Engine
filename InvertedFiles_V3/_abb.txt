@@ -1,2 +1,0 @@
-/abbey|[https://www.loc.gov,h]::1;
-/abbreviations|[https://developers.google.com/assistant/console/policies/general-policies,p]::1;[https://www.tutorialspoint.com/computer_glossary.htm,p]::1;

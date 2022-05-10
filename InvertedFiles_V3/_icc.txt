@@ -1,2 +1,0 @@
-/icc|[https://blog.archive.org,s]::1;[https://blog.archive.org,p]::21;
-/iccs|[https://blog.archive.org,p]::4;

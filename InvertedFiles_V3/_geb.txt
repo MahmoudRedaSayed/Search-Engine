@@ -1,2 +1,0 @@
-/gebied|[https://hearst.nl,p]::1;
-/gebruikers|[https://hearst.nl,p]::1;

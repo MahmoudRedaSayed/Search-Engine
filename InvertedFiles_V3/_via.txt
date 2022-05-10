@@ -1,4 +1,0 @@
-/viaje|[https://www.marca.com,h]::1;
-/viable|[https://www.healthline.com/health/healthy-sex/black-women-sexuality,p]::1;[https://twitter.com/tos,p]::2;
-/via httpssupporttwittercomforms|[https://legal.twitter.com/imprint.html,p]::1;
-/via dsareverydayhealthcom or|[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::3;

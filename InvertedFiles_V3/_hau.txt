@@ -1,2 +1,0 @@
-/haulers|[https://www.everydayhealth.com/,h]::1;[https://www.medicalnewstoday.com,p]::1;
-/hausa|[https://www.bbc.com/,h]::1;

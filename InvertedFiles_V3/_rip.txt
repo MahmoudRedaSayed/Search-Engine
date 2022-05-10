@@ -1,3 +1,0 @@
-/rips|[https://www.bbc.com/,h]::1;
-/ripples|[https://nautil.us,p]::1;
-/rippling|[https://web.archive.org/web/20051001113951/http:/www.microsoft.com/windows/IE/community/columns/historyofie.mspx,p]::1;

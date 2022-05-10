@@ -1,3 +1,0 @@
-/ngo|[https://english.ahram.org.eg/,p]::1;[https://archive.org/about/bios.php,p]::1;[http://www.archive-it.org,p]::1;
-/ngos|[https://archive.org/projects,p]::1;[https://www.youtube.com/about/policies,p]::2;
-/ngo's|[https://archive.org/about/bios.php,p]::1;

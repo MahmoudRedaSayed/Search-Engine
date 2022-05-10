@@ -1,4 +1,0 @@
-/japonica|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::3;
-/japan|[https://blog.archive.org,h]::1;[https://blog.archive.org,p]::4;[https://www.hearstmagazines.co.uk/holidays,p]::1;[https://archive.org/about/bios.php,p]::2;[http://www.archive-it.org,p]::1;[http://www.hearst.com.cn/en/aboutus,p]::1;[https://www.inlife.co.uk/why-are-cookies-called-cookies,p]::1;
-/japanese|[https://archive.org/about/bios.php,p]::3;[http://wordpress.org/plugins/broken-link-checker,p]::1;[https://developers.google.com/assistant/console/languages-locales,h]::1;[https://developers.google.com/assistant/console/languages-locales,p]::1;[http://www.archive-it.org,p]::2;[https://www.inlife.co.uk/why-are-cookies-called-cookies,p]::1;
-/japan's|[http://www.archive-it.org,p]::1;

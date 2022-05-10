@@ -1,2 +1,0 @@
-/dizziness|[https://www.everydayhealth.com/depression/guide,p]::1;[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::2;[https://www.everydayhealth.com/diet-nutrition/burning-questions-about-intermittent-fasting-answered,p]::2;[https://www.everydayhealth.com/symptom-checker,p]::1;
-/dizzy lightheaded|[https://www.everydayhealth.com/symptom-checker,p]::1;

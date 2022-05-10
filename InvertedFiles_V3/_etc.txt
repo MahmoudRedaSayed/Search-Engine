@@ -1,6 +1,0 @@
-/etc—and|[https://blog.archive.org,p]::1;
-/etcit|[https://www.tutorialspoint.com/compiler_design/index.htm,p]::1;
-/etched|[https://www.tutorialspoint.com/computer_glossary.htm,p]::1;[https://www.healthline.com/health/healthy-sex/sexual-guilt-purity-culture,p]::1;
-/etcpkitlscertpem|[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;
-/etchosts|[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;
-/etcsslcerts|[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;

@@ -1,2 +1,0 @@
-/asbury|[http://www.archive-it.org,p]::1;
-/asbestos|[https://www.mayoclinic.org/diseases-conditions/cancer/symptoms-causes/syc-20370588,p]::1;[https://www.everydayhealth.com/news/when-just-cough-actually-stage-iv-lung-cancer,p]::1;

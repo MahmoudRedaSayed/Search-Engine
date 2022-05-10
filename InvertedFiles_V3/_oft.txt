@@ -1,3 +1,0 @@
-/often a|[https://www.everydayhealth.com/symptom-checker,p]::1;
-/oftentimes|[https://www.everydayhealth.com/emotional-health/lili-reinhart-called-out-other-celebs-for-starving-themselves-why-body-image-experts-are-applauding-her,p]::1;[https://www.healthline.com/health/healthy-sex/black-women-sexuality,p]::1;
-/often?|[https://www.everydayhealth.com/cancer/guide/cancer-screening,h]::1;[https://www.everydayhealth.com/cancer/guide/cancer-screening,s]::1;

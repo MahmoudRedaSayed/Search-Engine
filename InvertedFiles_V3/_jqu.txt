@@ -1,1 +1,0 @@
-/jquery|[https://www.tutorialspoint.com/about/about_careers.htm,p]::1;[https://www.tutorialspoint.com/prime-pack/javascript-prime-pack/index.asp,p]::2;[https://www.tutorialspoint.com/javascript/index.htm,p]::2;[http://edbrowse.org/usersguide.html#cook,p]::1;

@@ -1,7 +1,0 @@
-/hamper|[https://www.france24.com,p]::1;
-/hamlet|[https://www.dailymail.co.uk,p]::1;
-/hamilton|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,s]::1;[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;[http://www.archive-it.org,p]::1;
-/hampshire|[http://www.archive-it.org,p]::3;
-/hammarskjold|[http://www.archive-it.org,p]::2;
-/hammered|[https://www.nytimes.com/2001/09/04/technology/04COOK.html,p]::1;
-/hammerlahav|[http://www.thesecuritypractice.com/the_security_practice/2011/03/http-state-management-mechanism-to-proposed-standard.html,p]::1;

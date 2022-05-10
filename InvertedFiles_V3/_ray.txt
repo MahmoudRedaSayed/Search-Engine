@@ -1,2 +1,0 @@
-/ray|[https://www.everydayhealth.com/wellness/resilience,s]::1;[https://www.everydayhealth.com/wellness/resilience,p]::1;
-/rays|[https://www.everydayhealth.com/breast-cancer/living-with/beauty-during-breast-cancer-treatment,p]::1;[https://www.everydayhealth.com/cancer/cancer-news-digest-latest-developments-in-cancer-research-and-treatment-for-october,p]::2;[https://www.everydayhealth.com/cancer/cancer-news-digest-latest-developments-in-cancer-research-and-treatment-for-june,p]::1;

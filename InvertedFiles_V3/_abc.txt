@@ -1,2 +1,0 @@
-/abc|[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::3;[https://www.everydayhealth.com/infectious-diseases/coronavirus,p]::1;[https://www.healthline.com/health/healthy-sex/second-queer-adolescence,p]::1;
-/abcs|[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;

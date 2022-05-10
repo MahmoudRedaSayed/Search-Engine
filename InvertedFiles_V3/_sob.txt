@@ -1,5 +1,0 @@
-/soba|[https://www.everydayhealth.com/,h]::1;
-/sobre|[https://www.sciencenewsforstudents.org,h]::1;[https://www.marca.com,h]::2;
-/sobhy|[https://www.tutorialspoint.com/categories/business,p]::9;
-/sobadassme|[https://www.everydayhealth.com/ulcerative-colitis/guide,s]::1;[https://www.everydayhealth.com/ulcerative-colitis/guide,p]::1;
-/sobering|[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;

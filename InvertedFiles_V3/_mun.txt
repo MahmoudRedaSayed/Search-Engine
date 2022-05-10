@@ -1,6 +1,0 @@
-/mundo"|[https://www.marca.com,h]::1;[http://www.archive-it.org,p]::1;[http://www.hearst.es,h]::1;[http://www.hearst.es,p]::2;
-/mundo'|[https://www.marca.com,h]::2;
-/muni|[https://archive.org/about/contact.php,p]::2;
-/municipality|[http://www.archive-it.org,p]::4;
-/municipalities|[http://www.archive-it.org,p]::2;
-/munge|[https://www.tutorialspoint.com/big_data_analytics/index.htm,p]::1;

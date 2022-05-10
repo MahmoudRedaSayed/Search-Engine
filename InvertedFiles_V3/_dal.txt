@@ -1,4 +1,0 @@
-/daley|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;[https://www.everydayhealthgroup.com,s]::1;[https://www.everydayhealthgroup.com,p]::1;
-/dalee|[https://blog.archive.org,p]::1;
-/dallocchio the|[https://www.everydayhealth.com/wellness/resilience,p]::1;
-/dallas|[https://www.everydayhealth.com/diet-nutrition/the-paleo-diet.aspx,p]::1;[https://www.hearst.it,p]::1;

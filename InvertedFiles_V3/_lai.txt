@@ -1,2 +1,0 @@
-/laila|[https://english.ahram.org.eg/,h]::1;
-/laid|[https://www.tutorialspoint.com/css/index.htm,p]::1;[https://www.tutorialspoint.com/data_communication_computer_network/index.htm,p]::1;[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::1;[https://en.wikipedia.org/wiki/HTTP_cookie,p]::2;

@@ -1,2 +1,0 @@
-/ssris|[https://www.everydayhealth.com/depression/guide,s]::1;[https://www.everydayhealth.com/depression/guide,p]::1;
-/ssrn|[https://wayback.archive-it.org/all/20180819022850/https:/papers.ssrn.com/sol3/papers.cfm?abstract_id=597543,t]::1;

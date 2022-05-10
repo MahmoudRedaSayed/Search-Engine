@@ -34,7 +34,7 @@ public class HelperClass {
     public static String invertedFilePath_V3(String fileName)
     {
 //        String filePath = Paths.get("").normalize().toAbsolutePath().toString();
-        String filePath = "D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";
+        String filePath = "D:\\College\\Second_Year\\Second Term\\APT\\Project\\Final Version\\Sreach-Engine";
         //filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
         filePath += File.separator + "InvertedFiles_V3" + File.separator + fileName + ".txt";
         return filePath;
@@ -70,7 +70,7 @@ public class HelperClass {
                 continue;
 
             // check if this line is for a word or just an extension for the previous line
-            if (tempInput.charAt(0) == '/')
+            if (tempInput.charAt(0) == '#')
             // compare to check if this word = ourWord ?
             {
                 // get the word

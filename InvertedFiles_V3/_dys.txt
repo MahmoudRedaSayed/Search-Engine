@@ -1,8 +1,0 @@
-/dyshidrotic|[https://www.everydayhealth.com/eczema/guide,h]::1;[https://www.everydayhealth.com/eczema/guide,s]::1;[https://www.everydayhealth.com/eczema/guide,p]::1;
-/dysphoric|[https://www.everydayhealth.com/depression/guide,s]::1;
-/dysfunction|[https://www.everydayhealth.com/eczema/guide,p]::1;[https://www.everydayhealth.com/type-2-diabetes/guide,p]::1;[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,h]::1;[https://www.healthline.com/program/sexual-health-for-every-body,p]::1;[http://healthline.com/program/sexual-health-for-every-body#covid-19,p]::1;[https://www.everydayhealth.com/diet-nutrition/atkins-diet.aspx,p]::1;[http://healthline.com/program/sexual-health-for-every-body#identity,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus,p]::1;[http://healthline.com/program/sexual-health-for-every-body#help,p]::1;[http://healthline.com/program/sexual-health-for-every-body#morning-after,p]::1;
-/dysthymia|[https://www.everydayhealth.com/depression/guide,p]::1;
-/dysphagia|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;
-/dysphoria|[https://www.healthline.com/health/mental-health/discovering-gender-identity-in-isolation,p]::2;
-/dysplasia|[https://www.cancer.gov/about-cancer/understanding/what-is-cancer,s]::1;[https://www.cancer.gov/about-cancer/understanding/what-is-cancer,p]::3;[https://www.everydayhealth.com/cervical-cancer/guide,h]::1;[https://www.everydayhealth.com/colon-cancer,p]::1;
-/dyspnea|[https://www.everydayhealth.com/most-popular,p]::1;

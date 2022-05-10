@@ -1,3 +1,0 @@
-/emulation|[https://archive.org/details/software,p]::1;
-/emulator|[https://codelabs.developers.google.com/codelabs/appactions,p]::4;[https://developers.google.com/assistant/app/get-started,p]::1;
-/emulators|[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;

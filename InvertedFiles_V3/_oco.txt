@@ -1,2 +1,0 @@
-/ocon|[https://www.marca.com,h]::1;
-/oconee|[http://www.archive-it.org,p]::1;

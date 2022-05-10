@@ -1,2 +1,0 @@
-/upcoming|[https://developers.google.com/assistant/app/slices,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;[https://www.asco.org,p]::1;[https://stupidcancer.org,h]::1;[https://www.cancerhopenetwork.org,h]::1;[https://www.cancer.net/navigating-cancer-care/managing-your-care/mobile-applications,p]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;
-/upcase|[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;

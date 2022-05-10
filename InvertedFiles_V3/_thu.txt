@@ -1,5 +1,0 @@
-/thu|[https://www.bbc.com/,h]::1;
-/thursday|[https://english.ahram.org.eg/,p]::2;[https://www.loc.gov,h]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,h]::2;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::8;[https://stupidcancer.org,h]::1;
-/thumbslider|[https://www.tutorialspoint.com/prime-pack/javascript-prime-pack/index.asp,p]::1;[https://www.everydayhealth.com/coronavirus,h]::1;
-/thumbnails|[https://blog.archive.org,p]::1;[https://www.youtube.com/creators,p]::2;[https://www.youtube.com/about/policies,p]::1;
-/thurgood|[http://www.archive-it.org,p]::1;

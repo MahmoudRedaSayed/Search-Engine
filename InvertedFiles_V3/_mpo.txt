@@ -1,2 +1,0 @@
-/mpolifi|[https://archive.org/details/software,p]::1;
-/mpoggformat|[https://blog.archive.org,p]::1;

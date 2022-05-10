@@ -1,2 +1,0 @@
-/cylinder|[https://blog.archive.org,h]::1;[https://blog.archive.org,s]::1;[https://blog.archive.org,p]::1;
-/cylindrical|[https://www.everydayhealth.com/cervical-cancer/guide,p]::1;

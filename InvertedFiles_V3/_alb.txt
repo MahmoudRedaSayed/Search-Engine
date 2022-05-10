@@ -1,6 +1,0 @@
-/albums|[https://developers.google.com/assistant/content,p]::1;[http://www.archive-it.org,p]::1;[https://www.everydayhealth.com/cancer/celebrities-with-cancer-why-do-some-decide-to-go-public-and-others-dont,p]::2;
-/alba|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::3;
-/albizia|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;
-/albatrellus|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::1;
-/albert|[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::2;
-/albany|[http://www.hearst.com.cn/en/aboutus,p]::1;[https://www.canceradvocacy.org,h]::1;

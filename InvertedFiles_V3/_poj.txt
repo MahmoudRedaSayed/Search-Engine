@@ -1,2 +1,0 @@
-/pojobased|[https://www.tutorialspoint.com/spring/index.htm,p]::2;
-/pojos|[https://www.tutorialspoint.com/spring/index.htm,p]::3;

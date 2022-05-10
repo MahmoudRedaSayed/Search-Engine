@@ -1,4 +1,0 @@
-/upside|[https://www.everydayhealth.com/diet-and-nutrition/diet/mind-diet-can-this-diet-plan-help-reverse-alzheimers-disease,p]::1;[https://www.cancercare.org,h]::1;
-/upstaging|[https://www.everydayhealth.com/cancer/biden-relaunches-cancer-moonshot-program-with-pledge-to-end-cancer-as-we-know-it,p]::1;
-/upsc|[https://www.tutorialspoint.com/upsc_ias_exams.htm,t]::1;[https://www.tutorialspoint.com/upsc_ias_exams.htm,h]::1;
-/upset|[https://www.nytimes.com/2001/09/04/technology/04COOK.html,p]::1;

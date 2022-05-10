@@ -1,1 +1,0 @@
-/eclipse?|[https://www.bbc.com/,h]::1;[https://www.tutorialspoint.com/spring/index.htm,p]::2;

@@ -1,2 +1,0 @@
-/ccpca|[https://www.canceradvocacy.org,h]::1;
-/ccpa|[https://www.everydayhealth.com/ccpa-privacy-policy,t]::1;[https://www.everydayhealth.com/ccpa-privacy-policy,p]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,s]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;

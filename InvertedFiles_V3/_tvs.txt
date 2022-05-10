@@ -1,1 +1,0 @@
-/tvs|[https://developers.google.com/assistant/smarthome/overview,p]::1;

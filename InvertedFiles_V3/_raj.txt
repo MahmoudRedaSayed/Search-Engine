@@ -1,4 +1,0 @@
-/rajapaksa|[https://www.france24.com,p]::1;[https://www.tutorialspoint.com/csharp/index.htm,p]::1;
-/rajendran|[https://www.tutorialspoint.com/swift/index.htm,p]::1;
-/rajasthan|[https://www.tutorix.com,p]::1;
-/rajiv|[https://wayback.archive-it.org/all/20180819022850/https:/papers.ssrn.com/sol3/papers.cfm?abstract_id=597543,t]::1;[https://wayback.archive-it.org/all/20180819022850/https:/papers.ssrn.com/sol3/papers.cfm?abstract_id=597543,h]::2;

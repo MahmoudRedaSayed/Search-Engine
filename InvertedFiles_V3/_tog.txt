@@ -1,3 +1,0 @@
-/together”|[https://www.everydayhealth.com/wellness/resilience,p]::1;
-/toggle|[http://edbrowse.org/usersguide.html#cook,p]::37;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::17;
-/toggles|[http://edbrowse.org/usersguide.html#cook,p]::1;

@@ -1,2 +1,0 @@
-/bubble|[https://www.everydayhealth.com/,h]::1;
-/bubble''|[https://www.nytimes.com/2001/09/04/technology/04COOK.html,p]::1;

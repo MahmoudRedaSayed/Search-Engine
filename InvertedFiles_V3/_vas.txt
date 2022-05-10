@@ -1,5 +1,0 @@
-/vast|[https://www.france24.com,p]::1;[https://www.everydayhealth.com/psoriasis/guide,p]::1;[https://www.everydayhealth.com/sleep-disorders/sleep/sleep-101-ultimate-guide-on-how-get-better-nights-sleep,p]::1;[https://blog.archive.org,p]::3;[https://developers.google.com/assistant/conversational/overview,p]::1;[https://www.everydayhealth.com/diet-nutrition/the-paleo-diet.aspx,p]::1;[https://archive.org/about/bios.php,p]::1;[http://www.archive-it.org,p]::2;[https://www.tutorialspoint.com/effective_resume_writing.htm,p]::1;[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::1;[https://www.tutorialspoint.com/computer_glossary.htm,p]::1;[https://www.asco.org,p]::2;[https://www.everydayhealth.com/colon-cancer,p]::1;
-/vascular|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;
-/vases|[https://blog.archive.org,p]::1;
-/vasishta|[https://www.tutorialspoint.com/machine_learning/index.htm,p]::1;[https://www.tutorialspoint.com/machine_learning_with_python/index.htm,p]::1;[https://www.tutorialspoint.com/power_bi/index.htm,p]::1;
-/vastly|[http://www.archive-it.org,p]::1;[https://www.healthline.com/health/healthy-sex/black-women-sexuality,p]::1;

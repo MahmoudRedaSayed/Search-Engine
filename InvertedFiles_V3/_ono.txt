@@ -1,1 +1,0 @@
-/onoff|[https://developers.google.com/assistant/smarthome/concepts/devices-traits,p]::2;[https://archive.org/about/bios.php,p]::1;

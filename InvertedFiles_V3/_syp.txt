@@ -1,3 +1,0 @@
-/syphilis|[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,h]::4;[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,s]::2;[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::19;
-/syphilisrelated|[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::1;
-/syphilis in|[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::1;

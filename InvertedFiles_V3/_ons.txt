@@ -1,3 +1,0 @@
-/onset|[https://www.everydayhealth.com/diet-and-nutrition/diet/mind-diet-can-this-diet-plan-help-reverse-alzheimers-disease,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus,p]::1;
-/onsite|[http://www.archive-it.org,p]::1;
-/onscreen|[https://www.tutorialspoint.com/computer_glossary.htm,p]::3;

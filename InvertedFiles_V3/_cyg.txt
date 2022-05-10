@@ -1,1 +1,0 @@
-/cygwin|[https://www.tutorialspoint.com/cplusplus/index.htm,p]::1;

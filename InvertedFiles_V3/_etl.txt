@@ -1,1 +1,0 @@
-/etl|[https://www.tutorialspoint.com/hadoop/index.htm,p]::1;

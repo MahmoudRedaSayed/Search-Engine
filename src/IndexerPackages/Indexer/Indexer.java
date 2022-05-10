@@ -25,7 +25,7 @@ public class Indexer implements Runnable {
     // constructor
     public Indexer(String url, Map<Character, Vector<String>> stopWords, DataBase dbObjReference)
     {
-        System.out.println("My Page is : " + url);
+        System.out.println(Thread.currentThread().getName() + " My Page is : " + url);
 
         // initialization
         wordCount = 0;
@@ -116,7 +116,8 @@ public class Indexer implements Runnable {
             // second, inserting the word
             String filePath = null;
             try {
-                // here we need the link of the server path     ( Mustafa )
+                // add the word to its file
+                removeSymbols(tempWord);
                 filePath = HelperClass.invertedFilePath_V3(fileName);
                 addInfoToInvertedFile(tempWord, filePath, wordInfo);
                 wordCount++;
@@ -193,15 +194,13 @@ public class Indexer implements Runnable {
     // remove non-important symbols
     private String removeSymbols(String str)
     {
-        str = str.replaceAll("[\\[`~@#$%^&*(“)\\-{}|_=<–>+:,.!;/1234567890\\]]", "");  // replaced with a space, to use the space as a separator in splitting the string
+        str = str.replaceAll("[\\[`~@#$%^&*(\")“\\-{}|_=<–>+:,.!;?'”/1234567890\\]]", "");  // replaced with a space, to use the space as a separator in splitting the string
         str = str.replaceAll("[؟.,ٍـ،/ًٌَُ‘÷×؛’ْ~]", "");
         str = str.replaceAll("\\\"","\"");
         str = str.replaceAll("\\\'","\'");
+        str = str.replaceAll(" ", "");  // remove spaces
+        str = str.replaceAll("\\s+", "&");  // remove another type of the spaces
 
-        //Previous 2 Lines are causing errors with files
-
-
-        str = str.replaceAll("\\s+", "&");  // remove spaces
         return str;
     }
 
@@ -227,7 +226,7 @@ public class Indexer implements Runnable {
 
             // check if this line is for a word or just an extension for the previous line
             // System.out.println(tempInput);
-            if (tempInput.charAt(0) == '/')
+            if (tempInput.charAt(0) == '#')
             // compare to check if this word = ourWord ?
             {
                 // get the word
@@ -245,7 +244,7 @@ public class Indexer implements Runnable {
                 }else               // then, this is the first time to add this word
                 {
                     FileWriter myWriter = new FileWriter(filePath, true);   // true to activate the appending mode
-                    myWriter.write('/' + word + '|' + info + "::1;" + '\n');
+                    myWriter.write('#' + word + '|' + info + "::1;" + '\n');
                     myWriter.close();
                 }
             }
@@ -254,7 +253,7 @@ public class Indexer implements Runnable {
 
         // if don't return, then the file was empty --> so this is the first line to insert in it
         FileWriter myWriter = new FileWriter(filePath);
-        myWriter.write('/' + word + '|' + info + "::1;" + '\n');
+        myWriter.write('#' + word + '|' + info + "::1;" + '\n');
         myWriter.close();
     }
 

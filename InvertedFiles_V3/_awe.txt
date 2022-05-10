@@ -1,2 +1,0 @@
-/awel|[https://english.ahram.org.eg/,p]::1;
-/awesome|[http://wordpress.org/plugins/broken-link-checker,p]::2;[https://apps.apple.com/us/app/t2d-healthline-diabetes/id1498858311,p]::1;

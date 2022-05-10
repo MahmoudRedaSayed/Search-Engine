@@ -1,2 +1,0 @@
-/dba|[https://www.campdream.org/,p]::1;[https://www.everydayhealth.com/drugs,h]::2;
-/dbase|[https://www.tutorialspoint.com/computer_glossary.htm,p]::1;

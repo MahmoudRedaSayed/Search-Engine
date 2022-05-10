@@ -1,3 +1,0 @@
-/tucked|[https://www.dailymail.co.uk,h]::1;[http://www.archive-it.org,p]::1;
-/tucson|[https://www.everydayhealth.com/depression/guide,s]::1;[https://www.everydayhealth.com/depression/guide,p]::3;
-/tucows|[https://archive.org/details/software,p]::1;

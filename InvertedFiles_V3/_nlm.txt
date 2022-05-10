@@ -1,2 +1,0 @@
-/nlm|[http://www.archive-it.org,p]::2;
-/nlmwebcollectingnlmnihgov|[http://www.archive-it.org,p]::1;

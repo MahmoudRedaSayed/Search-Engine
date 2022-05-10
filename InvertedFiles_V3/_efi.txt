@@ -1,2 +1,0 @@
-/eficaz|[http://www.hearst.es,p]::1;
-/eficaces|[http://www.hearst.es,p]::2;

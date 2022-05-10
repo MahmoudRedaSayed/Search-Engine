@@ -1,3 +1,0 @@
-/kulkarni|[https://www.tutorialspoint.com,p]::1;[https://www.tutorialspoint.com/profile/chinmay_kulkarni,h]::1;[https://www.tutorialspoint.com/profile/chinmay_kulkarni,p]::2;[https://www.tutorialspoint.com/cyber_security_go_from_zero_to_hero/index.asp,p]::2;
-/kulturelle|[http://www.archive-it.org,p]::1;
-/kultureller|[http://www.archive-it.org,p]::1;

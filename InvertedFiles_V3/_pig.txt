@@ -1,3 +1,0 @@
-/pig|[https://english.ahram.org.eg/,p]::1;[https://www.dailymail.co.uk,p]::1;
-/pigment|[https://www.cancer.gov/about-cancer/understanding/what-is-cancer,p]::1;
-/pigmented|[https://www.cancer.gov/about-cancer/understanding/what-is-cancer,p]::1;

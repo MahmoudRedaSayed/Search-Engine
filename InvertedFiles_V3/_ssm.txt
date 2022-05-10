@@ -1,1 +1,0 @@
-/ssml|[https://developers.google.com/assistant/surfaces/smartphones,p]::1;

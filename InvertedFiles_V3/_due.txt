@@ -1,2 +1,0 @@
-/duet|[https://english.ahram.org.eg/,h]::1;[https://english.ahram.org.eg/,p]::1;
-/due |[https://blog.archive.org,p]::1;

@@ -1,9 +1,0 @@
-/adhering|[https://www.everydayhealth.com/psoriasis/guide,h]::1;[https://www.everydayhealth.com/about-us,p]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;
-/adheres|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;[https://www.everydayhealth.com/diet-nutrition/the-paleo-diet.aspx,p]::1;[https://www.everydayhealth.com/diet-nutrition/atkins-diet.aspx,p]::1;[http://www.archive-it.org,p]::2;[https://twitter.com/privacy,p]::1;[https://arxiv.org/abs/cs.SE/0105018,p]::1;[https://www.everydayhealth.com/editorial-policies,p]::2;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;
-/adhd|[https://psychcentral.com,p]::2;[https://www.everydayhealth.com/most-popular,p]::1;
-/adhesive|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
-/adherence|[https://www.everydayhealth.com/diet-nutrition/ketogenic-diet,p]::1;[https://twitter.com/privacy,p]::1;
-/adhd?|[https://www.everydayhealth.com/emotional-health/lili-reinhart-called-out-other-celebs-for-starving-themselves-why-body-image-experts-are-applauding-her,h]::1;
-/adhanom|[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus,p]::1;
-/adhered|[https://en.wikipedia.org/wiki/HTTP_cookie,p]::1;
-/adhoc|[http://www.thesecuritypractice.com/the_security_practice/2011/03/http-state-management-mechanism-to-proposed-standard.html,p]::1;

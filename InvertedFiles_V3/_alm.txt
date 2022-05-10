@@ -1,3 +1,0 @@
-/almotaweh|[https://english.ahram.org.eg/,p]::1;
-/almond|[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::3;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::2;[https://www.everydayhealth.com/mediterranean-diet/guide,p]::1;[https://www.everydayhealth.com/cancer/condition-kitchen-easy-recipes-people-living-with-cancer,h]::1;
-/almonds|[https://www.everydayhealth.com/diet-nutrition/the-paleo-diet.aspx,p]::1;

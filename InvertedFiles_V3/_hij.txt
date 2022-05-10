@@ -1,2 +1,0 @@
-/hijo|[https://www.marca.com,h]::3;
-/hijacking|[https://en.wikipedia.org/wiki/HTTP_cookie,h]::1;[https://en.wikipedia.org/wiki/HTTP_cookie,p]::1;

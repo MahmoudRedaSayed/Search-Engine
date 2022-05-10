@@ -1,6 +1,0 @@
-/tame|[https://www.everydayhealth.com/eczema/guide,s]::1;
-/tamalpais|[https://archive.org/about/bios.php,p]::1;
-/tampa|[https://archive.org/about/bios.php,p]::1;[http://www.archive-it.org,p]::1;[https://www.ajmc.com/meetings,p]::1;[https://www.everydayhealth.com/cancer/cancer-news-digest-latest-developments-in-cancer-research-and-treatment-for-june,p]::1;
-/tamoxifen|[https://www.everydayhealth.com/cancer/cancer-news-digest-the-latest-developments-in-cancer-research-and-treatment-for-february,p]::1;
-/tamika|[https://www.healthline.com/health/healthy-sex/black-women-sexuality,p]::1;
-/tamper|[https://twitter.com/tos,p]::2;

@@ -1,3 +1,0 @@
-/cobranded|[http://www.hearst.co.uk/privacy-notice,s]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::2;
-/cobranders|[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;
-/cobblestone|[http://edbrowse.org/usersguide.html#cook,p]::2;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::2;

@@ -1,3 +1,0 @@
-/dubai|[https://www.france24.com,p]::1;
-/dublin|[http://www.archive-it.org,p]::1;[https://twitter.com/privacy,p]::1;[https://twitter.com/tos,p]::1;[https://legal.twitter.com/imprint.html,p]::1;
-/dubbed|[https://www.everydayhealth.com/cancer/genetic-counseling-for-cancer-risk-just-as-effective-via-telehealth-and-more-cancer-news-from-ascos-annual-meeting,p]::1;

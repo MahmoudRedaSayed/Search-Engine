@@ -1,2 +1,0 @@
-/gigabytes|[https://archive.org/details/software,p]::1;[https://archive.org/projects,p]::1;[https://www.tutorialspoint.com/computer_glossary.htm,h]::1;[https://www.tutorialspoint.com/computer_glossary.htm,p]::4;
-/giggle|[https://www.inlife.co.uk/why-are-cookies-called-cookies,p]::1;

@@ -1,9 +1,0 @@
-/reunion|[https://www.everydayhealth.com/,h]::1;[https://www.loc.gov,h]::1;[https://www.everydayhealth.com/crohns-disease/guide,h]::1;[https://www.everydayhealth.com/tippi,h]::1;
-/reunite|[https://english.ahram.org.eg/,p]::1;
-/reunited|[https://www.dailymail.co.uk,p]::1;
-/reuse|[https://www.loc.gov,h]::1;[https://www.loc.gov,p]::1;[https://www.hearst.co.uk/contact-us,s]::1;[https://archive.org/details/texts,p]::1;[https://archive.org/about/bios.php,p]::1;[https://www.tutorialspoint.com/css/index.htm,p]::1;[https://www.cancer.gov/about-cancer/understanding/statistics,p]::1;[https://www.tutorialspoint.com/word/index.htm,p]::1;[https://www.cancer.gov/types/common-cancers,p]::1;[https://www.youtube.com/about/copyright,p]::2;[https://developers.googleblog.com/2020/06/announcing-actions-builder-actions-sdk.html,p]::1;[https://www.cancer.gov/about-cancer/treatment/side-effects/appetite-loss/nutrition-pdq#targetText=Good%2520nutrition%2520is%2520important%2520for,healthy%252C%2520and%2520to%2520replace%2520tissue.&targetText=Eating%2520the%2520right%2520kinds%2520of,feel%2520better%2520and%2520stay%2520stronger.,p]::1;[https://www.cancer.gov/about-cancer/understanding/what-is-cancer,p]::1;
-/reuptake|[https://www.everydayhealth.com/depression/guide,s]::3;
-/reusable|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::2;[https://www.tutorialspoint.com/spring/index.htm,p]::1;
-/reuters|[https://blog.archive.org,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::4;[https://www.everydayhealth.com/cancer/biden-relaunches-cancer-moonshot-program-with-pledge-to-end-cancer-as-we-know-it,p]::1;
-/reused|[http://www.archive-it.org,p]::1;[https://en.wikipedia.org/wiki/HTTP_cookie,p]::1;
-/reuploads|[https://www.youtube.com/about/copyright,p]::2;[https://www.youtube.com/about/policies,p]::1;

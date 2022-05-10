@@ -1,9 +1,0 @@
-/bottles|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;[https://www.loc.gov,h]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;[https://www.everydayhealth.com/healthy-living/consumers-guide-drug-discounts,h]::1;[https://www.cancer.net/navigating-cancer-care/managing-your-care/mobile-applications,p]::1;
-/bottlenecks|[https://www.dailymail.co.uk,p]::1;
-/both…and|[https://www.grammar-quizzes.com/,p]::1;
-/boto|[https://www.tutorialspoint.com/prime-pack/complete-python-prime-pack/index.asp,p]::1;
-/bots|[https://www.tutorialspoint.com/prime-pack/cyber-security-prime-pack/index.asp,p]::1;[https://archive.org/about/volunteerpositions.php,p]::1;
-/botnets|[https://www.tutorialspoint.com/prime-pack/cyber-security-prime-pack/index.asp,p]::1;
-/botanicals|[https://www.everydayhealth.com/alternative-health/all-articles,h]::1;[https://blog.archive.org,p]::1;[https://archive.org/about/bios.php,p]::2;
-/botox|[https://www.everydayhealth.com/wellness/healthy-skin,h]::1;
-/bother|[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;

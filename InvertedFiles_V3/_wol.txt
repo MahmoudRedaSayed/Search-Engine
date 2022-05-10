@@ -1,3 +1,0 @@
-/wolcott|[https://www.loc.gov,h]::2;
-/wolfe|[https://www.everydayhealth.com/flu/guide,p]::1;[https://www.everydayhealth.com/diet-nutrition/the-paleo-diet.aspx,p]::1;
-/wolfson|[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::1;

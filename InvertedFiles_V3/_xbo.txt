@@ -1,1 +1,0 @@
-/xbox|[http://www.microsoft.com/en/us/default.aspx?redir=true,h]::1;[http://www.microsoft.com/en/us/default.aspx?redir=true,p]::2;

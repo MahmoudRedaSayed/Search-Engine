@@ -1,3 +1,0 @@
-/mum|[https://www.dailymail.co.uk,h]::1;[https://www.hearstmagazines.co.uk/gift-ideas,p]::1;
-/mummification|[https://english.ahram.org.eg/,p]::1;
-/mumbai|[https://www.everydayhealthgroup.com,s]::1;[https://www.everydayhealthgroup.com,p]::2;

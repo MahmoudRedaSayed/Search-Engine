@@ -1,2 +1,0 @@
-/gun|[https://www.loc.gov,h]::2;
-/guns|[https://www.healthline.com/fitness,p]::1;

@@ -1,2 +1,0 @@
-/elbows|[https://www.everydayhealth.com/eczema/guide,p]::1;[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;[https://www.everydayhealth.com/psoriasis/guide,p]::3;[https://www.everydayhealth.com/symptom-checker,p]::1;
-/elbow carpal|[https://www.everydayhealth.com/symptom-checker,p]::1;

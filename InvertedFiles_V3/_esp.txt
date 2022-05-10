@@ -1,7 +1,0 @@
-/español|[https://www.sciencenewsforstudents.org,h]::1;[http://www.archive-it.org,p]::1;[https://www.youtube.com/creators,p]::1;[https://www.cancersupportcommunity.org,p]::2;
-/españoluruguayo|[https://www.marca.com,h]::1;
-/españa|[https://blog.archive.org/2013/10/24/web-archive-404-handler-for-webmasters,p]::1;[http://www.hearst.es,p]::1;
-/esperienze|[https://www.hearst.it,p]::1;
-/espn|[http://www.hearst.com.cn/en/aboutus,p]::1;
-/esparza|[https://www.canceradvocacy.org,h]::1;
-/espacenet|[https://worldwide.espacenet.com/textdoc?DB=EPODOC&IDX=US5774670,t]::1;[https://worldwide.espacenet.com/textdoc?DB=EPODOC&IDX=US5774670,h]::1;

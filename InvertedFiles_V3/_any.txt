@@ -1,5 +1,0 @@
-/anytime|[https://www.tutorialspoint.com/market/teach_with_us.jsp,p]::1;[https://developers.google.com/assistant/why-build,h]::1;[https://developers.google.com/assistant/why-build,p]::1;[https://www.hearstmagazines.co.uk/womens-health-collective-membership-subscription,p]::1;[https://www.hearstmagazines.co.uk/gift-ideas,p]::1;[https://archive.org/projects,p]::1;[https://www.tutorialspoint.com/kotlin/index.htm,p]::1;[https://apps.apple.com/us/app/t2d-healthline-diabetes/id1498858311,p]::1;
-/anywhere”|[https://blog.archive.org,p]::1;
-/anywhere?|[https://www.everydayhealth.com/news,h]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,h]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus,h]::1;[https://www.everydayhealth.com/coronavirus/all-articles,h]::1;
-/anyway?|[https://www.healthline.com/health/healthy-sex/black-women-sexuality,s]::1;[https://www.healthline.com/health/healthy-sex/black-women-sexuality,p]::1;
-/anyone's|[https://archive.org/about/terms.php,p]::1;

@@ -1,8 +1,0 @@
-/nervous|[https://www.everydayhealth.com/cancer/guide,p]::1;[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::6;[https://www.everydayhealth.com/stress/guide,h]::1;[https://www.everydayhealth.com/stress/guide,p]::4;[https://www.healthline.com/mental-health,p]::1;[https://www.mayoclinic.org/diseases-conditions/cancer/symptoms-causes/syc-20370588,s]::1;[https://www.cancer.org/cancer/cancer-causes/genetics/family-cancer-syndromes.html,p]::1;[https://www.healthline.com/health/mental-health/discovering-gender-identity-in-isolation,p]::1;[https://www.everydayhealth.com/cancer/living-with/how-keep-friendships-strong-while-being-treated-cancer,p]::1;[https://www.cancer.gov/about-cancer/understanding/what-is-cancer,p]::2;
-/nerve|[https://www.everydayhealth.com/depression/guide,s]::1;[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::8;[https://www.everydayhealth.com/type-2-diabetes/guide,p]::2;[https://www.cancer.gov/about-cancer/understanding/what-is-cancer,p]::1;
-/nerfect|[https://greatist.com,p]::1;
-/nerves|[https://www.everydayhealth.com/type-2-diabetes/guide,p]::1;[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;[https://www.everydayhealth.com/symptom-checker,p]::2;[https://www.everydayhealth.com/lung-cancer/living-with/your-lungs-get-healthier-every-hour-every-day-after-you-quit-smoking,p]::1;[https://www.everydayhealth.com/cancer/guide/cancer-symptoms,p]::2;[https://www.cancer.gov/about-cancer/understanding/what-is-cancer,p]::1;
-/neroli|[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;
-/nervousness|[https://www.everydayhealth.com/symptom-checker,p]::1;
-/nergens|[https://hearst.nl,p]::1;
-/nerd a|[https://www.inlife.co.uk/why-are-cookies-called-cookies,p]::1;

@@ -1,2 +1,0 @@
-/goggles|[https://www.tutorialspoint.com/computer_glossary.htm,p]::1;
-/goglobalwithtwitterbanner|[https://twitter.com/privacy,p]::1;[https://twitter.com/tos,p]::1;

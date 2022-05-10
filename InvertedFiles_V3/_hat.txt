@@ -1,6 +1,0 @@
-/hatha|[https://www.everydayhealth.com/wellness,h]::1;[https://archive.org/about/bios.php,p]::1;[https://www.tutorialspoint.com/openshift/index.htm,p]::1;[https://www.tutorialspoint.com/effective_resume_writing.htm,p]::1;[https://www.tutorialspoint.com/computer_glossary.htm,p]::2;[https://www.acco.org,p]::3;
-/hate|[https://www.healthline.com/program/sexual-health-for-every-body,p]::1;[http://healthline.com/program/sexual-health-for-every-body#covid-19,p]::1;[http://healthline.com/program/sexual-health-for-every-body#identity,p]::1;[https://developers.google.com/assistant/console/policies/general-policies,h]::1;[https://developers.google.com/assistant/console/policies/general-policies,p]::1;[https://www.healthline.com/health/healthy-sex/black-women-sexuality,p]::1;[https://web.archive.org/web/20180810220427/https:/www.bbc.co.uk/news/technology-12668552,h]::1;[http://healthline.com/program/sexual-health-for-every-body#help,p]::1;[http://healthline.com/program/sexual-health-for-every-body#morning-after,p]::1;
-/hats|[https://archive.org/about/bios.php,p]::1;[https://www.acco.org,p]::6;
-/hatred|[https://www.everydayhealth.com/emotional-health/lili-reinhart-called-out-other-celebs-for-starving-themselves-why-body-image-experts-are-applauding-her,p]::1;
-/hatch|[https://www.youtube.com/about/press,p]::1;
-/hat'|[https://www.acco.org,p]::3;

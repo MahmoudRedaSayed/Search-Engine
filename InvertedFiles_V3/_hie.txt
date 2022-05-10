@@ -1,5 +1,0 @@
-/hierarchical|[https://developers.google.com/assistant/app/slices,p]::1;[https://legal.twitter.com/imprint.html,p]::3;
-/hierarchy|[https://blog.archive.org,h]::1;[https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures,p]::1;[https://www.tutorialspoint.com/computer_glossary.htm,p]::1;[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::1;
-/hierarchies |[https://blog.archive.org,p]::3;
-/hierarchy |[https://blog.archive.org,p]::1;
-/hierarchically|[https://blog.archive.org,p]::1;

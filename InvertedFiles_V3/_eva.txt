@@ -1,9 +1,0 @@
-/evaluate|[https://www.everydayhealth.com/,p]::1;[http://www.archive-it.org,p]::1;[https://www.everydayhealth.com/cancer/cancer-news-digest-the-latest-developments-in-cancer-research-and-treatment-for-february,p]::1;[https://twitter.com/privacy,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::1;
-/evaporate|[https://www.everydayhealth.com/eczema/guide,p]::1;
-/evaluating|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;[https://developers.google.com/assistant/console/policies/general-policies,p]::1;[https://www.youtube.com/about/policies,p]::1;[https://support.twitter.com/articles/20170514,p]::1;
-/evaluated|[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::1;[https://www.everydayhealth.com/diet-and-nutrition/diet/mind-diet-can-this-diet-plan-help-reverse-alzheimers-disease,p]::1;[https://www.everydayhealth.com/heart-health/fda-approves-camzyos-for-the-treatment-of-obstructive-hypertrophic-cardiomyopathy,p]::1;[https://www.everydayhealth.com/cancer/cancer-news-digest-latest-developments-in-cancer-research-and-treatment-for-june,p]::1;
-/evaluation|[https://www.everydayhealth.com/heart-health/fda-approves-camzyos-for-the-treatment-of-obstructive-hypertrophic-cardiomyopathy,p]::2;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::3;
-/evangelical|[http://www.archive-it.org,p]::1;
-/evanston|[http://www.archive-it.org,p]::3;[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::1;
-/evaluations|[https://www.everydayhealth.com/cancer/fda-approves-pacritinib-for-treatment-of-myelofibrosis,p]::1;
-/evading|[https://www.healthline.com/health/healthy-sex/second-queer-adolescence,p]::1;

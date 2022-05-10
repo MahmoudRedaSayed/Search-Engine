@@ -1,2 +1,0 @@
-/msu|[http://www.archive-it.org,p]::3;
-/msus|[http://www.archive-it.org,p]::1;

@@ -1,3 +1,0 @@
-/rotator|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;[https://www.youtube.com/ads,h]::2;[https://www.youtube.com/ads,p]::2;
-/rotate|[https://www.everydayhealth.com/type-2-diabetes/guide,p]::1;[https://www.nytimes.com/2001/09/04/technology/04COOK.html,p]::1;
-/rotation|[https://www.everydayhealth.com/diet-nutrition/ketogenic-diet,p]::1;

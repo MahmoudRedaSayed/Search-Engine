@@ -1,2 +1,0 @@
-/leo|[https://www.everydayhealth.com/psoriasis/guide,p]::1;[http://www.archive-it.org,p]::1;[https://www.cancer.org/cancer/cancer-basics/questions-people-ask-about-cancer.html,p]::1;[https://www.cancer.org/cancer/cancer-causes/genetics/family-cancer-syndromes.html,p]::1;[https://www.cancer.org,p]::1;[https://www.acco.org,p]::4;
-/leonard|[https://www.medicalnewstoday.com,p]::4;[https://www.hearstmagazines.co.uk/mens-health-squad-membership-subscription,s]::1;

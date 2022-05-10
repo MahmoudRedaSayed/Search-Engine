@@ -1,1 +1,0 @@
-/paas|[https://www.tutorialspoint.com/openshift/index.htm,p]::1;

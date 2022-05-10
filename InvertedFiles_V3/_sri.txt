@@ -1,3 +1,0 @@
-/sri|[https://www.bbc.com/,h]::2;[https://www.france24.com,p]::1;
-/srivastava|[https://www.tutorialspoint.com/blockchain/index.htm,p]::2;[https://www.tutorialspoint.com/blue_prism/index.htm,p]::2;[https://www.tutorialspoint.com/openshift/index.htm,p]::2;[https://www.tutorialspoint.com/operating_system/index.htm,p]::1;[https://www.tutorialspoint.com/mysql/index.htm,p]::1;[https://www.tutorialspoint.com/swing/index.htm,p]::2;[https://www.tutorialspoint.com/hadoop/index.htm,p]::1;[https://www.tutorialspoint.com/big_data_analytics/index.htm,p]::6;[https://www.tutorialspoint.com/tableau/index.htm,p]::1;
-/srinivas|[https://www.tutorialspoint.com/mysql/index.htm,p]::1;

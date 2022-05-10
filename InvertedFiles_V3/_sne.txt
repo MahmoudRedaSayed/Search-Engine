@@ -1,5 +1,0 @@
-/sneak|[https://www.everydayhealth.com/diet-and-nutrition/diet/mind-diet-can-this-diet-plan-help-reverse-alzheimers-disease,h]::1;[https://developers.googleblog.com/2019/07/developer-preview-of-local-home-sdk.html,p]::1;
-/sneaky|[https://www.everydayhealth.com/diet-nutrition/the-dash-diet.aspx,h]::1;[https://www.healthline.com/health/healthy-sex/black-women-sexuality,p]::1;
-/sneakily|[https://www.everydayhealth.com/diet-nutrition/atkins-diet.aspx,p]::1;
-/sneezes|[https://www.everydayhealth.com/symptom-checker,p]::2;[https://www.everydayhealth.com/infectious-diseases/coronavirus,p]::2;
-/sneakers|[https://www.acco.org,p]::1;

@@ -1,2 +1,0 @@
-/axis|[https://www.everydayhealth.com/stress/guide,p]::1;
-/axios|[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;

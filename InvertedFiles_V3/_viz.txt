@@ -1,1 +1,0 @@
-/vizier|[https://hearst.nl,p]::1;

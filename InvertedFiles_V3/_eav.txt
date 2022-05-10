@@ -1,1 +1,0 @@
-/eavesdropping|[https://en.wikipedia.org/wiki/HTTP_cookie,h]::1;[https://en.wikipedia.org/wiki/HTTP_cookie,p]::1;

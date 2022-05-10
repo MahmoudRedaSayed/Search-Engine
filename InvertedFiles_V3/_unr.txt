@@ -1,9 +1,0 @@
-/unravel|[https://www.dailymail.co.uk,p]::1;
-/unrelated|[https://www.everydayhealth.com/cancer/guide,p]::1;[https://en.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://www.everydayhealth.com/cancer/living-with/how-keep-friendships-strong-while-being-treated-cancer,p]::1;
-/unraveling|[https://www.everydayhealth.com/multiple-sclerosis/guide,h]::2;
-/unrepentant|[https://archive.org/about/bios.php,p]::1;
-/unrest|[https://www.healthline.com/health/healthy-sex/black-women-sexuality,p]::1;
-/unreliability|[https://en.wikipedia.org/wiki/HTTP_cookie,p]::1;
-/unrelenting|[https://www.gatewaycr.org,p]::1;
-/unresolved|[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::2;
-/unread|[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;

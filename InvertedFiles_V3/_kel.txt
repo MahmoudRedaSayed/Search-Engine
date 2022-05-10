@@ -1,4 +1,0 @@
-/kelly|[https://www.dailymail.co.uk,p]::1;[https://www.academicinfo.net,h]::1;[https://www.everydayhealth.com/diet-nutrition/diet/low-carb-diet-beginners-guide-food-list-meal-plan-tips,p]::1;[https://www.everydayhealth.com/cancer/condition-kitchen-easy-recipes-people-living-with-cancer,p]::1;[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,h]::1;[https://www.healthonnet.org/HONcode/Conduct.html?HONConduct736517,p]::2;
-/kelley|[http://www.archive-it.org,p]::2;
-/kelleys|[http://www.archive-it.org,p]::1;
-/kelsey|[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,h]::1;[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::1;

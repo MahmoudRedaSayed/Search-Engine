@@ -1,7 +1,0 @@
-/feta|[https://www.everydayhealth.com/mediterranean-diet/guide,p]::2;
-/fetoprotein|[https://www.everydayhealth.com/cancer/guide/cancer-screening,s]::1;
-/fetches|[https://codelabs.developers.google.com/codelabs/appactions,p]::2;[http://edbrowse.org/usersguide.html#cook,p]::24;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::21;
-/fetched|[http://edbrowse.org/usersguide.html#cook,p]::6;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::2;
-/fetching|[http://edbrowse.org/usersguide.html#cook,p]::3;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::2;
-/fetchmail|[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;
-/fetchframe|[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;

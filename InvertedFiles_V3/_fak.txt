@@ -1,2 +1,0 @@
-/fake|[https://www.france24.com,p]::2;[https://en.wikipedia.org/wiki/HTTP_cookie,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;
-/fake?|[https://web.archive.org/web/20180810220427/https:/www.bbc.co.uk/news/technology-12668552,h]::1;

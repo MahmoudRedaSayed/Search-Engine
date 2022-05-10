@@ -1,3 +1,0 @@
-/kong's|[https://www.france24.com,p]::1;[https://www.everydayhealth.com/wellness/resilience,s]::1;[https://archive.org/about/bios.php,p]::1;
-/kondoor|[https://www.tutorialspoint.com/categories/it_and_software,p]::1;
-/kontaktiere|[https://legal.twitter.com/imprint.html,p]::3;

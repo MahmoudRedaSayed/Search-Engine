@@ -1,8 +1,0 @@
-/justdontsendflowerscom|[https://www.everydayhealth.com/cancer/guide,p]::1;[https://www.everydayhealth.com/cancer/living-with/how-keep-friendships-strong-while-being-treated-cancer,p]::1;
-/justifies|[https://www.healthonnet.org/HONcode/Conduct.html?HONConduct694855,p]::1;[https://www.healthonnet.org/HONcode/Conduct.html?HONConduct736517,p]::1;
-/justice|[https://archive.org/about/bios.php,p]::1;[https://www.everydayhealth.com/courses,h]::1;[http://www.archive-it.org,p]::2;[https://en.wikipedia.org/wiki/HTTP_cookie,p]::2;
-/justify|[https://www.ipso.co.uk/editors-code-of-practice,p]::2;[https://www.healthline.com/health/healthy-sex/second-queer-adolescence,p]::1;[https://www.healthline.com/health/healthy-sex/sexual-guilt-purity-culture,p]::1;[https://en.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://www.everydayhealth.com/editorial-policies,p]::1;
-/justification|[https://www.ipso.co.uk/editors-code-of-practice,p]::2;
-/justified|[https://www.ipso.co.uk/editors-code-of-practice,p]::1;
-/justannounced|[https://www.asco.org,p]::1;
-/juschg|[https://legal.twitter.com/imprint.html,p]::2;

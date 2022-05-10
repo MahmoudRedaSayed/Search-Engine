@@ -1,1 +1,0 @@
-/odbc|[https://www.tutorialspoint.com/jdbc/index.htm,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::1;

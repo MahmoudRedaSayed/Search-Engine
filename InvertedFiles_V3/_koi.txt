@@ -1,1 +1,0 @@
-/koirala|[https://www.tutorialspoint.com/angular4/index.htm,p]::1;[https://www.tutorialspoint.com/asp.net/index.htm,p]::1;

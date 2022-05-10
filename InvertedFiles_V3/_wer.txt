@@ -1,4 +1,0 @@
-/werden|[http://www.archive-it.org,p]::2;[https://legal.twitter.com/imprint.html,p]::2;
-/werent|[https://www.healthline.com/health/healthy-sex/black-women-sexuality,p]::2;[https://www.everydayhealth.com/cancer/guide/cancer-diagnosis-tests,p]::1;
-/wereld|[https://hearst.nl,p]::1;
-/were called|[https://www.inlife.co.uk/why-are-cookies-called-cookies,p]::1;

@@ -1,3 +1,0 @@
-/beverly|[https://www.loc.gov,h]::1;
-/beverages|[https://www.everydayhealth.com/crohns-disease/guide,p]::2;[https://www.everydayhealth.com/diet-nutrition/the-paleo-diet.aspx,p]::1;[https://www.everydayhealth.com/dehydration/hydration-calculator,p]::1;[https://developers.google.com/assistant/console/policies/general-policies,p]::1;[https://www.everydayhealth.com/colon-cancer,p]::1;
-/bevacizumab|[https://www.everydayhealth.com/cancer/cancer-news-digest-the-latest-developments-in-cancer-research-and-treatment-for-september,p]::1;

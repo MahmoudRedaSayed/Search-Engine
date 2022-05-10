@@ -1,2 +1,0 @@
-/elon|[https://www.iflscience.com/,h]::1;[https://www.dailymail.co.uk,h]::1;
-/elon's|[https://www.iflscience.com/,p]::1;

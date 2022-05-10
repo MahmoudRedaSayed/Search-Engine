@@ -1,8 +1,0 @@
-/nearby|[https://www.dailymail.co.uk,p]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;[https://www.everydayhealth.com/eczema/guide,s]::4;[https://www.everydayhealth.com/eczema/guide,p]::10;[https://www.everydayhealth.com/infectious-diseases/coronavirus,p]::1;[https://www.everydayhealth.com/cancer/guide/cancer-symptoms,p]::1;[https://www.everydayhealth.com/breast-cancer/living-with/on-chemo-brain-dropped-words,p]::1;[https://www.everydayhealth.com/cancer/living-with/how-keep-friendships-strong-while-being-treated-cancer,p]::1;[https://medlineplus.gov/cancer.html,p]::1;[https://www.cancer.gov/about-cancer/understanding/what-is-cancer,p]::2;[https://www.everydayhealth.com/cervical-cancer/guide,p]::1;[https://www.everydayhealth.com/colon-cancer,p]::1;
-/neas|[https://www.everydayhealth.com/eczema/guide,p]::1;
-/neahosted|[https://www.everydayhealth.com/eczema/guide,p]::1;
-/nearunrestricted|[https://archive.org/details/texts,p]::1;
-/nearest|[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::1;[https://www.healthline.com/additional-information,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::1;
-/nearprint|[http://www.archive-it.org,p]::1;
-/neat|[https://www.tutorialspoint.com/effective_resume_writing.htm,p]::1;
-/nearfull|[https://www.youtube.com/about/copyright,p]::1;

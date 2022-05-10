@@ -1,2 +1,0 @@
-/otto|[https://www.loc.gov,h]::1;
-/ottenere|[https://www.hearst.it,p]::1;

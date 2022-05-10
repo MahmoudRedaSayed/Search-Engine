@@ -1,7 +1,0 @@
-/murthy|[https://www.healthline.com/,p]::1;[https://psychcentral.com,p]::1;[https://www.healthline.com/mental-health,p]::1;
-/murder|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;[https://www.hearstmagazines.co.uk/holidays,p]::1;[https://www.primaholidays.co.uk/?utm_source=hearstmagazines&utm_medium=referral&utm_campaign=hearst-holidays&utm_term=pri&utm_content=nav-bar,p]::2;
-/murder |[https://www.dailymail.co.uk,h]::1;
-/murad|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,h]::1;[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,s]::2;[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;
-/murrey|[http://www.archive-it.org,p]::1;
-/muris|[https://www.nytimes.com/2001/09/04/technology/04COOK.html,p]::1;
-/murkoff|[https://www.everydayhealthgroup.com,p]::1;

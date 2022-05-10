@@ -1,2 +1,0 @@
-/mccoll's|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
-/mccain|[https://web.archive.org/web/20110824225528/http:/adage.com/article/digital/sen-rockefeller-ready-a-real-track-bill/227426,p]::1;

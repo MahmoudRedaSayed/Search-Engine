@@ -1,2 +1,0 @@
-/nfid|[https://www.everydayhealth.com/flu/guide,s]::1;[https://www.everydayhealth.com/flu/guide,p]::1;
-/nfid is|[https://www.everydayhealth.com/flu/guide,p]::1;

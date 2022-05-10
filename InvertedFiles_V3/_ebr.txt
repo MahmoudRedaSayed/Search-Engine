@@ -1,2 +1,0 @@
-/ebria|[https://www.marca.com,h]::1;
-/ebrc|[http://edbrowse.org/usersguide.html#cook,p]::11;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::10;

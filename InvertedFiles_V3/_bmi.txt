@@ -1,2 +1,0 @@
-/bmi|[https://www.healthline.com/nutrition,p]::1;[https://developers.google.com/assistant/console/policies/general-policies,p]::1;[https://www.everydayhealth.com/cancer/cancer-news-digest-the-latest-developments-in-cancer-research-and-treatment-for-february,p]::1;[https://www.everydayhealth.com/colon-cancer,p]::1;
-/bmi of|[https://www.everydayhealth.com/diet-nutrition/burning-questions-about-intermittent-fasting-answered,p]::1;

@@ -1,2 +1,0 @@
-/mcdaniel|[https://www.tutorialspoint.com/categories/development,p]::3;[https://www.tutorialspoint.com/categories/marketing,p]::1;
-/mcdonald|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::1;

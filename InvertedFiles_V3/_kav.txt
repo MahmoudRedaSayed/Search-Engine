@@ -1,2 +1,0 @@
-/kavuri|[https://www.tutorialspoint.com,p]::1;[https://www.tutorialspoint.com/about/about_careers.htm,p]::1;[https://www.tutorialspoint.com/online_dev_tools.htm,p]::1;[https://www.tutorialspoint.com/codingground.htm,p]::1;[https://www.tutorialspoint.com/questions_and_answers.htm,p]::1;[https://www.tutorialspoint.com/online_file_conversion.htm,p]::1;
-/kavon|[http://www.archive-it.org,p]::1;

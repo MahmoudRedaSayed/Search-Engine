@@ -1,3 +1,0 @@
-/inroom|[https://www.everydayhealth.com/psoriasis/guide,p]::1;
-/inrebic —|[https://www.everydayhealth.com/cancer/fda-approves-pacritinib-for-treatment-of-myelofibrosis,p]::1;
-/inria|[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::1;

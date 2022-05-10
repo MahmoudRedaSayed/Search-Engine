@@ -1,1 +1,0 @@
-/esus|[https://developers.google.com/assistant/console/languages-locales,p]::3;

@@ -1,3 +1,0 @@
-/atlético|[https://www.marca.com,h]::1;
-/atlantica|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;[https://archive.org/about/bios.php,p]::1;[http://www.archive-it.org,p]::1;
-/atlanta|[https://www.everydayhealth.com/diet-nutrition/ketogenic-diet,p]::1;

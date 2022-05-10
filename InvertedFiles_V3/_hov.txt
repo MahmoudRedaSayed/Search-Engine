@@ -1,2 +1,0 @@
-/hover|[https://developers.google.com/assistant/console/analytics,p]::1;[https://www.everydayhealth.com/cancer/celebrities-with-cancer-why-do-some-decide-to-go-public-and-others-dont,p]::1;[http://edbrowse.org/usersguide.html#cook,h]::1;[http://edbrowse.org/usersguide.html#cook,p]::13;
-/hovering|[http://edbrowse.org/usersguide.html#cook,p]::2;

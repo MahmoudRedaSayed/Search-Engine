@@ -1,8 +1,0 @@
-/others'|[https://www.dailymail.co.uk,p]::1;[https://developers.google.com/assistant/console/policies/general-policies,p]::1;
-/other stds|[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::2;
-/other supplements|[https://www.everydayhealth.com/infectious-diseases/coronavirus,p]::1;
-/other?|[https://www.mayoclinic.org/diseases-conditions/cancer/symptoms-causes/syc-20370588,h]::1;
-/others |[https://www.cancer.org/cancer/cancer-causes/genetics/family-cancer-syndromes.html,p]::2;
-/other pharmacies|[https://www.everydayhealth.com/healthy-living/consumers-guide-drug-discounts,p]::1;
-/others"|[https://www.friend4life.org,p]::1;
-/others click|[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;

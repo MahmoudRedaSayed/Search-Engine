@@ -1,3 +1,0 @@
-/atoms|[https://www.sciencenewsforstudents.org,h]::1;
-/atopic|[https://www.everydayhealth.com/eczema/guide,t]::1;[https://www.everydayhealth.com/eczema/guide,h]::11;[https://www.everydayhealth.com/eczema/guide,s]::2;[https://www.everydayhealth.com/eczema/guide,p]::14;[https://www.everydayhealth.com/most-popular,p]::1;
-/atomicity|[https://www.tutorialspoint.com/dbms/index.htm,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;

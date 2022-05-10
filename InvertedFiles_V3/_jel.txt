@@ -1,2 +1,0 @@
-/jelly|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::2;[https://www.acco.org,p]::6;
-/jelsert|[https://www.acco.org,h]::3;

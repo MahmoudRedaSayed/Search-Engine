@@ -1,2 +1,0 @@
-/vehicle|[https://blog.archive.org,p]::1;[https://www.everydayhealth.com/cancer/celebrities-with-cancer-why-do-some-decide-to-go-public-and-others-dont,p]::1;
-/vehicles|[https://developers.google.com/assistant/console/policies/general-policies,p]::1;

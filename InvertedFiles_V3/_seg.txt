@@ -1,3 +1,0 @@
-/segunda|[https://www.marca.com,h]::1;
-/segments|[https://www.everydayhealth.com/flu/guide,p]::1;[https://blog.archive.org,p]::1;[https://www.everydayhealth.com/breast-cancer/living-with/beauty-during-breast-cancer-treatment,p]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,s]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::2;
-/segmentation|[https://www.tutorialspoint.com/prime-pack/artificial-intelligence-and-machine-learning-prime-pack/index.asp,p]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::2;

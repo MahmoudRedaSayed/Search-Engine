@@ -1,5 +1,0 @@
-/duchess|[https://www.dailymail.co.uk,p]::1;
-/duct|[https://www.everydayhealth.com/crohns-disease/guide,p]::1;[https://www.cancer.org/cancer/cancer-causes/genetics/family-cancer-syndromes.html,p]::1;[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,p]::1;[https://www.everydayhealth.com/breast-cancer/living-with/on-chemo-brain-dropped-words,p]::1;
-/duckduckgo|[https://en.wikipedia.org/wiki/HTTP_cookie,p]::1;
-/ductal|[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,h]::1;[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,p]::6;[https://www.everydayhealth.com/breast-cancer/living-with/on-chemo-brain-dropped-words,s]::1;[https://www.everydayhealth.com/breast-cancer/living-with/beauty-during-breast-cancer-treatment,h]::1;[https://www.everydayhealth.com/breast-cancer/living-with/on-chemo-brain-dropped-words,p]::4;
-/ducts|[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,p]::3;[https://www.everydayhealth.com/breast-cancer/living-with/on-chemo-brain-dropped-words,p]::6;[https://www.everydayhealth.com/colon-cancer,p]::1;
