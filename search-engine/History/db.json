@@ -59,6 +59,14 @@
     {
       "search": "content",
       "id": 15
+    },
+    {
+      "search": "consider conference",
+      "id": 16
+    },
+    {
+      "search": "conference",
+      "id": 17
     }
   ]
 }

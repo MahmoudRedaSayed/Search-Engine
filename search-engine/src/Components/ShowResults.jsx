@@ -20,7 +20,6 @@ class Results extends Component{
         componentDidMount(){
             this.setState({load:true});
             console.log(this.state.load);
-            console.log("ahhhhhhhhhhhhhhhhhhhhh");
             fetch(" http://localhost:8000/History").then(response=>{
                 if(response.ok)
                 {
@@ -51,11 +50,9 @@ class Results extends Component{
                 const Posts=this.state.Results.slice(FirstIndex,LastIndex);
                 this.setState({PagePosts:Posts});
                 console.log(data);
+                this.setState({load:false});
             })
             
-            setTimeout(()=>{this.setState({load:false});},12000);
-            console.log(this.state.load);
-
         }
         ChangePage=(pageNumber)=>{
             setTimeout(()=>{
