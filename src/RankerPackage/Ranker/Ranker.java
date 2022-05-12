@@ -35,7 +35,7 @@ public class Ranker
     }
 
 
-    public Map<String, Double> calculatePopularity(double totalNodes)             //Popularity
+    public Map<String, Double> calculatePopularity(int totalNodes)             //Popularity
     {
 
         //pagesRank1 ==> store the final results of popularity ( each page and its popularity )
@@ -48,7 +48,7 @@ public class Ranker
         double InitialPageRank = 1.0 / totalNodes;
 
         // initialize the rank of each page //
-        for (int k = 1; k < totalNodes; k++)
+        for (int k = 1; k <= totalNodes; k++)
             pagesRank1.put(completedLinks[k], InitialPageRank);
 
         //ITERATION_STEP is used to iterate twice following PageRank Algorithm steps
@@ -56,35 +56,38 @@ public class Ranker
         while (ITERATION_STEP <= 2) {
 
             // Store the PageRank for All Nodes in Temporary Map
-            for (int k = 71; k < totalNodes; k++) {
+            for (int k = 1; k <= totalNodes; k++) {
                 TempPageRank.put(completedLinks[k], pagesRank1.get(completedLinks[k]));
                 pagesRank1.put(completedLinks[k], 0.0);
             }
 
-            //tempSum is the difference between all pages popularity and 1 ==> the difference is divided by the No. of links that didn't have parents
             double tempSum = 0;
-            int counter=0;
-
-            //Special handling for the pages only as there is no outgoing links to it
-            double temp = 1 - tempSum;
-
-            //slice of each link of them
-            double slice = temp / 70;//ToDo: chang it later
-
-            //if the link don't have parents
-            for ( int i=1 ; i<=70 ; i++ )//ToDo: chang it later
+            for (int currentPage = 71; currentPage <= totalNodes; currentPage++)
             {
-                pagesRank1.put(completedLinks[i] , slice);
+                //I will send child link and I must get Number of OutgoingLinks of the parent
+                double OutgoingLinks = connect.getParentLinksNum(completedLinks[currentPage]);         //Get it from From ==> (Reda) to recieve the number of outgoing links from parent link
+
+                //I will send child link and get parent link ==> it will be changed later
+                double temp = TempPageRank.get(connect.getParentLink(completedLinks[currentPage])) * (1.0 / OutgoingLinks) ;
+                pagesRank1.put(completedLinks[currentPage], temp);
+                tempSum += pagesRank1.get(completedLinks[currentPage]);
             }
 
-            //increase the ITERATION_STEP
+            //Special handling for the first page only as there is no outgoing links to it
+            double temp = 1 - tempSum;
+            double slice = temp / 71.0;
+            for ( int i=1 ; i<=71 ; i++ )
+            {
+                pagesRank1.put(completedLinks[i],slice );
+            }
+
             ITERATION_STEP++;
         }
 
         // Add the Damping Factor to PageRank
         double DampingFactor = 0.75;
         double temp = 0;
-        for (int k = 1; k < totalNodes; k++) {
+        for (int k = 1; k <= totalNodes; k++) {
             temp = (1 - DampingFactor) + DampingFactor * pagesRank1.get(completedLinks[k]);
             pagesRank1.put(completedLinks[k], temp);
         }
@@ -208,7 +211,6 @@ public class Ranker
 
 
     return allLinksTf_Idf;
-
     }
 
 }
