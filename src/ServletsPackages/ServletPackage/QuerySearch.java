@@ -95,24 +95,38 @@ public class QuerySearch extends HttpServlet {
 
 
     static class PhraseSearching {
-        DataBase dataBaseObject = new DataBase();
-
-        private Map<String, File> invertedFiles;
-        PorterStemmer stemObject = new PorterStemmer();
-        String[] stopWords;
+        WorkingFiles workingFilesObject;
+        DataBase dataBaseObject;
+        public  PorterStemmer stemObject = new PorterStemmer();
+        public String[] stopWords;
 
 
         public PhraseSearching() throws FileNotFoundException {
-            readStopWords();
+
+            workingFilesObject = new WorkingFiles();
+            WorkingFiles.readStopWords();
+            dataBaseObject = new DataBase();
+            this.stopWords = workingFilesObject.getStopWordsAsArray();
             System.out.println("Phrase Searching consturctor");
         }
 
+        //--------------------------Function SplitQuery--------------------------//
+   /*
+       * Explanation:
+           Utility Function to divide the search query into the words constituting it
+   */
 
         private String[] SplitQuery(String searchQuery) {
             String[] subStrings = searchQuery.trim().split("\\s+");
             return subStrings;
         }
 
+
+        //--------------------------Function removeElement--------------------------//
+   /*
+       * Explanation:
+           Utility Function for removeStopWords, used to remove elements from array
+   */
         private static String[] removeElement(String[] arr, int[] index) {
             List<String> list = new ArrayList<>(Arrays.asList(arr));
             for (int i = 0; i < index.length; i++) {
@@ -121,30 +135,12 @@ public class QuerySearch extends HttpServlet {
             return list.toArray(String[]::new);
         }
 
-        private void readStopWords() throws FileNotFoundException {
-            // open the file that contains stop words
-            String filePath = "D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";   // get the directory of the project
-            System.out.println(filePath);
-            String finalfilePath = filePath.substring(0, filePath.lastIndexOf("\\")+1);
-            System.out.println(finalfilePath);
-            finalfilePath += File.separator + "helpers" + File.separator + "stop_words.txt";
-            File myFile = new File(finalfilePath);
 
-            this.stopWords = new String[851];
-
-            // read from the file
-            Scanner read = new Scanner(myFile);
-            String tempInput;
-            int counter = 0;
-            while(read.hasNextLine())
-            {
-                tempInput = read.nextLine();
-                stopWords[counter++] = tempInput;
-            }
-            read.close();
-
-        }
-
+        //--------------------------Function removeStopWords--------------------------//
+   /*
+       * Explanation:
+           Function used to remove all stop words from the Search Query
+   */
 
         private String[] removeStopWords(String[] searchQuery) {
             int length = searchQuery.length;
@@ -159,112 +155,199 @@ public class QuerySearch extends HttpServlet {
             return searchQuery;
         }
 
+        //--------------------------Function searchInInvertedFiles--------------------------//
+    /*
+        * Explanation:
+            Function used to search inverted Files,to fetch results for Search Queries.
+    */
+        public static void searchInInvertedFiles(String word, File myFile, ArrayList<String> results, boolean stemmingFlag) throws FileNotFoundException {
+            Scanner read = new Scanner(myFile);
+            String tempInput,
+                    stemmedVersion = " ";
+
+            // stemming the word
+            if (stemmingFlag)
+                stemmedVersion = HelperClass.stemTheWord(word);
+
+            boolean wordIsFound = false;
+
+            int stopIndex, counter;
+
+            results.add(0, "");     // if the targeted word is not found, replace empty in its index
+            while(read.hasNextLine())
+            {
+                tempInput = read.nextLine();
+                if (tempInput.equals(""))
+                    continue;
+
+                // check if this line is for a word or just an extension for the previous line
+                if (tempInput.charAt(0) == '/')
+                // compare to check if this tempWord = ourWord ?
+                {
+                    // extract the word from the line that read by the scanner
+                    stopIndex = tempInput.indexOf('|');
+                    String theWord = tempInput.substring(1, stopIndex);
+
+                    // this condition for the targeted word
+                    if(!wordIsFound && theWord.equals(word.toLowerCase()))
+                    {
+                        results.set(0, tempInput);     // target word will have the highest priority
+                        wordIsFound = true;
+                        continue;
+                    }
+
+                    counter = 1;
+                    // comparing the stemmed version of the target word by the stemmed version of the word in the inverted file
+                    if (stemmingFlag)
+                    {
+                        if (stemmedVersion.equals(HelperClass.stemTheWord(theWord)))
+                            results.add(counter++, tempInput);
+                    }
+                }
+            }
+        }
+
+
+
+        //--------------------------Function run--------------------------//
+   /*
+       * Explanation:
+           Returns a Json Array of all results,
+           * prepares for ranking by sending results
+           * Prepares for Highlighting websites content by dividing the query into its constituents
+   */
 
         public String run(String message, ArrayList<String> queryLinesResult, JSONArray dividedQuery) throws FileNotFoundException, JSONException {
 
             System.out.println("Phrase Searching Run Function");
-            boolean[] indexProcessed;
-            Map<Integer, Integer> allIDs = new HashMap<Integer, Integer>();
-            JSONObject divide = new JSONObject();
+            boolean[] indexProcessed;  //Used for Links map, to not add links over and over again
+            Map<String, Integer> allLinks = new HashMap<String, Integer>(); //Has links that are repeated for each word of the search query
+            JSONObject divide = new JSONObject();             //Used for divided Query servlet to highlight content in results
             divide.put("Results", message);
-            dividedQuery.put(divide);
+            dividedQuery.put(divide);                    //Populating the array using the whole search query
 
 
-            ArrayList<String> allWordsResult = new ArrayList<String>();
+
+            String[] result = SplitQuery(message);  //Splitting for words
+            result  = removeStopWords(result);     // Remove Stop Words from the query
+            indexProcessed = new boolean[result.length];  //Initializing indexes array
+            JSONArray finalJsonFile = new JSONArray();   //For final results
 
 
-            String[] result = SplitQuery(message);
-            result = removeStopWords(result);
-            indexProcessed = new boolean[result.length];
-            String json = "{ [";
-            StringBuffer jsonFile = new StringBuffer(json);
-            JSONArray finalJsonFile = new JSONArray();
+            // Loop over words
             int length = result.length;
             for (int i = 0; i < length; i++) {
-                // Loop over words
+
+                // Results for one word.
                 ArrayList<String> oneWordResult = new ArrayList<String>();
 
 
+                // Search for proper file name for each word
                 String fileName = "";
-                if (HelpersPackages.Helpers.HelperClass.isProbablyArabic(result[i]))
+                if (HelperClass.isProbablyArabic(result[i]))
                     fileName = "arabic";
                 else if(result[i].length() == 2)
                     fileName = "two";
 
-                else
+                else if(result[i].length() > 2)
+                {
                     fileName = "_" + result[i].substring(0,3);
 
+                    // if the word is something like that => UK's
+                    File tempFile = new File(HelperClass.invertedFilePath_V3(fileName));
+                    if (! tempFile.exists())
+                    {
+                        fileName = "others";
+                    }
+                }
 
-                // Mustafa : I edited this code
-                String filePath ="D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";   // get the directory of the project
+                String filePath = System.getProperty("user.dir");   // get the directory of the project
 
                 // Delete last Directory to get path of Inverted Files
-                String finalFilePath = filePath.substring(0, filePath.lastIndexOf("\\"));
+                filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
 
-                finalFilePath += File.separator + "InvertedFiles_V3" + File.separator;
+                filePath += File.separator + "InvertedFiles_V3" + File.separator;
 
-                finalFilePath += fileName + ".txt";
+                filePath += fileName + ".txt";
                 //System.out.println(finalFilePath + "From Search Inverted Files");
-                File targetFile = new File(finalFilePath);
+                File targetFile = new File(filePath);
 
-                QueryProcessingPackages.Query.QueryProcessing.searchInInvertedFiles(result[i], targetFile,oneWordResult, false);
 
+                //false to sepcify it's Phrase Searching not Query Processing
+                searchInInvertedFiles(result[i], targetFile,oneWordResult, false);
+
+
+                // Loop over versions of Words
+                // And splitting for the same line to prepare for fetching links
                 int length_2 = oneWordResult.size();
                 for (int j = 0; j < length_2; j++) {
 
+                    //Don't send to ranker
                     if(oneWordResult.get(j).equals(""))
                     {continue;}
+
+
                     // Should we let this be like that? Or should it be just links from map? I don't know
                     queryLinesResult.add(oneWordResult.get(j));
-                    // Loop over versions of Words
 
 
                     String[] splitLine = oneWordResult.get(j).split("\\[");
+
+
+                    // Loop over links of the same version of each Word
                     int length_3 = splitLine.length;
                     for (int k = 1; k < length_3; k++) {
 
-                        // Loop over links of the same version of each Word
-
+                        //Split Each part of the line to get the links, split over ','
                         int End = splitLine[k].indexOf(']');
                         String temp = splitLine[k].substring(0, End);
 
                         String[] finalID = temp.split(",");
-                        int ID = Integer.parseInt(finalID[0]);
+                        //int ID = Integer.parseInt(finalID[0]);
+                        String Link = finalID[0];
+
+                        // Populating Links Map
+
                         if (i == 0 && !indexProcessed[i]) {
-                            allIDs.put(ID, 1);
+                            // For First word, add links
+                            allLinks.put(Link, 1);
                             if(k == length_3-1)
                             {
-                                indexProcessed[0] = true;
+                                indexProcessed[0] = true; //To not add again
                             }
                         }
-                        else if (!indexProcessed[i] && allIDs.containsKey(ID)) {
-                            allIDs.put(ID, 1 + allIDs.get(ID));
+                        //Then, only increment those already in the map
+                        else if (!indexProcessed[i] && allLinks.containsKey(Link)) {
+                            allLinks.put(Link, 1 + allLinks.get(Link));
                             if(k == length_3-1)
                             {
-                                indexProcessed[i] = true;
+                                indexProcessed[i] = true;  //To not add again
                             }
                         }
                     }
                 }
 
             }
-
-            for (Iterator<Map.Entry<Integer, Integer>> it = allIDs.entrySet().iterator(); it.hasNext(); ) {
-                Map.Entry<Integer, Integer> entry = it.next();
+            // Removing links that aren't repeated with every single word.
+            for (Iterator<Map.Entry<String, Integer>> it = allLinks.entrySet().iterator(); it.hasNext(); ) {
+                Map.Entry<String, Integer> entry = it.next();
                 if (entry.getValue() < length) {
                     it.remove();
                 }
             }
 
-            for (Iterator<Map.Entry<Integer, Integer>> iter = allIDs.entrySet().iterator(); iter.hasNext(); ) {
+            for (Iterator<Map.Entry<String, Integer>> iter = allLinks.entrySet().iterator(); iter.hasNext(); ) {
 
 
-                Map.Entry<Integer, Integer> IDEntry = iter.next();
+                Map.Entry<String, Integer> IDEntry = iter.next();
 
-                StringBuffer link = new StringBuffer("");
+
+                String link = IDEntry.getKey();
+
+                // Get description and populate Json Array
                 StringBuffer description = new StringBuffer("");
                 JSONObject Jo = new JSONObject();
-                //dataBaseObject.getLinkByID(IDEntry.getKey(), link, description);
+                dataBaseObject.getDescription(link, description);
                 Jo.put("Link", link);
                 Jo.put("Description", description);
                 finalJsonFile.put(Jo);
@@ -275,13 +358,12 @@ public class QuerySearch extends HttpServlet {
     }
 
 
-
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
     static class Ranker
     {
-        private DataBasePackages.DataBase.DataBase connect = new DataBasePackages.DataBase.DataBase();
+        private DataBase connect = new DataBase();
         JSONArray dividedQuery = new JSONArray();
         Map<String,Long> wordsCount;
         String[] completedLinks;
@@ -483,7 +565,7 @@ static class QueryProcessing{
 
     //--------------------- The Data Members-------------------------//
     WorkingFiles workingFilesObject;
-    DataBasePackages.DataBase.DataBase dataBaseObject;
+    DataBase dataBaseObject;
     public String[] stopWords;
 
     //--------------------- Constructor-----------------------------//
@@ -497,7 +579,7 @@ static class QueryProcessing{
     public QueryProcessing() throws FileNotFoundException {
         workingFilesObject = new WorkingFiles();
         WorkingFiles.readStopWords();
-        dataBaseObject = new DataBasePackages.DataBase.DataBase();
+        dataBaseObject = new DataBase();
         this.stopWords = workingFilesObject.getStopWordsAsArray();
         System.out.println("The consturctor");
 
@@ -564,51 +646,62 @@ static class QueryProcessing{
             Function used to search inverted Files,to fetch results for Search Queries.
     */
 
-    public static void searchInInvertedFiles(String word, File myFile, ArrayList<String> results, boolean stemmingFlag) throws FileNotFoundException {
+    public static void searchInInvertedFiles(ArrayList<String> word, File myFile, ArrayList<String> results, boolean stemmingFlag) throws FileNotFoundException {
         Scanner read = new Scanner(myFile);
+        int counter = 0;
+
         String tempInput,
                 stemmedVersion = " ";
 
-        // stemming the word
-        if (stemmingFlag)
-            stemmedVersion = HelperClass.stemTheWord(word);
 
         boolean wordIsFound = false;
 
-        int stopIndex, counter;
+        int stopIndex;
 
-        results.add(0, "");     // if the targeted word is not found, replace empty in its index
         while(read.hasNextLine())
         {
             tempInput = read.nextLine();
-            if (tempInput.equals(""))
-                continue;
+            int i=0;
+            boolean anyWordFound = false;
+            while(!anyWordFound && i<word.size()) {
+                anyWordFound = false;
 
-            // check if this line is for a word or just an extension for the previous line
-            if (tempInput.charAt(0) == '/')
-            // compare to check if this tempWord = ourWord ?
-            {
-                // extract the word from the line that read by the scanner
-                stopIndex = tempInput.indexOf('|');
-                String theWord = tempInput.substring(1, stopIndex);
-
-                // this condition for the targeted word
-                if(!wordIsFound && theWord.equals(word.toLowerCase()))
-                {
-                    results.set(0, tempInput);     // target word will have the highest priority
-                    wordIsFound = true;
-                    continue;
-                }
-
-                counter = 1;
-                // comparing the stemmed version of the target word by the stemmed version of the word in the inverted file
+                // stemming the word
                 if (stemmingFlag)
+                    stemmedVersion = HelperClass.stemTheWord(word.get(i));
+
+                if (tempInput.equals(""))
+                    continue;
+
+                // check if this line is for a word or just an extension for the previous line
+                if (tempInput.charAt(0) == '#')
+                // compare to check if this tempWord = ourWord ?
                 {
-                    if (stemmedVersion.equals(HelpersPackages.Helpers.HelperClass.stemTheWord(theWord)))
-                        results.add(counter++, tempInput);
+                    // extract the word from the line that read by the scanner
+                    stopIndex = tempInput.indexOf('|');
+                    String theWord = tempInput.substring(1, stopIndex);
+
+                    // this condition for the targeted word
+                    if (!wordIsFound && theWord.equals(word.get(i).toLowerCase())) {
+                        results.add(counter++, tempInput);     // target word will have the highest priority
+                        wordIsFound = true;
+                        anyWordFound = true;                   //To not search with other words on same line
+                        continue;
+                    }
+
+                    //counter = 1;
+                    // comparing the stemmed version of the target word by the stemmed version of the word in the inverted file
+                    if (stemmingFlag) {
+                        if (stemmedVersion.equals(HelperClass.stemTheWord(theWord))) {
+                            results.add(counter++, tempInput);
+                            anyWordFound = true;
+                        }
+                    }
                 }
+                i++;
             }
         }
+
     }
 
     //--------------------------Function sortByValue--------------------------//
@@ -655,6 +748,8 @@ static class QueryProcessing{
     public String run(String message, ArrayList<String> queryLinesResult, JSONArray dividedQuery)
             throws FileNotFoundException, JSONException {
 
+        //Used to save File names of current words
+        HashMap<String,ArrayList<String>> fileNames=new HashMap<String,ArrayList<String>>();
 
 //Used to add each word together with the whole query; to populate dividedQuery array
         ArrayList<String> words = new ArrayList<String>();
@@ -670,31 +765,46 @@ static class QueryProcessing{
 
         // Loop over words
         int length = result.length;
-        for(int i=0; i<length;i++)
-        {
-
-            // Results for one word.
-            ArrayList<String> oneWordResult = new ArrayList<String>();
+        for(int i=0; i<length;i++) {
 
 
             // Search for proper file name for each word
             String fileName = "";
             if (HelperClass.isProbablyArabic(result[i]))
                 fileName = "arabic";
-            else if(result[i].length() == 2)
+            else if (result[i].length() == 2)
                 fileName = "two";
-            else if(result[i].length() > 2)
-            {
-                fileName = "_" + result[i].substring(0,3);
+            else if (result[i].length() > 2) {
+                fileName = "_" + result[i].substring(0, 3);
 
                 // if the word is something like that => UK's
                 File tempFile = new File(HelperClass.invertedFilePath_V3(fileName));
-                if (! tempFile.exists())
-                {
+                if (!tempFile.exists()) {
                     fileName = "others";
                 }
             }
 
+            if(!fileNames.containsKey(fileName)) {
+                ArrayList<String> currentFileWords = new ArrayList<String>();
+                currentFileWords.add(result[i]);
+                fileNames.put(fileName, currentFileWords);
+            }
+            else{
+
+                ArrayList<String> currentFileWords = fileNames.get(fileName);
+                currentFileWords.add(result[i]);
+                 fileNames.put(fileName , currentFileWords);
+            }
+        }
+        //filenames has all words and file names it's assigned to.
+
+        //Loop over File names map to access all file names.
+        for (Iterator<Map.Entry<String, ArrayList<String>>> it = fileNames.entrySet().iterator(); it.hasNext(); ) {
+
+            Map.Entry<String, ArrayList<String>> currFile = it.next();
+
+            // Results for one file.
+            ArrayList<String> oneFileResult = new ArrayList<String>();
 
             String filePath = "D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";   // get the directory of the project
 
@@ -703,13 +813,12 @@ static class QueryProcessing{
 
             filePath += File.separator + "InvertedFiles_V3" + File.separator;
 
-            filePath += fileName + ".txt";
+            filePath += currFile.getKey() + ".txt";    //To get File Name
 
             File targetFile = new File(filePath);
-            Map<String,ArrayList<String>> strings=new HashMap<String,ArrayList<String>>();
 
             //true to sepcify it's Query Processing not Phrase Searching
-            searchInInvertedFiles(result[i], targetFile,oneWordResult, true);
+            searchInInvertedFiles(currFile.getValue(), targetFile,oneFileResult, true);
 
 
 
@@ -717,18 +826,18 @@ static class QueryProcessing{
             // Loop over versions of Words
             // Adding words results to ranker Array
             // And splitting for the same line to prepare for fetching links
-            int length_2 = oneWordResult.size();
+            int length_2 = oneFileResult.size();
             for(int j = 0; j<length_2; j++)
             {
                 //Don't send to ranker
-                if(oneWordResult.get(j).equals(""))
+                if(oneFileResult.get(j).equals(""))
                 {continue;}
 
-                queryLinesResult.add(oneWordResult.get(j));
+                queryLinesResult.add(oneFileResult.get(j));
 
 
 
-                String[] splitLine= oneWordResult.get(j).split("\\[");
+                String[] splitLine= oneFileResult.get(j).split("\\[");
 
 
 
@@ -782,149 +891,35 @@ static class QueryProcessing{
     static class DataBase {
         private Connection connect;
         private Statement stmt;
-        public DataBase()
-        {
-            try{
-                try{
+
+        public DataBase() {
+            try {
+                try {
                     Class.forName("com.mysql.cj.jdbc.Driver");
-                }
-                catch(Exception e)
-                {
+                } catch (Exception e) {
 
                 }
-                connect=DriverManager.getConnection("jdbc:mysql://localhost:3306/search-engine","root","");
-                this.stmt=connect.createStatement();
+                connect = DriverManager.getConnection("jdbc:mysql://localhost:3306/search-engine", "root", "");
+                this.stmt = connect.createStatement();
                 if (connect != null) {
                     System.out.println("Connected to database");
                 } else {
                     System.out.println("Cannot connect to database");
                 }
 
-            }
-            catch(SQLException e)
-            {
+            } catch (SQLException e) {
 
-            }
-        }
-
-        //--------------------------------------Create Link --------------------------------------------------------------------//
-        public synchronized void createLink(String Link,int Layer,String ThreadName,int ParentId)
-        {
-            try{
-                this.stmt.executeUpdate("INSERT INTO links (Link, Layer, ThreadName, LinkParent,Completed) VALUES ('"+Link+"', '"+Layer+"', '"+ThreadName+"', "+ParentId+",'"+0+"');");
-            }
-            catch(SQLException e)
-            {
-            }
-        }
-//----------------------------------------------------------------------------------------------------------------------//
-
-// --------------------------------------Update Link to Complete -------------------------------------------------------//
-
-        public synchronized void urlCompleted(String Link)
-        {
-            try{
-                this.stmt.executeUpdate("UPDATE links SET Completed=1 WHERE link='"+Link+"'");
-            }
-            catch(SQLException e)
-            {
-            }
-        }
-//----------------------------------------------------------------------------------------------------------------------//
-
-        // --------------------------------------Update Link to Complete -------------------------------------------------------//
-
-// --------------------------------------Set and Get Thread Position -------------------------------------------------------//
-
-        public synchronized void setThreadPosition(String ThreadName,int Layer,int Index)
-        {
-            try{
-                if(Layer==1)
-                {
-                    this.stmt.executeUpdate("UPDATE threads SET Layer="+Layer+" WHERE ThreadName='"+ThreadName+"';");
-                    this.stmt.executeUpdate("UPDATE threads SET UrlIndex="+Index+" WHERE ThreadName='"+ThreadName+"';");
-
-                }
-                else if (Layer==2)
-                {
-
-                    this.stmt.executeUpdate("UPDATE threads SET Layer="+Layer+" WHERE ThreadName='"+ThreadName+"';");
-                    this.stmt.executeUpdate("UPDATE threads SET UrlIndex1="+Index+" WHERE ThreadName='"+ThreadName+"';");
-
-                }
-                else if (Layer==3)
-                {
-
-
-                    this.stmt.executeUpdate("UPDATE threads SET Layer="+Layer+" WHERE ThreadName='"+ThreadName+"';");
-                    this.stmt.executeUpdate("UPDATE threads SET UrlIndex2="+Index+" WHERE ThreadName='"+ThreadName+"';");
-                }
-                else if (Layer==4)
-                {
-
-                    this.stmt.executeUpdate("UPDATE threads SET Layer="+Layer+" WHERE ThreadName='"+ThreadName+"';");
-                    this.stmt.executeUpdate("UPDATE threads SET UrlIndex3="+Index+" WHERE ThreadName='"+ThreadName+"';");
-                }
-                else{
-                    this.stmt.executeUpdate("UPDATE threads SET Layer=1 WHERE ThreadName='"+ThreadName+"';");
-                    this.stmt.executeUpdate("UPDATE threads SET  UrlIndex=0 WHERE ThreadName='"+ThreadName+"';");
-                    this.stmt.executeUpdate("UPDATE threads SET  UrlIndex1=0  WHERE ThreadName='"+ThreadName+"';");
-                    this.stmt.executeUpdate("UPDATE threads SET  UrlIndex2=0 WHERE ThreadName='"+ThreadName+"';");
-                    this.stmt.executeUpdate("UPDATE threads SET   UrlIndex3=0 WHERE ThreadName='"+ThreadName+"';");
-
-
-
-                }
-            }
-            catch(SQLException e)
-            {
-            }
-        }
-
-        public synchronized ResultSet getThreadPosition(String ThreadName)
-        {
-            try{
-                ResultSet resultSet=this.stmt.executeQuery("SELECT * FROM threads WHERE ThreadName='"+ThreadName+"'");
-                return resultSet;
-            }
-            catch(SQLException e)
-            {
-                return null;
-            }
-        }
-//----------------------------------------------------------------------------------------------------------------------//
-
-        public synchronized ResultSet getUrls(String Url)
-        {
-            try{
-                return this.stmt.executeQuery("SELECT * FROM links WHERE Link='"+Url+"' AND Completed = 1");
-            }
-            catch(SQLException e)
-            {
-                return null;
-            }
-        }
-        //---------------------------------------------get the url similar to the url-------------------------------------------//
-        public synchronized ResultSet getUrls2(String Url)
-        {
-            try{
-                return this.stmt.executeQuery("SELECT * FROM links WHERE Link='"+Url+"';");
-            }
-            catch(SQLException e)
-            {
-                return null;
             }
         }
 // ---------------------------------------------------------------------------------------------------------------------//
 
 
-        //---------------------------------------get link by ID  -------------------------------------------------------------//
-        public synchronized Boolean getDescription (String linkUrl, StringBuffer description)
-        {
-            try{
+        //---------------------------------------get link Description  -------------------------------------------------------------//
+        public synchronized Boolean getDescription(String linkUrl, StringBuffer description) {
+            try {
                 //String query = "Select Link FROM links WHERE Id= " + ID +" ";
                 String query = "Select * FROM links";
-                ResultSet resultSet = this.stmt.executeQuery("Select Descripation FROM links WHERE Link= '" + linkUrl +"';");
+                ResultSet resultSet = this.stmt.executeQuery("Select Descripation FROM links WHERE Link= '" + linkUrl + "';");
                 resultSet.next();
                 String descriptionResult = resultSet.getString("Descripation");
                 description.append(descriptionResult);
@@ -937,394 +932,53 @@ static class QueryProcessing{
         }
 
 
-
 // ---------------------------------------------------------------------------------------------------------------------//
 
-
-// --------------------------------------get the id of the link  -------------------------------------------------------//
-
-        public synchronized int getId (String Url,String ThreadName)
-        {
-            try{
-                ResultSet resultSet=this.stmt.executeQuery("SELECT * FROM links WHERE Link='"+Url+"' AND ThreadName='"+ThreadName+"' AND Completed=0 ;");
-                while (resultSet.next())
-                {
-                    int Id=-1;
-                    Id=resultSet.getInt("Id");
-                    return  Id;
-                }
-            }
-            catch(SQLException e)
-            {
-
-            }
-            return -1;
-        }
 //----------------------------------------------------------------------------------------------------------------------//
-
-        //-----------------------------------------get the family of the link --------------------------------------------------//
-        public synchronized ResultSet getParentUrl (String ThreadName,StringBuffer parentLink , StringBuffer grandLink , String link,int Layer)
-        {
-            try {
-//            if (Layer == 1) {
-                ResultSet resultSet = this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='" + ThreadName + "' AND Layer=1 AND Completed=0;");
-                System.out.printf("SELECT * FROM links WHERE  ThreadName='" + ThreadName + "' AND Layer=" + Layer + " AND Completed=0;");
-                while (resultSet.next()) {
-                    grandLink.append(resultSet.getString("Link"));
-                    return this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='" + ThreadName + "' AND Layer=1 AND Completed=0;");
-                }
-
-//                ResultSet resultSet2= this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+" AND Completed=1;");
-//                while(resultSet2.next())
-//                {
-//                    grandLink.append(resultSet2.getString("Link"));
-//                    return this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+" AND Completed=1;");
-//                }
-                //If the parent  link is completed
-                Thread.currentThread().interrupt();
-//            }
-            }
-            catch (SQLException e)
-            {
-
-            }
-//            else if(Layer==2)
-//            {
-//                ResultSet resultSet= this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+" AND Completed=0;");
-//                while(resultSet.next())
-//                {
-//                    resultSet=this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent , k.Layer FROM links as e , links as k WHERE e.Layer= "+Layer+" AND e.ThreadName='"+ThreadName+"' AND k.Id=e.LinkParent;");
-//                    while(resultSet.next())
-//                    {
-//                        parentLink.append(resultSet.getString("Link"));
-//                        return this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent , k.Layer FROM links as e , links as k WHERE e.Layer= "+Layer+" AND e.ThreadName='"+ThreadName+"' AND k.Id=e.LinkParent;");
-//                    }
-//
-//                }
-//                //If the parent  link is completed
-//                Thread.currentThread().interrupt();
-//            }
-//            else if (Layer==3||Layer-1==3)
-//            {
-//                Layer-=1;
-//                ResultSet resultSet= this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+" AND Completed=0;");
-//                while(resultSet.next())
-//                {
-//                    resultSet =this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent , k.Layer FROM links as e , links as k WHERE e.Layer= "+Layer+" AND e.ThreadName='"+ThreadName+"' AND k.Id=e.LinkParent;");
-//                    while(resultSet.next())
-//                    {
-//                        parentLink.append(resultSet.getString("Link"));
-//                        Layer=resultSet.getInt("Layer");
-//                        resultSet =this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent , k.Layer FROM links as e , links as k WHERE e.Layer= "+Layer+" AND e.ThreadName='"+ThreadName+"' AND k.Id=e.LinkParent;");
-//                        while(resultSet.next())
-//                        {
-//                            grandLink.append(resultSet.getString("Link"));
-//                            return this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent , k.Layer FROM links as e , links as k WHERE e.Layer= "+Layer+" AND e.ThreadName='"+ThreadName+"' AND k.Id=e.LinkParent;");
-//                        }
-//
-//                    }
-//
-//
-//                }
-//                //If the parent  link is completed
-//                Thread.currentThread().interrupt();
-//            }
-//        }
-//        catch(SQLException e)
-//        {
-//            return null;
-//
-//        }
-            return null;
-        }
-//----------------------------------------------------------------------------------------------------------------------//
-
-
 
 
         //------------------------------------------get the completed urls------------------------------------------------------//
-        public synchronized int getCompleteCount ()
-        {
-            try
-            {
-                ResultSet result =this.stmt.executeQuery("SELECT count(Link) as Number FROM links WHERE  Completed=1 ;");
-                int count=0;
-                while(result.next())
-                {
-                    count=result.getInt("Number");
+        public synchronized int getCompleteCount() {
+            try {
+                ResultSet result = this.stmt.executeQuery("SELECT count(Link) as Number FROM links WHERE  Completed=1 ;");
+                int count = 0;
+                while (result.next()) {
+                    count = result.getInt("Number");
                 }
                 return count;
-            }
-            catch(SQLException e)
-            {
+            } catch (SQLException e) {
             }
             return 0;
         }
 //----------------------------------------------------------------------------------------------------------------------//
 
-        public java.sql.Date getMaxDate ()
-        {
-            try
-            {
-                ResultSet result =this.stmt.executeQuery("SELECT max(LastTime) as Time FROM links;");
-                java.sql.Date count=null;
-                while(result.next())
-                {
-                    count = result.getDate("columnName");
-                }
-                return count;
-            }
-            catch(SQLException e)
-            {
-            }
-            return null;
-        }
 
         //---------------------------------------------get url and its related ID-------------------------------------------//
-        public String[] getAllUrls()
-        {
+        public String[] getAllUrls() {
             int linksCount = getCompleteCount();
             String[] completedLinks = new String[linksCount];
             int i = 0;
-            try{
-                ResultSet rs = this.stmt.executeQuery("SELECT * FROM links where Completed = 1;" );
-                while (rs.next())
-                {
+            try {
+                ResultSet rs = this.stmt.executeQuery("SELECT * FROM links where Completed = 1;");
+                while (rs.next()) {
                     completedLinks[i++] = rs.getString("Link");
                 }
                 return completedLinks;
-            }
-            catch(SQLException e)
-            {
+            } catch (SQLException e) {
                 System.out.println(e);
                 return completedLinks;
             }
         }
-
-        // ---------------------------------------------------------------------------------------------------------------------//
-        //-----------------------------------------------get the number of links out from the parent link-----------------------//
-        public int getParentLinksNum(String url)
-        {
-
-            try{
-                String qq= "SELECT LinkParent FROM links  where Link='"+url+"' ;";
-                ResultSet resultSet=this.stmt.executeQuery(qq );
-                while(resultSet.next())
-                {
-                    int parentId=resultSet.getInt("LinkParent");
-                    String q = "SELECT count(*) as Number FROM links  where LinkParent="+parentId+";";
-                    ResultSet resultSet2=this.stmt.executeQuery(qq );
-                    while (resultSet2.next() )
-                    {
-                        return resultSet2.getInt("Number");
-                    }
-                }
-            }
-            catch(SQLException e)
-            {
-                return -1;
-            }
-            return -1;
-        }
-        // ---------------------------------------------------------------------------------------------------------------------//
-        //--------------------------------------------------function to get the parent id----------------------------------------//
-        public synchronized String getParentLink(String url)
-        {
-            try{
-                ResultSet resultSet=this.stmt.executeQuery("SELECT LinkParent FROM links  where Link='"+url+"' ;" );
-                while(resultSet.next())
-                {
-                    int parentId=resultSet.getInt("LinkParent");
-                    ResultSet resultSet2 =this.stmt.executeQuery("SELECT * FROM links  where Id="+parentId+" ;" );
-                    while( resultSet2.next() )
-                    {
-                        String linkParent = resultSet2.getString("Link");
-                        return linkParent;
-                    }
-                }
-
-            }
-            catch(SQLException e)
-            {
-                return null;
-            }
-            return null;
-        }
-        //-----------------------------------------------------------------------------------------------------------------------//
-        //-----------------------------------------------Add Link descripation--------------------------------------------------//
-        public  synchronized void addDesc(int id,String desc)
-        {
-            try {
-                this.stmt.executeUpdate("UPDATE links SET Descripation='" + desc + "' WHERE Id=" + id + ";");
-            }
-            catch(SQLException e)
-            {
-
-            }
-        }
-        // ---------------------------------------------------------------------------------------------------------------------//
-        //------------------------------------------function to add paragraphs and headers and title and itemlists-------------//
-        public synchronized void addElements(int id,String paragraphs,String title,String headers,String itemLists,String strong)
-        {
-            // System.out.printf("UPDATE links SET Paragraph='" + paragraphs + "' WHERE Id=" + id + ";");
-            try {
-                this.stmt.executeUpdate("UPDATE links SET Paragraph='" + paragraphs + "' WHERE Id=" + id + ";");
-                this.stmt.executeUpdate("UPDATE links SET Title='" + title + "' WHERE Id=" + id + ";");
-                this.stmt.executeUpdate("UPDATE links SET Headers='" + headers + "' WHERE Id=" + id + ";");
-                this.stmt.executeUpdate("UPDATE links SET ListItems='" + itemLists + "' WHERE Id=" + id + ";");
-                this.stmt.executeUpdate("UPDATE links SET Strong='" + strong + "' WHERE Id=" + id + ";");
-            }
-            catch (SQLException e)
-            {
-
-            }
-        }
         //---------------------------------------------------------------------------------------------------------------------//
-        //-----------------------------------------------get Link Content--------------------------------------------------//
-        public synchronized String getContent(int id)
-        {
-            try {
-//            System.out.println("SELECT CONCAT(Paragraph,Headers,Title,Strong,ListItems) as 'content' FROM `links` WHERE Id="+id+";");
-                ResultSet resultSet=this.stmt.executeQuery("SELECT CONCAT(Paragraph,Headers,Title,Strong,ListItems) as 'content' FROM `links` WHERE Id="+id+";");
-                while(resultSet.next())
-                {
-                    return resultSet.getString("content");
-                }
-            }
-            catch(SQLException e)
-            {
-                System.out.println(e);
-            }
-            return "none";
-        }
-        // ---------------------------------------------------------------------------------------------------------------------//
-        //------------------------------------------get Links Contents----------------------------------------------------------//
-        public synchronized ResultSet getContents(String content , int id)
-        {
-            try {
-                ResultSet resultSet=this.stmt.executeQuery("Select * From links as K ,links as J where CONCAT(K.Paragraph,K.Headers,K.Strong,K.ListItems)=CONCAT(J.Paragraph,J.Headers,J.Strong,J.ListItems) AND K.Id="+id+" AND K.Id!=J.Id;");
-                while(resultSet.next())
-                {
-                    this.stmt.executeUpdate("Delete from links where Id="+id+";");
-                }
-                return null;
-            }
-            catch(SQLException e)
-            {
 
-            }
-            return null;
-        }
-        //----------------------------------------------------------------------------------------------------------------------//
-
-        // get the title of a website
-        public synchronized String getTitle(String url)
-        {
-            try {
-                System.out.println(Thread.currentThread().getName()+   ":   Title: "  + url);
-                String q = "Select Title From links where Link = '" + url + "'";
-                ResultSet resultSet=this.stmt.executeQuery(q);
-                while(resultSet.next())
-                {
-                    return resultSet.getString("Title");
-                }
-            }
-            catch(SQLException e)
-            {
-
-            }
-            return null;
-        }
-
-        // get the Paragraphs of a website
-        public synchronized String getParagraphs(String url)
-        {
-            try {
-                System.out.println(Thread.currentThread().getName()+   ":   Paragraph: " + url);
-                ResultSet resultSet=this.stmt.executeQuery("Select Paragraph From links where Link = '" + url+ "'");
-                while(resultSet.next())
-                {
-                    return resultSet.getString("Paragraph");
-                }
-            }
-            catch(SQLException e)
-            {
-
-            }
-            return null;
-        }
-        // get the Headers of a website
-        public synchronized String getHeaders(String url)
-        {
-            try {
-                System.out.println(Thread.currentThread().getName()+   ":   Headers: " + url);
-                ResultSet resultSet=this.stmt.executeQuery("Select Headers From links where Link = '" + url+ "'");
-                while(resultSet.next())
-                {
-                    return resultSet.getString("Headers");
-                }
-            }
-            catch(SQLException e)
-            {
-
-            }
-            return null;
-        }
-        // get the ListItems of a website
-        public synchronized String getListItems(String url)
-        {
-            try {
-                ResultSet resultSet=this.stmt.executeQuery("Select ListItems From links where Link = '" + url+ "'");
-                while(resultSet.next())
-                {
-                    return resultSet.getString("ListItems");
-                }
-            }
-            catch(SQLException e)
-            {
-
-            }
-            return null;
-        }
-        // get the Strongs of a website
-        public synchronized String getStrongs(String url)
-        {
-            try {
-                ResultSet resultSet=this.stmt.executeQuery("Select Strong From links where Link = '" + url+ "'");
-                while(resultSet.next())
-                {
-                    return resultSet.getString("Strong");
-                }
-            }
-            catch(SQLException e)
-            {
-
-            }
-            return null;
-        }
-        // Add Words Count of a website
-        public synchronized void addWordsCount(String link, long count)
-        {
-            String query = "UPDATE links SET WordCounts = " + count + " WHERE Link = '" + link + "';";
-
-            try {
-                this.stmt.executeUpdate(query);
-            }
-            catch (SQLException e)
-            {
-                System.out.println("Error while adding the words count of the website : " + link);
-            }
-        }
 
         // get map of words count for all websites
-        public Map<String, Long> getWordsCountAsMap()
-        {
+        public Map<String, Long> getWordsCountAsMap() {
             Map<String, Long> resultMap = new HashMap<>();
             try {
                 ResultSet resultSet = this.stmt.executeQuery("SELECT * FROM links;");
 
-                while (resultSet.next())
-                {
+                while (resultSet.next()) {
                     resultMap.put(resultSet.getString("Link"), resultSet.getLong("wordCounts"));
                 }
                 return resultMap;
@@ -1338,19 +992,15 @@ static class QueryProcessing{
         //////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
-
     }
-
     //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     static class HelperClass {
 
 
-
         // get the path of the inverted Files_V3
-        public static String invertedFilePath_V3(String fileName)
-        {
+        public static String invertedFilePath_V3(String fileName) {
 //        String filePath = Paths.get("").normalize().toAbsolutePath().toString();
             String filePath = "D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";
             //filePath = filePath.substring(0, .lastIndexOf("\\"));
@@ -1358,74 +1008,9 @@ static class QueryProcessing{
             return filePath;
         }
 
-        // get the path of the inverted Files_V3 folder
-        public static String invertedFilePathDirectoryPath()
-        {
-            String filePath = Paths.get("").normalize().toAbsolutePath().toString();
-            // filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
-            filePath += File.separator + "InvertedFiles_V3";
-            return filePath;
-        }
-
-        // get the path of the content length files
-        public static String contentLengthFiles(String fileName)
-        {
-            String filePath = Paths.get("").normalize().toAbsolutePath().toString();
-            filePath += File.separator + "ContentLength" + File.separator + fileName + ".txt";
-            return filePath;
-        }
-
-        // check if a given word is existing in a given inverted file or not
-        // returns the whole line that contains this word
-        public static String isExistingInFile(String word, File myFile) throws IOException {
-            Scanner read = new Scanner(myFile);
-            String tempInput;
-
-            while(read.hasNextLine())
-            {
-                tempInput = read.nextLine();
-                if (tempInput.equals(""))
-                    continue;
-
-                // check if this line is for a word or just an extension for the previous line
-                if (tempInput.charAt(0) == '/')
-                // compare to check if this word = ourWord ?
-                {
-                    // get the word
-                    int wordSize = word.length();
-                    char ch = tempInput.charAt(1);      // just initialization
-                    boolean matchingFlag = true;
-
-                    int i;
-                    for (i = 0; i < wordSize; i++)
-                        if(tempInput.charAt(i+1) != word.charAt(i))
-                            break;
-
-                    if(i == wordSize)
-                        return tempInput;
-                }
-            }
-            return "";      // if not found, return empty
-        }
-
-        // this function replaces a line in a given inverted file
-        public static void replaceLineInFile(Path path, String oldLine, String newLine) throws IOException {
-            List<String>fileContents = new ArrayList<>(Files.readAllLines(path, StandardCharsets.UTF_8));
-            int ContentSize = fileContents.size();
-
-            for (int i = 0; i < ContentSize; i++)
-            {
-                if(fileContents.get(i).equals(oldLine)) {
-                    fileContents.set(i, newLine);
-                    break;
-                }
-            }
-            Files.write(path, fileContents, StandardCharsets.UTF_8);
-        }
 
         // stem the word using Porter Stemmer Lib
-        public static String stemTheWord(String word)
-        {
+        public static String stemTheWord(String word) {
             PorterStemmer stemObject = new PorterStemmer();
             stemObject.setCurrent(word);
             stemObject.stem();
@@ -1434,7 +1019,7 @@ static class QueryProcessing{
 
         // check if the word is arabic
         public static boolean isProbablyArabic(String s) {
-            for (int i = 0; i < s.length();) {
+            for (int i = 0; i < s.length(); ) {
                 int c = s.codePointAt(i);
                 if (c >= 0x0600 && c <= 0x06E0)
                     return true;
@@ -1443,130 +1028,13 @@ static class QueryProcessing{
             return false;
         }
 
-        // this function checks if the info is already exist or not,
-        // and if exists, just increment the counter of occurrences
-        public static String updateInfoOfWord(String line, String oldInfo) {
 
-            // substring the line to get the needed information
-            int separationIndex = line.indexOf('|');
-            String allInfo = line.substring(separationIndex + 1);
-
-            // explode the info
-            List<String> infoList = new ArrayList<>(List.of(allInfo.split(";", 0)));
-            String theNewInfo;
-
-            for (String info : infoList) {
-
-                // split the frequency counter from the info of the word
-                List<String> tempList = new ArrayList<>(List.of(info.split("::", 0)));
-
-                // check if the same info is existing or not
-                if (tempList.get(0).equals(oldInfo)) {
-                    String frequency = tempList.get(1);
-                    int integerFrequency = Integer.parseInt(frequency);
-                    theNewInfo = tempList.get(0) + "::" + String.valueOf(integerFrequency + 1); /* convert the ( int freq + 1 ) to string here */
-                    oldInfo = oldInfo + "::" + frequency;
-                    line = line.replace(oldInfo , theNewInfo);
-                    return line;
-                }
-            }
-
-            // if not returned, then the info is not exist
-            theNewInfo = oldInfo + "::1";
-            line += theNewInfo + ';';
-            return line;
-
-        }
     }
 
     /////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
     static class WorkingFiles {
         private static String[] stopWords;
-
-        // Creation of inverted files
-        public static void createInvertedFiles()
-        {
-            String letters = "qwertyuiopasdfghjklzxcvbnm";
-            String currentFileName = "";
-
-            for (int i = 0; i < 26; i++){
-                for (int j = 0; j < 26; j++)
-                {
-                    for(int k = 0; k < 26; k++)
-                    {
-                        currentFileName = "_";
-                        currentFileName += letters.charAt(i);
-                        currentFileName += letters.charAt(j);
-                        currentFileName += letters.charAt(k);
-
-                        String path = QueryDivide.HelperClass.invertedFilePath_V3(currentFileName);
-                        File myObj = new File(path);
-                        try {
-                            myObj.createNewFile();
-                        } catch (IOException e) {
-                            e.printStackTrace();
-                            System.out.println("Failed to create the file");
-                        }
-                        currentFileName = "";
-                    }
-
-                }
-            }
-
-            // create a file for two-letter words
-            currentFileName = "two";
-            String path = QueryDivide.HelperClass.invertedFilePath_V3(currentFileName);
-            File myObj = new File(path);
-            try {
-                myObj.createNewFile();
-            } catch (IOException e) {
-                e.printStackTrace();
-                System.out.println("Failed to create the file");
-            }
-
-            // create a file for Arabic words
-            currentFileName = "arabic";
-            path = QueryDivide.HelperClass.invertedFilePath_V3(currentFileName);
-            File myObj_2 = new File(path);
-            try {
-                myObj_2.createNewFile();
-            } catch (IOException e) {
-                e.printStackTrace();
-                System.out.println("Failed to create the file Arabic.txt");
-            }
-
-            // create a file for others words ( uk's )
-            currentFileName = "others";
-            path = QueryDivide.HelperClass.invertedFilePath_V3(currentFileName);
-            File myObj_3 = new File(path);
-            try {
-                myObj_3.createNewFile();
-            } catch (IOException e) {
-                e.printStackTrace();
-                System.out.println("Failed to create the file others.txt");
-            }
-
-            // print
-            System.out.println("Inverted Files are Created Successfully");
-        }
-
-        // Creation of content length files
-        public static void createPageLengthFiles(int count)
-        {
-            for(int k = 1; k <= count; k++)
-            {
-
-                String path = QueryDivide.HelperClass.contentLengthFiles(String.valueOf(k));
-                File myObj = new File(path);
-                try {
-                    myObj.createNewFile();
-                } catch (IOException e) {
-                    e.printStackTrace();
-                    System.out.println("Failed to create the file");
-                }
-            }
-        }
 
         //--------------------------Function readStopWords--------------------------//
     /*
@@ -1586,8 +1054,7 @@ static class QueryProcessing{
             Scanner read = new Scanner(myFile);
             String tempInput;
             int counter = 0;
-            while(read.hasNextLine())
-            {
+            while (read.hasNextLine()) {
                 tempInput = read.nextLine();
                 stopWords[counter++] = tempInput;
             }
@@ -1596,110 +1063,9 @@ static class QueryProcessing{
         }
 
         //get Stop Words as Array
-        public String[] getStopWordsAsArray()
-        {
-            return this.stopWords;
+        public static String[] getStopWordsAsArray() {
+            return stopWords;
         }
-
-        // get stop words as Map
-        public static Map<Character, Vector<String>> getStopWordsAsMap()
-        {
-            try {
-                readStopWords();
-            } catch (FileNotFoundException e) {
-                System.out.println("Failed to read the stop words");
-                e.printStackTrace();
-            }
-            // hold stop words in arr
-            String[] myStopWords = stopWords;
-
-            // creating Map
-            Map<Character, Vector<String>> wordsMap = new HashMap<>();
-            String letters = "qwertyuiopasdfghjklzxcvbnm'";
-            // initialize map
-            for (int i = 0; i < 27; i++){
-
-                wordsMap.put(letters.charAt(i), new Vector<String>());
-            }
-
-            // fill the map
-            int x = 0;
-            for (String word : myStopWords)
-            {
-                if (wordsMap.get(word.charAt(0)) != null)
-                    wordsMap.get(word.charAt(0)).add(word);
-            }
-
-            return wordsMap;
-        }
-
-        // add the passed count to the file with name id.txt
-        public static void addToContentLengthFile(String url, int count)
-        {
-            String path = QueryDivide.HelperClass.contentLengthFiles(url);
-            System.out.println(path);
-            File targetFile = new File(path);
-            try {
-                targetFile.createNewFile();
-            } catch (IOException e) {
-                System.out.println("Failed to create this file -->" + url + ".txt");
-            }
-
-            // if don't return, then the file was empty --> so this is the first line to insert in it
-            FileWriter myWriter = null;
-            try {
-                myWriter = new FileWriter(path, false);// false to re-new the content not append
-            } catch (IOException e) {
-                System.out.println("this file (" + url + ".txt) is not found");
-                return;
-            }
-            try {
-                myWriter.write(String.valueOf(count));
-            } catch (IOException e) {
-                System.out.println("error in writting the words count to the file");
-                return;
-            }
-            try {
-                myWriter.close();
-            } catch (IOException e) {
-                System.out.println("Can't close the file");
-                return;
-            }
-        }
-
-        // remove the empty files after finishing indexing
-        public static void removeEmptyFiles()
-        {
-            File targetFolder = new File(QueryDivide.HelperClass.invertedFilePathDirectoryPath());
-            File[] allFiles = targetFolder.listFiles();
-
-            for (File currentFile : allFiles)
-            {
-                if (currentFile.length() == 0)
-                    currentFile.delete();
-            }
-        }
-
-        // get the count of the website words
-//    public static long getWordsContent(String url)
-//    {
-//        String path = HelperClass.contentLengthFiles(url);
-//        System.out.println(path);
-//        Scanner read = null;
-//        try {
-//            read = new Scanner(new File(path));
-//        } catch (FileNotFoundException e) {
-//            System.out.println("Failed to read the words count");
-//            return -1;
-//        }
-//
-//        while(read.hasNextLine())
-//        {
-//            return Long.parseLong(read.nextLine());
-//        }
-//        return -1;
-//    }
-
     }
 
 
