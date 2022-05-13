@@ -6,7 +6,7 @@ import javax.servlet.*;
 import javax.servlet.http.*;
 
 
-import DataBasePackages.DataBase.DataBase;
+import HelpersPackages.Helpers.HelperClass;
 import org.json.JSONException;
 import java.io.*;
 import java.nio.charset.StandardCharsets;
@@ -29,7 +29,7 @@ import org.tartarus.snowball.ext.PorterStemmer;
 public class QuerySearch extends HttpServlet {
     public String searchingQuery;
     public ArrayList<String> rankerArray = new ArrayList<String>();
-    public HashMap<String, Integer> phraSearchingMap = new HashMap<String, Integer>();
+    public Map<String, Integer> phraSearchingMap = new HashMap<String, Integer>();
     public boolean isPhraseSearching = false;
     public JSONArray dividedQuery = new JSONArray();
     Ranker rankerObject = new Ranker();
@@ -223,11 +223,11 @@ public class QuerySearch extends HttpServlet {
            * Prepares for Highlighting websites content by dividing the query into its constituents
    */
 
-        public HashMap<String, Integer> run(String message, ArrayList<String> queryLinesResult, JSONArray dividedQuery) throws FileNotFoundException, JSONException {
+        public Map<String, Integer> run(String message, ArrayList<String> queryLinesResult, JSONArray dividedQuery) throws FileNotFoundException, JSONException {
 
             System.out.println("Phrase Searching Run Function");
             boolean[] indexProcessed;  //Used for Links map, to not add links over and over again
-            HashMap<String, Integer> allLinks = new HashMap<String, Integer>(); //Has links that are repeated for each word of the search query
+            Map<String, Integer> allLinks = new HashMap<String, Integer>(); //Has links that are repeated for each word of the search query
             JSONObject divide = new JSONObject();             //Used for divided Query servlet to highlight content in results
             divide.put("Results", message);
             dividedQuery.put(divide);                    //Populating the array using the whole search query
@@ -337,24 +337,6 @@ public class QuerySearch extends HttpServlet {
                     it.remove();
                 }
             }
-
-            for (Iterator<Map.Entry<String, Integer>> iter = allLinks.entrySet().iterator(); iter.hasNext(); ) {
-
-
-                Map.Entry<String, Integer> IDEntry = iter.next();
-
-
-                String link = IDEntry.getKey();
-
-                // Get description and populate Json Array
-                StringBuffer description = new StringBuffer("");
-                JSONObject Jo = new JSONObject();
-                dataBaseObject.getDescription(link, description);
-                Jo.put("Link", link);
-                Jo.put("Description", description);
-                finalJsonFile.put(Jo);
-            }
-
             return allLinks;
         }
     }
@@ -365,9 +347,10 @@ public class QuerySearch extends HttpServlet {
 
     static class Ranker
     {
-        private DataBasePackages.DataBase.DataBase connect = new DataBasePackages.DataBase.DataBase();
+        private DataBase connect = new DataBase();
         JSONArray dividedQuery = new JSONArray();
         Map<String,Long> wordsCount;
+        Map<String,Integer> IDs;
         String[] completedLinks;
         Map<String, Double> popularityResult;
         int completeCount;
@@ -378,6 +361,7 @@ public class QuerySearch extends HttpServlet {
             wordsCount = connect.getWordsCountAsMap();
             completedLinks = connect.getAllUrls();
             completeCount=connect.getCompleteCount();
+            IDs = connect.getIDsAsMap();
             popularityResult=calculatePopularity(completeCount);
         }
 
@@ -457,7 +441,7 @@ public class QuerySearch extends HttpServlet {
 
 
 
-        public String calculateRelevance(ArrayList<String> tempLines , HashMap<String, Integer> allLinks , boolean isPhraseSearching) throws FileNotFoundException, JSONException {
+        public String calculateRelevance(ArrayList<String> tempLines , Map<String, Integer> allLinks , boolean isPhraseSearching) throws FileNotFoundException, JSONException {
 
             JSONArray finalJsonFile = new JSONArray();   //For final results
             Map<String, Double> pagesRanks = new HashMap<String, Double>();
@@ -579,12 +563,15 @@ public class QuerySearch extends HttpServlet {
                 String link = LinkEntry.getKey();
 
                 // Get description and populate Json Array
-                StringBuffer description = new StringBuffer("");
+                String description;
                 JSONObject Jo = new JSONObject();
-                connect.getDescription(link, description);
-                Jo.put("Link", link);
-                Jo.put("Description", description);
-                finalJsonFile.put(Jo);
+                if(IDs.containsKey(link)) {
+                    int currentLinkID = IDs.get(link);
+                    description = HelperClass.readDescription(currentLinkID);
+                    Jo.put("Link", link);
+                    Jo.put("Description", description);
+                    finalJsonFile.put(Jo);
+                }
             }
 
 
@@ -711,7 +698,7 @@ static class QueryProcessing{
                     continue;
 
                 // check if this line is for a word or just an extension for the previous line
-                if (tempInput.charAt(0) == '#')
+                if (tempInput.charAt(0) == '<')
                 // compare to check if this tempWord = ourWord ?
                 {
                     // extract the word from the line that read by the scanner
@@ -891,16 +878,6 @@ static class QueryProcessing{
 
                     String link = finalID[0];
 
-
-
-                    // Get description and populate Json Array
-                    StringBuffer description = new StringBuffer("");
-                    JSONObject Jo = new JSONObject();
-                    dataBaseObject.getDescription(link, description);
-                    Jo.put("Link", link);
-                    Jo.put("Description", description);
-                    finalJsonFile.put(Jo);
-
                 }
             }
 
@@ -1077,6 +1054,24 @@ static class QueryProcessing{
         }
         //-----------------------------------------------------------------------------------------------------------------------//
 
+        //--------------------------------------------------function to get the IDs of All Links----------------------------------------/
+        public Map<String, Integer> getIDsAsMap()
+        {
+            Map<String, Integer> resultMap = new HashMap<>();
+            try {
+                ResultSet resultSet = this.stmt.executeQuery("SELECT Link, Id FROM links;");
+
+                while (resultSet.next())
+                {
+                    resultMap.put(resultSet.getString("Link"), resultSet.getInt("Id"));
+                }
+                return resultMap;
+
+            } catch (SQLException e) {
+                return null;
+            }
+
+        }
 
 
     }
@@ -1093,6 +1088,51 @@ static class QueryProcessing{
             //filePath = filePath.substring(0, .lastIndexOf("\\"));
             filePath += File.separator + "InvertedFiles_V3" + File.separator + fileName + ".txt";
             return filePath;
+        }
+
+
+        // get the path of the content files
+        public static String contentFilesPath()
+        {
+            String filePath = "D:\\College\\Second_Year\\Second Term\\APT\\Project\\Final Version\\Sreach-Engine";
+            // filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
+            filePath += File.separator + "ContentFiles";
+            return filePath;
+        }
+
+        // get the path of the description files
+        public static String descriptionFilesPath()
+        {
+            String filePath = "D:\\College\\Second_Year\\Second Term\\APT\\Project\\Final Version\\Sreach-Engine";
+            // filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
+            filePath += File.separator + "descriptionFiles";
+            return filePath;
+        }
+
+        // get the content which stored in a file
+        public static String readContent(int fileName)
+        {
+            Path filePath = Path.of(contentFilesPath() + File.separator + fileName + ".txt");
+            String content = null;
+            try {
+                content = Files.readString(filePath);
+                return content;
+            } catch (IOException e) {
+                return null;
+            }
+        }
+
+        // get the description which stored in a file
+        public static String readDescription(int fileName)
+        {
+            Path filePath = Path.of(descriptionFilesPath() + File.separator + fileName + ".txt");
+            String content = null;
+            try {
+                content = Files.readString(filePath);
+                return content;
+            } catch (IOException e) {
+                return null;
+            }
         }
 
 

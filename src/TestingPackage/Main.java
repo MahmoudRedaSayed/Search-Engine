@@ -288,7 +288,7 @@ public class Main {
             threadsCounter = 0;
             finished += threadCount;
             System.out.println("finished Indexing : " + finished);
-            if (finished == 300)
+            if (finished == 1000)
                 done = true;
         }
 

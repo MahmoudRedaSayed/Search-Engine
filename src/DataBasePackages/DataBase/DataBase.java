@@ -146,25 +146,6 @@ public class DataBase {
 // ---------------------------------------------------------------------------------------------------------------------//
 
 
-    //---------------------------------------get link by ID  -------------------------------------------------------------//
-    public synchronized Boolean getDescription (String linkUrl, StringBuffer description)
-    {
-        try{
-            //String query = "Select Link FROM links WHERE Id= " + ID +" ";
-            String query = "Select * FROM links";
-            ResultSet resultSet = this.stmt.executeQuery("Select Descripation FROM links WHERE Link= '" + linkUrl +"';");
-            resultSet.next();
-            String descriptionResult = resultSet.getString("Descripation");
-            description.append(descriptionResult);
-            return true;
-
-        } catch (SQLException e) {
-            return false;
-        }
-
-    }
-
-
 
 // ---------------------------------------------------------------------------------------------------------------------//
 
@@ -577,6 +558,27 @@ public class DataBase {
         }
 
     }
+
+
+    // get map of words count for all websites
+    public Map<String, Integer> getIDsAsMap()
+    {
+        Map<String, Integer> resultMap = new HashMap<>();
+        try {
+            ResultSet resultSet = this.stmt.executeQuery("SELECT Link, Id FROM links;");
+
+            while (resultSet.next())
+            {
+                resultMap.put(resultSet.getString("Link"), resultSet.getInt("Id"));
+            }
+            return resultMap;
+
+        } catch (SQLException e) {
+            return null;
+        }
+
+    }
+
     // get the id of a link
     public synchronized int getID (String Url)
     {

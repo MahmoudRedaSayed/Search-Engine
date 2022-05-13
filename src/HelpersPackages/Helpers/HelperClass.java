@@ -44,18 +44,66 @@ public class HelperClass {
     public static String invertedFilePathDirectoryPath()
     {
         String filePath = "D:\\College\\Second_Year\\Second Term\\APT\\Project\\Final Version\\Sreach-Engine";
-       // filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
+        // filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
         filePath += File.separator + "InvertedFiles_V3";
         return filePath;
     }
 
-    // get the path of the inverted Files_V3 folder
+    // get the path of the content files
     public static String contentFilesPath()
     {
         String filePath = "D:\\College\\Second_Year\\Second Term\\APT\\Project\\Final Version\\Sreach-Engine";
         // filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
         filePath += File.separator + "ContentFiles";
         return filePath;
+    }
+
+    // get the path of the description files
+    public static String descriptionFilesPath()
+    {
+        String filePath = "D:\\College\\Second_Year\\Second Term\\APT\\Project\\Final Version\\Sreach-Engine";
+        // filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
+        filePath += File.separator + "descriptionFiles";
+        return filePath;
+    }
+
+    // get the content which stored in a file
+    public static String readContent(int fileName)
+    {
+        Path filePath = Path.of(contentFilesPath() + File.separator + fileName + ".txt");
+        String content = null;
+        try {
+            content = Files.readString(filePath);
+            return content;
+        } catch (IOException e) {
+            return null;
+        }
+    }
+
+    // get the description which stored in a file
+    public static String readDescription(int fileName)
+    {
+        Path filePath = Path.of(descriptionFilesPath() + File.separator + fileName + ".txt");
+        String content = null;
+        try {
+            content = Files.readString(filePath);
+            return content;
+        } catch (IOException e) {
+            return null;
+        }
+    }
+
+    // get the content which stored in a file
+    public static String readdescription(int fileName)
+    {
+        Path filePath = Path.of(contentFilesPath() + File.separator + fileName + ".txt");
+        String content = null;
+        try {
+            content = Files.readString(filePath);
+            return content;
+        } catch (IOException e) {
+            return null;
+        }
     }
 
     // get the path of the content length files
