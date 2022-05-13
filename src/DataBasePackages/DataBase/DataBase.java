@@ -479,6 +479,24 @@ public class DataBase {
         }
         return null;
     }
+
+    // get the Description of a website
+    public synchronized String getDescription(String url)
+    {
+        try {
+            ResultSet resultSet=this.stmt.executeQuery("Select Lower(Descripation) as Descripation From links where Link = '" + url+ "'");
+            while(resultSet.next())
+            {
+                return resultSet.getString("Descripation");
+            }
+        }
+        catch(SQLException e)
+        {
+
+        }
+        return null;
+    }
+
     // get the Headers of a website
     public synchronized String getHeaders(String url)
     {
@@ -558,6 +576,24 @@ public class DataBase {
             return null;
         }
 
+    }
+    // get the id of a link
+    public synchronized int getID (String Url)
+    {
+        try{
+            ResultSet resultSet=this.stmt.executeQuery("SELECT Id FROM links WHERE Link='"+Url+"';");
+            while (resultSet.next())
+            {
+                int Id=-1;
+                Id=resultSet.getInt("Id");
+                return  Id;
+            }
+        }
+        catch(SQLException e)
+        {
+
+        }
+        return -1;
     }
 
     //////////////////////////////////////////////////////////////////////////////////////////////////////

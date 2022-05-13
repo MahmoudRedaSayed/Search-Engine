@@ -46,9 +46,15 @@ public class Indexer implements Runnable {
         titleProcessing(url);
         headingProcessing(url);
         paragraphProcessing(url);
+        descriptionProcessing(url);
 
         // add word count to the database
         myDB.addWordsCount(url, wordCount);
+
+        // add content to the file
+        int id = myDB.getID(url);
+        String content = myDB.getContent(id);
+        WorkingFiles.addToContentToFile(id, content);
     }
 
     // String Processing
@@ -175,6 +181,17 @@ public class Indexer implements Runnable {
         // indexing
         singleStringProcessing(data, 'p', url);
     }
+    // paragraph processing
+    private void descriptionProcessing(String url)
+    {
+        String data = myDB.getDescription(url);
+
+        if (data == null || data.equals("[]"))
+            return;
+
+        // indexing
+        singleStringProcessing(data, 'p', url);
+    }
 
     // checking whether stop word or not
     private boolean isStopWord(String word){
@@ -226,7 +243,7 @@ public class Indexer implements Runnable {
 
             // check if this line is for a word or just an extension for the previous line
             // System.out.println(tempInput);
-            if (tempInput.charAt(0) == '#')
+            if (tempInput.charAt(0) == '<')
             // compare to check if this word = ourWord ?
             {
                 // get the word
@@ -244,7 +261,7 @@ public class Indexer implements Runnable {
                 }else               // then, this is the first time to add this word
                 {
                     FileWriter myWriter = new FileWriter(filePath, true);   // true to activate the appending mode
-                    myWriter.write('#' + word + '|' + info + "::1;" + '\n');
+                    myWriter.write('<' + word + '|' + info + "::1;" + '\n');
                     myWriter.close();
                 }
             }
@@ -253,7 +270,7 @@ public class Indexer implements Runnable {
 
         // if don't return, then the file was empty --> so this is the first line to insert in it
         FileWriter myWriter = new FileWriter(filePath);
-        myWriter.write('#' + word + '|' + info + "::1;" + '\n');
+        myWriter.write('<' + word + '|' + info + "::1;" + '\n');
         myWriter.close();
     }
 

@@ -192,6 +192,41 @@ public class WorkingFiles {
         }
     }
 
+    // add the content of the webPage to its file
+    public static void addToContentToFile(int pageID, String content)
+    {
+        String path = HelperClass.contentFilesPath();
+        path += File.separator + String.valueOf(pageID) + ".txt";
+
+        File targetFile = new File(path);
+        try {
+            targetFile.createNewFile();
+        } catch (IOException e) {
+            System.out.println("Failed to create this file -->" + pageID + ".txt");
+        }
+
+
+        FileWriter myWriter = null;
+        try {
+            myWriter = new FileWriter(path);// false to re-new the content not append
+        } catch (IOException e) {
+            System.out.println("this file (" + pageID + ".txt) is not found");
+            return;
+        }
+        try {
+            myWriter.write(content);
+        } catch (IOException e) {
+            System.out.println("error in writting the content to the file");
+            return;
+        }
+        try {
+            myWriter.close();
+        } catch (IOException e) {
+            System.out.println("Can't close the file");
+            return;
+        }
+    }
+
     // remove the empty files after finishing indexing
     public static void removeEmptyFiles()
     {
@@ -204,25 +239,5 @@ public class WorkingFiles {
                 currentFile.delete();
         }
     }
-
-    // get the count of the website words
-//    public static long getWordsContent(String url)
-//    {
-//        String path = HelperClass.contentLengthFiles(url);
-//        System.out.println(path);
-//        Scanner read = null;
-//        try {
-//            read = new Scanner(new File(path));
-//        } catch (FileNotFoundException e) {
-//            System.out.println("Failed to read the words count");
-//            return -1;
-//        }
-//
-//        while(read.hasNextLine())
-//        {
-//            return Long.parseLong(read.nextLine());
-//        }
-//        return -1;
-//    }
 
 }

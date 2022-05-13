@@ -1,3 +1,0 @@
-/mahinda|[https://www.france24.com,p]::1;
-/maheshwari|[https://www.tutorialspoint.com/profile/tutorialspoint_com,p]::1;[https://www.tutorialspoint.com/power_bi/index.htm,p]::2;
-/mahmoud|[https://www.tutorialspoint.com/kotlin/index.htm,p]::1;
