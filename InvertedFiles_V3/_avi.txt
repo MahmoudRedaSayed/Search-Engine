@@ -1,0 +1,4 @@
+<aviation|[https://www.bbc.com/,p]::1;[https://www.tutorialspoint.com/online_file_conversion.htm,p]::1;
+<avión|[https://www.marca.com,h]::2;
+<avignon|[https://www.goodhousekeepingholidays.com/?utm_source=hearstmagazines&utm_medium=referral&utm_campaign=hearst-holidays&utm_term=ghk&utm_content=nav-bar,p]::1;
+<avid|[https://www.nytimes.com/2006/02/01/obituaries/coretta-scott-king-a-civil-rights-icon-dies-at-78.html,p]::2;

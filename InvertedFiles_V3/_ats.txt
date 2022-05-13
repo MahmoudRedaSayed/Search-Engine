@@ -1,0 +1,6 @@
+<atscale|[https://blog.archive.org,p]::1;
+<atsupporteverydayhealthcom|[https://www.everydayhealth.com/contact-us,p]::2;
+<atskirti|[https://lt.wikipedia.org/wiki/Slapukas,p]::1;
+<atsisakyti|[https://lt.wikipedia.org/wiki/Slapukas,p]::1;
+<atsimenama|[https://lt.wikipedia.org/wiki/Slapukas,p]::1;
+<atsiminti|[https://lt.wikipedia.org/wiki/Slapukas,p]::1;

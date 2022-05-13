@@ -1,0 +1,2 @@
+<hue|[https://developers.googleblog.com/2019/07/developer-preview-of-local-home-sdk.html,p]::1;
+<hues|[https://www.apple.com/watch,h]::1;

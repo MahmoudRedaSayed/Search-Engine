@@ -1,0 +1,6 @@
+<heterosexuality|[https://www.healthline.com/health/healthy-sex/second-queer-adolescence,p]::1;[https://hearst.nl,p]::2;[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::28;
+<heteronormative|[https://www.healthline.com/health/healthy-sex/second-queer-adolescence,p]::1;
+<heterogeneous|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,p]::1;[https://www.w3.org/P3P/Overview.html,p]::1;
+<heterozygosity|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,p]::2;
+<heterozygous|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,p]::4;
+<heterogeneity|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,p]::1;

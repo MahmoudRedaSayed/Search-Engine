@@ -1,0 +1,4 @@
+<dapibus|[https://www.acco.org,p]::4;
+<dapp|[https://brave.com/ok-google,h]::1;
+<daprès|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::1;
+<dapat|[https://id.wikipedia.org/wiki/Kuki,p]::6;

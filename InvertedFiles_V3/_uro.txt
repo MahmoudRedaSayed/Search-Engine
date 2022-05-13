@@ -1,0 +1,5 @@
+<urothelium|[https://www.cancer.gov/about-cancer/understanding/what-is-cancer,p]::1;
+<urology|[https://www.everydayhealth.com/menopause/health-risks-women-face-after-menopause,p]::1;
+<urogynecologic|[https://www.everydayhealth.com/hysterectomy/guide,s]::1;[https://www.everydayhealth.com/hysterectomy/guide,p]::1;
+<urologists|[https://www.everydayhealth.com/ovarian-cancer/with-ovarian-cancer-early-detection-is-key-so-why-is-it-so-hard,p]::2;
+<urobil|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

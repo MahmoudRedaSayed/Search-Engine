@@ -1,0 +1,1 @@
+persistence enables authors to specify an object to persist on the client during the current and later sessions using dynamic html (dhtml) behaviors.

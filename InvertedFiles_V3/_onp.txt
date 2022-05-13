@@ -1,0 +1,2 @@
+<onprovideassistcontent|[https://developers.google.com/assistant/app/assistant-sharing,p]::4;[https://developers.google.com/assistant/app/read-it,p]::6;
+<onpremise|[https://www.lambdatest.com/SameSite-cookie-attribute,h]::1;[https://www.theregister.com/2021/02/24/dns_cname_tracking,h]::1;

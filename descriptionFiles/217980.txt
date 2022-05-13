@@ -1,0 +1,1 @@
+blockchain tutorial,  a blockchain is a growing list of records, called blocks, which are linked using cryptography. each block contains a cryptographic hash of the previous block, a

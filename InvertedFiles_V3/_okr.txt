@@ -1,0 +1,5 @@
+<określić|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<określonej|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<określonego|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<określony|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<określają|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;

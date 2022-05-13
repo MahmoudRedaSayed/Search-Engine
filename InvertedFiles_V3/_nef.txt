@@ -1,0 +1,3 @@
+<nefarious|[http://edbrowse.org/usersguide.html#cook,p]::1;
+<nefungujú|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<nefungovali|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

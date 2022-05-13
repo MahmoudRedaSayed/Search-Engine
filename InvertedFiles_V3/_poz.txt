@@ -1,0 +1,11 @@
+<pozostające|[https://pl.wikipedia.org/wiki/HTTP_cookie,h]::1;
+<pozwalają|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::6;
+<poziomu|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<pozostawia|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<pozostałe|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<pozwalające|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<pozostać|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<pozostawiając|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<pozostałych|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<pozri|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::3;
+<pozornosť|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

@@ -1,0 +1,4 @@
+<gees|[https://www.loc.gov,h]::1;[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::2;[https://af.wikipedia.org/wiki/Koekie_(rekenaarwetenskap),p]::1;
+<geeksforgeeks|[https://www.geeksforgeeks.org,t]::2;[https://www.geeksforgeeks.org,p]::1;[https://archive.org/about/bios.php,p]::1;[https://www.howtogeek.com/119458/htg-explains-whats-a-browser-cookie,s]::1;[https://www.howtogeek.com/119458/htg-explains-whats-a-browser-cookie,p]::4;
+<geen|[https://af.wikipedia.org/wiki/Koekie_(rekenaarwetenskap),p]::1;[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::5;
+<geef|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::2;

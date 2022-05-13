@@ -1,0 +1,8 @@
+<jurgen|[https://www.bbc.com/,p]::1;
+<jury|[https://www.dailymail.co.uk,p]::1;[https://www.everydayhealth.com/diet-nutrition/diet/low-carb-diet-beginners-guide-food-list-meal-plan-tips,p]::1;
+<jurors|[https://www.dailymail.co.uk,p]::1;
+<jurisdiction|[http://www.hearst.co.uk/privacy-notice,p]::1;[https://archive.org/about/terms.php,p]::1;[https://twitter.com/tos,p]::4;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,s]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::5;[http://www.hearst.co.uk/terms-and-conditions,p]::3;
+<jurlique|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,h]::1;[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,s]::1;[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;
+<jurisdictions|[https://developers.google.com/assistant/console/policies/general-policies,p]::1;[https://archive.org/about/terms.php,p]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;[https://www.healthline.com/health/ibd-healthline-privacy-policy,h]::1;[https://developer.mozilla.org/en-US/docs/Web_Development/HTTP_cookies,p]::1;[http://www.hearst.co.uk/terms-and-conditions,p]::2;
+<jurisdictional|[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,h]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,p]::1;
+<jure|[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;

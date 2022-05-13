@@ -1,0 +1,8 @@
+<dutch|[https://www.bbc.com/,p]::1;[https://developers.google.com/assistant/why-build,p]::1;[https://blog.archive.org,s]::1;[http://wordpress.org/plugins/broken-link-checker,p]::2;[https://developers.google.com/assistant/console/languages-locales,h]::1;[https://developers.google.com/assistant/console/languages-locales,p]::1;[https://www.nytimes.com/2001/09/04/technology/04COOK.html,p]::2;[https://apps.apple.com/us/app/modulife/id1451478169,p]::1;[https://apps.apple.com/us/app/aby/id1380700316,p]::1;
+<duty|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;[https://www.lennyletter.com/story/cobie-smulders-journey-through-cancer-and-back,p]::1;[http://www.hearst.co.uk/terms-and-conditions,p]::2;
+<duties|[http://www.archive-it.org,p]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;[https://link.springer.com/10.1007/978-3-030-76663-4_3,p]::1;
+<dute|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
+<duten|[https://eu.wikipedia.org/wiki/Cookie,p]::2;
+<dutiliser|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::1;
+<dutilisateur|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::2;
+<dutilisateurs|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::1;

@@ -1,0 +1,5 @@
+<inmaywood|[https://www.everydayhealth.com/psoriasis/guide,p]::1;
+<inminutes|[https://www.tutorialspoint.com/python_blockchain/index.htm,p]::1;[https://www.tutorialspoint.com/python/index.htm,p]::1;
+<inmemory|[https://www.tutorialspoint.com/qlikview/index.htm,p]::2;[https://en.wikipedia.org/wiki/HTTP_cookie,p]::1;[http://msdn.microsoft.com/en-us/library/ms526029(v=vs.90).aspx,s]::1;[http://msdn.microsoft.com/en-us/library/ms526029(v=vs.90).aspx,p]::8;[https://web.archive.org/web/20121014110456/http:/msdn.microsoft.com/en-us/library/ms526029(v=vs.90).aspx,s]::1;[https://web.archive.org/web/20121014110456/http:/msdn.microsoft.com/en-us/library/ms526029(v=vs.90).aspx,p]::8;[https://en.wikipedia.org/w/index.php?title=HTTP_cookie&oldid=1085989394,p]::1;
+<inmcomcom|[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::3;
+<inmálaga|[https://blog.openlibrary.org,p]::1;

@@ -1,0 +1,2 @@
+<zdroj|[https://cs.wikipedia.org/wiki/HTTP_cookie,h]::13;[https://sk.wikipedia.org/wiki/HTTP_cookie,h]::11;[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<zdrojupraviť|[https://sk.wikipedia.org/wiki/HTTP_cookie,h]::1;

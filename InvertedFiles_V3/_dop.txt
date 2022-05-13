@@ -1,0 +1,7 @@
+<doppler|[https://www.sciencenewsforstudents.org,h]::1;
+<dopamine|[https://www.iflscience.com/,p]::1;
+<dope|[https://www.everydayhealth.com/breast-cancer/empowering-breast-and-gynecological-podcasts-hosted-by-survivors,p]::1;
+<dopo|[https://it.wikipedia.org/wiki/Cookie,p]::2;
+<dopušta|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<dopuštao|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<dopuštaju|[https://sh.wikipedia.org/wiki/Cookie,p]::1;

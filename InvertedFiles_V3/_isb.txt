@@ -1,0 +1,2 @@
+<isbn|[https://www.tutorialspoint.com/effective_resume_writing.htm,p]::2;[https://blog.openlibrary.org,p]::1;[https://blog.openlibrary.org/2022/04/27/a-high-schoolers-experience-contributing-to-the-open-book-genome-project,p]::1;[https://blog.openlibrary.org/page/2,p]::5;
+<isbns|[https://blog.openlibrary.org/page/2,p]::5;

@@ -1,0 +1,13 @@
+<rubbing|[https://www.everydayhealth.com/eczema/guide,p]::1;[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::2;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::2;[https://www.everydayhealth.com/ovarian-cancer/is-it-ovarian-cancer-or-ibs.aspx,p]::1;
+<rubus|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;
+<rubbish|[http://wordpress.org/plugins/broken-link-checker,h]::1;
+<ruby|[https://www.tutorialspoint.com/web_development_tutorials.htm,p]::1;[https://www.tutorialspoint.com/computer_programming_tutorials.htm,p]::1;[https://www.tutorialspoint.com/computer_glossary.htm,p]::1;[https://web.archive.org/web/20051001113951/http:/www.microsoft.com/windows/IE/community/columns/historyofie.mspx,p]::1;[https://web.archive.org/web/20160514000450/https:/publicsuffix.org/learn,p]::1;[https://publicsuffix.org/learn,p]::1;[https://web.archive.org/web/20081223151145/http:/www.infoq.com/articles/rest-anti-patterns,p]::2;[http://www.infoq.com/articles/rest-anti-patterns,p]::2;
+<rubenstein|[http://www.archive-it.org,p]::1;
+<rubensteins|[http://www.archive-it.org,p]::1;
+<rubinstein|[https://www.gatewaycr.org,p]::1;
+<rubust|[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::1;
+<rubble|[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;
+<rubygem|[https://web.archive.org/web/20160514000450/https:/publicsuffix.org/learn,p]::1;
+<rubare|[https://it.wikipedia.org/wiki/Cookie,p]::3;
+<rubato|[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<rubati|[https://it.wikipedia.org/wiki/Cookie,p]::1;

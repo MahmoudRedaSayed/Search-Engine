@@ -1,0 +1,4 @@
+<geared|[https://www.everydayhealth.com/ulcerative-colitis/guide,p]::1;[https://www.tutorialspoint.com/html5-and-css3-fundamentals/index.asp,p]::1;[https://blog.archive.org,p]::1;[https://archive.org/about/bios.php,p]::1;[https://developers.google.com/assistant/console/analytics,s]::2;[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::1;[http://relay.acsevents.org,p]::1;[https://venturebeat.com/2019/06/04/firefox-enhanced-tracking-protection-blocks-third-party-cookies-by-default,p]::1;[https://www.everydayhealth.com/breast-cancer/empowering-breast-and-gynecological-podcasts-hosted-by-survivors,p]::1;
+<geary|[https://archive.org/about/contact.php,p]::17;
+<gears|[https://cs.wikipedia.org/wiki/HTTP_cookie,h]::1;
+<geaccepteerd|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::3;

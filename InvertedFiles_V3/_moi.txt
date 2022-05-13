@@ -1,0 +1,9 @@
+<moisture|[https://www.everydayhealth.com/eczema/guide,p]::2;[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;[https://www.everydayhealth.com/symptom-checker,p]::1;[https://www.everydayhealth.com/ovarian-cancer/is-there-sex-after-ovarian-cancer,p]::1;
+<moisturizing|[https://www.everydayhealth.com/eczema/guide,p]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
+<moisturizers|[https://www.everydayhealth.com/eczema/guide,p]::2;[https://www.everydayhealth.com/psoriasis/guide,p]::1;[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::1;[https://www.everydayhealth.com/wellness/healthy-skin,p]::1;[https://www.healthline.com/program/wellness,p]::1;[https://www.healthline.com/reviews,p]::1;[https://www.everydayhealth.com/ovarian-cancer/is-there-sex-after-ovarian-cancer,p]::2;
+<moisturized|[https://www.everydayhealth.com/psoriasis/guide,p]::1;
+<moisturiser|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::2;
+<moisturising|[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;
+<moisterising|[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;
+<moir|[https://blog.mozilla.org/security/2021/01/26/supercookie-protections,p]::1;
+<moins|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::2;

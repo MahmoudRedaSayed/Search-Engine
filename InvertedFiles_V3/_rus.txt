@@ -1,0 +1,10 @@
+<russell|[https://www.bbc.com/,h]::1;[https://www.loc.gov,h]::1;[https://www.everydayhealth.com/flu/guide,p]::1;[https://archive.org/about/bios.php,p]::1;[http://www.archive-it.org,p]::1;[https://2gdpr.com,p]::1;
+<russia|[https://www.bbc.com/,h]::4;[https://www.bbc.com/,p]::1;[https://www.dailymail.co.uk,h]::2;[https://www.dailymail.co.uk,p]::3;[https://www.france24.com,p]::4;[http://www.archive-it.org,p]::2;[http://www.hearst.com.cn/en/aboutus,p]::1;[https://www.bbc.co.uk/news/technology-12668552,p]::1;
+<russias|[https://www.bbc.com/,p]::1;[https://www.dailymail.co.uk,h]::1;[https://english.ahram.org.eg/,p]::1;[https://www.dailymail.co.uk,p]::3;
+<russian|[https://www.iflscience.com/,h]::1;[https://www.dailymail.co.uk,h]::3;[https://www.france24.com,p]::6;[https://www.dailymail.co.uk,p]::5;[https://www.everydayhealth.com/heart-health/fda-approves-camzyos-for-the-treatment-of-obstructive-hypertrophic-cardiomyopathy,h]::2;[http://wordpress.org/plugins/broken-link-checker,p]::1;[https://developers.google.com/assistant/console/languages-locales,h]::1;[https://developers.google.com/assistant/console/languages-locales,p]::1;[http://www.archive-it.org,p]::2;[https://www.bbc.co.uk/news/technology-12668552,p]::1;
+<russians|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;[https://www.france24.com,p]::1;
+<rusia|[https://www.marca.com,h]::2;
+<rusa|[https://www.marca.com,h]::1;
+<rustic|[https://www.hearstmagazines.co.uk/special-editions-subscriptions/country-living-specials,s]::4;[https://publicsuffix.org/learn,p]::5;
+<rush|[https://archive.org/about/contact.php,p]::4;[https://www.everydayhealth.com/diet-and-nutrition/diet/mind-diet-can-this-diet-plan-help-reverse-alzheimers-disease,p]::2;[https://www.everydayhealth.com/ovarian-cancer/guide/symptoms,p]::1;[https://www.everydayhealth.com/constipation/guide,p]::1;
+<rushing|[https://web.archive.org/web/20121115110013/http:/www.wired.co.uk/news/archive/2012-05/24/eu-cookie-law-moaning,p]::1;

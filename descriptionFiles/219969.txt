@@ -1,0 +1,1 @@
+an independent security researcher says the browser is vulnerable to hackers gaining access to a person s cookie files and then logging on to password-protected sites. read this blog post by lance whitney on security.

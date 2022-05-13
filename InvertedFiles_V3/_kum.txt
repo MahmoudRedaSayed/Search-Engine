@@ -1,0 +1,2 @@
+<kumar|[https://www.tutorialspoint.com/categories/cyber_security,p]::1;[https://www.tutorialspoint.com/artificial_intelligence_with_python/index.htm,p]::1;[https://www.tutorialspoint.com/php/index.htm,p]::1;[https://www.tutorialspoint.com/mysql/index.htm,p]::1;[https://www.tutorialspoint.com/scala/index.htm,p]::1;[https://www.tutorialspoint.com/android/index.htm,p]::1;
+<kumpulan|[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::1;

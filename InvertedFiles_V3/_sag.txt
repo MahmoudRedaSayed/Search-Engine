@@ -1,0 +1,2 @@
+<saggy|[https://www.dailymail.co.uk,p]::1;[https://www.everydayhealthgroup.com,p]::1;[https://www.everydayhealth.com/hysterectomy/guide,p]::1;
+<sage|[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;[https://www.apple.com/us/shop/goto/buy_accessories,h]::1;

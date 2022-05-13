@@ -1,0 +1,4 @@
+<cms|[http://www.archive-it.org,p]::1;[https://web.archive.org/web/20121115110013/http:/www.wired.co.uk/news/archive/2012-05/24/eu-cookie-law-moaning,p]::1;
+<cmsproposed|[https://www.canceradvocacy.org,h]::1;
+<cmsgroupware|[https://web.archive.org/web/20090103092440/http:/support.mozilla.com/en-US/kb/Clearing%20Private%20Data#top,p]::1;
+<cmsispanalytics|[https://web.archive.org/web/20121115110013/http:/www.wired.co.uk/news/archive/2012-05/24/eu-cookie-law-moaning,p]::1;

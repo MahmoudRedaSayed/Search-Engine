@@ -1,0 +1,1 @@
+servlets tutorial,  servlets provide a component-based, platform-independent method for building webbased applications, without the performance limitations of cgi programs. servlet

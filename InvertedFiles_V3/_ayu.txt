@@ -1,0 +1,5 @@
+<ayurvedic|[https://www.everydayhealth.com/eczema/guide,p]::1;[https://www.lennyletter.com/story/cobie-smulders-journey-through-cancer-and-back,p]::1;
+<ayudar|[http://www.hearst.es,p]::3;[https://www.cancer.org/es,p]::2;
+<ayudarte|[http://www.hearst.es,p]::1;
+<ayudan|[https://www.healthline.com/type-2-diabetes,p]::1;
+<ayudaría|[https://www.cancer.org/es,p]::1;

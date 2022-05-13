@@ -1,0 +1,12 @@
+<kalhara|[https://www.tutorialspoint.com/categories/cyber_security,p]::1;
+<kale|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;[https://www.everydayhealth.com/diet-and-nutrition/diet/mind-diet-can-this-diet-plan-help-reverse-alzheimers-disease,p]::1;[https://www.tutorialspoint.com/java8/index.htm,p]::1;[https://www.tutorialspoint.com/jdbc/index.htm,p]::1;
+<kalahari|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::2;[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::2;
+<kalfatovic|[https://blog.archive.org,p]::3;
+<kalev|[https://blog.archive.org,p]::1;
+<kaliya|[https://blog.archive.org,p]::2;
+<kalamazoo|[http://www.archive-it.org,p]::2;
+<kallað|[https://is.wikipedia.org/wiki/Vafrakaka,p]::1;
+<kalba|[https://lt.wikipedia.org/wiki/Slapukas,p]::1;
+<kalangan|[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::1;
+<kallas|[https://sv.wikipedia.org/wiki/Webbkaka,p]::1;
+<kallade|[https://sv.wikipedia.org/wiki/Webbkaka,p]::2;

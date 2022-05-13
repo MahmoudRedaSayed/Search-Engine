@@ -1,0 +1,3 @@
+<asrelapses|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;
+<asrm|[https://www.everydayhealth.com/hysterectomy/guide,s]::1;[https://www.everydayhealth.com/hysterectomy/guide,p]::2;
+<asrmpatient|[https://www.everydayhealth.com/hysterectomy/guide,p]::1;

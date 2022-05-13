@@ -1,0 +1,5 @@
+<rotator|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;[https://www.youtube.com/ads,h]::2;[https://www.youtube.com/ads,p]::2;[https://blog.openlibrary.org/page/2,p]::1;
+<rotate|[https://www.everydayhealth.com/type-2-diabetes/guide,p]::1;[https://www.nytimes.com/2001/09/04/technology/04COOK.html,p]::1;[https://www.everydayhealth.com/ct-scan/guide,p]::1;[https://apps.apple.com/us/app/complete-medication-tracker/id1019069079,p]::1;[https://apps.apple.com/us/app/copaxone-itracker-2-0/id1414951452,p]::1;
+<rotation|[https://www.everydayhealth.com/diet-nutrition/ketogenic-diet,p]::1;[https://www.everydayhealth.com/constipation/guide,p]::1;[http://pressroom.cancer.org/releases?item=1094,p]::1;
+<rotates|[https://www.everydayhealth.com/ct-scan/guide,p]::1;
+<rotunda|[https://thekingcenter.org/about-mrs-king,p]::1;

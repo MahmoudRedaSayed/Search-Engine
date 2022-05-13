@@ -1,0 +1,13 @@
+<tilted|[https://www.tutorialspoint.com/computer_glossary.htm,p]::1;
+<tildes|[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;
+<tille|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,h]::1;
+<tile|[https://apps.apple.com/us/app/modulife/id1451478169,p]::2;
+<tilkov|[https://web.archive.org/web/20081223151145/http:/www.infoq.com/articles/rest-anti-patterns,s]::6;[https://web.archive.org/web/20081223151145/http:/www.infoq.com/articles/rest-anti-patterns,p]::8;[http://www.infoq.com/articles/rest-anti-patterns,s]::6;[http://www.infoq.com/articles/rest-anti-patterns,p]::15;
+<tilbage|[https://da.wikipedia.org/wiki/Cookie,p]::5;
+<tillader|[https://da.wikipedia.org/wiki/Cookie,p]::1;
+<tilvísanirbreyta|[https://is.wikipedia.org/wiki/Vafrakaka,h]::1;
+<tillegg|[https://nn.wikipedia.org/wiki/Informasjonskapsel,p]::1;[https://no.wikipedia.org/wiki/Informasjonskapsel,p]::1;
+<tilfeller|[https://no.wikipedia.org/wiki/Informasjonskapsel,p]::1;
+<tillbaka|[https://sv.wikipedia.org/wiki/Webbkaka,p]::1;
+<tillfälligt|[https://sv.wikipedia.org/wiki/Webbkaka,p]::1;
+<tills|[https://sv.wikipedia.org/wiki/Webbkaka,p]::1;

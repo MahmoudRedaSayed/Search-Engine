@@ -1,0 +1,1 @@
+<qcon|[https://web.archive.org/web/20081223151145/http:/www.infoq.com/articles/rest-anti-patterns,h]::1;[http://www.infoq.com/articles/rest-anti-patterns,h]::1;[http://www.infoq.com/articles/rest-anti-patterns,s]::1;[http://www.infoq.com/articles/rest-anti-patterns,p]::3;[https://web.archive.org/web/20081223151145/http:/www.infoq.com/articles/rest-anti-patterns,p]::3;

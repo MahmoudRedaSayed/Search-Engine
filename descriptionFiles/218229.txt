@@ -1,0 +1,2 @@
+to use google maps, you need to turn on javascript in your browser, like chrome or firefox. if you don’t have javascript turned on, you’ll see an empty page when you go to google maps.
+to enable

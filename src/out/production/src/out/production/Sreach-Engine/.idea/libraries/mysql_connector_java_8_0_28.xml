@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-8.0.28">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../lib/mysql-connector-java-8.0.28.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jsoup-1.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/java-json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/lucene-snowball-3.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/servlet-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../lib/java-json.jar!/" />
+    </SOURCES>
+  </library>
+</component>

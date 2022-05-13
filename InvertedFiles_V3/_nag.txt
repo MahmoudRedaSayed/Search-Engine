@@ -1,0 +1,9 @@
+<nagging|[https://www.everydayhealth.com/news/when-just-cough-actually-stage-iv-lung-cancer,h]::1;[https://www.everydayhealth.com/lung-cancer/living-with/your-lungs-get-healthier-every-hour-every-day-after-you-quit-smoking,h]::1;[https://www.everydayhealth.com/news/when-just-cough-actually-stage-iv-lung-cancer,p]::1;
+<nagahashi|[https://web.archive.org/web/20110824225528/http:/adage.com/article/digital/sen-rockefeller-ready-a-real-track-bill/227426,p]::1;[https://web.archive.org/web/20110427123350/http:/groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::1;[https://web.archive.org/web/20110427074406/http:/roy.gbiv.com/pubs/dissertation/evaluation.htm,p]::1;
+<nagerpublicsuffix|[https://publicsuffix.org/learn,p]::1;
+<nagle|[https://www.cancer.org/cancer/ovarian-cancer/causes-risks-prevention/risk-factors.html,p]::2;
+<nagusiak|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
+<nagłówka|[https://pl.wikipedia.org/wiki/HTTP_cookie,h]::1;[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<nagłówek|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<nagłówku|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<naglasiti|[https://sh.wikipedia.org/wiki/Cookie,p]::1;

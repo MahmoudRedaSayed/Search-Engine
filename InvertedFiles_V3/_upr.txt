@@ -1,0 +1,3 @@
+<upravljanje|[https://sh.wikipedia.org/wiki/Cookie,h]::1;
+<upraviť|[https://sk.wikipedia.org/wiki/HTTP_cookie,h]::11;
+<upravovať|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

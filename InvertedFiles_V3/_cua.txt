@@ -1,0 +1,2 @@
+<cuando|[https://www.sciencenewsforstudents.org,h]::1;[https://www.cancer.org/es,p]::1;
+<cual|[https://www.cancer.org/es,p]::1;

@@ -1,0 +1,2 @@
+<ikke|[https://da.wikipedia.org/wiki/Cookie,p]::7;[https://no.wikipedia.org/wiki/Informasjonskapsel,p]::2;
+<ikkje|[https://nn.wikipedia.org/wiki/Informasjonskapsel,p]::1;

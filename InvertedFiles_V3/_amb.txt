@@ -1,0 +1,11 @@
+<ambassador|[https://english.ahram.org.eg/,h]::1;[https://www.dailymail.co.uk,h]::1;[https://bezzy.com,p]::1;[https://www.canceradvocacy.org,h]::1;[https://ovarian.org,h]::1;[https://www.healthline.com/health-news,h]::1;[https://apps.apple.com/us/app/bezzy-ms/id1040195462,p]::1;[https://www.nytimes.com/2006/02/01/obituaries/coretta-scott-king-a-civil-rights-icon-dies-at-78.html,p]::1;[https://apps.apple.com/us/app/complete-medication-tracker/id1019069079,p]::3;
+<amber|[https://www.marca.com,h]::1;[https://www.medicalnewstoday.com,p]::2;
+<ambushed|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
+<ambassadors|[https://bezzy.com,p]::1;[https://www.cancerhopenetwork.org,h]::2;[https://www.canceradvocacy.org,h]::1;[https://apps.apple.com/us/app/complete-medication-tracker/id1019069079,p]::1;
+<ambitious|[http://www.archive-it.org,p]::1;[https://www.everydayhealth.com/cancer/biden-relaunches-cancer-moonshot-program-with-pledge-to-end-cancer-as-we-know-it,p]::1;[https://www.nytimes.com/2006/02/01/obituaries/coretta-scott-king-a-civil-rights-icon-dies-at-78.html,p]::2;[https://www.hearst.co.uk/solutions/experiential,p]::1;
+<ambitions|[http://www.archive-it.org,p]::2;[https://www.nytimes.com/2006/02/01/obituaries/coretta-scott-king-a-civil-rights-icon-dies-at-78.html,p]::1;
+<ambiguous|[https://developers.google.com/assistant/console/policies/general-policies,p]::1;[https://web.archive.org/web/20170316175133/https:/staff.washington.edu/fmf/2009/06/19/setting-cookies,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::3;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::3;[https://www.everydayhealth.com/ovarian-cancer/genetic-testing,p]::2;
+<ambehta|[https://www.tutorialspoint.com/effective_resume_writing.htm,p]::1;
+<ambiguity|[http://edbrowse.org/usersguide.html#cook,p]::2;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::2;[https://link.springer.com/10.1007/978-3-030-76663-4_3,p]::2;
+<ambiente|[https://24x7mag.com/professional-development/education/the-cookie-that-would-not-crumble,p]::1;[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<ambalo|[https://sw.wikipedia.org/wiki/Kuki,p]::1;

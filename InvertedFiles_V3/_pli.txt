@@ -1,0 +1,5 @@
+<plinabulin|[https://www.everydayhealth.com/cancer/fda-rejects-promising-new-drug-that-aims-to-prevent-low-white-blood-cell-counts-in-patients-receiving-chemotherapy,p]::9;[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
+<pling|[https://www.w3.org/P3P/Overview.html,h]::1;[https://www.w3.org/P3P/Overview.html,p]::1;
+<plia|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
+<plik|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<pliku|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::2;

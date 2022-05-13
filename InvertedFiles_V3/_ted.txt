@@ -1,0 +1,4 @@
+<ted|[https://blog.archive.org,p]::1;[http://www.archive-it.org,p]::1;[https://www.everydayhealth.com/ovarian-cancer/yoga-for-ovarian-cancer-poses-that-benefit-your-health-during-and-after-treatment,s]::1;[https://www.everydayhealth.com/ovarian-cancer/yoga-for-ovarian-cancer-poses-that-benefit-your-health-during-and-after-treatment,p]::1;
+<tedros|[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::3;[https://www.everydayhealth.com/infectious-diseases/coronavirus,p]::1;
+<tedious|[https://apps.apple.com/us/app/chemowave-cancer-health-diary/id1199851760,p]::1;
+<teda|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::4;

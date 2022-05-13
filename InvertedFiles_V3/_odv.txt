@@ -1,0 +1,2 @@
+<odvodený|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<odvolanie|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

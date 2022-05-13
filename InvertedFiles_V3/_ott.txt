@@ -1,0 +1,3 @@
+<otto|[https://www.loc.gov,h]::1;
+<ottenere|[https://www.hearst.it,p]::1;[https://it.wikipedia.org/wiki/Cookie,p]::5;
+<ottimizza|[https://it.wikipedia.org/wiki/Cookie,p]::1;

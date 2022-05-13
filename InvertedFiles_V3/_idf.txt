@@ -1,0 +1,3 @@
+<idf|[https://www.everydayhealth.com/type-2-diabetes/guide,s]::1;[https://www.everydayhealth.com/type-2-diabetes/guide,p]::1;
+<idfa|[https://en.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,s]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;[https://venturebeat.com/2014/10/06/the-cookie-is-dead-heres-how-facebook-google-and-apple-are-tracking-you-now,p]::1;[https://web.archive.org/web/20170724054647/https:/venturebeat.com/2014/10/06/the-cookie-is-dead-heres-how-facebook-google-and-apple-are-tracking-you-now,p]::1;[https://en.wikipedia.org/w/index.php?title=HTTP_cookie&oldid=1085989394,p]::1;
+<idfamodifier|[https://fr.wikipedia.org/wiki/Cookie_(informatique),h]::1;

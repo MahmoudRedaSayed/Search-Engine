@@ -1,0 +1,4 @@
+<duet|[https://english.ahram.org.eg/,h]::1;[https://english.ahram.org.eg/,p]::1;
+<duediligence|[https://www.wired.com/threatlevel/2011/03/comodo-compromise,p]::1;
+<duen|[https://eu.wikipedia.org/wiki/Cookie,p]::4;
+<duela|[https://eu.wikipedia.org/wiki/Cookie,p]::1;

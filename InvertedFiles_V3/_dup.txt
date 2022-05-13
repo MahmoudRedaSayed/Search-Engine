@@ -1,0 +1,5 @@
+<dup|[https://www.dailymail.co.uk,h]::1;
+<duplicates|[https://www.everydayhealth.com/cancer/guide,p]::1;[https://www.everydayhealth.com/symptom-checker,p]::1;[https://www.tutorialspoint.com/computer_glossary.htm,p]::1;[https://www.everydayhealth.com/cancer/living-with/how-keep-friendships-strong-while-being-treated-cancer,p]::1;[https://codelabs.developers.google.com/codelabs/appactions,p]::1;[https://twitter.com/privacy,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::2;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;[https://24x7mag.com/professional-development/education/the-cookie-that-would-not-crumble,p]::1;
+<duplicated|[https://web.archive.org/web/20180810220427/https:/www.bbc.co.uk/news/technology-12668552,p]::1;[https://24x7mag.com/professional-development/education/the-cookie-that-would-not-crumble,p]::1;[https://web.archive.org/web/20141015220910/https:/panopticlick.eff.org/browser-uniqueness.pdf,p]::1;
+<duplications|[https://www.cancer.gov/about-cancer/understanding/what-is-cancer,p]::1;
+<duperament|[https://lmo.wikipedia.org/wiki/Biscott_(Scenza_di_urdinaduur),p]::1;

@@ -1,0 +1,3 @@
+<ubiquinone|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
+<ubiquitous|[https://www.nytimes.com/2001/09/04/technology/04COOK.html,p]::1;[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,p]::2;[https://api.semanticscholar.org/CorpusID:210064317,p]::1;[https://dl.acm.org/doi/10.1145/3313831.3376321,p]::1;
+<ubiquitously|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,p]::1;

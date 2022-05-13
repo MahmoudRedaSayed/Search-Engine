@@ -1,0 +1,4 @@
+<whyvideo|[https://www.youtube.com/ads,p]::2;
+<why…|[https://www.healthline.com/program/sleep,p]::1;
+<whyteal|[https://www.everydayhealth.com/ovarian-cancer/awareness-month,p]::1;
+<whyovarian|[https://www.everydayhealth.com/ovarian-cancer/with-ovarian-cancer-early-detection-is-key-so-why-is-it-so-hard,p]::1;

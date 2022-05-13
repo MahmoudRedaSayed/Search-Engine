@@ -1,0 +1,14 @@
+<kates|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;[https://www.loc.gov,h]::1;[https://blog.archive.org,p]::1;[https://apps.apple.com/us/app/modulife/id1451478169,p]::1;
+<katharine|[https://www.medicalnewstoday.com,p]::1;
+<katie|[https://www.medicalnewstoday.com,p]::1;[https://www.cancercare.org,p]::1;
+<kathy|[https://bezzy.com,p]::1;[https://www.everydayhealth.com/cancer/celebrities-with-cancer-why-do-some-decide-to-go-public-and-others-dont,h]::1;[https://www.everydayhealth.com/cancer/celebrities-with-cancer-why-do-some-decide-to-go-public-and-others-dont,p]::1;[https://www.everydayhealth.com/ovarian-cancer/when-celebrities-get-ovarian-cancer.aspx,h]::2;[https://www.everydayhealth.com/ovarian-cancer/when-celebrities-get-ovarian-cancer.aspx,p]::2;
+<katrina|[https://www.everydayhealth.com/wellness/resilience,p]::1;
+<kathleen|[https://archive.org/about/bios.php,p]::1;
+<katz|[https://www.everydayhealth.com/womens-health/hormones/history-hormone-therapy,p]::1;
+<kato|[https://www.cancer.org/cancer/ovarian-cancer/detection-diagnosis-staging/how-diagnosed.html,p]::2;
+<kata|[https://id.wikipedia.org/wiki/Kuki,p]::2;[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::1;
+<katika|[https://sw.wikipedia.org/wiki/Kuki,p]::1;
+<katkad|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<kategórie|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<kategórií|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<kategórii|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

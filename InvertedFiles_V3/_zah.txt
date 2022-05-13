@@ -1,0 +1,6 @@
+<zahi|[https://english.ahram.org.eg/,p]::1;
+<zahra|[https://www.tutorialspoint.com/categories/business,p]::9;
+<zahtjeva|[https://sh.wikipedia.org/wiki/Cookie,p]::8;
+<zahtijeva|[https://sh.wikipedia.org/wiki/Cookie,p]::2;
+<zahtijevane|[https://sh.wikipedia.org/wiki/Cookie,p]::2;
+<zahtjevima|[https://sh.wikipedia.org/wiki/Cookie,p]::1;

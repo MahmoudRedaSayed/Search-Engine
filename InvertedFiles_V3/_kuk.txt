@@ -1,0 +1,8 @@
+<kukolaj|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
+<kuketoj|[https://eo.wikipedia.org/wiki/Kuketo,p]::4;
+<kuketaron|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
+<kuketon|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
+<kuketojn|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
+<kuki|[https://id.wikipedia.org/wiki/Kuki,t]::1;[https://id.wikipedia.org/wiki/Kuki,h]::1;[https://id.wikipedia.org/wiki/Kuki,p]::13;[https://sw.wikipedia.org/wiki/Kuki,t]::1;[https://sw.wikipedia.org/wiki/Kuki,h]::1;[https://sw.wikipedia.org/wiki/Kuki,p]::1;[https://ms.wikipedia.org/wiki/Kuki_HTTP,t]::1;[https://ms.wikipedia.org/wiki/Kuki_HTTP,h]::1;[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::13;
+<kukisunting|[https://id.wikipedia.org/wiki/Kuki,h]::1;
+<kukicecikut|[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::4;

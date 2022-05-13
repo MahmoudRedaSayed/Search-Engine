@@ -1,0 +1,3 @@
+<hver|[https://da.wikipedia.org/wiki/Cookie,p]::3;
+<hvert|[https://da.wikipedia.org/wiki/Cookie,p]::2;[https://is.wikipedia.org/wiki/Vafrakaka,p]::1;
+<hvem|[https://da.wikipedia.org/wiki/Cookie,p]::1;

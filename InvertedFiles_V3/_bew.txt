@@ -1,0 +1,5 @@
+<beware|[https://www.bbc.com/,h]::1;[https://web.archive.org/web/20170316175133/https:/staff.washington.edu/fmf/2009/06/19/setting-cookies,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;[https://support.apple.com,h]::1;
+<bewildering|[https://www.everydayhealth.com/fertility/in-vitro-fertilization-other-infertility-treatments,p]::1;
+<bewerken|[https://nl.wikipedia.org/wiki/Cookie_(internet),h]::8;
+<bewarken|[https://nds-nl.wikipedia.org/wiki/Koekien_(internet),h]::1;
+<bewaren|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;

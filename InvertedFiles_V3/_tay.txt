@@ -1,0 +1,4 @@
+<tayo|[https://www.dailymail.co.uk,p]::1;
+<tayyab|[https://www.tutorialspoint.com/categories/it_and_software,p]::1;
+<taylor|[https://www.everydayhealth.com/courses,h]::1;[http://www.archive-it.org,p]::1;[https://www.everydayhealth.com/ovarian-cancer/nutrition-for-ovarian-cancer-patients.aspx,p]::15;[https://www.nytimes.com/2006/02/01/obituaries/coretta-scott-king-a-civil-rights-icon-dies-at-78.html,p]::1;[https://www.everydayhealth.com/ovarian-cancer/myths-versus-facts,p]::11;[https://web.archive.org/web/20081223151145/http:/www.infoq.com/articles/rest-anti-patterns,s]::3;[http://www.infoq.com/articles/rest-anti-patterns,s]::3;[https://web.archive.org/web/20081223151145/http:/www.infoq.com/articles/rest-anti-patterns,p]::3;[http://www.infoq.com/articles/rest-anti-patterns,p]::6;
+<taylora|[https://www.everydayhealth.com/ovarian-cancer/myths-versus-facts,p]::1;

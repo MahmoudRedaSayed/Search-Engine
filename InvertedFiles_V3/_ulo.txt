@@ -1,0 +1,9 @@
+<uloží|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::2;[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<uložených|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<uložená|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<uložia|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::3;
+<uložené|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::4;
+<ulogiran|[https://sh.wikipedia.org/wiki/Cookie,p]::2;
+<ulogirati|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<uloženým|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<uložením|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

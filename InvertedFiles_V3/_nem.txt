@@ -1,0 +1,10 @@
+<nemusejí|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<nemůže|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<nemodificat|[https://ro.wikipedia.org/wiki/Cookie,p]::1;
+<nemodificate|[https://ro.wikipedia.org/wiki/Cookie,p]::1;
+<nemajú|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<nemusia|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<nemôže|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::3;
+<nemá|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<nemožnosti|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<nemuseli|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

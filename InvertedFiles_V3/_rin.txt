@@ -1,0 +1,13 @@
+<ringworm|[https://www.everydayhealth.com/psoriasis/guide,p]::1;[https://www.healthline.com/program/sexual-health-for-every-body,p]::1;[http://healthline.com/program/sexual-health-for-every-body#covid-19,p]::1;[http://healthline.com/program/sexual-health-for-every-body#identity,p]::1;[http://healthline.com/program/sexual-health-for-every-body#help,p]::1;[http://healthline.com/program/sexual-health-for-every-body#morning-after,p]::1;[https://www.everydayhealth.com/estrogen/guide,s]::1;[https://www.everydayhealth.com/progesterone/guide,p]::3;[https://www.everydayhealth.com/ct-scan/guide,p]::1;[https://www.everydayhealth.com/cancer/8-ways-fight-fatigue-chemotherapy-treatment,p]::1;[https://www.everydayhealth.com/sexual-health/birth-control,h]::1;[https://www.everydayhealth.com/sexual-health/birth-control,s]::2;[https://www.everydayhealth.com/sexual-health/birth-control,p]::1;[https://www.apple.com/us/shop/goto/buy_accessories,h]::3;
+<rinse|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::3;[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::2;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::3;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::2;
+<rinsing|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::2;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
+<rinseout|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
+<rings|[https://www.everydayhealth.com/sleep-disorders/sleep/sleep-101-ultimate-guide-on-how-get-better-nights-sleep,p]::1;[https://www.everydayhealth.com/progesterone/guide,h]::1;[https://www.everydayhealth.com/progesterone/guide,s]::1;[https://www.everydayhealth.com/progesterone/guide,p]::1;[https://www.everydayhealth.com/womens-health/hormones/history-hormone-therapy,p]::1;[https://www.everydayhealth.com/sexual-health/birth-control,p]::1;[https://www.apple.com/watch,p]::2;
+<ringing|[https://www.everydayhealth.com/symptom-checker,p]::1;
+<rinsed|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,p]::2;
+<ringly|[https://web.archive.org/web/20160729011727/http:/mrcoles.com/blog/cookies-max-age-vs-expires,p]::1;
+<rinvoq|[https://apps.apple.com/us/app/complete-medication-tracker/id1019069079,p]::9;
+<rintisan|[https://id.wikipedia.org/wiki/Kuki,p]::1;
+<rintracciabili|[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<rinuncia|[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<ringkasnya|[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::1;

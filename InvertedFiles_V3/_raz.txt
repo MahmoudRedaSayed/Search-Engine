@@ -1,0 +1,8 @@
+<razorpay|[https://www.tutorialspoint.com/business/index.asp,p]::1;[https://www.healthline.com/health/healthy-sex/sexual-guilt-purity-culture,p]::1;[http://go.microsoft.com/fwlink/?LinkId=403804,p]::1;
+<raza|[https://www.tutorialspoint.com/php/index.htm,p]::1;
+<razors|[https://www.healthline.com/health/healthy-sex/sexual-guilt-purity-culture,p]::1;
+<razılıq|[https://az.wikipedia.org/wiki/HTTP_Kuki,p]::1;
+<razem|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::3;
+<razloga|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<razlikuje|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<razina|[https://sh.wikipedia.org/wiki/Cookie,p]::1;

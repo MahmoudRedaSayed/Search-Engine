@@ -1,0 +1,2 @@
+<ephemeral|[https://archive.org/about,p]::2;[https://archive.org/about/bios.php,p]::3;[http://www.archive-it.org,p]::3;
+<ephimeral|[https://web.archive.org/web/20081223151145/http:/www.infoq.com/articles/rest-anti-patterns,p]::1;[http://www.infoq.com/articles/rest-anti-patterns,p]::1;

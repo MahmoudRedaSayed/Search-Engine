@@ -1,0 +1,15 @@
+<vance|[https://english.ahram.org.eg/,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;[https://www.tutorialspoint.com/python/index.htm,p]::2;[https://hearst.nl,p]::2;[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,h]::1;[https://www.everydayhealth.com/cancer/celebrities-with-cancer-why-do-some-decide-to-go-public-and-others-dont,p]::1;[http://www.thesecuritypractice.com/the_security_practice/2011/03/http-state-management-mechanism-to-proposed-standard.html,p]::1;[https://blog.mozilla.org/security/2021/01/26/supercookie-protections,p]::1;[https://www.theregister.com/2021/02/24/dns_cname_tracking,p]::1;[https://af.wikipedia.org/wiki/Koekie_(rekenaarwetenskap),p]::6;[https://nl.wikipedia.org/wiki/Cookie_(internet),h]::2;[https://nds-nl.wikipedia.org/wiki/Koekien_(internet),h]::1;[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::28;[https://nds-nl.wikipedia.org/wiki/Koekien_(internet),p]::1;
+<vanessa|[https://www.healthline.com/nutrition,p]::1;[https://www.everydayhealth.com/diet-and-nutrition/diet/mind-diet-can-this-diet-plan-help-reverse-alzheimers-disease,p]::1;[https://www.everydayhealth.com/diet-nutrition/atkins-diet.aspx,p]::1;
+<vanillin|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
+<vanity|[https://www.everydayhealth.com/wellness/healthy-skin,p]::1;[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,p]::1;
+<vanderbilt|[https://blog.archive.org,p]::1;
+<vantage|[https://blog.archive.org,p]::1;
+<vanilla|[https://www.healthline.com/program/sexual-health-for-every-body,p]::1;[http://healthline.com/program/sexual-health-for-every-body#covid-19,p]::1;[http://healthline.com/program/sexual-health-for-every-body#identity,p]::1;[http://healthline.com/program/sexual-health-for-every-body#help,p]::1;[http://healthline.com/program/sexual-health-for-every-body#morning-after,p]::1;
+<vann|[https://www.everydayhealth.com/diet-nutrition/the-dash-diet.aspx,p]::1;
+<vancouver|[http://www.archive-it.org,p]::1;
+<vandag|[https://af.wikipedia.org/wiki/Koekie_(rekenaarwetenskap),p]::1;
+<vantaggi|[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<vanwege|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;
+<vanaf|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::2;
+<vanuit|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::2;
+<vanguard|[https://www.hearst.co.uk/solutions/branded-content,p]::1;

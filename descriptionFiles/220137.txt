@@ -1,0 +1,4 @@
+the document property cookie lets
+  you read and write cookies associated
+  with the document. it serves as a getter and setter for the actual values of the
+  cookies.

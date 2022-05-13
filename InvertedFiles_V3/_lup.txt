@@ -1,0 +1,3 @@
+<lupus|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;[https://www.everydayhealth.com/progesterone/guide,p]::1;
+<lupulus|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
+<lupron|[https://www.everydayhealth.com/fertility/in-vitro-fertilization-other-infertility-treatments,p]::1;[https://www.cancer.org/cancer/ovarian-cancer/causes-risks-prevention/risk-factors.html,p]::1;

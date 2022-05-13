@@ -1,0 +1,4 @@
+<wentworth|[https://www.loc.gov,h]::1;
+<wendy|[https://blog.archive.org,p]::1;[https://archive.org/about/bios.php,p]::6;
+<wennie|[https://blog.mozilla.org/security/2021/01/26/supercookie-protections,p]::1;
+<wennier|[https://li.wikipedia.org/wiki/Cookie,p]::1;

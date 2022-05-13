@@ -1,0 +1,10 @@
+<aktibo|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
+<aktiboago|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
+<aktivitas|[https://id.wikipedia.org/wiki/Kuki,p]::1;
+<aktualesnius|[https://lt.wikipedia.org/wiki/Slapukas,p]::1;
+<aktivt|[https://no.wikipedia.org/wiki/Informasjonskapsel,p]::1;
+<aktuálnej|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<aktivnosti|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<aktivitu|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<aktuálnu|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<aktívne|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

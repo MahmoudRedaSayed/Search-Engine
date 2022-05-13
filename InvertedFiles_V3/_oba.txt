@@ -1,0 +1,5 @@
+<obama|[https://www.everydayhealth.com/wellness/resilience,p]::1;[https://www.everydayhealth.com/cancer/biden-relaunches-cancer-moonshot-program-with-pledge-to-end-cancer-as-we-know-it,p]::1;[https://web.archive.org/web/20110824225528/http:/adage.com/article/digital/sen-rockefeller-ready-a-real-track-bill/227426,p]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,s]::3;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::10;[https://thekingcenter.org/about-mrs-king,s]::1;[https://thekingcenter.org/about-mrs-king,p]::1;[https://www.youronlinechoices.eu,p]::1;[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<obadiah|[https://thekingcenter.org/about-mrs-king,p]::1;[https://www.nytimes.com/2006/02/01/obituaries/coretta-scott-king-a-civil-rights-icon-dies-at-78.html,p]::1;
+<obalena|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<obaviješten|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<obalená|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

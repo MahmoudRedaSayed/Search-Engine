@@ -1,0 +1,2 @@
+<ipmodifier|[https://fr.wikipedia.org/wiki/Cookie_(informatique),h]::1;
+<ipmodificare|[https://ro.wikipedia.org/wiki/Cookie,h]::1;

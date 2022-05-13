@@ -1,0 +1,4 @@
+<množství|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<množstvo|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<množné|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<mnohé|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

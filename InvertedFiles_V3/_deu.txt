@@ -1,0 +1,4 @@
+<deutscher|[http://www.archive-it.org,p]::1;[https://www.youtube.com/creators,p]::1;[https://blog.openlibrary.org,p]::1;
+<deutschen|[https://legal.twitter.com/imprint.html,p]::1;
+<deur|[https://af.wikipedia.org/wiki/Koekie_(rekenaarwetenskap),p]::3;
+<deux|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::2;

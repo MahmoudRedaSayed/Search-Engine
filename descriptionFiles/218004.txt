@@ -1,0 +1,1 @@
+compiler design tutorial,  a compiler translates the code written in one language to some other language without changing the meaning of the program. it is also expected that a compiler s

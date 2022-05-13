@@ -1,0 +1,3 @@
+<uverejnil|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<uvelike|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<uvedená|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

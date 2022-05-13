@@ -1,0 +1,2 @@
+<poate|[https://ro.wikipedia.org/wiki/Cookie,p]::4;
+<poată|[https://ro.wikipedia.org/wiki/Cookie,p]::1;

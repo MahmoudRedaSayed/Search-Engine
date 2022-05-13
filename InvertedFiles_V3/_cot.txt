@@ -1,0 +1,5 @@
+<cot|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
+<cotton|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::2;[https://www.everydayhealth.com/ovarian-cancer/can-essential-oils-benefit-women-with-ovarian-cancer,p]::1;[https://www.nytimes.com/2006/02/01/obituaries/coretta-scott-king-a-civil-rights-icon-dies-at-78.html,p]::1;
+<cotsworlds|[https://www.hearstmagazines.co.uk/holidays,p]::1;
+<cottonwood|[http://www.archive-it.org,p]::1;
+<cottreau|[https://www.cancer.org/cancer/ovarian-cancer/causes-risks-prevention/risk-factors.html,p]::1;

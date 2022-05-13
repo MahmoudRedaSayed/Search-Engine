@@ -1,0 +1,7 @@
+<nowdormant|[https://archive.org/details/software,p]::1;
+<nowadays|[https://www.tutorialspoint.com/html/index.htm,p]::1;[https://www.tutorialspoint.com/data_structures_algorithms/index.htm,p]::1;[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,p]::1;[https://venturebeat.com/2020/05/19/google-chrome-83,p]::1;[https://www.healthline.com/reviews,p]::1;
+<nowhusband|[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,p]::1;
+<nowncsa|[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::1;
+<nowpeter|[https://web.archive.org/web/20121115110013/http:/www.wired.co.uk/news/archive/2012-05/24/eu-cookie-law-moaning,p]::1;
+<nowthese|[https://venturebeat.com/2014/10/06/the-cookie-is-dead-heres-how-facebook-google-and-apple-are-tracking-you-now,p]::1;[https://web.archive.org/web/20170724054647/https:/venturebeat.com/2014/10/06/the-cookie-is-dead-heres-how-facebook-google-and-apple-are-tracking-you-now,p]::1;
+<nowoczesne|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;

@@ -1,0 +1,4 @@
+<ghetto|[https://english.ahram.org.eg/,p]::1;
+<ghebreyesus|[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;
+<ghedbreyesus|[https://www.everydayhealth.com/infectious-diseases/coronavirus,p]::1;
+<ghent|[http://www.archive-it.org,p]::2;

@@ -1,0 +1,2 @@
+<jps|[https://blog.archive.org,p]::1;
+<jpsm|[https://www.jpsmjournal.com/article/S0885-3924(07)00319-3/fulltext,h]::1;[https://www.jpsmjournal.com/article/S0885-3924(07)00319-3/fulltext,s]::1;[https://www.jpsmjournal.com/article/S0885-3924(07)00319-3/fulltext,p]::2;

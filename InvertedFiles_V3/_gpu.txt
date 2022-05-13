@@ -1,0 +1,1 @@
+<gpu|[https://www.apple.com/mac,p]::7;

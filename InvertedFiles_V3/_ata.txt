@@ -1,0 +1,7 @@
+<atazakar|[https://english.ahram.org.eg/,p]::1;
+<atarchiveorg|[https://blog.archive.org,p]::1;
+<atac|[https://www.tutorialspoint.com/angular4/index.htm,p]::2;[https://www.tutorialspoint.com/spring/index.htm,p]::4;[https://www.tutorialspoint.com/react_native/index.htm,p]::2;
+<atadstwittercomfor|[https://business.twitter.com/en/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo,p]::1;
+<atapple|[https://www.apple.com/iphone,h]::1;
+<atau|[https://id.wikipedia.org/wiki/Kuki,p]::6;[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::8;
+<atacuri|[https://ro.wikipedia.org/wiki/Cookie,p]::1;

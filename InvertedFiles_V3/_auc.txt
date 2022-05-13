@@ -1,0 +1,6 @@
+<aucklands|[https://www.dailymail.co.uk,p]::1;[http://www.archive-it.org,p]::1;
+<auction|[http://www.archive-it.org,p]::1;[https://www.healthline.com/health/healthy-sex/black-women-sexuality,p]::2;[https://www.propublica.org/article/zombie-cookie-the-tracking-cookie-that-you-cant-kill?token=PrSqc58cn7gW-eRA_isLN03ygBJN8E84,p]::2;
+<auch|[https://legal.twitter.com/imprint.html,p]::2;[https://de.wikipedia.org/wiki/HTTP-Cookie,p]::3;
+<auctions|[https://www.propublica.org/article/zombie-cookie-the-tracking-cookie-that-you-cant-kill?token=PrSqc58cn7gW-eRA_isLN03ygBJN8E84,p]::1;
+<auctiva|[https://web.archive.org/web/20090311132912/http:/www.google.com/support/chrome/bin/answer.py?answer=95582,h]::2;[https://web.archive.org/web/20090311132750/http:/www.google.com/support/chrome/bin/answer.py?answer=95626,h]::2;
+<auchbearbeiten|[https://de.wikipedia.org/wiki/HTTP-Cookie,h]::1;

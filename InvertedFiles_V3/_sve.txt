@@ -1,0 +1,3 @@
+<svekis|[https://www.tutorialspoint.com/developers_best_practices/index.htm,p]::2;
+<svetainė|[https://lt.wikipedia.org/wiki/Slapukas,p]::1;
+<svede|[https://sh.wikipedia.org/wiki/Cookie,p]::1;

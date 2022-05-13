@@ -1,0 +1,6 @@
+<hawass|[https://english.ahram.org.eg/,p]::1;
+<hawks|[https://www.dailymail.co.uk,p]::1;
+<hawaii|[https://archive.org/about/bios.php,p]::1;[http://www.archive-it.org,p]::3;[https://www.healthline.com/health/mental-health/discovering-gender-identity-in-isolation,p]::1;
+<hawaiian|[http://www.archive-it.org,p]::3;
+<hawaiʻi|[http://www.archive-it.org,p]::1;
+<hawaiians|[https://www.propublica.org/article/zombie-cookie-the-tracking-cookie-that-you-cant-kill?token=PrSqc58cn7gW-eRA_isLN03ygBJN8E84,h]::1;

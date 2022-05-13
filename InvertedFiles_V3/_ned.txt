@@ -1,0 +1,4 @@
+<ned|[https://www.fightcancer.org,p]::1;
+<nederlandse|[https://nl.wikipedia.org/wiki/Cookie_(internet),h]::1;[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::2;
+<nedá|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<nedalo|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

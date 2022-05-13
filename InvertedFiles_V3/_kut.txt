@@ -1,0 +1,3 @@
+<kutuvamia|[https://www.bbc.com/,p]::1;
+<kutimoj|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
+<kutime|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;

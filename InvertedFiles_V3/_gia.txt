@@ -1,0 +1,5 @@
+<giant|[https://www.bbc.com/,h]::1;[https://www.iflscience.com/,h]::1;[https://www.dailymail.co.uk,p]::1;[https://www.nytimes.com/2001/09/04/technology/04COOK.html,p]::1;[https://brave.com/ok-google,p]::1;[https://www.theregister.com/2021/02/24/dns_cname_tracking,p]::1;[https://web.archive.org/web/20110614022902/http:/news.cnet.com/8301-1009_3-20066419-83.html,p]::1;
+<giants|[https://www.bbc.com/,p]::1;[http://bits.blogs.nytimes.com/2010/09/17/a-loophole-big-enough-for-a-cookie-to-fit-through,p]::1;[https://web.archive.org/web/20130126032302/http:/bits.blogs.nytimes.com/2010/09/17/a-loophole-big-enough-for-a-cookie-to-fit-through,p]::1;
+<gias|[https://archive.org/about/bios.php,p]::1;
+<giannandrea|[https://en.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://en.wikipedia.org/w/index.php?title=HTTP_cookie&oldid=1085989394,p]::1;[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::1;
+<giamò|[https://lmo.wikipedia.org/wiki/Biscott_(Scenza_di_urdinaduur),p]::1;

@@ -1,0 +1,8 @@
+<soporta|[https://www.sciencenewsforstudents.org,h]::1;
+<sophia|[https://www.campdream.org/,s]::1;[https://www.campdream.org/,p]::1;
+<sophie|[https://archive.org/about/bios.php,p]::1;[http://edpl.lexxion.eu/article/EDPL/2017/3/9,p]::1;
+<sophisticated|[https://www.tutorialspoint.com/javascript/index.htm,p]::1;[https://www.tutorialspoint.com/computer_glossary.htm,p]::3;[https://www.bbc.co.uk/news/technology-12668552,p]::1;[https://web.archive.org/web/20180810220427/https:/www.bbc.co.uk/news/technology-12668552,p]::1;[https://www.apple.com/mac,p]::1;[https://web.archive.org/web/20081223151145/http:/www.infoq.com/articles/rest-anti-patterns,p]::1;[http://www.infoq.com/articles/rest-anti-patterns,p]::1;[http://bayou.io/draft/cookie.domain.html,p]::1;
+<sopranos|[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,p]::1;
+<sophomore|[https://www.everydayhealth.com/ovarian-cancer/with-ovarian-cancer-early-detection-is-key-so-why-is-it-so-hard,p]::1;
+<sophistication|[https://apps.apple.com/us/app/outcomes4me-breast-cancer-care/id1404382419,p]::1;
+<soprattutto|[https://it.wikipedia.org/wiki/Cookie,p]::1;

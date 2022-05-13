@@ -1,0 +1,2 @@
+<adces|[https://www.everydayhealth.com/type-2-diabetes/guide,s]::1;[https://www.everydayhealth.com/type-2-diabetes/guide,p]::2;
+<adchoices|[http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html,p]::1;[https://youradchoices.ca/en/tools,t]::1;[https://youradchoices.ca/en/tools,h]::1;

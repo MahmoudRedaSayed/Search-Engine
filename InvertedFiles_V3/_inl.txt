@@ -1,0 +1,8 @@
+<inline|[https://developers.google.com/assistant/app/slices,p]::1;[https://developers.google.com/assistant/interactivecanvas,p]::1;[https://codelabs.developers.google.com/codelabs/appactions,h]::1;[https://codelabs.developers.google.com/codelabs/appactions,s]::1;[https://codelabs.developers.google.com/codelabs/appactions,p]::6;[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::3;[https://web.archive.org/web/20150111024715/http:/msdn.microsoft.com/en-us/library/ms533007(v=vs.85).aspx,p]::1;
+<inlife|[https://www.inlife.co.uk/why-are-cookies-called-cookies,t]::1;[https://www.inlife.co.uk/why-are-cookies-called-cookies,h]::1;[https://www.inlife.co.uk/why-are-cookies-called-cookies,p]::3;
+<inlifedesign|[https://www.inlife.co.uk/why-are-cookies-called-cookies,h]::1;
+<inländischer|[https://legal.twitter.com/imprint.html,p]::2;
+<inlineimage|[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::2;
+<inligting|[https://af.wikipedia.org/wiki/Koekie_(rekenaarwetenskap),p]::1;
+<inlogformulier|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;
+<inledningsvis|[https://sv.wikipedia.org/wiki/Webbkaka,p]::1;

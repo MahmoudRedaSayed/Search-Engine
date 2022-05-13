@@ -1,0 +1,3 @@
+<een|[https://hearst.nl,h]::1;[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::39;
+<eenrichtingsverkeerssysteem|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;
+<eenmalig|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;

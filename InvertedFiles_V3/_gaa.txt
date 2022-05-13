@@ -1,0 +1,4 @@
+<gaap|[https://web.archive.org/web/20110926122412/http:/cyberlaw.stanford.edu/node/6715,p]::1;[http://cyberlaw.stanford.edu/node/6715,p]::1;
+<gaan|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;
+<gaat|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::2;
+<gaande|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;

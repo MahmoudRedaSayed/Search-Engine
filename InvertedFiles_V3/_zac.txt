@@ -1,0 +1,4 @@
+<zack|[https://www.hearstmagazines.co.uk/mens-health-squad-membership-subscription,s]::1;
+<zach|[https://www.tutorialspoint.com/blue_prism/index.htm,p]::2;[https://www.tutorialspoint.com/word/index.htm,p]::2;
+<zachowaniem|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<zachować|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;

@@ -1,0 +1,1 @@
+<dbms|[https://www.tutorialspoint.com/dbms/index.htm,h]::2;[https://www.tutorialspoint.com/dbms/index.htm,p]::19;[https://www.tutorialspoint.com/computer_science_tutorials.htm,p]::1;[https://www.tutorialspoint.com/microsoft_technologies_tutorials.htm,p]::1;[https://www.tutorialspoint.com/big_data_tutorials.htm,p]::1;[https://www.tutorialspoint.com/computer_glossary.htm,p]::1;

@@ -1,0 +1,5 @@
+<klanten|[https://hearst.nl,p]::1;[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;
+<klansmen|[https://thekingcenter.org/about-mrs-king,p]::1;
+<klantendatabase|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;
+<klartext|[https://sv.wikipedia.org/wiki/Webbkaka,p]::1;
+<klassificerats|[https://sv.wikipedia.org/wiki/Webbkaka,p]::1;

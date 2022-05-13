@@ -1,0 +1,5 @@
+<umožňuje|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<umožňovalo|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<umożliwia|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<umożliwić|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<umożliwiają|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::2;

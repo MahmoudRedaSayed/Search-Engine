@@ -1,0 +1,8 @@
+<adidas|[https://developers.google.com/assistant,p]::1;[https://www.hearstmagazines.co.uk,p]::2;[https://www.hearstmagazines.co.uk/home,p]::2;[https://www.hearstmagazines.co.uk/mens-health-magazine-subscription,s]::2;[https://www.hearstmagazines.co.uk/womens-health-magazine-subscription,s]::2;[https://venturebeat.com/2014/10/06/the-cookie-is-dead-heres-how-facebook-google-and-apple-are-tracking-you-now,p]::1;[https://web.archive.org/web/20170724054647/https:/venturebeat.com/2014/10/06/the-cookie-is-dead-heres-how-facebook-google-and-apple-are-tracking-you-now,p]::1;
+<adipic|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
+<adipateipdi|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;
+<adiabeticmedical|[https://www.everydayhealth.com/diet-nutrition/ketogenic-diet,p]::1;
+<adietis|[https://www.everydayhealth.com/diet-and-nutrition/diet/mind-diet-can-this-diet-plan-help-reverse-alzheimers-disease,p]::1;
+<aditya|[https://www.tutorialspoint.com/android/index.htm,p]::1;
+<adipiscing|[https://www.acco.org,p]::4;
+<adimpression|[https://www.hearst.co.uk/solutions/commerce,p]::1;

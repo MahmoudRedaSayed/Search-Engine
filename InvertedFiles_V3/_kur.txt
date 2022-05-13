@@ -1,0 +1,9 @@
+<kurla|[https://www.everydayhealthgroup.com,p]::1;
+<kurman|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,h]::1;
+<kurahashisofue|[https://brave.com/ok-google,p]::1;
+<kurzrock|[https://www.cancer.org/cancer/ovarian-cancer/detection-diagnosis-staging/how-diagnosed.html,p]::2;
+<kurta|[https://www.cancer.org/cancer/ovarian-cancer/causes-risks-prevention/risk-factors.html,p]::2;
+<kuris|[https://lt.wikipedia.org/wiki/Slapukas,p]::1;
+<kurį|[https://lt.wikipedia.org/wiki/Slapukas,p]::1;
+<kurios|[https://lt.wikipedia.org/wiki/Slapukas,p]::1;
+<kurasa|[https://sw.wikipedia.org/wiki/Kuki,p]::1;

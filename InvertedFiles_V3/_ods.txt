@@ -1,0 +1,7 @@
+<odstranit|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<odstrániť|[https://sk.wikipedia.org/wiki/HTTP_cookie,h]::1;[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::6;
+<odstránenia|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<odstraňujú|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<odstránenie|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<odstránení|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<odseku|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

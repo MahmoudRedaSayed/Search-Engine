@@ -1,0 +1,1 @@
+db2 tutorial,  this tutorial provides you the basic understanding of concepts of database, database installation and management. at the end of the tutorial you should be equip

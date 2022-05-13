@@ -1,0 +1,4 @@
+<egin|[https://eu.wikipedia.org/wiki/Cookie,p]::2;
+<egindako|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
+<egiten|[https://eu.wikipedia.org/wiki/Cookie,p]::2;
+<egingo|[https://eu.wikipedia.org/wiki/Cookie,p]::1;

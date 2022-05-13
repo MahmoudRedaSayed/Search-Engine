@@ -1,0 +1,9 @@
+<kansas|[https://www.iflscience.com/,p]::1;[http://www.archive-it.org,p]::10;[https://af.wikipedia.org/wiki/Koekie_(rekenaarwetenskap),p]::5;[https://da.wikipedia.org/wiki/Cookie,p]::16;[https://li.wikipedia.org/wiki/Cookie,p]::1;[https://nn.wikipedia.org/wiki/Informasjonskapsel,p]::3;[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::14;[https://no.wikipedia.org/wiki/Informasjonskapsel,p]::4;[https://nds-nl.wikipedia.org/wiki/Koekien_(internet),p]::3;[https://sv.wikipedia.org/wiki/Webbkaka,p]::12;
+<kanina|[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;
+<kansans|[http://www.archive-it.org,p]::1;
+<kangaroo|[http://edbrowse.org/usersguide.html#cook,p]::2;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;
+<kangaroos|[http://edbrowse.org/usersguide.html#cook,p]::4;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::3;
+<kangaroomail|[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;
+<kann|[https://de.wikipedia.org/wiki/HTTP-Cookie,p]::4;
+<kanpo|[https://eu.wikipedia.org/wiki/Cookie,h]::1;
+<kantor|[https://id.wikipedia.org/wiki/Kuki,p]::1;

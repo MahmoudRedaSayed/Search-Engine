@@ -1,0 +1,9 @@
+<abuse|[https://www.everydayhealth.com/depression/guide,p]::3;[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;[https://psychcentral.com,p]::1;[https://www.everydayhealth.com/emotional-health/index.aspx,p]::1;[https://www.everydayhealth.com/wellness/resilience,p]::2;[https://archive.org/about/bios.php,p]::1;[https://developers.google.com/assistant/console/policies/general-policies,p]::5;[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,p]::1;[https://www.youtube.com/about/policies,p]::1;[https://twitter.com/privacy,p]::3;[https://www.cancer.gov/about-cancer/treatment/side-effects/appetite-loss/nutrition-pdq#targetText=Good%2520nutrition%2520is%2520important%2520for,healthy%252C%2520and%2520to%2520replace%2520tissue.&targetText=Eating%2520the%2520right%2520kinds%2520of,feel%2520better%2520and%2520stay%2520stronger.,p]::1;[https://blog.mozilla.org/security/2021/01/26/supercookie-protections,p]::3;
+<abundant|[https://www.everydayhealth.com/depression/guide,p]::1;[https://www.everydayhealth.com/symptom-checker,p]::1;[https://wikimediafoundation.org,p]::1;
+<abundance|[https://blog.archive.org,p]::1;
+<abusefood|[https://www.everydayhealth.com/symptom-checker,p]::1;
+<abundantly|[https://www.everydayhealth.com/cancer-photos/top-foods-to-fight-cancer.aspx,s]::1;
+<abused|[https://www.netsparker.com/blog/web-security/same-site-cookie-attribute-prevent-cross-site-request-forgery,p]::1;[https://blog.mozilla.org/security/2021/01/26/supercookie-protections,p]::2;[https://developer.mozilla.org/en-US/docs/Web_Development/HTTP_cookies,p]::1;
+<abusing|[https://www.netsparker.com/blog/web-security/same-site-cookie-attribute-prevent-cross-site-request-forgery,p]::1;
+<abusive|[https://apps.apple.com/us/app/bezzy-ms/id1040195462,p]::1;[http://www.hearst.co.uk/terms-and-conditions,p]::1;
+<abuses|[https://www.theregister.com/2021/02/24/dns_cname_tracking,p]::1;

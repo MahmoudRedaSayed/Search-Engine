@@ -1,0 +1,144 @@
+[this browser is no longer supported., upgrade to microsoft edge to take advantage of the latest features, security updates, and technical support., feedback will be sent to microsoft: by pressing the submit button, your feedback will be used to improve microsoft products and services. privacy policy., thank you., by rick anderson, this tutorial shows you how to build an asp.net mvc 5 web app with two-factor authentication. you should complete create a secure asp.net mvc 5 web app with log in, email confirmation and password reset before proceeding. you can download the completed application here. the download contains debugging helpers that let you test email confirmation and sms without setting up an email or sms provider., this tutorial was written by rick anderson ( twitter: @rickandmsft )., , start by installing and running visual studio express 2013 for web or higher., note, warning: you should complete create a secure asp.net mvc 5 web app with log in, email confirmation and password reset before proceeding. you must install visual studio 2013 update 3 or higher to complete this tutorial., , this tutorial provides instructions for using either twilio or aspsms but you can use any other sms provider., creating a user account with an sms provider, create a twilio or an aspsms account., installing additional packages or adding service references, twilio: in the package manager console, enter the following command: install-package twilio, aspsms: the following service reference needs to be added:, , address: https://webservice.aspsms.com/aspsmsx2.asmx?wsdl, namespace: aspsmsx2, figuring out sms provider user credentials, twilio: from the dashboard tab of your twilio account, copy the account sid and auth token., aspsms: from your account settings, navigate to userkey and copy it together with your self-defined password., we will later store these values in the web.config file within the keys "smsaccountidentification" and "smsaccountpassword" ., specifying senderid / originator, twilio: from the numbers tab, copy your twilio phone number., aspsms: within the unlock originators menu, unlock one or more originators or choose an alphanumeric originator (not supported by all networks)., we will later store this value in the web.config file within the key "smsaccountfrom" ., transferring sms provider credentials into app, make the credentials and sender phone number available to the app. to keep things simple we will store these values in the web.config file. when we deploy to azure, we can store the values securely in the app settings section on the web site configure tab., warning, security - never store sensitive data in your source code. the account and credentials are added to the code above to keep the sample simple. see best practices for deploying passwords and other sensitive data to asp.net and azure., implementation of data transfer to sms provider, configure the smsservice class in the app_startidentityconfig.cs file., depending on the used sms provider activate either the twilio or the aspsms section:, update the viewsmanageindex.cshtml razor view: (note: don't just remove the comments in the exiting code, use the code below.), verify the enabletwofactorauthentication and disabletwofactorauthentication action methods in the managecontroller have the[validateantiforgerytoken] attribute:, run the app and log in with the account you previously registered., click on your user id, which activates the index action method in manage controller., click add., the addphonenumber action method displays a dialog box to enter a phone number that can receive sms messages., , in a few seconds you will get a text message with the verification code. enter it and press submit., the manage view shows your phone number was added., , in the template generated app, you need to use the ui to enable two-factor authentication (2fa). to enable 2fa, click on your user id (email alias) in the navigation bar., , click on enable 2fa., , logout, then log back in. if you've enabled email (see my previous tutorial), you can select the sms or email for 2fa., , the verify code page is displayed where you can enter the code (from sms or email)., , clicking on the remember this browser check box will exempt you from needing to use 2fa to log in when using the browser and device where you checked the box. as long as malicious users can't gain access to your device, enabling 2fa and clicking on the remember this browser will provide you with convenient one step password access, while still retaining strong 2fa protection for all access from non-trusted devices. you can do this on any private device you regularly use., this tutorial provides a quick introduction to enabling 2fa on a new asp.net mvc app. my tutorial two-factor authentication using sms and email with asp.net identity goes into detail on the code behind the sample., ][asp.net mvc 5 app with sms and email two-factor authentication, is this page helpful?, in this article, create an asp.net mvc app, set up sms for two-factor authentication, enable two-factor authentication, additional resources, in this article]asp.net mvc 5 app with sms and email two-factor authentication | microsoft docs[individual user accounts, creating a user account with an sms provider, installing additional packages or adding service references, figuring out sms provider user credentials, dashboard, account sid, auth token, userkey, password, specifying senderid / originator, numbers, unlock originators, transferring sms provider credentials into app, app settings, implementation of data transfer to sms provider, twilio, aspsms, submit, remember this browser, remember this browser][article, 04/18/2022, 6 minutes to read, 11 contributors, create an asp.net mvc app, set up sms for two-factor authentication, enable two-factor authentication, additional resources, create a new asp.net web project and select the mvc template. web forms also supports asp.net identity, so you could follow similar steps in a web forms app., leave the default authentication as individual user accounts. if you'd like to host the app in azure, leave the check box checked. later in the tutorial we will deploy to azure. you can open an azure account for free., set the project to use ssl., creating a user account with an sms provider create a twilio or an aspsms account., installing additional packages or adding service references twilio: in the package manager console, enter the following command: install-package twilio aspsms: the following service reference needs to be added: address: https://webservice.aspsms.com/aspsmsx2.asmx?wsdl namespace: aspsmsx2, figuring out sms provider user credentials twilio: from the dashboard tab of your twilio account, copy the account sid and auth token. aspsms: from your account settings, navigate to userkey and copy it together with your self-defined password. we will later store these values in the web.config file within the keys "smsaccountidentification" and "smsaccountpassword" ., specifying senderid / originator twilio: from the numbers tab, copy your twilio phone number. aspsms: within the unlock originators menu, unlock one or more originators or choose an alphanumeric originator (not supported by all networks). we will later store this value in the web.config file within the key "smsaccountfrom" ., transferring sms provider credentials into app make the credentials and sender phone number available to the app. to keep things simple we will store these values in the web.config file. when we deploy to azure, we can store the values securely in the app settings section on the web site configure tab. </connectionstrings>
+   <appsettings>
+      <add key="webpages:version" value="3.0.0.0" />
+      <!-- markup removed for clarity. -->
+      <!-- sendgrid-->
+      <add key="mailaccount" value="account" />
+      <add key="mailpassword" value="password" />
+      <add key="smsaccountidentification" value="my identification" />
+      <add key="smsaccountpassword" value="my password" />
+      <add key="smsaccountfrom" value="+12065551234" />
+   </appsettings>
+  <system.web>
+ warning security - never store sensitive data in your source code. the account and credentials are added to the code above to keep the sample simple. see best practices for deploying passwords and other sensitive data to asp.net and azure., implementation of data transfer to sms provider configure the smsservice class in the app_startidentityconfig.cs file. depending on the used sms provider activate either the twilio or the aspsms section: public class smsservice : iidentitymessageservice
+{
+    public task sendasync(identitymessage message)
+    {
+        // twilio begin
+        //var accountsid = configurationmanager.appsettings["smsaccountidentification"];
+        //var authtoken = configurationmanager.appsettings["smsaccountpassword"];
+        //var fromnumber = configurationmanager.appsettings["smsaccountfrom"];
+
+        //twilioclient.init(accountsid, authtoken);
+
+        //messageresource result = messageresource.create(
+            //new phonenumber(message.destination),
+            //from: new phonenumber(fromnumber),
+           //body: message.body
+        //);
+
+        ////status is one of queued, sending, sent, failed or null if the number is not valid
+         //trace.traceinformation(result.status.tostring());
+        ////twilio doesn't currently have an async api, so return success.
+         //return task.fromresult(0);    
+        // twilio end
+
+        // aspsms begin 
+        // var soapsms = new mvcpwx.aspsmsx2.aspsmsx2soapclient("aspsmsx2soap");
+        // soapsms.sendsimpletextsms(
+        //   system.configuration.configurationmanager.appsettings["smsaccountidentification"],
+        //   system.configuration.configurationmanager.appsettings["smsaccountpassword"],
+        //   message.destination,
+        //   system.configuration.configurationmanager.appsettings["smsaccountfrom"],
+        //   message.body);
+        // soapsms.close();
+        // return task.fromresult(0);
+        // aspsms end
+    }
+}, update the viewsmanageindex.cshtml razor view: (note: don't just remove the comments in the exiting code, use the code below.) @model mvcpwy.models.indexviewmodel
+@{
+   viewbag.title = "manage";
+}
+<h2>@viewbag.title.</h2>
+<p class="text-success">@viewbag.statusmessage</p>
+<div>
+   <h4>change your account settings</h4>
+   <hr />
+   <dl class="dl-horizontal">
+      <dt>password:</dt>
+      <dd>
+         [
+         @if (model.haspassword)
+         {
+            @html.actionlink("change your password", "changepassword")
+         }
+         else
+         {
+            @html.actionlink("create", "setpassword")
+         }
+         ]
+      </dd>
+      <dt>external logins:</dt>
+      <dd>
+         @model.logins.count [
+         @html.actionlink("manage", "managelogins") ]
+      </dd>
+        <dt>phone number:</dt>
+      <dd>
+         @(model.phonenumber ?? "none") [
+         @if (model.phonenumber != null)
+         {
+            @html.actionlink("change", "addphonenumber")
+            @: &nbsp;|&nbsp;
+            @html.actionlink("remove", "removephonenumber")
+         }
+         else
+         {
+            @html.actionlink("add", "addphonenumber")
+         }
+         ]
+      </dd>
+      <dt>two-factor authentication:</dt> 
+      <dd>
+         @if (model.twofactor)
+         {
+            using (html.beginform("disabletwofactorauthentication", "manage", formmethod.post, new { @class = "form-horizontal", role = "form" }))
+            {
+               @html.antiforgerytoken()
+               <text>enabled
+                  <input type="submit" value="disable" class="btn btn-link" />
+               </text>
+            }
+         }
+         else
+         {
+            using (html.beginform("enabletwofactorauthentication", "manage", formmethod.post, new { @class = "form-horizontal", role = "form" }))
+            {
+               @html.antiforgerytoken()
+               <text>disabled
+                  <input type="submit" value="enable" class="btn btn-link" />
+               </text>
+            }
+         }
+      </dd>
+   </dl>
+</div>, verify the enabletwofactorauthentication and disabletwofactorauthentication action methods in the managecontroller have the[validateantiforgerytoken] attribute: //
+// post: /manage/enabletwofactorauthentication
+[httppost,validateantiforgerytoken]
+public async task<actionresult> enabletwofactorauthentication()
+{
+    await usermanager.settwofactorenabledasync(user.identity.getuserid(), true);
+    var user = await usermanager.findbyidasync(user.identity.getuserid());
+    if (user != null)
+    {
+        await signinasync(user, ispersistent: false);
+    }
+    return redirecttoaction("index", "manage");
+}
+//
+// post: /manage/disabletwofactorauthentication
+[httppost, validateantiforgerytoken]
+public async task<actionresult> disabletwofactorauthentication()
+{
+    await usermanager.settwofactorenabledasync(user.identity.getuserid(), false);
+    var user = await usermanager.findbyidasync(user.identity.getuserid());
+    if (user != null)
+    {
+        await signinasync(user, ispersistent: false);
+    }
+    return redirecttoaction("index", "manage");
+}, run the app and log in with the account you previously registered., click on your user id, which activates the index action method in manage controller., click add., the addphonenumber action method displays a dialog box to enter a phone number that can receive sms messages. // get: /account/addphonenumber
+public actionresult addphonenumber()
+{
+   return view();
+}, in a few seconds you will get a text message with the verification code. enter it and press submit., the manage view shows your phone number was added., two-factor authentication using sms and email with asp.net identity goes into detail on two-factor authentication, links to asp.net identity recommended resources, account confirmation and password recovery with asp.net identity goes into more detail on password recovery and account confirmation., mvc 5 app with facebook, twitter, linkedin and google oauth2 sign-on this tutorial shows you how to write an asp.net mvc 5 app with facebook and google oauth 2 authorization. it also shows how to add additional data to the identity database., deploy a secure asp.net mvc app with membership, oauth, and sql database to azure web. this tutorial adds azure deployment, how to secure your app with roles, how to use the membership api to add users and roles, and additional security features., creating a google app for oauth 2 and connecting the app to the project, creating the app in facebook and connecting the app to the project, setting up ssl in the project, how to set up your c# and asp.net mvc development environment, light, dark, high contrast, , previous version docs, blog, contribute, privacy & cookies, terms of use, trademarks, © microsoft 2022, light, dark, high contrast, , previous version docs, blog, contribute, privacy & cookies, terms of use, trademarks, © microsoft 2022]

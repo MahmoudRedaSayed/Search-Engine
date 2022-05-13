@@ -1,0 +1,4 @@
+<ries|[https://www.medicalnewstoday.com,p]::1;
+<riesgo|[https://www.healthline.com/type-2-diabetes,p]::1;[https://www.cancer.org/es,p]::1;
+<rientrano|[https://it.wikipedia.org/wiki/Cookie,p]::3;
+<riescono|[https://it.wikipedia.org/wiki/Cookie,p]::1;

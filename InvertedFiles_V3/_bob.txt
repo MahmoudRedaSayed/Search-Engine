@@ -1,0 +1,4 @@
+<bobbi|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,h]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,s]::1;[https://www.tutorialspoint.com/computer_whoiswho.htm,h]::1;[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::2;[https://en.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://en.wikipedia.org/w/index.php?title=HTTP_cookie&oldid=1085989394,p]::1;[https://it.wikipedia.org/wiki/Cookie,p]::5;
+<bobs|[https://en.wikipedia.org/wiki/HTTP_cookie,p]::4;[https://en.wikipedia.org/w/index.php?title=HTTP_cookie&oldid=1085989394,p]::4;
+<bobstyle|[https://www.everydayhealth.com/cancer/celebrities-with-cancer-why-do-some-decide-to-go-public-and-others-dont,p]::1;
+<bobek|[https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62017CC0040,p]::1;

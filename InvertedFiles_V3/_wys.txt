@@ -1,0 +1,8 @@
+<wysiwyg|[https://www.tutorialspoint.com/computer_glossary.htm,h]::1;
+<wysig|[https://af.wikipedia.org/wiki/Koekie_(rekenaarwetenskap),h]::2;
+<wysyła|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<wysłane|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<wysyłane|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::3;
+<wysyłanie|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<wysłać|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<wysłany|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;

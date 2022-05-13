@@ -1,0 +1,5 @@
+<sms|[https://developers.google.com/assistant/console/policies/general-policies,p]::1;[https://twitter.com/tos,p]::2;[http://go.microsoft.com/fwlink/?LinkId=403804,t]::1;[http://go.microsoft.com/fwlink/?LinkId=403804,h]::2;[http://go.microsoft.com/fwlink/?LinkId=403804,s]::4;[http://go.microsoft.com/fwlink/?LinkId=403804,p]::12;
+<smsaccountidentification|[http://go.microsoft.com/fwlink/?LinkId=403804,p]::1;
+<smsaccountpassword|[http://go.microsoft.com/fwlink/?LinkId=403804,p]::1;
+<smsaccountfrom|[http://go.microsoft.com/fwlink/?LinkId=403804,p]::1;
+<smsservice|[http://go.microsoft.com/fwlink/?LinkId=403804,p]::1;

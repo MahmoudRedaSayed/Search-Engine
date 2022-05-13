@@ -1,0 +1,2 @@
+<puffy|[https://www.dailymail.co.uk,p]::1;[https://www.healthline.com/program/life-beyond-the-changing-table,p]::1;
+<puffybelly|[https://www.everydayhealth.com/digestive-health/10-ways-get-rid-bloating,p]::1;

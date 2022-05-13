@@ -1,0 +1,3 @@
+<ego|[https://www.nytimes.com/2006/02/01/obituaries/coretta-scott-king-a-civil-rights-icon-dies-at-78.html,p]::1;
+<egongo|[https://eu.wikipedia.org/wiki/Cookie,p]::2;
+<egoera|[https://eu.wikipedia.org/wiki/Cookie,p]::1;

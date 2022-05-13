@@ -1,0 +1,12 @@
+<ourorder|[https://www.hearstmagazines.co.uk/faq,p]::1;[http://www.hearst.co.uk/cookies-policy,p]::1;
+<oureuus|[https://twitter.com/privacy,p]::1;
+<ouriconicbrands|[https://www.hearst.co.uk/newsletter,p]::1;
+<ourcontact|[https://www.everydayhealth.com/editorial-policies,p]::1;
+<ourdsar|[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,s]::2;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::6;
+<ourcookie|[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,s]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::2;
+<ourterms|[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,s]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;
+<ourorwe|[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;
+<oureditorial|[https://www.everydayhealthgroup.com,p]::1;
+<ourguidelines|[https://www.apple.com/ios/app-store,p]::1;
+<ourcookies|[https://ico.org.uk/for-organisations/guide-to-pecr/cookies-and-similar-technologies,p]::1;
+<ourhearst|[https://www.hearst.co.uk/solutions/branded-content,p]::1;

@@ -1,0 +1,5 @@
+<cetearyl|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::2;[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::7;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::2;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;[https://fr.wikipedia.org/wiki/Cookie_(informatique),s]::1;[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::2;
+<cetyl|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::2;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::2;[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::3;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::3;
+<cetylpyridinium|[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;
+<cetrimonium|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
+<cetere|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;

@@ -1,0 +1,6 @@
+<tidal|[https://nautil.us,h]::1;[https://da.wikipedia.org/wiki/Cookie,p]::1;[https://sv.wikipedia.org/wiki/Webbkaka,p]::1;
+<tidligere|[https://da.wikipedia.org/wiki/Cookie,p]::1;
+<tidak|[https://id.wikipedia.org/wiki/Kuki,p]::1;[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::2;
+<tidlegare|[https://nn.wikipedia.org/wiki/Informasjonskapsel,p]::1;
+<tidigare|[https://sv.wikipedia.org/wiki/Webbkaka,p]::2;
+<tidpunkt|[https://sv.wikipedia.org/wiki/Webbkaka,p]::1;

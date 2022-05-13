@@ -1,0 +1,2 @@
+<lccollate|[http://edbrowse.org/usersguide.html#cook,p]::2;
+<lccollatec|[http://edbrowse.org/usersguide.html#cook,p]::1;

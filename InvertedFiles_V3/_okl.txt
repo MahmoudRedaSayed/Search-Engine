@@ -1,0 +1,2 @@
+<oklahoma|[https://www.loc.gov,h]::1;[http://www.archive-it.org,p]::4;[https://www.healthline.com/health/healthy-sex/black-women-sexuality,p]::1;
+<oklahomas|[http://www.archive-it.org,p]::1;

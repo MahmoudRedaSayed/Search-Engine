@@ -1,0 +1,7 @@
+<kienast|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::2;
+<kiecoltglaser|[https://www.everydayhealth.com/stress/guide,h]::1;
+<kiel|[https://www.w3.org/P3P/Overview.html,p]::1;[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
+<kietąjį|[https://lt.wikipedia.org/wiki/Slapukas,p]::1;
+<kiekvieną|[https://lt.wikipedia.org/wiki/Slapukas,p]::2;
+<kier|[https://li.wikipedia.org/wiki/Cookie,p]::1;
+<kiedy|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;

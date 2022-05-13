@@ -1,0 +1,2 @@
+<nejsou|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<nejakej|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

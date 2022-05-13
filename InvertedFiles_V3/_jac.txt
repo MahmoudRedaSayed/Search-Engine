@@ -1,0 +1,11 @@
+<jack|[https://www.bbc.com/,h]::1;[https://www.loc.gov,h]::1;[https://www.tutorialspoint.com/categories/marketing,p]::2;[https://www.everydayhealth.com/sleep-disorders/sleep/sleep-101-ultimate-guide-on-how-get-better-nights-sleep,p]::1;[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::1;[https://web.archive.org/web/20081223151145/http:/www.infoq.com/articles/rest-anti-patterns,s]::3;[http://www.infoq.com/articles/rest-anti-patterns,s]::3;[https://web.archive.org/web/20081223151145/http:/www.infoq.com/articles/rest-anti-patterns,p]::3;[http://www.infoq.com/articles/rest-anti-patterns,p]::6;
+<jackets|[https://www.hearstmagazines.co.uk,p]::1;[https://www.hearstmagazines.co.uk/home,p]::1;
+<jacuzzis|[https://www.everydayhealth.com/psoriasis/guide,p]::1;
+<jackfruit|[https://www.everydayhealth.com/mediterranean-diet/guide,h]::1;
+<jacqui|[https://www.everydayhealth.com/courses,h]::1;
+<jacob|[http://www.archive-it.org,p]::2;[https://www.wired.com/threatlevel/2011/03/comodo-compromise,p]::1;
+<jaclyn|[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,h]::1;[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,p]::1;
+<jackie|[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,p]::1;
+<jackman|[https://www.everydayhealth.com/cancer/celebrities-with-cancer-why-do-some-decide-to-go-public-and-others-dont,h]::2;
+<jacksonville|[https://www.everydayhealth.com/womens-health/which-iud-is-right-for-you,p]::1;
+<jacqueline|[https://www.nytimes.com/2006/02/01/obituaries/coretta-scott-king-a-civil-rights-icon-dies-at-78.html,p]::1;

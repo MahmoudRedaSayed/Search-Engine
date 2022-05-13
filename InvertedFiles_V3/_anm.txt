@@ -1,0 +1,1 @@
+<anmelden|[https://console.actions.google.com?hl=de,t]::1;[https://console.actions.google.com?hl=de,h]::2;[https://console.actions.google.com?hl=de,p]::1;

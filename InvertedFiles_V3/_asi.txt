@@ -1,0 +1,14 @@
+<asia|[https://www.france24.com,p]::1;[https://archive.org/details/texts,p]::1;[https://archive.org/about/bios.php,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus,p]::1;[http://www.archive-it.org,p]::1;[https://canceratlas.cancer.org,p]::1;[https://thekingcenter.org/about-mrs-king,p]::1;[https://www.apple.com/choose-country-region,h]::1;[http://www.adobe.com/support/documentation/en/flashplayer/help/settings_manager07.html,p]::1;[http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html,p]::1;
+<asian|[https://www.loc.gov,h]::1;[https://www.loc.gov,p]::1;[https://www.everydayhealth.com/eczema/guide,p]::1;[https://www.everydayhealth.com/psoriasis/guide,p]::2;[https://archive.org/about/bios.php,p]::1;[https://web.archive.org/web/20051001113951/http:/www.microsoft.com/windows/IE/community/columns/historyofie.mspx,p]::1;[http://www.microsoft.com/en/us/default.aspx?redir=true,h]::1;[http://www.microsoft.com/en/us/default.aspx?redir=true,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::3;[https://www.everydayhealth.com/yoga,p]::1;[https://www.everydayhealth.com/ovarian-cancer/common-questions-about-ovarian-cancer-answered,p]::1;
+<asintertriginouspsoriasisinverse|[https://www.everydayhealth.com/psoriasis/guide,p]::1;
+<asians|[https://www.everydayhealth.com/psoriasis/guide,p]::2;
+<asimovs|[https://archive.org/about/bios.php,p]::1;
+<asiacentered|[http://www.archive-it.org,p]::1;
+<asianpacific|[https://seer.cancer.gov/statfacts/html/all.html,s]::4;[https://seer.cancer.gov/statfacts/html/all.html,p]::1;[https://seer.cancer.gov/statfacts/html/ovary.html,s]::4;
+<asis|[https://archive.org/about/terms.php,p]::1;[https://twitter.com/tos,h]::1;[http://edbrowse.org/usersguide.html#cook,p]::2;[https://web.archive.org/web/20170316175133/https:/staff.washington.edu/fmf/2009/06/19/setting-cookies,p]::1;
+<asignis|[https://www.everydayhealth.com/cancer/guide/cancer-symptoms,p]::1;
+<asiapacific|[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;
+<asianamerican|[https://www.healthline.com/program/deep-breaths-with-asthma,p]::1;
+<asili|[https://sw.wikipedia.org/wiki/Kuki,p]::1;
+<asigură|[https://ro.wikipedia.org/wiki/Cookie,p]::1;
+<asistencia|[https://www.cancer.org/es,p]::2;

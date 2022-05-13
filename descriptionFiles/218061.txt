@@ -1,0 +1,1 @@
+sql tutorial,  sql is a database computer language designed for the retrieval and management of data in a relational database. sql stands for structured query language. this t

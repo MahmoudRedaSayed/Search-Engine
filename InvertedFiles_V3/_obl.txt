@@ -1,0 +1,4 @@
+<obligations|[http://www.hearst.co.uk/privacy-notice,s]::2;[https://developers.google.com/assistant/console/policies/general-policies,p]::2;[https://www.ipso.co.uk/editors-code-of-practice,p]::1;[https://twitter.com/tos,p]::3;[https://twitter.com/privacy,p]::2;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,h]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::7;[https://link.springer.com/10.1007/978-3-030-76663-4_3,p]::5;[https://api.semanticscholar.org/CorpusID:233231428,p]::1;
+<obligated|[https://www.nytimes.com/2001/09/04/technology/04COOK.html,p]::1;[https://www.everydayhealth.com/cancer/everyday-healths-hereditary-cancer-risk-twitter-chat-heres-what-you-missed,p]::1;
+<obliges|[https://link.springer.com/10.1007/978-3-030-76663-4_3,p]::1;
+<oblátka|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

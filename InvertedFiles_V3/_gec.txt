@@ -1,0 +1,1 @@
+<gecko|[https://developer.mozilla.org/en-US/docs/DOM/document.cookie,p]::1;

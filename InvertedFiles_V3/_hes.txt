@@ -1,0 +1,9 @@
+<hesitate|[https://www.w3schools.com/html/default.asp,p]::1;[https://www.dailyom.com,p]::1;[https://www.cancer.org/cancer/ovarian-cancer/treating.html,p]::1;[https://www.mayoclinic.org/diseases-conditions/ovarian-cancer/diagnosis-treatment/drc-20375946,p]::1;[https://www.nytimes.com/2006/02/01/obituaries/coretta-scott-king-a-civil-rights-icon-dies-at-78.html,p]::1;[https://apps.apple.com/us/app/livingwith-cancer-support/id1223073769,p]::3;
+<heshe|[https://www.tutorialspoint.com/artificial_intelligence_with_python/index.htm,p]::1;[https://www.tutorialspoint.com/machine_learning_with_python/index.htm,p]::1;
+<hesburgh|[http://www.archive-it.org,p]::1;
+<hesitation|[https://www.healthline.com/health/mental-health/discovering-gender-identity-in-isolation,p]::1;
+<hesitance|[https://www.everydayhealth.com/cancer/celebrities-with-cancer-why-do-some-decide-to-go-public-and-others-dont,p]::1;
+<hesitant|[https://apps.apple.com/us/app/bezzy-ms/id1040195462,p]::1;
+<hesabla|[https://az.wikipedia.org/wiki/HTTP_Kuki,p]::1;
+<heslá|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<heslo|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::2;

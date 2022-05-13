@@ -1,0 +1,16 @@
+<adenocarcinomas|[https://www.everydayhealth.com/cancer/guide,s]::1;[https://www.everydayhealth.com/lung-cancer/living-with/your-lungs-get-healthier-every-hour-every-day-after-you-quit-smoking,s]::1;[https://www.everydayhealth.com/cancer/living-with/how-keep-friendships-strong-while-being-treated-cancer,s]::1;[https://www.cancer.gov/about-cancer/understanding/what-is-cancer,p]::2;[https://www.everydayhealth.com/cervical-cancer/guide,p]::1;[https://www.everydayhealth.com/colon-cancer,p]::2;[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,p]::1;[https://www.everydayhealth.com/cancer/guide/after-cancer-diagnosis-comes-staging,p]::1;
+<adequate|[https://www.everydayhealth.com/flu/guide,p]::1;[https://www.everydayhealth.com/dehydration/hydration-calculator,p]::2;[https://www.everydayhealth.com/heart-health/fda-approves-camzyos-for-the-treatment-of-obstructive-hypertrophic-cardiomyopathy,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;[https://www.ipso.co.uk/editors-code-of-practice,p]::1;[https://twitter.com/privacy,p]::1;[https://www.everydayhealth.com/cancer/everyday-healths-hereditary-cancer-risk-twitter-chat-heres-what-you-missed,p]::1;[https://www.everydayhealth.com/cancer/cancer-news-digest-latest-developments-in-cancer-research-and-treatment-for-june,p]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,s]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::2;[https://www.everydayhealth.com/ovarian-cancer/nutrition-for-ovarian-cancer-patients.aspx,p]::1;[https://www.everydayhealth.com/menopause/health-risks-women-face-after-menopause,p]::1;[https://www.everydayhealth.com/breast-cancer/empowering-breast-and-gynecological-podcasts-hosted-by-survivors,p]::1;[https://ico.org.uk/for-organisations/guide-to-pecr/cookies-and-similar-technologies,p]::1;[https://link.springer.com/10.1007/978-3-030-76663-4_3,p]::1;
+<adenosine|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;
+<adeles|[https://www.everydayhealth.com/diet-and-nutrition/diet/mind-diet-can-this-diet-plan-help-reverse-alzheimers-disease,h]::1;
+<adelaide|[http://www.archive-it.org,p]::3;
+<adenomatous|[https://www.cancer.org/cancer/cancer-causes/genetics/family-cancer-syndromes.html,p]::1;
+<además|[http://www.hearst.es,p]::1;
+<adequacy|[https://twitter.com/privacy,p]::1;
+<adenovirus|[https://www.everydayhealth.com/constipation/guide,h]::1;[https://www.healthline.com/health-news,h]::1;
+<adelson|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,p]::1;
+<adelbert|[https://www.everydayhealth.com/womens-health/hormones/history-hormone-therapy,p]::1;
+<adenomyosis|[https://www.everydayhealth.com/hysterectomy/guide,h]::1;[https://www.everydayhealth.com/hysterectomy/guide,p]::2;
+<adenoviruses|[https://www.healthline.com/health-news,p]::1;
+<adequately|[https://www.theregister.com/2021/02/24/dns_cname_tracking,p]::1;
+<adeguarsi|[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<adempimento|[https://it.wikipedia.org/wiki/Cookie,p]::1;

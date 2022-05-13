@@ -1,0 +1,2 @@
+<dvdroms|[https://archive.org/details/software,p]::1;[https://www.tutorialspoint.com/computer_glossary.htm,h]::1;[https://ovarian.org,p]::1;
+<dvds|[https://www.tutorialspoint.com/computer_glossary.htm,p]::1;[https://www.everydayhealth.com/yoga,p]::1;

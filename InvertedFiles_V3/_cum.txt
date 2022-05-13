@@ -1,0 +1,7 @@
+<cum|[https://archive.org/about/bios.php,p]::1;[https://ro.wikipedia.org/wiki/Cookie,p]::3;
+<cumbersome|[https://www.tutorialspoint.com/compiler_design/index.htm,p]::1;[https://web.archive.org/web/20170316175133/https:/staff.washington.edu/fmf/2009/06/19/setting-cookies,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;[https://link.springer.com/10.1007/978-3-030-76663-4_3,p]::1;
+<cummings|[http://www.archive-it.org,p]::1;
+<cumin|[https://www.everydayhealth.com/cancer-photos/top-foods-to-fight-cancer.aspx,p]::1;
+<cumulative|[https://www.everydayhealth.com/breast-cancer/living-with/on-chemo-brain-dropped-words,p]::1;[https://www.everydayhealth.com/progesterone/guide,p]::1;
+<cumberland|[https://twitter.com/privacy,p]::1;[https://twitter.com/tos,p]::1;[https://legal.twitter.com/imprint.html,p]::1;
+<cumpărături|[https://ro.wikipedia.org/wiki/Cookie,h]::1;[https://ro.wikipedia.org/wiki/Cookie,p]::4;

@@ -1,0 +1,2 @@
+<vouchers|[https://www.hearstmagazines.co.uk/faq,p]::5;[https://www.everydayhealth.com/healthy-living/consumers-guide-drug-discounts,p]::2;[https://www.everydayhealth.com/breast-cancer/empowering-breast-and-gynecological-podcasts-hosted-by-survivors,p]::1;
+<vous|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::2;

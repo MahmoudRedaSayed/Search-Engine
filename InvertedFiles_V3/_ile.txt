@@ -1,0 +1,3 @@
+<ileocolitis|[https://www.everydayhealth.com/crohns-disease/guide,s]::1;
+<ileitis|[https://www.everydayhealth.com/crohns-disease/guide,s]::1;[https://www.everydayhealth.com/crohns-disease/guide,p]::1;
+<ileum|[https://www.everydayhealth.com/crohns-disease/guide,p]::1;

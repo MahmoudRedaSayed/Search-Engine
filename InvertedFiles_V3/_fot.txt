@@ -1,0 +1,2 @@
+<fotos|[https://www.marca.com,h]::2;[https://www.marca.com,p]::1;[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<fotogramas|[http://www.hearst.es,h]::1;

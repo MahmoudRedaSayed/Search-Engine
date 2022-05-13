@@ -1,0 +1,10 @@
+<kraus|[https://www.everydayhealth.com/diet-nutrition/atkins-diet.aspx,p]::3;
+<krapcho|[https://www.cancer.org/cancer/ovarian-cancer/about/key-statistics.html,p]::2;
+<krakker|[https://da.wikipedia.org/wiki/Cookie,p]::1;
+<kraft|[https://no.wikipedia.org/wiki/Informasjonskapsel,p]::1;
+<krav|[https://no.wikipedia.org/wiki/Informasjonskapsel,p]::1;
+<kracht|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;
+<krađu|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<krađe|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<krađa|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<kratkog|[https://sh.wikipedia.org/wiki/Cookie,p]::1;

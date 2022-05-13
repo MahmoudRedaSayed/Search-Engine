@@ -1,0 +1,9 @@
+<otherstds|[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::2;
+<othersupplements|[https://www.everydayhealth.com/infectious-diseases/coronavirus,p]::1;
+<otherpharmacies|[https://www.everydayhealth.com/healthy-living/consumers-guide-drug-discounts,p]::1;
+<othersclick|[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;
+<others—|[https://tobaccoatlas.org,p]::1;
+<othersresearchers|[https://www.everydayhealth.com/ovarian-cancer/risk-factors,p]::1;
+<other…|[https://www.healthline.com/parenthood/health-well-being,p]::1;[https://www.healthline.com/reviews,p]::1;
+<otherapps|[https://www.apple.com/ios/app-store,h]::1;
+<otherwise—if|[http://mrcoles.com/blog/cookies-max-age-vs-expires,p]::1;[https://web.archive.org/web/20160729011727/http:/mrcoles.com/blog/cookies-max-age-vs-expires,p]::1;

@@ -1,0 +1,2 @@
+<omnibox|[https://brave.com/ok-google,p]::1;
+<omnitureoptout|[https://el.wikipedia.org/wiki/HTTP_cookies,p]::1;

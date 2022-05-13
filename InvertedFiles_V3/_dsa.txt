@@ -1,0 +1,2 @@
+<dsar|[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,s]::6;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::2;[https://dsar.everydayhealth.com,p]::1;
+<dsareverydayhealthcom|[https://www.everydayhealth.com/ccpa-privacy-policy,p]::1;

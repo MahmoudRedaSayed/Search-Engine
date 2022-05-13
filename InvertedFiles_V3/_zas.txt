@@ -1,0 +1,4 @@
+<zastosowanieedytuj|[https://pl.wikipedia.org/wiki/HTTP_cookie,h]::1;[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<zaszyfrowanej|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<zasad|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<zasiela|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

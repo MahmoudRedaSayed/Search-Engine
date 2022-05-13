@@ -1,0 +1,4 @@
+<cavaco|[https://www.medicalnewstoday.com,p]::1;
+<caveman|[https://www.everydayhealth.com/diet-nutrition/the-paleo-diet.aspx,h]::2;[https://www.everydayhealth.com/diet-nutrition/the-paleo-diet.aspx,p]::3;
+<caveats|[https://www.everydayhealth.com/mediterranean-diet/guide,p]::1;[https://web.archive.org/web/20081223151145/http:/www.infoq.com/articles/rest-anti-patterns,p]::1;[http://www.infoq.com/articles/rest-anti-patterns,p]::1;[https://developer.mozilla.org/en-US/docs/Web_Development/HTTP_cookies,p]::1;
+<cavity|[https://www.everydayhealth.com/ovarian-cancer/guide/symptoms,p]::1;[https://www.everydayhealth.com/ovarian-cancer/guide/treatment,p]::3;[https://www.everydayhealth.com/ovarian-cancer/stages,p]::1;[https://www.cancer.org/cancer/ovarian-cancer/detection-diagnosis-staging/how-diagnosed.html,p]::1;[https://www.everydayhealth.com/ovarian-cancer/is-it-ovarian-cancer-or-ibs.aspx,p]::1;

@@ -1,0 +1,2 @@
+<ctrnet|[http://www.archive-it.org,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::3;[https://brave.com/ok-google,p]::2;
+<ctrlshiftdelete|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;

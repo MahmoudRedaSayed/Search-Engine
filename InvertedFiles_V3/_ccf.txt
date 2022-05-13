@@ -1,0 +1,2 @@
+<ccf|[https://www.everydayhealth.com/ulcerative-colitis/guide,s]::1;[https://www.everydayhealth.com/ulcerative-colitis/guide,p]::3;
+<ccfamerica|[https://www.everydayhealth.com/cervical-cancer/guide,p]::1;

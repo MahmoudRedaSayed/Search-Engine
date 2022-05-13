@@ -1,0 +1,10 @@
+<howard|[https://www.loc.gov,h]::2;[https://www.everydayhealth.com/psoriasis/guide,p]::1;[https://www.everydayhealth.com/wellness/resilience,s]::1;[https://brave.com/ok-google,p]::1;
+<howto|[https://developers.google.com/assistant/content,h]::1;[https://developers.google.com/assistant/content/overview,s]::1;[https://developers.google.com/assistant/content/overview,p]::8;[https://www.howtogeek.com/119458/htg-explains-whats-a-browser-cookie,p]::3;[https://web.archive.org/web/20150111024715/http:/msdn.microsoft.com/en-us/library/ms533007(v=vs.85).aspx,p]::1;
+<howinsulin|[https://www.everydayhealth.com/type-2-diabetes/guide,p]::1;
+<howeversome|[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::1;
+<howtos|[https://blog.archive.org,p]::1;[https://web.archive.org/web/20150111024715/http:/msdn.microsoft.com/en-us/library/ms533007(v=vs.85).aspx,h]::1;
+<howell|[http://www.archive-it.org,p]::3;
+<howlader|[https://www.cancer.org/cancer/ovarian-cancer/about/key-statistics.html,p]::2;
+<how…|[https://www.healthline.com/parenthood/health-well-being,p]::1;[https://www.healthline.com/parenthood,p]::1;[https://www.healthline.com/breast-cancer,p]::3;[https://www.healthline.com/mental-health/youth-in-focus,p]::1;
+<howstuffworks|[http://www.howstuffworks.com/cookie.htm,t]::1;
+<howstuffworkscom|[http://www.howstuffworks.com/cookie.htm,p]::1;

@@ -1,0 +1,3 @@
+<ezabatu|[https://eu.wikipedia.org/wiki/Cookie,p]::2;
+<ezabatzen|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
+<ezagunenek|[https://eu.wikipedia.org/wiki/Cookie,p]::1;

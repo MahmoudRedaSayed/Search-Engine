@@ -1,0 +1,4 @@
+<reza|[https://www.tutorialspoint.com/categories/data_science_and_ai_ml,p]::1;
+<rezultate|[https://ro.wikipedia.org/wiki/Cookie,p]::1;
+<rezultatele|[https://ro.wikipedia.org/wiki/Cookie,p]::1;
+<rezultata|[https://sh.wikipedia.org/wiki/Cookie,p]::1;

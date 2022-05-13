@@ -1,0 +1,2 @@
+<txiki|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
+<txikiak|[https://eu.wikipedia.org/wiki/Cookie,p]::1;

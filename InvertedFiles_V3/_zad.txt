@@ -1,0 +1,4 @@
+<zadeh|[https://www.tutorialspoint.com/categories/data_science_and_ai_ml,p]::1;
+<zadaniem|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<zadal|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<zadnji|[https://sh.wikipedia.org/wiki/Cookie,p]::1;

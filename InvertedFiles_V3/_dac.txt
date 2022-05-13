@@ -1,0 +1,4 @@
+<dachat|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::3;
+<daccepter|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::1;
+<daccumuler|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::1;
+<dacă|[https://ro.wikipedia.org/wiki/Cookie,p]::4;

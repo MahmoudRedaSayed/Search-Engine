@@ -1,0 +1,4 @@
+<puzakov|[https://www.tutorialspoint.com/categories/cyber_security,p]::3;
+<puzzle|[https://tobaccoatlas.org,p]::1;[https://venturebeat.com/2020/05/19/google-chrome-83,p]::1;[https://www.reuters.com/article/microsoft-security-idUSN2517397120110525,p]::1;[https://web.archive.org/web/20110530020518/http:/www.reuters.com/article/2011/05/25/microsoft-security-idUSN2517397120110525,p]::1;
+<puzzled|[https://web.archive.org/web/20081223151145/http:/www.infoq.com/articles/rest-anti-patterns,p]::1;[http://www.infoq.com/articles/rest-anti-patterns,p]::1;
+<puzzles|[http://www.howstuffworks.com/cookie.htm,h]::1;

@@ -1,0 +1,6 @@
+<smith|[https://english.ahram.org.eg/,p]::1;[https://www.everydayhealth.com/emotional-health/index.aspx,h]::1;[http://www.archive-it.org,p]::4;[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,h]::1;[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,p]::2;[https://www.gatewaycr.org,p]::1;[https://www.nytimes.com/2001/09/04/technology/04COOK.html,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::4;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::3;[https://www.everydayhealth.com/cancer/8-ways-fight-fatigue-chemotherapy-treatment,p]::5;
+<smile|[https://www.hearstmagazines.co.uk,p]::1;[https://www.hearstmagazines.co.uk/home,p]::1;
+<smiljanic|[https://www.tutorialspoint.com/market/index.asp,p]::1;
+<smiley|[https://www.medicalnewstoday.com,p]::1;
+<smithsonian|[https://blog.archive.org,p]::1;[https://archive.org/projects,p]::1;[http://www.archive-it.org,p]::3;[https://archive.org/about/terms.php,p]::1;[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,p]::1;
+<smiles|[https://www.acco.org,p]::3;

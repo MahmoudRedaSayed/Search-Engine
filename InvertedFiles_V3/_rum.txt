@@ -1,0 +1,6 @@
+<rumours|[https://www.bbc.com/,p]::1;[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::2;
+<rummaging|[https://www.dailymail.co.uk,p]::1;
+<rumsey|[https://archive.org/about/bios.php,p]::5;
+<rumseys|[https://archive.org/about/bios.php,p]::1;
+<rumors|[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;
+<rumah|[https://id.wikipedia.org/wiki/Kuki,p]::1;

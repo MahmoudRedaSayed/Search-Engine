@@ -1,0 +1,7 @@
+<fonts|[https://www.tutorialspoint.com/whiteboard.htm,p]::1;[https://www.tutorialspoint.com/html5-and-css3-fundamentals/index.asp,p]::1;[http://wordpress.org/plugins/broken-link-checker,p]::3;[https://www.tutorialspoint.com/css/index.htm,p]::1;[https://www.tutorialspoint.com/computer_glossary.htm,h]::1;[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;[https://blog.mozilla.org/security/2021/01/26/supercookie-protections,p]::1;[http://gemal.dk/browserspy,p]::1;[https://foundation.wikimedia.org/wiki/Cookie_statement,p]::1;[https://blog.openlibrary.org,p]::1;
+<fondly|[https://www.tutorialspoint.com/css/index.htm,p]::1;
+<fong|[https://www.tutorialspoint.com/qlikview/index.htm,p]::1;
+<fondation|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,p]::2;
+<fonton|[https://eo.wikipedia.org/wiki/Kuketo,h]::6;
+<fonte|[https://gl.wikipedia.org/wiki/Rastro,h]::2;
+<fondos|[https://www.cancer.org/es,h]::2;[https://www.cancer.org/es,p]::2;

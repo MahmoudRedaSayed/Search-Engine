@@ -1,0 +1,3 @@
+<ofmonthly|[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,p]::1;
+<ofmac|[https://www.apple.com/mac,h]::1;
+<ofmind|[https://www.apple.com/services,p]::1;

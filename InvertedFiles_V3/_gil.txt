@@ -1,0 +1,9 @@
+<gilligan|[https://www.dailymail.co.uk,h]::1;[https://english.ahram.org.eg/,p]::1;[https://www.dailymail.co.uk,p]::1;[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::1;
+<gillihan|[https://www.academicinfo.net,h]::1;
+<gilroy|[https://www.everydayhealth.com/wellness/resilience,p]::1;
+<gilad|[https://www.tutorialspoint.com/artificial_intelligence_with_python/index.htm,p]::2;
+<gilmore|[http://www.archive-it.org,p]::2;
+<gilt|[https://legal.twitter.com/imprint.html,p]::1;
+<gilda|[https://www.everydayhealth.com/ovarian-cancer/when-celebrities-get-ovarian-cancer.aspx,h]::1;[https://www.everydayhealth.com/ovarian-cancer/when-celebrities-get-ovarian-cancer.aspx,p]::2;
+<gildas|[https://www.everydayhealth.com/ovarian-cancer/when-celebrities-get-ovarian-cancer.aspx,p]::2;
+<giltig|[https://sv.wikipedia.org/wiki/Webbkaka,p]::1;

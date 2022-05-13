@@ -1,0 +1,2 @@
+<ogni|[https://www.hearst.it,p]::1;[https://it.wikipedia.org/wiki/Cookie,p]::7;
+<ognuno|[https://it.wikipedia.org/wiki/Cookie,p]::2;

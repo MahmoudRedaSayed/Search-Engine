@@ -1,0 +1,3 @@
+<kupper|[https://www.loc.gov,h]::1;
+<kupnju|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<kupiti|[https://sh.wikipedia.org/wiki/Cookie,p]::1;

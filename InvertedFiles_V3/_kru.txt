@@ -1,0 +1,4 @@
+<krueger|[https://www.cancerfac.org,p]::1;[https://web.archive.org/web/20081223151145/http:/www.infoq.com/articles/rest-anti-patterns,s]::1;[http://www.infoq.com/articles/rest-anti-patterns,s]::1;[https://web.archive.org/web/20081223151145/http:/www.infoq.com/articles/rest-anti-patterns,p]::1;[http://www.infoq.com/articles/rest-anti-patterns,p]::2;
+<krucoff|[https://www.everydayhealth.com/yoga,p]::3;
+<kruikemeier|[http://edpl.lexxion.eu/article/EDPL/2017/3/9,p]::1;
+<krukow|[https://web.archive.org/web/20081223151145/http:/www.infoq.com/articles/rest-anti-patterns,s]::1;[http://www.infoq.com/articles/rest-anti-patterns,s]::1;[https://web.archive.org/web/20081223151145/http:/www.infoq.com/articles/rest-anti-patterns,p]::1;[http://www.infoq.com/articles/rest-anti-patterns,p]::2;

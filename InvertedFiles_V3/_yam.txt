@@ -1,0 +1,2 @@
+<yamanaka|[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::1;
+<yaml|[https://web.archive.org/web/20081223151145/http:/www.infoq.com/articles/rest-anti-patterns,p]::2;[http://www.infoq.com/articles/rest-anti-patterns,p]::2;

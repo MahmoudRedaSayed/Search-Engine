@@ -1,0 +1,1 @@
+<azure|[http://www.microsoft.com/en/us/default.aspx?redir=true,p]::1;[http://go.microsoft.com/fwlink/?LinkId=403804,p]::2;

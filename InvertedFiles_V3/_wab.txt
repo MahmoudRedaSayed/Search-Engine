@@ -1,0 +1,2 @@
+<wab|[https://sco.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<wabsteid|[https://sco.wikipedia.org/wiki/HTTP_cookie,p]::2;

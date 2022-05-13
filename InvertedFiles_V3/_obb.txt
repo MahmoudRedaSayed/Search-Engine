@@ -1,0 +1,3 @@
+<obbligatorio|[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<obblighi|[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<obbligo|[https://it.wikipedia.org/wiki/Cookie,p]::1;

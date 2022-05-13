@@ -1,0 +1,9 @@
+<ustawione|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<ustawiająca|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<ustandaryzowany|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<ustawa|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<ustawień|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<ustawienie|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<ustawienia|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<ustanovené|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<usted|[https://www.cancer.org/es,p]::3;

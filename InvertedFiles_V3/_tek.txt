@@ -1,0 +1,9 @@
+<tekst|[https://da.wikipedia.org/wiki/Cookie,p]::1;[https://id.wikipedia.org/wiki/Kuki,p]::1;[https://nn.wikipedia.org/wiki/Informasjonskapsel,p]::1;[https://no.wikipedia.org/wiki/Informasjonskapsel,p]::1;
+<tekstdata|[https://da.wikipedia.org/wiki/Cookie,p]::1;
+<teknikoki|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
+<tekstinis|[https://lt.wikipedia.org/wiki/Slapukas,p]::1;
+<teknologi|[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::1;[https://sv.wikipedia.org/wiki/Webbkaka,p]::1;
+<tekstu|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<tekstualna|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<teksta|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<tekstom|[https://sh.wikipedia.org/wiki/Cookie,p]::1;

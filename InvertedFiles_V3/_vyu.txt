@@ -1,0 +1,8 @@
+<využívat|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<využití|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<využívá|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<využívány|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<využívajú|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<využívať|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<využitie|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<využiť|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

@@ -1,0 +1,1 @@
+<img|[https://www.netsparker.com/blog/web-security/same-site-cookie-attribute-prevent-cross-site-request-forgery,p]::1;

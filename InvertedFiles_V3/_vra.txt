@@ -1,0 +1,4 @@
+<vraagt|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::2;
+<vrager|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;
+<vragen|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::2;
+<vraća|[https://sh.wikipedia.org/wiki/Cookie,p]::1;

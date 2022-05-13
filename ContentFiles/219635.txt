@@ -1,0 +1,105 @@
+[, , to promote features of your app and make it easier to use, you can suggest assistant shortcuts to your users. assistant shortcuts are concise phrases that a user can utter to trigger functionality within your app., though assistant shortcuts can be created manually by your users, the in-app promo sdk enables you to proactively suggest and implement assistant shortcuts. by suggesting shortcuts, you ensure your users have clear, simple paths back to their favorite activities in your app without the added effort of setting up the shortcuts., for example, if a user performs a search for "heavy metal workout" in your music app, you might suggest an assistant shortcut directly to those search results in the future. when you suggest a shortcut, a prompt appears in your app that displays the proposed phrase for the shortcut and asks the user if the shortcut should be created. in this example, you suggest the phrase, "start my heavy metal workout." the user accepts the suggestion and can then launch the shortcut by saying, "hey google, start my heavy metal workout ", for more information about ways to grow your app's audience, see grow your apps with app actions., the in-app promo sdk provides the following methods:, lookupshortcut checks whether the shortcut you want to suggest already exists. the method also checks for any issues that prevent the shortcut from being created. if the shortcut can't be created, lookupshortcut returns the reasons why., createshortcutsuggestionintent returns an intent that you can use to prompt the user to create the suggested shortcut., createshortcutsettingsintent returns an intent that you can use to move the user to the assistant shortcut settings for your app., this section describes prerequisites and requirements for using suggestions, and limitations you may encounter., to use suggestions, your development environment must meet the following prerequisites., ensure that your android app is extended to use app actions., include com.google.android.googlequicksearchbox within the <queries> tags in your manifest. for example:, use android app bundles to publish your apps., to test your suggestions on a device, your device must meet the following requirements., the latest version of the google app is installed., android version is m (api level 23) or later., this section describes limitations with suggestions., suggestions are supported only in english. for users to see your suggestions, they must set the assistant language on their device to english., when implementing suggestions, you need to update your build.gradle file, set up the suggestions client, and then define the suggestions that you want to give users., to implement suggestions in your app:, add the library dependency to your build.gradle file., define an instance of assistantshortcutsuggestionsclient., where:, context (required) is the application context., verify_intents (required) determines whether to verify every intent created when suggesting shortcuts to users. when true, the intents created by assistantshortcutsuggestionsclient are verified. if an intent is invalid, an exception is returned., custom_executor (optional) is a custom executor for running asynchronous tasks. if not provided, the sdk uses a single-threaded executor for the task., use the lookupshortcut method to determine if the shortcut you want to suggest is valid and whether the shortcut already exists. we recommend that you implement lookupshortcut to verify that the intents created by your suggestions are valid, even if you don't plan on checking for existing user shortcuts., create an app shortcut intent. the shortcut intent represents the shortcut that you want to suggest to a user. the following example describes a shortcut to order the user a beverage., pass the shortcut intent to the lookupshortcut method., create the suggestion using the shortcut intent., there are two methods you can use to create a suggestion:, createshortcutsuggestionintent returns an android intent that you use to start the shortcut suggestion activity in the context of your app., where phrase is the utterance that you want to suggest to the user as a shortcut. for example, if you wanted the user to say "hey google, order my bubble tea" as a shortcut, you would replace phrase with "order my bubble tea"., createshortcutsettingsintent returns an android intent that moves the user to the shortcut settings interface in the assistant app., call startactivity using the android intent returned during the previous step., this section lists issues and exceptions that you may encounter when suggesting shortcuts., due to package visibility filtering googleinstallationunsupportedexception: cannot bind to service may happen on android 11 and later. make sure that com.google.android.googlequicksearchbox is included within the <queries> tag in your manifest:, the following error can occur if you do not submit your production app as an app bundle:, ensure that you submit your app as an android app bundle., the "failed to get user shortcuts" error message can happen if you recently added an account to the device, and if the new account’s shortcut data hasn't been cached on the device yet., to sync the shortcut data on the device, add or delete an assistant shortcut using the assistant app's interface., the shortcut creation activity can close without displaying any content if you didn’t create a preview using the app actions test tool, or if the preview expired. update your preview and try again., except as otherwise noted, the content of this page is licensed under the creative commons attribution 4.0 license, and code samples are licensed under the apache 2.0 license. for details, see the google developers site policies. java is a registered trademark of oracle and/or its affiliates., last updated 2022-02-07 utc.][suggest shortcuts using the in-app promo sdk, prerequisites and limitations, development prerequisites, device requirements, known limitations, implement suggestions, java, java, java, java, java, java, troubleshooting suggestions, googleinstallationunsupportedexception: cannot bind to service, "failed to verify the apk signature", "failed to get user shortcuts", shortcut creation activity immediately closes without showing any content, more information, programs, developer consoles]suggest shortcuts using the in-app promo sdk  |  app actions  |  google developers[note:, note:, note:][google assistant, ways to build, overview learn all the ways to build actions., extend your mobile app provide faster ways for users to access your android app via assistant., build rich and natural conversations build custom voice and visual experiences for smart devices., enhance your web presence present your content in rich ways for google search and assistant., connect your smart home devices let users control lights, doors, coffee machines, and many other devices., get inspired, why build help users find answers and get things done with google assistant., reach 1 billion devices help users at home, on the go, and in the car—on over 1 billion devices., build games build fun, voice-enabled games for smart displays., explore all actions see what others are building for google assistant., get discovered publish your actions to the assistant directory., mobile, app actions, android slices, assistant sharing, read it, content, schema.org web markup, smart home devices, overview, device types and traits, local home sdk, experimental devices, assistant sdk, conversational, overview, fundamentals, build, interactive canvas, user engagement, transactions, account linking, console, overview, localization, analytics, policies, go to console, language, english, bahasa indonesia, deutsch, español, français, português – brasil, русский, 中文 – 简体, 日本語, 한국어, app actions, google assistant, actions on google more, more, docs more guides reference codelabs samples support, more, guides, reference, codelabs, samples, support, community, support, design, overview, build, overview, implement built-in intents, create shortcuts.xml, push dynamic shortcuts to assistant, release notes, test, google assistant plugin, grow, overview, in-app shortcut promo sdk, add more features, custom intents, android widgets, foreground app invocation, inline inventory, web inventory, assistant sharing, android slices, read it, actions.xml, actions.xml overview, build app actions, create actions.xml, web inventory, app actions test tool, troubleshooting, actions.xml migration guide, ways to build, overview, extend your mobile app, build rich and natural conversations, enhance your web presence, connect your smart home devices, get inspired, why build, reach 1 billion devices, build games, explore all actions, get discovered, mobile, app actions, android slices, assistant sharing, read it, content, schema.org web markup, smart home devices, overview, device types and traits, local home sdk, experimental devices, assistant sdk, conversational, overview, fundamentals, build, interactive canvas, user engagement, transactions, account linking, console, overview, localization, analytics, policies, go to console, home, products, google assistant, docs, app actions, guides, lookupshortcut checks whether the shortcut you want to suggest already exists. the method also checks for any issues that prevent the shortcut from being created. if the shortcut can't be created, lookupshortcut returns the reasons why., createshortcutsuggestionintent returns an intent that you can use to prompt the user to create the suggested shortcut., createshortcutsettingsintent returns an intent that you can use to move the user to the assistant shortcut settings for your app., ensure that your android app is extended to use app actions., include com.google.android.googlequicksearchbox within the <queries> tags in your manifest. for example: <manifest ...>
+  <queries>
+    <package android:name="com.google.android.googlequicksearchbox" />
+  </queries>
+  ...
+</manifest>, use android app bundles to publish your apps., the latest version of the google app is installed., android version is m (api level 23) or later., add the library dependency to your build.gradle file. dependencies {
+  ...
+  implementation "com.google.assistant.appactions:suggestions:1.0.0"
+}, define an instance of assistantshortcutsuggestionsclient. java assistantshortcutsuggestionsclient shortcutsclient =
+  assistantshortcutsuggestionsclient.builder()
+    .setcontext(context: context)
+    .setverifyintents(verify_intents: boolean)
+    .setcustomexecutor(custom_executor: object)
+    .build();
+ where: context (required) is the application context. verify_intents (required) determines whether to verify every intent created when suggesting shortcuts to users. when true, the intents created by assistantshortcutsuggestionsclient are verified. if an intent is invalid, an exception is returned. custom_executor (optional) is a custom executor for running asynchronous tasks. if not provided, the sdk uses a single-threaded executor for the task., context (required) is the application context., verify_intents (required) determines whether to verify every intent created when suggesting shortcuts to users. when true, the intents created by assistantshortcutsuggestionsclient are verified. if an intent is invalid, an exception is returned., custom_executor (optional) is a custom executor for running asynchronous tasks. if not provided, the sdk uses a single-threaded executor for the task., use the lookupshortcut method to determine if the shortcut you want to suggest is valid and whether the shortcut already exists. we recommend that you implement lookupshortcut to verify that the intents created by your suggestions are valid, even if you don't plan on checking for existing user shortcuts. create an app shortcut intent. the shortcut intent represents the shortcut that you want to suggest to a user. the following example describes a shortcut to order the user a beverage. java map<string, object> menuitem = new hashmap<>();
+menuitem.put("@type", "menuitem");
+menuitem.put("@context", "http://schema.googleapis.com");
+menuitem.put("name", "fresh lemon honey jasmine green tea");
+
+appshortcutintent appshortcutintent =
+    appshortcutintent.builder()
+        .setintentname("actions.intent.order_menu_item")
+        .setpackagename("my.app.package")
+        .setintentparamname("menuitem")
+        .setintentparamvalue(menuitem)
+        .build();
+ pass the shortcut intent to the lookupshortcut method. java shortcutsclient.lookupshortcut(appshortcutintent)
+  .addonsuccesslistener(shortcutlookupresult -> {
+    if (!shortcutlookupresult.isshortcutpresent()) {
+      // app can suggest to create a shortcut
+    } else {
+      // app can remind that the user has a shortcut for this app action
+    }
+  })
+  .addonfailurelistener(e -> log.e(tag, "shortcut lookup failed", e));, create an app shortcut intent. the shortcut intent represents the shortcut that you want to suggest to a user. the following example describes a shortcut to order the user a beverage. java map<string, object> menuitem = new hashmap<>();
+menuitem.put("@type", "menuitem");
+menuitem.put("@context", "http://schema.googleapis.com");
+menuitem.put("name", "fresh lemon honey jasmine green tea");
+
+appshortcutintent appshortcutintent =
+    appshortcutintent.builder()
+        .setintentname("actions.intent.order_menu_item")
+        .setpackagename("my.app.package")
+        .setintentparamname("menuitem")
+        .setintentparamvalue(menuitem)
+        .build();, pass the shortcut intent to the lookupshortcut method. java shortcutsclient.lookupshortcut(appshortcutintent)
+  .addonsuccesslistener(shortcutlookupresult -> {
+    if (!shortcutlookupresult.isshortcutpresent()) {
+      // app can suggest to create a shortcut
+    } else {
+      // app can remind that the user has a shortcut for this app action
+    }
+  })
+  .addonfailurelistener(e -> log.e(tag, "shortcut lookup failed", e));, create the suggestion using the shortcut intent. there are two methods you can use to create a suggestion: createshortcutsuggestionintent returns an android intent that you use to start the shortcut suggestion activity in the context of your app. java appshortcutsuggestion ordershortcut =
+    appshortcutsuggestion.builder()
+        .setappshortcutintent(appshortcutintent)
+        .setcommand(phrase: string)
+        .build();
+
+shortcutsclient.createshortcutsuggestionintent(ordershortcut)
+    .addonsuccesslistener(intent ->
+        getapplication().startactivity(
+            intent.addflags(intent.flag_activity_new_task));
+    )
+    .addonfailurelistener(e ->
+        log.e(tag, "failed to get shortcut suggestion intent", e);
+    );
+ where phrase is the utterance that you want to suggest to the user as a shortcut. for example, if you wanted the user to say "hey google, order my bubble tea" as a shortcut, you would replace phrase with "order my bubble tea". note: do not include hey google in your suggestion. java appshortcutsuggestion ordershortcut =
+    appshortcutsuggestion.builder()
+        .setappshortcutintent(appshortcutintent)
+        .setcommand("order my bubble tea")
+        .build();
+ createshortcutsettingsintent returns an android intent that moves the user to the shortcut settings interface in the assistant app. java shortcutsclient.createshortcutsettingsintent()
+  .addonsuccesslistener(intent ->
+      getapplication().startactivity(
+          intent.addflags(intent.flag_activity_new_task));
+  )
+  .addonfailurelistener(e ->
+      log.e(tag, "failed to get shortcut settings intent", e);
+  );, createshortcutsuggestionintent returns an android intent that you use to start the shortcut suggestion activity in the context of your app. java appshortcutsuggestion ordershortcut =
+    appshortcutsuggestion.builder()
+        .setappshortcutintent(appshortcutintent)
+        .setcommand(phrase: string)
+        .build();
+
+shortcutsclient.createshortcutsuggestionintent(ordershortcut)
+    .addonsuccesslistener(intent ->
+        getapplication().startactivity(
+            intent.addflags(intent.flag_activity_new_task));
+    )
+    .addonfailurelistener(e ->
+        log.e(tag, "failed to get shortcut suggestion intent", e);
+    );
+ where phrase is the utterance that you want to suggest to the user as a shortcut. for example, if you wanted the user to say "hey google, order my bubble tea" as a shortcut, you would replace phrase with "order my bubble tea". note: do not include hey google in your suggestion. java appshortcutsuggestion ordershortcut =
+    appshortcutsuggestion.builder()
+        .setappshortcutintent(appshortcutintent)
+        .setcommand("order my bubble tea")
+        .build();, createshortcutsettingsintent returns an android intent that moves the user to the shortcut settings interface in the assistant app. java shortcutsclient.createshortcutsettingsintent()
+  .addonsuccesslistener(intent ->
+      getapplication().startactivity(
+          intent.addflags(intent.flag_activity_new_task));
+  )
+  .addonfailurelistener(e ->
+      log.e(tag, "failed to get shortcut settings intent", e);
+  );, call startactivity using the android intent returned during the previous step. note: if the shortcut you suggest conflicts with an existing shortcut, the user remains in the context of your app and is prompted to set a new utterance for the shortcut., more information google assistant why build for the assistant? how google assistant works assistant directory support community, google assistant, why build for the assistant?, how google assistant works, assistant directory, support, community, programs women techmakers google developer groups google developers experts accelerators google developer student clubs, women techmakers, google developer groups, google developers experts, accelerators, google developer student clubs, developer consoles google api console google cloud platform console google play console firebase console actions on google console cast sdk developer console chrome web store dashboard, google api console, google cloud platform console, google play console, firebase console, actions on google console, cast sdk developer console, chrome web store dashboard, android, chrome, firebase, google cloud platform, all products, terms, privacy, sign up for the google developers newsletter subscribe, language, english, bahasa indonesia, deutsch, español, français, português – brasil, русский, 中文 – 简体, 日本語, 한국어]

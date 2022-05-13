@@ -1,0 +1,4 @@
+<ofrrms|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;
+<ofrecemos|[http://www.hearst.es,p]::1;
+<ofrisk|[https://www.everydayhealth.com/ovarian-cancer/guide,p]::1;[https://www.everydayhealth.com/ovarian-cancer/resources,p]::1;
+<ofrecen|[https://www.cancer.org/es,p]::1;

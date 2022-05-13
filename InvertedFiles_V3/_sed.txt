@@ -1,0 +1,4 @@
+<sed|[https://www.tutorialspoint.com/tutorialslibrary.htm,p]::1;[https://www.tutorialspoint.com/computer_programming_tutorials.htm,p]::1;[https://eo.wikipedia.org/wiki/Kuketo,p]::3;
+<sedentary|[https://www.everydayhealth.com/diet-nutrition/the-paleo-diet.aspx,p]::1;[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<sedang|[https://id.wikipedia.org/wiki/Kuki,p]::1;
+<sedemikian|[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::2;

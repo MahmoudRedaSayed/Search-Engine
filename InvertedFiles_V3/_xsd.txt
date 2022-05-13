@@ -1,0 +1,2 @@
+<xsd|[https://www.tutorialspoint.com/tutorialslibrary.htm,p]::1;[https://www.tutorialspoint.com/web_development_tutorials.htm,p]::1;
+<xsds|[https://web.archive.org/web/20081223151145/http:/www.infoq.com/articles/rest-anti-patterns,p]::1;[http://www.infoq.com/articles/rest-anti-patterns,p]::1;

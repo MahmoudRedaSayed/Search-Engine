@@ -1,0 +1,12 @@
+<daley|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;[https://www.everydayhealthgroup.com,s]::1;[https://www.everydayhealthgroup.com,p]::1;[https://it.wikipedia.org/wiki/Cookie,p]::29;
+<dalee|[https://blog.archive.org,p]::1;
+<dallocchiothe|[https://www.everydayhealth.com/wellness/resilience,p]::1;[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<dallas|[https://www.everydayhealth.com/diet-nutrition/the-paleo-diet.aspx,p]::1;[https://www.hearst.it,p]::1;[https://www.everydayhealth.com/ovarian-cancer/ovarian-cancer-and-pregnancy-what-you-need-to-know,p]::1;[https://ovarian.org,p]::2;[https://it.wikipedia.org/wiki/Cookie,p]::6;
+<dalai|[https://thekingcenter.org/about-mrs-king,p]::1;
+<další|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<dalam|[https://id.wikipedia.org/wiki/Kuki,p]::4;[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::9;
+<dalle|[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<dallutente|[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<dallart|[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<dallon|[https://sq.wikipedia.org/wiki/Cookie_(internet),p]::1;
+<dalej|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;

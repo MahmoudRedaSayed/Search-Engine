@@ -1,0 +1,17 @@
+<era|[https://www.france24.com,p]::1;[https://developers.google.com/assistant/why-build,h]::1;[https://blog.archive.org,p]::1;[https://www.tutorialspoint.com/big_data_analytics/index.htm,p]::1;[http://www.microsoft.com/en/us/default.aspx?redir=true,p]::1;[https://www.nytimes.com/2006/02/01/obituaries/coretta-scott-king-a-civil-rights-icon-dies-at-78.html,p]::1;[https://www.everydayhealth.com/cancer/parp-inhibitor-improves-odds-for-women-with-ovarian-cancer-and-more-cancer-news-from-asco-s-virtual-annual-meeting,p]::1;[https://lmo.wikipedia.org/wiki/Biscott_(Scenza_di_urdinaduur),p]::1;
+<erase|[http://www.hearst.co.uk/privacy-notice,p]::1;[https://www.everydayhealth.com/multiple-sclerosis/guide,s]::1;[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::2;[http://www.yourhtmlsource.com/javascript/cookies.html,s]::1;[http://www.yourhtmlsource.com/javascript/cookies.html,p]::2;[https://dsar.everydayhealth.com,h]::1;[https://web.archive.org/web/20121115110013/http:/www.wired.co.uk/news/archive/2012-05/24/eu-cookie-law-moaning,p]::1;[https://www.theregister.com/2021/02/24/dns_cname_tracking,p]::1;
+<eraser|[https://www.tutorialspoint.com/whiteboard.htm,p]::1;[https://www.healthline.com/health/ibd-healthline-privacy-policy,h]::1;
+<erased|[https://blog.archive.org,p]::2;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,s]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::2;[http://www.yourhtmlsource.com/javascript/cookies.html,p]::1;[http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html,p]::2;
+<erasure|[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,s]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::3;[https://link.springer.com/10.1007/978-3-030-76663-4_3,p]::1;
+<eradicate|[https://www.everydayhealthgroup.com,p]::1;[https://www.everydayhealth.com/menstruation/guide,p]::1;
+<eran|[http://www.thesecuritypractice.com/the_security_practice/2011/03/http-state-management-mechanism-to-proposed-standard.html,p]::1;
+<eradicating|[https://donate3.cancer.org/?campaign=default&lang=en%2520,p]::1;[https://www.everydayhealth.com/ovarian-cancer/with-ovarian-cancer-early-detection-is-key-so-why-is-it-so-hard,p]::1;
+<erasing|[http://www.yourhtmlsource.com/javascript/cookies.html,h]::1;[http://www.yourhtmlsource.com/javascript/cookies.html,s]::1;[http://www.yourhtmlsource.com/javascript/cookies.html,p]::3;
+<erasecookie|[http://www.yourhtmlsource.com/javascript/cookies.html,s]::1;
+<erases|[http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html,p]::1;
+<erabilerakaldatu|[https://eu.wikipedia.org/wiki/Cookie,h]::1;[https://eu.wikipedia.org/wiki/Cookie,p]::3;
+<erabiltzaileentzako|[https://eu.wikipedia.org/wiki/Cookie,p]::4;
+<erabiltzailearen|[https://eu.wikipedia.org/wiki/Cookie,p]::3;
+<erabiltzaileak|[https://eu.wikipedia.org/wiki/Cookie,p]::2;
+<erakutsi|[https://eu.wikipedia.org/wiki/Cookie,p]::2;
+<erabiltzaileari|[https://eu.wikipedia.org/wiki/Cookie,p]::1;

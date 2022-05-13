@@ -1,0 +1,13 @@
+<poverty|[http://www.archive-it.org,p]::2;[https://www.everydayhealth.com/menstruation/guide,p]::1;[https://thekingcenter.org/about-mrs-king,p]::1;[https://www.nytimes.com/2006/02/01/obituaries/coretta-scott-king-a-civil-rights-icon-dies-at-78.html,p]::2;
+<poveda|[https://www.everydayhealth.com/cancer/parp-inhibitor-improves-odds-for-women-with-ovarian-cancer-and-more-cancer-news-from-asco-s-virtual-annual-meeting,p]::2;
+<považováno|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<povas|[https://eo.wikipedia.org/wiki/Kuketo,p]::6;
+<povoliť|[https://sk.wikipedia.org/wiki/HTTP_cookie,h]::1;[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<povolené|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::5;
+<povijesti|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<považované|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::3;
+<považuje|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<povezanih|[https://sh.wikipedia.org/wiki/Cookie,p]::2;
+<povedané|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<povinností|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<povinný|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

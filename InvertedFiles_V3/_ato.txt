@@ -1,0 +1,8 @@
+<atoms|[https://www.sciencenewsforstudents.org,h]::1;[https://web.archive.org/web/20081223151145/http:/www.infoq.com/articles/rest-anti-patterns,p]::1;[http://www.infoq.com/articles/rest-anti-patterns,p]::1;
+<atopic|[https://www.everydayhealth.com/eczema/guide,t]::1;[https://www.everydayhealth.com/eczema/guide,h]::11;[https://www.everydayhealth.com/eczema/guide,s]::2;[https://www.everydayhealth.com/eczema/guide,p]::17;[https://www.everydayhealth.com/most-popular,p]::1;[https://www.everydayhealth.com/yoga,h]::1;[https://www.healthline.com/program/take-back-control-of-atopic-dermatitis,t]::1;[https://www.healthline.com/program/take-back-control-of-atopic-dermatitis,p]::3;[https://www.healthline.com/program/take-back-control-of-atopic-dermatitis#daily-life,t]::1;[https://www.healthline.com/program/take-back-control-of-atopic-dermatitis#daily-life,p]::3;
+<atomicity|[https://www.tutorialspoint.com/dbms/index.htm,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;
+<atoz|[https://www.everydayhealth.com/womens-health/hormones/history-hormone-therapy,s]::1;[https://www.everydayhealth.com/womens-health/hormones/history-hormone-therapy,p]::1;
+<atores|[https://24x7mag.com/professional-development/education/the-cookie-that-would-not-crumble,p]::1;
+<atotal|[https://www.apple.com/iphone,p]::1;
+<aton|[https://www.apple.com/us/shop/goto/help/sales_refunds,p]::1;
+<atompub|[https://web.archive.org/web/20081223151145/http:/www.infoq.com/articles/rest-anti-patterns,p]::1;[http://www.infoq.com/articles/rest-anti-patterns,p]::1;

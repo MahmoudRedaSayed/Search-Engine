@@ -1,0 +1,17 @@
+<tory|[https://www.dailymail.co.uk,h]::1;[https://en.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://www.theverge.com/2020/3/24/21192830/apple-safari-intelligent-tracking-privacy-full-third-party-cookie-blocking,p]::1;[https://blog.mozilla.org/security/2021/01/26/supercookie-protections,p]::1;[https://www.propublica.org/article/zombie-cookie-the-tracking-cookie-that-you-cant-kill?token=PrSqc58cn7gW-eRA_isLN03ygBJN8E84,p]::1;[https://www.theregister.com/2021/02/24/dns_cname_tracking,h]::1;[https://www.theregister.com/2021/02/24/dns_cname_tracking,p]::1;[https://en.wikipedia.org/w/index.php?title=HTTP_cookie&oldid=1085989394,p]::1;[https://id.wikipedia.org/wiki/Kuki,p]::1;[https://it.wikipedia.org/wiki/Cookie,p]::1;[https://ru.wikipedia.org/wiki/Cookie,p]::1;
+<torn|[https://www.france24.com,p]::1;
+<tortillas|[https://www.loc.gov,h]::1;[https://twitter.com/tos,p]::1;[http://www.hearst.co.uk/terms-and-conditions,p]::1;
+<torch|[https://www.hearstmagazines.co.uk/mens-health-magazine-subscription,p]::1;[https://www.everydayhealth.com/fitness,h]::1;[https://www.tutorialspoint.com/pytorch/index.htm,p]::2;
+<torontos|[https://www.everydayhealth.com/ulcerative-colitis/guide,p]::1;[https://blog.archive.org,p]::1;[https://www.everydayhealth.com/diet-nutrition/atkins-diet.aspx,p]::1;[https://archive.org/about/bios.php,p]::3;[http://www.archive-it.org,p]::1;[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::1;
+<torafael|[https://www.everydayhealth.com/sleep-disorders/sleep/sleep-101-ultimate-guide-on-how-get-better-nights-sleep,p]::1;
+<torso|[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::1;[https://www.everydayhealth.com/cancer/genetic-counseling-for-cancer-risk-just-as-effective-via-telehealth-and-more-cancer-news-from-ascos-annual-meeting,p]::2;[https://www.tlcdirect.org,p]::1;[https://www.everydayhealth.com/yoga,p]::1;
+<torene|[https://blog.archive.org,p]::1;
+<tori|[https://www.everydayhealth.com/wellness/resilience,s]::1;
+<torsten|[https://www.tutorialspoint.com/bitcoin/index.htm,p]::1;
+<toreuters|[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;
+<toresearch|[https://www.everydayhealth.com/cancer/cancer-news-digest-the-latest-developments-in-cancer-research-and-treatment-for-february,p]::1;[https://www.everydayhealth.com/cancer/cancer-news-digest-latest-developments-in-cancer-research-and-treatment-for-october,p]::1;[https://www.everydayhealth.com/cancer/cancer-news-digest-the-latest-developments-in-cancer-research-and-treatment-for-september,p]::1;
+<torvalds|[https://www.tutorialspoint.com/computer_whoiswho.htm,h]::1;[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::1;[https://www.tutorialspoint.com/computer_glossary.htm,p]::1;
+<torment|[https://www.healthline.com/health/healthy-sex/black-women-sexuality,p]::1;
+<torrential|[https://www.healthline.com/health/healthy-sex/black-women-sexuality,p]::1;[https://www.wired.co.uk/news/archive/2012-05/24/eu-cookie-law-moaning,p]::1;[https://web.archive.org/web/20121115110013/http:/www.wired.co.uk/news/archive/2012-05/24/eu-cookie-law-moaning,p]::1;
+<torture|[https://www.healthline.com/health/mental-health/discovering-gender-identity-in-isolation,p]::1;[https://www.healthline.com/health-news,p]::1;
+<torecent|[https://www.everydayhealth.com/cancer/cancer-news-digest-latest-developments-in-cancer-research-and-treatment-for-october,p]::1;

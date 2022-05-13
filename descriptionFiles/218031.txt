@@ -1,0 +1,1 @@
+python tutorial,  python is a general-purpose interpreted, interactive, object-oriented, and high-level programming language. it was created by guido van rossum during 1985- 1990

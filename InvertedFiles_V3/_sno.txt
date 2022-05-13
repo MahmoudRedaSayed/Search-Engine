@@ -1,0 +1,7 @@
+<snowdown|[https://www.dailymail.co.uk,p]::2;
+<snotty|[https://www.hearstmagazines.co.uk,p]::1;[https://www.hearstmagazines.co.uk/home,p]::1;
+<snooze|[https://www.everydayhealth.com/sleep-disorders/sleep/sleep-101-ultimate-guide-on-how-get-better-nights-sleep,s]::1;
+<snore|[https://www.everydayhealth.com/sleep-disorders/sleep/sleep-101-ultimate-guide-on-how-get-better-nights-sleep,p]::1;
+<snoozeit|[https://www.everydayhealth.com/sleep-disorders/sleep/sleep-101-ultimate-guide-on-how-get-better-nights-sleep,p]::1;
+<snobbery|[https://archive.org/about/bios.php,p]::1;
+<snooping|[https://www.theverge.com/2020/3/24/21192830/apple-safari-intelligent-tracking-privacy-full-third-party-cookie-blocking,p]::1;[https://24x7mag.com/professional-development/education/the-cookie-that-would-not-crumble,p]::1;[https://www.howtogeek.com/119458/htg-explains-whats-a-browser-cookie,p]::1;

@@ -1,0 +1,16 @@
+<galleries|[https://edition.cnn.com,p]::1;[https://www.loc.gov,h]::1;[https://archive.org/about/bios.php,p]::1;[http://www.archive-it.org,p]::4;[https://wayback.archive-it.org/all/20180819022850/https:/papers.ssrn.com/sol3/papers.cfm?abstract_id=597543,p]::1;[https://www.everydayhealth.com/digestive-health/10-ways-get-rid-bloating,h]::1;[https://apps.apple.com/us/app/breast-cancer-healthline/id1356340700,p]::1;[https://www.hearst.co.uk/solutions/branded-content,p]::1;
+<galvan|[https://www.tutorialspoint.com,p]::1;[https://www.tutorialspoint.com/profile/juan_galvan,h]::1;[https://www.tutorialspoint.com/learn_python_programming_from_a_z_beginner_to_expert_course/index.asp,p]::1;[https://www.tutorialspoint.com/profile/juan_galvan,p]::8;[https://www.tutorialspoint.com/sas/index.htm,p]::1;
+<gala|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::2;[https://www.everydayhealth.com/emotional-health/lili-reinhart-called-out-other-celebs-for-starving-themselves-why-body-image-experts-are-applauding-her,p]::2;[https://www.cancercare.org,p]::1;[https://www.cancerhopenetwork.org,h]::1;
+<galosmo|[https://www.tutorialspoint.com/categories/marketing,p]::2;[https://www.tutorialspoint.com/categories/business,p]::1;
+<gallica|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;
+<gallery|[https://www.tutorialspoint.com/prime-pack/javascript-prime-pack/index.asp,p]::1;[https://archive.org/about/bios.php,p]::1;[http://www.archive-it.org,p]::5;[https://brave.com/ok-google,h]::1;[https://brave.com/ok-google,p]::1;[https://web.archive.org/web/20110614022902/http:/news.cnet.com/8301-1009_3-20066419-83.html,p]::2;
+<gally|[https://blog.archive.org,p]::2;
+<galactica|[https://archive.org/about/bios.php,p]::1;
+<galician|[http://wordpress.org/plugins/broken-link-checker,p]::1;[https://lt.wikipedia.org/wiki/Slapukas,p]::2;
+<galinha|[https://developers.googleblog.com/2020/06/announcing-actions-builder-actions-sdk.html,p]::4;
+<gallbladder|[https://www.everydayhealth.com/colon-cancer,p]::1;[https://www.everydayhealth.com/most-popular,p]::2;[https://www.everydayhealth.com/progesterone/guide,p]::1;[https://www.everydayhealth.com/abdominal-pain/guide,p]::1;[https://www.everydayhealth.com/womens-health/hormones/history-hormone-therapy,s]::1;[https://www.everydayhealth.com/cancer/risk-genes-everything-you-need-know-about-brca1-brca2,p]::1;[https://www.everydayhealth.com/womens-health/hormones/history-hormone-therapy,p]::3;[https://www.everydayhealth.com/ovarian-cancer/guide/treatment,p]::1;[https://www.everydayhealth.com/hysterectomy/guide,h]::1;[https://www.everydayhealth.com/drugs/avastin,p]::1;
+<galway|[https://www.healthline.com/health-news,p]::1;
+<gallicchio|[https://www.cancer.gov/news-events/cancer-currents-blog/2020/ovarian-cancer-racial-disparities-studies,p]::1;
+<gallstones|[https://www.healthline.com/program/mastering-your-gut-health,p]::1;
+<galėtų|[https://lt.wikipedia.org/wiki/Slapukas,p]::2;
+<galima|[https://lt.wikipedia.org/wiki/Slapukas,p]::1;

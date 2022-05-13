@@ -1,0 +1,2 @@
+<dla|[https://pl.wikipedia.org/wiki/HTTP_cookie,h]::1;[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::5;
+<dlatego|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;

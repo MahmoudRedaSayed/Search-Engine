@@ -1,0 +1,16 @@
+<acetate|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::2;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::6;[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::1;[https://www.everydayhealth.com/progesterone/guide,p]::2;[https://www.everydayhealth.com/sexual-health/birth-control,p]::1;[https://apps.apple.com/us/app/copaxone-itracker-2-0/id1414951452,p]::4;
+<acetateethyl|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;
+<acetatenitrocelluloseadipic|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;
+<acetylmethionatesodium|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::5;
+<acetylated|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
+<acephala|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
+<acetaminophen|[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus,p]::1;
+<acesso|[https://24x7mag.com/professional-development/education/the-cookie-that-would-not-crumble,p]::1;
+<acetic|[https://www.everydayhealth.com/ovarian-cancer/does-apple-cider-vinegar-fight-ovarian-cancer,p]::2;
+<acel|[https://ro.wikipedia.org/wiki/Cookie,p]::1;
+<acest|[https://ro.wikipedia.org/wiki/Cookie,p]::5;
+<acesta|[https://ro.wikipedia.org/wiki/Cookie,p]::4;
+<acestora|[https://ro.wikipedia.org/wiki/Cookie,p]::2;
+<același|[https://ro.wikipedia.org/wiki/Cookie,p]::2;
+<aceste|[https://ro.wikipedia.org/wiki/Cookie,p]::1;
+<aceluiași|[https://ro.wikipedia.org/wiki/Cookie,p]::1;

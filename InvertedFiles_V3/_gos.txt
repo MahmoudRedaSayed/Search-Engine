@@ -1,0 +1,5 @@
+<gosling|[https://www.dailymail.co.uk,h]::1;[https://www.tutorialspoint.com/computer_whoiswho.htm,h]::1;[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::3;
+<gossip|[https://www.hearstmagazines.co.uk/best-magazine-digital-subscription,p]::2;[https://www.hearstmagazines.co.uk/inside-soap-magazine-subscription,p]::1;
+<gospel|[http://www.archive-it.org,p]::1;
+<gossamer|[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::1;
+<gossett|[https://www.everydayhealth.com/ovarian-cancer/large-study-finds-no-link-between-use-of-talcum-powder-in-genital-area-and-ovarian-cancer,p]::4;

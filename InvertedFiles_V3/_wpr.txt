@@ -1,0 +1,3 @@
+<wprowadzić|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<wprowadzony|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<wprowadzone|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;

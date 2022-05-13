@@ -1,0 +1,1 @@
+<cypress|[https://www.lambdatest.com/SameSite-cookie-attribute,h]::3;[https://www.lambdatest.com/SameSite-cookie-attribute,p]::2;

@@ -1,0 +1,4 @@
+<fein|[https://www.dailymail.co.uk,h]::1;[https://www.france24.com,p]::1;
+<feinman|[https://www.everydayhealth.com/diet-nutrition/atkins-diet.aspx,p]::3;
+<feinmans|[https://www.everydayhealth.com/diet-nutrition/atkins-diet.aspx,p]::1;
+<feinberg|[https://www.everydayhealth.com/fertility,p]::1;

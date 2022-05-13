@@ -1,0 +1,4 @@
+<israel|[https://www.france24.com,p]::1;[http://www.archive-it.org,p]::1;[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,p]::1;
+<isrecommended|[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,p]::1;
+<israeli|[https://www.cancer.org/cancer/ovarian-cancer/causes-risks-prevention/risk-factors.html,p]::1;
+<isrightforyou|[https://www.apple.com/iphone,h]::1;

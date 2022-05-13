@@ -1,0 +1,4 @@
+<paku|[https://www.inlife.co.uk/why-are-cookies-called-cookies,p]::2;[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::2;[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<pakistan|[https://tobaccoatlas.org,p]::1;
+<paket|[https://id.wikipedia.org/wiki/Kuki,p]::1;
+<paketić|[https://sh.wikipedia.org/wiki/Cookie,p]::2;

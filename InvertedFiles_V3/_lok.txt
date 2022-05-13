@@ -1,0 +1,4 @@
+<lokalen|[https://de.wikipedia.org/wiki/HTTP-Cookie,p]::1;
+<lokation|[https://da.wikipedia.org/wiki/Cookie,p]::1;
+<lokalt|[https://no.wikipedia.org/wiki/Informasjonskapsel,p]::2;
+<lokacije|[https://sh.wikipedia.org/wiki/Cookie,p]::1;

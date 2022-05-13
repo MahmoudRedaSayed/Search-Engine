@@ -1,0 +1,8 @@
+<werden|[http://www.archive-it.org,p]::2;[https://legal.twitter.com/imprint.html,p]::2;[https://de.wikipedia.org/wiki/HTTP-Cookie,p]::7;[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::2;
+<werent|[https://www.healthline.com/health/healthy-sex/black-women-sexuality,p]::2;[https://www.everydayhealth.com/cancer/guide/cancer-diagnosis-tests,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;[https://www.everydayhealth.com/womens-health/hormones/history-hormone-therapy,p]::1;[https://www.healthline.com/parenthood,p]::1;[https://www.everydayhealth.com/breast-cancer/empowering-breast-and-gynecological-podcasts-hosted-by-survivors,p]::1;[https://apps.apple.com/us/app/bezzy-ra/id1498862311,p]::1;
+<wereld|[https://hearst.nl,p]::1;
+<werecalled|[https://www.inlife.co.uk/why-are-cookies-called-cookies,p]::1;
+<werklikheid|[https://af.wikipedia.org/wiki/Koekie_(rekenaarwetenskap),p]::2;
+<werking|[https://af.wikipedia.org/wiki/Koekie_(rekenaarwetenskap),p]::1;
+<wert|[https://de.wikipedia.org/wiki/HTTP-Cookie,p]::3;
+<weremore|[http://pressroom.cancer.org/releases?item=1094,p]::1;

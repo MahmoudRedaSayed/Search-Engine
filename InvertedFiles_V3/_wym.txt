@@ -1,0 +1,4 @@
+<wymyślony|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<wymogu|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<wymagana|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<wymienić|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;

@@ -1,0 +1,1 @@
+<cdn|[https://brave.com/ok-google,p]::1;

@@ -1,0 +1,2 @@
+<zeus|[https://english.ahram.org.eg/,p]::1;
+<zeuke|[https://li.wikipedia.org/wiki/Cookie,h]::1;

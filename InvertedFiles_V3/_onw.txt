@@ -1,0 +1,2 @@
+<onward|[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::2;
+<onwards|[https://web.archive.org/web/20160514000450/https:/publicsuffix.org/learn,p]::1;[https://publicsuffix.org/learn,p]::1;

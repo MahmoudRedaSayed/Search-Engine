@@ -1,0 +1,5 @@
+<ink|[https://english.ahram.org.eg/,h]::1;[https://www.tutorialspoint.com/computer_glossary.htm,p]::3;
+<inknowing|[https://www.cancer.org/cancer/ovarian-cancer/treating.html,p]::1;
+<inkopiesakkies|[https://af.wikipedia.org/wiki/Koekie_(rekenaarwetenskap),p]::1;
+<inkognito|[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::1;[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<inkognitoincognito|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

@@ -1,0 +1,2 @@
+<dax|[https://www.tutorialspoint.com/power_bi/index.htm,p]::1;
+<daxil|[https://az.wikipedia.org/wiki/HTTP_Kuki,p]::8;

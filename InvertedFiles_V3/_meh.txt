@@ -1,0 +1,3 @@
+<mehta|[https://www.tutorialspoint.com/entity_framework/index.htm,p]::1;
+<mehrere|[https://de.wikipedia.org/wiki/HTTP-Cookie,p]::1;
+<mehanizam|[https://sh.wikipedia.org/wiki/Cookie,p]::1;

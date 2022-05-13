@@ -1,0 +1,8 @@
+<thu|[https://www.bbc.com/,h]::1;
+<thursday|[https://english.ahram.org.eg/,p]::2;[https://www.loc.gov,h]::1;[https://nautil.us,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,h]::2;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::8;[https://stupidcancer.org,h]::1;[http://www.computerworld.com/article/2510494/data-privacy/microsoft-disables--supercookies--used-on-msn-com-visitors.html,p]::1;[https://www.nytimes.com/2006/02/01/obituaries/coretta-scott-king-a-civil-rights-icon-dies-at-78.html,p]::1;[https://www.theregister.com/2021/02/24/dns_cname_tracking,p]::1;
+<thumbslider|[https://www.tutorialspoint.com/prime-pack/javascript-prime-pack/index.asp,p]::1;[https://www.everydayhealth.com/coronavirus,h]::1;[https://www.everydayhealth.com/ovarian-cancer/nutrition-for-ovarian-cancer-patients.aspx,p]::1;
+<thumbnails|[https://blog.archive.org,p]::1;[https://www.youtube.com/creators,p]::2;[https://www.youtube.com/about/policies,p]::1;
+<thurgood|[http://www.archive-it.org,p]::1;
+<thunderbolt|[https://www.apple.com/ipad,p]::1;
+<thundercloud|[https://www.lennyletter.com/story/cobie-smulders-journey-through-cancer-and-back,p]::1;
+<thunderstorms|[https://www.healthline.com/program/deep-breaths-with-asthma,p]::1;

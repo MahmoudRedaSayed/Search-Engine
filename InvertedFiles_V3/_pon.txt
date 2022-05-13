@@ -1,0 +1,13 @@
+<ponds|[https://www.sciencenewsforstudents.org,h]::2;[http://www.archive-it.org,p]::1;
+<ponemos|[http://www.hearst.es,p]::1;[https://www.cancer.org/es,p]::1;
+<ponte|[http://www.hearst.es,p]::1;
+<poniżej|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<ponownie|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<ponownym|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<ponieważ|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<ponownego|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<ponúknuť|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<ponovno|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<ponekad|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<ponúknuté|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<ponuka|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

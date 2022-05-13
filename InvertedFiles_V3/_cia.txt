@@ -1,0 +1,6 @@
+<cia|[https://www.tutorialspoint.com/questions/index.php,h]::1;[http://www.archive-it.org,p]::1;[https://en.wikipedia.org/wiki/HTTP_cookie,p]::2;[https://en.wikipedia.org/w/index.php?title=HTTP_cookie&oldid=1085989394,p]::2;
+<ciasteczko|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::5;
+<ciasteczek|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::7;
+<ciasteczka|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::11;
+<ciasteczkach|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<ciasteczkami|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;

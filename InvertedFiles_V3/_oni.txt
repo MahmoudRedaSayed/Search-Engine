@@ -1,0 +1,4 @@
+<onif|[https://www.cisco.com/c/en/us/support/docs/security/web-security-appliance/117925-technote-csc-00.html,p]::1;[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<onions|[https://www.everydayhealth.com/cancer-photos/top-foods-to-fight-cancer.aspx,s]::1;[https://www.propublica.org/article/zombie-cookie-the-tracking-cookie-that-you-cant-kill?token=PrSqc58cn7gW-eRA_isLN03ygBJN8E84,p]::1;[https://apps.apple.com/us/app/fast-fodmap-lookup-learn/id1357894765,p]::1;[https://www.theregister.com/2021/02/24/dns_cname_tracking,h]::1;
+<onim|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<oninitiatives|[https://www.hearst.co.uk/solutions/purpose,p]::1;

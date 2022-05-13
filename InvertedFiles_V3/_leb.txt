@@ -1,0 +1,2 @@
+<lebanese|[https://english.ahram.org.eg/,h]::1;[https://english.ahram.org.eg/,p]::1;[https://www.france24.com,p]::2;
+<lebih|[https://id.wikipedia.org/wiki/Kuki,p]::1;

@@ -1,0 +1,9 @@
+<exodus|[https://www.dailymail.co.uk,p]::1;
+<exopolysaccharides|[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;
+<exorbitant|[https://www.everydayhealth.com/healthy-living/consumers-guide-drug-discounts,p]::1;
+<exocervix|[https://www.everydayhealth.com/cervical-cancer/guide,p]::1;
+<exocrine|[https://www.everydayhealth.com/abdominal-pain/guide,h]::1;
+<exomewide|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,p]::5;
+<exomes|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,p]::1;
+<exonic|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,p]::1;
+<exonerate|[https://www.nytimes.com/2006/02/01/obituaries/coretta-scott-king-a-civil-rights-icon-dies-at-78.html,p]::1;

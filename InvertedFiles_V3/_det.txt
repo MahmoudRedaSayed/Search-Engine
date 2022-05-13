@@ -1,0 +1,8 @@
+<detect|[https://www.cancer.org/involved.html,p]::1;[https://www.cancer.org/treatment.html,p]::1;[https://www.cancer.org/research.html,p]::2;[https://www.cancer.org/about-us.html,p]::1;[https://www.cancer.org/cancer.html,p]::1;[https://www.cancer.org/about-us/who-we-are/press-kit.html,p]::1;
+<detection|[https://www.cancer.org/treatment.html,p]::1;[https://www.cancer.org/research.html,p]::2;[https://www.cancer.org/about-us.html,p]::1;[https://www.cancer.org/cancer.html,p]::2;[https://blog.openlibrary.org,p]::1;[http://pressroom.cancer.org/releases?item=1093,p]::2;[https://blog.openlibrary.org/2022/04/27/a-high-schoolers-experience-contributing-to-the-open-book-genome-project,p]::1;[https://www.cancer.org/about-us/who-we-are/press-kit.html,p]::1;
+<determined|[https://www.cancer.org/involved.html,p]::1;[http://www.hearst.co.uk/terms-and-conditions,p]::1;[https://healthline.com/program/knowledge-is-power-with-early-breast-cancer#breast-cancer-basics,p]::2;[http://pressroom.cancer.org/releases?item=1094,p]::1;[https://www.hearst.co.uk/solutions/commerce,p]::1;
+<details|[https://www.cancer.org/treatment.html,p]::1;[http://www.hearst.co.uk/hearst-live-terms-and-conditions,p]::1;[http://www.hearst.co.uk/terms-and-conditions,p]::2;[http://pressroom.cancer.org/releases?item=1092,p]::1;
+<detector|[https://blog.openlibrary.org,p]::3;[https://blog.openlibrary.org/2022/04/27/a-high-schoolers-experience-contributing-to-the-open-book-genome-project,p]::3;
+<detailing|[https://blog.openlibrary.org,p]::1;
+<determining|[https://blog.openlibrary.org/page/2,p]::2;
+<detected|[https://blog.openlibrary.org/page/2,p]::1;

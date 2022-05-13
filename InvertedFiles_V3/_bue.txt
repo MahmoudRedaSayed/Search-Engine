@@ -1,0 +1,2 @@
+<buenísimo|[https://www.marca.com,p]::1;
+<buena|[https://www.cancer.org/es,p]::1;

@@ -1,0 +1,3 @@
+<siamo|[https://www.hearst.it,t]::1;[https://www.hearst.it,h]::2;[https://it.wikipedia.org/wiki/Cookie,p]::7;
+<siajn|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
+<siano|[https://it.wikipedia.org/wiki/Cookie,p]::2;

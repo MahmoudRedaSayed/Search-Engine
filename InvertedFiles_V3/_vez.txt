@@ -1,0 +1,2 @@
+<vezeuredi|[https://sh.wikipedia.org/wiki/Cookie,h]::1;[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<vezi|[https://sh.wikipedia.org/wiki/Cookie,p]::2;

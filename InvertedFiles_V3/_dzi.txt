@@ -1,0 +1,4 @@
+<działaniaedytuj|[https://pl.wikipedia.org/wiki/HTTP_cookie,h]::1;[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<dzięki|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<działanie|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<działają|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;

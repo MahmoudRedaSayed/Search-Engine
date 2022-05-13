@@ -1,0 +1,5 @@
+<ajax|[https://www.bbc.com/,p]::1;[https://www.tutorialspoint.com/javascript/index.htm,p]::1;[http://www.archive-it.org,p]::3;[https://www.tutorialspoint.com/asp.net/index.htm,p]::1;[https://www.tutorialspoint.com/computer_glossary.htm,p]::1;[http://www.yourhtmlsource.com/javascript/cookies.html,p]::1;[https://web.archive.org/web/20081223151145/http:/www.infoq.com/articles/rest-anti-patterns,p]::1;[http://www.infoq.com/articles/rest-anti-patterns,p]::1;
+<ajaton|[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;
+<ajaxrequests|[https://www.tutorialspoint.com/ethereum/index.htm,p]::1;
+<ajay|[https://www.gatewaycr.org,p]::1;
+<ajax·|[http://www.yourhtmlsource.com/javascript/cookies.html,p]::1;

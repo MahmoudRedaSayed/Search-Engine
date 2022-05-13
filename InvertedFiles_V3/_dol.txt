@@ -1,0 +1,6 @@
+<dolor|[https://www.marca.com,h]::1;[https://www.acco.org,p]::4;
+<dollars|[https://www.campdream.org/,p]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;[https://www.tutorialspoint.com/market/teach_with_us.jsp,p]::4;[https://blog.archive.org,p]::1;[https://archive.org/about/bios.php,p]::1;[https://www.everydayhealth.com/healthy-living/consumers-guide-drug-discounts,p]::2;[https://www.everydayhealth.com/cancer/living-with/how-keep-friendships-strong-while-being-treated-cancer,p]::1;[https://www.gatewaycr.org,p]::1;[https://twitter.com/tos,p]::1;[https://www.everydayhealth.com/cancer/everyday-healths-hereditary-cancer-risk-twitter-chat-heres-what-you-missed,p]::1;[https://tobaccoatlas.org,p]::2;[http://relay.acsevents.org,p]::1;[http://makingstrides.acsevents.org,p]::2;[https://www.healthline.com/reviews,p]::1;[https://www.apple.com/us/shop/goto/help/sales_refunds,p]::1;[https://apps.apple.com/us/app/copaxone-itracker-2-0/id1414951452,h]::1;[https://apps.apple.com/us/app/copaxone-itracker-2-0/id1414951452,p]::1;[https://www.cancer.org/about-us.html,p]::1;[http://pressroom.cancer.org/releases?item=1094,p]::1;
+<dolby|[https://www.apple.com/services,h]::1;
+<dolirapp|[https://apps.apple.com/us/app/copaxone-itracker-2-0/id1414951452,p]::1;
+<doldurmaq|[https://az.wikipedia.org/wiki/HTTP_Kuki,p]::1;
+<dole|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

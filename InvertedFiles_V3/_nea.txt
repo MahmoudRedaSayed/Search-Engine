@@ -1,0 +1,13 @@
+<nearby|[https://www.dailymail.co.uk,p]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;[https://www.everydayhealth.com/eczema/guide,s]::4;[https://www.everydayhealth.com/eczema/guide,p]::10;[https://www.everydayhealth.com/infectious-diseases/coronavirus,p]::1;[https://www.everydayhealth.com/cancer/guide/cancer-symptoms,p]::1;[https://www.everydayhealth.com/breast-cancer/living-with/on-chemo-brain-dropped-words,p]::1;[https://www.everydayhealth.com/cancer/living-with/how-keep-friendships-strong-while-being-treated-cancer,p]::1;[https://medlineplus.gov/cancer.html,p]::1;[https://www.cancer.gov/about-cancer/understanding/what-is-cancer,p]::2;[https://www.everydayhealth.com/cervical-cancer/guide,p]::1;[https://www.everydayhealth.com/colon-cancer,p]::1;[https://www.everydayhealth.com/ovarian-cancer/guide,p]::1;[https://www.everydayhealth.com/ovarian-cancer/guide/treatment,p]::1;[https://www.everydayhealth.com/cancer/guide/after-cancer-diagnosis-comes-staging,p]::3;[https://www.everydayhealth.com/ovarian-cancer/stages,p]::3;[https://www.everydayhealth.com/ovarian-cancer/resources,p]::1;[https://www.cancer.org/cancer/ovarian-cancer/detection-diagnosis-staging/how-diagnosed.html,p]::1;[https://ocrahope.org/patients/about-ovarian-cancer/staging,p]::1;[https://www.nytimes.com/2006/02/01/obituaries/coretta-scott-king-a-civil-rights-icon-dies-at-78.html,p]::1;
+<neas|[https://www.everydayhealth.com/eczema/guide,p]::1;
+<neahosted|[https://www.everydayhealth.com/eczema/guide,p]::1;
+<neamat|[https://www.tutorialspoint.com/categories/cyber_security,p]::1;
+<nearunrestricted|[https://archive.org/details/texts,p]::1;
+<nearest|[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::1;[https://www.healthline.com/additional-information,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::1;[http://www.healthline.com/health/contact-us,p]::1;
+<nearprint|[http://www.archive-it.org,p]::1;
+<neat|[https://www.tutorialspoint.com/effective_resume_writing.htm,p]::1;
+<nearfull|[https://www.youtube.com/about/copyright,p]::1;
+<neatly|[https://apps.apple.com/us/app/fast-fodmap-lookup-learn/id1357894765,p]::1;
+<neadevărurimodificare|[https://ro.wikipedia.org/wiki/Cookie,h]::1;
+<nearing|[https://www.cancer.org/treatment.html,h]::1;
+<nearreal|[https://blog.openlibrary.org,p]::1;

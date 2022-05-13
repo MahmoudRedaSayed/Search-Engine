@@ -1,0 +1,8 @@
+<odrverordnung|[https://legal.twitter.com/imprint.html,p]::1;
+<odróżnienie|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<odrađuju|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<određen|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<održavanje|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<odrede|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<određuje|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<odrediti|[https://sh.wikipedia.org/wiki/Cookie,p]::1;

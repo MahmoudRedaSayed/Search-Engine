@@ -1,0 +1,6 @@
+<jar|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,s]::1;[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::3;[http://edbrowse.org/usersguide.html#cook,p]::6;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::6;
+<jargon|[https://www.everydayhealth.com/fertility/in-vitro-fertilization-other-infertility-treatments,p]::1;
+<jarduera|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
+<jarri|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
+<jartzen|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
+<jaringan|[https://id.wikipedia.org/wiki/Kuki,p]::1;

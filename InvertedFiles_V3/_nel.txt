@@ -1,0 +1,7 @@
+<nelson|[https://www.loc.gov,h]::1;[https://blog.archive.org,p]::1;[https://archive.org/about/bios.php,p]::1;[https://www.tutorialspoint.com/blockchain/index.htm,p]::1;[https://www.tutorialspoint.com/ethereum/index.htm,p]::1;[https://www.tutorialspoint.com/machine_learning/index.htm,p]::1;[https://www.tutorialspoint.com/python_blockchain/index.htm,p]::1;[https://www.tutorialspoint.com/computer_fundamentals/index.htm,p]::1;[https://www.tutorialspoint.com/machine_learning_with_python/index.htm,p]::1;[https://www.tutorialspoint.com/python/index.htm,p]::1;[https://www.tutorialspoint.com/android/index.htm,p]::4;[http://www.archive-it.org,p]::4;[https://www.tutorialspoint.com/ios/index.htm,p]::4;[https://thekingcenter.org/about-mrs-king,p]::2;[https://it.wikipedia.org/wiki/Cookie,p]::32;
+<nelsonatkins|[http://www.archive-it.org,p]::3;
+<nello|[https://www.tutorialspoint.com/computer_whoiswho.htm,h]::1;[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::2;
+<nella|[https://it.wikipedia.org/wiki/Cookie,p]::5;
+<nelle|[https://it.wikipedia.org/wiki/Cookie,p]::2;
+<nellambito|[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<neleidžia|[https://lt.wikipedia.org/wiki/Slapukas,p]::1;

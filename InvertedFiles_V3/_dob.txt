@@ -1,0 +1,5 @@
+<dobefore|[https://www.everydayhealth.com/healthy-living/consumers-guide-drug-discounts,p]::2;
+<dobbs|[https://www.healthline.com/health-news,p]::1;
+<dobu|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<dobije|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<dobrovoľný|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

@@ -1,0 +1,6 @@
+<ate|[https://www.everydayhealth.com/diet-nutrition/diet/low-carb-diet-beginners-guide-food-list-meal-plan-tips,p]::1;[https://www.everydayhealth.com/diet-nutrition/the-paleo-diet.aspx,p]::2;[https://www.everydayhealth.com/mediterranean-diet/guide,p]::1;[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,p]::1;[https://dx.doi.org/10.1145/502152.502153,p]::2;[https://api.semanticscholar.org/CorpusID:1848140,p]::1;[https://www.everydayhealth.com/constipation/guide,p]::2;[https://www.healthline.com/health-news,p]::1;[https://www.cancer.org/cancer/ovarian-cancer/causes-risks-prevention/risk-factors.html,p]::1;[https://www.everydayhealth.com/ovarian-cancer/common-questions-about-ovarian-cancer-answered,p]::1;
+<ated|[https://www.everydayhealth.com/cancer/everyday-healths-hereditary-cancer-risk-twitter-chat-heres-what-you-missed,s]::1;
+<ateditoreverydayhealthinccom|[https://www.everydayhealth.com/editorial-policies,p]::1;
+<atevery|[https://www.apple.com/ios/app-store,h]::1;
+<atemporală|[https://ro.wikipedia.org/wiki/Cookie,p]::1;
+<atención|[https://www.cancer.org/es,p]::2;

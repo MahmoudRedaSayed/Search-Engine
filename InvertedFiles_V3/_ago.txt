@@ -1,0 +1,7 @@
+<agony|[https://www.dailymail.co.uk,h]::1;
+<agoraphobia|[https://www.everydayhealth.com/most-popular,p]::1;
+<agonadotropin|[https://www.everydayhealth.com/fertility/in-vitro-fertilization-other-infertility-treatments,p]::1;
+<agonist|[https://www.everydayhealth.com/fertility/in-vitro-fertilization-other-infertility-treatments,p]::1;
+<agog|[https://www.everydayhealth.com/hysterectomy/guide,s]::1;[https://www.everydayhealth.com/hysterectomy/guide,p]::1;
+<agoogle|[https://venturebeat.com/2014/10/06/the-cookie-is-dead-heres-how-facebook-google-and-apple-are-tracking-you-now,p]::1;[https://web.archive.org/web/20170724054647/https:/venturebeat.com/2014/10/06/the-cookie-is-dead-heres-how-facebook-google-and-apple-are-tracking-you-now,p]::1;
+<agordi|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;

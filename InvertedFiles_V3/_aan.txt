@@ -1,0 +1,7 @@
+<aan|[https://af.wikipedia.org/wiki/Koekie_(rekenaarwetenskap),p]::2;[https://li.wikipedia.org/wiki/Cookie,p]::1;[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::5;
+<aanvanklike|[https://af.wikipedia.org/wiki/Koekie_(rekenaarwetenskap),p]::1;
+<aangesien|[https://af.wikipedia.org/wiki/Koekie_(rekenaarwetenskap),p]::1;
+<aanmoedigde|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;
+<aantrekkelijk|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;
+<aanpassen|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;
+<aantal|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;

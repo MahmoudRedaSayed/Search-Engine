@@ -1,0 +1,5 @@
+<jason|[https://www.healthonnet.org/HONcode/Conduct.html?HONConduct694855,p]::1;[https://archive.org/details/software,p]::1;[https://archive.org/about/bios.php,p]::2;[https://eu.wikipedia.org/wiki/Cookie,p]::1;
+<jasperreport|[https://www.tutorialspoint.com/java_technology_tutorials.htm,p]::1;[http://www.archive-it.org,p]::1;
+<jasmine|[http://www.archive-it.org,p]::1;
+<jasné|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<jasných|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

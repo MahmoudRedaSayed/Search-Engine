@@ -1,0 +1,12 @@
+<lord|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;[https://www.countrylivingholidays.com/?utm_source=hearstmagazines&utm_medium=referral&utm_campaign=hearst-holidays&utm_term=clv&utm_content=nav-bar,p]::1;[https://www.wired.co.uk/news/archive/2012-05/24/eu-cookie-law-moaning,p]::1;[https://web.archive.org/web/20121115110013/http:/www.wired.co.uk/news/archive/2012-05/24/eu-cookie-law-moaning,p]::1;[https://ro.wikipedia.org/wiki/Cookie,p]::4;
+<lori|[https://www.medicalnewstoday.com,p]::1;[https://archive.org/about/bios.php,p]::3;
+<loréal|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,h]::1;
+<loren|[https://www.everydayhealth.com/diet-nutrition/the-paleo-diet.aspx,p]::1;[https://archive.org/about/bios.php,p]::1;
+<lorem|[https://www.acco.org,p]::4;
+<loretta|[https://www.canceradvocacy.org,p]::2;
+<lorenzo|[https://www.cancer.org/cancer/ovarian-cancer/causes-risks-prevention/risk-factors.html,p]::1;
+<lorrie|[http://bits.blogs.nytimes.com/2010/09/17/a-loophole-big-enough-for-a-cookie-to-fit-through,p]::1;[https://web.archive.org/web/20130126032302/http:/bits.blogs.nytimes.com/2010/09/17/a-loophole-big-enough-for-a-cookie-to-fit-through,p]::1;
+<lorsquils|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::3;
+<lordinateur|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::1;
+<loro|[https://it.wikipedia.org/wiki/Cookie,p]::7;
+<lorganizzazione|[https://it.wikipedia.org/wiki/Cookie,p]::1;

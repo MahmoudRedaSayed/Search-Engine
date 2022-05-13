@@ -1,0 +1,4 @@
+<nekte|[https://no.wikipedia.org/wiki/Informasjonskapsel,p]::1;
+<neki|[https://sh.wikipedia.org/wiki/Cookie,p]::2;
+<neku|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<neke|[https://sh.wikipedia.org/wiki/Cookie,p]::3;

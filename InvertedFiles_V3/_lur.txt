@@ -1,0 +1,3 @@
+<lurks|[https://nautil.us,h]::1;
+<lured|[https://web.archive.org/web/20131209210402/http:/news.cnet.com/8301-10789_3-9918582-57.html,p]::1;[https://www.propublica.org/article/zombie-cookie-the-tracking-cookie-that-you-cant-kill?token=PrSqc58cn7gW-eRA_isLN03ygBJN8E84,p]::1;
+<lurl|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::1;

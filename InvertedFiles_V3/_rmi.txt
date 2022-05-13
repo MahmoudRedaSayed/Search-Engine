@@ -1,0 +1,2 @@
+<rmi|[https://www.tutorialspoint.com/servlets/index.htm,p]::2;[https://web.archive.org/web/20081223151145/http:/www.infoq.com/articles/rest-anti-patterns,p]::2;[http://www.infoq.com/articles/rest-anti-patterns,p]::2;
+<rmit|[https://dl.acm.org/doi/10.1145/3313831.3376321,p]::1;

@@ -1,0 +1,14 @@
+<alahram|[https://english.ahram.org.eg/,h]::2;[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::4;[https://www.nytimes.com/2006/02/01/obituaries/coretta-scott-king-a-civil-rights-icon-dies-at-78.html,p]::2;
+<alabama|[https://www.loc.gov,h]::1;[https://nautil.us,h]::1;[https://www.everydayhealth.com/flu/guide,p]::1;[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::1;[http://www.archive-it.org,p]::3;[https://www.everydayhealth.com/healthy-living/consumers-guide-drug-discounts,h]::1;[https://thekingcenter.org/about-mrs-king,p]::2;[https://www.nytimes.com/2006/02/01/obituaries/coretta-scott-king-a-civil-rights-icon-dies-at-78.html,p]::4;
+<alarm|[https://www.everydayhealth.com/sleep-disorders/sleep/sleep-101-ultimate-guide-on-how-get-better-nights-sleep,p]::1;[https://www.everydayhealth.com/stress/guide,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,h]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;[https://www.everydayhealth.com/news/when-just-cough-actually-stage-iv-lung-cancer,p]::1;[https://www.healthline.com/coronavirus,p]::1;[https://www.theregister.com/2021/02/24/dns_cname_tracking,h]::1;
+<alaskas|[https://blog.archive.org,h]::1;[https://blog.archive.org,p]::8;[https://www.countrylivingholidays.com/?utm_source=hearstmagazines&utm_medium=referral&utm_campaign=hearst-holidays&utm_term=clv&utm_content=nav-bar,p]::1;[http://www.archive-it.org,p]::3;
+<alarming…|[https://www.healthline.com/mental-health,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus,p]::2;[https://tobaccoatlas.org,p]::1;
+<alam|[https://blog.archive.org,p]::1;[https://archive.org/about/bios.php,p]::1;
+<alaskan|[http://www.archive-it.org,p]::1;
+<alaskarelated|[http://www.archive-it.org,p]::1;
+<alan|[https://www.tutorialspoint.com/computer_whoiswho.htm,h]::1;[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::2;[https://az.wikipedia.org/wiki/HTTP_Kuki,p]::1;
+<alanee|[https://www.cancer.org/cancer/cancer-causes/genetics/family-cancer-syndromes.html,p]::2;
+<alaparoscopy|[https://www.everydayhealth.com/ovarian-cancer/diagnosis,p]::1;
+<alarmed|[https://www.everydayhealth.com/fertility,p]::1;
+<alarmism|[https://www.wired.co.uk/news/archive/2012-05/24/eu-cookie-law-moaning,p]::1;[https://web.archive.org/web/20121115110013/http:/www.wired.co.uk/news/archive/2012-05/24/eu-cookie-law-moaning,p]::1;
+<alamat|[https://id.wikipedia.org/wiki/Kuki,h]::1;[https://id.wikipedia.org/wiki/Kuki,p]::8;[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::1;

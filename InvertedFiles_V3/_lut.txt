@@ -1,0 +1,8 @@
+<lutein|[https://www.everydayhealth.com/cancer-photos/top-foods-to-fight-cancer.aspx,p]::1;
+<luteinizing|[https://www.everydayhealth.com/progesterone/guide,h]::1;[https://www.everydayhealth.com/fertility/in-vitro-fertilization-other-infertility-treatments,p]::1;
+<luteum|[https://www.everydayhealth.com/progesterone/guide,p]::2;
+<luther|[https://thekingcenter.org/about-mrs-king,p]::9;[https://www.everydayhealth.com/ovarian-cancer/when-celebrities-get-ovarian-cancer.aspx,p]::1;[https://www.nytimes.com/2006/02/01/obituaries/coretta-scott-king-a-civil-rights-icon-dies-at-78.html,p]::5;
+<luther king jr|[https://thekingcenter.org/about-mrs-king,p]::1;
+<lutilisateur|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::10;
+<lutente|[https://it.wikipedia.org/wiki/Cookie,p]::11;
+<lutilizzo|[https://it.wikipedia.org/wiki/Cookie,p]::2;

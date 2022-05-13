@@ -1,0 +1,12 @@
+<alps|[https://www.sciencenewsforstudents.org,h]::1;
+<alphagal|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::3;[https://developers.google.com/assistant/console,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus,p]::2;[https://developers.google.com/assistant/console/analytics,p]::1;[https://www.everydayhealth.com/cancer/guide/cancer-screening,s]::1;
+<alphaglucosidase|[https://www.everydayhealth.com/type-2-diabetes/guide,s]::1;
+<alphaisomethyl|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
+<alphaglucan|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
+<alpine|[https://www.primaholidays.co.uk/?utm_source=hearstmagazines&utm_medium=referral&utm_campaign=hearst-holidays&utm_term=pri&utm_content=nav-bar,p]::1;
+<alphabets|[https://www.tutorialspoint.com/compiler_design/index.htm,p]::1;[http://www.archive-it.org,p]::1;[https://developers.google.com/assistant/console/policies/general-policies,p]::1;[https://www.everydayhealth.com/fertility/in-vitro-fertilization-other-infertility-treatments,p]::1;
+<alphabetic|[https://developers.google.com/assistant/console/policies/general-policies,p]::1;
+<alphabetically|[http://edbrowse.org/usersguide.html#cook,p]::6;
+<alphafetoprotein|[https://www.cancer.org/cancer/ovarian-cancer/detection-diagnosis-staging/how-diagnosed.html,p]::1;
+<alpes|[https://dl.acm.org/doi/10.1145/3313831.3376321,p]::1;
+<alphanumeric|[http://go.microsoft.com/fwlink/?LinkId=403804,p]::1;

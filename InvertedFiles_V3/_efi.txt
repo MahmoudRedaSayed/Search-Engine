@@ -1,0 +1,3 @@
+<eficaz|[http://www.hearst.es,p]::1;
+<eficaces|[http://www.hearst.es,p]::2;
+<efikojn|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;

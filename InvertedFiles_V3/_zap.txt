@@ -1,0 +1,11 @@
+<zapamiętanie|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<zapisując|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::3;
+<zapisywanymi|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<zapisywane|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<zapamiętane|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<zapisania|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<zapamätané|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<zapisi|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<zapamätanie|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<zapamätať|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<zaplatené|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

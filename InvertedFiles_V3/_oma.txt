@@ -1,0 +1,2 @@
+<omar|[https://english.ahram.org.eg/,h]::1;[https://english.ahram.org.eg/,p]::1;
+<omalley|[https://www.wired.co.uk/news/archive/2012-05/24/eu-cookie-law-moaning,p]::1;[https://web.archive.org/web/20121115110013/http:/www.wired.co.uk/news/archive/2012-05/24/eu-cookie-law-moaning,p]::1;

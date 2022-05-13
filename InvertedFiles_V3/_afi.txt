@@ -1,0 +1,4 @@
+<afin|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::1;
+<afișează|[https://ro.wikipedia.org/wiki/Cookie,p]::2;
+<afișarea|[https://ro.wikipedia.org/wiki/Cookie,p]::1;
+<afișate|[https://ro.wikipedia.org/wiki/Cookie,p]::1;

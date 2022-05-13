@@ -1,0 +1,11 @@
+<doit|[https://www.everydayhealth.com/healthy-living/consumers-guide-drug-discounts,p]::1;[https://www.cancer.org/cancer/ovarian-cancer/detection-diagnosis-staging/how-diagnosed.html,p]::2;[https://www.cancer.org/cancer/ovarian-cancer/causes-risks-prevention/risk-factors.html,p]::2;[http://edpl.lexxion.eu/article/EDPL/2017/3/9,p]::1;
+<dois|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,p]::1;
+<doisy|[https://www.everydayhealth.com/womens-health/hormones/history-hormone-therapy,p]::4;
+<doingstressreducing|[https://www.everydayhealth.com/menopause/health-risks-women-face-after-menopause,p]::1;
+<doipo|[https://www.cancer.org/cancer/ovarian-cancer/detection-diagnosis-staging/how-diagnosed.html,p]::2;
+<doijfertnstert|[https://www.cancer.org/cancer/ovarian-cancer/causes-risks-prevention/risk-factors.html,p]::1;
+<doigco|[https://www.cancer.org/cancer/ovarian-cancer/causes-risks-prevention/risk-factors.html,p]::1;
+<doiepi|[https://www.cancer.org/cancer/ovarian-cancer/causes-risks-prevention/risk-factors.html,p]::1;
+<doibjc|[https://www.cancer.org/cancer/ovarian-cancer/causes-risks-prevention/risk-factors.html,p]::1;
+<doicaac|[https://www.cancer.org/cancer/ovarian-cancer/causes-risks-prevention/risk-factors.html,p]::1;
+<doing—|[https://www.apple.com/ios/app-store,p]::1;

@@ -1,0 +1,4 @@
+<rovnaké|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<rovnakú|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<rovnako|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<rovnaká|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

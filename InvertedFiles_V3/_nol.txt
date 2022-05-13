@@ -1,0 +1,2 @@
+<nolabaiteko|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
+<nolan|[https://blog.openlibrary.org,p]::1;[https://blog.openlibrary.org/page/2,s]::1;[https://blog.openlibrary.org/2022/04/27/a-high-schoolers-experience-contributing-to-the-open-book-genome-project,p]::1;[https://blog.openlibrary.org/page/2,p]::2;

@@ -1,0 +1,15 @@
+<rozlytrek|[https://www.cancer.org/cancer/ovarian-cancer/detection-diagnosis-staging/how-diagnosed.html,p]::1;
+<rozlišování|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<rozšíření|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<rozpoznawana|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<rozwiązać|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<rozwiązuje|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<rozwiązaniem|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<rozpoznawany|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<rozwiązania|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<rozwiązań|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<rozdelenia|[https://sk.wikipedia.org/wiki/HTTP_cookie,h]::1;
+<rozlišovanie|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<rozumieť|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<rozhodnutie|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<rozhodla|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

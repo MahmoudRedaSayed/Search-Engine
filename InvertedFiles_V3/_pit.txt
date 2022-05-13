@@ -1,0 +1,9 @@
+<pityriasis|[https://www.everydayhealth.com/psoriasis/guide,p]::1;[https://web.archive.org/web/20081223151145/http:/www.infoq.com/articles/rest-anti-patterns,p]::1;[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::1;
+<pitting|[https://www.everydayhealth.com/psoriasis/guide,p]::1;
+<pituitary|[https://www.everydayhealth.com/stress/guide,p]::1;[https://www.everydayhealth.com/fertility/in-vitro-fertilization-other-infertility-treatments,p]::1;
+<pita|[https://www.everydayhealth.com/mediterranean-diet/guide,p]::1;
+<pittsburgh|[https://archive.org/about/bios.php,p]::1;[https://www.cancer.org/cancer/cancer-basics/questions-people-ask-about-cancer.html,p]::2;[https://www.everydayhealth.com/cancer/genetic-counseling-for-cancer-risk-just-as-effective-via-telehealth-and-more-cancer-news-from-ascos-annual-meeting,p]::1;
+<pitted|[https://www.healthline.com/health/healthy-sex/black-women-sexuality,p]::1;
+<pits|[https://www.healthline.com/parenthood/health-well-being,p]::1;[https://www.healthline.com/parenthood/postpartum,p]::1;[https://web.archive.org/web/20081223151145/http:/www.infoq.com/articles/rest-anti-patterns,p]::1;
+<pitches|[http://www.infoq.com/articles/rest-anti-patterns,s]::1;[http://www.infoq.com/articles/rest-anti-patterns,p]::2;[https://www.hearst.co.uk/solutions/content-marketing,p]::1;
+<pitfalls|[https://web.archive.org/web/20081223151145/http:/www.infoq.com/articles/rest-anti-patterns,p]::1;[http://www.infoq.com/articles/rest-anti-patterns,p]::1;

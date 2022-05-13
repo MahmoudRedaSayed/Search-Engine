@@ -1,0 +1,4 @@
+<caffeinated|[https://www.everydayhealth.com/crohns-disease/guide,p]::2;
+<caffeine|[https://www.everydayhealth.com/ulcerative-colitis/guide,p]::1;[https://www.everydayhealth.com/sleep-disorders/sleep/sleep-101-ultimate-guide-on-how-get-better-nights-sleep,s]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;[https://www.everydayhealth.com/sleep-disorders/sleep/sleep-101-ultimate-guide-on-how-get-better-nights-sleep,p]::2;
+<cafeteria|[http://www.archive-it.org,p]::1;
+<café|[https://www.inlife.co.uk/why-are-cookies-called-cookies,p]::1;[https://www.healthline.com/type-2-diabetes,p]::1;

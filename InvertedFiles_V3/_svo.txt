@@ -1,0 +1,4 @@
+<svoj|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<svojom|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::3;
+<svojim|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<svoje|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

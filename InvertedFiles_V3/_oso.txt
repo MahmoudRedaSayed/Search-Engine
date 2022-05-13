@@ -1,0 +1,4 @@
+<oso|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
+<osobowe|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<osobné|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<osobných|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

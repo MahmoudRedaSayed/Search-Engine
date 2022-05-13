@@ -1,0 +1,1 @@
+<myapple|[https://www.apple.com/us/shop/goto/store,p]::1;[https://www.apple.com/airpods,p]::1;[https://www.apple.com/tv-home,p]::1;[https://www.apple.com/us/shop/goto/buy_accessories,p]::1;

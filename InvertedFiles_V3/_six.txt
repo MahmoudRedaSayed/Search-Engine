@@ -1,0 +1,9 @@
+<sixmonth|[https://www.everydayhealth.com/type-2-diabetes/guide,p]::1;
+<sixth|[https://blog.archive.org,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,h]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,s]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;[https://www.everydayhealth.com/fertility,h]::1;[https://www.everydayhealth.com/fertility,s]::1;[https://www.everydayhealth.com/fertility,p]::1;
+<sixpack|[https://www.hearstmagazines.co.uk/special-editions-subscriptions/mens-health-specials,s]::1;
+<sixthleading|[https://www.everydayhealth.com/diet-and-nutrition/diet/mind-diet-can-this-diet-plan-help-reverse-alzheimers-disease,p]::1;
+<sixapart|[https://archive.org/about/bios.php,p]::1;
+<sixfold|[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;
+<sixtyfour|[https://en.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://en.wikipedia.org/w/index.php?title=HTTP_cookie&oldid=1085989394,p]::1;
+<sixhour|[https://www.everydayhealth.com/breast-cancer/empowering-breast-and-gynecological-podcasts-hosted-by-survivors,p]::1;
+<sixties|[https://www.everydayhealth.com/ovarian-cancer/is-it-ovarian-cancer-or-ibs.aspx,p]::1;

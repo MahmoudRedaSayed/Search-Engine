@@ -1,0 +1,5 @@
+<atp|[https://english.ahram.org.eg/,h]::1;[https://english.ahram.org.eg/,p]::1;
+<atprivacyhearstcouk|[http://www.hearst.co.uk/privacy-notice,p]::1;
+<atplevels|[https://www.everydayhealth.com/sleep-disorders/sleep/sleep-101-ultimate-guide-on-how-get-better-nights-sleep,p]::1;
+<atprivacyeverydayhealthcomand|[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;
+<atplanned|[https://www.everydayhealth.com/womens-health/which-iud-is-right-for-you,p]::1;

@@ -1,0 +1,4 @@
+<která|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::3;
+<který|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<které|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::3;
+<kterým|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;

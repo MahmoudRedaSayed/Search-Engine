@@ -1,0 +1,8 @@
+<arbaz|[https://www.tutorialspoint.com/categories/data_science_and_ai_ml,p]::3;
+<arbor|[https://www.everydayhealth.com/heart-health/fda-approves-camzyos-for-the-treatment-of-obstructive-hypertrophic-cardiomyopathy,p]::1;[https://www.everydayhealth.com/menopause/health-risks-women-face-after-menopause,p]::1;
+<arbitration|[https://archive.org/about/terms.php,p]::1;[https://twitter.com/privacy,p]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;
+<arbitrary|[https://en.wikipedia.org/wiki/HTTP_cookie,p]::2;[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;[https://www.theregister.com/2021/02/24/dns_cname_tracking,p]::1;[https://en.wikipedia.org/w/index.php?title=HTTP_cookie&oldid=1085989394,p]::2;
+<arbitrarily|[https://developer.mozilla.org/en-US/docs/DOM/document.cookie,s]::1;
+<arbitrajn|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
+<arbitraire|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::1;
+<arbitraria|[https://it.wikipedia.org/wiki/Cookie,p]::1;

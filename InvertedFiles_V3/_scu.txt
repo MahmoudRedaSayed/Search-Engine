@@ -1,0 +1,7 @@
+<sculpt|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::2;
+<scua|[http://www.archive-it.org,p]::4;
+<scuas|[http://www.archive-it.org,p]::1;
+<scualibraryuniedu|[http://www.archive-it.org,p]::1;
+<sculpture|[http://www.archive-it.org,p]::1;
+<scupp|[https://www.everydayhealth.com/yoga,p]::4;
+<sculptor|[https://ovarian.org,p]::1;

@@ -1,0 +1,8 @@
+<nancy|[https://english.ahram.org.eg/,p]::1;[https://www.loc.gov,h]::1;[http://www.archive-it.org,p]::2;[https://www.everydayhealth.com/about-us,h]::1;[https://www.everydayhealthgroup.com,s]::1;[https://www.everydayhealthgroup.com,p]::1;
+<nantes|[https://www.france24.com,p]::1;
+<nana|[https://www.loc.gov,h]::1;
+<nano|[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;
+<nancys|[http://www.archive-it.org,p]::1;[https://www.everydayhealth.com/cancer/everyday-healths-hereditary-cancer-risk-twitter-chat-heres-what-you-missed,s]::2;[https://www.everydayhealth.com/cancer/everyday-healths-hereditary-cancer-risk-twitter-chat-heres-what-you-missed,p]::1;
+<nannie|[https://www.healthline.com/health/healthy-sex/black-women-sexuality,p]::1;
+<nanny|[https://www.healthline.com/health/mental-health/discovering-gender-identity-in-isolation,p]::1;
+<nanoleaf|[https://www.apple.com/tv-home,p]::1;

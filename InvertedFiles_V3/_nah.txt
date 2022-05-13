@@ -1,0 +1,2 @@
+<nahi|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
+<nahradený|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

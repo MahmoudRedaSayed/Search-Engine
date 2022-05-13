@@ -1,0 +1,3 @@
+<vladimir|[https://www.bbc.com/,p]::1;[https://www.dailymail.co.uk,h]::2;[https://www.dailymail.co.uk,p]::3;
+<vlastnost|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<vlastnosť|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

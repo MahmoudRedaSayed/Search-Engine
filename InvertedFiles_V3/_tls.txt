@@ -1,0 +1,1 @@
+<tls|[https://en.wikipedia.org/wiki/HTTP_cookie,p]::3;[https://blog.mozilla.org/security/2021/01/26/supercookie-protections,p]::2;[https://en.wikipedia.org/w/index.php?title=HTTP_cookie&oldid=1085989394,p]::3;[https://ky.wikipedia.org/wiki/Cookie,p]::1;[https://ru.wikipedia.org/wiki/Cookie,p]::1;

@@ -1,0 +1,4 @@
+<vigilance|[https://www.everydayhealth.com/stress/guide,p]::1;[https://www.everydayhealth.com/ovarian-cancer/when-celebrities-get-ovarian-cancer.aspx,h]::1;
+<vigorous|[https://www.everydayhealth.com/heart-health/fda-approves-camzyos-for-the-treatment-of-obstructive-hypertrophic-cardiomyopathy,p]::1;[http://www.hearst.com.cn/en/aboutus,p]::1;[https://www.everydayhealth.com/breast-cancer/living-with/on-chemo-brain-dropped-words,p]::1;[https://www.everydayhealth.com/menopause/health-risks-women-face-after-menopause,p]::1;
+<vigorously|[https://tobaccoatlas.org,p]::1;
+<vigore|[https://it.wikipedia.org/wiki/Cookie,p]::2;

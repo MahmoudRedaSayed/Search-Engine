@@ -1,0 +1,3 @@
+<myfunction|[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;
+<myfilehtml|[http://edbrowse.org/usersguide.html#cook,p]::1;
+<myfaketld|[http://bayou.io/draft/cookie.domain.html,p]::1;

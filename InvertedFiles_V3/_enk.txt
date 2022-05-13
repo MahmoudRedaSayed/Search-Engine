@@ -1,0 +1,5 @@
+<enkriptatuta|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
+<enkelt|[https://no.wikipedia.org/wiki/Informasjonskapsel,p]::1;[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;
+<enkelte|[https://no.wikipedia.org/wiki/Informasjonskapsel,p]::2;
+<enkriptirani|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<enkodira|[https://sh.wikipedia.org/wiki/Cookie,p]::1;

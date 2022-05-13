@@ -1,0 +1,2 @@
+<bykelly|[https://www.everydayhealth.com/,p]::3;
+<bykov|[http://www.infoq.com/articles/rest-anti-patterns,p]::1;

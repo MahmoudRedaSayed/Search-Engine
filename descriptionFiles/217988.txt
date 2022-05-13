@@ -1,0 +1,1 @@
+tutorials on latest technologies including sap material management, wcf, cgi ( common gateway interface), dll, ebxml, gdb debugger, makefile, parrot, radius, rss, soap, uddi, unix socket, web services, xml-rpc, uml, unix, wsdl, svn, git, ms excel, ms word etc.

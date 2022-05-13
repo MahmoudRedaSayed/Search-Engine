@@ -1,0 +1,2 @@
+<yesterday|[https://www.dailymail.co.uk,p]::1;[http://www.computerworld.com/article/2510494/data-privacy/microsoft-disables--supercookies--used-on-msn-com-visitors.html,p]::1;[https://www.nytimes.com/2006/02/01/obituaries/coretta-scott-king-a-civil-rights-icon-dies-at-78.html,p]::1;
+<yeshiva|[http://www.archive-it.org,p]::1;

@@ -1,0 +1,7 @@
+<pam|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;[https://www.everydayhealth.com/digestive-health/10-ways-get-rid-bloating,p]::1;
+<pamphlets|[http://www.archive-it.org,p]::2;[https://www.everydayhealth.com/womens-health/tubal-ligation-permanent-female-sterilization-misunderstood-birth-control-method,p]::1;
+<pamela|[https://www.everydayhealth.com/lung-cancer/living-with/your-lungs-get-healthier-every-hour-every-day-after-you-quit-smoking,p]::1;
+<pamphleteer|[https://web.archive.org/web/20110926122412/http:/cyberlaw.stanford.edu/node/6715,p]::1;[http://cyberlaw.stanford.edu/node/6715,p]::1;
+<pamiršti|[https://lt.wikipedia.org/wiki/Slapukas,p]::1;
+<pamiętać|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<pamćenje|[https://sh.wikipedia.org/wiki/Cookie,p]::1;

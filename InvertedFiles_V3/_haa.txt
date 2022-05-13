@@ -1,0 +1,2 @@
+<haalands|[https://www.bbc.com/,h]::1;[https://www.bbc.com/,p]::1;[https://www.marca.com,h]::2;
+<haar|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;

@@ -1,0 +1,11 @@
+<ontologies|[https://blog.archive.org,p]::1;[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::5;
+<ontario|[https://archive.org/about/bios.php,p]::1;[http://www.archive-it.org,p]::10;[http://mypage.direct.ca/s/schinke/defaultbehaviors/clientCapsExtra.html,p]::1;
+<ontheground|[https://www.acco.org,p]::1;[https://www.everydayhealth.com/cancer/celebrities-with-cancer-why-do-some-decide-to-go-public-and-others-dont,p]::1;
+<onthego|[https://www.cancer.net/navigating-cancer-care/managing-your-care/mobile-applications,p]::1;[https://developers.google.com/assistant/surfaces/smartphones,p]::1;[https://apps.apple.com/us/app/modulife/id1451478169,p]::1;
+<onthefly|[https://search.proquest.com/docview/194487945,p]::1;
+<ontheappletvapp|[https://www.apple.com/tv-home,p]::1;
+<ontheir|[https://web.archive.org/web/20121218093525/http:/www.jisclegal.ac.uk/ManageContent/ViewDetail/ID/1347/EU-Cookie-Directive--Directive-2009136EC.aspx,p]::1;
+<ontvanger|[https://af.wikipedia.org/wiki/Koekie_(rekenaarwetenskap),p]::2;
+<onttrekt|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;
+<ontworpen|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;
+<ontdekten|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;

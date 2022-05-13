@@ -1,0 +1,3 @@
+<nijak|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<nije|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<nijako|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

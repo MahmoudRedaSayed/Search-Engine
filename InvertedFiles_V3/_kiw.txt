@@ -1,0 +1,2 @@
+<kiwi|[https://www.dailymail.co.uk,p]::1;
+<kiwix|[https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute,p]::1;

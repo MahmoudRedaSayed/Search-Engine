@@ -1,0 +1,3 @@
+<opretter|[https://da.wikipedia.org/wiki/Cookie,p]::3;
+<oproepen|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;
+<oprávnený|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

@@ -1,0 +1,8 @@
+<hint|[https://www.bbc.com/,h]::1;[https://www.bbc.co.uk/news/technology-12668552,p]::1;[https://www.wired.co.uk/news/archive/2012-05/24/eu-cookie-law-moaning,p]::1;[https://web.archive.org/web/20121115110013/http:/www.wired.co.uk/news/archive/2012-05/24/eu-cookie-law-moaning,p]::1;
+<hindi|[https://developers.google.com/assistant/why-build,p]::1;[https://developers.google.com/assistant/console/languages-locales,h]::1;[https://developers.google.com/assistant/console/languages-locales,p]::1;[https://www.tutorialspoint.com/effective_resume_writing.htm,p]::1;[https://www.tutorix.com,h]::1;[https://www.tutorix.com,p]::1;
+<hinder|[https://www.everydayhealth.com/wellness/resilience,h]::1;[https://www.everydayhealth.com/wellness/resilience,p]::1;[https://www.everydayhealth.com/special-reports,h]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus,h]::1;[https://www.everydayhealth.com/cancer/cancer-news-digest-the-latest-developments-in-cancer-research-and-treatment-for-september,h]::1;[https://www.everydayhealth.com/cancer/cancer-news-digest-the-latest-developments-in-cancer-research-and-treatment-for-september,s]::1;
+<hints|[https://www.tlcdirect.org,p]::1;[https://www.apple.com/ios/app-store,p]::1;
+<hintze|[http://www.computerworld.com/article/2510494/data-privacy/microsoft-disables--supercookies--used-on-msn-com-visitors.html,p]::3;
+<hindrer|[https://da.wikipedia.org/wiki/Cookie,p]::2;
+<hindres|[https://da.wikipedia.org/wiki/Cookie,p]::2;
+<hinn|[https://lmo.wikipedia.org/wiki/Biscott_(Scenza_di_urdinaduur),p]::1;

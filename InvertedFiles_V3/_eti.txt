@@ -1,0 +1,4 @@
+<etiology|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,p]::2;
+<etiquette|[https://24x7mag.com/professional-development/education/the-cookie-that-would-not-crumble,p]::1;
+<etiqueta|[https://24x7mag.com/professional-development/education/the-cookie-that-would-not-crumble,p]::1;
+<etimadnaməsi|[https://az.wikipedia.org/wiki/HTTP_Kuki,p]::1;

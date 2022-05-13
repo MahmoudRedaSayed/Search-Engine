@@ -1,0 +1,11 @@
+<whales|[https://www.sciencenewsforstudents.org,p]::2;
+<whatevers|[https://www.everydayhealth.com/sleep-disorders/sleep/sleep-101-ultimate-guide-on-how-get-better-nights-sleep,p]::1;
+<whack|[https://www.everydayhealth.com/sleep-disorders/sleep/sleep-101-ultimate-guide-on-how-get-better-nights-sleep,p]::1;
+<whatyou|[https://www.everydayhealth.com/diet-nutrition/burning-questions-about-intermittent-fasting-answered,p]::1;
+<whatsapp|[https://web.archive.org/web/20180810220427/https:/www.bbc.co.uk/news/technology-12668552,p]::1;[https://venturebeat.com/2014/10/06/the-cookie-is-dead-heres-how-facebook-google-and-apple-are-tracking-you-now,p]::1;[https://web.archive.org/web/20170724054647/https:/venturebeat.com/2014/10/06/the-cookie-is-dead-heres-how-facebook-google-and-apple-are-tracking-you-now,p]::1;
+<whatsnew|[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::1;
+<whatsoever|[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::3;[http://www.hearst.co.uk/terms-and-conditions,p]::1;
+<whateverhtmlbrowse|[http://edbrowse.org/usersguide.html#cook,p]::1;
+<whateverlocaldomain|[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;
+<what…|[https://www.healthline.com/parenthood,p]::1;[https://www.healthline.com/rheumatoid-arthritis,p]::1;
+<whatif|[https://www.healthline.com/multiple-sclerosis,p]::1;

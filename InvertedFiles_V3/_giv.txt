@@ -1,0 +1,2 @@
+<givne|[https://da.wikipedia.org/wiki/Cookie,p]::1;
+<giver|[https://da.wikipedia.org/wiki/Cookie,p]::1;

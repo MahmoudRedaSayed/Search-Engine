@@ -1,0 +1,5 @@
+<gevolg|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;
+<gevraagd|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::2;
+<gevaarlijk|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;
+<geven|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;
+<gevallen|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;

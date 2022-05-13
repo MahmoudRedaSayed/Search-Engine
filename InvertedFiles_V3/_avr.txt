@@ -1,0 +1,4 @@
+<avropa|[https://az.wikipedia.org/wiki/HTTP_Kuki,p]::3;
+<avril|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::1;
+<avrà|[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<avrebbero|[https://it.wikipedia.org/wiki/Cookie,p]::3;

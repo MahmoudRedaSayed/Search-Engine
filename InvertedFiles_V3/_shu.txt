@@ -1,0 +1,9 @@
+<shuts|[https://www.everydayhealth.com/depression/guide,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,h]::2;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,s]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;[https://www.tutorialspoint.com/computer_glossary.htm,p]::1;[https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie2,p]::2;[http://msdn.microsoft.com/en-us/library/ms526029(v=vs.90).aspx,p]::1;[https://web.archive.org/web/20121014110456/http:/msdn.microsoft.com/en-us/library/ms526029(v=vs.90).aspx,p]::1;[https://www.everydayhealth.com/hysterectomy/recovery-from-abdominal-hysterectomy-takes-time-patience,p]::1;[https://www.everydayhealth.com/fertility,p]::1;[https://www.healthline.com/program/sleep,p]::1;[https://apps.apple.com/us/app/copaxone-itracker-2-0/id1414951452,p]::1;[https://web.archive.org/web/20110614022902/http:/news.cnet.com/8301-1009_3-20066419-83.html,p]::1;[https://www.healthline.com/program/youth-in-focus,p]::1;
+<shubham|[https://www.tutorialspoint.com/categories/office_productivity,p]::1;
+<shukla|[https://www.medicalnewstoday.com,p]::2;
+<shuteye|[https://www.everydayhealth.com/sleep-disorders/sleep/sleep-101-ultimate-guide-on-how-get-better-nights-sleep,p]::1;[https://www.healthline.com/program/sleep,p]::1;[https://www.healthline.com/reviews,p]::1;
+<shuttered|[https://www.healthline.com/fitness,p]::1;
+<shuttle|[https://archive.org/about/bios.php,p]::1;
+<shuswap|[http://www.archive-it.org,p]::3;
+<shutdown|[http://www.archive-it.org,p]::1;[https://www.theregister.com/2021/02/24/dns_cname_tracking,p]::1;
+<shutting|[https://www.theregister.com/2021/02/24/dns_cname_tracking,p]::1;

@@ -1,0 +1,9 @@
+<leeds|[https://english.ahram.org.eg/,h]::1;[https://www.france24.com,p]::1;[https://www.loc.gov,h]::3;[https://www.medicalnewstoday.com,p]::1;[http://www.archive-it.org,p]::1;[https://www.tutorialspoint.com/computer_whoiswho.htm,h]::1;[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::3;[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,h]::1;[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,p]::5;[https://www.everydayhealth.com/ovarian-cancer/ovarian-cancer-and-pregnancy-what-you-need-to-know,p]::3;[https://blog.mozilla.org/security/2021/01/26/supercookie-protections,p]::1;[https://www.everydayhealth.com/cancer/parp-inhibitor-improves-odds-for-women-with-ovarian-cancer-and-more-cancer-news-from-asco-s-virtual-annual-meeting,p]::3;
+<leetaru|[https://blog.archive.org,p]::3;
+<leeolou|[https://www.everydayhealth.com/wellness/resilience,s]::1;
+<leenes|[https://wayback.archive-it.org/all/20180819022850/https:/papers.ssrn.com/sol3/papers.cfm?abstract_id=597543,p]::1;
+<leena|[https://www.everydayhealth.com/hysterectomy/recovery-from-abdominal-hysterectomy-takes-time-patience,p]::1;
+<leeks|[https://www.healthline.com/program/wellness,p]::2;
+<leeway|[https://link.springer.com/10.1007/978-3-030-76663-4_3,p]::1;
+<leerraumzeichen|[https://de.wikipedia.org/wiki/HTTP-Cookie,p]::1;
+<leest|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;

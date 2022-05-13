@@ -1,0 +1,5 @@
+<dual|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;[https://archive.org/about/bios.php,p]::1;[https://www.tutorialspoint.com/android/index.htm,p]::1;[https://web.archive.org/web/20051001113951/http:/www.microsoft.com/windows/IE/community/columns/historyofie.mspx,p]::1;[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,p]::1;[https://www.healthline.com/program/moving-forward-with-advanced-copd,p]::2;
+<dualenergy|[https://www.everydayhealth.com/menopause/health-risks-women-face-after-menopause,p]::1;
+<dual‑camera|[https://www.apple.com/iphone,p]::2;
+<dualcore|[https://web.archive.org/web/20121115110013/http:/www.wired.co.uk/news/archive/2012-05/24/eu-cookie-law-moaning,p]::1;
+<duargi|[https://eu.wikipedia.org/wiki/Cookie,p]::1;

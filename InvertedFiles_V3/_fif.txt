@@ -1,0 +1,4 @@
+<fiftyyear|[https://www.everydayhealthgroup.com,p]::1;
+<fiftyfifty|[https://www.everydayhealth.com/cancer/risk-genes-everything-you-need-know-about-brca1-brca2,p]::1;
+<fifties|[https://www.everydayhealth.com/womens-health/hormones/history-hormone-therapy,p]::3;[https://thekingcenter.org/about-mrs-king,p]::1;
+<fifthleading|[https://www.cancer.gov/news-events/cancer-currents-blog/2020/ovarian-cancer-racial-disparities-studies,p]::1;

@@ -1,0 +1,3 @@
+<goel|[https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures,h]::1;
+<goetz|[https://www.everydayhealthgroup.com,s]::1;[https://www.everydayhealthgroup.com,p]::1;
+<goethem|[https://www.theregister.com/2021/02/24/dns_cname_tracking,p]::1;

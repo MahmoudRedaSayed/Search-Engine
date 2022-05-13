@@ -1,0 +1,5 @@
+<ofsymptoms|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;
+<ofstdsoccur|[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::1;
+<ofsleepstaying|[https://www.everydayhealth.com/infectious-diseases/coronavirus,p]::1;
+<ofseinfeldandveepfame|[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,p]::1;
+<ofsecurity|[https://www.apple.com/ios/app-store,p]::1;

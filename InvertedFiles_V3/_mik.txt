@@ -1,0 +1,8 @@
+<mike|[https://www.academicinfo.net,p]::1;[https://www.tutorialspoint.com/categories/development,p]::1;[https://www.everydayhealth.com/emotional-health/lili-reinhart-called-out-other-celebs-for-starving-themselves-why-body-image-experts-are-applauding-her,h]::1;[http://www.archive-it.org,p]::1;[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,h]::1;[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::1;[http://www.computerworld.com/article/2510494/data-privacy/microsoft-disables--supercookies--used-on-msn-com-visitors.html,p]::1;[https://www.propublica.org/article/zombie-cookie-the-tracking-cookie-that-you-cant-kill?token=PrSqc58cn7gW-eRA_isLN03ygBJN8E84,p]::4;[http://www.infoq.com/articles/rest-anti-patterns,s]::1;[http://www.infoq.com/articles/rest-anti-patterns,p]::2;
+<miketaylr|[https://github.com/httpwg/http-extensions/pull/1323,t]::1;[https://github.com/httpwg/http-extensions/pull/1323,h]::5;[https://github.com/httpwg/http-extensions/pull/1323,s]::5;
+<mikewest|[https://github.com/httpwg/http-extensions/pull/1323,h]::2;[https://github.com/httpwg/http-extensions/pull/1323,s]::3;[https://github.com/httpwg/http-extensions/pull/1323,p]::2;
+<mikatahara|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,p]::1;
+<mikal|[https://blog.mozilla.org/security/2021/01/26/supercookie-protections,p]::1;
+<mikes|[https://www.everydayhealth.com/breast-cancer/empowering-breast-and-gynecological-podcasts-hosted-by-survivors,p]::1;
+<mikael|[https://www.theregister.com/2021/02/24/dns_cname_tracking,p]::1;
+<mikaels|[https://www.theregister.com/2021/02/24/dns_cname_tracking,p]::1;

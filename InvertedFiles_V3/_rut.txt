@@ -1,0 +1,2 @@
+<ruth|[http://www.archive-it.org,p]::2;[https://www.healthline.com/health/healthy-sex/black-women-sexuality,p]::1;[https://ovarian.org,p]::1;
+<rutgers|[https://www.everydayhealth.com/womens-health/hormones/history-hormone-therapy,p]::1;[https://www.everydayhealth.com/womens-health/tubal-ligation-permanent-female-sterilization-misunderstood-birth-control-method,p]::1;[https://www.cancer.gov/news-events/cancer-currents-blog/2020/ovarian-cancer-racial-disparities-studies,p]::1;

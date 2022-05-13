@@ -1,0 +1,6 @@
+<irans|[https://www.france24.com,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus,p]::1;[https://www.wired.com/threatlevel/2011/03/comodo-compromise,t]::1;[https://www.wired.com/threatlevel/2011/03/comodo-compromise,h]::1;[https://www.wired.com/threatlevel/2011/03/comodo-compromise,p]::1;
+<iraq|[http://www.archive-it.org,p]::1;
+<iranian|[http://www.archive-it.org,p]::1;[https://www.wired.com/threatlevel/2011/03/comodo-compromise,p]::4;
+<irakur|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
+<iraungitze|[https://eu.wikipedia.org/wiki/Cookie,p]::3;
+<iraunkorrak|[https://eu.wikipedia.org/wiki/Cookie,p]::1;

@@ -1,0 +1,2 @@
+<otokiti|[https://www.dailymail.co.uk,p]::1;
+<otomatis|[https://id.wikipedia.org/wiki/Kuki,p]::1;

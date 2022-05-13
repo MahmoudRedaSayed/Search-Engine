@@ -1,0 +1,6 @@
+<sva|[http://www.archive-it.org,p]::1;
+<svariati|[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<svarbias|[https://lt.wikipedia.org/wiki/Slapukas,p]::1;
+<svaki|[https://sh.wikipedia.org/wiki/Cookie,p]::2;
+<svakim|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<svako|[https://sh.wikipedia.org/wiki/Cookie,p]::1;

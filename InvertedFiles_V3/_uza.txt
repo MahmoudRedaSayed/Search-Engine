@@ -1,0 +1,5 @@
+<uzanto|[https://eo.wikipedia.org/wiki/Kuketo,p]::5;
+<uzantoj|[https://eo.wikipedia.org/wiki/Kuketo,p]::3;
+<uzata|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
+<uzanton|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
+<uzas|[https://eo.wikipedia.org/wiki/Kuketo,p]::3;

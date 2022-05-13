@@ -1,0 +1,7 @@
+<tetanus|[https://www.everydayhealth.com/flu/guide,h]::1;
+<tetrasodium|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;
+<tetrahexyldecyl|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
+<tetraditbutyl|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
+<tetrahydroxypropyl|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
+<tetrapeptide|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
+<tetraisostearate|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::1;

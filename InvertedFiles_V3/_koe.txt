@@ -1,0 +1,5 @@
+<koen|[https://www.nytimes.com/2001/09/04/technology/04COOK.html,p]::1;
+<koekie|[https://af.wikipedia.org/wiki/Koekie_(rekenaarwetenskap),t]::1;[https://af.wikipedia.org/wiki/Koekie_(rekenaarwetenskap),h]::1;[https://af.wikipedia.org/wiki/Koekie_(rekenaarwetenskap),p]::3;
+<koekiestelsel|[https://af.wikipedia.org/wiki/Koekie_(rekenaarwetenskap),p]::5;[https://nds-nl.wikipedia.org/wiki/Koekien_(internet),p]::3;
+<koekien|[https://nds-nl.wikipedia.org/wiki/Koekien_(internet),t]::1;[https://nds-nl.wikipedia.org/wiki/Koekien_(internet),h]::1;[https://nds-nl.wikipedia.org/wiki/Koekien_(internet),p]::1;
+<koekiesbewark|[https://nds-nl.wikipedia.org/wiki/Koekien_(internet),h]::1;

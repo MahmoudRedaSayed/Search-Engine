@@ -1,0 +1,4 @@
+<lexical|[https://www.tutorialspoint.com/compiler_design/index.htm,p]::1;
+<lexicon|[https://www.everydayhealth.com/meditation,p]::1;
+<lexistence|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::1;
+<lexemple|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::1;

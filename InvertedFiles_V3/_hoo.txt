@@ -1,0 +1,5 @@
+<hoosismoxmox|[https://www.loc.gov,h]::1;
+<hook|[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::5;[https://www.everydayhealth.com/wellness/resilience,p]::1;[https://www.theregister.com/2021/02/24/dns_cname_tracking,p]::1;
+<hood|[https://blog.archive.org,p]::1;[https://developers.googleblog.com/2020/06/announcing-actions-builder-actions-sdk.html,p]::1;[https://www.theverge.com/2020/3/24/21192830/apple-safari-intelligent-tracking-privacy-full-third-party-cookie-blocking,p]::1;[https://web.archive.org/web/20090311132750/http:/www.google.com/support/chrome/bin/answer.py?answer=95626,s]::1;[https://blog.openlibrary.org/page/2,p]::1;
+<hoogstaande|[https://hearst.nl,p]::1;
+<hooked|[https://blog.openlibrary.org/page/2,p]::1;

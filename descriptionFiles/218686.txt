@@ -1,0 +1,1 @@
+same-site cookies (née  first-party-only  (née  first-party )) allow servers to mitigate the risk of csrf and information leakage attacks by asserting that a particular cookie should only be sent with requests initiated from the same registrable domain.

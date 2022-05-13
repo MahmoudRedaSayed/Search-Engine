@@ -1,0 +1,4 @@
+<toharvard|[https://www.everydayhealth.com/diet-nutrition/burning-questions-about-intermittent-fasting-answered,p]::4;
+<tohealth|[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,p]::1;
+<toho|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::3;
+<tohto|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

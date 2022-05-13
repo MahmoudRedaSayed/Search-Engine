@@ -1,0 +1,5 @@
+<sierra|[https://www.everydayhealth.com/depression/guide,s]::1;[https://www.everydayhealth.com/depression/guide,p]::2;[https://legal.twitter.com/imprint.html,p]::2;
+<siena|[http://www.archive-it.org,p]::1;[https://af.wikipedia.org/wiki/Koekie_(rekenaarwetenskap),p]::1;
+<siehe|[https://de.wikipedia.org/wiki/HTTP-Cookie,h]::1;
+<sieť|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<siegel|[http://pressroom.cancer.org/releases?item=1093,p]::1;

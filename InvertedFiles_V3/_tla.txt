@@ -1,0 +1,3 @@
+<tlačítkem|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<tlačidlá|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<tlačidlom|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::3;

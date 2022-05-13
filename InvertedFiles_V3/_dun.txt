@@ -1,0 +1,6 @@
+<dungeon|[https://www.healthline.com/program/sexual-health-for-every-body,p]::1;[http://healthline.com/program/sexual-health-for-every-body#covid-19,p]::1;[http://healthline.com/program/sexual-health-for-every-body#identity,p]::1;[http://healthline.com/program/sexual-health-for-every-body#help,p]::1;[http://healthline.com/program/sexual-health-for-every-body#morning-after,p]::1;[https://fr.wikipedia.org/wiki/Cookie_(informatique),h]::3;[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::3;[https://gl.wikipedia.org/wiki/Rastro,p]::1;
+<dungeons|[https://archive.org/about/bios.php,p]::1;[https://www.healthline.com/health/healthy-sex/black-women-sexuality,p]::1;
+<dundas|[http://www.archive-it.org,p]::3;
+<dunham|[https://www.everydayhealth.com/hysterectomy/guide,p]::1;
+<dune|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::2;
+<dunque|[https://it.wikipedia.org/wiki/Cookie,p]::1;

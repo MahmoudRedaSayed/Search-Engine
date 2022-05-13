@@ -1,0 +1,4 @@
+<daas|[https://twitter.com/privacy,p]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,s]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::4;[https://youradchoices.com/token,p]::1;
+<daac|[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;
+<daarsonder|[https://af.wikipedia.org/wiki/Koekie_(rekenaarwetenskap),p]::1;
+<daarnaast|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;

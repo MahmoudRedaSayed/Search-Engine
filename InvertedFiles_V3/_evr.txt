@@ -1,0 +1,2 @@
+<evrequest|[https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62017CC0040,p]::1;[https://www.hearst.co.uk/solutions/branded-content,p]::1;
+<evropské|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;

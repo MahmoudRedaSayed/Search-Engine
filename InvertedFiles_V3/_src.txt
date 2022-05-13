@@ -1,0 +1,1 @@
+<srcexamplejs|[https://ru.wikipedia.org/wiki/Cookie,p]::1;

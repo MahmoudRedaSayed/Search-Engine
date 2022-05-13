@@ -1,0 +1,9 @@
+<nabp|[https://www.everydayhealth.com/healthy-living/consumers-guide-drug-discounts,p]::3;
+<nabigatzaileko|[https://eu.wikipedia.org/wiki/Cookie,h]::1;[https://eu.wikipedia.org/wiki/Cookie,p]::3;
+<nabigatzailean|[https://eu.wikipedia.org/wiki/Cookie,p]::2;
+<nabigatzaileak|[https://eu.wikipedia.org/wiki/Cookie,p]::2;
+<nabigatzen|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
+<nabigatzailearen|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
+<nabigatzailera|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
+<nabigatzaileari|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
+<nabigazio|[https://eu.wikipedia.org/wiki/Cookie,p]::1;

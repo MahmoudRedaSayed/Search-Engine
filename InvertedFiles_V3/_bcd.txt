@@ -1,0 +1,1 @@
+<bcd|[https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie2,p]::1;[https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage,p]::1;[https://developer.mozilla.org/en-US/docs/DOM/document.cookie,p]::1;

@@ -1,0 +1,7 @@
+<jessica|[https://www.marca.com,h]::1;[https://www.medicalnewstoday.com,p]::1;[https://archive.org/about/bios.php,p]::1;[https://www.everydayhealth.com/ovarian-cancer/ovarian-cancer-and-pregnancy-what-you-need-to-know,p]::1;
+<jesuit|[http://www.archive-it.org,p]::2;[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<jesus|[http://www.archive-it.org,p]::8;[https://www.healthline.com/health/healthy-sex/black-women-sexuality,p]::2;[https://apps.apple.com/us/app/belong-beating-cancer-together/id1026738945,p]::1;
+<jesse|[https://www.healthline.com/health/healthy-sex/second-queer-adolescence,p]::1;[https://www.nytimes.com/2006/02/01/obituaries/coretta-scott-king-a-civil-rights-icon-dies-at-78.html,p]::1;
+<jest|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::20;
+<jeszcze|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<jesene|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

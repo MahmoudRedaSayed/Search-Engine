@@ -1,0 +1,3 @@
+<imo|[https://blog.archive.org,p]::1;
+<imovie|[https://www.apple.com/mac,p]::1;
+<imot|[https://nn.wikipedia.org/wiki/Informasjonskapsel,p]::1;

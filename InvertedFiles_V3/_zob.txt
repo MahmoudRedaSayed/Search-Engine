@@ -1,0 +1,6 @@
+<zobrazovat|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<zobacz|[https://pl.wikipedia.org/wiki/HTTP_cookie,s]::1;
+<zobraziť|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::3;
+<zobrazovať|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<zobrazujú|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<zobrazuje|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

@@ -1,0 +1,6 @@
+<tattoos|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;[https://www.everydayhealth.com/wellness/resilience,h]::1;[https://www.everydayhealth.com/wellness/resilience,s]::1;[https://www.everydayhealth.com/wellness/resilience,p]::5;[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,h]::2;[https://www.everydayhealth.com/breast-cancer/living-with/beauty-during-breast-cancer-treatment,h]::1;[https://www.everydayhealth.com/breast-cancer/living-with/on-chemo-brain-dropped-words,h]::2;[https://www.ihadcancer.com/h3-blog,h]::1;[https://www.everydayhealth.com/breast-cancer/empowering-breast-and-gynecological-podcasts-hosted-by-survivors,h]::1;
+<tatum|[https://www.everydayhealth.com/emotional-health/lili-reinhart-called-out-other-celebs-for-starving-themselves-why-body-image-experts-are-applauding-her,h]::1;
+<tatsuhiro|[http://www.thesecuritypractice.com/the_security_practice/2011/03/http-state-management-mechanism-to-proposed-standard.html,p]::1;
+<tatalovich|[https://www.cancer.org/cancer/ovarian-cancer/about/key-statistics.html,p]::2;
+<tato|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::3;
+<tatsächlich|[https://de.wikipedia.org/wiki/HTTP-Cookie,p]::1;

@@ -1,0 +1,6 @@
+<ganado|[https://www.marca.com,h]::1;
+<ganar|[https://www.marca.com,h]::1;
+<gang|[https://web.archive.org/web/20110427123350/http:/groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::1;[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::2;[https://web.archive.org/web/20081223151145/http:/www.infoq.com/articles/rest-anti-patterns,p]::1;[http://www.infoq.com/articles/rest-anti-patterns,p]::1;[https://da.wikipedia.org/wiki/Cookie,p]::2;
+<gantry|[https://www.everydayhealth.com/ct-scan/guide,p]::2;
+<gansler|[https://www.cancer.org/cancer/ovarian-cancer/causes-risks-prevention/risk-factors.html,p]::1;
+<gandhi|[https://thekingcenter.org/about-mrs-king,p]::1;

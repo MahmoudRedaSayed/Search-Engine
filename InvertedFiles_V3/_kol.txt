@@ -1,0 +1,13 @@
+<kole|[https://www.tutorialspoint.com/ethereum/index.htm,p]::1;
+<kolahdooz|[https://www.cancer.org/cancer/ovarian-cancer/causes-risks-prevention/risk-factors.html,p]::1;
+<koláček|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<kolom|[https://id.wikipedia.org/wiki/Kuki,p]::1;
+<kolei|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<kolačićauredi|[https://sh.wikipedia.org/wiki/Cookie,h]::2;[https://sh.wikipedia.org/wiki/Cookie,p]::42;
+<kolačićuredi|[https://sh.wikipedia.org/wiki/Cookie,h]::3;[https://sh.wikipedia.org/wiki/Cookie,p]::6;
+<kolačići|[https://sh.wikipedia.org/wiki/Cookie,h]::1;[https://sh.wikipedia.org/wiki/Cookie,p]::15;
+<kolačićiuredi|[https://sh.wikipedia.org/wiki/Cookie,h]::1;
+<koláčik|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<kolačićima|[https://sh.wikipedia.org/wiki/Cookie,p]::2;
+<kolačiće|[https://sh.wikipedia.org/wiki/Cookie,p]::5;
+<koliko|[https://sh.wikipedia.org/wiki/Cookie,p]::1;

@@ -1,0 +1,2 @@
+<ibatis|[https://www.tutorialspoint.com/java_technology_tutorials.htm,p]::1;[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<ibarra|[https://stupidcancer.org,p]::1;

@@ -1,0 +1,5 @@
+<lids|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::3;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::1;[https://tobaccoatlas.org,p]::1;
+<liderazgo|[http://www.archive-it.org,p]::1;[http://www.hearst.es,p]::1;
+<lideram|[https://24x7mag.com/professional-development/education/the-cookie-that-would-not-crumble,p]::1;
+<lidée|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::1;
+<lidentificatore|[https://it.wikipedia.org/wiki/Cookie,p]::1;

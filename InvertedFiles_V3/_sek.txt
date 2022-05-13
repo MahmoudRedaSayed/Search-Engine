@@ -1,0 +1,6 @@
+<sekonda|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
+<sekhar|[https://www.tutorialspoint.com/categories/development,p]::2;
+<sekula|[http://www.archive-it.org,p]::1;
+<sekvas|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
+<sekeping|[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::1;
+<sekali|[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::1;

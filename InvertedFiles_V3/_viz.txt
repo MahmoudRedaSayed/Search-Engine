@@ -1,0 +1,9 @@
+<vizier|[https://hearst.nl,p]::1;
+<vizito|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
+<vizitanto|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
+<vizitkutimojn|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
+<vizitojn|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
+<vizitor|[https://sq.wikipedia.org/wiki/Cookie_(internet),p]::1;
+<vizitează|[https://ro.wikipedia.org/wiki/Cookie,p]::1;
+<vizită|[https://ro.wikipedia.org/wiki/Cookie,p]::1;
+<vizitate|[https://ro.wikipedia.org/wiki/Cookie,p]::1;

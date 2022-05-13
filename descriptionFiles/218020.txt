@@ -1,0 +1,1 @@
+php tutorial,  the php hypertext preprocessor (php) is a programming language that allows web developers to create dynamic content that interacts with databases. php is basica

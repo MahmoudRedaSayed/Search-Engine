@@ -1,0 +1,7 @@
+<odpovědi|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<odpowiednie|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<odpowiednich|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<odporúča|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<odporúčanie|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<odpovedi|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<odpovede|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

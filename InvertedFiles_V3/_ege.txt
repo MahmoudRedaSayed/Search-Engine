@@ -1,0 +1,2 @@
+<eget|[https://www.acco.org,p]::8;
+<egenskaber|[https://da.wikipedia.org/wiki/Cookie,p]::1;

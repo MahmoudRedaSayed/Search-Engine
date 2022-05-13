@@ -1,0 +1,2 @@
+<hakodate|[https://dl.acm.org/doi/10.1145/3313831.3376321,p]::1;
+<haker|[https://sh.wikipedia.org/wiki/Cookie,p]::2;

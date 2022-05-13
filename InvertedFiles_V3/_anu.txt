@@ -1,0 +1,3 @@
+<anus|[https://www.everydayhealth.com/crohns-disease/guide,p]::2;[https://www.everydayhealth.com/ulcerative-colitis/guide,p]::2;[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::5;[https://www.everydayhealth.com/symptom-checker,p]::1;[https://www.everydayhealth.com/cervical-cancer/guide,p]::1;[https://www.everydayhealth.com/colon-cancer,p]::2;[https://www.everydayhealth.com/constipation/guide,p]::1;[https://www.cancer.org/cancer/ovarian-cancer/detection-diagnosis-staging/how-diagnosed.html,p]::1;
+<anume|[https://ro.wikipedia.org/wiki/Cookie,p]::2;
+<anumite|[https://ro.wikipedia.org/wiki/Cookie,p]::4;

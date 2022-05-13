@@ -1,0 +1,14 @@
+<apoyan|[https://www.marca.com,h]::1;
+<apologies|[https://www.dailymail.co.uk,h]::1;
+<apologise|[https://www.hearstmagazines.co.uk/covid-19,p]::1;
+<apologize|[http://www.archive-it.org,p]::1;
+<apostrophes|[https://developers.google.com/assistant/console/policies/general-policies,p]::1;
+<apology|[https://www.ipso.co.uk/editors-code-of-practice,p]::1;
+<apolitical|[https://wayback.archive-it.org/all/20180819022850/https:/papers.ssrn.com/sol3/papers.cfm?abstract_id=597543,p]::2;
+<apostas|[https://24x7mag.com/professional-development/education/the-cookie-that-would-not-crumble,p]::2;
+<apologized|[https://apps.apple.com/us/app/bezzy-ms/id1040195462,p]::1;
+<apod|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::3;
+<apoi|[https://ro.wikipedia.org/wiki/Cookie,p]::3;
+<apoyo|[https://www.cancer.org/es,p]::4;
+<apoyarnos|[https://www.cancer.org/es,p]::1;
+<apoye|[https://www.cancer.org/es,p]::1;

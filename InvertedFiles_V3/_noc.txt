@@ -1,0 +1,8 @@
+<nocost|[https://www.everydayhealth.com/healthy-living/consumers-guide-drug-discounts,p]::1;
+<noch|[https://legal.twitter.com/imprint.html,p]::1;
+<nocc|[https://www.everydayhealth.com/ovarian-cancer/guide,s]::1;[https://ovarian.org,p]::22;[https://www.everydayhealth.com/ovarian-cancer/resources,s]::1;[https://www.everydayhealth.com/ovarian-cancer/awareness-month,p]::1;
+<noccan|[https://www.everydayhealth.com/ovarian-cancer/guide,p]::1;[https://www.everydayhealth.com/ovarian-cancer/resources,p]::1;
+<noccovarianorg|[https://ovarian.org,p]::1;
+<noccs|[https://ovarian.org,p]::3;[https://www.everydayhealth.com/ovarian-cancer/awareness-month,p]::1;
+<noccis|[https://www.everydayhealth.com/ovarian-cancer/awareness-month,p]::1;
+<noccfor|[https://www.everydayhealth.com/ovarian-cancer/awareness-month,p]::1;

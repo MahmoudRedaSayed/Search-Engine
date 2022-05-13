@@ -1,0 +1,5 @@
+<dag|[http://www.archive-it.org,p]::3;[https://da.wikipedia.org/wiki/Cookie,p]::1;
+<dagons|[https://apps.apple.com/us/app/breast-cancer-healthline/id1356340700,p]::1;
+<dage|[https://da.wikipedia.org/wiki/Cookie,p]::1;
+<dagoelako|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
+<dagli|[https://it.wikipedia.org/wiki/Cookie,p]::1;

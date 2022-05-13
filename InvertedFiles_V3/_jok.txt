@@ -1,0 +1,5 @@
+<jokes|[https://www.dailymail.co.uk,h]::4;[https://www.iflscience.com/,p]::1;[https://www.dailymail.co.uk,p]::2;
+<jokic|[https://www.marca.com,h]::1;
+<joked|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
+<jokatzen|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
+<jokios|[https://lt.wikipedia.org/wiki/Slapukas,p]::1;

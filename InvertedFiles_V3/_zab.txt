@@ -1,0 +1,10 @@
+<zaborposta|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
+<zabezpieczenia|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<zabezpieczony|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<zablokowane|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<zabezpieczyć|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<zabranjuje|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<zabrana|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<zabezpečujú|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<zablokovaním|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<zabezpečené|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

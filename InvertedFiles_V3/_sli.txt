@@ -1,0 +1,14 @@
+<slide|[https://www.bbc.com/,h]::1;[https://www.bbc.com/,p]::1;[https://www.tutorialspoint.com/javascript/index.htm,p]::1;[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,p]::2;[https://www.everydayhealth.com/fertility,p]::1;[https://ovarian.org,p]::1;[https://www.everydayhealth.com/breast-cancer/empowering-breast-and-gynecological-podcasts-hosted-by-survivors,p]::1;
+<slices|[https://developers.google.com/assistant/docs,h]::1;[https://developers.google.com/assistant/app/slices,t]::1;[https://developers.google.com/assistant/app/slices,h]::6;[https://developers.google.com/assistant/app/slices,p]::22;[https://blog.archive.org,p]::1;[https://www.everydayhealth.com/mediterranean-diet/guide,p]::3;[https://www.everydayhealth.com/diet-nutrition/atkins-diet.aspx,p]::1;[https://www.everydayhealth.com/breast-cancer/living-with/on-chemo-brain-dropped-words,p]::1;[https://codelabs.developers.google.com/codelabs/appactions,p]::2;[https://www.nytimes.com/2001/09/04/technology/04COOK.html,p]::1;[https://www.everydayhealth.com/ct-scan/guide,p]::1;
+<sliceprovider|[https://developers.google.com/assistant/app/slices,p]::1;
+<sliceauthority|[https://developers.google.com/assistant/app/slices,p]::1;
+<slicemetadata|[https://developers.google.com/assistant/app/slices,p]::2;
+<slight|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;[https://www.everydayhealth.com/ovarian-cancer/nutrition-for-ovarian-cancer-patients.aspx,p]::1;[https://www.everydayhealth.com/ovarian-cancer/common-questions-about-ovarian-cancer-answered,p]::1;
+<slipped|[https://blog.archive.org,p]::1;[https://www.healthline.com/health/mental-health/discovering-gender-identity-in-isolation,p]::1;[https://www.blogforacure.com,p]::1;
+<sliced|[https://www.everydayhealth.com/mediterranean-diet/guide,p]::1;
+<slim|[https://www.everydayhealth.com/diet-nutrition/the-paleo-diet.aspx,p]::1;
+<slightest|[https://www.healthline.com/health/healthy-sex/sexual-guilt-purity-culture,p]::1;
+<slides|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,p]::14;[https://www.everydayhealth.com/ct-scan/guide,p]::1;[https://blog.openlibrary.org/page/2,p]::1;
+<slips|[https://www.apple.com/us/shop/goto/help/sales_refunds,p]::1;
+<sličan|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<slično|[https://sh.wikipedia.org/wiki/Cookie,p]::1;

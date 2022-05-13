@@ -1,0 +1,3 @@
+<skullcinema|[https://en.wikipedia.org/w/index.php?title=HTTP_cookie&oldid=1085989394,p]::1;
+<skupina|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::3;
+<skupinou|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

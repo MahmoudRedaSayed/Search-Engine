@@ -1,0 +1,2 @@
+<kedai|[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::1;
+<kedy|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

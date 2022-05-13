@@ -1,0 +1,10 @@
+<ukládají|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<ukládat|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<ukládání|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<ukladajú|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<ukladanie|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<ukladané|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<ukladať|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::4;
+<ukladali|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<ukladaním|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<ukladá|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

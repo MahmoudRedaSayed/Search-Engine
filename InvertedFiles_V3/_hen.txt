@@ -1,0 +1,8 @@
+<henry|[https://www.loc.gov,h]::1;[http://www.archive-it.org,p]::3;[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,h]::1;[https://www.tlcdirect.org,p]::1;[https://www.everydayhealth.com/ovarian-cancer/is-it-ovarian-cancer-or-ibs.aspx,p]::1;
+<henson|[https://www.everydayhealth.com/depression/guide,p]::1;
+<hennepin|[http://www.archive-it.org,p]::3;
+<hendersonville|[https://www.everydayhealthgroup.com,p]::1;
+<henrietta|[https://www.everydayhealth.com/biopsy/guide,h]::1;
+<henrik|[http://roy.gbiv.com/pubs/dissertation/evaluation.htm,p]::1;[https://web.archive.org/web/20110427074406/http:/roy.gbiv.com/pubs/dissertation/evaluation.htm,p]::1;[http://gemal.dk/browserspy,p]::1;
+<henvisningerredigér|[https://da.wikipedia.org/wiki/Cookie,h]::1;
+<hensikten|[https://no.wikipedia.org/wiki/Informasjonskapsel,p]::1;

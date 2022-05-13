@@ -1,0 +1,2 @@
+<noecho|[http://edbrowse.org/usersguide.html#cook,p]::1;[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,h]::1;[https://no.wikipedia.org/wiki/Informasjonskapsel,p]::2;
+<noen|[https://no.wikipedia.org/wiki/Informasjonskapsel,p]::1;

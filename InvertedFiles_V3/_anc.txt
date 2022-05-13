@@ -1,0 +1,10 @@
+<ancient|[https://www.bbc.com/,h]::1;[https://nautil.us,p]::1;[https://archive.org/details/software,p]::1;[https://www.everydayhealth.com/diet-nutrition/burning-questions-about-intermittent-fasting-answered,p]::1;[http://www.archive-it.org,p]::2;[https://www.healthline.com/health/mental-health/discovering-gender-identity-in-isolation,p]::1;[https://www.everydayhealth.com/pain-management/back-pain/quick-tips-to-help-prevent-back-pain.aspx,p]::1;[https://www.everydayhealth.com/meditation,p]::1;[https://www.theregister.com/2021/02/24/dns_cname_tracking,p]::1;
+<ancelotti|[https://www.marca.com,h]::1;
+<ancianas|[https://www.marca.com,h]::1;
+<ancestry|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::2;[https://www.everydayhealth.com/cancer/everyday-healths-hereditary-cancer-risk-twitter-chat-heres-what-you-missed,p]::1;[https://www.everydayhealth.com/ovarian-cancer/genetic-testing,p]::2;
+<ancestors|[https://www.everydayhealth.com/diet-nutrition/the-paleo-diet.aspx,h]::1;[https://www.everydayhealth.com/diet-nutrition/the-paleo-diet.aspx,p]::2;[http://www.archive-it.org,p]::1;[https://www.healthline.com/health/healthy-sex/black-women-sexuality,p]::1;[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,p]::2;
+<ancestral|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,p]::2;
+<ancer|[https://www.everydayhealth.com/ovarian-cancer/can-essential-oils-benefit-women-with-ovarian-cancer,s]::2;
+<anchor|[https://www.everydayhealth.com/meditation,p]::1;
+<anche|[https://it.wikipedia.org/wiki/Cookie,p]::11;
+<anca|[https://lmo.wikipedia.org/wiki/Biscott_(Scenza_di_urdinaduur),p]::2;

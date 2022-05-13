@@ -1,0 +1,4 @@
+<esistenza|[https://www.hearst.it,p]::1;[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<esignature|[http://www.adobe.com/support/documentation/en/flashplayer/help/settings_manager07.html,p]::1;
+<esistono|[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<esistente|[https://it.wikipedia.org/wiki/Cookie,p]::1;

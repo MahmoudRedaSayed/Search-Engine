@@ -1,0 +1,1 @@
+<opaque|[https://blog.archive.org,p]::1;[http://catb.org/jargon/html/M/magic-cookie.html,p]::1;[https://developer.mozilla.org/en-US/docs/Web_Development/HTTP_cookies,p]::1;

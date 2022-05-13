@@ -1,0 +1,2 @@
+<aukerakaldatu|[https://eu.wikipedia.org/wiki/Cookie,h]::1;[https://eu.wikipedia.org/wiki/Cookie,p]::1;
+<aukeratutako|[https://eu.wikipedia.org/wiki/Cookie,p]::1;

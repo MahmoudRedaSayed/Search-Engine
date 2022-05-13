@@ -1,0 +1,1 @@
+<utf|[http://edbrowse.org/usersguide.html#cook,p]::24;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::19;[https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage,p]::1;

@@ -1,0 +1,6 @@
+<orthostatic|[https://www.medicalnewstoday.com,p]::1;
+<ortwitter|[https://www.everydayhealth.com/ulcerative-colitis/guide,p]::1;
+<orta|[https://www.goodhousekeepingholidays.com/?utm_source=hearstmagazines&utm_medium=referral&utm_campaign=hearst-holidays&utm_term=ghk&utm_content=nav-bar,p]::1;
+<orthe|[https://www.everydayhealth.com/breast-cancer/living-with/on-chemo-brain-dropped-words,p]::1;
+<ortelehealth|[https://www.everydayhealth.com/cancer/genetic-counseling-for-cancer-risk-just-as-effective-via-telehealth-and-more-cancer-news-from-ascos-annual-meeting,p]::1;
+<ortubal|[https://www.everydayhealth.com/sexual-health/birth-control,p]::1;

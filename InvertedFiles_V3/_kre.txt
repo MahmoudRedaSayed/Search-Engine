@@ -1,0 +1,10 @@
+<kremlin|[https://www.dailymail.co.uk,p]::3;
+<kress|[https://archive.org/about/bios.php,p]::1;
+<kreise|[http://www.archive-it.org,p]::1;
+<kresge|[https://www.friend4life.org,p]::1;
+<kreas|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
+<kredit|[https://id.wikipedia.org/wiki/Kuki,p]::1;[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::1;
+<kredensial|[https://id.wikipedia.org/wiki/Kuki,p]::3;
+<kreves|[https://no.wikipedia.org/wiki/Informasjonskapsel,p]::1;
+<kreiraju|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<kreditných|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

@@ -1,0 +1,3 @@
+<gehiago|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
+<gehienek|[https://eu.wikipedia.org/wiki/Cookie,p]::2;
+<gehele|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;

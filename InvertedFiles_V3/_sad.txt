@@ -1,0 +1,10 @@
+<sad|[https://www.everydayhealth.com/depression/guide,h]::1;[https://www.everydayhealth.com/depression/guide,s]::2;[https://www.everydayhealth.com/depression/guide,p]::3;[https://www.everydayhealth.com/cancer/everyday-healths-hereditary-cancer-risk-twitter-chat-heres-what-you-missed,p]::1;
+<sadness|[https://www.everydayhealth.com/depression/guide,p]::3;[https://www.healthline.com/program/youth-in-focus,p]::1;[https://www.healthline.com/mental-health/youth-in-focus,p]::1;
+<sadly|[https://archive.org/about/bios.php,p]::1;[https://blog.openlibrary.org/page/2,p]::1;
+<sadie|[https://www.everydayhealth.com/courses,h]::1;
+<sadeghi|[https://www.cancer.org/cancer/ovarian-cancer/causes-risks-prevention/risk-factors.html,p]::1;
+<saddle|[https://www.apple.com/us/shop/goto/buy_accessories,h]::1;
+<saddened|[https://www.nytimes.com/2006/02/01/obituaries/coretta-scott-king-a-civil-rights-icon-dies-at-78.html,p]::1;
+<sadržajсадржај|[https://sh.wikipedia.org/wiki/Cookie,h]::1;[https://sh.wikipedia.org/wiki/Cookie,p]::5;
+<sadržavati|[https://sh.wikipedia.org/wiki/Cookie,p]::4;
+<sadrži|[https://sh.wikipedia.org/wiki/Cookie,p]::1;

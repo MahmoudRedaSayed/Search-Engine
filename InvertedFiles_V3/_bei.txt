@@ -1,0 +1,7 @@
+<bein|[https://www.beinsports.com,t]::1;[https://www.beinsports.com,p]::2;[https://de.wikipedia.org/wiki/HTTP-Cookie,h]::1;[https://de.wikipedia.org/wiki/HTTP-Cookie,p]::5;
+<beings|[https://nautil.us,h]::1;[https://www.tutorialspoint.com/machine_learning_with_python/index.htm,p]::1;
+<beijing|[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,h]::2;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,s]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::2;[http://www.archive-it.org,p]::1;
+<beinecke|[http://www.archive-it.org,p]::1;
+<beim|[https://legal.twitter.com/imprint.html,p]::1;
+<beispielbearbeiten|[https://de.wikipedia.org/wiki/HTTP-Cookie,h]::1;
+<beispielsweise|[https://de.wikipedia.org/wiki/HTTP-Cookie,p]::2;

@@ -1,0 +1,16 @@
+<gettysburg|[https://www.loc.gov,h]::1;
+<gettogether|[https://www.everydayhealth.com/ulcerative-colitis/guide,p]::1;
+<getaways|[https://www.hearstmagazines.co.uk/holidays,p]::4;[https://www.goodhousekeepingholidays.com/?utm_source=hearstmagazines&utm_medium=referral&utm_campaign=hearst-holidays&utm_term=ghk&utm_content=nav-bar,p]::1;[https://www.countrylivingholidays.com/?utm_source=hearstmagazines&utm_medium=referral&utm_campaign=hearst-holidays&utm_term=clv&utm_content=nav-bar,p]::2;[https://www.primaholidays.co.uk/?utm_source=hearstmagazines&utm_medium=referral&utm_campaign=hearst-holidays&utm_term=pri&utm_content=nav-bar,p]::2;[https://www.redescapes.com/?utm_source=hearstmagazines&utm_medium=referral&utm_campaign=hearst-holidays&utm_term=red&utm_content=nav-bar,p]::2;[https://is.wikipedia.org/wiki/Vafrakaka,p]::1;[https://www.healthline.com/program/lonely-planet,p]::1;
+<gettingcalciumand|[https://www.everydayhealth.com/diet-nutrition/the-paleo-diet.aspx,p]::1;
+<getample|[https://www.everydayhealth.com/dehydration/hydration-calculator,p]::1;
+<gettingresults|[https://www.youtube.com/ads,h]::1;
+<getthing|[https://developers.google.com/assistant/app/get-started,h]::1;[https://developers.google.com/assistant/app/get-started,p]::1;
+<get…|[https://www.healthline.com/program/sleep,p]::1;[https://www.healthline.com/reviews,p]::1;
+<getsupportive|[https://www.cancer.org/cancer/ovarian-cancer/treating.html,p]::2;
+<getting…|[https://www.healthline.com/coronavirus,p]::1;
+<getpurchaseorder|[https://web.archive.org/web/20081223151145/http:/www.infoq.com/articles/rest-anti-patterns,p]::1;[http://www.infoq.com/articles/rest-anti-patterns,p]::1;
+<getputetc|[https://web.archive.org/web/20081223151145/http:/www.infoq.com/articles/rest-anti-patterns,p]::1;[http://www.infoq.com/articles/rest-anti-patterns,p]::1;
+<getattribute|[https://web.archive.org/web/20150111024715/http:/msdn.microsoft.com/en-us/library/ms533007(v=vs.85).aspx,s]::3;[https://web.archive.org/web/20150111024715/http:/msdn.microsoft.com/en-us/library/ms533007(v=vs.85).aspx,p]::3;
+<getter|[https://developer.mozilla.org/en-US/docs/DOM/document.cookie,p]::3;
+<gettone|[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<getfitdone|[https://www.hearst.co.uk/solutions/experiential,p]::1;

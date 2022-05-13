@@ -1,0 +1,1 @@
+time series tutorial,  a time series is a sequence of observations over a certain period. the simplest example of a time series that all of us come across on a day to day basis is the

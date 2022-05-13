@@ -1,0 +1,6 @@
+<zakázat|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<zakodować|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<zakupowych|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<zakończonej|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<zakázať|[https://sk.wikipedia.org/wiki/HTTP_cookie,h]::1;[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::3;
+<zakazovať|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

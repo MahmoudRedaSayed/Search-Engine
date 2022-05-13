@@ -1,0 +1,4 @@
+<cuba|[https://archive.org/about/bios.php,p]::1;
+<cuban|[http://www.archive-it.org,p]::1;
+<cubed|[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;
+<cubecart|[https://www.netsparker.com/blog/web-security/same-site-cookie-attribute-prevent-cross-site-request-forgery,h]::1;[https://www.netsparker.com/blog/web-security/same-site-cookie-attribute-prevent-cross-site-request-forgery,p]::1;

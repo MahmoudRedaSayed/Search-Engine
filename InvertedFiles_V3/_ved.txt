@@ -1,0 +1,7 @@
+<vedkommende|[https://da.wikipedia.org/wiki/Cookie,p]::3;[https://no.wikipedia.org/wiki/Informasjonskapsel,p]::1;
+<vedligeholder|[https://da.wikipedia.org/wiki/Cookie,p]::1;
+<vedi|[https://it.wikipedia.org/wiki/Cookie,p]::2;
+<vedè|[https://lmo.wikipedia.org/wiki/Biscott_(Scenza_di_urdinaduur),p]::1;
+<vedomia|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<vedomí|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<vedomým|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

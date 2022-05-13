@@ -1,0 +1,2 @@
+<ili|[https://eo.wikipedia.org/wiki/Kuketo,p]::2;[https://sw.wikipedia.org/wiki/Kuki,p]::1;[https://sh.wikipedia.org/wiki/Cookie,p]::9;
+<ilin|[https://eo.wikipedia.org/wiki/Kuketo,p]::3;

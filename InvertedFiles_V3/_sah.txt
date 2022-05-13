@@ -1,0 +1,3 @@
+<sahara|[https://www.france24.com,p]::2;
+<sahələrinə|[https://az.wikipedia.org/wiki/HTTP_Kuki,p]::1;
+<sahaja|[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::1;

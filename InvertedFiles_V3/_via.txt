@@ -1,0 +1,9 @@
+<viaje|[https://www.marca.com,h]::1;
+<viable|[https://www.healthline.com/health/healthy-sex/black-women-sexuality,p]::1;[https://twitter.com/tos,p]::2;[https://www.everydayhealth.com/fertility/in-vitro-fertilization-other-infertility-treatments,p]::1;[http://www.adobe.com/support/documentation/en/flashplayer/help/settings_manager07.html,p]::1;
+<viahttpssupporttwittercomforms|[https://legal.twitter.com/imprint.html,p]::1;
+<viadsareverydayhealthcomor|[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::3;
+<viagra|[https://www.healthline.com/reviews,p]::2;
+<viac|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<viaceré|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<viacej|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<viacero|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::2;

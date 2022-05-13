@@ -1,0 +1,5 @@
+<aiuti|[https://www.hearst.it,h]::1;
+<aiuta|[https://www.hearst.it,p]::1;
+<aiutano|[https://www.hearst.it,p]::1;
+<aiutare|[https://www.hearst.it,p]::1;[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<aiutarci|[https://it.wikipedia.org/wiki/Cookie,p]::1;

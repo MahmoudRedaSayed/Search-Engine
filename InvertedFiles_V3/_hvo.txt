@@ -1,0 +1,2 @@
+<hvor|[https://da.wikipedia.org/wiki/Cookie,p]::3;[https://no.wikipedia.org/wiki/Informasjonskapsel,p]::1;
+<hvorved|[https://da.wikipedia.org/wiki/Cookie,p]::2;

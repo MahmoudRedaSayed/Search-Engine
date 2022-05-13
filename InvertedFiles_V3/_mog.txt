@@ -1,0 +1,4 @@
+<mogen|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::2;
+<mogą|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::3;
+<mogu|[https://sh.wikipedia.org/wiki/Cookie,p]::12;
+<moguće|[https://sh.wikipedia.org/wiki/Cookie,p]::1;

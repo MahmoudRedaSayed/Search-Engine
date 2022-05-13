@@ -1,0 +1,4 @@
+<rips|[https://www.bbc.com/,h]::1;
+<ripples|[https://nautil.us,p]::1;[https://www.nytimes.com/2006/02/01/obituaries/coretta-scott-king-a-civil-rights-icon-dies-at-78.html,p]::1;
+<rippling|[https://web.archive.org/web/20051001113951/http:/www.microsoft.com/windows/IE/community/columns/historyofie.mspx,p]::1;
+<ripresentino|[https://it.wikipedia.org/wiki/Cookie,p]::1;

@@ -1,0 +1,4 @@
+<uspopulation|[https://www.cancer.gov/about-cancer/understanding/statistics,p]::1;
+<usplease|[https://twitter.com/privacy,p]::1;
+<uspstf|[https://www.everydayhealth.com/colon-cancer,p]::2;[https://www.everydayhealth.com/womens-health/hormones/history-hormone-therapy,p]::1;[https://www.everydayhealth.com/ovarian-cancer/genetic-testing,p]::2;[https://www.everydayhealth.com/hysterectomy/recovery-from-abdominal-hysterectomy-takes-time-patience,p]::1;[https://www.everydayhealth.com/hysterectomy/guide,p]::1;
+<uspješno|[https://sh.wikipedia.org/wiki/Cookie,p]::1;

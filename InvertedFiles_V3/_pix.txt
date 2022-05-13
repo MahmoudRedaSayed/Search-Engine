@@ -1,0 +1,4 @@
+<pixels|[http://www.hearst.co.uk/privacy-notice,p]::1;[http://www.hearst.co.uk/cookies-policy,p]::1;[https://support.twitter.com/articles/20170514,p]::9;[https://www.everydayhealth.com/cancer/cancer-news-digest-latest-developments-in-cancer-research-and-treatment-for-june,p]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::5;[https://www.lambdatest.com/SameSite-cookie-attribute,p]::1;[https://link.springer.com/10.1007/978-3-030-76663-4_3,p]::3;[https://da.wikipedia.org/wiki/Cookie,p]::1;[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::1;[https://foundation.wikimedia.org/wiki/Cookie_statement,p]::5;
+<pixar|[https://archive.org/about/bios.php,p]::1;
+<pixelbypixel|[https://www.lambdatest.com/SameSite-cookie-attribute,p]::1;
+<pixelquantservecomsee|[https://link.springer.com/10.1007/978-3-030-76663-4_3,p]::2;

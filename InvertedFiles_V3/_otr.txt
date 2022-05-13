@@ -1,0 +1,2 @@
+<otro|[https://www.marca.com,h]::1;
+<otros|[https://www.marca.com,h]::1;[https://www.cancer.org/es,t]::1;

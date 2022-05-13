@@ -1,0 +1,3 @@
+<odgovarala|[https://sh.wikipedia.org/wiki/Cookie,p]::3;
+<odgovor|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<odgovoru|[https://sh.wikipedia.org/wiki/Cookie,p]::1;

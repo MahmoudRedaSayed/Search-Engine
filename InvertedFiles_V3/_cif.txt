@@ -1,0 +1,4 @@
+<cifratura|[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<cifrate|[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<cifrata|[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<cifrati|[https://it.wikipedia.org/wiki/Cookie,p]::1;

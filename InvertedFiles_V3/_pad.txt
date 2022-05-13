@@ -1,0 +1,8 @@
+<padre|[https://www.marca.com,h]::2;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::6;
+<padina|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;
+<pads|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::2;[https://www.everydayhealth.com/ovarian-cancer/large-study-finds-no-link-between-use-of-talcum-powder-in-genital-area-and-ovarian-cancer,p]::1;
+<padma|[https://www.everydayhealth.com/hysterectomy/guide,p]::1;
+<padsicle|[https://www.healthline.com/parenthood/health-well-being,p]::1;[https://www.healthline.com/parenthood,p]::1;
+<pada|[https://id.wikipedia.org/wiki/Kuki,p]::2;[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::5;
+<padėti|[https://lt.wikipedia.org/wiki/Slapukas,p]::1;
+<padanan|[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::1;

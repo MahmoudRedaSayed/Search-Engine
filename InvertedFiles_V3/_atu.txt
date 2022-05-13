@@ -1,0 +1,3 @@
+<atul|[https://www.tutorialspoint.com/bestseller/courses,p]::1;
+<aturcara|[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::1;
+<atunci|[https://ro.wikipedia.org/wiki/Cookie,p]::1;

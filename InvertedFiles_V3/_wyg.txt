@@ -1,0 +1,11 @@
+<wygenerowanie|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<wygaśnie|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<wyglądać|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<wygenerować|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<wygasają|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::3;
+<wygasania|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<wygasanie|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<wygaśnięcie|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<wygasło|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<wygasły|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<wygaśnięcia|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;

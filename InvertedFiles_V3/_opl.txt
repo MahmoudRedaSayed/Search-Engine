@@ -1,0 +1,2 @@
+<oplatka|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<oplysninger|[https://da.wikipedia.org/wiki/Cookie,p]::2;

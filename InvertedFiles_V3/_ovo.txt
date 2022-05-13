@@ -1,0 +1,3 @@
+<ovoj|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;[https://sh.wikipedia.org/wiki/Cookie,p]::3;
+<ovog|[https://sh.wikipedia.org/wiki/Cookie,p]::2;
+<ovoga|[https://sh.wikipedia.org/wiki/Cookie,p]::1;

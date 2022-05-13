@@ -1,0 +1,1 @@
+<hrmycompanycom|[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;[https://github.com/httpwg/http-extensions/pull/1323,p]::2;

@@ -1,0 +1,5 @@
+<esempio|[https://it.wikipedia.org/wiki/Cookie,p]::22;
+<esegue|[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<eseguito|[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<eseguita|[https://it.wikipedia.org/wiki/Cookie,p]::2;
+<eseguire|[https://it.wikipedia.org/wiki/Cookie,p]::1;

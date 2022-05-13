@@ -1,0 +1,2 @@
+<pimple|[https://www.everydayhealth.com/wellness/healthy-skin,h]::1;[https://www.healthline.com/program/acne-prone-skin-a-game-plan,p]::1;
+<pimples|[https://www.healthline.com/program/acne-prone-skin-a-game-plan,p]::1;

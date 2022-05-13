@@ -1,0 +1,5 @@
+<cabinet|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;[https://www.campdream.org/,s]::1;[https://www.campdream.org/,p]::1;[https://archive.org/about/bios.php,p]::1;[https://www.everydayhealth.com/cancer/biden-relaunches-cancer-moonshot-program-with-pledge-to-end-cancer-as-we-know-it,h]::1;[https://www.everydayhealth.com/cancer/biden-relaunches-cancer-moonshot-program-with-pledge-to-end-cancer-as-we-know-it,s]::1;[https://www.everydayhealth.com/cancer/biden-relaunches-cancer-moonshot-program-with-pledge-to-end-cancer-as-we-know-it,p]::1;
+<cablin|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::2;
+<cable|[https://blog.archive.org,p]::1;[https://www.tutorialspoint.com/data_communication_computer_network/index.htm,p]::2;[https://www.tutorialspoint.com/computer_glossary.htm,p]::3;[http://www.hearst.com.cn/en/aboutus,p]::1;
+<cables|[http://www.archive-it.org,p]::1;[https://www.tutorialspoint.com/computer_glossary.htm,p]::1;
+<cabbage|[https://www.everydayhealth.com/cancer-photos/top-foods-to-fight-cancer.aspx,p]::1;

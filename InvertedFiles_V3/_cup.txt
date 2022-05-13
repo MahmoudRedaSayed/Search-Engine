@@ -1,0 +1,7 @@
+<cup|[https://www.dailymail.co.uk,h]::1;[https://www.france24.com,p]::2;[https://www.everydayhealth.com/mediterranean-diet/guide,s]::6;[https://www.everydayhealth.com/mediterranean-diet/guide,p]::6;[https://www.everydayhealth.com/cancer-photos/top-foods-to-fight-cancer.aspx,p]::1;[https://www.tlcdirect.org,s]::2;[https://www.tlcdirect.org,p]::9;[https://www.everydayhealth.com/ovarian-cancer/ovarian-cancer-survivor-stories,p]::1;[https://apps.apple.com/us/app/bezzy-ms/id1040195462,p]::1;[https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wikipedia.org&uselang=en,p]::1;
+<cups|[https://www.everydayhealth.com/depression/guide,s]::1;[https://www.everydayhealth.com/depression/guide,p]::2;[https://www.everydayhealth.com/dehydration/hydration-calculator,p]::2;[https://www.tlcdirect.org,p]::1;[https://www.everydayhealth.com/menstruation/guide,h]::2;[https://www.everydayhealth.com/menstruation/guide,p]::1;
+<cuppa|[https://www.hearstmagazines.co.uk/gift-ideas,p]::1;[https://www.hearstmagazines.co.uk/gift-ideas/for-the-home-lover,p]::1;
+<cupik|[https://blog.archive.org,p]::1;
+<cupana|[https://www.everydayhealth.com/cancer/8-ways-fight-fatigue-chemotherapy-treatment,p]::2;
+<cupcake|[https://www.healthline.com/type-2-diabetes,p]::1;
+<cuprins|[https://ro.wikipedia.org/wiki/Cookie,h]::1;

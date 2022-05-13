@@ -1,0 +1,3 @@
+<jejunoileitis|[https://www.everydayhealth.com/crohns-disease/guide,s]::1;[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::3;
+<její|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<jejich|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;

@@ -1,0 +1,3 @@
+<pyramids|[https://www.bbc.com/,p]::1;[https://english.ahram.org.eg/,p]::1;
+<pyrus|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;
+<pyro|[https://www.tutorialspoint.com/pytorch/index.htm,p]::1;

@@ -1,0 +1,5 @@
+<nueve|[https://www.marca.com,h]::1;
+<nuevo|[https://www.sciencenewsforstudents.org,h]::1;[https://www.marca.com,h]::1;[http://www.hearst.es,h]::1;
+<nuestras|[http://www.hearst.es,p]::3;[https://www.cancer.org/es,p]::2;
+<nuestros|[http://www.hearst.es,p]::1;[https://www.cancer.org/es,p]::4;
+<nuevos|[https://www.cancer.org/es,p]::1;

@@ -1,0 +1,3 @@
+<veut|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::1;
+<veulent|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::1;
+<veurmalig|[https://li.wikipedia.org/wiki/Cookie,p]::2;[https://nds-nl.wikipedia.org/wiki/Koekien_(internet),p]::1;

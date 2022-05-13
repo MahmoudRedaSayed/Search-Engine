@@ -1,0 +1,2 @@
+<zwecke|[http://www.archive-it.org,p]::1;
+<zwei|[https://de.wikipedia.org/wiki/HTTP-Cookie,p]::1;

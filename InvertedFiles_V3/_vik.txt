@@ -1,0 +1,3 @@
+<vikipediya|[https://az.wikipedia.org/wiki/HTTP_Kuki,t]::1;
+<vikipedio|[https://eo.wikipedia.org/wiki/Kuketo,t]::1;
+<vikipedija|[https://lt.wikipedia.org/wiki/Slapukas,t]::1;

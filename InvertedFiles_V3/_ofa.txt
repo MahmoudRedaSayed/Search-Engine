@@ -1,0 +1,6 @@
+<ofa|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;
+<ofassistivedevices|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;
+<ofalmonds|[https://www.everydayhealth.com/mediterranean-diet/guide,p]::1;
+<ofalzheimers|[https://www.everydayhealth.com/diet-and-nutrition/diet/mind-diet-can-this-diet-plan-help-reverse-alzheimers-disease,p]::1;
+<ofacta|[https://www.everydayhealth.com/fertility/in-vitro-fertilization-other-infertility-treatments,p]::1;
+<ofapple|[https://www.apple.com/tv-home,p]::1;

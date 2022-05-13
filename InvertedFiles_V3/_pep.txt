@@ -1,0 +1,6 @@
+<pep|[https://www.marca.com,h]::1;[https://www.everydayhealth.com/cancer/8-ways-fight-fatigue-chemotherapy-treatment,p]::1;
+<peptides|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;
+<peppermint|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::2;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;[https://www.everydayhealth.com/digestive-health/10-ways-get-rid-bloating,p]::3;[https://www.everydayhealth.com/ovarian-cancer/can-essential-oils-benefit-women-with-ovarian-cancer,p]::1;
+<peppers|[https://www.everydayhealth.com/mediterranean-diet/guide,p]::1;
+<pepperoni|[https://www.everydayhealth.com/mediterranean-diet/guide,p]::1;
+<peptic|[https://www.everydayhealth.com/abdominal-pain/guide,s]::1;[https://www.everydayhealth.com/abdominal-pain/guide,p]::1;

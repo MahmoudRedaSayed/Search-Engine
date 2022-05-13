@@ -1,0 +1,6 @@
+<ald|[https://www.everydayhealthgroup.com,p]::1;
+<aldatu|[https://eu.wikipedia.org/wiki/Cookie,h]::7;
+<aldi|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
+<aldaketarik|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
+<aldaketen|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
+<aldiz|[https://eu.wikipedia.org/wiki/Cookie,p]::1;

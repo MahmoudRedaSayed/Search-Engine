@@ -1,0 +1,2 @@
+<vijay|[https://www.tutorialspoint.com/php/index.htm,p]::1;[https://www.tutorialspoint.com/mysql/index.htm,p]::1;
+<vijayan|[http://www.computerworld.com/article/2510494/data-privacy/microsoft-disables--supercookies--used-on-msn-com-visitors.html,p]::1;

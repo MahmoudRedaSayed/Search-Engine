@@ -1,0 +1,1 @@
+react native tutorial,  react native is a javascript framework for building native mobile apps. it uses the react framework and offers large amount of inbuilt components and apis.

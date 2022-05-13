@@ -1,0 +1,4 @@
+<noise|[https://www.healthline.com/,p]::1;[https://www.dailyom.com,h]::2;[https://www.apple.com/airpods,p]::4;[https://www.apple.com/us/shop/goto/buy_accessories,h]::1;
+<noir|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;[https://www.apple.com/us/shop/goto/buy_accessories,h]::1;
+<noisy|[https://www.inlife.co.uk/why-are-cookies-called-cookies,p]::1;[https://blog.openlibrary.org,p]::2;[https://blog.openlibrary.org/2022/04/27/a-high-schoolers-experience-contributing-to-the-open-book-genome-project,p]::2;
+<noinapppurchases|[https://www.apple.com/tv-home,h]::1;

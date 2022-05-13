@@ -1,0 +1,9 @@
+<cohenjones|[https://www.dailymail.co.uk,p]::1;[https://www.everydayhealth.com/mediterranean-diet/guide,p]::2;[https://www.everydayhealth.com/diet-nutrition/the-dash-diet.aspx,p]::1;[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,h]::1;[https://www.everydayhealth.com/ovarian-cancer/pain-what-it-feels-like-what-causes-it-and-how-women-manage-it,p]::4;[https://www.everydayhealth.com/meditation,p]::6;
+<cohort|[https://www.dailymail.co.uk,p]::1;[http://www.thesecuritypractice.com/the_security_practice/2011/03/http-state-management-mechanism-to-proposed-standard.html,p]::1;[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,p]::1;[https://www.cancer.org/cancer/ovarian-cancer/causes-risks-prevention/risk-factors.html,p]::2;[https://www.everydayhealth.com/ovarian-cancer/large-study-finds-no-link-between-use-of-talcum-powder-in-genital-area-and-ovarian-cancer,p]::1;
+<cohesion|[https://www.everydayhealth.com/wellness/resilience,p]::1;
+<cohost|[https://www.everydayhealth.com/cancer/condition-kitchen-easy-recipes-people-living-with-cancer,p]::1;[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,p]::1;[https://www.everydayhealth.com/breast-cancer/empowering-breast-and-gynecological-podcasts-hosted-by-survivors,p]::2;
+<cohosts|[https://www.everydayhealth.com/cancer/condition-kitchen-easy-recipes-people-living-with-cancer,p]::1;
+<cohennetaxscom|[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::1;
+<cohesiveness|[http://www.thesecuritypractice.com/the_security_practice/2011/03/http-state-management-mechanism-to-proposed-standard.html,p]::1;
+<cohorts|[https://www.everydayhealth.com/ovarian-cancer/myths-versus-facts,p]::1;
+<cohortsに移行する動きがある。|[https://ja.wikipedia.org/wiki/HTTP_cookie,p]::1;
