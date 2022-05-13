@@ -113,7 +113,7 @@ public class PhraseSearching {
 
         System.out.println("Phrase Searching Run Function");
         boolean[] indexProcessed;  //Used for Links map, to not add links over and over again
-        Map<String, Integer> allLinks = new HashMap<String, Integer>(); //Has links that are repeated for each word of the search query
+        HashMap<String, Integer> allLinks = new HashMap<String, Integer>(); //Has links that are repeated for each word of the search query
         JSONObject divide = new JSONObject();             //Used for divided Query servlet to highlight content in results
         divide.put("Results", message);
         dividedQuery.put(divide);                    //Populating the array using the whole search query

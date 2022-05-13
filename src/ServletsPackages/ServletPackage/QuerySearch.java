@@ -6,6 +6,7 @@ import javax.servlet.*;
 import javax.servlet.http.*;
 
 
+import DataBasePackages.DataBase.DataBase;
 import org.json.JSONException;
 import java.io.*;
 import java.nio.charset.StandardCharsets;
@@ -27,10 +28,12 @@ import org.tartarus.snowball.ext.PorterStemmer;
 
 public class QuerySearch extends HttpServlet {
     public String searchingQuery;
-    public ArrayList<String> rankerArray=new ArrayList<String>();
-    public JSONArray dividedQuery=new JSONArray();
+    public ArrayList<String> rankerArray = new ArrayList<String>();
+    public HashMap<String, Integer> phraSearchingMap = new HashMap<String, Integer>();
+    public boolean isPhraseSearching = false;
+    public JSONArray dividedQuery = new JSONArray();
     Ranker rankerObject = new Ranker();
-    int count=0;
+    int count = 0;
 
 
     public void doGet(HttpServletRequest req, HttpServletResponse res) throws IOException {
@@ -39,31 +42,42 @@ public class QuerySearch extends HttpServlet {
         System.out.println("any thing here ");
         String searchingQuery = req.getParameter("query");
         res.setContentType("text/html");
-        String results="";
+        String results = "";
         DataBase dataBaseObj = new DataBase();
-        count=dataBaseObj.getCompleteCount();
+        count = dataBaseObj.getCompleteCount();
 
         //WorkingFiles workingFilesObj = new WorkingFiles(5615);
         if (searchingQuery.startsWith("\"") && searchingQuery.endsWith("\"")) {
 
             //call the function of the phrase searching
-            res.getWriter().println("phrase"+count);
+            res.getWriter().println("phrase" + count);
 
 
-//            PhraseSearching obj = new PhraseSearching();
-//
-//            try {
-////                 results  =obj.run(searchingQuery,rankerArray,dividedQuery);
-//            } catch (JSONException e) {
-//                e.printStackTrace();
-//            }
-        } else {
+            PhraseSearching obj = new PhraseSearching();
+
+            try {
+                 phraSearchingMap  =obj.run(searchingQuery,rankerArray,dividedQuery);
+            } catch (JSONException e) {
+                e.printStackTrace();
+            }
+
+            try {
+                isPhraseSearching = true;
+                results = rankerObject.calculateRelevance(rankerArray, phraSearchingMap, isPhraseSearching);
+
+            } catch (JSONException e) {
+                e.printStackTrace();
+            }
+
+            res.getWriter().println(results);
+        }
+        else {
             //call function of query processing
 //            res.getWriter().println("query"+count);
 
             QueryProcessing obj = new QueryProcessing();
             try {
-                 results  =obj.run(searchingQuery,rankerArray,dividedQuery);
+              obj.run(searchingQuery, rankerArray, dividedQuery);
             } catch (Exception e) {
                 e.printStackTrace();
                 System.out.println(e);
@@ -71,16 +85,13 @@ public class QuerySearch extends HttpServlet {
             //Trying Ranker but There's an error from file path not found, needs to be fixed
             //The error is for Mustafa to check
 
-//            try {
-//                Map<Integer,Double> rankingResult= rankerObject.calculateRelevance(rankerArray);
-//
-//                //Passed Map to HashMap constructor, Probably an error
-//                HashMap<Integer,Double> toBeSorted = new HashMap<Integer,Double>(rankingResult);
-//                HashMap<Integer,Double> sortedRankerMap = QueryProcessing.sortByValue(toBeSorted);
-//                HashMap<String,Double> linksRankedMap = QueryProcessing.replaceIDByLink(toBeSorted);
-//            } catch (JSONException e) {
-//                e.printStackTrace();
-//            }
+            try {
+               isPhraseSearching = false;
+               results = rankerObject.calculateRelevance(rankerArray, phraSearchingMap, isPhraseSearching);
+
+            } catch (JSONException e) {
+                e.printStackTrace();
+            }
 
             res.getWriter().println(results);
 
@@ -93,11 +104,10 @@ public class QuerySearch extends HttpServlet {
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
-
     static class PhraseSearching {
         WorkingFiles workingFilesObject;
         DataBase dataBaseObject;
-        public  PorterStemmer stemObject = new PorterStemmer();
+        public PorterStemmer stemObject = new PorterStemmer();
         public String[] stopWords;
 
 
@@ -174,8 +184,7 @@ public class QuerySearch extends HttpServlet {
             int stopIndex, counter;
 
             results.add(0, "");     // if the targeted word is not found, replace empty in its index
-            while(read.hasNextLine())
-            {
+            while (read.hasNextLine()) {
                 tempInput = read.nextLine();
                 if (tempInput.equals(""))
                     continue;
@@ -189,8 +198,7 @@ public class QuerySearch extends HttpServlet {
                     String theWord = tempInput.substring(1, stopIndex);
 
                     // this condition for the targeted word
-                    if(!wordIsFound && theWord.equals(word.toLowerCase()))
-                    {
+                    if (!wordIsFound && theWord.equals(word.toLowerCase())) {
                         results.set(0, tempInput);     // target word will have the highest priority
                         wordIsFound = true;
                         continue;
@@ -198,15 +206,13 @@ public class QuerySearch extends HttpServlet {
 
                     counter = 1;
                     // comparing the stemmed version of the target word by the stemmed version of the word in the inverted file
-                    if (stemmingFlag)
-                    {
+                    if (stemmingFlag) {
                         if (stemmedVersion.equals(HelperClass.stemTheWord(theWord)))
                             results.add(counter++, tempInput);
                     }
                 }
             }
         }
-
 
 
         //--------------------------Function run--------------------------//
@@ -217,19 +223,18 @@ public class QuerySearch extends HttpServlet {
            * Prepares for Highlighting websites content by dividing the query into its constituents
    */
 
-        public String run(String message, ArrayList<String> queryLinesResult, JSONArray dividedQuery) throws FileNotFoundException, JSONException {
+        public HashMap<String, Integer> run(String message, ArrayList<String> queryLinesResult, JSONArray dividedQuery) throws FileNotFoundException, JSONException {
 
             System.out.println("Phrase Searching Run Function");
             boolean[] indexProcessed;  //Used for Links map, to not add links over and over again
-            Map<String, Integer> allLinks = new HashMap<String, Integer>(); //Has links that are repeated for each word of the search query
+            HashMap<String, Integer> allLinks = new HashMap<String, Integer>(); //Has links that are repeated for each word of the search query
             JSONObject divide = new JSONObject();             //Used for divided Query servlet to highlight content in results
             divide.put("Results", message);
             dividedQuery.put(divide);                    //Populating the array using the whole search query
 
 
-
             String[] result = SplitQuery(message);  //Splitting for words
-            result  = removeStopWords(result);     // Remove Stop Words from the query
+            result = removeStopWords(result);     // Remove Stop Words from the query
             indexProcessed = new boolean[result.length];  //Initializing indexes array
             JSONArray finalJsonFile = new JSONArray();   //For final results
 
@@ -246,17 +251,15 @@ public class QuerySearch extends HttpServlet {
                 String fileName = "";
                 if (HelperClass.isProbablyArabic(result[i]))
                     fileName = "arabic";
-                else if(result[i].length() == 2)
+                else if (result[i].length() == 2)
                     fileName = "two";
 
-                else if(result[i].length() > 2)
-                {
-                    fileName = "_" + result[i].substring(0,3);
+                else if (result[i].length() > 2) {
+                    fileName = "_" + result[i].substring(0, 3);
 
                     // if the word is something like that => UK's
                     File tempFile = new File(HelperClass.invertedFilePath_V3(fileName));
-                    if (! tempFile.exists())
-                    {
+                    if (!tempFile.exists()) {
                         fileName = "others";
                     }
                 }
@@ -274,7 +277,7 @@ public class QuerySearch extends HttpServlet {
 
 
                 //false to sepcify it's Phrase Searching not Query Processing
-                searchInInvertedFiles(result[i], targetFile,oneWordResult, false);
+                searchInInvertedFiles(result[i], targetFile, oneWordResult, false);
 
 
                 // Loop over versions of Words
@@ -283,8 +286,9 @@ public class QuerySearch extends HttpServlet {
                 for (int j = 0; j < length_2; j++) {
 
                     //Don't send to ranker
-                    if(oneWordResult.get(j).equals(""))
-                    {continue;}
+                    if (oneWordResult.get(j).equals("")) {
+                        continue;
+                    }
 
 
                     // Should we let this be like that? Or should it be just links from map? I don't know
@@ -311,16 +315,14 @@ public class QuerySearch extends HttpServlet {
                         if (i == 0 && !indexProcessed[i]) {
                             // For First word, add links
                             allLinks.put(Link, 1);
-                            if(k == length_3-1)
-                            {
+                            if (k == length_3 - 1) {
                                 indexProcessed[0] = true; //To not add again
                             }
                         }
                         //Then, only increment those already in the map
                         else if (!indexProcessed[i] && allLinks.containsKey(Link)) {
                             allLinks.put(Link, 1 + allLinks.get(Link));
-                            if(k == length_3-1)
-                            {
+                            if (k == length_3 - 1) {
                                 indexProcessed[i] = true;  //To not add again
                             }
                         }
@@ -353,7 +355,7 @@ public class QuerySearch extends HttpServlet {
                 finalJsonFile.put(Jo);
             }
 
-            return finalJsonFile.toString();
+            return allLinks;
         }
     }
 
@@ -363,7 +365,7 @@ public class QuerySearch extends HttpServlet {
 
     static class Ranker
     {
-        private DataBase connect = new DataBase();
+        private DataBasePackages.DataBase.DataBase connect = new DataBasePackages.DataBase.DataBase();
         JSONArray dividedQuery = new JSONArray();
         Map<String,Long> wordsCount;
         String[] completedLinks;
@@ -380,7 +382,7 @@ public class QuerySearch extends HttpServlet {
         }
 
 
-        public Map<String, Double> calculatePopularity(double totalNodes)             //Popularity
+        public Map<String, Double> calculatePopularity(int totalNodes)             //Popularity
         {
 
             //pagesRank1 ==> store the final results of popularity ( each page and its popularity )
@@ -393,7 +395,7 @@ public class QuerySearch extends HttpServlet {
             double InitialPageRank = 1.0 / totalNodes;
 
             // initialize the rank of each page //
-            for (int k = 1; k <= totalNodes; k++)
+            for (int k = 0; k < totalNodes; k++)
                 pagesRank1.put(completedLinks[k], InitialPageRank);
 
             //ITERATION_STEP is used to iterate twice following PageRank Algorithm steps
@@ -401,35 +403,51 @@ public class QuerySearch extends HttpServlet {
             while (ITERATION_STEP <= 2) {
 
                 // Store the PageRank for All Nodes in Temporary Map
-                for (int k = 71; k <= totalNodes; k++) {
+                for (int k = 0; k < totalNodes; k++) {
                     TempPageRank.put(completedLinks[k], pagesRank1.get(completedLinks[k]));
                     pagesRank1.put(completedLinks[k], 0.0);
                 }
 
-                //tempSum is the difference between all pages popularity and 1 ==> the difference is divided by the No. of links that didn't have parents
                 double tempSum = 0;
-                int counter=0;
-
-                //Special handling for the pages only as there is no outgoing links to it
-                double temp = 1 - tempSum;
-
-                //slice of each link of them
-                double slice = temp / 70;//ToDo: chang it later
-
-                //if the link don't have parents
-                for ( int i=1 ; i<=70 ; i++ )//ToDo: chang it later
+                int counter12=0;
+                for (int currentPage = 0; currentPage < totalNodes; currentPage++)
                 {
-                    pagesRank1.put(completedLinks[i] , slice);
+                    //I will send child link and I must get Number of OutgoingLinks of the parent
+                    double OutgoingLinks = connect.getParentLinksNum(completedLinks[currentPage]);         //Get it from From ==> (Reda) to recieve the number of outgoing links from parent link
+
+                    //if the link does not have a parent link
+                    String currentLink = connect.getParentLink(completedLinks[currentPage]);
+                    System.out.println(currentLink);
+                    if (currentLink.equals("-1"))
+                    {
+                        pagesRank1.put(completedLinks[currentPage], -1.0);
+                        counter12++;
+                        continue;
+                    }
+                    //I will send child link and get parent link ==> it will be changed later
+                    if(TempPageRank.containsKey(currentLink)) {
+                        System.out.println("Inside");
+                        double temp = TempPageRank.get(currentLink) * (1.0 / OutgoingLinks);
+                        pagesRank1.put(completedLinks[currentPage], temp);
+                        tempSum += pagesRank1.get(completedLinks[currentPage]);
+                    }
                 }
 
-                //increase the ITERATION_STEP
+                //Special handling for the first page only as there is no outgoing links to it
+                double temp = 1 - tempSum;
+                double slice = temp / counter12;
+                for ( int i=0 ; i< counter12 ; i++ )
+                {
+                    pagesRank1.put(completedLinks[i],slice );
+                }
+
                 ITERATION_STEP++;
             }
 
             // Add the Damping Factor to PageRank
             double DampingFactor = 0.75;
             double temp = 0;
-            for (int k = 0; k < totalNodes; k++) {
+            for (int k = 1; k <= totalNodes; k++) {
                 temp = (1 - DampingFactor) + DampingFactor * pagesRank1.get(completedLinks[k]);
                 pagesRank1.put(completedLinks[k], temp);
             }
@@ -439,21 +457,22 @@ public class QuerySearch extends HttpServlet {
 
 
 
-        public Map<String, Double> calculateRelevance(ArrayList<String> tempLines) throws FileNotFoundException, JSONException
+        public String calculateRelevance(ArrayList<String> tempLines , HashMap<String, Integer> allLinks , boolean isPhraseSearching) throws FileNotFoundException, JSONException {
 
-        {
-            Map<String , Double> pagesRanks = new HashMap<String, Double>();
-            double  tf = 0.0,
-                    idf=0.0,
-                    tf_idf=0.0,
+            JSONArray finalJsonFile = new JSONArray();   //For final results
+            Map<String, Double> pagesRanks = new HashMap<String, Double>();
+            double tf = 0.0,
+                    idf = 0.0,
+                    tf_idf = 0.0,
                     numOfOccerrencesInCurrentDocument = 0.0, // this value will be weighted
-                    numOfOccerrencesInAllDocuments=0.0;
-            int counterForWords=0;
+                    numOfOccerrencesInAllDocuments = 0.0;
+            int counterForWords = 0;
             //tempMap is used to store each link and its tf-idf value
-            Map<String , Double> allLinksTf_Idf = new HashMap<String, Double>();
+            Map<String, Double> allLinksTf_Idf = new HashMap<String, Double>();
             ArrayList<String> uniqueLinks = new ArrayList<String>();
 
 
+            //
 
             for (int i = 0; i < tempLines.size(); i++) {
                 Map<String, Double> Links_numOfOccurrences = new HashMap<String, Double>();
@@ -464,53 +483,52 @@ public class QuerySearch extends HttpServlet {
                 String lineWithoutTheWord = tempLines.get(i).substring(startIndex + 1);
                 String[] linksWithWordPosition = lineWithoutTheWord.split(";");
 
-
                 //array to store all links of the current query
                 ArrayList<String> arr = new ArrayList<String>();
                 int counter =0;
                 //iterate over the links of each word in the query
                 for (int j = 0; j < linksWithWordPosition.length; j++) {
 
+
                     //to get id of current page
                     int bracePosition = linksWithWordPosition[j].indexOf('[');
-                    String linkOfCurrentPage = linksWithWordPosition[j ].substring(bracePosition + 1, linksWithWordPosition[j ].indexOf(','));
+                    String linkOfCurrentPage = linksWithWordPosition[j].substring(bracePosition + 1, linksWithWordPosition[j].indexOf(','));
 
+                    if(isPhraseSearching && allLinks.containsKey(linkOfCurrentPage) || !isPhraseSearching)
+                    {
+                        //get the length of the page
+                        Long lengthOfPage = wordsCount.get(linkOfCurrentPage);
 
-                    //get the length of the page
-                    Long lengthOfPage = wordsCount.get(linkOfCurrentPage);
+                        //to get the type of the word ==> paragraph or title or strong or header
+                        int separetorPosition = linksWithWordPosition[j].indexOf(',');
+                        char wordType = linksWithWordPosition[j].charAt(separetorPosition + 1);
 
+                        if (wordType == 't')                                   //title
+                            coeff = 1.0 / 2.0;
+                        else if (wordType == 'h' || wordType == 's')         //header or strong
+                            coeff = 1.0 / 4.0;
+                        else                                                    //paragraph
+                            coeff = 1.0 / 8.0;
 
-                    //to get the type of the word ==> paragraph or title or strong or header
-                    int separetorPosition = linksWithWordPosition[j ].indexOf(',');
-                    char wordType = linksWithWordPosition[j].charAt(separetorPosition + 1);
+                        //to get number of occurrences of each word
+                        int countSeperator = linksWithWordPosition[j].indexOf("]::");
+                        String wordCount = linksWithWordPosition[j].substring(countSeperator + 3);
+                        numOfOccerrencesInCurrentDocument = coeff * Integer.parseInt(wordCount);
+                        numOfOccerrencesInAllDocuments += coeff * Integer.parseInt(wordCount);
 
-                    if (wordType == 't')                                   //title
-                        coeff = 1.0 / 2.0;
-                    else if (wordType == 'h' || wordType == 's')         //header or strong
-                        coeff = 1.0 / 4.0;
-                    else                                                    //paragraph
-                        coeff = 1.0 / 8.0;
-
-                    //to get number of occurrences of each word
-                    int countSeperator = linksWithWordPosition[j].indexOf("]:");
-                    String wordCount = linksWithWordPosition[j].substring(countSeperator + 2);
-                    numOfOccerrencesInCurrentDocument=  coeff * Integer.parseInt(wordCount);
-                    numOfOccerrencesInAllDocuments+=coeff * Integer.parseInt(wordCount);
-
-                    if (lengthOfPage != null && lengthOfPage != 0) {
-                        tf = Double.valueOf(numOfOccerrencesInCurrentDocument) / lengthOfPage;
-                        if(Links_numOfOccurrences.containsKey(linkOfCurrentPage))
-                        {
-                            double tempTf=Links_numOfOccurrences.get(linkOfCurrentPage).doubleValue();
-                            tf+=tempTf;
+                        if (lengthOfPage != null && lengthOfPage != 0) {
+                            tf = Double.valueOf(numOfOccerrencesInCurrentDocument) / lengthOfPage;
+                            if (Links_numOfOccurrences.containsKey(linkOfCurrentPage)) {
+                                double tempTf = Links_numOfOccurrences.get(linkOfCurrentPage).doubleValue();
+                                tf += tempTf;
+                            } else {
+                                arr.add(linkOfCurrentPage);
+                            }
+                            Links_numOfOccurrences.put(linkOfCurrentPage, tf);
                         }
-                        else
-                        {
-                            arr.add(linkOfCurrentPage);
-                        }
-                        Links_numOfOccurrences.put(linkOfCurrentPage, tf);
+                        tf = 0;
                     }
-                    tf = 0;
+                    //
                 }
 
                 counterForWords++;
@@ -552,9 +570,28 @@ public class QuerySearch extends HttpServlet {
             System.out.println("the map "+ allLinksTf_Idf+"\n \n \n");
 
 
-            return allLinksTf_Idf;
+            for (Iterator<Map.Entry<String, Double>> iter = allLinksTf_Idf.entrySet().iterator(); iter.hasNext(); ) {
 
+
+                Map.Entry<String, Double> LinkEntry = iter.next();
+
+
+                String link = LinkEntry.getKey();
+
+                // Get description and populate Json Array
+                StringBuffer description = new StringBuffer("");
+                JSONObject Jo = new JSONObject();
+                connect.getDescription(link, description);
+                Jo.put("Link", link);
+                Jo.put("Description", description);
+                finalJsonFile.put(Jo);
+            }
+
+
+            return finalJsonFile.toString();
         }
+
+
 
     }
 
@@ -745,7 +782,7 @@ static class QueryProcessing{
     */
 
 
-    public String run(String message, ArrayList<String> queryLinesResult, JSONArray dividedQuery)
+    public void run(String message, ArrayList<String> queryLinesResult, JSONArray dividedQuery)
             throws FileNotFoundException, JSONException {
 
         //Used to save File names of current words
@@ -875,7 +912,6 @@ static class QueryProcessing{
         // Populate DividedQuery Array
         divide.put("Result", words);
         dividedQuery.put(divide);
-        return finalJsonFile.toString();
 
     }
 }
@@ -990,6 +1026,57 @@ static class QueryProcessing{
         }
 
         //////////////////////////////////////////////////////////////////////////////////////////////////////
+        //-----------------------------------------------get the number of links out from the parent link-----------------------//
+        public int getParentLinksNum(String url)
+        {
+
+            try{
+                String qq= "SELECT LinkParent FROM links  where Link='"+url+"' ;";
+                ResultSet resultSet=this.stmt.executeQuery(qq );
+                while(resultSet.next())
+                {
+                    int parentId=resultSet.getInt("LinkParent");
+                    String q = "SELECT count(*) as Number FROM links  where LinkParent="+parentId+";";
+                    ResultSet resultSet2=this.stmt.executeQuery(qq );
+                    while (resultSet2.next() )
+                    {
+                        return resultSet2.getInt("Number");
+                    }
+                }
+            }
+            catch(SQLException e)
+            {
+                return -1;
+            }
+            return -1;
+        }
+        // ---------------------------------------------------------------------------------------------------------------------//
+        //--------------------------------------------------function to get the parent id----------------------------------------//
+        public synchronized String getParentLink(String url)
+        {
+            try{
+                ResultSet resultSet=this.stmt.executeQuery("SELECT LinkParent FROM links  where Link='"+url+"' ;" );
+                while(resultSet.next())
+                {
+                    int parentId=resultSet.getInt("LinkParent");
+                    ResultSet resultSet2 =this.stmt.executeQuery("SELECT * FROM links  where Id="+parentId+" ;" );
+                    while( resultSet2.next() )
+                    {
+                        String linkParent = resultSet2.getString("Link");
+                        return linkParent;
+                    }
+                    return "-1";
+                }
+
+            }
+            catch(SQLException e)
+            {
+                return null;
+            }
+            return null;
+        }
+        //-----------------------------------------------------------------------------------------------------------------------//
+
 
 
     }

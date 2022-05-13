@@ -62,11 +62,19 @@ public class Ranker
             }
 
             double tempSum = 0;
-            for (int currentPage = 71; currentPage <= totalNodes; currentPage++)
+            int counter12=0;
+            for (int currentPage = 0; currentPage < totalNodes; currentPage++)
             {
                 //I will send child link and I must get Number of OutgoingLinks of the parent
                 double OutgoingLinks = connect.getParentLinksNum(completedLinks[currentPage]);         //Get it from From ==> (Reda) to recieve the number of outgoing links from parent link
 
+                //if the link does not have a parent link
+                if ( connect.getParentLink(completedLinks[currentPage]) == "-1" )
+                {
+                    pagesRank1.put(completedLinks[currentPage], -1.0);
+                    counter12++;
+                    continue;
+                }
                 //I will send child link and get parent link ==> it will be changed later
                 double temp = TempPageRank.get(connect.getParentLink(completedLinks[currentPage])) * (1.0 / OutgoingLinks) ;
                 pagesRank1.put(completedLinks[currentPage], temp);
@@ -75,8 +83,8 @@ public class Ranker
 
             //Special handling for the first page only as there is no outgoing links to it
             double temp = 1 - tempSum;
-            double slice = temp / 71.0;
-            for ( int i=1 ; i<=71 ; i++ )
+            double slice = temp / counter12;
+            for ( int i=0 ; i< counter12 ; i++ )
             {
                 pagesRank1.put(completedLinks[i],slice );
             }
@@ -97,21 +105,22 @@ public class Ranker
 
 
 
-    public Map<String, Double> calculateRelevance(ArrayList<String> tempLines) throws FileNotFoundException, JSONException
+    public String calculateRelevance(ArrayList<String> tempLines , HashMap<String, Integer> allLinks , boolean isPhraseSearching) throws FileNotFoundException, JSONException {
 
-    {
-        Map<String , Double> pagesRanks = new HashMap<String, Double>();
-        double  tf = 0.0,
-                idf=0.0,
-                tf_idf=0.0,
+        JSONArray finalJsonFile = new JSONArray();   //For final results
+        Map<String, Double> pagesRanks = new HashMap<String, Double>();
+        double tf = 0.0,
+                idf = 0.0,
+                tf_idf = 0.0,
                 numOfOccerrencesInCurrentDocument = 0.0, // this value will be weighted
-                numOfOccerrencesInAllDocuments=0.0;
-        int counterForWords=0;
+                numOfOccerrencesInAllDocuments = 0.0;
+        int counterForWords = 0;
         //tempMap is used to store each link and its tf-idf value
-        Map<String , Double> allLinksTf_Idf = new HashMap<String, Double>();
+        Map<String, Double> allLinksTf_Idf = new HashMap<String, Double>();
         ArrayList<String> uniqueLinks = new ArrayList<String>();
 
 
+        //
 
         for (int i = 0; i < tempLines.size(); i++) {
             Map<String, Double> Links_numOfOccurrences = new HashMap<String, Double>();
@@ -122,53 +131,52 @@ public class Ranker
             String lineWithoutTheWord = tempLines.get(i).substring(startIndex + 1);
             String[] linksWithWordPosition = lineWithoutTheWord.split(";");
 
-
             //array to store all links of the current query
             ArrayList<String> arr = new ArrayList<String>();
             int counter =0;
             //iterate over the links of each word in the query
             for (int j = 0; j < linksWithWordPosition.length; j++) {
 
+
                 //to get id of current page
                 int bracePosition = linksWithWordPosition[j].indexOf('[');
-                String linkOfCurrentPage = linksWithWordPosition[j ].substring(bracePosition + 1, linksWithWordPosition[j ].indexOf(','));
+                String linkOfCurrentPage = linksWithWordPosition[j].substring(bracePosition + 1, linksWithWordPosition[j].indexOf(','));
 
+                if(isPhraseSearching && allLinks.containsKey(linkOfCurrentPage) || !isPhraseSearching)
+                {
+                    //get the length of the page
+                    Long lengthOfPage = wordsCount.get(linkOfCurrentPage);
 
-                //get the length of the page
-                Long lengthOfPage = wordsCount.get(linkOfCurrentPage);
+                    //to get the type of the word ==> paragraph or title or strong or header
+                    int separetorPosition = linksWithWordPosition[j].indexOf(',');
+                    char wordType = linksWithWordPosition[j].charAt(separetorPosition + 1);
 
+                    if (wordType == 't')                                   //title
+                        coeff = 1.0 / 2.0;
+                    else if (wordType == 'h' || wordType == 's')         //header or strong
+                        coeff = 1.0 / 4.0;
+                    else                                                    //paragraph
+                        coeff = 1.0 / 8.0;
 
-                //to get the type of the word ==> paragraph or title or strong or header
-                int separetorPosition = linksWithWordPosition[j ].indexOf(',');
-                char wordType = linksWithWordPosition[j].charAt(separetorPosition + 1);
+                    //to get number of occurrences of each word
+                    int countSeperator = linksWithWordPosition[j].indexOf("]::");
+                    String wordCount = linksWithWordPosition[j].substring(countSeperator + 3);
+                    numOfOccerrencesInCurrentDocument = coeff * Integer.parseInt(wordCount);
+                    numOfOccerrencesInAllDocuments += coeff * Integer.parseInt(wordCount);
 
-                if (wordType == 't')                                   //title
-                    coeff = 1.0 / 2.0;
-                else if (wordType == 'h' || wordType == 's')         //header or strong
-                    coeff = 1.0 / 4.0;
-                else                                                    //paragraph
-                    coeff = 1.0 / 8.0;
-
-                //to get number of occurrences of each word
-                int countSeperator = linksWithWordPosition[j].indexOf("]::");
-                String wordCount = linksWithWordPosition[j].substring(countSeperator + 3);
-                numOfOccerrencesInCurrentDocument=  coeff * Integer.parseInt(wordCount);
-                numOfOccerrencesInAllDocuments+=coeff * Integer.parseInt(wordCount);
-
-                if (lengthOfPage != null && lengthOfPage != 0) {
-                    tf = Double.valueOf(numOfOccerrencesInCurrentDocument) / lengthOfPage;
-                    if(Links_numOfOccurrences.containsKey(linkOfCurrentPage))
-                    {
-                        double tempTf=Links_numOfOccurrences.get(linkOfCurrentPage).doubleValue();
-                        tf+=tempTf;
+                    if (lengthOfPage != null && lengthOfPage != 0) {
+                        tf = Double.valueOf(numOfOccerrencesInCurrentDocument) / lengthOfPage;
+                        if (Links_numOfOccurrences.containsKey(linkOfCurrentPage)) {
+                            double tempTf = Links_numOfOccurrences.get(linkOfCurrentPage).doubleValue();
+                            tf += tempTf;
+                        } else {
+                            arr.add(linkOfCurrentPage);
+                        }
+                        Links_numOfOccurrences.put(linkOfCurrentPage, tf);
                     }
-                    else
-                    {
-                        arr.add(linkOfCurrentPage);
-                    }
-                    Links_numOfOccurrences.put(linkOfCurrentPage, tf);
+                    tf = 0;
                 }
-                tf = 0;
+                //
             }
 
             counterForWords++;
@@ -210,7 +218,27 @@ public class Ranker
         System.out.println("the map "+ allLinksTf_Idf+"\n \n \n");
 
 
-    return allLinksTf_Idf;
+        for (Iterator<Map.Entry<String, Double>> iter = allLinksTf_Idf.entrySet().iterator(); iter.hasNext(); ) {
+
+
+            Map.Entry<String, Double> LinkEntry = iter.next();
+
+
+            String link = LinkEntry.getKey();
+
+            // Get description and populate Json Array
+            StringBuffer description = new StringBuffer("");
+            JSONObject Jo = new JSONObject();
+            connect.getDescription(link, description);
+            Jo.put("Link", link);
+            Jo.put("Description", description);
+            finalJsonFile.put(Jo);
+        }
+
+
+        return finalJsonFile.toString();
     }
+
+
 
 }
