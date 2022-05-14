@@ -15,7 +15,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.*;
 import HelpersPackages.Helpers.*;
-import DataBasePackages.DataBase.*;
+import DataBasePackages.DataBase.DataBase;
 import QueryProcessingPackages.Query.*;
 import org.json.*;
 
@@ -42,10 +42,10 @@ import org.json.*;
 
 public class PhraseSearching {
 
-    DataBase dataBaseObject;
+    public DataBase dataBaseObject;
     public PorterStemmer stemObject = new PorterStemmer();
     public String[] stopWords;
-    Map<String,Integer> IDs;
+    public Map<String,Integer> IDs;
 
     public PhraseSearching() throws FileNotFoundException {
 

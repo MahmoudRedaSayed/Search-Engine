@@ -32,12 +32,13 @@ class Results extends Component{
             fetch("http://localhost:8080/api?query="+this.state.query).then(response=>{
                 if(response.ok)
                 {
+                    console.log("ok");
                     return response.json();
                 }
             }).then(data=>{
-                console.log("the data recs");
-                console.log(data);
+                console.log("done");
                 this.setState({Results:data});
+                console.log(this.state.Results);
                 const Numbers=[];
                 for(let i=1;i<=Math.ceil(this.state.Results.length/this.state.ResultsPerPage);i++)
                 {

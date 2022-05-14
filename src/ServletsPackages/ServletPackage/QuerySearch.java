@@ -44,6 +44,7 @@ public class QuerySearch extends HttpServlet {
 
 
     public void doGet(HttpServletRequest req, HttpServletResponse res) throws IOException {
+        rankerObject=new Ranker();
 
         res.addHeader("Access-Control-Allow-Origin", "*");
         System.out.println("any thing here ");
@@ -73,8 +74,7 @@ public class QuerySearch extends HttpServlet {
             res.getWriter().println(results);
         }
         else {
-            //call function of query processing
-//            res.getWriter().println("query"+count);
+
 
             QueryProcessing obj = new QueryProcessing();
             try {
@@ -83,9 +83,6 @@ public class QuerySearch extends HttpServlet {
                 e.printStackTrace();
                 System.out.println(e);
             }
-            //Trying Ranker but There's an error from file path not found, needs to be fixed
-            //The error is for Mustafa to check
-
             try {
                isPhraseSearching = false;
                results = rankerObject.calculateRelevance(rankerArray, phraSearchingMap, isPhraseSearching);
@@ -94,6 +91,7 @@ public class QuerySearch extends HttpServlet {
                 e.printStackTrace();
             }
 
+            System.out.println(searchingQuery);
             res.getWriter().println(results);
 
         }
@@ -270,10 +268,7 @@ public class QuerySearch extends HttpServlet {
                     }
                 }
 
-                String filePath = System.getProperty("user.dir");   // get the directory of the project
-
-                // Delete last Directory to get path of Inverted Files
-                filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
+                String filePath = "D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";
 
                 filePath += File.separator + "InvertedFiles_V3" + File.separator;
 
@@ -382,10 +377,11 @@ public class QuerySearch extends HttpServlet {
             completedLinks = connect.getAllUrls();
             completeCount=connect.getCompleteCount();
             IDs = connect.getIDsAsMap();
+
         }
 
         public String calculateRelevance(ArrayList<String> tempLines , Map<String, Integer> allLinks , boolean isPhraseSearching) throws FileNotFoundException, JSONException {
-
+            System.out.printf("from calculate\n");
             JSONArray finalJsonFile = new JSONArray();   //For final results
             Map<String, Double> pagesRanks = new HashMap<String, Double>();
             double tf = 0.0,
@@ -400,7 +396,7 @@ public class QuerySearch extends HttpServlet {
 
 
             //
-
+            System.out.println("before the loop "+tempLines.size()+"\n");
             for (int i = 0; i < tempLines.size(); i++) {
                 Map<String, Double> Links_numOfOccurrences = new HashMap<String, Double>();
                 //to make priority between title,header,paragraph
@@ -409,6 +405,8 @@ public class QuerySearch extends HttpServlet {
                 int startIndex = tempLines.get(i).indexOf('|');
                 String lineWithoutTheWord = tempLines.get(i).substring(startIndex + 1);
                 String[] linksWithWordPosition = lineWithoutTheWord.split(";");
+
+                System.out.println("from the loop"+linksWithWordPosition.length);
 
                 //array to store all links of the current query
                 ArrayList<String> arr = new ArrayList<String>();
@@ -421,10 +419,11 @@ public class QuerySearch extends HttpServlet {
                     int bracePosition = linksWithWordPosition[j].indexOf('[');
                     String linkOfCurrentPage = linksWithWordPosition[j].substring(bracePosition + 1, linksWithWordPosition[j].indexOf(','));
 
-                    if(isPhraseSearching && allLinks.containsKey(linkOfCurrentPage) || !isPhraseSearching)
+                    if((isPhraseSearching && allLinks.containsKey(linkOfCurrentPage)) || !isPhraseSearching)
                     {
                         //get the length of the page
                         Long lengthOfPage = wordsCount.get(linkOfCurrentPage);
+                        System.out.println("the link from the if  "+ linkOfCurrentPage +"\n");
 
                         //to get the type of the word ==> paragraph or title or strong or header
                         int separetorPosition = linksWithWordPosition[j].indexOf(',');
@@ -452,6 +451,7 @@ public class QuerySearch extends HttpServlet {
                                 arr.add(linkOfCurrentPage);
                             }
                             Links_numOfOccurrences.put(linkOfCurrentPage, tf);
+                            System.out.println("the map of the links is "+Links_numOfOccurrences+"\n");
                         }
                         tf = 0;
                     }
@@ -484,7 +484,8 @@ public class QuerySearch extends HttpServlet {
             }
             System.out.println("the map "+ allLinksTf_Idf+"\n \n \n");
 
-            int id,popularityResult;
+            int id;
+            double popularityResult;
             for(int i=0;i<uniqueLinks.size();i++)
             {
                 id=IDs.get(uniqueLinks.get(i));
@@ -510,15 +511,17 @@ public class QuerySearch extends HttpServlet {
                 String link = LinkEntry.getKey();
 
                 // Get description and populate Json Array
-                String description;
+                String description=" ";
+
                 JSONObject Jo = new JSONObject();
                 if(IDs.containsKey(link)) {
                     int currentLinkID = IDs.get(link);
                     description = HelperClass.readDescription(currentLinkID);
                     Jo.put("Link", link);
-                    Jo.put("Description", description);
-                    finalJsonFile.put(Jo);
                 }
+                if(description==null) description=" ";
+                Jo.put("Description", description);
+                finalJsonFile.put(Jo);
             }
 
 
@@ -582,6 +585,7 @@ public class QuerySearch extends HttpServlet {
             {
                 list.remove(new String(arr[index[i]]));
             }
+
             return list.toArray(String[]::new);
         }
 
@@ -598,13 +602,13 @@ public class QuerySearch extends HttpServlet {
             ArrayList<Integer> indeces = new ArrayList<Integer>();
             for(int i = 0; i< length; i++)
             {
-                System.out.println(searchQuery[i].toLowerCase());
                 if (Arrays.asList(this.stopWords).contains(searchQuery[i].toLowerCase()))
                 {
                     indeces.add(i);
                 }
             }
             searchQuery = removeElement(searchQuery, indeces.stream().mapToInt(Integer::intValue).toArray());
+            System.out.printf("after remove \n");
             return searchQuery;
         }
 
@@ -618,6 +622,7 @@ public class QuerySearch extends HttpServlet {
 
         public static void searchInInvertedFiles(ArrayList<String> word, File myFile, ArrayList<String> results, boolean stemmingFlag) throws FileNotFoundException {
             Scanner read = new Scanner(myFile);
+            System.out.printf("start search \n");
             int counter = 0;
 
             String tempInput,
@@ -627,9 +632,12 @@ public class QuerySearch extends HttpServlet {
             boolean wordIsFound = false;
 
             int stopIndex;
+            int counter1=0;
 
             while(read.hasNextLine())
             {
+                counter1++;
+                System.out.printf("file line"+counter1);
                 tempInput = read.nextLine();
                 int i=0;
                 boolean anyWordFound = false;
@@ -659,6 +667,7 @@ public class QuerySearch extends HttpServlet {
                             continue;
                         }
 
+
                         //counter = 1;
                         // comparing the stemmed version of the target word by the stemmed version of the word in the inverted file
                         if (stemmingFlag) {
@@ -668,10 +677,14 @@ public class QuerySearch extends HttpServlet {
                             }
                         }
                     }
+                    else
+                    {
+                        break;
+                    }
                     i++;
                 }
             }
-
+            System.out.printf("end search \n");
         }
 
         //--------------------------Function sortByValue--------------------------//
@@ -776,10 +789,8 @@ public class QuerySearch extends HttpServlet {
                 // Results for one file.
                 ArrayList<String> oneFileResult = new ArrayList<String>();
 
-                String filePath = System.getProperty("user.dir");   // get the directory of the project
+                String filePath = "D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";   // get the directory of the project
 
-                // Delete last Directory to get path of Inverted Files, root folder src
-                filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
 
                 filePath += File.separator + "InvertedFiles_V3" + File.separator;
 
@@ -788,8 +799,9 @@ public class QuerySearch extends HttpServlet {
                 File targetFile = new File(filePath);
 
                 //true to sepcify it's Query Processing not Phrase Searching
+                System.out.printf("before search \n");
                 searchInInvertedFiles(currFile.getValue(), targetFile,oneFileResult, true);
-
+                System.out.printf("after search \n");
 
                 // Loop over versions of Words
                 // Adding words results to ranker Array
@@ -806,8 +818,6 @@ public class QuerySearch extends HttpServlet {
 
             }
             // Populate DividedQuery Array
-            divide.put("Result", words);
-            dividedQuery.put(divide);
         }
     }
 
@@ -1059,13 +1069,13 @@ public class QuerySearch extends HttpServlet {
         }
 
         // function to read popularity
-        public static int readPopularity(int fileName)
+        public static double readPopularity(int fileName)
         {
             Path filePath = Path.of(populairtyFilesPath() + File.separator + fileName + ".txt");
             String content = null;
             try {
                 content = Files.readString(filePath);
-            return Integer.parseInt(content);
+            return Double.parseDouble(content);
             } catch (IOException e) {
                 return -1;
             }
