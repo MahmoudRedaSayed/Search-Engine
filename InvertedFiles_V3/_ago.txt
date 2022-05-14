@@ -1,7 +1,13 @@
-<agony|[https://www.dailymail.co.uk,h]::1;
-<agoraphobia|[https://www.everydayhealth.com/most-popular,p]::1;
+<agony|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk/ushome/index.html,h]::1;[https://www.dailymail.co.uk/auhome/index.html,h]::1;[https://www.dailymail.co.uk/sport/champions_league/index.html,h]::1;[https://mcpress.mayoclinic.org/healthletter/?utm_source=MC-DotOrg-Nav&utm_medium=Link&utm_campaign=HealthLetter&utm_content=HLART,h]::1;[https://www.nytimes.com/2022/05/09/opinion/sway-kara-swisher-clarissa-ward.html,p]::1;
+<agoraphobia|[https://www.everydayhealth.com/most-popular,p]::1;[https://www.aphrodisias.org,h]::2;
 <agonadotropin|[https://www.everydayhealth.com/fertility/in-vitro-fertilization-other-infertility-treatments,p]::1;
 <agonist|[https://www.everydayhealth.com/fertility/in-vitro-fertilization-other-infertility-treatments,p]::1;
-<agog|[https://www.everydayhealth.com/hysterectomy/guide,s]::1;[https://www.everydayhealth.com/hysterectomy/guide,p]::1;
-<agoogle|[https://venturebeat.com/2014/10/06/the-cookie-is-dead-heres-how-facebook-google-and-apple-are-tracking-you-now,p]::1;[https://web.archive.org/web/20170724054647/https:/venturebeat.com/2014/10/06/the-cookie-is-dead-heres-how-facebook-google-and-apple-are-tracking-you-now,p]::1;
+<agog|[https://www.everydayhealth.com/hysterectomy/guide,s]::1;
 <agordi|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
+<agolast|[https://www.bbc.co.uk/weather,p]::1;
+<agonisingly|[https://www.dailymail.co.uk/news/adelaide/index.html,h]::1;
+<agoniza|[https://co.marca.com/claro/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;
+<agonized|[https://nautil.us/topics/evolution,p]::1;
+<agosto|[https://www.marca.com/futbol/eurocopa/clasificacion.html?intcmp=MENUPROD&s_kw=clasificacion,p]::1;[https://www.marca.com/futbol/argentina/clasificacion.html?intcmp=MENUMIGA&s_kw=futbol-argentina-clasificacion,p]::1;
+<agotando|[https://www.marca.com/natacion.html?intcmp=MENUPROD&s_kw=natacion,h]::1;
+<agostiniinvisionap|[https://www.foxbusiness.com/politics/elon-musk-challenges-billionaires-groups-attacking-his-twitter-buy,p]::1;

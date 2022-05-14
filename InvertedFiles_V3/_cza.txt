@@ -1,4 +1,8 @@
 <czagan|[https://www.tutorialspoint.com/categories/cyber_security,p]::4;
-<czasem|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::4;
-<czasie|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<czasu|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<czasem|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::4;[https://kasyno-now.com,p]::3;[https://kasyno-now.com/recenzja/woo,p]::1;
+<czasie|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://disneytermsofuse.com/polish,p]::2;[https://kasyno-now.com,s]::2;[https://kasyno-now.com,p]::1;
+<czasu|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::2;[https://disneytermsofuse.com/polish,p]::2;[https://kasyno-now.com,p]::1;[https://kasyno-now.com/recenzja/woo,p]::2;
+<czarnej|[https://kasyno-now.com,p]::5;[https://www.foxnews.com/category/politics/executive,p]::1;
+<czatu|[https://kasyno-now.com,p]::1;[https://kasyno-now.com/recenzja/woo,p]::1;
+<czasy|[https://kasyno-now.com,p]::1;
+<czaty|[https://kasyno-now.com,p]::1;

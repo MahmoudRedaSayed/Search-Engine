@@ -1,1 +1,5 @@
-<myapple|[https://www.apple.com/us/shop/goto/store,p]::1;[https://www.apple.com/airpods,p]::1;[https://www.apple.com/tv-home,p]::1;[https://www.apple.com/us/shop/goto/buy_accessories,p]::1;
+<myapple|[https://www.apple.com/tv-home,p]::1;[https://www.apple.com/us/shop/goto/buy_accessories,p]::1;
+<myanalytics|[https://www.microsoft.com/en-us/accessibility/features?activetab=pivot_1%253aprimaryr2,p]::2;
+<myall|[https://kids.kiddle.co/History_of_Australia,p]::2;
+<myanmar•|[https://commons.wikimedia.org/wiki/Atlas_of_Australia,p]::1;[https://www.myenglishclub.com,h]::1;[https://www.myenglishclub.com/blogs,h]::1;[https://www.myenglishclub.com/blogs/welcome-to-myanmar,t]::1;[https://www.myenglishclub.com/blogs/welcome-to-myanmar,h]::1;
+<myalgic|[https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-care/post-covid-science.html,p]::2;

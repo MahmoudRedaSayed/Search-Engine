@@ -1,2 +1,5 @@
 <tafuta|[https://sw.wikipedia.org/wiki/Kuki,h]::1;
 <tafsiri|[https://sw.wikipedia.org/wiki/Kuki,p]::1;
+<tafsiran|[https://disneytermsofuse.com/bahasa-malaysia,p]::1;
+<tafelspelen|[https://onlinecasino-now.nl/casino-reviews/cookie,h]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::2;
+<tafelspellen|[https://onlinecasino-now.nl/casino-software/netent,h]::1;[https://onlinecasino-now.nl/casino-software/netent,s]::1;[https://onlinecasino-now.nl/casino-software/netent,p]::2;

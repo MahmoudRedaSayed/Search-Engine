@@ -1,1 +1,2 @@
 <ahram|[https://english.ahram.org.eg/,t]::2;[https://english.ahram.org.eg/,p]::2;
+<ahrefs|[https://www.ugureskici.com/notlarim-makalelerim/digitalzone-2017-kimler-geldi-kimler-gecti-ne-ogrendik,p]::1;[https://icons8.com/advertising,h]::2;

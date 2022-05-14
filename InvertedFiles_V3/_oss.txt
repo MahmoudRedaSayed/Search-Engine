@@ -1,2 +1,8 @@
-<ossining|[http://www.archive-it.org,p]::2;[https://www.tutorialspoint.com/effective_resume_writing.htm,p]::1;
-<osservare|[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<ossining|[http://www.archive-it.org,p]::2;[https://www.tutorialspoint.com/effective_resume_writing.htm,p]::1;[https://disneytermsofuse.com/norwegian,p]::7;
+<osses|[https://www.iflscience.com/environment/taming-the-butterfly-scientists-use-chaos-theory-to-control-weather,p]::1;
+<ossicles|[https://www.bbc.com/future/article/20200929-what-your-thoughts-sound-like,p]::1;
+<osseo|[https://www.mayoclinichealthsystem.org/covid-19-vaccine,h]::1;[https://www.mayoclinichealthsystem.org/covid-19-vaccine,s]::1;
+<osservare|[https://it.swiss-casino-now.com/recensioni,p]::2;
+<ossetia•|[https://commons.wikimedia.org/wiki/Atlas_of_Australia,p]::2;
+<ossa|[https://casino-now.it/recensioni/woo,p]::1;
+<ossify|[https://www.nytimes.com/2022/04/29/science/tiktaalik-fish-fossil-meme.html,p]::1;

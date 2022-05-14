@@ -1,0 +1,6 @@
+<nyilatkozat|[https://disneytermsofuse.com/hungarian,p]::1;
+<nyilvánosság|[https://disneytermsofuse.com/hungarian,p]::5;
+<nyilvánosan|[https://disneytermsofuse.com/hungarian,p]::1;
+<nyilatkozatot|[https://disneytermsofuse.com/hungarian,p]::2;
+<nyilvánosságra|[https://disneytermsofuse.com/hungarian,p]::1;
+<nyilatkozatnak|[https://disneytermsofuse.com/hungarian,p]::1;

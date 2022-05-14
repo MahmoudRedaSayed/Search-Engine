@@ -1,8 +1,8 @@
-<ocr|[https://blog.archive.org,p]::4;[https://blog.openlibrary.org,p]::1;[https://blog.openlibrary.org/2022/04/27/a-high-schoolers-experience-contributing-to-the-open-book-genome-project,p]::1;
-<ocra|[https://www.everydayhealth.com/ovarian-cancer/guide,s]::1;[https://ocrahope.org,t]::1;[https://ocrahope.org,h]::3;[https://ocrahope.org,p]::7;[https://www.everydayhealth.com/ovarian-cancer/resources,s]::1;[https://ocrahope.org/patients/about-ovarian-cancer/staging,t]::1;[https://ocrahope.org/patients/about-ovarian-cancer/staging,p]::1;[https://ocrahope.org/2013/01/extended-breastfeeding-reduces-the-risk-of-ovarian-cancer,t]::1;[https://ocrahope.org/2013/01/extended-breastfeeding-reduces-the-risk-of-ovarian-cancer,p]::1;[https://www.everydayhealth.com/ovarian-cancer/awareness-month,p]::1;
+<ocr|[https://blog.archive.org,p]::4;[https://blog.openlibrary.org,p]::1;[https://blog.openlibrary.org/2022/04/27/a-high-schoolers-experience-contributing-to-the-open-book-genome-project,p]::1;[https://narations.blogs.archives.gov,h]::1;[https://narations.blogs.archives.gov,p]::1;[http://phillyarchives.tumblr.com,p]::1;
+<ocra|[https://www.everydayhealth.com/ovarian-cancer/guide,s]::1;[https://ocrahope.org,t]::1;[https://ocrahope.org,h]::3;[https://ocrahope.org,p]::7;[https://www.everydayhealth.com/ovarian-cancer/resources,s]::1;[https://ocrahope.org/patients/about-ovarian-cancer/staging,t]::1;[https://ocrahope.org/2013/01/extended-breastfeeding-reduces-the-risk-of-ovarian-cancer,t]::1;[https://www.everydayhealth.com/ovarian-cancer/awareness-month,p]::1;
 <ocraocra|[https://www.everydayhealth.com/ovarian-cancer/guide,p]::1;[https://www.everydayhealth.com/ovarian-cancer/resources,p]::1;
-<ocrpoc|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,p]::1;
 <ocrafunded|[https://ocrahope.org,h]::1;[https://ocrahope.org,p]::1;
 <ocras|[https://www.everydayhealth.com/ovarian-cancer/awareness-month,h]::1;[https://www.everydayhealth.com/ovarian-cancer/awareness-month,s]::1;
 <ocrahosts|[https://www.everydayhealth.com/ovarian-cancer/awareness-month,p]::1;
 <ocrawill|[https://www.everydayhealth.com/ovarian-cancer/awareness-month,p]::1;
+<ocri|[http://www.cancer.org/research/acs-researchers.html,p]::1;

@@ -1,1 +1,2 @@
 <aos|[http://www.archive-it.org,p]::1;
+<aosta|[https://commons.wikimedia.org/wiki/Atlas_of_Australia,p]::1;

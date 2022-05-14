@@ -1,2 +1,5 @@
-<amusement|[https://www.everydayhealth.com/crohns-disease/guide,p]::1;
+<amusement|[https://www.everydayhealth.com/crohns-disease/guide,p]::1;[https://nautil.us/how-we-learned-to-love-neanderthalsand-a-lot-of-other-hominids-too-11462,p]::1;[http://phillyarchives.tumblr.com,p]::1;[http://www.senate.gov,p]::1;[https://www.dailywritingtips.com/english-grammar-101-all-you-need-to-know,p]::1;
+<amusing|[http://www.cookiecentral.com/faq,p]::1;[https://www.iflscience.com/editorial-mission-statement,p]::2;[http://www.menshealth.com,p]::1;[https://historyhub.history.gov/community/crowd-loc/blog?start=15,p]::1;
 <amuza|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
+<amused|[https://www.myenglishclub.com/members/TimNew,p]::1;
+<amusements|[https://www.geeksforgeeks.org/number-system-and-arithmetic/?ref=ghm,p]::1;

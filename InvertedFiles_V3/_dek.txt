@@ -1,3 +1,9 @@
 <dekika|[https://english.ahram.org.eg/,p]::1;
 <dekalb|[http://www.archive-it.org,p]::1;
 <deklarowanej|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<dekebo|[https://www.marca.com/atletismo.html?intcmp=MENUPROD&s_kw=atletismo,h]::1;
+<dekompilere|[https://disneytermsofuse.com/danish,p]::1;
+<dekompilaci|[https://disneytermsofuse.com/czech,p]::1;
+<dekompilálása|[https://disneytermsofuse.com/hungarian,p]::1;
+<dekompilowania|[https://disneytermsofuse.com/polish,p]::1;
+<deksc|[https://casino-now.be,p]::1;

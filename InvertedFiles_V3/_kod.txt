@@ -1,4 +1,12 @@
-<kode|[https://www.tutorialspoint.com/python_blockchain/index.htm,p]::1;[https://www.tutorialspoint.com/javascript/index.htm,p]::1;[https://www.tutorialspoint.com/python/index.htm,p]::1;[https://pl.wikipedia.org/wiki/HTTP_cookie,h]::12;
+<kode|[https://www.tutorialspoint.com/python_blockchain/index.htm,p]::1;[https://www.tutorialspoint.com/javascript/index.htm,p]::1;[https://www.tutorialspoint.com/python/index.htm,p]::1;[https://pl.wikipedia.org/wiki/HTTP_cookie,h]::12;[http://www.enable-javascript.com/hr,p]::2;[https://www.ugureskici.com/notlarim-makalelerim/google-alisveris-reklamlari-icin-gtin-zorunlulugu,p]::3;[https://www.ugureskici.com/notlarim-makalelerim/rss-yayini-nedir-seo-icin-rss-olusturma,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/robotstxt-nedir-nasil-kullanilir,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/cografi-hedef-yapilandirmasi,p]::1;[https://kasyno-now.com/recenzja/woo,p]::3;
 <kodierung|[https://de.wikipedia.org/wiki/HTTP-Cookie,p]::1;
 <koden|[https://da.wikipedia.org/wiki/Cookie,p]::1;
 <kodea|[https://eu.wikipedia.org/wiki/Cookie,h]::7;
+<kodudur|[https://www.ugureskici.com/notlarim-makalelerim/google-alisveris-reklamlari-icin-gtin-zorunlulugu,p]::10;[https://www.ugureskici.com/notlarim-makalelerim/rss-yayini-nedir-seo-icin-rss-olusturma,p]::4;
+<kodları|[https://www.ugureskici.com/notlarim-makalelerim/google-alisveris-reklamlari-icin-gtin-zorunlulugu,p]::1;[https://www.ugureskici.com/ordan-burdan,h]::1;
+<kodun|[https://www.ugureskici.com/notlarim-makalelerim/google-alisveris-reklamlari-icin-gtin-zorunlulugu,p]::1;
+<koddur|[https://www.ugureskici.com/notlarim-makalelerim/google-alisveris-reklamlari-icin-gtin-zorunlulugu,p]::2;
+<kodlama|[https://www.ugureskici.com/ordan-burdan/dijital-pazarlama-temelleri,p]::1;
+<kodlarını|[https://www.ugureskici.com/notlarim-makalelerim/digitalzone-2017-kimler-geldi-kimler-gecti-ne-ogrendik,p]::1;
+<kodlamasına|[https://www.ugureskici.com/notlarim-makalelerim/robotstxt-nedir-nasil-kullanilir,p]::1;
+<kodaira|[https://www.marca.com/deportes-invierno.html?intcmp=MENUPROD&s_kw=deportes-invierno,h]::1;

@@ -1,1 +1,3 @@
 <kuaihelani|[http://www.archive-it.org,p]::1;
+<kuasa|[https://disneytermsofuse.com/bahasa-malaysia,p]::9;
+<kuala|[https://www.foxnews.com/world/iran-nuclear-weapons-existential-threat,p]::1;

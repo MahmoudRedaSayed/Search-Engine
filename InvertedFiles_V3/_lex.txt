@@ -1,4 +1,11 @@
-<lexical|[https://www.tutorialspoint.com/compiler_design/index.htm,p]::1;
-<lexicon|[https://www.everydayhealth.com/meditation,p]::1;
-<lexistence|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::1;
-<lexemple|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::1;
+<lexical|[https://www.tutorialspoint.com/compiler_design/index.htm,p]::1;[https://www.sky.com/business/broadband,p]::1;[https://www.amazon.science/research-areas/search-and-information-retrieval,p]::1;[https://www.geeksforgeeks.org/compiler-design-tutorials/?ref=ghm,s]::1;[https://www.geeksforgeeks.org/compiler-design-tutorials/?ref=ghm,p]::2;[https://www.englishclub.com/efl/category/articles,p]::1;
+<lexicon|[https://www.everydayhealth.com/meditation,p]::1;[https://www.dailymail.co.uk/femail/fashionfinder/index.html,p]::1;[https://www.myenglishclub.com/discussions/do-you-know-words-that-only-exist-in-your-native-language,p]::1;
+<lexistence|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::1;[https://fr.swiss-casino-now.com/logiciels/netent,h]::1;
+<lexpérience|[https://fr.swiss-casino-now.com,h]::1;[https://fr.swiss-casino-now.com/logiciels/netent,h]::1;
+<lexplication|[https://fr.casino-now-canada.com/bonus-de-casino,s]::1;
+<lexie|[https://www.hearst.com/magazines,p]::4;
+<lexington|[http://blogs.loc.gov/law,p]::1;[https://www.foxnews.com/food-drink,p]::1;[https://www.nytimes.com/2022/05/08/sports/horse-racing/rich-strike-kentucky-derby.html,p]::1;
+<lexisnexis|[https://www.symplr.com/leadership,p]::1;
+<lexar|[https://www.ebay.com/globaldeals/tech/cameras-photo,h]::1;[https://www.ebay.com/globaldeals/tech,h]::1;
+<lexpression|[http://fr.talkenglish.com,h]::1;
+<lexicographic|[https://www.geeksforgeeks.org/string-data-structure/?ref=ghm,s]::1;[https://www.geeksforgeeks.org/string-data-structure/?ref=ghm,p]::1;

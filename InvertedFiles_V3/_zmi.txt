@@ -1,2 +1,8 @@
-<zmianę|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<zmianę|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://disneytermsofuse.com/polish,p]::6;[https://kasyno-now.com,p]::1;
 <zmienne|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<zmiany|[https://disneytermsofuse.com/polish,p]::6;[https://kasyno-now.com,s]::1;[https://kasyno-now.com,p]::1;
+<zmienienia|[https://disneytermsofuse.com/polish,p]::1;
+<zmianom|[https://disneytermsofuse.com/polish,p]::1;
+<zmianie|[https://disneytermsofuse.com/polish,p]::1;
+<zmianach|[https://disneytermsofuse.com/polish,p]::2;
+<zmierzające|[https://disneytermsofuse.com/polish,p]::1;

@@ -1,0 +1,1 @@
+tealium is a customer data platform (cdp) that connects your data so you can connect with your customers!

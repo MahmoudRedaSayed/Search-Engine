@@ -1,5 +1,15 @@
-<zalantzarik|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
+<zalantzarik|[https://eu.wikipedia.org/wiki/Cookie,p]::1;[https://onlinecasino-now.nl,p]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::1;
 <zalogowaniu|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
 <zależą|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
 <zalecane|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
 <založená|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<zależności|[https://disneytermsofuse.com/polish,p]::1;[https://kasyno-now.com,p]::2;
+<zależnych|[https://disneytermsofuse.com/polish,p]::3;
+<zależne|[https://disneytermsofuse.com/polish,p]::1;
+<zalecenia|[https://disneytermsofuse.com/polish,p]::1;
+<zalety|[https://kasyno-now.com,h]::1;[https://kasyno-now.com/recenzja/woo,h]::1;[https://kasyno-now.com/recenzja/woo,p]::1;
+<zalicza|[https://kasyno-now.com,p]::3;
+<zaletą|[https://kasyno-now.com,p]::1;
+<zależy|[https://kasyno-now.com,p]::1;[https://kasyno-now.com/recenzja/woo,p]::1;
+<zaliczyć|[https://kasyno-now.com,p]::2;
+<zaliyah|[https://whyy.org/articles/should-i-get-my-kids-the-covid-19-vaccine-booster,p]::1;

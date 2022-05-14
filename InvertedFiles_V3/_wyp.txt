@@ -1,0 +1,12 @@
+<wyprzedzeniem|[https://disneytermsofuse.com/polish,p]::2;
+<wypadkach|[https://disneytermsofuse.com/polish,p]::2;
+<wypełnić|[https://disneytermsofuse.com/polish,p]::1;
+<wypłaci|[https://disneytermsofuse.com/polish,p]::1;
+<wypłaty|[https://kasyno-now.com,h]::2;[https://kasyno-now.com,p]::10;[https://kasyno-now.com/recenzja,p]::5;[https://kasyno-now.com/recenzja/woo,p]::1;
+<wypłatami|[https://kasyno-now.com,s]::1;[https://kasyno-now.com,p]::6;[https://kasyno-now.com/recenzja,p]::5;
+<wyposażone|[https://kasyno-now.com,s]::1;[https://kasyno-now.com,p]::1;
+<wypłacające|[https://kasyno-now.com,p]::1;
+<wypłatach|[https://kasyno-now.com,p]::1;
+<wypadku|[https://kasyno-now.com,p]::3;
+<wyposaża|[https://kasyno-now.com,p]::1;
+<wypróbować|[https://kasyno-now.com/recenzja/woo,p]::1;

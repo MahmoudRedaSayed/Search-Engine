@@ -1,0 +1,2 @@
+<hevesi|[https://www.ugureskici.com/notlarim-makalelerim/evergreen-content-olumsuz-taze-icerikler,p]::1;
+<hevery|[https://www.geeksforgeeks.org/angularjs-tutorials/?ref=ghm,p]::1;

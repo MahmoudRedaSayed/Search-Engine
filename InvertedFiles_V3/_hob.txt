@@ -1,4 +1,12 @@
-<hobby|[https://www.loc.gov,h]::1;[https://www.everydayhealth.com/emotional-health/index.aspx,h]::1;[https://www.everydayhealth.com/emotional-health/index.aspx,p]::2;[https://www.hearstmagazines.co.uk/holidays,p]::1;
-<hobbies|[https://www.tutorialspoint.com/market/teach_with_us.jsp,p]::1;
-<hoboken|[https://www.everydayhealth.com/diet-and-nutrition/diet/mind-diet-can-this-diet-plan-help-reverse-alzheimers-disease,p]::1;[https://www.everydayhealth.com/diet-nutrition/atkins-diet.aspx,p]::1;
-<hobbled|[https://www.nytimes.com/2001/09/04/technology/04COOK.html,p]::1;
+<hobby|[https://www.loc.gov,h]::1;[https://www.everydayhealth.com/emotional-health/index.aspx,h]::1;[https://www.everydayhealth.com/emotional-health/index.aspx,p]::2;[https://www.hearstmagazines.co.uk/holidays,p]::1;[https://lifetickler.com/parenting-tips-part2,p]::1;[https://en.swiss-casino-now.com/reviews/woo-casino,s]::1;[https://en.swiss-casino-now.com/reviews/woo-casino,p]::1;[http://www.wetheme.com,p]::1;[https://casino-now-canada.com/casino-bonus/welcome,p]::1;[https://www.ebay.com/globaldeals/more,h]::3;[https://www.ebay.com/globaldeals/more/collectibles,h]::1;[https://www.myenglishclub.com/groups/green-thumb,p]::1;[https://www.ning.com,p]::1;[https://www.esl-lab.com/vocabulary-lessons,p]::1;[https://www.dailywritingtips.com/7-classes-of-phrases,p]::1;
+<hobbies|[https://www.tutorialspoint.com/market/teach_with_us.jsp,p]::1;[https://lifetickler.com/gifts-for-boyfriends-parents,p]::1;[https://discountcode.dailymail.co.uk/categories,h]::1;[https://www.sciencenews.org/snhs,p]::1;[https://casino-now-canada.com/reviews/woo-casino,p]::1;[https://www.tudorhistory.org,p]::1;[https://www.myenglishclub.com/page/winning-photo,p]::1;[http://www.chinesefortravel.com,p]::1;[http://www.english-4kids.com/flashcards.html,s]::1;[http://www.english-4kids.com/flashcards.html,p]::1;[https://www.myenglishclub.com/groups/green-thumb,p]::1;[https://www.chinese-ilab.com/games/index.html,p]::1;[https://www.esl-lab.com/basic-english,p]::1;[https://www.esl-lab.com/faqs,p]::1;
+<hoboken|[https://www.everydayhealth.com/diet-nutrition/atkins-diet.aspx,p]::1;[https://www.everydayhealth.com/diet-and-nutrition/diet/mind-diet-can-this-diet-plan-help-reverse-alzheimers-disease,p]::1;
+<hobbled|[https://www.nytimes.com/2001/09/04/technology/04COOK.html,p]::1;[https://www.nytimes.com/2022/05/07/world/middleeast/tunisia-democracy-economy.html,p]::1;
+<hobbs|[https://discountcode.dailymail.co.uk/argos,h]::2;
+<hobs|[https://discountcode.dailymail.co.uk/ao-com,h]::1;[https://discountcode.dailymail.co.uk/currys,h]::1;
+<hobbit|[https://www.dailymail.co.uk/news/melbourne/index.html,h]::1;[https://www.bbc.com/future/article/20150706-the-small-list-of-things-that-make-humans-unique,p]::1;
+<hoba|[https://www.iflscience.com/space/nasa-begs-please-dont-send-us-your-meteorites-so-what-should-you-do-if-you-find-one,p]::1;
+<hobbyists|[https://www.iflscience.com/space/nasa-begs-please-dont-send-us-your-meteorites-so-what-should-you-do-if-you-find-one,p]::1;[https://www.discourse.org,p]::1;
+<hobart|[http://ourpresidents.tumblr.com,p]::2;
+<hobbling|[https://www.nytimes.com/2022/05/09/us/politics/west-virginia-trump.html,p]::1;
+<hobson|[https://www.englishclub.com/efl/category/articles,s]::1;[https://www.englishclub.com/efl/category/articles,p]::1;

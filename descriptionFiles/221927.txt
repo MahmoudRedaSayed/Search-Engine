@@ -1,0 +1,1 @@
+xml haritaları sitenize ait tüm url leri barındırırken, rss/atom yayınları siteniz ve sayfalarınızın google indekslerinde taze kalmasına yardımcı olur.

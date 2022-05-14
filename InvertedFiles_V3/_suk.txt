@@ -1,2 +1,3 @@
-<sukhasana|[https://www.everydayhealth.com/yoga,p]::1;
 <sukcesa|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
+<sukumaran|[https://www.dailymail.co.uk/news/arts/index.html,h]::1;
+<sukacitanya|[https://disneytermsofuse.com/bahasa-malaysia,p]::1;[https://www.myenglishclub.com/photos/kenjerancoastsurabaya,s]::1;[https://www.myenglishclub.com/photos/kenjerancoastsurabaya,p]::1;

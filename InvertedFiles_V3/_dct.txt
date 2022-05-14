@@ -1,1 +1,5 @@
 <dctd|[https://www.cancer.gov,p]::1;
+<dctcraig|[https://www.congress.gov,p]::1;
+<dctdesaulnier|[https://www.congress.gov,p]::1;
+<dcthern|[https://www.congress.gov,p]::1;
+<dcthinson|[https://www.congress.gov,p]::1;

@@ -1,0 +1,4 @@
+<ofgem|[https://www.dailymail.co.uk/money/bills/index.html,h]::1;
+<ofgrace|[https://lifetickler.com/messages-of-grace-part2,h]::1;
+<ofgreen|[https://www.apple.com/lae,p]::1;[https://www.apple.com/lae/iphone,p]::1;
+<ofgreaterphiladelphia|[http://philadelphiaencyclopedia.org/archive/philadelphia-and-its-people-in-maps-the-1790s,p]::1;

@@ -1,8 +1,14 @@
+<kuki|[https://az.wikipedia.org/wiki/HTTP_Kuki,t]::1;[https://az.wikipedia.org/wiki/HTTP_Kuki,h]::1;[https://az.wikipedia.org/wiki/HTTP_Kuki,p]::7;[https://eu.wikipedia.org/wiki/Cookie,p]::1;[https://id.wikipedia.org/wiki/Kuki,t]::1;[https://id.wikipedia.org/wiki/Kuki,h]::1;[https://id.wikipedia.org/wiki/Kuki,p]::13;[https://sw.wikipedia.org/wiki/Kuki,t]::1;[https://sw.wikipedia.org/wiki/Kuki,h]::1;[https://sw.wikipedia.org/wiki/Kuki,p]::1;[https://ms.wikipedia.org/wiki/Kuki_HTTP,t]::1;[https://ms.wikipedia.org/wiki/Kuki_HTTP,h]::1;[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::13;
+<kukiləriredaktə|[https://az.wikipedia.org/wiki/HTTP_Kuki,h]::2;[https://az.wikipedia.org/wiki/HTTP_Kuki,p]::5;
+<kukisinin|[https://az.wikipedia.org/wiki/HTTP_Kuki,p]::1;
+<kukinin|[https://az.wikipedia.org/wiki/HTTP_Kuki,p]::1;[https://disneytermsofuse.com/finnish,p]::1;
+<kuketo|[https://eo.wikipedia.org/wiki/Kuketo,t]::1;[https://eo.wikipedia.org/wiki/Kuketo,h]::1;[https://eo.wikipedia.org/wiki/Kuketo,p]::2;
+<kuketojredakti|[https://eo.wikipedia.org/wiki/Kuketo,h]::1;[https://eo.wikipedia.org/wiki/Kuketo,p]::5;
+<kuketojn|[https://eo.wikipedia.org/wiki/Kuketo,p]::2;
+<kukolaĵo|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
 <kukolaj|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
-<kuketoj|[https://eo.wikipedia.org/wiki/Kuketo,p]::4;
 <kuketaron|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
 <kuketon|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
-<kuketojn|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
-<kuki|[https://id.wikipedia.org/wiki/Kuki,t]::1;[https://id.wikipedia.org/wiki/Kuki,h]::1;[https://id.wikipedia.org/wiki/Kuki,p]::13;[https://sw.wikipedia.org/wiki/Kuki,t]::1;[https://sw.wikipedia.org/wiki/Kuki,h]::1;[https://sw.wikipedia.org/wiki/Kuki,p]::1;[https://ms.wikipedia.org/wiki/Kuki_HTTP,t]::1;[https://ms.wikipedia.org/wiki/Kuki_HTTP,h]::1;[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::13;
 <kukisunting|[https://id.wikipedia.org/wiki/Kuki,h]::1;
 <kukicecikut|[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::4;
+<kuka|[https://disneytermsofuse.com/finnish,p]::1;

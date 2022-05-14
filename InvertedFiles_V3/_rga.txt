@@ -1,1 +1,7 @@
 <rga|[https://brave.com/ok-google,h]::1;
+<rgaallred|[https://www.congress.gov,p]::1;
+<rgacarter|[https://www.congress.gov,p]::1;
+<rgacohen|[https://www.congress.gov,p]::1;
+<rgafischbach|[https://www.congress.gov,p]::1;
+<rgagriffith|[https://www.congress.gov,p]::1;
+<rgahiggins|[https://www.congress.gov,p]::1;

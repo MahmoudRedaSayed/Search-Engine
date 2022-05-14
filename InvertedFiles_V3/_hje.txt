@@ -1,1 +1,6 @@
 <hjemmeside|[https://da.wikipedia.org/wiki/Cookie,p]::2;
+<hjemhørende|[https://disneytermsofuse.com/danish,p]::1;
+<hjemsted|[https://disneytermsofuse.com/norwegian,p]::2;
+<hjelp|[https://disneytermsofuse.com/norwegian,p]::3;
+<hjemmesiden|[https://casino-now.dk/anmeldelser,p]::1;
+<hjelpe|[https://norskcasino-now.com/anmeldelser,p]::2;

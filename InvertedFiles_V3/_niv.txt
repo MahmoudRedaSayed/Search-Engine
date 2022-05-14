@@ -1,4 +1,5 @@
-<nivel|[https://www.sciencenewsforstudents.org,h]::1;[http://www.archive-it.org,p]::1;
-<nivedita|[https://www.tutorialspoint.com/php/index.htm,p]::1;
-<nivolumab|[https://www.everydayhealth.com/cancer/genetic-counseling-for-cancer-risk-just-as-effective-via-telehealth-and-more-cancer-news-from-ascos-annual-meeting,p]::1;
-<niveles|[https://www.healthline.com/type-2-diabetes,p]::4;
+<nivel|[https://espanol.cdc.gov/coronavirus/2019-ncov/symptoms-testing/testing.html,p]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/about-face-coverings.html,h]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/index.html,p]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/about-face-coverings.html,p]::2;
+<niveles|[https://espanol.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/index.html,p]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/about-face-coverings.html,p]::2;
+<nivi|[https://www.edtechdigest.com/who-we-are,p]::1;
+<niven|[https://m.imdb.com/feature/bestpicture/?ref_=nv_ch_osc,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;
+<nivona|[https://www.ebay.com/globaldeals/home/major-appliances,h]::1;

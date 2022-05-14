@@ -1,1 +1,13 @@
 <yake|[https://sw.wikipedia.org/wiki/Kuki,p]::1;
+<yakın|[https://tr.beinsports.com,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/marmara-isletme-soruyor-digital-marketing-paneli,p]::1;[https://www.ugureskici.com/internet-dunyasi,p]::1;
+<yakıp|[https://www.ugureskici.com/hakkimda,p]::1;
+<yakından|[https://www.ugureskici.com/hakkimda,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/marmara-isletme-soruyor-digital-marketing-paneli,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/digitalzone-2017-kimler-geldi-kimler-gecti-ne-ogrendik,p]::1;
+<yaklaşım|[https://www.ugureskici.com/notlarim-makalelerim/projelerimizi-nasil-yonetsek,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/seo-pozisyonu-icin-ise-alimlarda-kullanilabileceginiz-sorular,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/digitalzone-2017-kimler-geldi-kimler-gecti-ne-ogrendik,h]::1;
+<yaklaşımlardan|[https://www.ugureskici.com/notlarim-makalelerim/projelerimizi-nasil-yonetsek,p]::2;[https://www.ugureskici.com/notlarim-makalelerim/digitalzone-2017-kimler-geldi-kimler-gecti-ne-ogrendik,h]::1;
+<yaklaşımıdır|[https://www.ugureskici.com/notlarim-makalelerim/projelerimizi-nasil-yonetsek,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/seo-pozisyonu-icin-ise-alimlarda-kullanilabileceginiz-sorular,p]::1;
+<yakmasına|[https://www.ugureskici.com/notlarim-makalelerim/projelerimizi-nasil-yonetsek,p]::1;
+<yakalama|[https://www.ugureskici.com/notlarim-makalelerim/ssl-gecisi-icin-seo-kontrol-listesi,p]::1;
+<yakalıyor|[https://www.ugureskici.com/notlarim-makalelerim/pogo-sticking-nedir,p]::1;
+<yaklaşık|[https://www.ugureskici.com/notlarim-makalelerim/wordpress-nginx-guvenligi,p]::1;[https://www.ugureskici.com/gezdim-gordum/italya,p]::2;
+<yakalandım|[https://www.ugureskici.com/page/8,p]::1;
+<yakup|[https://kriko.io,s]::1;

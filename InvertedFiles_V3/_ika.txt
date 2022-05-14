@@ -1,2 +1,3 @@
-<ikangaroo|[http://edbrowse.org/usersguide.html#cook,p]::2;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::2;
+<ikangaroo|[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::2;
 <ikasi|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
+<ikamet|[https://www.ugureskici.com/hakkimda,p]::1;

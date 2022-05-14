@@ -1,3 +1,3 @@
-<edp|[https://blog.archive.org,p]::1;
-<edpb|[https://link.springer.com/10.1007/978-3-030-76663-4_3,p]::7;
+<edp|[https://blog.archive.org,p]::1;[https://www.ebay.com/globaldeals/fashion,h]::2;
 <edpl|[http://edpl.lexxion.eu/article/EDPL/2017/3/9,t]::1;[http://edpl.lexxion.eu/article/EDPL/2017/3/9,h]::1;
+<edpb|[https://www.fedma.org,h]::1;[https://www.fedma.org,p]::2;

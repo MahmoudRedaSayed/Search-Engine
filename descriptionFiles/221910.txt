@@ -1,0 +1,9 @@
+meteorites are fragments of rock or metal that fall to earth from space. they are very rare, but many people find unusual rocks or pieces of metal and wonder if they might have found a meteorite.
+
+meteorites have several properties that help distinguish them from other rocks:
+
+
+	density: meteorites are usually quite heavy for their size, since they contain metallic iron and dense minerals.
+	magnetic: since most meteorites contain metallic iron, a magnet will often stick to them. for “stony” meteorites, a magnet might not stick, but if you hang the magnet by a string, it will be attracted.
+	unusual shape: iron-nickel meteorites are rarely rounded. instead, they have an irregular shape with unusual pits like finger prints in their surface called “regmaglypts.”
+	fusion crust: stony meteorites typically have a thin crust on their surface where it melted as it ...

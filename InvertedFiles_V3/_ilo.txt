@@ -1,1 +1,4 @@
-<ilość|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<ilość|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::2;[https://kasyno-now.com,p]::1;
+<ilości|[https://kasyno-now.com,s]::1;[https://kasyno-now.com,p]::3;
+<ilością|[https://kasyno-now.com,p]::1;
+<ilocos|[https://www.nytimes.com/live/2022/05/09/world/philippines-election,p]::4;[https://www.nytimes.com/2022/04/13/world/asia/philippines-marcos-president-election.html,p]::2;

@@ -1,2 +1,7 @@
 <hizkuntzak|[https://eu.wikipedia.org/wiki/Cookie,h]::1;
 <hizi|[https://sw.wikipedia.org/wiki/Kuki,p]::1;
+<hizo|[http://www.beinsports.com/au,p]::1;[https://www.marca.com/futbol/premier-league.html?intcmp=MENUPROD&s_kw=premier-league,h]::1;[https://www.marca.com/futbol/champions-league.html?intcmp=MENUPROD&s_kw=futbol-champions-league,h]::2;[https://www.marca.com/tenis.html?intcmp=MENUPROD&s_kw=tenis,h]::1;[https://www.marca.com/deportes-invierno.html?intcmp=MENUPROD&s_kw=deportes-invierno,h]::1;[https://www.marca.com/natacion.html?intcmp=MENUPROD&s_kw=natacion,h]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/your-health/quarantine-isolation.html,p]::1;
+<hizmetler|[https://www.ugureskici.com/hakkimda,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/projelerimizi-nasil-yonetsek,p]::1;
+<hizmetini|[https://www.ugureskici.com/notlarim-makalelerim/2021-dijital-pazarlama-trendleri-ve-ic-gorulerim,p]::1;
+<hizmetlerin|[https://www.ugureskici.com/notlarim-makalelerim/2021-dijital-pazarlama-trendleri-ve-ic-gorulerim,p]::1;
+<hizmetlerinizi|[https://www.ugureskici.com/notlarim-makalelerim/2021-dijital-pazarlama-trendleri-ve-ic-gorulerim,p]::1;

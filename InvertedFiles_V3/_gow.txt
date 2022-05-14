@@ -1,2 +1,6 @@
-<gown|[https://www.everydayhealth.com/emotional-health/lili-reinhart-called-out-other-celebs-for-starving-themselves-why-body-image-experts-are-applauding-her,p]::1;
+<gown|[https://www.everydayhealth.com/emotional-health/lili-reinhart-called-out-other-celebs-for-starving-themselves-why-body-image-experts-are-applauding-her,p]::1;[https://www.dailymail.co.uk/femail/index.html,h]::1;[https://www.dailymail.co.uk/tvshowbiz/kim_kardashian/index.html,h]::4;[https://www.dailymail.co.uk/tvshowbiz/soaps/index.html,h]::1;[https://www.dailymail.co.uk/femail/fashionfinder/index.html,h]::1;[https://lifetickler.com/how-to-get-the-best-bridesmaid-gowns-on-your-big-day,p]::4;
 <gowthami|[https://www.tutorialspoint.com/ms_project/index.htm,p]::1;
+<gownread|[https://www.dailymail.co.uk/femail/fashionfinder/index.html,p]::1;
+<gowns|[https://lifetickler.com/how-to-get-the-best-bridesmaid-gowns-on-your-big-day,t]::1;[https://lifetickler.com/how-to-get-the-best-bridesmaid-gowns-on-your-big-day,h]::1;[https://www.whitehouse.gov/covidplan,p]::1;[https://www.nps.gov/articles/womens-suffrage-and-the-cat.htm,p]::1;
+<gowanus|[https://nautil.us/topics/general,h]::1;
+<gowdy|[https://www.foxnews.com/media,p]::1;[https://www.foxnews.com/shows,h]::1;[https://radio.foxnews.com/podcast,p]::2;[https://www.foxnews.com,h]::1;

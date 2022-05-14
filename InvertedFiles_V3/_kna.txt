@@ -1,0 +1,3 @@
+<knauer|[http://richardnixonlibrary.tumblr.com,p]::1;
+<knacken|[https://onlinecasino-now.de/casino-software/netent,p]::1;[https://www.geeksforgeeks.org/cbse-class-9-maths-notes/?ref=ghm,p]::1;[https://www.geeksforgeeks.org/geek-of-the-month/?ref=ghm,p]::1;
+<knapsack|[https://www.geeksforgeeks.org/pseudo-polynomial-in-algorithms/?ref=ghm,p]::1;[https://www.geeksforgeeks.org/polynomial-time-approximation-scheme/?ref=ghm,s]::1;[https://www.geeksforgeeks.org/polynomial-time-approximation-scheme/?ref=ghm,p]::4;[https://www.geeksforgeeks.org/greedy-algorithms/?ref=ghm,p]::1;[https://www.geeksforgeeks.org/branch-and-bound-algorithm/?ref=ghm,s]::2;[https://www.geeksforgeeks.org/branch-and-bound-algorithm/?ref=ghm,p]::3;

@@ -1,2 +1,16 @@
 <klensin|[https://en.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://en.wikipedia.org/w/index.php?title=HTTP_cookie&oldid=1085989394,p]::1;
-<klein|[https://af.wikipedia.org/wiki/Koekie_(rekenaarwetenskap),p]::2;[https://nds-nl.wikipedia.org/wiki/Koekien_(internet),p]::1;
+<klein|[https://af.wikipedia.org/wiki/Koekie_(rekenaarwetenskap),p]::1;[https://nds-nl.wikipedia.org/wiki/Koekien_(internet),p]::1;[https://www.bbc.com/worklife,p]::1;[https://discountcode.dailymail.co.uk/asos,h]::1;[https://onlinecasino-now.de/casino-software/netent,p]::1;[https://www.nytimes.com/ca/?action=click&region=Footer&pgtype=Homepage,h]::1;[https://www.nytimes.com/interactive/2021/us/covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/us/missouri-covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/world/covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/us/utah-covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/us/maine-covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/us/hawaii-covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/us/covid-cases-deaths-tracker.html,p]::1;[https://www.nytimes.com/section/opinion,h]::1;[https://www.nytimes.com/section/opinion,p]::1;[https://www.nytimes.com/2022/05/08/opinion/tiktok-twitter-china-bytedance.html,p]::2;[https://www.nytimes.com/2022/05/09/opinion/letters/ed-koch-secret-gay-life.html,p]::1;[https://www.ebay.com/globaldeals/fashion/mens-clothing,h]::1;[https://www.nytimes.com/international/?action=click&region=Footer&pgtype=Homepage,h]::1;[https://www.ebay.com/globaldeals/fashion,h]::1;[https://www.ebay.com/globaldeals/fashion/handbags-and-accessories,h]::1;[https://irishwomenshistory.blogspot.com/2014/11/the-colours-of-suffragettes.html,p]::1;
+<kleenex|[https://www.campdream.org/ways-to-support/10-ways-to-support,p]::1;
+<kleiner|[https://nautil.us/topics/philosophy,p]::2;[https://casino-now.be,s]::1;[https://casino-now.be,p]::1;[https://onlinecasino-now.nl/casino-reviews,p]::1;[https://onlinecasino-now.nl/casino-reviews/playamo,p]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::1;[https://casino-now.at/casino-bewertung/woo,s]::1;[https://casino-now.at/casino-bewertung/woo,p]::4;[https://swiss-casino-now.com/casino-bewertung/spin-casino,p]::1;[https://casino-now.at/casino-software/netent,p]::2;[https://onlinecasino-now.nl/casino-software/netent,p]::2;[https://www.ebay.com/globaldeals/tech/cameras-photo,h]::1;
+<kleinlotterien|[https://swiss-casino-now.com,h]::1;
+<kleiman|[http://usnatarchives.tumblr.com,p]::1;[http://todaysdocument.tumblr.com,p]::1;[http://fdrlibrary.tumblr.com,p]::2;
+<kleinere|[https://casino-now.be,p]::1;[https://onlinecasino-now.nl/casino-software/netent,p]::1;
+<klebanov|[https://www.hearst.com/magazines,p]::4;
+<kleines|[https://casino-now.at/casino-bewertung/woo,p]::1;[https://onlinecasino-now.de/casino-software/netent,p]::1;
+<kleindienst|[http://richardnixonlibrary.tumblr.com,p]::1;
+<kleinen|[https://casino-now.at/casino-software/netent,p]::1;
+<kleinschrittiger|[https://casino-now.at/casino-software/netent,p]::1;
+<kleinmachnow|[https://pages.ebay.com/help/policies/user-agreement.html,p]::2;
+<kleptocapture|[https://www.nytimes.com/live/2022/05/09/world/ukraine-russia-war-news,p]::1;
+<klepp|[http://philadelphiaencyclopedia.org/archive/philadelphia-and-its-people-in-maps-the-1790s,p]::1;
+<kleptoon|[https://www.dailywritingtips.com/passed-vs-past,s]::1;

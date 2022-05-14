@@ -1,0 +1,5 @@
+<muon|[https://nautil.us/topics/physics,h]::1;
+<muotoa|[https://disneytermsofuse.com/finnish,p]::2;
+<muotoon|[https://disneytermsofuse.com/finnish,p]::1;
+<muokata|[https://disneytermsofuse.com/finnish,p]::2;
+<muodostamista|[https://disneytermsofuse.com/finnish,p]::1;

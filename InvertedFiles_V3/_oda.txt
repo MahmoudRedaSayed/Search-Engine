@@ -1,2 +1,6 @@
-<odaberu|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<odaberu|[https://sh.wikipedia.org/wiki/Cookie,p]::1;[https://disneytermsofuse.com/hungarian,p]::1;
 <odabire|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<odaklı|[https://www.ugureskici.com/notlarim-makalelerim/digitalzone-2017-kimler-geldi-kimler-gecti-ne-ogrendik,h]::1;[https://www.ugureskici.com/notlarim-makalelerim/digitalzone-2017-kimler-geldi-kimler-gecti-ne-ogrendik,p]::3;[https://www.ugureskici.com/notlarim-makalelerim/marmara-isletme-soruyor-digital-marketing-paneli,p]::2;
+<odaklanmak|[https://www.ugureskici.com/notlarim-makalelerim/marmara-isletme-soruyor-digital-marketing-paneli,p]::1;
+<odaklanmalarının|[https://www.ugureskici.com/notlarim-makalelerim/digitalzone-2017-kimler-geldi-kimler-gecti-ne-ogrendik,p]::1;
+<odaklanır|[http://tr.talkenglish.com,h]::1;

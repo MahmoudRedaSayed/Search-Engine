@@ -1,6 +1,10 @@
-<orexacerbations|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;
-<oregon|[https://archive.org/about/bios.php,p]::2;[http://www.archive-it.org,p]::4;[https://web.archive.org/web/20150928223602/https:/developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage,p]::1;
+<orexacerbations|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;[https://www.iflscience.com/environment/the-largest-accidental-release-of-radioactive-material-in-us-history-what-happened-at-church-rock,p]::3;[http://preservearchives.tumblr.com,p]::1;[https://casino-now.it/recensioni/woo,p]::2;[https://www.nytimes.com/2022/05/09/opinion/labor-peace-health-care.html,p]::1;
+<oregon|[https://archive.org/about/bios.php,p]::2;[http://www.archive-it.org,p]::4;[https://web.archive.org/web/20150928223602/https:/developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage,p]::1;[http://bleacherreport.com/college-football,h]::2;[https://www.dailymail.co.uk/travel/escape/index.html,h]::1;[https://lifetickler.com/giving-money-to-the-homeless-should-you-do-it,p]::1;[https://news.ohsu.edu/2022/05/05/new-study-reveals-the-effect-of-extended-space-flight-on-astronauts-brains,p]::1;[https://nautil.us/we-are-nowhere-close-to-the-limits-of-athletic-performance-2-11432,p]::1;[https://www.nytimes.com/live/2022/05/09/world/covid-19-mandates-vaccine-cases,p]::1;[https://www.nytimes.com/2022/05/09/upshot/abortion-pills-medication-roe-v-wade.html,p]::1;[https://www.nytimes.com/2022/05/06/opinion/roe-v-wade-constitution.html,p]::1;[https://www.foxnews.com,h]::2;[http://m.learningenglish.voanews.com/rss.html?tab=Podcast,p]::1;[https://learningenglish.voanews.com/p/6764.html,p]::1;
 <oregano|[https://www.everydayhealth.com/cancer/condition-kitchen-easy-recipes-people-living-with-cancer,h]::1;
 <orethnicities|[https://www.everydayhealth.com/breast-cancer/living-with/on-chemo-brain-dropped-words,p]::1;
-<orexcessively|[https://www.everydayhealth.com/hysterectomy/guide,p]::1;
-<oreating|[https://www.everydayhealth.com/ovarian-cancer/is-there-sex-after-ovarian-cancer,p]::1;
+<oresand|[https://www.iflscience.com/environment/could-we-run-out-of-sand-we-might-be-headed-for-a-crisis-un-report-warns,p]::1;
+<oreja|[https://www.marca.com/futbol/mas-futbol/tercera-division.html?intcmp=MENUPROD&s_kw=tercera-rfef,h]::1;[https://www.marca.com/toros.html?intcmp=MENUPROD&s_kw=toros,h]::2;
+<oregons|[https://nautil.us/we-are-nowhere-close-to-the-limits-of-athletic-performance-2-11432,p]::1;
+<orejas|[https://www.marca.com/toros.html?intcmp=MENUPROD&s_kw=toros,h]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/about-face-coverings.html,p]::1;
+<oren|[https://onlinecasino-now.nl/casino-software/netent,p]::1;
+<orestes|[https://www.chicagotribune.com/news/obituaries/#nt=tertiarynavbar,h]::1;

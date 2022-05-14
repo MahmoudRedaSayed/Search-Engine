@@ -1,1 +1,3 @@
-<uddi|[https://www.tutorialspoint.com/latest_technologies.htm,p]::1;
+<uddi|[https://www.tutorialspoint.com/latest_technologies.htm,p]::1;[http://blogs.archives.gov/ndc,p]::1;
+<uddannet|[https://casino-now.dk/anmeldelser,p]::1;
+<udderly|[https://www.foxnews.com/lifestyle/nebraska-teen-home-wildfire-doorbell-system,s]::1;[https://www.foxnews.com/lifestyle/nebraska-teen-home-wildfire-doorbell-system,p]::1;

@@ -1,2 +1,1 @@
-<ogni|[https://www.hearst.it,p]::1;[https://it.wikipedia.org/wiki/Cookie,p]::7;
-<ognuno|[https://it.wikipedia.org/wiki/Cookie,p]::2;
+<ogni|[https://www.hearst.it,p]::1;[https://it.swiss-casino-now.com/recensioni,p]::2;[https://casino-now.it/recensioni,p]::9;[https://casino-now.it/recensioni/woo,p]::4;[https://www.geeksforgeeks.org/analysis-of-algorithems-little-o-and-little-omega-notations/?ref=ghm,p]::1;[https://www.geeksforgeeks.org/analysis-of-algorithms-set-3asymptotic-notations/?ref=ghm,p]::7;[https://icons8.it/icons/ios,p]::1;[https://icons8.it/icons/material,p]::2;

@@ -1,1 +1,1 @@
-<sls|[https://www.everydayhealth.com/hysterectomy/guide,s]::1;[https://www.everydayhealth.com/hysterectomy/guide,p]::3;
+<sls|[https://www.everydayhealth.com/hysterectomy/guide,s]::1;[https://www.dailymail.co.uk/sciencetech/nasa/index.html,h]::3;

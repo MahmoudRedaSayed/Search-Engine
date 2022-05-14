@@ -1,1 +1,3 @@
 <tuja|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
+<tujuan|[https://disneytermsofuse.com/bahasa-indonesia,p]::1;[https://disneytermsofuse.com/bahasa-malaysia,p]::5;
+<tujuantujuan|[https://disneytermsofuse.com/bahasa-indonesia,p]::1;

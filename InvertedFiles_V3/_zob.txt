@@ -1,6 +1,11 @@
-<zobrazovat|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;
 <zobacz|[https://pl.wikipedia.org/wiki/HTTP_cookie,s]::1;
 <zobraziť|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::3;
 <zobrazovať|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
 <zobrazujú|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
 <zobrazuje|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<zobrazovat|[https://disneytermsofuse.com/czech,p]::1;
+<zobowiązany|[https://disneytermsofuse.com/polish,p]::3;
+<zobowiązaniem|[https://disneytermsofuse.com/polish,p]::2;
+<zobowiązuje|[https://disneytermsofuse.com/polish,p]::10;
+<zobowiązać|[https://disneytermsofuse.com/polish,p]::1;
+<zobowiązana|[https://disneytermsofuse.com/polish,p]::1;

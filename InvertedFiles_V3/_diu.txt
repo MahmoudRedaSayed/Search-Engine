@@ -1,1 +1,3 @@
-<diuretic|[https://www.everydayhealth.com/most-popular,p]::1;
+<diuretic|[https://www.everydayhealth.com/most-popular,p]::1;[https://www.foxnews.com/health,p]::1;[https://www.foxnews.com/category/health/heart-health,p]::1;[https://www.foxnews.com/category/health/medical-research,p]::1;
+<diumumkannya|[https://disneytermsofuse.com/bahasa-indonesia,p]::1;
+<diundi|[https://www.geeksforgeeks.org/school-ambassador/?ref=ghm,h]::1;

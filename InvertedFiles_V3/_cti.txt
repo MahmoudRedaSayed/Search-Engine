@@ -1,1 +1,2 @@
 <cti|[https://www.everydayhealth.com/cancer/fda-approves-pacritinib-for-treatment-of-myelofibrosis,p]::1;
+<ctinsidercom|[https://www.hearst.com/newspapers,p]::2;

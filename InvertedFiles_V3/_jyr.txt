@@ -1,1 +1,1 @@
-<jyra|[https://www.tutorialspoint.com/categories/marketing,p]::2;[https://www.tutorialspoint.com/categories/business,p]::1;
+<jyra|[https://www.tutorialspoint.com/categories/business,p]::1;[https://www.tutorialspoint.com/categories/marketing,p]::2;

@@ -1,0 +1,1 @@
+upute kako omogućiti (uključiti) javascript u web pregledniku i zašto.

@@ -1,1 +1,1 @@
-<swy|[https://www.hearst.co.uk/contact-us,p]::1;[http://www.hearst.co.uk/privacy-notice,p]::1;[http://www.hearst.co.uk/terms-and-conditions,p]::2;
+<swy|[https://www.hearst.co.uk/contact-us,p]::1;[http://www.hearst.co.uk/privacy-notice,p]::1;[http://www.hearst.co.uk/terms-and-conditions,p]::1;

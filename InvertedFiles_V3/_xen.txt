@@ -1,1 +1,3 @@
-<xenia|[https://www.canceradvocacy.org,p]::2;
+<xenon|[https://lifetickler.com/phone-camera-money,p]::2;
+<xenophobic|[https://www.dailymail.co.uk/news/centers-for-disease-control-and-prevention-cdc/index.html,h]::1;
+<xenophobia|[http://bbc.in/1JY27sX,p]::1;

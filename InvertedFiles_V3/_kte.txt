@@ -1,4 +1,7 @@
-<která|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::3;
-<který|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::2;
-<které|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::3;
-<kterým|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<která|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::2;[https://disneytermsofuse.com/czech,p]::5;
+<který|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://disneytermsofuse.com/czech,p]::8;
+<které|[https://disneytermsofuse.com/czech,p]::13;
+<kterých|[https://disneytermsofuse.com/czech,p]::3;
+<kterou|[https://disneytermsofuse.com/czech,p]::1;
+<kterém|[https://disneytermsofuse.com/czech,p]::1;
+<kteří|[https://disneytermsofuse.com/czech,p]::1;

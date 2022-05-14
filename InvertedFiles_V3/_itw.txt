@@ -1,1 +1,5 @@
 <itwarmer|[https://www.apple.com/tv-home,p]::1;
+<itwanted|[http://www.beinsports.com/au,p]::1;
+<itwe|[https://www.iflscience.com/environment/magnetic-pole-reversal-might-happen-more-quickly-than-thought,p]::1;
+<itwould|[https://lifetickler.com/understanding-car-insurance,p]::1;
+<itwith|[https://www.apple.com/privacy,p]::1;

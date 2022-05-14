@@ -1,1 +1,2 @@
-<msh|[https://www.cancer.org/cancer/cancer-causes/genetics/family-cancer-syndromes.html,p]::2;[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,p]::2;[https://www.everydayhealth.com/ovarian-cancer/genetic-testing,p]::4;[https://www.cancer.org/cancer/ovarian-cancer/causes-risks-prevention/risk-factors.html,p]::2;[https://www.cancer.org/cancer/ovarian-cancer/detection-diagnosis-staging/how-diagnosed.html,p]::4;
+<msh|[https://www.cancer.org/cancer/cancer-causes/genetics/family-cancer-syndromes.html,p]::2;[https://www.cancer.org/cancer/ovarian-cancer/causes-risks-prevention/risk-factors.html,p]::2;
+<msha|[https://jobs.mayoclinic.org/afp,p]::1;

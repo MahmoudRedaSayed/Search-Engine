@@ -1,1 +1,1 @@
-<ppp|[https://tobaccoatlas.org,p]::1;
+<ppp|[https://tobaccoatlas.org,p]::1;[https://www.foxnews.com,h]::2;[https://video.foxnews.com/v/6305825261112,t]::1;[https://video.foxnews.com/v/6305825261112,h]::1;

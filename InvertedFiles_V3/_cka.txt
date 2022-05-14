@@ -1,0 +1,1 @@
+<ckan|[https://hub.mph.in.gov/dataset?q=COVID,p]::1;

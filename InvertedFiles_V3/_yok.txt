@@ -1,1 +1,5 @@
-<yoko|[https://archive.org/about/bios.php,p]::1;
+<yoko|[https://archive.org/about/bios.php,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/seo-pozisyonu-icin-ise-alimlarda-kullanilabileceginiz-sorular,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/wordpress-nginx-guvenligi,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/rss-yayini-nedir-seo-icin-rss-olusturma,p]::1;[https://www.ugureskici.com/page/2,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/cografi-hedef-yapilandirmasi,p]::1;[https://www.ugureskici.com/page/8,p]::1;[https://www.ugureskici.com/internet-dunyasi,p]::2;
+<yoktur|[https://www.ugureskici.com/hakkimda,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/google-alisveris-reklamlari-icin-gtin-zorunlulugu,p]::1;
+<yoklamaktan|[https://www.ugureskici.com/notlarim-makalelerim/wordpress-nginx-guvenligi,p]::1;
+<yoksa|[https://www.ugureskici.com/notlarim-makalelerim/marmara-isletme-soruyor-digital-marketing-paneli,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/robotstxt-nedir-nasil-kullanilir,p]::3;[https://www.ugureskici.com/page/8,p]::1;
+<yok…|[https://www.ugureskici.com/page/8,p]::1;

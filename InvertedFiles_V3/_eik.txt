@@ -1,1 +1,3 @@
-<eike|[https://web.archive.org/web/20081223151145/http:/www.infoq.com/articles/rest-anti-patterns,s]::1;[http://www.infoq.com/articles/rest-anti-patterns,s]::1;[https://web.archive.org/web/20081223151145/http:/www.infoq.com/articles/rest-anti-patterns,p]::1;[http://www.infoq.com/articles/rest-anti-patterns,p]::2;
+<eikä|[https://disneytermsofuse.com/finnish,p]::12;[https://netticasino-now.com,s]::1;
+<eikaupalliseen|[https://disneytermsofuse.com/finnish,p]::1;
+<eikaupallisessa|[https://disneytermsofuse.com/finnish,p]::1;

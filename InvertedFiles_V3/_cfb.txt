@@ -1,0 +1,3 @@
+<cfber|[http://bleacherreport.com/college-football,h]::8;[http://www.digikey.com,h]::1;[http://www.digikey.com,p]::2;
+<cfbai|[https://bbbprograms.org,p]::2;
+<cfbais|[https://bbbprograms.org,p]::1;

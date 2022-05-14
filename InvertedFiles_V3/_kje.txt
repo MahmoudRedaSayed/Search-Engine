@@ -1,2 +1,5 @@
 <kjelderendre|[https://nn.wikipedia.org/wiki/Informasjonskapsel,h]::1;
 <kjend|[https://nn.wikipedia.org/wiki/Informasjonskapsel,p]::1;
+<kjejich|[https://disneytermsofuse.com/czech,p]::1;
+<kjent|[https://disneytermsofuse.com/norwegian,p]::3;
+<kjellfrid|[https://www.imdb.com/search/name/?match_all=true&ref_=nv_cel_m,p]::1;

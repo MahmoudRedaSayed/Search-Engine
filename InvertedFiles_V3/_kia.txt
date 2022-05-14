@@ -1,2 +1,9 @@
-<kiam|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
+<kiam|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;[https://www.marca.com/coches-y-motos.html?intcmp=MENUPROD&s_kw=marca-coches,h]::1;[https://www.foxnews.com/category/tech/topics/innovation,p]::1;
 <kiajn|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
+<kiaknázhassuk|[https://disneytermsofuse.com/hungarian,p]::1;
+<kiaknázza|[https://disneytermsofuse.com/hungarian,p]::1;
+<kiaknázását|[https://disneytermsofuse.com/hungarian,p]::1;
+<kiaknázásából|[https://disneytermsofuse.com/hungarian,p]::1;
+<kiadásra|[https://disneytermsofuse.com/hungarian,p]::1;
+<kiadásért|[https://disneytermsofuse.com/hungarian,p]::1;
+<kiana|[https://www.nytimes.com/section/todayspaper,p]::2;[https://www.nytimes.com/2022/05/01/world/asia/philippines-election-marcos-robredo.html,p]::1;

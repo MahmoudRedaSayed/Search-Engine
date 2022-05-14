@@ -1,3 +1,6 @@
-<mek|[https://archive.org/about/bios.php,p]::2;[https://blog.openlibrary.org,p]::1;[https://blog.openlibrary.org/2022/04/27/a-high-schoolers-experience-contributing-to-the-open-book-genome-project,p]::1;[https://blog.openlibrary.org/page/2,p]::7;
-<mekinist|[https://www.everydayhealth.com/cancer/cancer-news-digest-the-latest-developments-in-cancer-research-and-treatment-for-february,p]::1;
+<mek|[https://archive.org/about/bios.php,p]::2;[https://blog.openlibrary.org,p]::1;[https://blog.openlibrary.org/2022/04/27/a-high-schoolers-experience-contributing-to-the-open-book-genome-project,p]::1;[https://blog.openlibrary.org/page/2,p]::6;[https://blog.openlibrary.org/author/mekarpeles,h]::1;[https://blog.openlibrary.org/author/mekarpeles,p]::1;
+<mekinist|[https://www.everydayhealth.com/cancer/cancer-news-digest-the-latest-developments-in-cancer-research-and-treatment-for-february,p]::1;[https://netticasino-now.com,p]::1;
 <mekanisme|[https://id.wikipedia.org/wiki/Kuki,p]::2;[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::2;
+<meksika|[https://www.ugureskici.com/notlarim-makalelerim/cografi-hedef-yapilandirmasi,s]::1;[https://www.ugureskici.com/notlarim-makalelerim/cografi-hedef-yapilandirmasi,p]::1;
+<mekki|[https://www.nytimes.com/2022/05/07/world/middleeast/tunisia-democracy-economy.html,p]::2;
+<mekosh|[http://projects.voanews.com/making-the-constitution,p]::1;

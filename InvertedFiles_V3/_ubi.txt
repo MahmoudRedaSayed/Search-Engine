@@ -1,3 +1,6 @@
-<ubiquinone|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
-<ubiquitous|[https://www.nytimes.com/2001/09/04/technology/04COOK.html,p]::1;[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,p]::2;[https://api.semanticscholar.org/CorpusID:210064317,p]::1;[https://dl.acm.org/doi/10.1145/3313831.3376321,p]::1;
+<ubiquinone|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;[https://www.marca.com/en/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;
+<ubiquitous|[https://www.nytimes.com/2001/09/04/technology/04COOK.html,p]::1;[https://api.semanticscholar.org/CorpusID:210064317,p]::1;[https://dl.acm.org/doi/10.1145/3313831.3376321,p]::1;[https://www.bbc.com/future/article/20200702-the-helmets-that-can-keep-your-brain-safe,p]::1;[https://nautil.us/topics/physics,p]::1;[https://nautil.us/how-to-bury-carbon-let-plants-do-the-dirty-work-11810,p]::1;
 <ubiquitously|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,p]::1;
+<ubicación|[https://www.digikey.com.mx/MyDigiKey/Registration?ReturnUrl=https%253A%252F%252Fforum.digikey.com/c/spanish/40,p]::2;[https://espanol.cdc.gov/coronavirus/2019-ncov/travelers/testing-international-air-travelers.html,p]::4;
+<ubicada|[https://espanol.cdc.gov/coronavirus/2019-ncov/travelers/testing-international-air-travelers.html,p]::1;
+<ubicaciones|[https://espanol.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/masks.html,p]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/about-face-coverings.html,p]::1;

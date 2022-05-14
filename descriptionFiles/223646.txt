@@ -1,0 +1,1 @@
+el ayuno intermitente es un patrón de alimentación. se ayuna durante un determinado período de tiempo cada día. luego, se come durante otro período de tiempo cada día.

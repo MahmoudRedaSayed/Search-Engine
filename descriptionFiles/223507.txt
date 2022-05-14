@@ -1,0 +1,1 @@
+nearly two years ago we started very carefully experimenting with free hosting of open source projects. today we’re announcing the next iteration of our free hosting program, casting a much wider net this time.

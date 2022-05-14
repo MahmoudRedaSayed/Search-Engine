@@ -1,1 +1,1 @@
-<idle|[https://developers.google.com/assistant/smarthome/concepts/local,p]::1;
+<idle|[https://developers.google.com/assistant/smarthome/concepts/local,p]::1;[https://docs.google.com/document/d/1K-mKOqiUiSjgZTEscBLjtjd6E67oiK8H2ztOiq5tigk/pub,p]::1;[https://lifetickler.com/phone-camera-money,p]::1;[https://www.nytimes.com/live/2022/05/09/business/economy-news-stocks-inflation,p]::1;

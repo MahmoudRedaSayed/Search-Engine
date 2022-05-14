@@ -1,4 +1,10 @@
-<bauer|[https://www.everydayhealth.com/diet-nutrition/the-paleo-diet.aspx,p]::1;
-<baug|[https://www.everydayhealthgroup.com,p]::1;
-<baumann|[https://www.everydayhealth.com/ovarian-cancer/ovarian-cancer-survivor-stories,p]::15;
+<bauer|[https://www.everydayhealth.com/diet-nutrition/the-paleo-diet.aspx,p]::1;[https://edaa.eu/certification-providers,p]::2;[https://edaa.eu/news-and-resources/multimedia,p]::2;[https://www.dailymail.co.uk/news/breaking_news/index.html,h]::2;[https://meded.hms.harvard.edu/meded-people,h]::1;[https://www.chicagotribune.com/sports/cubs/#nt=taxonomy-article,h]::1;
+<baumann|[https://www.everydayhealth.com/ovarian-cancer/ovarian-cancer-survivor-stories,p]::15;[https://www.thenewsmarket.com/about,p]::1;
 <baumanns|[https://www.everydayhealth.com/ovarian-cancer/ovarian-cancer-survivor-stories,p]::3;
+<baubles|[https://www.iflscience.com/chemistry,h]::1;
+<baufi|[https://www.cnnmoney.ch,h]::1;
+<bautizar|[https://www.marca.com/tiramillas/television/2022/05/08/6277770846163fdb9d8b4598.html,s]::1;[https://casino-now.at/casino-software/netent,p]::1;[https://onlinecasino-now.de/casino-software/netent,p]::1;
+<bautismo|[https://www.marca.com/futbol/premier-league.html?intcmp=MENUPROD&s_kw=premier-league,h]::1;
+<baudin|[https://kids.kiddle.co/History_of_Australia,p]::1;
+<baudins|[https://kids.kiddle.co/History_of_Australia,p]::1;
+<baumfree|[https://www.nps.gov/subjects/womenshistory/20-for-2020.htm,p]::1;

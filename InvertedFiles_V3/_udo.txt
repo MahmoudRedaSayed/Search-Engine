@@ -1,1 +1,6 @@
 <udover|[https://da.wikipedia.org/wiki/Cookie,p]::1;
+<udostępnianie|[https://disneytermsofuse.com/polish,p]::4;
+<udostępnianych|[https://disneytermsofuse.com/polish,p]::1;
+<udostępniane|[https://disneytermsofuse.com/polish,p]::3;
+<udostępniania|[https://disneytermsofuse.com/polish,p]::1;
+<udostępnione|[https://disneytermsofuse.com/polish,p]::1;

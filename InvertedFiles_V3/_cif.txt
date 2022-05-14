@@ -1,4 +1,1 @@
-<cifratura|[https://it.wikipedia.org/wiki/Cookie,p]::1;
-<cifrate|[https://it.wikipedia.org/wiki/Cookie,p]::1;
-<cifrata|[https://it.wikipedia.org/wiki/Cookie,p]::1;
-<cifrati|[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<cifras|[https://www.marca.com/juegos-olimpicos.html?intcmp=MENUPROD&s_kw=juegos-olimpicos,h]::1;[https://www.nytimes.com/es,h]::1;

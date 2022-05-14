@@ -1,0 +1,4 @@
+<rncbishop|[https://www.congress.gov,p]::1;[https://www.foxnews.com/world,p]::1;[https://www.foxnews.com/category/world/scandals,p]::1;[https://www.foxbusiness.com/economy,p]::1;
+<rncburchett|[https://www.congress.gov,p]::1;
+<rncchabot|[https://www.congress.gov,p]::1;
+<rncfrankel|[https://www.congress.gov,p]::1;

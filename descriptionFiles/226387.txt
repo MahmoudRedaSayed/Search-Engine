@@ -1,0 +1,1 @@
+php is a server-side scripting language designed specifically for web development. php can be easily embedded in html files.

@@ -1,0 +1,1 @@
+an analytics suite with a focus on user privacy and data security – the perfect alternative to google analytics.

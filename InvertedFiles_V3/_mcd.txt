@@ -1,2 +1,8 @@
-<mcdaniel|[https://www.tutorialspoint.com/categories/development,p]::3;[https://www.tutorialspoint.com/categories/marketing,p]::1;
-<mcdonald|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::1;
+<mcdaniel|[https://www.tutorialspoint.com/categories/development,p]::3;[https://www.tutorialspoint.com/categories/marketing,p]::1;[https://elifesciences.org/articles/41714,p]::1;
+<mcdonald|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;[https://www.campdream.org/ways-to-support/foundations-corporate-giving,p]::1;[https://commons.wikimedia.org/wiki/Atlas_of_Australia,p]::2;[https://www.chicagotribune.com/politics/elections/ct-mayor-race-who-is-in-who-is-out-20220509-6yqd5a7pkzgg7ozhl23qjbw5o4-list.html#nt=related-content&rt=chartbeat-flt,p]::2;[https://www.chicagotribune.com/news/criminal-justice/#nt=taxonomy-article,h]::1;
+<mcdonalds|[https://nautil.us/the-environmental-headache-in-your-shampoo-2-11573,p]::1;[https://www.chicagotribune.com/politics/elections/ct-mayor-race-who-is-in-who-is-out-20220509-6yqd5a7pkzgg7ozhl23qjbw5o4-list.html#nt=related-content&rt=chartbeat-flt,p]::1;[https://www.chicagotribune.com/dining/reviews/ct-food-review-3-little-pigs-chinese-american-humboldt-park-20220509-v2eo2hetpzg2dc5i5zlf5pw24u-story.html#nt=related-content&rt=chartbeat-flt,p]::3;
+<mcdouall|[https://kids.kiddle.co/History_of_Australia,p]::1;
+<mcdougall|[https://stackoverflow.co/explore-teams,s]::1;[https://stackoverflowsolutions.com/topic/client-stories/imc-case-study,p]::3;
+<mcdormand|[https://m.imdb.com/feature/bestpicture/?ref_=nv_ch_osc,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;
+<mcdonnell|[https://m.imdb.com/feature/bestpicture/?ref_=nv_ch_osc,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;
+<mcdowell|[https://www.nps.gov/people/idabwells.htm,p]::2;

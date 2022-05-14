@@ -1,1 +1,4 @@
-<wojciech|[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;
+<wojciech|[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;[http://bleacherreport.com,p]::1;[http://bleacherreport.com/nba,p]::4;
+<wojespn|[http://bleacherreport.com/nba,p]::1;
+<wojnarowski|[https://www.espn.com,p]::1;
+<województwa|[https://disneytermsofuse.com/polish,p]::1;

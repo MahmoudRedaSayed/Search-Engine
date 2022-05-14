@@ -1,1 +1,5 @@
-<kaedah|[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::1;
+<kaedah|[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::1;[https://disneytermsofuse.com/bahasa-malaysia,p]::6;
+<kaepernick|[https://www.marca.com/nfl.html?intcmp=MENUPROD&s_kw=nfl?intcmp=MENUPROD&s_kw=nfl,h]::1;[https://www.foxnews.com/category/tech/topics/video-games,p]::1;
+<kaelin|[https://www.nobelprize.org/nobel_prizes/medicine/laureates/index.html,p]::1;
+<kaen|[https://onlinelearning.hms.harvard.edu/hmx/about,p]::1;[https://onlinelearning.hms.harvard.edu/hmx/institutions,p]::1;
+<kaehny|[https://www.nytimes.com/2022/05/09/nyregion/penn-station-revitalization-taxes.html,p]::2;

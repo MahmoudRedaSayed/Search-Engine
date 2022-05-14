@@ -1,0 +1,1 @@
+<lts|[https://github.com/GoogleChrome/lighthouse,p]::1;[http://usnatarchives.tumblr.com,p]::1;[http://todaysdocument.tumblr.com,p]::1;

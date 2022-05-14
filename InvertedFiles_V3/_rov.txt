@@ -2,3 +2,8 @@
 <rovnakú|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
 <rovnako|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
 <rovnaká|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<rovers|[https://www.dailymail.co.uk/sport/racing/index.html,s]::1;[https://www.dailymail.co.uk/sport/tennis/index.html,s]::1;[https://www.dailymail.co.uk/sport/golf/index.html,s]::1;[https://www.dailymail.co.uk/sport/mma/index.html,s]::1;[https://www.dailymail.co.uk/sciencetech/nasa/index.html,h]::2;[https://www.iflscience.com/team/dr-alfredo-carpineti,p]::1;[https://www.sciencenewsforstudents.org/collections,h]::2;[https://nautil.us/topics/anthropology,p]::1;[https://www.sciencenewsforstudents.org/topic/agriculture,p]::1;[https://www.sciencenewsforstudents.org/topic/planets,h]::1;[https://www.nationalgeographic.com/magazine,h]::3;[https://www.foxnews.com/tech,p]::2;
+<rovello|[https://corporate.arkadium.com,h]::1;
+<rovněž|[https://disneytermsofuse.com/czech,p]::1;
+<rovzar|[https://www.hearst.com/hearst-health,s]::1;[https://www.hearst.com/hearst-health,p]::4;
+<rovelee|[https://www.myenglishclub.com/members/daragino,p]::1;

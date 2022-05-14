@@ -1,0 +1,2 @@
+<eulogy|[https://nautil.us/topics/psychology,h]::1;[http://richardnixonlibrary.tumblr.com,p]::1;
+<eulers|[https://www.sciencenewsforstudents.org/article/lets-learn-about-pi,p]::1;[https://www.geeksforgeeks.org/mathematical-algorithms/?ref=ghm,s]::1;[https://www.geeksforgeeks.org/mathematical-algorithms/?ref=ghm,p]::1;[https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/?ref=ghm,s]::3;

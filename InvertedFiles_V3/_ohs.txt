@@ -1,1 +1,2 @@
-<ohsus|[http://www.archive-it.org,p]::3;
+<ohsus|[http://www.archive-it.org,p]::3;[https://news.ohsu.edu/2022/05/05/new-study-reveals-the-effect-of-extended-space-flight-on-astronauts-brains,t]::1;[https://news.ohsu.edu/2022/05/05/new-study-reveals-the-effect-of-extended-space-flight-on-astronauts-brains,p]::2;
+<ohsumi|[https://www.nobelprize.org/nobel_prizes/medicine/laureates/index.html,p]::1;

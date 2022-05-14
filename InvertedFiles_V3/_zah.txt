@@ -1,6 +1,16 @@
 <zahi|[https://english.ahram.org.eg/,p]::1;
-<zahra|[https://www.tutorialspoint.com/categories/business,p]::9;
+<zahra|[https://www.tutorialspoint.com/categories/business,p]::9;[https://www.myenglishclub.com/members/TimNew,p]::1;
 <zahtjeva|[https://sh.wikipedia.org/wiki/Cookie,p]::8;
 <zahtijeva|[https://sh.wikipedia.org/wiki/Cookie,p]::2;
 <zahtijevane|[https://sh.wikipedia.org/wiki/Cookie,p]::2;
 <zahtjevima|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<zaha|[https://www.dailymail.co.uk/sport/premierleague/index.html,h]::1;
+<zahlungsmethoden|[https://swiss-casino-now.com,h]::1;[https://onlinecasino-now.de,h]::2;[https://swiss-casino-now.com/casino-bewertung,h]::2;[https://casino-now.at/casino-bewertung,p]::32;[https://swiss-casino-now.com/casino-bewertung/woo-casino,p]::1;[https://casino-now.at/casino-bewertung/woo,s]::1;[https://casino-now.at/casino-bewertung/woo,p]::7;[https://swiss-casino-now.com/casino-bewertung/spin-casino,p]::3;[https://swiss-casino-now.com/casino-software/netent,p]::5;[https://casino-now.at/casino-software/netent,p]::5;[https://onlinecasino-now.de/casino-software/netent,p]::5;
+<zahlen|[https://onlinecasino-now.de,h]::1;[https://swiss-casino-now.com/casino-bewertung/spin-casino,h]::1;[https://casino-now.at/casino-software/netent,p]::1;
+<zahlungen|[https://swiss-casino-now.com/casino-bewertung/woo-casino,p]::1;[https://casino-now.at/casino-bewertung/woo,p]::1;[https://swiss-casino-now.com/casino-bewertung/spin-casino,p]::1;[https://swiss-casino-now.com/casino-software/netent,p]::1;[https://casino-now.at/casino-software/netent,p]::1;
+<zahlungsmöglichkeiten|[https://swiss-casino-now.com/casino-bewertung/woo-casino,p]::1;[https://swiss-casino-now.com/casino-bewertung/spin-casino,p]::2;
+<zahlungsinformationen|[https://casino-now.at/casino-bewertung/woo,p]::1;
+<zahlungsmethodenfür|[https://casino-now.at/casino-bewertung/woo,p]::1;
+<zahlungsmittel|[https://casino-now.at/casino-bewertung/woo,p]::1;
+<zahlreichen|[https://casino-now.at/casino-bewertung/woo,p]::1;[https://casino-now.at/casino-software/netent,p]::2;[https://onlinecasino-now.de/casino-software/netent,p]::2;
+<zahlt|[https://swiss-casino-now.com/casino-software/netent,p]::1;[https://casino-now.at/casino-software/netent,p]::1;

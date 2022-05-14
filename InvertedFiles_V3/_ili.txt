@@ -1,2 +1,12 @@
-<ili|[https://eo.wikipedia.org/wiki/Kuketo,p]::2;[https://sw.wikipedia.org/wiki/Kuki,p]::1;[https://sh.wikipedia.org/wiki/Cookie,p]::9;
+<ili|[https://eo.wikipedia.org/wiki/Kuketo,p]::2;[https://sw.wikipedia.org/wiki/Kuki,p]::1;[https://sh.wikipedia.org/wiki/Cookie,p]::9;[http://www.enable-javascript.com/hr,h]::2;
 <ilin|[https://eo.wikipedia.org/wiki/Kuketo,p]::3;
+<ilias|[https://edaa.eu/who-we-are/our-board,p]::2;[https://www.marca.com/mma.html?intcmp=MENUPROD&s_kw=mma,h]::1;
+<iliff|[https://news.ohsu.edu/2022/05/05/new-study-reveals-the-effect-of-extended-space-flight-on-astronauts-brains,s]::1;
+<ilişkinizi|[https://www.ugureskici.com/notlarim-makalelerim/2021-dijital-pazarlama-trendleri-ve-ic-gorulerim,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/marmara-isletme-soruyor-digital-marketing-paneli,s]::1;[https://www.ugureskici.com/notlarim-makalelerim/marmara-isletme-soruyor-digital-marketing-paneli,p]::1;
+<ilişkisi|[https://www.ugureskici.com/notlarim-makalelerim/projelerimizi-nasil-yonetsek,s]::3;[https://www.ugureskici.com/notlarim-makalelerim/projelerimizi-nasil-yonetsek,p]::3;
+<ilişkisine|[https://www.ugureskici.com/notlarim-makalelerim/projelerimizi-nasil-yonetsek,p]::1;
+<ilişkisini|[https://www.ugureskici.com/notlarim-makalelerim/projelerimizi-nasil-yonetsek,p]::1;
+<ilişkiler|[https://www.ugureskici.com/notlarim-makalelerim/projelerimizi-nasil-yonetsek,p]::1;
+<ilişkilendirir|[https://www.ugureskici.com/notlarim-makalelerim/cografi-hedef-yapilandirmasi,p]::1;
+<ilişkilendirebilir|[https://www.ugureskici.com/notlarim-makalelerim/cografi-hedef-yapilandirmasi,p]::1;
+<ilinks|[https://www.hearst.com/-/us-magazines-privacy-notice,h]::1;

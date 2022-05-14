@@ -1,1 +1,2 @@
 <msexternalflash|[https://el.wikipedia.org/wiki/HTTP_cookies,p]::1;
+<mselisa|[https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm,s]::1;

@@ -1,0 +1,1 @@
+smart upscaler api gives you an access to the fully-automated process of sharpening, noise reduction and upscaling images up to 3000 x 3000 px.

@@ -1,1 +1,4 @@
 <cypress|[https://www.lambdatest.com/SameSite-cookie-attribute,h]::3;[https://www.lambdatest.com/SameSite-cookie-attribute,p]::2;
+<cyprus|[https://discountcode.dailymail.co.uk/tui,h]::1;[https://www.dailymail.co.uk/travel/escape/index.html,h]::1;[https://support.google.com/googleplay/?p=about_play,p]::1;[https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm,h]::1;[https://onlinecasino-now.nl/casino-reviews/playamo,p]::1;
+<cypressaudit|[https://github.com/GoogleChrome/lighthouse,s]::1;
+<cyprus•|[https://commons.wikimedia.org/wiki/Atlas_of_Australia,p]::2;

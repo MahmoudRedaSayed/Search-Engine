@@ -1,1 +1,3 @@
 <sboyer|[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::1;
+<sbon|[https://www.bbc.co.uk/bitesize,p]::1;
+<sbos|[https://www.sitecore.com,p]::2;[https://www.sitecore.com/trust/cookie-policy,p]::2;

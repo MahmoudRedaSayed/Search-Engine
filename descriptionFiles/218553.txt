@@ -1,1 +1,0 @@
-edbrowse documentation, a text based editor, browser, and mail client.

@@ -1,2 +1,8 @@
-<utah|[https://archive.org/about/bios.php,p]::1;[http://www.archive-it.org,p]::7;[https://www.cancer.gov/news-events/cancer-currents-blog/2020/ovarian-cancer-racial-disparities-studies,p]::1;
+<utah|[https://archive.org/about/bios.php,p]::1;[http://www.archive-it.org,p]::7;[https://www.cancer.gov/news-events/cancer-currents-blog/2020/ovarian-cancer-racial-disparities-studies,p]::1;[https://www.dailymail.co.uk/news/celebrity-deaths-and-obituaries/index.html,h]::1;[https://www.dailymail.co.uk/news/dr-anthony-fauci/index.html,h]::1;[https://thenai.org,p]::1;[https://www.foxnews.com/category/world/global-economy,p]::1;[https://pages.ebay.com/help/policies/user-agreement.html,s]::2;[https://pages.ebay.com/help/policies/user-agreement.html,p]::10;[https://www.nytimes.com/interactive/2021/us/utah-covid-cases.html,t]::1;[https://www.nytimes.com/interactive/2021/us/utah-covid-cases.html,h]::5;[https://www.nytimes.com/interactive/2021/us/utah-covid-cases.html,p]::3;[https://www.nytimes.com/2022/05/07/books/molly-young-recommends-books.html,p]::1;[https://www.foxnews.com,h]::1;[https://www.nps.gov/people/elizabeth-cady-stanton.htm,p]::1;[https://www.esl-lab.com/difficult,p]::1;[https://www.esl-lab.com/english-culture-videos,h]::1;[https://www.esl-lab.com/esl-vocabulary-quizzes,p]::2;[https://www.esl-lab.com/faqs,p]::1;[https://www.esl-lab.com/randall-davis,p]::2;
 <utarakilishi|[https://sw.wikipedia.org/wiki/Kuki,p]::1;
+<utaustin|[https://systems.jhu.edu,p]::1;
+<utahconsumer|[https://thenai.org,p]::1;
+<utahs|[https://www.sciencenews.org/snhs,h]::1;
+<utajení|[https://disneytermsofuse.com/czech,p]::1;
+<utal|[https://disneytermsofuse.com/hungarian,p]::1;
+<utan|[https://onlinecasino-now.se,s]::4;

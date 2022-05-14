@@ -1,2 +1,4 @@
-<yoshino|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;
+<yoshino|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;[https://nautil.us/topics/technology,p]::1;
 <yossef|[https://www.tutorialspoint.com/sas/index.htm,p]::1;
+<yoshinori|[https://www.nobelprize.org/nobel_prizes/medicine/laureates/index.html,p]::1;
+<yosemite|[https://apps.apple.com/us/app/national-park-service/id1549226484,p]::1;

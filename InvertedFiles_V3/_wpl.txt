@@ -1,1 +1,2 @@
 <wpld|[https://blog.archive.org,p]::2;
+<wplay|[https://co.marca.com/claro/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;

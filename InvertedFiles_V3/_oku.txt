@@ -1,1 +1,16 @@
-<okuda|[https://apps.apple.com/us/app/pre-meet-multiple-sclerosis/id1244452321,h]::1;[https://apps.apple.com/us/app/pre-meet-multiple-sclerosis/id1244452321,p]::1;
+<okuda|[https://apps.apple.com/us/app/pre-meet-multiple-sclerosis/id1244452321,h]::1;
+<okur|[https://www.ugureskici.com,p]::2;[https://www.ugureskici.com/hakkimda,p]::1;[https://www.ugureskici.com/iletisim,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/2021-dijital-pazarlama-trendleri-ve-ic-gorulerim,p]::1;[https://www.ugureskici.com/notlarim-makalelerim,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/sherpa-blog-ile-eticaret-seo-sohbetleri,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/evergreen-content-olumsuz-taze-icerikler,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/pogo-sticking-nedir,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/google-alisveris-reklamlari-icin-gtin-zorunlulugu,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/rss-yayini-nedir-seo-icin-rss-olusturma,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/murphy-kanunlari,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/marmara-isletme-soruyor-digital-marketing-paneli,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/robotstxt-nedir-nasil-kullanilir,p]::1;[https://www.ugureskici.com/page/2,p]::2;[https://www.ugureskici.com/notlarim-makalelerim/cografi-hedef-yapilandirmasi,p]::1;[https://www.ugureskici.com/page/8,p]::2;[https://kriko.io,s]::1;[https://www.ugureskici.com/internet-dunyasi,p]::1;
+<okumalar…|[https://www.ugureskici.com/notlarim-makalelerim/evergreen-content-olumsuz-taze-icerikler,p]::1;[https://www.ugureskici.com/ordan-burdan/dijital-pazarlama-temelleri,p]::1;[https://www.ugureskici.com/ordan-burdan,p]::1;
+<okuyucular|[https://www.ugureskici.com/notlarim-makalelerim/evergreen-content-olumsuz-taze-icerikler,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/rss-yayini-nedir-seo-icin-rss-olusturma,p]::1;
+<okunduğu|[https://www.ugureskici.com/notlarim-makalelerim/evergreen-content-olumsuz-taze-icerikler,p]::1;
+<okuyucunun|[https://www.ugureskici.com/notlarim-makalelerim/evergreen-content-olumsuz-taze-icerikler,p]::2;
+<okunabilirliğini|[https://www.ugureskici.com/notlarim-makalelerim/evergreen-content-olumsuz-taze-icerikler,p]::1;
+<okumadın|[https://www.ugureskici.com/notlarim-makalelerim/murphy-kanunlari,p]::1;
+<okurken|[https://www.ugureskici.com/notlarim-makalelerim/murphy-kanunlari,p]::2;
+<okumuştum|[https://www.ugureskici.com/notlarim-makalelerim/murphy-kanunlari,p]::1;
+<okuryazarlığına|[https://www.ugureskici.com/ordan-burdan/dijital-pazarlama-temelleri,p]::1;
+<okumadan|[https://www.ugureskici.com/notlarim-makalelerim/digitalzone-2017-kimler-geldi-kimler-gecti-ne-ogrendik,p]::1;
+<okudum|[https://www.ugureskici.com/notlarim-makalelerim/robotstxt-nedir-nasil-kullanilir,p]::1;
+<okuyarak|[https://www.ugureskici.com/notlarim-makalelerim/cografi-hedef-yapilandirmasi,p]::1;
+<okuyucum|[https://www.ugureskici.com/notlarim-makalelerim/cografi-hedef-yapilandirmasi,p]::1;
+<okumaya|[https://www.ugureskici.com/page/8,p]::1;

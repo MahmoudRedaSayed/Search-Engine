@@ -1,0 +1,3 @@
+<zbiorowego|[https://disneytermsofuse.com/polish,p]::2;
+<zbiorowych|[https://disneytermsofuse.com/polish,p]::1;
+<zbigniew|[https://www.chicagotribune.com/politics/elections/ct-mayor-race-who-is-in-who-is-out-20220509-6yqd5a7pkzgg7ozhl23qjbw5o4-list.html#nt=related-content&rt=chartbeat-flt,p]::1;

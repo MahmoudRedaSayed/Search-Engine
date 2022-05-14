@@ -1,0 +1,3 @@
+<orzeczenie|[https://disneytermsofuse.com/polish,p]::1;
+<orzeczeniem|[https://disneytermsofuse.com/polish,p]::1;
+<orzeczenia|[https://disneytermsofuse.com/polish,p]::2;

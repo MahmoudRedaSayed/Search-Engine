@@ -1,2 +1,2 @@
-<lydia|[https://www.everydayhealth.com/multiple-sclerosis/guide,h]::1;[https://www.everydayhealth.com/wellness/resilience,s]::1;
-<lyda|[https://www.mdanderson.org/publications/focused-on-health/october-2014/breastfeeding-breast-cancer-prevention.html,p]::1;
+<lydia|[https://www.everydayhealth.com/multiple-sclerosis/guide,h]::1;[https://www.everydayhealth.com/wellness/resilience,s]::1;[https://lifetickler.com/category/health,p]::1;[https://disneytermsofuse.com/norwegian,p]::1;[https://www.foxnews.com/sports,p]::1;
+<lyda|[https://www.mdanderson.org/publications/focused-on-health/october-2014/breastfeeding-breast-cancer-prevention.html,p]::1;[https://nautil.us/topics/arts,p]::1;

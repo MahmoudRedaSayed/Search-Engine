@@ -1,1 +1,7 @@
-<asmeninės|[https://lt.wikipedia.org/wiki/Slapukas,p]::1;
+<asmeninės|[https://lt.wikipedia.org/wiki/Slapukas,p]::1;[https://www.hearst.com/magazines,p]::2;
+<asmax|[https://www.dailymail.co.uk/sport/formulaone/index.html,h]::1;
+<asmall|[https://www.iflscience.com/environment/magnetic-pole-reversal-might-happen-more-quickly-than-thought,p]::1;[https://www.edtechdigest.com/company-of-the-year,s]::1;[https://www.edtechdigest.com/company-of-the-year,p]::1;
+<asmpc|[https://lifetickler.com/understanding-car-insurance,p]::1;
+<asmr|[https://www.bbc.com/reel/video/p099tghy/is-phrenology-the-weirdest-pseudoscience-of-them-all-,h]::1;
+<asmes|[https://www.hearst.com/magazines,p]::4;
+<asmayo|[https://mcpress.mayoclinic.org/healthletter/?utm_source=MC-DotOrg-Nav&utm_medium=Link&utm_campaign=HealthLetter&utm_content=HLART,p]::1;

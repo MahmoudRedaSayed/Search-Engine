@@ -1,1 +1,6 @@
-<auburn|[https://thekingcenter.org/about-mrs-king,p]::2;
+<aubergines|[https://www.dailymail.co.uk/home/gardening/index.html,p]::1;
+<aubameyang|[https://www.marca.com/futbol/liga-portuguesa.html?intcmp=MENUPROD&s_kw=primeira-liga-portugal,h]::2;
+<auburn|[https://jobs.mayoclinic.org/afp,p]::1;[https://historyhub.history.gov/community/crowd-loc/blog?start=15,p]::1;[https://meded.hms.harvard.edu/health-sciences-technology,p]::2;[https://meded.hms.harvard.edu/teaching-awards,p]::6;[http://hsdm.harvard.edu,p]::1;
+<aubrey|[https://www.hsph.harvard.edu/faculty-affairs/postdoctoral-research-fellows,p]::1;[https://www.esl-lab.com/interviews,p]::9;[https://www.esl-lab.com/our-team,h]::1;[https://www.esl-lab.com/our-team,s]::1;[https://www.esl-lab.com/our-team,p]::1;
+<auburns|[https://www.chicagotribune.com/sports/bulls/ct-cb-chicago-bulls-offseason-dates-20220509-lanu3w2tsfbhlfy22lvkzwvwla-story.html#nt=interstitial-auto,p]::2;
+<aubreys|[https://www.esl-lab.com/interviews,p]::1;

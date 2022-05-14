@@ -1,1 +1,13 @@
-<bicycle|[https://archive.org/about/bios.php,p]::1;[https://canceratlas.cancer.org,p]::1;
+<bicycle|[https://archive.org/about/bios.php,p]::1;[https://canceratlas.cancer.org,p]::1;[https://www.campdream.org/events/ratpod,p]::1;[http://usnatarchives.tumblr.com,p]::1;[http://blogs.archives.gov/blackhistoryblog,h]::3;[http://blogs.archives.gov/blackhistoryblog,p]::10;[http://todaysdocument.tumblr.com,p]::1;[https://irishwomenshistory.blogspot.com/2014/11/the-colours-of-suffragettes.html,p]::1;[https://www.orlandosentinel.com,p]::1;
+<bickmore|[https://www.dailymail.co.uk/news/adelaide/index.html,h]::1;
+<bicker|[https://www.bbc.co.uk/news/live/world-europe-61353374,p]::1;
+<bicentenario|[https://www.marca.com/futbol/premios-marca.html,h]::1;
+<bicara|[https://disneytermsofuse.com/bahasa-malaysia,p]::1;
+<bicicleta|[https://www.marca.com/atletismo.html?intcmp=MENUPROD&s_kw=atletismo,h]::1;[https://www.ebay.com/globaldeals/home/cycling,h]::2;
+<bicycling|[https://shop.menshealth.com/?source=mhl_hamburger,p]::1;[https://shop.menshealth.com/mens-health-weight-loss.html?source=mhl_hamburger,p]::1;[https://shop.menshealth.com/apparel.html?source=mhl_hamburger,p]::1;[https://w1.buysub.com/pubs/HR/A14/Hearst_Subscription_LP.jsp?cds_mag_code=A14&cds_page_id=257255,h]::1;[https://www.hearst.com/magazines,p]::1;
+<bicentennial|[http://www.besthistorysites.net/index.php/american-history,p]::1;[https://historyhub.history.gov/community/crowd-loc/blog?start=15,p]::1;
+<bicentinnal|[http://www.besthistorysites.net/index.php/american-history,p]::1;
+<bicycles|[http://blogs.archives.gov/blackhistoryblog,p]::3;
+<bicyclist|[https://www.amazon.science/latest-news/how-zoox-vehicles-find-themselves-in-an-ever-changing-world,p]::1;
+<bicicletta|[https://www.ebay.com/globaldeals/home/cycling,h]::2;
+<bicylce|[https://eslkidslab.com/flashcards/index.html,s]::5;

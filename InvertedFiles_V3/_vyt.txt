@@ -1,2 +1,11 @@
 <vytvorenie|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::2;
 <vytvorená|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<vytvořit|[https://disneytermsofuse.com/czech,p]::1;
+<vytvořený|[https://disneytermsofuse.com/czech,p]::7;
+<vytvořenému|[https://disneytermsofuse.com/czech,p]::2;
+<vytváření|[https://disneytermsofuse.com/czech,p]::2;
+<vytvořeného|[https://disneytermsofuse.com/czech,p]::3;
+<vytvářet|[https://disneytermsofuse.com/czech,p]::1;
+<vytvořená|[https://disneytermsofuse.com/czech,p]::1;
+<vytvoření|[https://disneytermsofuse.com/czech,p]::1;
+<vytvořili|[https://disneytermsofuse.com/czech,p]::1;

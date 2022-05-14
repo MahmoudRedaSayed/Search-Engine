@@ -1,4 +1,5 @@
 <svoj|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
 <svojom|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::3;
-<svojim|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
-<svoje|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<svojim|[https://sh.wikipedia.org/wiki/Cookie,p]::1;[http://www.enable-javascript.com/hr,p]::1;
+<svoje|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;[http://www.enable-javascript.com/hr,p]::1;[http://vedrigrad.hr,p]::1;
+<svolení|[https://disneytermsofuse.com/czech,p]::2;

@@ -1,2 +1,4 @@
 <udvidelser|[https://da.wikipedia.org/wiki/Cookie,p]::1;
 <udvidelsen|[https://da.wikipedia.org/wiki/Cookie,p]::1;
+<udvikling|[https://disneytermsofuse.com/danish,p]::1;
+<udvalget|[https://casino-now.dk,s]::1;

@@ -1,0 +1,1 @@
+find the latest covid-19 vaccination implementation schedule and other details for mayo clinic patients in  arizona.

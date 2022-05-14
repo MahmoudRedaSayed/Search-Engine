@@ -1,0 +1,2 @@
+<wajib|[https://disneytermsofuse.com/bahasa-indonesia,p]::4;
+<wajar|[https://disneytermsofuse.com/bahasa-indonesia,p]::2;[https://disneytermsofuse.com/bahasa-malaysia,p]::4;

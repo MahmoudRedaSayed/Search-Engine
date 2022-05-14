@@ -1,2 +1,2 @@
-<poate|[https://ro.wikipedia.org/wiki/Cookie,p]::4;
-<poată|[https://ro.wikipedia.org/wiki/Cookie,p]::1;
+<poaching|[https://nautil.us/topics/evolution,h]::1;
+<poachers|[https://kids.kiddle.co/History_of_Australia,p]::1;

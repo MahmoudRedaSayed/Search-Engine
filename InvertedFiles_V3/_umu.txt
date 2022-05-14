@@ -1,1 +1,4 @@
-<umumnya|[https://id.wikipedia.org/wiki/Kuki,p]::1;[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::1;
+<umumnya|[https://id.wikipedia.org/wiki/Kuki,p]::1;[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::1;[https://disneytermsofuse.com/bahasa-indonesia,p]::1;
+<umuyoruz|[https://www.ugureskici.com/notlarim-makalelerim/evergreen-content-olumsuz-taze-icerikler,p]::1;
+<umut|[https://www.ugureskici.com/notlarim-makalelerim/friedrich-nietzsche-ve-sozleri#comment-286194,p]::1;
+<umuranda|[https://disneytermsofuse.com/bahasa-indonesia,p]::1;[https://disneytermsofuse.com/bahasa-malaysia,p]::2;

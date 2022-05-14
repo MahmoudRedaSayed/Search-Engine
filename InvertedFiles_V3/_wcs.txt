@@ -1,1 +1,1 @@
-<wcs|[https://brave.com/ok-google,p]::2;
+<wcs|[https://brave.com/ok-google,p]::2;[https://github.com/discourse/discourse,p]::1;

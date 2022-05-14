@@ -1,1 +1,2 @@
-<auparavant|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::1;
+<auparavant|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::1;[https://www.instructure.com/policies/acceptable-use,s]::4;[https://www.instructure.com/policies/acceptable-use,p]::1;
+<auprès|[https://fr.casino-now-canada.com,h]::1;

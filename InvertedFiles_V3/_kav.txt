@@ -1,2 +1,11 @@
-<kavuri|[https://www.tutorialspoint.com,p]::1;[https://www.tutorialspoint.com/about/about_careers.htm,p]::1;[https://www.tutorialspoint.com/online_dev_tools.htm,p]::1;[https://www.tutorialspoint.com/codingground.htm,p]::1;[https://www.tutorialspoint.com/questions_and_answers.htm,p]::1;[https://www.tutorialspoint.com/online_file_conversion.htm,p]::1;
+<kavuri|[https://www.tutorialspoint.com,p]::1;[https://www.tutorialspoint.com/codingground.htm,p]::1;[https://www.tutorialspoint.com/about/about_careers.htm,p]::1;[https://www.tutorialspoint.com/online_dev_tools.htm,p]::1;[https://www.tutorialspoint.com/questions_and_answers.htm,p]::1;[https://www.tutorialspoint.com/online_file_conversion.htm,p]::1;
 <kavon|[http://www.archive-it.org,p]::1;
+<kavramı|[https://www.ugureskici.com,p]::1;[https://www.ugureskici.com/notlarim-makalelerim,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/2021-dijital-pazarlama-trendleri-ve-ic-gorulerim,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/projelerimizi-nasil-yonetsek,p]::2;
+<kavaklı|[https://www.ugureskici.com,p]::1;[https://www.ugureskici.com/notlarim-makalelerim,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/marmara-isletme-soruyor-digital-marketing-paneli,p]::1;
+<kavramına|[https://www.ugureskici.com/notlarim-makalelerim/evergreen-content-olumsuz-taze-icerikler,p]::1;
+<kavramını|[https://www.ugureskici.com/notlarim-makalelerim/digitalzone-2017-kimler-geldi-kimler-gecti-ne-ogrendik,p]::2;
+<kavramının|[https://www.ugureskici.com/notlarim-makalelerim/digitalzone-2017-kimler-geldi-kimler-gecti-ne-ogrendik,p]::1;
+<kavli|[https://nautil.us/topics/genetics,h]::1;
+<kavanuaghs|[https://www.foxnews.com/media,p]::1;
+<kavanaugh|[https://www.nytimes.com/2022/05/08/us/politics/roe-wade-supreme-court-abortion.html,p]::1;[https://www.foxnews.com/media/justice-kavanaugh-home-protests-abortion-roe-wade-blair,p]::1;
+<kavanaughs|[https://www.foxnews.com,h]::1;[https://www.foxnews.com/media/twitter-wapo-elon-musk-buyout,s]::1;[https://www.foxnews.com/media/twitter-wapo-elon-musk-buyout,p]::1;[https://www.foxnews.com/media/justice-kavanaugh-home-protests-abortion-roe-wade-blair,t]::1;[https://www.foxnews.com/media/justice-kavanaugh-home-protests-abortion-roe-wade-blair,h]::1;[https://www.foxnews.com/media/justice-kavanaugh-home-protests-abortion-roe-wade-blair,p]::1;

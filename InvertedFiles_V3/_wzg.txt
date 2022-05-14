@@ -1,1 +1,2 @@
-<względu|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::3;
+<względu|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::3;[https://disneytermsofuse.com/polish,p]::5;
+<względem|[https://disneytermsofuse.com/polish,p]::2;

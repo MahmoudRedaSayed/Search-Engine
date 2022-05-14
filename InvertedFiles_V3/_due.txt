@@ -1,4 +1,12 @@
 <duet|[https://english.ahram.org.eg/,h]::1;[https://english.ahram.org.eg/,p]::1;
 <duediligence|[https://www.wired.com/threatlevel/2011/03/comodo-compromise,p]::1;
 <duen|[https://eu.wikipedia.org/wiki/Cookie,p]::4;
-<duela|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
+<duela|[https://eu.wikipedia.org/wiki/Cookie,p]::1;[https://nautil.us/spark,p]::1;[https://www.foxmovies.com,h]::1;[https://www.lequipe.fr/Esport,h]::1;[http://congressarchives.tumblr.com,p]::1;[https://m.imdb.com/chart/starmeter/?ref_=nv_cel_brn,p]::1;[http://www.math4children.com/worksheets.html,p]::1;[https://www.dailypress.com,p]::1;
+<duex|[https://www.iflscience.com/editors-blog,p]::1;
+<dueño|[https://www.marca.com/tiramillas/television/2022/05/08/62781664e2704e68398b459a.html,h]::1;[https://www.marca.com/futbol/futbol-internacional.html?intcmp=MENUMIGA&s_kw=futbol-internacional,h]::1;[https://www.marca.com/futbol/futbol-internacional.html?intcmp=MENUPROD&s_kw=futbol-internacional,h]::1;[https://www.marca.com/futbol/resto-america.html?intcmp=MENUPROD&s_kw=?intcmp=MENUPROD&s_kw=futbol-mas-america,h]::1;
+<dueling|[https://nautil.us/earth,h]::1;[https://nautil.us/spark,p]::1;[https://nautil.us/topics/geoscience,h]::1;
+<duelo|[https://www.marca.com/claro-mx/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;[https://us.marca.com/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;[https://www.marca.com/futbol/futbol-femenino/copa-de-la-reina.html?intcmp=MENUPROD&s_kw=futbol-copa-reina,h]::1;[https://www.marca.com/futbol/liga-portuguesa.html?intcmp=MENUPROD&s_kw=primeira-liga-portugal,h]::1;[https://www.marca.com/futbol/mexico.html?intcmp=MENUPROD&s_kw=futbol-mexico,h]::5;[https://www.nytimes.com/es,h]::1;
+<duele|[https://www.marca.com/futbol/copa-rey.html?intcmp=MENUPROD&s_kw=futbol-copa-rey,h]::1;[https://www.marca.com/futbol/liga-francesa.html?intcmp=MENUPROD&s_kw=liga-francesa,h]::1;
+<duelen|[https://es.familydoctor.org/sus-recursos-para-la-salud/maneje-su-atencion-medica/notas-del-medico,h]::1;
+<duermen|[https://www.nytimes.com/es,h]::1;
+<duelist|[https://www.ebay.com/globaldeals/home/toys,h]::1;[https://www.ebay.com/globaldeals/more/toys,h]::1;

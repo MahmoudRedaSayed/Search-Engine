@@ -1,2 +1,2 @@
-<hsid|[https://en.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://en.wikipedia.org/w/index.php?title=HTTP_cookie&oldid=1085989394,p]::1;[https://it.wikipedia.org/wiki/Cookie,p]::1;
-<hsidayqevn…dkrdst|[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<hsid|[https://en.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://money.cnn.com/data/world_markets/hang_seng,t]::1;
+<hsieh|[https://www.nytimes.com/2022/05/05/health/covid-impotence-erectile-dysfunction.html,p]::4;

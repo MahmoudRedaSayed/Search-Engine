@@ -1,2 +1,3 @@
 <okeeffes|[https://www.dailymail.co.uk,p]::1;
 <okeechobee|[http://www.archive-it.org,p]::1;
+<okeefe|[https://www.nobelprize.org/nobel_prizes/medicine/laureates/index.html,p]::1;[https://www.nytimes.com/2022/05/09/opinion/sway-kara-swisher-clarissa-ward.html,p]::2;

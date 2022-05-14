@@ -1,1 +1,0 @@
-in this article, stefan tilkov explains some of the most common anti-patterns found in applications that claim to follow a  restful  design and suggests ways to avoid them.

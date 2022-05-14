@@ -1,1 +1,2 @@
 <atnorwalkhospital|[https://www.everydayhealth.com/diet-nutrition/atkins-diet.aspx,p]::1;
+<atnb|[https://www.geeksforgeeks.org/analysis-algorithm-set-4-master-method-solving-recurrences/?ref=ghm,p]::2;

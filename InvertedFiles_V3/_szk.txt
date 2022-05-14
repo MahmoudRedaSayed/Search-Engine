@@ -1,0 +1,4 @@
+<szkody|[https://disneytermsofuse.com/polish,p]::2;
+<szkód|[https://disneytermsofuse.com/polish,p]::2;
+<szkodliwych|[https://disneytermsofuse.com/polish,p]::1;
+<szkodę|[https://disneytermsofuse.com/polish,p]::1;

@@ -1,1 +1,1 @@
-<rbs|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,p]::2;
+<rbs|[https://www.geeksforgeeks.org/internship-interview-experiences-company-wise/?ref=ghm,s]::1;[https://www.geeksforgeeks.org/internship-interview-experiences-company-wise/?ref=ghm,p]::1;

@@ -1,4 +1,5 @@
 <adb|[https://codelabs.developers.google.com/codelabs/appactions,p]::1;[https://developers.google.com/assistant/app/get-started,p]::2;
-<adbook|[http://edbrowse.org/usersguide.html#cook,p]::3;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::3;
-<adblock|[https://venturebeat.com/2014/10/06/the-cookie-is-dead-heres-how-facebook-google-and-apple-are-tracking-you-now,p]::2;[https://web.archive.org/web/20170724054647/https:/venturebeat.com/2014/10/06/the-cookie-is-dead-heres-how-facebook-google-and-apple-are-tracking-you-now,p]::2;
-<adblockers|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;
+<adbook|[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::3;
+<adblockerların|[https://www.ugureskici.com/notlarim-makalelerim/digitalzone-2017-kimler-geldi-kimler-gecti-ne-ogrendik,p]::5;[https://itunes.apple.com/us/app/appchoices/id894822870,p]::1;
+<adblockers|[https://itunes.apple.com/us/app/appchoices/id894822870,p]::1;
+<adblocking|[https://help.imdb.com/article/imdb/discover-watch/videos-faq/GJRQPZZ8AG6RSM63?ref_=helpsect_pro_3_6,p]::2;

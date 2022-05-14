@@ -1,3 +1,5 @@
-<moan|[https://www.dailymail.co.uk,h]::1;[https://24x7mag.com/professional-development/education/the-cookie-that-would-not-crumble,p]::1;[https://web.archive.org/web/20121115110013/http:/www.wired.co.uk/news/archive/2012-05/24/eu-cookie-law-moaning,p]::1;
-<moana|[https://www.dailymail.co.uk,p]::1;
-<moaning|[https://www.wired.co.uk/news/archive/2012-05/24/eu-cookie-law-moaning,p]::2;[https://web.archive.org/web/20121115110013/http:/www.wired.co.uk/news/archive/2012-05/24/eu-cookie-law-moaning,p]::2;
+<moan|[https://www.dailymail.co.uk,h]::1;[https://24x7mag.com/professional-development/education/the-cookie-that-would-not-crumble,p]::1;
+<moana|[https://www.dailymail.co.uk,p]::1;[https://www.dailymail.co.uk/news/article-10796455/Prince-Harry-speaks-M-ori-launcgnew-project-launched-New-Zealand-TONIGHT.html#comments,p]::1;[https://www.dailymail.co.uk/news/article-10796455/Prince-Harry-speaks-M-ori-launcgnew-project-launched-New-Zealand-TONIGHT.html#video,p]::1;
+<moaning|[https://www.wired.co.uk/news/archive/2012-05/24/eu-cookie-law-moaning,p]::1;[https://web.archive.org/web/20121115110013/http:/www.wired.co.uk/news/archive/2012-05/24/eu-cookie-law-moaning,p]::1;[https://www.dailymail.co.uk/sport/golf/index.html,h]::1;
+<moab|[https://www.natgeomaps.com,s]::6;
+<moadoph|[http://foundingdocs.gov.au,p]::1;

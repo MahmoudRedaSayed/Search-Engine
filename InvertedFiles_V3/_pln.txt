@@ -1,1 +1,5 @@
-<plne|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<plne|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://kasyno-now.com,p]::2;[https://kasyno-now.com/recenzja,p]::2;[https://kasyno-now.com/recenzja/woo,s]::4;[https://kasyno-now.com/recenzja/woo,p]::9;
+<plně|[https://disneytermsofuse.com/czech,p]::1;
+<plnění|[https://disneytermsofuse.com/czech,p]::2;
+<plnit|[https://disneytermsofuse.com/czech,p]::1;
+<plnlistę|[https://kasyno-now.com/recenzja/woo,p]::1;

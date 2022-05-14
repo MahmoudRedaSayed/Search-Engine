@@ -1,0 +1,10 @@
+<rflbishop|[https://www.congress.gov,p]::1;
+<rflbuck|[https://www.congress.gov,p]::1;
+<rflcarbajal|[https://www.congress.gov,p]::1;
+<rfldingell|[https://www.congress.gov,p]::1;
+<rfldoyle|[https://www.congress.gov,p]::1;
+<rflellzey|[https://www.congress.gov,p]::1;
+<rflfulcher|[https://www.congress.gov,p]::1;
+<rflgallagher|[https://www.congress.gov,p]::1;
+<rflgohmert|[https://www.congress.gov,p]::1;
+<rfla|[https://www.foxnews.com/media,p]::2;[https://www.foxnews.com/category/us/immigration,p]::1;[https://www.foxnews.com/category/us/personal-freedoms,p]::2;

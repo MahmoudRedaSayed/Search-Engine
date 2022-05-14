@@ -1,2 +1,6 @@
 <uwarchivlibrarywiscedu|[http://www.archive-it.org,p]::1;
 <uwaterloo|[http://www.archive-it.org,p]::1;
+<uwagi|[https://disneytermsofuse.com/polish,p]::1;
+<uwagę|[https://kasyno-now.com,p]::4;[https://kasyno-now.com/recenzja/woo,p]::1;
+<uważane|[https://kasyno-now.com,p]::2;
+<uwagęwoo|[https://kasyno-now.com/recenzja/woo,p]::1;

@@ -1,1 +1,2 @@
 <dceg|[https://www.cancer.gov,p]::1;
+<dceřiné|[https://disneytermsofuse.com/czech,p]::1;

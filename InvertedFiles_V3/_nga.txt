@@ -1,1 +1,4 @@
 <nga|[https://sq.wikipedia.org/wiki/Cookie_(internet),p]::1;
+<ngannou|[https://www.dailymail.co.uk/sport/mma/index.html,h]::1;
+<ngarrindjeri|[https://www.nla.gov.au/collections,h]::1;
+<ngay|[http://vi.talkenglish.com,p]::1;

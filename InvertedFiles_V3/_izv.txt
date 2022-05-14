@@ -1,3 +1,4 @@
 <izvući|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
 <izvorna|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
 <izvorno|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<izvršava|[http://www.enable-javascript.com/hr,h]::1;

@@ -1,3 +1,5 @@
 <deziroj|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
-<deze|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::9;
+<deze|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::2;[https://disneytermsofuse.com/dutch,p]::2;[https://onlinecasino-now.nl,s]::4;[https://onlinecasino-now.nl,p]::3;[https://casino-now.be,s]::2;[https://casino-now.be,p]::8;[https://onlinecasino-now.nl/casino-reviews,p]::1;[https://onlinecasino-now.nl/casino-reviews/playamo,p]::3;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::8;[https://onlinecasino-now.nl/casino-software/netent,p]::19;
 <dezavantaje|[https://ro.wikipedia.org/wiki/Cookie,h]::1;
+<dezelfde|[https://onlinecasino-now.nl,p]::1;[https://onlinecasino-now.nl/casino-software/netent,p]::3;
+<dezeonline|[https://casino-now.be,p]::1;

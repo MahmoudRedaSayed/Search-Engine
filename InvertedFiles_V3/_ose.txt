@@ -1,1 +1,3 @@
-<oses|[http://catb.org/jargon/html/M/magic-cookie.html,p]::1;
+<oses|[http://catb.org/jargon/html/M/magic-cookie.html,p]::1;[https://meded.hms.harvard.edu/admissions-who-we-are,p]::1;[https://meded.hms.harvard.edu/student-research,p]::2;[https://meded.hms.harvard.edu/faculty-portal,p]::1;[https://meded.hms.harvard.edu/residents-and-fellows-teaching-portal,p]::1;
+<osesupports|[https://meded.hms.harvard.edu/md-program-landing,p]::1;
+<osehmsharvardedu|[https://meded.hms.harvard.edu/student-research,p]::1;[https://meded.hms.harvard.edu/soma-weiss-student-research-day,p]::1;

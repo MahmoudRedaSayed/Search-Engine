@@ -1,4 +1,4 @@
-<nabp|[https://www.everydayhealth.com/healthy-living/consumers-guide-drug-discounts,p]::3;
+<nabp|[https://www.everydayhealth.com/healthy-living/consumers-guide-drug-discounts,p]::3;[https://discountcode.dailymail.co.uk/ao-com,h]::1;[https://discountcode.dailymail.co.uk/debenhams,p]::1;[https://discountcode.dailymail.co.uk/very,h]::1;[https://discountcode.dailymail.co.uk/very,p]::1;[https://discountcode.dailymail.co.uk/boohoo,h]::1;[https://discountcode.dailymail.co.uk/virgin-media,h]::2;
 <nabigatzaileko|[https://eu.wikipedia.org/wiki/Cookie,h]::1;[https://eu.wikipedia.org/wiki/Cookie,p]::3;
 <nabigatzailean|[https://eu.wikipedia.org/wiki/Cookie,p]::2;
 <nabigatzaileak|[https://eu.wikipedia.org/wiki/Cookie,p]::2;
@@ -7,3 +7,16 @@
 <nabigatzailera|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
 <nabigatzaileari|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
 <nabigazio|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
+<nabokovs|[https://nautil.us/topics/arts,h]::1;
+<nabízí|[https://disneytermsofuse.com/czech,p]::1;
+<nabude|[https://disneytermsofuse.com/czech,p]::1;
+<nabyvatelé|[https://disneytermsofuse.com/czech,p]::1;
+<nabízejí|[https://disneytermsofuse.com/czech,p]::1;
+<nabádat|[https://disneytermsofuse.com/czech,p]::1;
+<nabycie|[https://disneytermsofuse.com/polish,p]::1;
+<nabywając|[https://disneytermsofuse.com/polish,p]::1;
+<nabyte|[https://disneytermsofuse.com/polish,p]::1;
+<nabj|[https://www.hearst.com/hearstrise,p]::1;
+<nabiullina|[https://www.nytimes.com/live/2022/05/09/world/ukraine-russia-war-news,p]::18;
+<nabiullinas|[https://www.nytimes.com/live/2022/05/09/world/ukraine-russia-war-news,p]::2;
+<nabenschaltung|[https://www.ebay.com/globaldeals/home/cycling,h]::1;

@@ -1,2 +1,5 @@
-<hvor|[https://da.wikipedia.org/wiki/Cookie,p]::3;[https://no.wikipedia.org/wiki/Informasjonskapsel,p]::1;
+<hvor|[https://da.wikipedia.org/wiki/Cookie,p]::3;[https://no.wikipedia.org/wiki/Informasjonskapsel,p]::1;[https://disneytermsofuse.com/norwegian,p]::1;[https://casino-now.dk,h]::1;[https://casino-now.dk,p]::2;[https://norskcasino-now.com,h]::1;[https://casino-now.dk/anmeldelser,p]::1;
 <hvorved|[https://da.wikipedia.org/wiki/Cookie,p]::2;
+<hvortil|[https://disneytermsofuse.com/danish,p]::1;
+<hvorunder|[https://disneytermsofuse.com/danish,p]::1;
+<hvordan|[https://casino-now.dk,h]::1;[https://norskcasino-now.com,h]::2;

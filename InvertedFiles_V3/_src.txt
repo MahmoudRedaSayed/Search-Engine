@@ -1,1 +1,3 @@
 <srcexamplejs|[https://ru.wikipedia.org/wiki/Cookie,p]::1;
+<srcjsbootstrapminjs|[https://www.geeksforgeeks.org/bootstrap-tutorials/?ref=ghm,p]::1;
+<srchttpsajaxgoogleapiscomajaxlibsjqueryjqueryminjs|[https://www.geeksforgeeks.org/bootstrap-tutorials/?ref=ghm,p]::1;

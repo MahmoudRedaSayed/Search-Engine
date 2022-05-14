@@ -1,0 +1,1 @@
+easily add high-quality animation to any native app. lottie is an ios, android, and react native library that renders after effects animations in real time, allowing apps to use animations as easily as they use static images.

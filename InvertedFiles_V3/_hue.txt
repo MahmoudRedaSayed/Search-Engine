@@ -1,2 +1,9 @@
-<hue|[https://developers.googleblog.com/2019/07/developer-preview-of-local-home-sdk.html,p]::1;
-<hues|[https://www.apple.com/watch,h]::1;
+<hue|[https://developers.googleblog.com/2019/07/developer-preview-of-local-home-sdk.html,p]::1;[https://discountcode.dailymail.co.uk/ao-com,h]::2;[https://lifetickler.com/category/relationship,p]::1;[https://www.dailymail.co.uk/femail/fashionfinder/index.html,p]::1;[https://lifetickler.com/amethyst-engagement-ring-meaning,p]::1;[https://www.chicagotribune.com/dining/reviews/ct-food-review-3-little-pigs-chinese-american-humboldt-park-20220509-v2eo2hetpzg2dc5i5zlf5pw24u-story.html#nt=related-content&rt=chartbeat-flt,p]::1;
+<hues|[https://www.apple.com/watch,h]::1;[https://lifetickler.com/amethyst-engagement-ring-meaning,p]::1;[https://www.sciencenewsforstudents.org/topic/life,p]::1;[https://www.sciencenewsforstudents.org/topic/animals,p]::1;[https://www.sciencenewsforstudents.org/author/laura-allen,p]::1;
+<huertas|[https://www.marca.com/baloncesto.html?intcmp=MENUPROD&s_kw=baloncesto,h]::2;[https://www.nps.gov/subjects/womenshistory/20-for-2020.htm,h]::1;[https://www.nps.gov/subjects/womenshistory/20-for-2020.htm,p]::1;
+<hueco|[https://www.marca.com/ultimas-noticias.html?intcmp=MENUDEST&s_kw=ultimas-noticias,h]::1;[https://www.marca.com/futbol/segunda-division.html?intcmp=MENUPROD&s_kw=segunda-division,h]::1;
+<huesca|[https://www.marca.com/futbol/segunda/equipos.html?intcmp=MENUPROD&s_kw=equipos,h]::1;[https://www.marca.com/balonmano.html?intcmp=MENUPROD&s_kw=balonmano,h]::2;
+<huelva|[https://www.marca.com/futbol/futbol-femenino/copa-de-la-reina.html?intcmp=MENUPROD&s_kw=futbol-copa-reina,h]::1;
+<huesos|[https://www.marca.com/natacion.html?intcmp=MENUPROD&s_kw=natacion,h]::1;[https://www.marca.com/triatlon.html?intcmp=MENUPROD&s_kw=triatlon?intcmp=MENUPROD&s_kw=triatlon,h]::1;[https://es.familydoctor.org/condicion/hipertiroidismo,s]::1;[https://es.familydoctor.org/condicion/hipertiroidismo,p]::2;
+<huevos|[http://www.menshealth.com,h]::1;
+<hueston|[https://www.nytimes.com/2022/05/09/arts/television/american-song-contest-final.html,p]::1;

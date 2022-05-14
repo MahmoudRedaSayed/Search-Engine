@@ -1,1 +1,5 @@
-<zgody|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<zgody|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::2;[https://disneytermsofuse.com/polish,p]::7;
+<zgodnie|[https://disneytermsofuse.com/polish,p]::11;[https://kasyno-now.com/recenzja,p]::1;[https://kasyno-now.com/recenzja/woo,p]::1;
+<zgodny|[https://disneytermsofuse.com/polish,p]::1;
+<zgodę|[https://disneytermsofuse.com/polish,p]::4;
+<zgodzie|[https://disneytermsofuse.com/polish,p]::1;

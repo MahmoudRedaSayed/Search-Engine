@@ -1,0 +1,2 @@
+<tuyên|[https://vietnamese.cdc.gov/coronavirus/2019-ncov/index.html,s]::1;[https://vietnamese.cdc.gov/coronavirus/2019-ncov/index.html,p]::1;
+<tuyến|[http://vi.talkenglish.com,t]::2;[http://vi.talkenglish.com,p]::1;

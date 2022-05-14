@@ -1,1 +1,5 @@
 <cuneo|[http://www.archive-it.org,p]::1;
+<cuneiform|[https://www.bbc.com/future/article/20220503-why-human-brains-were-bigger-3000-years-ago,p]::1;[https://historyhub.history.gov/community/crowd-loc/blog?start=15,p]::1;
+<cunaplus|[https://nautil.us/topics/technology,p]::1;
+<cunha•|[https://commons.wikimedia.org/wiki/Atlas_of_Australia,p]::1;
+<cunningly|[https://www.nytimes.com/2022/05/06/arts/music/hamlet-metropolitan-opera.html,p]::1;

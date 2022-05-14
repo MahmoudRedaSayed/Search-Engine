@@ -1,2 +1,16 @@
 <kotoulas|[https://english.ahram.org.eg/,h]::1;
-<kotlin|[https://developers.google.com/assistant/app/read-it,h]::1;[https://www.tutorialspoint.com/kotlin/index.htm,t]::1;[https://www.tutorialspoint.com/kotlin/index.htm,h]::7;[https://www.tutorialspoint.com/kotlin/index.htm,p]::34;[https://codelabs.developers.google.com/codelabs/appactions,p]::1;[https://developers.google.com/?hl=de,h]::1;
+<kotlin|[https://developers.google.com/assistant/app/read-it,h]::1;[https://www.tutorialspoint.com/kotlin/index.htm,t]::1;[https://www.tutorialspoint.com/kotlin/index.htm,h]::7;[https://www.tutorialspoint.com/kotlin/index.htm,p]::34;[https://codelabs.developers.google.com/codelabs/appactions,p]::1;[https://developers.google.com/?hl=de,h]::1;[https://www.geeksforgeeks.org/kotlin-programming-language/?ref=ghm,t]::1;[https://www.geeksforgeeks.org/kotlin-programming-language/?ref=ghm,h]::1;[https://www.geeksforgeeks.org/kotlin-programming-language/?ref=ghm,s]::4;[https://www.geeksforgeeks.org/kotlin-programming-language/?ref=ghm,p]::5;
+<kotiutukset|[https://netticasino-now.com,h]::1;[https://netticasino-now.com/arvostelut,s]::1;[https://netticasino-now.com/arvostelut,p]::1;
+<kotiutuksia|[https://netticasino-now.com,s]::1;
+<kotimaisuus|[https://netticasino-now.com,s]::1;
+<kotiutusten|[https://netticasino-now.com,s]::1;
+<kotisohvaltaan|[https://netticasino-now.com,s]::1;
+<kotiutuksissakin|[https://netticasino-now.com/arvostelut,p]::1;
+<kotiuttaminen|[https://netticasino-now.com/arvostelut,p]::1;
+<kotiuttaa|[https://netticasino-now.com/arvostelut,p]::1;
+<kotiuttamis|[https://netticasino-now.com/arvostelut,p]::1;
+<kotiinsa|[https://netticasino-now.com/arvostelut,p]::1;
+<kotiert|[https://swiss-casino-now.com/casino-software/netent,p]::2;
+<kotsur|[https://m.imdb.com/feature/bestpicture/?ref_=nv_ch_osc,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;
+<kott|[https://www.nytimes.com/live/2022/05/09/us/midterms-primary-elections-nebraska,p]::2;[https://www.nytimes.com/2022/05/09/us/politics/west-virginia-trump.html,p]::2;
+<kottayam|[https://www.geeksforgeeks.org/campus-geek-of-the-month/?ref=ghm,p]::1;

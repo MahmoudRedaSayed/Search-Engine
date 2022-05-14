@@ -1,1 +1,3 @@
-<doj|[http://pressroom.cancer.org/releases?item=1094,p]::1;
+<doj|[http://pressroom.cancer.org/releases?item=1094,p]::1;[https://accessibility.harvard.edu,s]::1;[https://accessibility.harvard.edu,p]::1;
+<doja|[https://www.dailymail.co.uk/femail/index.html,h]::1;
+<dojcinovic|[https://www.englishclub.com/efl/category/articles,s]::1;[https://www.englishclub.com/efl/category/articles,p]::1;

@@ -1,1 +1,1 @@
-<mma|[https://psychcentral.com,p]::1;
+<mma|[https://psychcentral.com,p]::1;[https://www.dailymail.co.uk/sport/mma/index.html,t]::1;[https://www.dailymail.co.uk/sport/mma/index.html,h]::2;[https://www.marca.com/mma.html?intcmp=MENUPROD&s_kw=mma,t]::1;[https://www.marca.com/mma.html?intcmp=MENUPROD&s_kw=mma,h]::4;

@@ -1,0 +1,3 @@
+<rcacammack|[https://www.congress.gov,p]::1;
+<rcagarcia|[https://www.congress.gov,p]::1;
+<rcalif|[https://www.foxnews.com/media,p]::1;

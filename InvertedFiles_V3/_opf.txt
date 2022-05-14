@@ -1,1 +1,2 @@
-<opfattes|[https://da.wikipedia.org/wiki/Cookie,p]::1;
+<opfattes|[https://da.wikipedia.org/wiki/Cookie,p]::1;[https://postdoc.hms.harvard.edu,h]::2;[https://postdoc.hms.harvard.edu/getting-started,p]::1;[https://postdoc.hms.harvard.edu/tools-resources,p]::5;[https://postdoc.hms.harvard.edu/guidelines,p]::3;
+<opførelse|[https://casino-now.dk/anmeldelser,h]::1;[https://casino-now.dk/anmeldelser,p]::1;

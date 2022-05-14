@@ -1,5 +1,10 @@
-<bebad|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;
-<bebidas|[https://www.healthline.com/type-2-diabetes,p]::1;
-<beber|[https://www.healthline.com/type-2-diabetes,p]::1;
-<bebas|[https://id.wikipedia.org/wiki/Kuki,t]::1;[https://ms.wikipedia.org/wiki/Kuki_HTTP,t]::1;
-<beberapa|[https://id.wikipedia.org/wiki/Kuki,p]::4;
+<bebad|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/care-for-someone.html,p]::1;
+<bebidas|[https://www.healthline.com/type-2-diabetes,p]::1;[https://es.familydoctor.org/ayuno-intermitente,p]::3;
+<beber|[https://www.healthline.com/type-2-diabetes,p]::1;[https://www.dailymail.co.uk/usshowbiz/index.html,s]::1;[https://www.dailymail.co.uk/dailymailtv/video/index.html,s]::1;[https://www.dailymail.co.uk/dailymailtv/advertise/index.html,s]::1;[https://es.familydoctor.org/salud-de-la-familia/hombres,p]::1;[https://es.familydoctor.org/ayuno-intermitente,p]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/about-face-coverings.html,h]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/about-face-coverings.html,s]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/about-face-coverings.html,p]::1;
+<bebas|[https://id.wikipedia.org/wiki/Kuki,t]::1;[https://ms.wikipedia.org/wiki/Kuki_HTTP,t]::1;[https://disneytermsofuse.com/bahasa-indonesia,p]::1;[https://disneytermsofuse.com/bahasa-malaysia,p]::1;
+<beberapa|[https://id.wikipedia.org/wiki/Kuki,p]::4;[https://disneytermsofuse.com/bahasa-indonesia,p]::1;[https://disneytermsofuse.com/bahasa-malaysia,p]::5;
+<bebolehgunaan|[https://disneytermsofuse.com/bahasa-malaysia,p]::1;
+<beboet|[https://onlinecasino-now.nl,p]::1;
+<bebidas…|[https://es.familydoctor.org/condicion/hipertiroidismo,p]::1;
+<bebidasícono|[https://espanol.cdc.gov/coronavirus/2019-ncov/daily-life-coping/food-and-COVID-19.html,p]::1;
+<bebé|[https://www.nytimes.com/es,h]::1;

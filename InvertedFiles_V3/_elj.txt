@@ -1,0 +1,10 @@
+<eljárás|[https://disneytermsofuse.com/hungarian,p]::11;
+<eljárásra|[https://disneytermsofuse.com/hungarian,p]::1;
+<eljárást|[https://disneytermsofuse.com/hungarian,p]::3;
+<eljárási|[https://disneytermsofuse.com/hungarian,p]::1;
+<eljárásban|[https://disneytermsofuse.com/hungarian,p]::2;
+<eljárástól|[https://disneytermsofuse.com/hungarian,p]::1;
+<eljárások|[https://disneytermsofuse.com/hungarian,p]::1;
+<eljárni|[https://disneytermsofuse.com/hungarian,p]::1;
+<eljárással|[https://disneytermsofuse.com/hungarian,p]::1;
+<eljárásról|[https://disneytermsofuse.com/hungarian,p]::1;

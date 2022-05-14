@@ -1,2 +1,2 @@
-<kiun|[https://eo.wikipedia.org/wiki/Kuketo,p]::5;
+<kiun|[https://eo.wikipedia.org/wiki/Kuketo,p]::5;[https://www.fredisalearns.com,p]::1;
 <kiujn|[https://eo.wikipedia.org/wiki/Kuketo,p]::8;

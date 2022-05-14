@@ -1,3 +1,4 @@
 <adleff|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,h]::1;
 <adlanır|[https://az.wikipedia.org/wiki/HTTP_Kuki,p]::1;
 <adlar|[https://az.wikipedia.org/wiki/HTTP_Kuki,p]::1;
+<adlı|[https://www.ugureskici.com/notlarim-makalelerim/murphy-kanunlari,p]::1;

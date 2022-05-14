@@ -1,1 +1,5 @@
-<idonee|[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<idol|[https://www.dailymail.co.uk/usshowbiz/index.html,s]::2;[https://www.dailymail.co.uk/dailymailtv/video/index.html,s]::1;[https://www.dailymail.co.uk/dailymailtv/advertise/index.html,s]::1;[http://abc.com,h]::1;[https://www.nytimes.com/2022/05/09/arts/television/american-song-contest-final.html,p]::2;[https://www.chicagotribune.com/news/obituaries/#nt=tertiarynavbar,h]::1;
+<idols|[https://play.google.com/store/books,p]::1;[https://casino-now-canada.com/casino-bonus,p]::1;
+<idoccam|[https://www.edtechdigest.com,h]::1;
+<idof|[https://help.imdb.com/article/imdb/featured-content/imdb-api-metadata-and-example-queries/G9KY7FX93B8DVCZH?ref_=helpsect_pro_4_6,p]::2;
+<idont|[https://www.myenglishclub.com/blogs,p]::1;[https://www.myenglishclub.com/blogs/movies-you-need-to-watch-because-i-say-so,p]::1;

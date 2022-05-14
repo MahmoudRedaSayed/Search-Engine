@@ -1,2 +1,7 @@
-<tia|[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::1;
+<tia|[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::1;[https://www.zagrosrobotics.com/shop/item.aspx?itemid=1161,p]::1;[https://www.zagrosrobotics.com/shop/item.aspx?itemid=1170,p]::1;
 <tianli|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,h]::1;
+<tiaras|[https://www.dailymail.co.uk/news/celebrity-deaths-and-obituaries/index.html,h]::2;
+<tianhe|[https://www.dailymail.co.uk/sciencetech/spacex/index.html,h]::1;
+<tiangong|[https://www.dailymail.co.uk/sciencetech/spacex/index.html,h]::1;
+<tiarsmith|[https://www.fool.com/mms/mark/advert-millionaire-maker?utm_source=cnnmoney&utm_medium=contentmarketing&utm_campaign=sar-millionairemaker-dec2020&paid=9214&waid=9214&aid=9214&psource=esacnnwdg0210065&source=esacnnwdg0210065&wsource=esacnnwdg0210065,p]::2;
+<tiada|[https://disneytermsofuse.com/bahasa-malaysia,p]::9;

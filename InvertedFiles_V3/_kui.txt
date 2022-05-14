@@ -1,0 +1,5 @@
+<kuiper|[https://www.sciencenewsforstudents.org/article/scientists-say-atmosphere,p]::1;[https://www.foxbusiness.com,h]::1;
+<kuin|[https://disneytermsofuse.com/finnish,p]::11;[https://netticasino-now.com,s]::2;[https://netticasino-now.com,p]::1;[https://netticasino-now.com/arvostelut,p]::7;
+<kuitenkaan|[https://disneytermsofuse.com/finnish,p]::1;[https://netticasino-now.com/arvostelut,p]::3;
+<kuitenkin|[https://disneytermsofuse.com/finnish,p]::2;[https://netticasino-now.com,p]::1;[https://netticasino-now.com/arvostelut,p]::4;
+<kuinka|[https://disneytermsofuse.com/finnish,p]::1;[https://netticasino-now.com,p]::1;[https://netticasino-now.com/arvostelut,h]::2;[https://netticasino-now.com/arvostelut,p]::2;

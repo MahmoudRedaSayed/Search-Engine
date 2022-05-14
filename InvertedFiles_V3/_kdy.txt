@@ -1,0 +1,4 @@
+<kdy|[https://disneytermsofuse.com/czech,p]::1;
+<když|[https://disneytermsofuse.com/czech,p]::2;
+<kdykoli|[https://disneytermsofuse.com/czech,p]::1;
+<kdykoliv|[https://disneytermsofuse.com/czech,p]::1;

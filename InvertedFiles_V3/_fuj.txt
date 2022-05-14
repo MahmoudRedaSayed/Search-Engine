@@ -1,0 +1,4 @@
+<fuji|[http://preservearchives.tumblr.com,p]::1;[https://kidskonnect.com/social-studies/stolen-generation,p]::1;
+<fujimoto|[https://www.edtechdigest.com/who-we-are,p]::1;
+<fujimotomitch|[https://www.edtechdigest.com/who-we-are,p]::1;
+<fujita|[https://www.foxweather.com,h]::1;

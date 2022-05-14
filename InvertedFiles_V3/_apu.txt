@@ -1,1 +1,5 @@
-<apuestas|[https://www.marca.com,h]::1;
+<apuestas|[https://www.marca.com,h]::1;[https://www.marca.com/tiramillas/television/2022/05/08/6277770846163fdb9d8b4598.html,p]::1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]::1;[https://www.marca.com?intcmp=MENUMIGA&s_kw=home,h]::1;[https://casinoenlinea-now.com,h]::5;
+<apunta|[https://www.marca.com/futbol/estados-unidos.html?intcmp=MENUPROD&s_kw=futbol-estados-unidos,h]::1;
+<apuntes|[https://www.marca.com/toros.html?intcmp=MENUPROD&s_kw=toros,h]::1;
+<apua|[https://netticasino-now.com/arvostelut,p]::1;
+<apublicly|[https://help.imdb.com/article/imdb/social/check-ins-faq/GG59ELYW45FMC7J3?ref_=helpsect_pro_5_1,p]::1;

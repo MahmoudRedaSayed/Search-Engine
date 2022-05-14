@@ -1,1 +1,4 @@
-<icrossing|[http://www.hearst.com.cn/en/aboutus,p]::1;
+<icrossing|[http://www.hearst.com.cn/en/aboutus,p]::1;[https://www.hearst.com/magazines,p]::5;
+<icrt|[https://postgraduateeducation.hms.harvard.edu/participant-perspectives,p]::1;
+<icra|[https://www.amazon.science/conferences-and-events/icra-2022,t]::1;[https://www.amazon.science/conferences-and-events/icra-2022,p]::2;
+<icrossword|[http://www.download-esl.com/worksheets.html,s]::1;[http://www.download-esl.com/worksheets.html,p]::1;

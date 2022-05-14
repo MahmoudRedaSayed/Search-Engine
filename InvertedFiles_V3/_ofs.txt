@@ -2,4 +2,9 @@
 <ofstdsoccur|[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::1;
 <ofsleepstaying|[https://www.everydayhealth.com/infectious-diseases/coronavirus,p]::1;
 <ofseinfeldandveepfame|[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,p]::1;
-<ofsecurity|[https://www.apple.com/ios/app-store,p]::1;
+<ofsted|[https://www.bbc.co.uk,p]::1;
+<ofsecurity|[https://www.dailymail.co.uk/tvshowbiz/killing-eve/index.html,h]::1;
+<ofsnail|[https://lifetickler.com/parenting-tips-part2,p]::1;
+<ofscientists|[https://www.sciencenewsforstudents.org/article/scientists-say-atmosphere,p]::1;[https://www.sciencenewsforstudents.org/article/scientists-say-constellation,p]::1;[https://www.sciencenewsforstudents.org/article/scientists-say-variable,p]::1;[https://www.sciencenewsforstudents.org/article/scientists-say-equation,p]::1;
+<ofslotsfrom|[https://en.swiss-casino-now.com/reviews/playamo,p]::1;
+<ofstudent|[https://meded.hms.harvard.edu/md-program-landing,p]::1;

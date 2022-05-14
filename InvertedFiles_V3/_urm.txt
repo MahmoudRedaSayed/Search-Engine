@@ -1,4 +1,2 @@
-<urmărirea|[https://ro.wikipedia.org/wiki/Cookie,h]::1;[https://ro.wikipedia.org/wiki/Cookie,p]::3;
+<urmărirea|[https://ro.wikipedia.org/wiki/Cookie,h]::1;[https://ro.wikipedia.org/wiki/Cookie,p]::1;
 <urmare|[https://ro.wikipedia.org/wiki/Cookie,p]::1;
-<urmăresc|[https://ro.wikipedia.org/wiki/Cookie,p]::1;
-<următoarea|[https://ro.wikipedia.org/wiki/Cookie,p]::1;

@@ -5,5 +5,10 @@
 <vizitojn|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
 <vizitor|[https://sq.wikipedia.org/wiki/Cookie_(internet),p]::1;
 <vizitează|[https://ro.wikipedia.org/wiki/Cookie,p]::1;
-<vizită|[https://ro.wikipedia.org/wiki/Cookie,p]::1;
-<vizitate|[https://ro.wikipedia.org/wiki/Cookie,p]::1;
+<vizesiz|[https://www.ugureskici.com/internet-dunyasi,h]::1;[https://www.ugureskici.com/internet-dunyasi,p]::2;
+<vizenizin|[https://www.ugureskici.com/internet-dunyasi,p]::1;
+<vizio|[https://www.disneystudioshelp.com,s]::1;
+<vizela|[https://www.marca.com/futbol/liga-portuguesa.html?intcmp=MENUPROD&s_kw=primeira-liga-portugal,s]::1;[https://www.marca.com/futbol/liga-portuguesa/equipos.html?intcmp=MENUPROD&s_kw=primeira-liga-portugal-equipos,h]::1;
+<vizsgálatával|[https://disneytermsofuse.com/hungarian,p]::1;
+<vizzle|[https://www.edtechdigest.com,h]::1;
+<vizury|[https://www.geeksforgeeks.org/experienced-interview-experiences-company-wise/?ref=ghm,s]::1;[https://www.geeksforgeeks.org/experienced-interview-experiences-company-wise/?ref=ghm,p]::1;

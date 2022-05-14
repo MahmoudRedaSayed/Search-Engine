@@ -1,2 +1,7 @@
-<usc|[http://www.archive-it.org,p]::1;
+<usc|[http://www.archive-it.org,p]::1;[http://bleacherreport.com/college-football,p]::2;[https://www.loc.gov/legal,p]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/travelers/testing-international-air-travelers.html,p]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/travelers/proof-of-vaccination.html,p]::1;[https://trademark.harvard.edu/pages/trademark-notice,p]::1;[https://www.foxnews.com/terms-of-use,s]::1;[https://www.foxnews.com/terms-of-use,p]::3;[https://www.chicagotribune.com/sports/bears/ct-cb-chicago-bears-luke-getsy-justin-fields-20220508-p4rzidcvuffghhdkarnb6v2ba4-story.html#nt=interstitial-auto,p]::1;[https://www.tribpub.com/central-terms-of-service,p]::1;
 <uscancer|[https://www.cancer.gov/about-cancer/understanding/statistics,h]::1;
+<uscontact|[https://www.azdhs.gov/covid19/data/index.php,p]::1;
+<uscurrency|[https://join.menshealth.com/pubs/HR/MHL/MHL4_Plans.jsp?cds_page_id=258212&cds_mag_code=MHL&cds_tracking_code=footer_giveagift,p]::1;
+<uscode|[http://copyright.gov,p]::1;
+<uscita|[https://it.swiss-casino-now.com/recensioni,p]::2;
+<uscanada|[https://www.history.com/tag/canada,h]::1;

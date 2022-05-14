@@ -1,2 +1,5 @@
 <oko|[http://edbrowse.org/usersguide.html#cook,p]::1;
-<okolností|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<okolností|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::2;[https://disneytermsofuse.com/czech,p]::2;
+<okok|[https://disneytermsofuse.com/hungarian,p]::2;
+<okot|[https://disneytermsofuse.com/hungarian,p]::2;
+<okonjoiweala|[https://www.nytimes.com/2022/05/03/business/economy/pandemic-supply-chains-inflation.html,p]::2;

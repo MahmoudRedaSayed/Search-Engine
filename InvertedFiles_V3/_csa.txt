@@ -1,0 +1,4 @@
+<csatornán|[https://disneytermsofuse.com/hungarian,p]::1;
+<csak|[https://disneytermsofuse.com/hungarian,p]::5;
+<családtagjaik|[https://disneytermsofuse.com/hungarian,p]::1;
+<családtagra|[https://disneytermsofuse.com/hungarian,p]::1;

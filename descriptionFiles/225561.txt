@@ -1,0 +1,1 @@
+dimension engineering sabertooth 2x5 r/c sabertooth 2x5 r/c is a dual motor driver specifically optimized for use in radio controlled vehicles.

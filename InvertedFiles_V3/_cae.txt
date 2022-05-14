@@ -1,0 +1,7 @@
+<caesarstyle|[https://www.dailymail.co.uk/home/you/index.html,s]::1;[https://lifetickler.com/about-us,p]::1;[https://www.dailymail.co.uk/sciencetech/google/index.html,h]::1;[https://www.marca.com/coches-y-motos.html?intcmp=MENUPROD&s_kw=marca-coches,h]::1;[https://www.marca.com/futbol/supercopa-europa.html?intcmp=MENUPROD&s_kw=supercopa-europa,h]::1;[https://www.marca.com/natacion.html?intcmp=MENUPROD&s_kw=natacion,h]::2;[http://splash.abc.net.au/home#!/topic/1170683/anzac,p]::1;[https://www.english-heritage.org.uk/learn/story-of-england,p]::1;[https://newsroom.loc.gov/news/library-of-congress-acquires-papers-of-award-winning-playwright-neil-simon/s/ef170337-5bc8-461d-acf0-dd360597896d,p]::1;[https://www.nytimes.com/es,h]::1;
+<caen|[https://www.goal.com/en/lists/nxgn-2017-best-wonderkids/1s31weojaayp31xxxt1jmf27l7,h]::1;[https://www.marca.com/futbol/liga-portuguesa.html?intcmp=MENUPROD&s_kw=primeira-liga-portugal,h]::1;
+<caesarean|[https://lifetickler.com/surviving-pre-eclampsia-twice,p]::1;
+<caenorhabditis|[https://www.sciencenewsforstudents.org/article/innovation-2022-worms-sniff-out-human-cancers,p]::2;
+<caer|[https://www.marca.com/futbol/estados-unidos.html?intcmp=MENUPROD&s_kw=futbol-estados-unidos,h]::1;
+<caería|[https://www.marca.com/atletismo.html?intcmp=MENUPROD&s_kw=atletismo,h]::1;
+<caerle|[https://www.marca.com/deportes-invierno.html?intcmp=MENUPROD&s_kw=deportes-invierno,h]::1;

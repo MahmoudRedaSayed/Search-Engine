@@ -1,6 +1,9 @@
 <zatz|[http://dominopower.com/article/where-cookie-comes-from,p]::1;
-<zatem|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<zatem|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://kasyno-now.com,p]::1;
 <zatvori|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
 <zatim|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
 <zatracovať|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
 <zatvorení|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<zaten|[https://www.ugureskici.com/notlarim-makalelerim/wordpress-nginx-guvenligi,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/marmara-isletme-soruyor-digital-marketing-paneli,p]::2;[https://www.ugureskici.com/notlarim-makalelerim/cografi-hedef-yapilandirmasi,p]::1;
+<zatrudnił|[https://disneytermsofuse.com/polish,p]::1;
+<zatwierdzone|[https://kasyno-now.com,s]::1;[https://kasyno-now.com,p]::1;

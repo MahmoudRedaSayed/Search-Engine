@@ -1,1 +1,2 @@
-<nuvaring|[https://www.everydayhealth.com/progesterone/guide,p]::5;[https://www.everydayhealth.com/sexual-health/birth-control,h]::1;[https://www.everydayhealth.com/sexual-health/birth-control,s]::1;[https://www.everydayhealth.com/sexual-health/birth-control,p]::2;
+<nuvaring|[https://www.everydayhealth.com/progesterone/guide,p]::5;[https://www.nytimes.com/article/birth-control-options.html,p]::2;
+<nuveen|[https://www.foxbusiness.com,h]::1;

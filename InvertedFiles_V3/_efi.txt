@@ -1,3 +1,4 @@
-<eficaz|[http://www.hearst.es,p]::1;
+<eficaz|[http://www.hearst.es,p]::1;[https://espanol.cdc.gov,p]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/masks.html,p]::1;[https://www.nytimes.com/es,p]::1;
 <eficaces|[http://www.hearst.es,p]::2;
 <efikojn|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
+<eficacia|[https://espanol.cdc.gov/coronavirus/2019-ncov/travelers/proof-of-vaccination.html,s]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/travelers/masks-public-transportation.html,p]::1;

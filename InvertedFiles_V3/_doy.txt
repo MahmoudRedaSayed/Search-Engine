@@ -1,2 +1,2 @@
-<doyou|[https://www.everydayhealth.com/healthy-living/consumers-guide-drug-discounts,p]::1;
-<doyle|[https://www.everydayhealth.com/digestive-health/10-ways-get-rid-bloating,p]::6;
+<doyou|[https://www.everydayhealth.com/healthy-living/consumers-guide-drug-discounts,p]::1;[https://www.dailymail.co.uk/news/prince-andrew/index.html,h]::1;
+<doyles|[https://www.dailymail.co.uk/sport/racing/index.html,h]::1;[https://www.dailymail.co.uk/news/sydney/index.html,h]::1;[https://www.dailymail.co.uk/money/markets/index.html,h]::1;[https://www.campdream.org/ways-to-support/foundations-corporate-giving,p]::1;[https://www.foxnews.com/politics,p]::2;[https://www.foxnews.com/category/politics/house-of-representatives,p]::1;[https://www.nytimes.com/2022/05/09/theater/tony-awards-nominees.html,p]::1;

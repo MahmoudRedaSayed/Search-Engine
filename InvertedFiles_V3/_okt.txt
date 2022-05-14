@@ -1,4 +1,4 @@
-<okta|[https://stackoverflow.com,p]::1;
+<okta|[https://stackoverflow.com,p]::1;[https://stackoverflow.co/explore-teams,p]::1;
 <oktober|[https://no.wikipedia.org/wiki/Informasjonskapsel,p]::1;
 <októbra|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
 <októbri|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::2;

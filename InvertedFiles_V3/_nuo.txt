@@ -1,3 +1,5 @@
-<nuova|[https://it.wikipedia.org/wiki/Cookie,h]::1;[https://it.wikipedia.org/wiki/Cookie,p]::2;
-<nuovo|[https://it.wikipedia.org/wiki/Cookie,p]::2;
+<nuova|[https://it.wikipedia.org/wiki/Cookie,h]::1;[https://netticasino-now.com/arvostelut,s]::1;[https://netticasino-now.com/arvostelut,p]::2;[https://casino-now.it/recensioni/woo,p]::2;
 <nuostatas|[https://lt.wikipedia.org/wiki/Slapukas,p]::1;
+<nuovi|[https://casino-now.it,h]::1;[https://it.swiss-casino-now.com/recensioni,h]::1;[https://it.swiss-casino-now.com/recensioni,p]::1;[https://casino-now.it/recensioni/woo,s]::1;[https://casino-now.it/recensioni/woo,p]::2;[https://icons8.it/icons,h]::1;
+<nuove|[https://it.swiss-casino-now.com/recensioni,p]::1;[https://casino-now.it/recensioni/woo,p]::1;[https://icons8.it/icons/ios,p]::1;[https://icons8.it/icons/material,p]::1;
+<nuovo|[https://casino-now.it/recensioni/woo,s]::1;[https://casino-now.it/recensioni/woo,p]::2;

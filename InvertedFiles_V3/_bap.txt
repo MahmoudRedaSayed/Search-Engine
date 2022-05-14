@@ -1,1 +1,6 @@
-<baptisteyoga|[https://www.everydayhealth.com/yoga,p]::1;[https://thekingcenter.org/about-mrs-king,p]::4;[https://www.nytimes.com/2006/02/01/obituaries/coretta-scott-king-a-civil-rights-icon-dies-at-78.html,p]::2;
+<baptist|[https://thekingcenter.org/about-mrs-king,p]::1;[https://www.nytimes.com/2006/02/01/obituaries/coretta-scott-king-a-civil-rights-icon-dies-at-78.html,p]::2;
+<baptised|[https://www.dailymail.co.uk/money/pensions/index.html,h]::1;
+<baptized|[https://lifetickler.com/messages-of-grace-part2,p]::1;
+<baptiste|[https://www.google.com.eg/intl/en/about/products?tab=8h,p]::1;
+<baptistaalberto|[https://www.nationalgeographic.com/pages/article/masthead,p]::1;
+<bapa|[https://disneytermsofuse.com/bahasa-malaysia,p]::5;

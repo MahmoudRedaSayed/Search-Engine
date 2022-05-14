@@ -1,5 +1,5 @@
-<psl|[https://web.archive.org/web/20160514000450/https:/publicsuffix.org/learn,p]::4;[https://publicsuffix.org/learn,p]::8;
-<pslusing|[https://web.archive.org/web/20160514000450/https:/publicsuffix.org/learn,p]::1;[https://publicsuffix.org/learn,p]::1;
+<psl|[https://publicsuffix.org/learn,p]::8;[https://web.archive.org/web/20160514000450/https:/publicsuffix.org/learn,p]::4;
 <psldiscuss|[https://publicsuffix.org/learn,p]::1;
 <psls|[https://publicsuffix.org/learn,p]::1;
+<pslusing|[https://publicsuffix.org/learn,p]::1;[https://web.archive.org/web/20160514000450/https:/publicsuffix.org/learn,p]::1;
 <psltypes|[https://publicsuffix.org/learn,p]::1;

@@ -1,2 +1,4 @@
-<tymczasowego|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::5;
+<tymczasowego|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::5;[https://disneytermsofuse.com/polish,p]::11;[https://kasyno-now.com,p]::8;[https://kasyno-now.com/recenzja/woo,p]::2;
 <tymczasowo|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<tympanic|[https://www.bbc.com/future/article/20200929-what-your-thoughts-sound-like,p]::1;
+<tymczasowym|[https://disneytermsofuse.com/polish,p]::1;

@@ -1,1 +1,1 @@
-<pezzo|[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<pez|[https://www.nytimes.com/es,h]::1;

@@ -1,1 +1,10 @@
-<odorata|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;
+<odorata|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;[https://www.iflscience.com/plants-and-animals,p]::1;[https://www.iflscience.com/environment/the-largest-accidental-release-of-radioactive-material-in-us-history-what-happened-at-church-rock,p]::1;[https://nautil.us/topics/neuroscience,h]::1;[https://www.sciencenewsforstudents.org/article/innovation-2022-worms-sniff-out-human-cancers,p]::1;[https://nautil.us/the-doctor-will-sniff-you-now-2-11852,s]::1;[https://nautil.us/the-doctor-will-sniff-you-now-2-11852,p]::2;
+<odours|[https://bbc.github.io/uxd-cognitive,p]::1;
+<odors|[https://nautil.us/topics/psychology,h]::1;[https://nautil.us/the-doctor-will-sniff-you-now-2-11852,p]::5;
+<odorbased|[https://nautil.us/the-doctor-will-sniff-you-now-2-11852,p]::1;
+<odorprint|[https://nautil.us/the-doctor-will-sniff-you-now-2-11852,p]::2;
+<odorless|[https://www.sciencenewsforstudents.org/article/scientists-say-atmosphere,p]::3;[https://www.sciencenewsforstudents.org/article/stormwater-ponds-climate-warming-gases,p]::1;
+<odottaa|[https://disneytermsofuse.com/finnish,p]::1;
+<odonnell|[https://meded.hms.harvard.edu/residents-and-fellows-teaching-portal,p]::1;[https://meded.hms.harvard.edu/teaching-awards,p]::3;
+<odometer|[https://www.foxnews.com/auto,p]::1;
+<odonnells|[https://meded.hms.harvard.edu/teaching-awards,p]::3;

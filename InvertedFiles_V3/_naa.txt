@@ -1,2 +1,10 @@
-<naar|[https://hearst.nl,p]::1;[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::4;
-<naamsgegevens|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::2;
+<naar|[https://hearst.nl,p]::1;[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::2;[https://onlinecasino-now.nl,s]::1;[https://onlinecasino-now.nl,p]::5;[https://casino-now.be,p]::3;[https://onlinecasino-now.nl/casino-reviews,p]::2;[https://www.naa.gov.au,p]::2;[http://foundingdocs.gov.au,p]::1;[https://onlinecasino-now.nl/casino-reviews/playamo,p]::3;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::3;[https://onlinecasino-now.nl/casino-software/netent,s]::1;[https://onlinecasino-now.nl/casino-software/netent,p]::9;
+<naacp|[https://www.hearst.com/making-a-difference,h]::2;[http://fordlibrarymuseum.tumblr.com,p]::1;[https://www.nps.gov/people/idabwells.htm,p]::2;
+<naaa|[https://www.hearst.com/transportation,p]::1;
+<naast|[https://onlinecasino-now.nl/casino-reviews,s]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::2;
+<naagovau|[https://www.naa.gov.au,t]::1;
+<naam|[https://onlinecasino-now.nl/casino-reviews/cookie,p]::2;[https://onlinecasino-now.nl/casino-software/netent,p]::2;
+<naartoe|[https://onlinecasino-now.nl/casino-software/netent,p]::1;
+<naat|[https://espanol.cdc.gov/coronavirus/2019-ncov/travelers/testing-international-air-travelers.html,p]::2;[https://espanol.cdc.gov/coronavirus/2019-ncov/symptoms-testing/testing.html,p]::1;
+<naacl|[https://www.amazon.science/conferences-and-events/naacl-2022,t]::1;
+<naaclhlt|[https://www.amazon.science/conferences-and-events/naacl-2022,p]::2;

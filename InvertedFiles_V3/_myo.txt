@@ -1,4 +1,5 @@
 <myosin|[https://www.everydayhealth.com/heart-health/fda-approves-camzyos-for-the-treatment-of-obstructive-hypertrophic-cardiomyopathy,p]::2;
-<myomectomy|[https://www.everydayhealth.com/hysterectomy/guide,p]::1;
-<myocarditis|[https://www.healthline.com/health-news,p]::1;
 <myometrium|[https://seer.cancer.gov/statfacts/html/ovary.html,p]::1;
+<myongji|[https://www.sciencenewsforstudents.org/article/innovation-2022-worms-sniff-out-human-cancers,p]::1;
+<myocarditis|[https://whyy.org/articles/should-i-get-my-kids-the-covid-19-vaccine-booster,p]::5;
+<myocardial|[https://tadalafilgen.com,p]::1;

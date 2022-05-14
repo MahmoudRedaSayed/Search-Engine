@@ -1,0 +1,2 @@
+<cdph|[https://www.cdph.ca.gov/covid19,h]::1;[https://www.cdph.ca.gov/covid19,p]::1;[https://www.co.fresno.ca.us/departments/public-health/covid-19,p]::4;[https://occovid19.ochealthinfo.com/coronavirus-in-oc,h]::1;[https://tealium.com,h]::1;[https://tealium.com,p]::4;[https://tealium.com/preferences,p]::2;
+<cdps|[https://tealium.com,h]::2;[https://tealium.com/preferences,h]::2;

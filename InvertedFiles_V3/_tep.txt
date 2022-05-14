@@ -1,1 +1,5 @@
-<tepper|[https://www.cancer.org/cancer/cancer-causes/genetics/family-cancer-syndromes.html,p]::2;[https://www.cancer.org/cancer/ovarian-cancer/detection-diagnosis-staging/how-diagnosed.html,p]::2;[https://www.cancer.org/cancer/ovarian-cancer/causes-risks-prevention/risk-factors.html,p]::1;
+<tepper|[https://www.cancer.org/cancer/cancer-causes/genetics/family-cancer-syndromes.html,p]::2;
+<tepid|[https://nautil.us/topics/physics,h]::2;[https://www.nytimes.com/live/2022/05/09/theater/tony-awards,p]::1;[https://www.nps.gov/articles/national-womans-party-protests-world-war-i.htm,p]::1;
+<tepat|[https://disneytermsofuse.com/bahasa-malaysia,p]::2;
+<tept|[https://espanol.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html,p]::1;
+<teptícono|[https://espanol.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html,p]::1;

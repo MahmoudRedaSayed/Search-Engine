@@ -1,0 +1,4 @@
+<jaundice|[https://www.dailymail.co.uk/news/centers-for-disease-control-and-prevention-cdc/index.html,h]::1;
+<jaula|[https://www.marca.com/mma.html?intcmp=MENUPROD&s_kw=mma,h]::2;
+<jaundiced|[https://blog.nemours.org,p]::1;
+<jauhari|[https://www.geeksforgeeks.org/geek-of-the-month/?ref=ghm,p]::1;

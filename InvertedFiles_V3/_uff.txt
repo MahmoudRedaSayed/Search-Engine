@@ -1,2 +1,1 @@
-<ufficiale|[https://it.wikipedia.org/wiki/Cookie,p]::1;
-<ufficialmente|[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<ufficio|[https://www.regione.toscana.it/-/movimento-turisti-nelle-strutture-ricettive-e-struttura-dell-offerta-dati-2021,p]::1;

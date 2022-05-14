@@ -1,1 +1,4 @@
 <neys|[http://edpl.lexxion.eu/article/EDPL/2017/3/9,p]::1;
+<neyi|[https://www.ugureskici.com/notlarim-makalelerim/projelerimizi-nasil-yonetsek,p]::1;
+<neymiş|[https://www.ugureskici.com/notlarim-makalelerim/murphy-kanunlari,p]::1;
+<neymar|[https://www.marca.com/futbol/premier-league.html?intcmp=MENUPROD&s_kw=premier-league,h]::1;[https://www.marca.com/futbol/liga-francesa.html?intcmp=MENUPROD&s_kw=liga-francesa,h]::6;[https://www.marca.com/futbol/copa-america.html?intcmp=MENUMIGA&s_kw=copa-america,h]::2;

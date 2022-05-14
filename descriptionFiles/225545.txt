@@ -1,0 +1,2 @@
+pixy2.1 is a vision sensor for robotics and other vision applications including object detection and line following.
+

@@ -1,1 +1,1 @@
-<bcgp|[https://www.medicalnewstoday.com,p]::1;[https://www.healthline.com/health-news,h]::1;
+<bcgp|[https://www.medicalnewstoday.com,p]::1;[https://www.healthline.com/health-news,h]::1;[https://www.hearst.com/ventures,p]::1;

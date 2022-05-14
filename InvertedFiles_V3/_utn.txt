@@ -1,1 +1,2 @@
 <utnyttjas|[https://sv.wikipedia.org/wiki/Webbkaka,p]::1;
+<utnyttes|[https://disneytermsofuse.com/norwegian,p]::4;

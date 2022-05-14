@@ -1,2 +1,7 @@
-<bepaald|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;
-<bepaalde|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;
+<bepaalde|[https://onlinecasino-now.nl,p]::1;[https://casino-now.be,s]::3;[https://onlinecasino-now.nl/casino-reviews/playamo,p]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::2;[https://onlinecasino-now.nl/casino-software/netent,p]::2;
+<bepalen|[https://onlinecasino-now.nl,p]::1;[https://casino-now.be,p]::2;
+<beperk|[https://casino-now.be,s]::1;
+<beperkt|[https://onlinecasino-now.nl/casino-reviews/cookie,p]::1;
+<beperkte|[https://onlinecasino-now.nl/casino-reviews/cookie,p]::1;
+<beperkter|[https://onlinecasino-now.nl/casino-reviews/cookie,p]::1;
+<bepainfonpsgov|[https://www.nps.gov/bepa/learn/alice-paul.htm,p]::1;

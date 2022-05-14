@@ -1,0 +1,2 @@
+<fobar|[https://www.nationalgeographic.com/pages/article/masthead,p]::1;
+<fobia|[https://es.familydoctor.org/prevencion-y-bienestar/bienestar-emocional/salud-mental,h]::1;

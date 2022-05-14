@@ -1,2 +1,7 @@
 <oplatka|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;
 <oplysninger|[https://da.wikipedia.org/wiki/Cookie,p]::2;
+<oplyses|[https://disneytermsofuse.com/danish,p]::1;
+<oplyst|[https://disneytermsofuse.com/danish,p]::1;
+<oplysnings|[https://disneytermsofuse.com/danish,p]::1;
+<oplevelser|[https://casino-now.dk/anmeldelser,t]::1;
+<oplevert|[https://onlinecasino-now.nl/casino-software/netent,p]::1;

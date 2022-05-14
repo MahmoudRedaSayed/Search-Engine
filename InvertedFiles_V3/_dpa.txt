@@ -1,1 +1,7 @@
-<dpas|[https://link.springer.com/10.1007/978-3-030-76663-4_3,p]::4;
+<dpa|[https://help.piwik.pro/privacy-policy/#privacy_and_settings,s]::1;[https://help.piwik.pro/privacy-policy/#privacy_and_settings,p]::1;[https://www.whitehouse.gov/covidplan,p]::1;[https://www.foxnews.com/politics,p]::2;[https://www.foxnews.com/category/politics/house-of-representatives,p]::1;
+<dpabrady|[https://www.congress.gov,p]::1;
+<dpacase|[https://www.congress.gov,p]::1;
+<dpadelbene|[https://www.congress.gov,p]::1;
+<dpaduncan|[https://www.congress.gov,p]::1;
+<dpafallon|[https://www.congress.gov,p]::1;
+<dpahoyer|[https://www.congress.gov,p]::1;

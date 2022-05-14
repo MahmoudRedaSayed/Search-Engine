@@ -1,5 +1,8 @@
-<cetearyl|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::2;[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::7;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::2;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;[https://fr.wikipedia.org/wiki/Cookie_(informatique),s]::1;[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::2;
+<cetearyl|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::2;[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::7;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::2;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;[https://fr.wikipedia.org/wiki/Cookie_(informatique),s]::1;[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::1;[https://www.iabeurope.eu,p]::1;[https://disneytermsofuse.com/french,p]::1;[https://fr.casino-now-canada.com/jeux-casino,s]::1;
 <cetyl|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::2;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::2;[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::3;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::3;
 <cetylpyridinium|[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;
 <cetrimonium|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
 <cetere|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
+<cetaceans|[https://www.sciencenewsforstudents.org/topic/oceans,p]::1;
+<cetonas|[https://es.familydoctor.org/ayuno-intermitente,p]::5;
+<cetera|[https://www.nytimes.com/2022/05/09/opinion/sway-kara-swisher-clarissa-ward.html,p]::6;

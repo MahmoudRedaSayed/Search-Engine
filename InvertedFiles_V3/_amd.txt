@@ -1,1 +1,1 @@
-<amds|[https://www.theregister.com/2021/02/24/dns_cname_tracking,p]::1;
+<amdia|[https://edaa.eu/news-and-resources/multimedia,p]::1;[https://www.mozilla.org/en-US/firefox/100.0/releasenotes,p]::1;[http://tupublicidaddigital.org,s]::1;[https://www.ebay.com/globaldeals/tech/laptops-netbooks,h]::2;

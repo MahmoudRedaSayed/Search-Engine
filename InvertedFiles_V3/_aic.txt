@@ -1,0 +1,2 @@
+<aicbrorg|[https://ai-cbr.org/author/cbradmin,h]::1;[https://ai-cbr.org/author/cbradmin,p]::1;[https://ai-cbr.org/expect-results-with-the-new-and-improved-ai-cbr-org,t]::1;[https://ai-cbr.org/category/uncategorized,h]::1;[https://ai-cbr.org/expect-results-with-the-new-and-improved-ai-cbr-org,h]::1;[https://ai-cbr.org/category/uncategorized,p]::1;[https://ai-cbr.org/expect-results-with-the-new-and-improved-ai-cbr-org,p]::1;[https://ai-cbr.org/2015/11,h]::1;[https://ai-cbr.org/2015/11,p]::1;
+<aichi|[http://aitech.ac.jp/~ckelly,t]::1;

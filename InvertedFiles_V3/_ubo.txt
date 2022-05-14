@@ -1,1 +1,3 @@
 <ubogie|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<uboot|[https://lab.github.com,h]::1;[https://lab.github.com,p]::1;
+<uboczne|[https://disneytermsofuse.com/polish,p]::1;

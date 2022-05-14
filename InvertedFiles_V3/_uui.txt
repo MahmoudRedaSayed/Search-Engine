@@ -1,1 +1,0 @@
-<uuid|[https://accounts.google.com/TOS?loc=EG&hl=ar&privacy=true,p]::1;

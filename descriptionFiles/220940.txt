@@ -1,0 +1,1 @@
+video stabilization using vidstab and ffmpeg (mac os x) - readme.md

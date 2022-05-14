@@ -1,0 +1,2 @@
+<exdefender|[https://www.dailymail.co.uk/sport/fa_cup/index.html,h]::1;
+<exdividend|[https://money.cnn.com/data/fear-and-greed,p]::1;

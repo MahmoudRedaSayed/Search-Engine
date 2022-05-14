@@ -1,3 +1,6 @@
 <arugula|[https://www.everydayhealth.com/mediterranean-diet/guide,h]::1;[https://www.everydayhealth.com/mediterranean-diet/guide,p]::1;
-<aruba|[http://www.archive-it.org,p]::2;
-<arunachal|[https://www.tutorix.com,p]::1;
+<aruba|[http://www.archive-it.org,p]::2;[https://www.bbc.co.uk/programmes/p02r6yqw/episodes/downloads,p]::1;[https://www.edtechdigest.com,h]::2;[https://edtechdigest.com/category/cool-tools,h]::1;[https://www.foxnews.com/foxaroundtheworld,s]::1;
+<arunachal|[https://www.tutorix.com,p]::1;[https://www.myenglishclub.com/groups/short-english-lessons,p]::2;
+<arundells|[https://www.dailymail.co.uk/sport/rugbyunion/index.html,h]::1;[https://www.baltimoresun.com,p]::1;
+<aruba•|[https://commons.wikimedia.org/wiki/Atlas_of_Australia,p]::1;
+<arunalk|[https://www.myenglishclub.com/groups/short-english-lessons,p]::1;

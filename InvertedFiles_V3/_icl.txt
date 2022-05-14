@@ -1,3 +1,7 @@
-<icloud|[https://www.cancer.net/navigating-cancer-care/managing-your-care/mobile-applications,p]::1;[https://www.apple.com/ipad,h]::1;[https://www.apple.com/mac,p]::1;[https://www.apple.com/services,h]::1;[https://www.apple.com/services,p]::1;[https://www.apple.com/legal,p]::1;
+<icloud|[https://www.cancer.net/navigating-cancer-care/managing-your-care/mobile-applications,p]::1;[https://www.apple.com/ipad,h]::1;[https://www.apple.com/mac,p]::1;[https://www.apple.com/services,h]::1;[https://www.apple.com/services,p]::1;[https://www.apple.com/legal,p]::1;[https://www.apple.com/lae/ipad,h]::1;[https://www.apple.com/lae/services,h]::1;[https://www.apple.com/lae/services,p]::1;[https://support.apple.com/kb/HT203033,p]::4;[https://www.apple.com/privacy,h]::2;[https://www.apple.com/privacy,p]::1;
 <icloudenabled|[https://www.cancer.net/navigating-cancer-care/managing-your-care/mobile-applications,p]::1;
-<icloudphotos|[https://www.apple.com/mac,p]::1;
+<icloudphotos|[https://www.apple.com/mac,p]::1;[https://www.apple.com/lae/mac,p]::1;
+<iclg|[https://iclg.com/practice-areas/gambling-laws-and-regulations/canada,s]::1;[https://iclg.com/practice-areas/gambling-laws-and-regulations/canada,p]::1;
+<iclgcom|[https://iclg.com/practice-areas/gambling-laws-and-regulations/canada,s]::1;
+<icloudconnected|[https://support.apple.com/kb/HT207056,p]::1;
+<iclr|[https://www.amazon.science/blog/improving-unsupervised-sentence-pair-comparison,p]::2;

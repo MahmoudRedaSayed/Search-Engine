@@ -1,2 +1,5 @@
-<avviso|[https://it.wikipedia.org/wiki/Cookie,p]::1;
-<avviene|[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<avvenire|[https://it.swiss-casino-now.com/recensioni,p]::1;
+<avventenze|[https://casino-now.it/recensioni,s]::1;[https://casino-now.it/recensioni/woo,s]::1;[https://casino-now.it/recensioni/woo,p]::1;
+<avvengono|[https://casino-now.it/recensioni/woo,p]::1;
+<avvale|[https://casino-now.it/recensioni/woo,p]::1;
+<avvalendosi|[https://casino-now.it/recensioni/woo,p]::1;

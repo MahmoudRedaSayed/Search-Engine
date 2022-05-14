@@ -1,1 +1,12 @@
-<zawartych|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<zawartych|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::2;[https://disneytermsofuse.com/polish,p]::1;
+<zawiadomienia|[https://disneytermsofuse.com/polish,p]::9;
+<zawodowej|[https://disneytermsofuse.com/polish,p]::1;
+<zawartości|[https://disneytermsofuse.com/polish,p]::2;
+<zawiadomień|[https://disneytermsofuse.com/polish,p]::1;
+<zawsze|[https://disneytermsofuse.com/polish,p]::1;[https://kasyno-now.com,s]::1;[https://kasyno-now.com,p]::2;[https://kasyno-now.com/recenzja,p]::2;[https://kasyno-now.com/recenzja/woo,p]::3;
+<zawiesić|[https://disneytermsofuse.com/polish,p]::2;
+<zawiadomienie|[https://disneytermsofuse.com/polish,p]::4;
+<zawarta|[https://disneytermsofuse.com/polish,p]::1;
+<zawieszenia|[https://disneytermsofuse.com/polish,p]::2;
+<zawodowo|[https://disneytermsofuse.com/polish,p]::1;
+<zawierać|[https://disneytermsofuse.com/polish,p]::1;

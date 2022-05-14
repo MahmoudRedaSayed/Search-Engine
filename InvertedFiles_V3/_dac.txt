@@ -1,4 +1,7 @@
-<dachat|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::3;
+<dachat|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::1;
 <daccepter|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::1;
-<daccumuler|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::1;
-<dacă|[https://ro.wikipedia.org/wiki/Cookie,p]::4;
+<dacre|[https://www.dmgmedia.co.uk/about/dmg-media-leadership,p]::2;
+<dacia|[https://www.marca.com/coches-y-motos.html?intcmp=MENUPROD&s_kw=marca-coches,h]::1;
+<dacă|[https://disneytermsofuse.com/romanian,p]::4;
+<dacs|[http://www.digikey.com,p]::1;
+<daca|[https://meded.hms.harvard.edu/meet-our-faculty,h]::1;

@@ -1,1 +1,2 @@
-<chmod|[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;
+<chmod|[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;
+<chmcs|[https://www.symplr.com/case-studies/provider-management-software-upgrade-transforms-hospitals-processes,p]::2;

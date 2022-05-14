@@ -1,1 +1,2 @@
-<udgangspunkt|[https://da.wikipedia.org/wiki/Cookie,p]::3;
+<udgangspunkt|[https://da.wikipedia.org/wiki/Cookie,p]::3;[https://www.marca.com/futbol/futbol-femenino/primera-division.html?intcmp=MENUPROD&s_kw=futbol-femenino-primera-iberdrola,h]::1;[https://www.marca.com/futbol/futbol-femenino/copa-de-la-reina.html?intcmp=MENUPROD&s_kw=futbol-copa-reina,h]::1;
+<udgør|[https://disneytermsofuse.com/danish,p]::1;

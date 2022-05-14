@@ -1,2 +1,3 @@
 <fuciformis|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
-<fucking|[https://web.archive.org/web/20121115110013/http:/www.wired.co.uk/news/archive/2012-05/24/eu-cookie-law-moaning,p]::1;
+<fucked|[https://www.nytimes.com/2022/05/09/opinion/sway-kara-swisher-clarissa-ward.html,p]::1;[https://www.nytimes.com/2022/05/05/podcasts/still-processing-fatal-attraction-erotic-thrillers.html,p]::2;
+<fuchs|[https://www.nytimes.com/2022/05/06/well/mind/virtual-reality-therapy-seniors.html,p]::2;

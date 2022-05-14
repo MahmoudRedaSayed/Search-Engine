@@ -1,0 +1,3 @@
+<wnosi|[https://disneytermsofuse.com/polish,p]::1;
+<wnoszonego|[https://disneytermsofuse.com/polish,p]::3;
+<wnoszenia|[https://disneytermsofuse.com/polish,p]::1;

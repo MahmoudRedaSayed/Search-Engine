@@ -1,2 +1,3 @@
 <lula|[https://www.france24.com,p]::1;
-<lull|[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;[https://www.healthline.com/program/wellness,p]::1;
+<lull|[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;
+<lulea|[https://help.piwik.pro/privacy-policy/#privacy_and_settings,p]::1;

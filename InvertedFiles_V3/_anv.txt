@@ -1,8 +1,10 @@
-<anvendes|[https://da.wikipedia.org/wiki/Cookie,p]::2;
+<anvendes|[https://da.wikipedia.org/wiki/Cookie,p]::2;[https://disneytermsofuse.com/danish,p]::5;
 <användningsändamålredigera|[https://sv.wikipedia.org/wiki/Webbkaka,h]::1;
 <användaren|[https://sv.wikipedia.org/wiki/Webbkaka,p]::9;
 <användarnas|[https://sv.wikipedia.org/wiki/Webbkaka,p]::1;
-<används|[https://sv.wikipedia.org/wiki/Webbkaka,p]::1;
+<används|[https://sv.wikipedia.org/wiki/Webbkaka,p]::1;[https://onlinecasino-now.se,p]::1;
 <användes|[https://sv.wikipedia.org/wiki/Webbkaka,p]::1;
 <användbarhet|[https://sv.wikipedia.org/wiki/Webbkaka,p]::1;
 <användas|[https://sv.wikipedia.org/wiki/Webbkaka,p]::1;
+<anvendelse|[https://disneytermsofuse.com/danish,p]::1;
+<anvender|[https://disneytermsofuse.com/danish,p]::1;

@@ -1,1 +1,6 @@
-<inzichtelijker|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;
+<inzaghi|[http://www.beinsports.com/id,h]::2;
+<inzuhair|[https://www.dailymail.co.uk/femail/fashionfinder/index.html,h]::1;
+<inzerují|[https://disneytermsofuse.com/czech,p]::1;
+<inzake|[https://casino-now.be,s]::1;[https://casino-now.be,p]::1;
+<inzetten|[https://casino-now.be,s]::2;[https://casino-now.be,p]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::1;[https://onlinecasino-now.nl/casino-software/netent,p]::3;
+<inzicht|[https://onlinecasino-now.nl/casino-software/netent,p]::1;

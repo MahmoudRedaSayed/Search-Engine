@@ -1,0 +1,3 @@
+<kifejezetten|[https://disneytermsofuse.com/hungarian,p]::2;
+<kifizetett|[https://disneytermsofuse.com/hungarian,p]::1;
+<kiffin|[https://www.dailywritingtips.com/congratulations-on-or-for,s]::2;

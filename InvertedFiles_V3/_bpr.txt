@@ -1,1 +1,1 @@
-<bpr|[https://www.youronlinechoices.eu,p]::1;
+<bpr|[https://www.youronlinechoices.eu,p]::1;[https://edaa.eu/what-we-do/for-companies,p]::1;[https://edaa.eu/news-and-resources/reports,h]::1;[https://edaa.eu/faq,p]::1;

@@ -1,0 +1,3 @@
+<ncov|[https://systems.jhu.edu/research/public-health/ncov,t]::1;[https://systems.jhu.edu/research/public-health/ncov,s]::1;[https://systems.jhu.edu/research/public-health/ncov,p]::2;[https://www.cdph.ca.gov/covid19,h]::1;
+<ncom|[https://www.ugureskici.com/notlarim-makalelerim,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/evergreen-content-olumsuz-taze-icerikler,p]::1;[https://www.ugureskici.com/page/2,p]::1;
+<ncomda|[https://www.ugureskici.com/ordan-burdan/dijital-pazarlama-temelleri,p]::1;

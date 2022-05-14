@@ -1,2 +1,2 @@
-<goff|[https://www.cancer.org/cancer/ovarian-cancer/detection-diagnosis-staging/signs-and-symptoms.html,p]::2;[https://web.archive.org/web/20081223151145/http:/www.infoq.com/articles/rest-anti-patterns,p]::1;[http://www.infoq.com/articles/rest-anti-patterns,p]::1;
+<goff|[https://www.cancer.org/cancer/ovarian-cancer/detection-diagnosis-staging/signs-and-symptoms.html,p]::2;
 <gofullpage|[http://mrcoles.com/blog/cookies-max-age-vs-expires,p]::1;

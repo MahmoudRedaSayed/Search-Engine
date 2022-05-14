@@ -1,1 +1,2 @@
-<hca|[http://www.archive-it.org,p]::3;[https://www.hearst.co.uk/solutions/content-marketing,h]::1;[https://www.hearst.co.uk/solutions/content-marketing,p]::1;
+<hca|[http://www.archive-it.org,p]::3;[https://www.hearst.co.uk/solutions/content-marketing,h]::1;[https://occovid19.ochealthinfo.com/coronavirus-in-oc,p]::1;
+<hcas|[https://occovid19.ochealthinfo.com/coronavirus-in-oc,p]::1;

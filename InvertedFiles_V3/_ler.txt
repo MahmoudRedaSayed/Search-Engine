@@ -1,4 +1,9 @@
-<leroy|[https://www.everydayhealth.com/,h]::1;
+<leroy|[https://www.everydayhealth.com/,h]::1;[https://onlinelearning.hms.harvard.edu/hmx/about,p]::2;[https://irishwomenshistory.blogspot.com/2014/11/the-colours-of-suffragettes.html,p]::1;[https://icons8.com.br/animated-icons,p]::1;
 <lerdorf|[https://www.tutorialspoint.com/php/index.htm,p]::1;[https://www.tutorialspoint.com/computer_whoiswho.htm,h]::1;[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::2;
-<lerner|[https://www.commonweal.org/program/cchp,p]::1;
+<lerner|[https://www.commonweal.org/program/cchp,p]::1;[http://de.talkenglish.com,p]::1;
 <lerners|[https://www.commonweal.org/program/cchp,p]::1;
+<lerin|[https://www.ugureskici.com/notlarim-makalelerim/rss-yayini-nedir-seo-icin-rss-olusturma,p]::2;
+<lerde|[https://www.ugureskici.com/page/8,p]::1;
+<lergonomie|[https://fr.swiss-casino-now.com/revue,s]::1;
+<leren|[https://onlinecasino-now.nl/casino-software/netent,p]::2;
+<lernen|[http://de.talkenglish.com,t]::2;[http://de.talkenglish.com,p]::2;[https://www.dailywritingtips.com/congratulations-on-or-for,p]::1;

@@ -1,0 +1,1 @@
+<hbridge|[http://www.digikey.com,h]::1;[http://www.digikey.com,p]::1;[https://trademark.harvard.edu/pages/trademark-notice,p]::1;

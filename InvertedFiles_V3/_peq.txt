@@ -1,1 +1,3 @@
-<pequeño|[https://www.sciencenewsforstudents.org,p]::1;
+<pequeño|[https://www.sciencenewsforstudents.org,p]::1;[https://www.marca.com/futbol/atletico/2022/05/09/62784038268e3ea9268b45c8.html,s]::1;[https://www.marca.com/futbol/atletico/2022/05/09/62784038268e3ea9268b45c8.html,p]::1;
+<pequeñas|[https://es.familydoctor.org/salud-de-la-familia/hombres,p]::1;[https://es.familydoctor.org/ayuno-intermitente,p]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html,p]::1;
+<pequeños|[https://espanol.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/about-face-coverings.html,p]::1;

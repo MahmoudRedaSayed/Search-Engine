@@ -1,1 +1,1 @@
-<bgsound|[https://web.archive.org/web/20130527072626/https:/developer.mozilla.org/en-US/docs/Site_Compatibility_for_Firefox_22,h]::1;[https://web.archive.org/web/20130527072626/https:/developer.mozilla.org/en-US/docs/Site_Compatibility_for_Firefox_22,p]::1;
+<bgsound|[https://web.archive.org/web/20130527072626/https:/developer.mozilla.org/en-US/docs/Site_Compatibility_for_Firefox_22,h]::1;

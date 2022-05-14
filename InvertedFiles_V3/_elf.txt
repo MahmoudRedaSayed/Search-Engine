@@ -1,0 +1,8 @@
+<elfin|[https://thereader.mitpress.mit.edu/the-troubling-pursuit-of-human-metrics,p]::1;
+<elfogadjuk|[https://disneytermsofuse.com/hungarian,p]::1;
+<elfogadásunk|[https://disneytermsofuse.com/hungarian,p]::1;
+<elfogadása|[https://disneytermsofuse.com/hungarian,p]::2;
+<elfogadásához|[https://disneytermsofuse.com/hungarian,p]::1;
+<elfogadásától|[https://disneytermsofuse.com/hungarian,p]::2;
+<elfogadni|[https://disneytermsofuse.com/hungarian,p]::1;
+<elfreths|[http://philadelphiaencyclopedia.org/archive/philadelphia-and-its-people-in-maps-the-1790s,s]::1;[http://philadelphiaencyclopedia.org/archive/philadelphia-and-its-people-in-maps-the-1790s,p]::7;

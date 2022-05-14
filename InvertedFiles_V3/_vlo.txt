@@ -1,1 +1,4 @@
-<vlogger|[https://www.dailymail.co.uk,p]::1;
+<vlogger|[https://www.dailymail.co.uk,p]::1;[https://www.nytimes.com/2022/05/09/us/border-qanon-arizona.html,p]::1;
+<vlodomyr|[https://www.marca.com/en/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;
+<vlot|[https://onlinecasino-now.nl,p]::2;[https://onlinecasino-now.nl/casino-reviews,s]::1;
+<vloggers|[https://www.nytimes.com/2022/05/06/business/philippines-election-disinformation.html,p]::1;

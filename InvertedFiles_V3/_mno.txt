@@ -1,4 +1,5 @@
-<množství|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<množství|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://disneytermsofuse.com/czech,p]::1;
 <množstvo|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
 <množné|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
 <mnohé|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<mnom|[http://toni.podmanicki.com,h]::1;

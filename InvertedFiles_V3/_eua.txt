@@ -1,1 +1,1 @@
-<eua|[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::2;
+<eua|[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::2;[https://www.alabamapublichealth.gov/covid19,p]::1;[https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019,s]::1;[https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019,p]::6;[https://espanol.cdc.gov/coronavirus/2019-ncov/testing/self-testing.html,p]::1;

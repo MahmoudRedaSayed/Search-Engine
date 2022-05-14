@@ -1,0 +1,2 @@
+<fng|[https://www.dailymail.co.uk/sciencetech/google/index.html,h]::1;
+<fngn|[https://www.geeksforgeeks.org/analysis-of-algorithems-little-o-and-little-omega-notations/?ref=ghm,s]::1;[https://www.geeksforgeeks.org/analysis-of-algorithems-little-o-and-little-omega-notations/?ref=ghm,p]::4;

@@ -1,1 +1,11 @@
-<goku|[https://www.marca.com,h]::1;
+<goku|[https://www.marca.com,h]::1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]::1;[https://www.marca.com/ultimas-noticias.html?intcmp=MENUDEST&s_kw=ultimas-noticias,h]::1;[https://www.marca.com?intcmp=MENUMIGA&s_kw=home,h]::1;[https://onlinecasino-now.nl,p]::1;[https://casino-now.be,p]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::1;[https://onlinecasino-now.nl/casino-software/netent,p]::1;
+<gokart|[https://www.dailymail.co.uk/travel/index.html,h]::1;[https://www.dailymail.co.uk/travel/travelreviews/index.html,s]::1;
+<gokmachines|[https://onlinecasino-now.nl,h]::1;[https://onlinecasino-now.nl,s]::2;[https://onlinecasino-now.nl/casino-software/netent,h]::1;
+<gokspelers|[https://onlinecasino-now.nl,h]::1;[https://casino-now.be,h]::1;
+<gokmarkt|[https://onlinecasino-now.nl,h]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::1;[https://onlinecasino-now.nl/casino-software/netent,p]::1;
+<gokken|[https://onlinecasino-now.nl,h]::1;[https://onlinecasino-now.nl,s]::7;[https://casino-now.be,h]::2;[https://casino-now.be,p]::2;[https://onlinecasino-now.nl/casino-reviews,p]::1;[https://onlinecasino-now.nl/casino-reviews/playamo,p]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,s]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::3;[https://onlinecasino-now.nl/casino-software/netent,s]::1;[https://onlinecasino-now.nl/casino-software/netent,p]::4;
+<goktypes|[https://casino-now.be,h]::1;
+<goksite|[https://onlinecasino-now.nl/casino-reviews,h]::1;
+<gokkast|[https://onlinecasino-now.nl/casino-software/netent,p]::1;
+<gokkenze|[https://onlinecasino-now.nl/casino-software/netent,p]::1;
+<gokkenzeer|[https://onlinecasino-now.nl/casino-software/netent,p]::1;

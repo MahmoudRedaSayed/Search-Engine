@@ -1,2 +1,8 @@
 <uporloginto|[https://www.hearstmagazines.co.uk/contact-us,p]::1;
 <upozornení|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<upozorněni|[https://disneytermsofuse.com/czech,p]::1;
+<upozorníme|[https://disneytermsofuse.com/czech,p]::1;
+<upozorňovat|[https://disneytermsofuse.com/czech,p]::1;
+<upozornění|[https://disneytermsofuse.com/czech,p]::1;
+<upozorníte|[https://disneytermsofuse.com/czech,p]::1;
+<upoważnionym|[https://disneytermsofuse.com/polish,p]::1;

@@ -1,0 +1,4 @@
+<dbupdatefailed|[https://github.com/Open-Book-Genome-Project/sequencer/blob/master/pipeline.py,h]::1;
+<dbupdatesucceed|[https://github.com/Open-Book-Genome-Project/sequencer/blob/master/pipeline.py,h]::1;
+<dbupdateconflict|[https://github.com/Open-Book-Genome-Project/sequencer/blob/master/pipeline.py,h]::1;
+<dburlsfound|[https://github.com/Open-Book-Genome-Project/sequencer/blob/master/pipeline.py,h]::1;

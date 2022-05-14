@@ -1,2 +1,4 @@
-<nofly|[https://www.primaholidays.co.uk/?utm_source=hearstmagazines&utm_medium=referral&utm_campaign=hearst-holidays&utm_term=pri&utm_content=nav-bar,p]::1;
-<nofetch|[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;
+<nofly|[https://www.primaholidays.co.uk/?utm_source=hearstmagazines&utm_medium=referral&utm_campaign=hearst-holidays&utm_term=pri&utm_content=nav-bar,p]::1;[https://www.foxnews.com/category/tech/topics/security,p]::1;
+<nofetch|[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;
+<nofail|[https://www.bbc.co.uk/gel/guidelines/how-to-design-accessible-games,p]::1;
+<nofault|[https://lifetickler.com/understanding-car-insurance,s]::1;[https://lifetickler.com/understanding-car-insurance,p]::3;

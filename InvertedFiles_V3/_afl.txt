@@ -1,1 +1,6 @@
-<aflatoxin|[https://canceratlas.cancer.org,p]::1;[https://ro.wikipedia.org/wiki/Cookie,p]::1;
+<aflatoxin|[https://canceratlas.cancer.org,p]::1;[https://www.dailymail.co.uk/news/melbourne/index.html,t]::1;[https://www.dailymail.co.uk/news/melbourne/index.html,h]::1;[https://www.dailymail.co.uk/news/sydney/index.html,h]::1;[https://www.dailymail.co.uk/news/adelaide/index.html,h]::4;
+<aflw|[https://www.dailymail.co.uk/news/adelaide/index.html,h]::1;
+<afls|[https://www.dailymail.co.uk/news/adelaide/index.html,h]::1;
+<aflați|[https://disneytermsofuse.com/romanian,p]::1;
+<afloat|[http://philadelphiaencyclopedia.org/archive/philadelphia-and-its-people-in-maps-the-1790s,p]::2;
+<aflcio|[https://www.chicagotribune.com/politics/elections/#nt=taxonomy-article,h]::2;

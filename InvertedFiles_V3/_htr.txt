@@ -1,1 +1,1 @@
-<htrc|[https://blog.openlibrary.org/page/2,p]::1;
+<htrc|[https://blog.openlibrary.org/page/2,p]::1;[https://blog.openlibrary.org/2021/08/24/the-open-book-genome-project,p]::1;

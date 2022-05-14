@@ -1,1 +1,2 @@
 <elpoderdelapositividad|[http://www.hearst.es,h]::1;[http://www.hearst.es,p]::1;
+<elpistostege|[https://www.nytimes.com/2022/04/29/science/tiktaalik-fish-fossil-meme.html,p]::1;

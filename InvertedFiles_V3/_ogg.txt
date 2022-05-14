@@ -1,3 +1,3 @@
-<oggetto|[https://it.wikipedia.org/wiki/Cookie,p]::3;
-<oggi|[https://it.wikipedia.org/wiki/Cookie,p]::3;
-<oggetti|[https://it.wikipedia.org/wiki/Cookie,p]::3;
+<oggetto|[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<oggi|[https://it.wikipedia.org/wiki/Cookie,p]::1;[http://www.beinsports.com/au,p]::1;[https://it.swiss-casino-now.com/recensioni,p]::1;[https://casino-now.it/recensioni/woo,p]::2;[https://icons8.it/icons/ios,p]::1;
+<oggettivo|[https://casino-now.it/recensioni,p]::3;[https://icons8.it/icons/material,p]::1;

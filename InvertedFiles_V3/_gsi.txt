@@ -1,0 +1,2 @@
+<gsi|[https://bbc.github.io/subtitle-guidelines,h]::1;[https://bbc.github.io/subtitle-guidelines,s]::1;[https://www.ugureskici.com/notlarim-makalelerim/google-alisveris-reklamlari-icin-gtin-zorunlulugu,p]::1;[https://www.ebay.com/globaldeals/fashion/fine-jewelry,h]::1;
+<gsin|[https://www.ugureskici.com/notlarim-makalelerim/google-alisveris-reklamlari-icin-gtin-zorunlulugu,p]::1;

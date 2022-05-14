@@ -1,2 +1,3 @@
-<pca|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::3;[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::1;
+<pca|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::3;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::1;[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;
 <pca･|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
+<pcactebe|[https://www.acte.be,p]::1;

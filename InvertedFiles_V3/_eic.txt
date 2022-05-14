@@ -1,2 +1,2 @@
 <eich|[https://www.tutorialspoint.com/computer_whoiswho.htm,h]::1;[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::2;
-<eichs|[https://web.archive.org/web/20130527072626/https:/developer.mozilla.org/en-US/docs/Site_Compatibility_for_Firefox_22,p]::1;
+<eicr|[https://www.dailymail.co.uk/money/buytolet/index.html,h]::1;

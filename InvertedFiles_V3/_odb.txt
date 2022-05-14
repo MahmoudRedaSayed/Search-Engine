@@ -1,2 +1,6 @@
 <odbc|[https://www.tutorialspoint.com/jdbc/index.htm,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::1;
 <odborník|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<odborné|[https://disneytermsofuse.com/czech,p]::1;
+<odbiorca|[https://disneytermsofuse.com/polish,p]::1;
+<odbędzie|[https://disneytermsofuse.com/polish,p]::2;
+<odbywa|[https://kasyno-now.com,p]::1;

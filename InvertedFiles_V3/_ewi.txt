@@ -1,1 +1,1 @@
-<ewing|[https://www.loc.gov,h]::3;
+<ewing|[https://www.loc.gov,h]::3;[https://www.nps.gov/articles/massachusetts-and-the-19th-amendment.htm,p]::1;

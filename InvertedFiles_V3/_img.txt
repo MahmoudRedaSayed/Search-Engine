@@ -1,1 +1,3 @@
-<img|[https://www.netsparker.com/blog/web-security/same-site-cookie-attribute-prevent-cross-site-request-forgery,p]::1;
+<img|[https://www.netsparker.com/blog/web-security/same-site-cookie-attribute-prevent-cross-site-request-forgery,p]::1;[https://docs.google.com/document/d/1K-mKOqiUiSjgZTEscBLjtjd6E67oiK8H2ztOiq5tigk/pub,p]::1;[https://icons8.com,s]::1;[https://icons8.com/icons,s]::1;[https://igoutu.cn/icons,s]::1;[https://icons8.de/icons,s]::1;[https://icones8.fr/icons,s]::1;[https://icons8.com.br/icons,s]::1;[https://icons8.jp/icons,s]::1;[https://icons8.it/icons,s]::1;[https://iconos8.es/icons,s]::1;[https://icons8.ru/icons,s]::1;[https://icons8.kr/icons,s]::1;[https://img.icons8.com,p]::1;
+<imgwrapperchildrenimgeq|[https://docs.google.com/document/d/1K-mKOqiUiSjgZTEscBLjtjd6E67oiK8H2ztOiq5tigk/pub,p]::1;
+<imgsrc|[https://docs.google.com/document/d/1K-mKOqiUiSjgZTEscBLjtjd6E67oiK8H2ztOiq5tigk/pub,p]::1;

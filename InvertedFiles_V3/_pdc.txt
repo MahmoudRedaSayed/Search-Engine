@@ -1,1 +1,2 @@
-<pdc|[http://edbrowse.org/usersguide.html#cook,p]::2;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::2;
+<pdc|[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::2;[https://www.iflscience.com/space/large-chunk-of-europe-annihilated-in-nasas-latest-asteroid-impact-simulation-exercise,p]::3;
+<pdchas|[https://www.iflscience.com/space/nasas-asteroid-impact-simulation-ended-with-new-york-city-in-ruins,p]::1;

@@ -1,4 +1,10 @@
 <zustellungsbevollmächtigter|[https://legal.twitter.com/imprint.html,p]::1;
 <zustellungsbevollmächtigung|[https://legal.twitter.com/imprint.html,p]::1;
 <zustellungen|[https://legal.twitter.com/imprint.html,p]::1;
-<zusätzlich|[https://de.wikipedia.org/wiki/HTTP-Cookie,p]::1;
+<zusätzlich|[https://de.wikipedia.org/wiki/HTTP-Cookie,p]::1;[https://casino-now.at/casino-bewertung/woo,p]::2;[https://swiss-casino-now.com/casino-software/netent,p]::2;
+<zustanovení|[https://disneytermsofuse.com/czech,p]::1;
+<zusammenhang|[https://casino-now.at,h]::1;[https://casino-now.at/casino-bewertung/woo,p]::1;[https://casino-now.at/casino-software/netent,p]::1;
+<zusätzliches|[https://swiss-casino-now.com/casino-bewertung,h]::1;[https://swiss-casino-now.com/casino-bewertung/cookie,h]::1;[https://swiss-casino-now.com/casino-bewertung/spin-casino,p]::1;
+<zusätzlichen|[https://swiss-casino-now.com/casino-bewertung/woo-casino,s]::1;[https://swiss-casino-now.com/casino-bewertung/woo-casino,p]::1;
+<zusammenarbeiten|[https://swiss-casino-now.com/casino-bewertung/woo-casino,p]::2;[https://swiss-casino-now.com/casino-bewertung/spin-casino,p]::2;[https://swiss-casino-now.com/casino-software/netent,p]::3;
+<zuständig|[https://onlinecasino-now.de/casino-software/netent,p]::1;

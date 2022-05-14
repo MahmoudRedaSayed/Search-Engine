@@ -1,2 +1,9 @@
 <rhododendron|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;
-<rhode|[https://archive.org/about/bios.php,p]::1;[http://www.archive-it.org,p]::2;[https://www.everydayhealth.com/cancer/genetic-counseling-for-cancer-risk-just-as-effective-via-telehealth-and-more-cancer-news-from-ascos-annual-meeting,p]::1;
+<rhode|[https://archive.org/about/bios.php,p]::1;[http://www.archive-it.org,p]::2;[https://www.everydayhealth.com/cancer/genetic-counseling-for-cancer-risk-just-as-effective-via-telehealth-and-more-cancer-news-from-ascos-annual-meeting,p]::1;[https://www.dailymail.co.uk/sciencetech/spacex/index.html,h]::1;[http://ourpresidents.tumblr.com,p]::3;[https://www.nytimes.com/interactive/2021/us/covid-cases.html,h]::1;[https://www.nytimes.com/2022/05/09/opinion/taking-the-fight-for-safe-legal-abortion-to-the-states.html,p]::1;[https://www.nytimes.com/2022/05/09/arts/television/american-song-contest-final.html,p]::1;[https://www.nytimes.com/2022/05/06/well/mind/virtual-reality-therapy-seniors.html,p]::2;[http://projects.voanews.com/making-the-constitution,p]::1;
+<rhony|[https://www.dailymail.co.uk/dailymailtv/index.html,h]::2;
+<rhonys|[https://www.dailymail.co.uk/dailymailtv/index.html,h]::1;
+<rhoc|[https://www.dailymail.co.uk/dailymailtv/index.html,h]::1;
+<rhonda|[http://www.springshare.com,s]::1;[http://www.springshare.com,p]::1;
+<rhodes|[https://m.imdb.com/feature/bestpicture/?ref_=nv_ch_osc,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;[https://meded.hms.harvard.edu/meet-our-faculty,h]::1;
+<rhodium|[https://www.ebay.com/globaldeals/fashion/fashion-jewelry,h]::6;[https://www.ebay.com/globaldeals/fashion,h]::1;
+<rhombus|[https://icons8.com/free-animated-icons,p]::1;[https://www.geeksforgeeks.org/mensuration/?ref=ghm,p]::1;[https://www.geeksforgeeks.org/cbse-class-8-maths-notes/?ref=ghm,p]::1;[https://www.geeksforgeeks.org/ncert-solutions-for-class-8-maths/?ref=ghm,p]::1;[https://www.geeksforgeeks.org/rd-sharma-class-8-solutions-for-maths/?ref=ghm,p]::1;

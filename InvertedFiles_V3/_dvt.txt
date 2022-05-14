@@ -1,1 +1,1 @@
-<dvt|[https://www.everydayhealth.com/cancer/guide/cancer-symptoms,p]::2;
+<dvt|[https://www.everydayhealth.com/cancer/guide/cancer-symptoms,p]::2;[https://www.webmd.com,h]::1;

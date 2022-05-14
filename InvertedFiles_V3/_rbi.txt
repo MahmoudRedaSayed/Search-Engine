@@ -1,0 +1,2 @@
+<rbi|[http://bleacherreport.com/mlb,p]::1;
+<rbis|[https://www.chicagotribune.com/sports/cubs/ct-chicago-cubs-seiya-suzuki-20220508-brn6scutbjdelavtbfznpvrmsy-story.html#nt=related-content&rt=chartbeat-flt,p]::1;

@@ -3,10 +3,9 @@
 <klicken|[https://legal.twitter.com/imprint.html,p]::1;
 <kling|[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,h]::1;[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::3;
 <klinio|[https://apps.apple.com/us/app/t2d-healthline-diabetes/id1498858311,p]::1;
-<klimetschek|[https://web.archive.org/web/20081223151145/http:/www.infoq.com/articles/rest-anti-patterns,s]::1;[http://www.infoq.com/articles/rest-anti-patterns,s]::1;[https://web.archive.org/web/20081223151145/http:/www.infoq.com/articles/rest-anti-patterns,p]::1;[http://www.infoq.com/articles/rest-anti-patterns,p]::2;
-<klienta|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<klienten|[https://da.wikipedia.org/wiki/Cookie,p]::3;
-<klikket|[https://da.wikipedia.org/wiki/Cookie,p]::1;
+<klienten|[https://da.wikipedia.org/wiki/Cookie,p]::3;[https://disneytermsofuse.com/bahasa-indonesia,p]::1;[https://disneytermsofuse.com/bahasa-malaysia,p]::1;
+<klienta|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://disneytermsofuse.com/polish,p]::1;[https://kasyno-now.com,h]::2;[https://kasyno-now.com,p]::6;[https://kasyno-now.com/recenzja/woo,h]::1;[https://kasyno-now.com/recenzja/woo,s]::1;[https://kasyno-now.com/recenzja/woo,p]::2;
+<klikket|[https://da.wikipedia.org/wiki/Cookie,p]::1;[https://onlinecasino-now.nl,s]::1;
 <klientoj|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
 <klientowi|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
 <kliknuo|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
@@ -14,3 +13,12 @@
 <kliknutia|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
 <klizačem|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
 <kliknutím|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<klive|[https://www.bbc.com/aboutthebbc/whatwedo/publicservices/accessservices,p]::1;
+<klişe|[https://www.ugureskici.com/notlarim-makalelerim/marmara-isletme-soruyor-digital-marketing-paneli,p]::1;
+<klimt|[https://nautil.us/topics/arts,h]::1;
+<klientem|[https://disneytermsofuse.com/czech,p]::1;[https://disneytermsofuse.com/polish,p]::1;
+<klientów|[https://disneytermsofuse.com/polish,p]::1;[https://kasyno-now.com,p]::1;[https://kasyno-now.com/recenzja/woo,p]::1;
+<klinker|[http://preservearchives.tumblr.com,p]::5;
+<klinkers|[http://preservearchives.tumblr.com,p]::1;
+<klientom|[https://kasyno-now.com/recenzja/woo,p]::1;
+<klitschko|[https://www.nytimes.com/live/2022/05/09/world/ukraine-russia-war-news,p]::1;

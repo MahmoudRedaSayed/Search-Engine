@@ -1,2 +1,11 @@
 <wyraźnego|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<wyrażenia|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<wyrażenia|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://disneytermsofuse.com/polish,p]::1;
+<wyraźnej|[https://disneytermsofuse.com/polish,p]::2;
+<wyraźnie|[https://disneytermsofuse.com/polish,p]::1;
+<wyraża|[https://disneytermsofuse.com/polish,p]::3;
+<wyrażając|[https://disneytermsofuse.com/polish,p]::1;
+<wyroku|[https://disneytermsofuse.com/polish,p]::1;
+<wyróżniają|[https://kasyno-now.com,p]::2;[https://kasyno-now.com/recenzja/woo,p]::1;
+<wyróżnienie|[https://kasyno-now.com,p]::1;
+<wyróżniający|[https://kasyno-now.com,p]::1;
+<wyrażeń|[http://pl.talkenglish.com,p]::1;

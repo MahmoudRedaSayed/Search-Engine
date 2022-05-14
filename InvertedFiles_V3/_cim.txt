@@ -1,1 +1,4 @@
 <cimt|[https://www.asco.org,h]::2;
+<cima|[https://www.marca.com/futbol/resto-america.html?intcmp=MENUPROD&s_kw=?intcmp=MENUPROD&s_kw=futbol-mas-america,h]::1;
+<cimarron|[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,h]::1;
+<cimino|[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;

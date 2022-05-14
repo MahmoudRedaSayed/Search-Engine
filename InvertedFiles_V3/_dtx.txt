@@ -1,0 +1,10 @@
+<dtx|[https://www.marca.com/coches-y-motos.html?intcmp=MENUPROD&s_kw=marca-coches,h]::1;
+<dtxamodei|[https://www.congress.gov,p]::1;
+<dtxcawthorn|[https://www.congress.gov,p]::1;
+<dtxcurtis|[https://www.congress.gov,p]::1;
+<dtxdonalds|[https://www.congress.gov,p]::1;
+<dtxeshoo|[https://www.congress.gov,p]::1;
+<dtxfoster|[https://www.congress.gov,p]::1;
+<dtxgibbs|[https://www.congress.gov,p]::1;
+<dtxgonzálezcolón|[https://www.congress.gov,p]::1;
+<dtxgreen|[https://www.congress.gov,p]::1;

@@ -1,0 +1,2 @@
+<npm|[https://github.com,h]::1;
+<npmcli|[https://github.com,p]::1;

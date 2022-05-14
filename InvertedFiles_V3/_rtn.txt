@@ -1,0 +1,5 @@
+<rtnburgess|[https://www.congress.gov,p]::1;
+<rtndeutch|[https://www.congress.gov,p]::1;
+<rtnfletcher|[https://www.congress.gov,p]::1;
+<rtngreene|[https://www.congress.gov,p]::1;
+<rtnhartzler|[https://www.congress.gov,p]::1;

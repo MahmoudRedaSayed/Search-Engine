@@ -1,1 +1,1 @@
-<hcg|[https://www.everydayhealth.com/fertility/in-vitro-fertilization-other-infertility-treatments,p]::3;[https://www.cancer.org/cancer/ovarian-cancer/detection-diagnosis-staging/how-diagnosed.html,p]::1;
+<hcg|[https://www.everydayhealth.com/fertility/in-vitro-fertilization-other-infertility-treatments,p]::3;

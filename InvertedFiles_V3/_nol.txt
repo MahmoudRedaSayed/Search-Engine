@@ -1,2 +1,4 @@
 <nolabaiteko|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
-<nolan|[https://blog.openlibrary.org,p]::1;[https://blog.openlibrary.org/page/2,s]::1;[https://blog.openlibrary.org/2022/04/27/a-high-schoolers-experience-contributing-to-the-open-book-genome-project,p]::1;[https://blog.openlibrary.org/page/2,p]::2;
+<nolan|[https://blog.openlibrary.org,p]::1;[https://blog.openlibrary.org/page/2,s]::1;[https://blog.openlibrary.org/2022/04/27/a-high-schoolers-experience-contributing-to-the-open-book-genome-project,p]::1;[https://blog.openlibrary.org/page/2,p]::2;[https://nautil.us/topics/physics,p]::1;[https://www.englishclub.com/business-english/meetings.htm,p]::1;
+<nolasquez|[http://riversidearchives.tumblr.com,p]::1;
+<nolen|[https://meded.hms.harvard.edu/admissions-who-we-are,p]::1;[https://meded.hms.harvard.edu/meet-our-students,p]::1;[https://hms.harvard.edu/news/winds-change,p]::2;

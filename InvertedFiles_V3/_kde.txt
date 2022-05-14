@@ -1,1 +1,1 @@
-<kde|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<kde|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::2;[https://disneytermsofuse.com/czech,p]::2;

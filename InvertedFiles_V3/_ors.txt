@@ -1,2 +1,6 @@
 <orseronegative|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;
-<orsigns|[https://www.cancer.org/cancer/ovarian-cancer/detection-diagnosis-staging/how-diagnosed.html,p]::1;
+<ország|[https://disneytermsofuse.com/hungarian,p]::1;
+<országától|[https://disneytermsofuse.com/hungarian,p]::1;
+<országba|[https://disneytermsofuse.com/hungarian,p]::1;
+<országnak|[https://disneytermsofuse.com/hungarian,p]::1;
+<orsted|[https://whyy.org/articles/should-i-get-my-kids-the-covid-19-vaccine-booster,p]::1;

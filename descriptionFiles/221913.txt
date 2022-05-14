@@ -1,0 +1,1 @@
+pogo-sticking in bounce rate den farkı ilk 5 saniye içinde oluşmasıdır. eğer kullanıcı tek oturumluk bir ziyaret gerçekleştiriyor ve aradığını bulduktan sonra siteyi terkediyorsa bu davranış pogo sticking değildir.

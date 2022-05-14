@@ -1,1 +1,2 @@
 <fseek|[http://catb.org/jargon/html/M/magic-cookie.html,p]::1;
+<fseries|[https://www.foxnews.com/category/tech/topics/innovation,p]::1;

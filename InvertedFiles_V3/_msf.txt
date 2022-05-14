@@ -1,1 +1,1 @@
-<msfto|[https://www.reuters.com/article/microsoft-security-idUSN2517397120110525,p]::2;[https://web.archive.org/web/20110530020518/http:/www.reuters.com/article/2011/05/25/microsoft-security-idUSN2517397120110525,p]::1;
+<msfto|[https://www.reuters.com/article/microsoft-security-idUSN2517397120110525,p]::2;[https://web.archive.org/web/20110530020518/http:/www.reuters.com/article/2011/05/25/microsoft-security-idUSN2517397120110525,p]::1;[https://edaa.eu/blog-series-edaa-summit-2021-the-follow-up-questions-a-company-perspective-challenges-and-opportunities-of-tomorrow-2,p]::1;

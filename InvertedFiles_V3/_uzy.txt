@@ -1,0 +1,8 @@
+<uzyskuje|[https://disneytermsofuse.com/polish,p]::1;
+<uzyskiwania|[https://disneytermsofuse.com/polish,p]::4;
+<uzyskiwać|[https://disneytermsofuse.com/polish,p]::1;
+<uzyskiwanie|[https://disneytermsofuse.com/polish,p]::2;
+<uzyskania|[https://disneytermsofuse.com/polish,p]::7;[https://kasyno-now.com,p]::1;
+<uzyskać|[https://disneytermsofuse.com/polish,p]::1;[https://kasyno-now.com,p]::1;[https://kasyno-now.com/recenzja/woo,p]::1;
+<uzyskały|[https://kasyno-now.com,s]::1;[https://kasyno-now.com,p]::1;
+<uzyskanie|[https://kasyno-now.com,p]::2;[https://kasyno-now.com/recenzja/woo,p]::1;

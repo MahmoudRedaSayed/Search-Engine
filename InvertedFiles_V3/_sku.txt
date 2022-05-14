@@ -1,3 +1,8 @@
-<skullcinema|[https://en.wikipedia.org/w/index.php?title=HTTP_cookie&oldid=1085989394,p]::1;
+<skullcinema|[https://en.wikipedia.org/w/index.php?title=HTTP_cookie&oldid=1085989394,p]::1;[https://www.dailymail.co.uk/sport/golf/index.html,h]::1;[https://www.iflscience.com/space/going-to-space-changes-your-brain-but-new-research-says-it-s-not-permanent,p]::1;[https://australian.museum/learn/science/human-evolution/how-have-we-changed-since-our-species-first-appeared,p]::1;[https://www.bbc.com/future/article/20200702-the-helmets-that-can-keep-your-brain-safe,h]::1;[https://www.bbc.com/future/article/20200702-the-helmets-that-can-keep-your-brain-safe,p]::4;[https://nautil.us/triggering-the-bodys-defenses-to-fight-cancer-3-13118,p]::2;[https://nautil.us/how-we-learned-to-love-neanderthalsand-a-lot-of-other-hominids-too-11462,p]::1;[https://www.nytimes.com/2022/04/29/science/tiktaalik-fish-fossil-meme.html,p]::1;[http://www.eslgamesworld.com/members/games/printables/index.html,p]::1;[http://www.eslgamesworld.com/members/games/templates/index.html,p]::1;
 <skupina|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::3;
 <skupinou|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<skunky|[https://www.iflscience.com/chemistry,h]::1;
+<skulls|[https://www.iflscience.com/editors-blog,h]::1;[https://www.iflscience.com/editors-blog,p]::1;[https://australian.museum/learn/science/human-evolution/how-have-we-changed-since-our-species-first-appeared,p]::1;[https://www.bbc.com/future/article/20190709-has-humanity-reached-peak-intelligence,p]::1;[https://usfblogs.usfca.edu/biol100/2018/03/20/why-are-our-brains-shrinking,p]::1;[https://www.nytimes.com/2022/04/29/science/tiktaalik-fish-fossil-meme.html,p]::1;
+<skutkiem|[https://disneytermsofuse.com/polish,p]::1;
+<skutkować|[https://disneytermsofuse.com/polish,p]::1;[https://kasyno-now.com,p]::1;
+<skupić|[https://kasyno-now.com,s]::1;

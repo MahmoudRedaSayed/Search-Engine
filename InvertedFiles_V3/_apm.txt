@@ -1,0 +1,2 @@
+<apm|[https://www.ugureskici.com/page/8,p]::1;
+<apme|[https://www.hearst.com/newspapers,p]::4;

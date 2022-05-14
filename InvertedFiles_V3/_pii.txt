@@ -1,1 +1,3 @@
-<pii|[https://developers.google.com/assistant/console/policies/general-policies,p]::1;
+<pii|[https://developers.google.com/assistant/console/policies/general-policies,p]::1;[https://support.google.com/analytics/answer/6004245?hl=en,h]::1;[https://www.loc.gov/legal,p]::1;[https://www.cdc.gov/other/privacy.html,p]::2;
+<piinspired|[https://www.sciencenewsforstudents.org/article/lets-learn-about-pi,p]::1;
+<piirissä|[https://disneytermsofuse.com/finnish,p]::1;

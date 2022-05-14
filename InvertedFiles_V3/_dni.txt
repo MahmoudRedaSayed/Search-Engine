@@ -1,1 +1,4 @@
-<dnia|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<dnia|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://disneytermsofuse.com/polish,p]::10;[https://kasyno-now.com,p]::6;[https://kasyno-now.com/recenzja,p]::5;[https://kasyno-now.com/recenzja/woo,s]::1;[https://kasyno-now.com/recenzja/woo,p]::1;[https://m.imdb.com/chart/starmeter/?ref_=nv_cel_brn,p]::1;
+<dnipro|[https://www.bbc.co.uk/news/live/world-europe-61353374,p]::1;
+<dniu|[https://disneytermsofuse.com/polish,p]::1;
+<dniach|[https://disneytermsofuse.com/polish,p]::1;

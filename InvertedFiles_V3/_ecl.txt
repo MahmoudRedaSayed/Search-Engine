@@ -1,1 +1,9 @@
-<eclipse|[https://www.bbc.com/,h]::1;[https://www.tutorialspoint.com/spring/index.htm,p]::2;
+<eclipse|[https://www.bbc.com/,h]::1;[https://www.tutorialspoint.com/spring/index.htm,p]::2;[https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62017CC0040,p]::1;[https://www.dailymail.co.uk/sciencetech/nasa/index.html,h]::2;[https://kidskonnect.com/social-studies/stolen-generation,p]::1;[https://casino-now-canada.com/casino-bonus,p]::1;[https://m.imdb.com/chart/starmeter/?ref_=nv_cel_brn,p]::1;[https://www.foxnews.com/category/science/air-and-space,p]::1;[https://www.myenglishclub.com/members/TimNew,h]::1;[https://www.esl-lab.com/academic-english,p]::1;
+<eclieuc|[https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62017CC0040,p]::1;
+<eclampsia|[https://lifetickler.com/category/health,h]::1;[https://lifetickler.com/surviving-pre-eclampsia-twice,t]::1;[https://lifetickler.com/surviving-pre-eclampsia-twice,h]::2;[https://lifetickler.com/surviving-pre-eclampsia-twice,s]::1;[https://lifetickler.com/surviving-pre-eclampsia-twice,p]::4;
+<eclipsed|[https://lifetickler.com/category/society,p]::1;
+<eclipses|[https://en.wikipedia.org/wiki/Ephemeris,p]::1;
+<ecliptic|[https://neo.ssa.esa.int/-/2009-jf1-kicked-out-of-the-risk-list-top-ten-thanks-to-observation-re-measurements,p]::1;
+<eclypsis|[https://www.hearst.com/hearst-health,p]::1;
+<eclair|[https://casino-now-canada.com/reviews/cookie-casino,s]::1;
+<eclectic|[https://www.fredisalearns.com,p]::1;[https://www.nydailynews.com,p]::1;

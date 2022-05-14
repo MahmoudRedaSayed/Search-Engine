@@ -1,1 +1,0 @@
-despite all the attention they ve received in the debates around online privacy, cookies are far from the only way to track a user. broadly speaking, a website can either stash a unique identifier anyplace in the browser ( tagging )1 or explore

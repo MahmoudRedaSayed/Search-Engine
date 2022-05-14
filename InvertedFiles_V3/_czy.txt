@@ -1,1 +1,12 @@
-<czyli|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::8;
+<czyli|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::8;[https://disneytermsofuse.com/polish,p]::9;[https://kasyno-now.com,h]::5;[https://kasyno-now.com,s]::1;[https://kasyno-now.com,p]::8;[https://kasyno-now.com/recenzja/woo,h]::1;[https://kasyno-now.com/recenzja/woo,p]::3;
+<czynności|[https://disneytermsofuse.com/polish,p]::2;
+<czytelnej|[https://disneytermsofuse.com/polish,p]::1;
+<czynnikami|[https://disneytermsofuse.com/polish,p]::1;
+<czym|[https://disneytermsofuse.com/polish,p]::5;[https://kasyno-now.com/recenzja,p]::1;[https://kasyno-now.com/recenzja/woo,p]::2;
+<czynu|[https://disneytermsofuse.com/polish,p]::1;
+<czytaj|[https://kasyno-now.com,s]::1;
+<czytania|[https://kasyno-now.com,p]::1;[https://kasyno-now.com/recenzja/woo,p]::1;
+<czyni|[https://kasyno-now.com,p]::1;
+<czynników|[https://kasyno-now.com,p]::1;
+<czytelnikom|[https://kasyno-now.com/recenzja,p]::2;[https://kasyno-now.com/recenzja/woo,p]::2;
+<czytelników|[https://kasyno-now.com/recenzja,p]::2;[https://kasyno-now.com/recenzja/woo,p]::2;

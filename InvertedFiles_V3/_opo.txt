@@ -1,1 +1,7 @@
-<oportunidade|[https://24x7mag.com/professional-development/education/the-cookie-that-would-not-crumble,p]::1;
+<oportunidade|[https://24x7mag.com/professional-development/education/the-cookie-that-would-not-crumble,p]::1;[https://www.marca.com/tiramillas/television/2022/05/09/6278df5e22601dae538b45cf.html,p]::1;[https://www.marca.com/ultimas-noticias.html?intcmp=MENUDEST&s_kw=ultimas-noticias,h]::1;[https://www.marca.com/futbol/primera-division.html?intcmp=MENUPROD&s_kw=primera-division,h]::1;[https://www.marca.com/triatlon.html?intcmp=MENUPROD&s_kw=triatlon?intcmp=MENUPROD&s_kw=triatlon,h]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/community/health-equity/index.html,p]::1;
+<oporto|[https://www.marca.com/futbol/futbol-internacional.html?intcmp=MENUMIGA&s_kw=futbol-internacional,h]::2;[https://www.marca.com/futbol/futbol-internacional.html?intcmp=MENUPROD&s_kw=futbol-internacional,h]::2;[https://www.marca.com/futbol/premier-league.html?intcmp=MENUPROD&s_kw=premier-league,h]::1;[https://www.marca.com/futbol/liga-portuguesa.html?intcmp=MENUPROD&s_kw=primeira-liga-portugal,h]::16;[https://www.marca.com/futbol/liga-portuguesa.html?intcmp=MENUPROD&s_kw=primeira-liga-portugal,s]::1;
+<oportosporting|[https://www.marca.com/futbol/liga-portuguesa.html?intcmp=MENUPROD&s_kw=primeira-liga-portugal,h]::1;
+<oposición|[https://www.marca.com/futbol/argentina.html?intcmp=MENUPROD&s_kw=futbol-argentina,h]::1;
+<oportunidades|[https://www.marca.com/paralimpicos.html?intcmp=MENUPROD&s_kw=paralimpicos,h]::1;
+<opozabilă|[https://disneytermsofuse.com/romanian,p]::1;
+<oportuna|[https://espanol.cdc.gov,p]::1;

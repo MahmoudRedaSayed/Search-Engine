@@ -1,0 +1,1 @@
+<bpa|[https://edaa.eu/what-we-do,p]::1;[https://edaa.eu/certification-providers,h]::1;[https://edaa.eu/certification-providers,s]::1;[https://edaa.eu/certification-providers,p]::8;[https://edaa.eu/news-and-resources/multimedia,p]::3;[https://edaa.eu/faq,s]::1;

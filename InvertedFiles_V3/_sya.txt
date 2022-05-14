@@ -1,0 +1,2 @@
+<syaratsyarat|[https://disneytermsofuse.com/bahasa-indonesia,p]::3;[https://disneytermsofuse.com/bahasa-malaysia,p]::10;
+<syarikat|[https://disneytermsofuse.com/bahasa-malaysia,p]::12;

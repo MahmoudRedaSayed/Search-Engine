@@ -1,6 +1,0 @@
-the read-only sessionstorage
-  property accesses a session storage object for the current
-  origin. sessionstorage is similar to
-  localstorage; the difference is that while data
-  in localstorage doesn t expire, data in sessionstorage is
-  cleared when the page session ends.

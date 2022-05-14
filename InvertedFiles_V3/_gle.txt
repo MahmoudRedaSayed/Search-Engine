@@ -1,3 +1,13 @@
-<glens|[https://www.countrylivingholidays.com/?utm_source=hearstmagazines&utm_medium=referral&utm_campaign=hearst-holidays&utm_term=clv&utm_content=nav-bar,p]::1;
-<gleamingly|[https://www.lennyletter.com/story/cobie-smulders-journey-through-cancer-and-back,p]::1;
-<glean|[https://blog.openlibrary.org/page/2,p]::1;
+<glens|[https://www.countrylivingholidays.com/?utm_source=hearstmagazines&utm_medium=referral&utm_campaign=hearst-holidays&utm_term=clv&utm_content=nav-bar,p]::1;[https://www.hearst.com/newspapers,p]::1;[http://blogs.archives.gov/blackhistoryblog,p]::1;[https://www.foxnews.com/category/entertainment/music,p]::1;[https://www.foxnews.com/category/entertainment/movies,p]::1;
+<gleamingly|[https://www.lennyletter.com/story/cobie-smulders-journey-through-cancer-and-back,p]::1;[https://nautil.us/topics/geoscience,h]::1;
+<glean|[https://blog.openlibrary.org/page/2,p]::1;[https://postgraduateeducation.hms.harvard.edu/trends-medicine,h]::1;
+<gleyber|[http://bleacherreport.com/mlb,h]::1;[https://www.foxnews.com/sports,p]::2;
+<glenn|[https://www.dailymail.co.uk/tvshowbiz/kim_kardashian/index.html,h]::1;[https://www.dailymail.co.uk/sciencetech/blue-origin/index.html,h]::2;[https://www.nationalgeographic.com/pages/article/masthead,p]::1;[https://www.congress.gov,p]::1;[https://www.nytimes.com/2022/05/05/podcasts/still-processing-fatal-attraction-erotic-thrillers.html,p]::9;
+<gleaned|[https://lifetickler.com/online-banking-smartphone,p]::1;[https://lifetickler.com/how-forex-works-and-why-you-should-start-trading-now,p]::1;[https://www.sciencenewsforstudents.org/topic/computing,p]::1;[https://historyhub.history.gov/community/crowd-loc/blog?start=15,p]::1;
+<glendale|[https://ngmintlsubs.nationalgeographic.co.uk/solo/ContentPage?pagename=Important-customer-alerts,p]::1;[https://www.imdb.com/search/name/?match_all=true&ref_=nv_cel_m,p]::1;
+<glenwood|[https://www.mayoclinichealthsystem.org/covid-19-vaccine,s]::1;[https://www.baltimoresun.com,p]::1;
+<gleich|[https://casino-now.at/casino-bewertung,p]::1;[https://casino-now.at/casino-software/netent,p]::1;[https://onlinecasino-now.de/casino-software/netent,p]::1;
+<glenelg|[https://kids.kiddle.co/History_of_Australia,p]::1;
+<glenrowan|[https://kids.kiddle.co/History_of_Australia,p]::4;
+<gleefully|[https://library.stanford.edu/all/?q=british%20history&op=Search,p]::1;
+<gleason|[https://www.nytimes.com/live/2022/05/09/us/midterms-primary-elections-nebraska,p]::2;

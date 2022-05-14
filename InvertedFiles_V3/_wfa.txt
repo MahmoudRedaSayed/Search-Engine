@@ -1,0 +1,2 @@
+<wfa|[https://edaa.eu/who-we-are/our-board,p]::2;[https://eaca.eu,h]::1;[https://www.wfanet.org,h]::11;[https://www.wfanet.org,p]::6;[https://www.foxnews.com/politics/biden-condemns-molotov-cocktail-attack-wisconsin-anti-abortion-group,p]::2;
+<wfas|[https://edaa.eu/who-we-are/our-board,p]::1;[https://edaa.eu/news-and-resources/multimedia,h]::1;[https://www.wfanet.org,p]::1;

@@ -1,1 +1,3 @@
 <nwsuite|[https://www.fightcancer.org,p]::1;
+<nwss|[https://www.whitehouse.gov/covidplan,p]::1;
+<nwsa|[https://www.nps.gov/articles/massachusetts-and-the-19th-amendment.htm,p]::1;

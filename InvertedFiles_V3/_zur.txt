@@ -1,1 +1,3 @@
-<zur|[https://legal.twitter.com/imprint.html,p]::1;
+<zur|[https://legal.twitter.com/imprint.html,p]::1;[https://www.cnnmoney.ch,h]::1;[https://disneytermsofuse.com/german,p]::1;[https://onlinecasino-now.de,h]::1;[https://onlinecasino-now.de/casino-bewertung,p]::1;[https://casino-now.at/casino-bewertung/woo,p]::4;[https://swiss-casino-now.com/casino-bewertung/spin-casino,p]::1;[https://swiss-casino-now.com/casino-software/netent,p]::1;[https://casino-now.at/casino-software/netent,p]::2;[https://onlinecasino-now.de/casino-software/netent,s]::1;[https://onlinecasino-now.de/casino-software/netent,p]::3;[https://icons8.de/animated-icons,p]::1;
+<zurich|[https://www.marca.com/atletismo.html?intcmp=MENUPROD&s_kw=atletismo,h]::1;
+<zurück|[https://swiss-casino-now.com/casino-software/netent,p]::1;

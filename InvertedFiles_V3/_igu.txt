@@ -1,1 +1,7 @@
-<igual|[https://24x7mag.com/professional-development/education/the-cookie-that-would-not-crumble,p]::1;[https://www.cancer.org/es,p]::1;
+<igual|[https://24x7mag.com/professional-development/education/the-cookie-that-would-not-crumble,p]::1;[https://www.marca.com/futbol/premier-league.html?intcmp=MENUPROD&s_kw=premier-league,h]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/vaccines/expect/after.html,p]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/testing/serology-overview.html,s]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/testing/serology-overview.html,p]::1;[https://www.nytimes.com/es,p]::1;
+<iguazús|[http://www.mailtravel.co.uk/?utm_source=mailonline&utm_medium=referral&utm_campaign=mol-nav&utm_content=top-navbar&mailonline=top-navbar,p]::1;
+<igualar|[https://www.marca.com/baloncesto.html?intcmp=MENUPROD&s_kw=baloncesto,h]::2;[https://www.marca.com/futbol/premios-marca.html,h]::2;[https://www.marca.com/futbol/liga-portuguesa.html?intcmp=MENUPROD&s_kw=primeira-liga-portugal,h]::2;
+<igualado|[https://www.marca.com/futbol/supercopa-europa.html?intcmp=MENUPROD&s_kw=supercopa-europa,h]::1;
+<igualdad|[https://www.marca.com/paralimpicos.html?intcmp=MENUPROD&s_kw=paralimpicos,h]::1;
+<igus|[https://dkplus.digikey.com/fulfilledbydigikey,p]::1;
+<iguana|[https://kidskonnect.com/social-studies/stolen-generation,p]::1;[https://www.english-4kids.com/grammarsheets.html,s]::1;[https://eslkidslab.com/flashcards/index.html,s]::5;[https://eslgamesworld.com/members/games/ClassroomGames/index.html,s]::1;

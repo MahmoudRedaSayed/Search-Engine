@@ -1,0 +1,3 @@
+<ugyanilyen|[https://disneytermsofuse.com/hungarian,p]::1;
+<ugyanakkor|[https://disneytermsofuse.com/hungarian,p]::1;
+<ugyanazt|[https://disneytermsofuse.com/hungarian,p]::1;

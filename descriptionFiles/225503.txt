@@ -1,0 +1,1 @@
+zagros artificial intelligence raspberry pi kit contains everything needed to create an ai assistant with raspberry pi.

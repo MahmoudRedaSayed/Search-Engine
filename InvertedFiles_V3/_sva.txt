@@ -1,6 +1,11 @@
 <sva|[http://www.archive-it.org,p]::1;
-<svariati|[https://it.wikipedia.org/wiki/Cookie,p]::1;
 <svarbias|[https://lt.wikipedia.org/wiki/Slapukas,p]::1;
 <svaki|[https://sh.wikipedia.org/wiki/Cookie,p]::2;
 <svakim|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
 <svako|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<svante|[https://nautil.us/how-we-learned-to-love-neanderthalsand-a-lot-of-other-hominids-too-11462,p]::1;
+<svarta|[https://onlinecasino-now.se,p]::3;
+<svartlistade|[https://onlinecasino-now.se,p]::2;
+<svariati|[https://it.swiss-casino-now.com/recensioni,p]::1;
+<svalbard•|[https://commons.wikimedia.org/wiki/Atlas_of_Australia,p]::1;
+<svantaggi|[https://casino-now.it/recensioni/woo,p]::1;

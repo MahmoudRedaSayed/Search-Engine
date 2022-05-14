@@ -1,1 +1,2 @@
 <rfp|[https://www.cisco.com/c/en/us/support/docs/security/web-security-appliance/117925-technote-csc-00.html,p]::1;
+<rfps|[https://www.smchealth.org/coronavirus,h]::1;

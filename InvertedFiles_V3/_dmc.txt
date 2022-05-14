@@ -1,2 +1,7 @@
-<dmca|[https://www.youtube.com/about/copyright,p]::3;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::5;
+<dmca|[https://www.youtube.com/about/copyright,p]::3;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::5;[https://www.iflscience.com/terms-of-use,s]::1;[https://disneytermsofuse.com/arabic,p]::1;[https://disneytermsofuse.com/bulgarian,p]::2;[https://disneytermsofuse.com/bahasa-malaysia,p]::2;[https://disneytermsofuse.com/chinese-traditional-hong-kong,p]::1;[https://disneytermsofuse.com/finnish,p]::1;[https://disneytermsofuse.com/hebrew,p]::1;[https://disneytermsofuse.com/greek,p]::2;[https://disneytermsofuse.com/hindi,p]::1;[https://disneytermsofuse.com/hungarian,p]::2;[https://www.reddit.com/help/useragreement,s]::2;[https://disneytermsofuse.com/polish,p]::1;[https://disneytermsofuse.com/russian,p]::1;[http://www.virtualmuseum.ca/virtual-exhibits/type/virtual-exhibits,p]::3;[https://www.harvard.edu/copyright-issue,p]::1;[https://onlinelearning.hms.harvard.edu/hmx/terms-of-service,p]::1;[https://www.foxnews.com/terms-of-use,p]::1;[https://icons8.com/terms-and-conditions,p]::1;[https://www.tribpub.com/central-terms-of-service,p]::1;
 <dmcaeverydayhealthinccom|[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;
+<dmcan|[https://disneytermsofuse.com/finnish,p]::1;
+<dmca또는|[https://disneytermsofuse.com/korean,p]::1;
+<dmca에서|[https://disneytermsofuse.com/korean,p]::1;
+<dmcfunded|[http://www.virtualmuseum.ca/virtual-exhibits/type/virtual-exhibits,p]::1;
+<dmcaharvardedu|[https://www.harvard.edu/copyright-issue,p]::1;

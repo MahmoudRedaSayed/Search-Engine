@@ -1,0 +1,1 @@
+demo the only provider data management solution with functionality for credentialing, privileging, enrollment, directory management, licensure application, and reporting. 

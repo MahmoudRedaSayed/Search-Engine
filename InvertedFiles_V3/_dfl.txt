@@ -1,0 +1,6 @@
+<dflcastro|[https://www.congress.gov,p]::1;
+<dflchu|[https://www.congress.gov,p]::1;
+<dflcrow|[https://www.congress.gov,p]::1;
+<dfldesjarlais|[https://www.congress.gov,p]::1;
+<dfldiazbalart|[https://www.congress.gov,p]::1;
+<dflfranklin|[https://www.congress.gov,p]::1;

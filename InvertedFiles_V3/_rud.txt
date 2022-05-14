@@ -1,2 +1,10 @@
 <rudra|[https://www.tutorialspoint.com/categories/it_and_software,p]::1;
-<rudimentale|[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<rudiger|[https://www.dailymail.co.uk/sport/fa_cup/index.html,h]::1;[https://www.marca.com/futbol/mundial-de-clubes.html?intcmp=MENUPROD&s_kw=mundial-de-clubes,h]::1;
+<rudigers|[https://www.dailymail.co.uk/sport/premierleague/index.html,h]::1;
+<rudolf|[https://nautil.us/spark,h]::1;[https://nautil.us/topics/neuroscience,h]::2;
+<rudd|[https://skyaccessibility.sky,s]::1;[https://skyaccessibility.sky,p]::1;
+<rudimentary|[https://nautil.us/why-ai-needs-a-genome-2-13438,p]::1;
+<ruder|[https://casino-now.at/casino-bewertung/woo,p]::1;[https://www.foxnews.com/category/news-events/fox-news-investigates,p]::1;
+<rudy|[https://www.history.com/topics/21st-century,h]::1;
+<ruderman|[https://www.nytimes.com/interactive/2021/us/covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/us/missouri-covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/world/covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2020/us/covid-19-vaccine-doses.html,p]::1;[https://www.nytimes.com/interactive/2021/us/utah-covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/us/maine-covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/us/hawaii-covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/us/covid-cases-deaths-tracker.html,p]::1;
+<rudeness|[https://www.nps.gov/people/elizabeth-cady-stanton.htm,p]::1;

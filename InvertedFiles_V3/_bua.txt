@@ -1,1 +1,2 @@
-<buat|[https://console.actions.google.com?hl=id,p]::1;
+<buat|[https://console.actions.google.com?hl=id,p]::1;[https://disneytermsofuse.com/bahasa-malaysia,p]::1;
+<buasri|[https://www.marca.com/motor.html?intcmp=MENUPROD&s_kw=motor,h]::1;

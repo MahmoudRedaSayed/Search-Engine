@@ -1,1 +1,1 @@
-<cygwin|[https://www.tutorialspoint.com/cplusplus/index.htm,p]::1;
+<cygwin|[https://www.tutorialspoint.com/cplusplus/index.htm,p]::1;[https://support.google.com/googleplay/?p=about_play,p]::1;

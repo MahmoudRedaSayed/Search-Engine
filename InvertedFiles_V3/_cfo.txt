@@ -1,0 +1,2 @@
+<cfo|[https://www.dmgmedia.co.uk/about/dmg-media-leadership,p]::2;[https://www.symplr.com/leadership,p]::2;
+<cfocoo|[https://www.hearst.com/magazines,p]::1;

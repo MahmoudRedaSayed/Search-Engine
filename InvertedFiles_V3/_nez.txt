@@ -1,7 +1,10 @@
-<neznamenají|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<nezobrazuje|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;
 <nezapisujú|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
 <nezmenené|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
 <neznamenajú|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
 <nezabezpečenú|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
 <nezakázal|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<nezdinde|[https://www.ugureskici.com/notlarim-makalelerim/projelerimizi-nasil-yonetsek,p]::1;
+<nezákonným|[https://disneytermsofuse.com/czech,p]::1;
+<nezbytná|[https://disneytermsofuse.com/czech,p]::1;
+<nezkreslíte|[https://disneytermsofuse.com/czech,p]::1;
+<nezrušíte|[https://disneytermsofuse.com/czech,p]::1;

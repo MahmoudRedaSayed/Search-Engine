@@ -1,4 +1,6 @@
-<uspopulation|[https://www.cancer.gov/about-cancer/understanding/statistics,p]::1;
+<uspopulation|[https://www.cancer.gov/about-cancer/understanding/statistics,p]::1;[https://www.foxnews.com/lifestyle/mothers-day-protests-pro-abortion-activists-brokenness,s]::1;[https://www.foxnews.com/lifestyle/mothers-day-protests-pro-abortion-activists-brokenness,p]::1;[https://www.ebay.com/globaldeals/fashion,h]::1;
 <usplease|[https://twitter.com/privacy,p]::1;
-<uspstf|[https://www.everydayhealth.com/colon-cancer,p]::2;[https://www.everydayhealth.com/womens-health/hormones/history-hormone-therapy,p]::1;[https://www.everydayhealth.com/ovarian-cancer/genetic-testing,p]::2;[https://www.everydayhealth.com/hysterectomy/recovery-from-abdominal-hysterectomy-takes-time-patience,p]::1;[https://www.everydayhealth.com/hysterectomy/guide,p]::1;
+<uspstf|[https://www.everydayhealth.com/colon-cancer,p]::2;[https://www.everydayhealth.com/womens-health/hormones/history-hormone-therapy,p]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/testing/self-testing.html,p]::1;[https://community.ebay.com/t5/Announcements/bg-p/Announcements,h]::2;[https://community.ebay.com/t5/Announcements/bg-p/Announcements,p]::3;[https://www.zagrosrobotics.com/shop/custom.aspx?recid=72,p]::6;
 <uspješno|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<usphotograph|[https://nautil.us/topics/philosophy,p]::1;
+<uspd|[https://www.amazon.science/blog/the-science-behind-ultrasonic-motion-sensing-for-echo,p]::3;

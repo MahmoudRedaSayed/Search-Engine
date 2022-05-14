@@ -1,2 +1,7 @@
-<umieszczone|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<umieszczone|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://ask.loc.gov/faq/300086,p]::4;
 <umiestneným|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::2;
+<umiddelbar|[https://disneytermsofuse.com/danish,p]::1;
+<umieszczenia|[https://disneytermsofuse.com/polish,p]::1;
+<umieszczanie|[https://disneytermsofuse.com/polish,p]::1;
+<umiejętności|[https://disneytermsofuse.com/polish,p]::1;
+<umin|[https://www.ebay.com/globaldeals/tech/memory-drives-storage,h]::1;

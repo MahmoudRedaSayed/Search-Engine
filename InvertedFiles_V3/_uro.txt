@@ -1,5 +1,6 @@
 <urothelium|[https://www.cancer.gov/about-cancer/understanding/what-is-cancer,p]::1;
-<urology|[https://www.everydayhealth.com/menopause/health-risks-women-face-after-menopause,p]::1;
-<urogynecologic|[https://www.everydayhealth.com/hysterectomy/guide,s]::1;[https://www.everydayhealth.com/hysterectomy/guide,p]::1;
-<urologists|[https://www.everydayhealth.com/ovarian-cancer/with-ovarian-cancer-early-detection-is-key-so-why-is-it-so-hard,p]::2;
+<urology|[https://www.everydayhealth.com/menopause/health-risks-women-face-after-menopause,p]::1;[https://www.mayoclinic.org/medical-professionals/publications,h]::1;[http://medprofvideos.mayoclinic.org,p]::1;[https://www.mayoclinic.org/medical-professionals/publications,p]::1;[https://www.nytimes.com/2022/05/05/health/covid-impotence-erectile-dysfunction.html,p]::2;[https://www.nytimes.com/article/birth-control-options.html,p]::1;
+<urogynecologic|[https://www.everydayhealth.com/hysterectomy/guide,s]::1;
+<urologists|[https://www.everydayhealth.com/ovarian-cancer/with-ovarian-cancer-early-detection-is-key-so-why-is-it-so-hard,p]::2;[https://www.nytimes.com/2022/05/05/health/covid-impotence-erectile-dysfunction.html,p]::1;
 <urobil|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<urologic|[https://www.mayoclinic.org/medical-professionals/publications,p]::1;

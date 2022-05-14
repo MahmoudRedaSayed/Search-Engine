@@ -1,1 +1,2 @@
-<akomolafe|[https://www.tutorialspoint.com/categories/development,p]::1;[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::21;[https://sh.wikipedia.org/wiki/Cookie,p]::3;
+<akomolafe|[https://www.tutorialspoint.com/categories/development,p]::1;[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::21;[https://sh.wikipedia.org/wiki/Cookie,p]::3;[http://www.enable-javascript.com/hr,h]::1;[http://www.enable-javascript.com/hr,p]::2;
+<akopyan|[https://www.marca.com/paralimpicos.html?intcmp=MENUPROD&s_kw=paralimpicos,h]::1;

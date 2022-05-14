@@ -1,0 +1,3 @@
+<jutva|[https://disneytermsofuse.com/hungarian,p]::1;[https://www.nytimes.com/2022/05/08/opinion/mask-mandate-over.html,p]::1;
+<jutott|[https://disneytermsofuse.com/hungarian,p]::1;
+<juts|[https://www.nytimes.com/2022/05/07/world/middleeast/tunisia-democracy-economy.html,p]::1;

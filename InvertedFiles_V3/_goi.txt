@@ -1,2 +1,3 @@
-<goicoechea|[https://www.marca.com,h]::1;
+<goicoechea|[https://www.marca.com,h]::1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]::1;[https://www.marca.com?intcmp=MENUMIGA&s_kw=home,h]::1;
 <going…|[https://www.healthline.com/fitness,p]::1;
+<goingforward|[https://www.nytimes.com/subscription?campaignId=37WXW,p]::2;

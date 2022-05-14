@@ -1,1 +1,3 @@
 <kew|[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,h]::1;[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::1;
+<kewajiban|[https://disneytermsofuse.com/bahasa-indonesia,p]::2;
+<kewangan|[https://disneytermsofuse.com/bahasa-malaysia,p]::1;

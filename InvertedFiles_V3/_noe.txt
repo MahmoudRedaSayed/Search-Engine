@@ -1,2 +1,6 @@
-<noecho|[http://edbrowse.org/usersguide.html#cook,p]::1;[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,h]::1;[https://no.wikipedia.org/wiki/Informasjonskapsel,p]::2;
-<noen|[https://no.wikipedia.org/wiki/Informasjonskapsel,p]::1;
+<noe|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,h]::1;[https://no.wikipedia.org/wiki/Informasjonskapsel,p]::2;[https://disneytermsofuse.com/norwegian,p]::6;
+<noen|[https://no.wikipedia.org/wiki/Informasjonskapsel,p]::1;[https://disneytermsofuse.com/norwegian,p]::20;[https://norskcasino-now.com/anmeldelser,p]::3;
+<noenickx|[http://bbc.in/1JY27sX,p]::1;
+<noel|[https://www.ugureskici.com/internet-dunyasi,p]::1;[https://www.marca.com/juegos-olimpicos-invierno.html?intcmp=MENUPROD&s_kw=juegos-olimpicos-invierno,h]::1;[https://kids.kiddle.co/History_of_Australia,p]::1;[https://www.foxnews.com/category/world/global-economy,p]::1;
+<noexit|[https://www.foxmovies.com,p]::1;
+<noemen|[https://onlinecasino-now.nl,s]::1;

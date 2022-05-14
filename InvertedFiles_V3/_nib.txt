@@ -1,2 +1,2 @@
-<nib|[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;
-<nibbles|[https://www.everydayhealth.com/mediterranean-diet/guide,p]::1;[https://www.everydayhealth.com/cancer/8-ways-fight-fatigue-chemotherapy-treatment,p]::1;
+<nib|[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;[https://nautil.us/topics/evolution,p]::1;[https://www.ebay.com/globaldeals/more,h]::1;[https://www.ebay.com/globaldeals/more/collectibles,h]::3;
+<nibbles|[https://www.everydayhealth.com/mediterranean-diet/guide,p]::1;[https://www.everydayhealth.com/cancer/8-ways-fight-fatigue-chemotherapy-treatment,p]::1;[http://www.download-esl.com/tonguetwisters/easy/easytongue.html,p]::4;

@@ -1,0 +1,6 @@
+<ebu|[https://www.bbc.co.uk/rd/topics/accessibility,p]::1;
+<ebutt|[https://bbc.github.io/subtitle-guidelines,h]::2;[https://bbc.github.io/subtitle-guidelines,p]::6;
+<ebuttmdocumentmetadata|[https://bbc.github.io/subtitle-guidelines,h]::2;
+<ebuttd|[https://bbc.github.io/subtitle-guidelines,h]::4;[https://bbc.github.io/subtitle-guidelines,p]::7;
+<ebuttmbinarydata|[https://bbc.github.io/subtitle-guidelines,s]::1;
+<ebuttsmultirowalign|[https://bbc.github.io/subtitle-guidelines,p]::1;

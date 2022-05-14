@@ -2,3 +2,4 @@
 <lycomingedu|[http://www.archive-it.org,p]::1;
 <lycos|[https://www.tutorialspoint.com/computer_glossary.htm,p]::1;
 <lycopene|[https://www.everydayhealth.com/cancer-photos/top-foods-to-fight-cancer.aspx,p]::2;
+<lycra|[https://www.sky.com/glass/smart-camera,p]::1;

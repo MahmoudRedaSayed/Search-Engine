@@ -1,2 +1,4 @@
 <fyzických|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<fyzického|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<fyzického|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://disneytermsofuse.com/czech,p]::4;
+<fyzickou|[https://disneytermsofuse.com/czech,p]::2;
+<fyzická|[https://disneytermsofuse.com/czech,p]::1;

@@ -1,1 +1,2 @@
-<bovenaan|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;
+<bovenstaande|[https://onlinecasino-now.nl,s]::1;[https://onlinecasino-now.nl,p]::2;
+<bovendien|[https://onlinecasino-now.nl,p]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::1;

@@ -1,6 +1,12 @@
-<unmissable|[https://www.hearstmagazines.co.uk/good-housekeeping-magazine-subscription,p]::1;
-<unmet|[https://www.everydayhealth.com/cancer/fda-approves-pacritinib-for-treatment-of-myelofibrosis,p]::1;[https://www.commonweal.org/program/cchp,p]::1;[https://www.everydayhealth.com/fertility,h]::1;
+<unmissable|[https://www.hearstmagazines.co.uk/good-housekeeping-magazine-subscription,p]::1;[https://www.bbc.co.uk/sounds,h]::1;[https://www.bbc.com/travel/article/20220508-livorno-tuscanys-unattractive-unmissable-town,t]::1;[http://meteorite.unm.edu/meteorites/meteorite-museum/new-mexico-meteorites,p]::1;[https://www.sky.com/watch,h]::1;[https://sky.com/tvandbroadband,p]::1;[https://www.loc.gov/concerts,p]::1;
+<unmet|[https://www.everydayhealth.com/cancer/fda-approves-pacritinib-for-treatment-of-myelofibrosis,p]::1;[https://www.commonweal.org/program/cchp,p]::1;[https://www.everydayhealth.com/fertility,h]::1;[https://www.ofcom.org.uk/research-and-data/multi-sector-research/accessibility-research,p]::1;[https://www.sciencenewsforstudents.org/article/stormwater-ponds-climate-warming-gases,p]::1;[https://www.sciencenewsforstudents.org/article/lets-learn-about-pi,p]::1;[https://college.mayo.edu,p]::1;[https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-care/post-covid-science.html,p]::1;
 <unmoderated|[https://www.tutorialspoint.com/computer_glossary.htm,p]::1;
-<unmarried|[https://www.healthline.com/health/mental-health/discovering-gender-identity-in-isolation,p]::1;
-<unmarked|[https://www.apple.com/us/shop/goto/help/sales_refunds,p]::1;
-<unmatched|[https://www.hearst.co.uk/solutions/experiential,p]::1;
+<unmarried|[https://www.healthline.com/health/mental-health/discovering-gender-identity-in-isolation,p]::1;[http://philadelphiaencyclopedia.org/archive/philadelphia-and-its-people-in-maps-the-1790s,p]::3;
+<unmatched|[https://www.hearst.co.uk/solutions/experiential,p]::1;[https://casino-now-canada.com/online-casino-software,p]::1;[https://www.nytimes.com/2022/05/03/business/economy/pandemic-supply-chains-inflation.html,p]::1;[https://www.foxnews.com/category/us/crime,p]::1;[https://meded.hms.harvard.edu/teaching-awards,p]::1;[https://icons8.com/emoji,p]::1;
+<unmanned|[https://www.dailymail.co.uk/sciencetech/spacex/index.html,h]::1;[https://www.dailymail.co.uk/sciencetech/nasa/index.html,h]::1;[https://www.hearst.com/ventures,p]::1;
+<unmoving|[https://www.sciencenewsforstudents.org/article/lets-learn-about-pi,p]::1;
+<unmasked|[https://www.nytimes.com/section/todayspaper,h]::1;[https://www.nytimes.com/ca/?action=click&region=Footer&pgtype=Homepage,h]::1;[https://www.nytimes.com/2022/05/08/opinion/mask-mandate-over.html,t]::1;[https://www.nytimes.com/2022/05/08/opinion/mask-mandate-over.html,h]::1;[https://www.nytimes.com/international/?action=click&region=Footer&pgtype=Homepage,h]::1;
+<unmarked|[https://www.nytimes.com/2022/05/09/upshot/abortion-pills-medication-roe-v-wade.html,p]::1;
+<unmoor|[https://www.nytimes.com/live/2022/05/09/business/economy-news-stocks-inflation,p]::1;
+<unmistakable|[https://www.nytimes.com/2022/05/08/opinion/tiktok-twitter-china-bytedance.html,p]::1;
+<unmatchable|[https://www.geeksforgeeks.org/campus-geek-of-the-month/?ref=ghm,p]::1;

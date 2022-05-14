@@ -1,2 +1,3 @@
-<ook|[https://hearst.nl,p]::1;[https://af.wikipedia.org/wiki/Koekie_(rekenaarwetenskap),p]::1;[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::4;
+<ook|[https://hearst.nl,p]::1;[https://onlinecasino-now.nl,s]::4;[https://onlinecasino-now.nl,p]::6;[https://casino-now.be,s]::1;[https://casino-now.be,p]::10;[https://onlinecasino-now.nl/casino-reviews,s]::6;[https://onlinecasino-now.nl/casino-reviews,p]::2;[https://onlinecasino-now.nl/casino-reviews/playamo,s]::1;[https://onlinecasino-now.nl/casino-reviews/playamo,p]::5;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::16;[https://onlinecasino-now.nl/casino-software/netent,p]::18;
 <ookbewerken|[https://nl.wikipedia.org/wiki/Cookie_(internet),h]::1;
+<ooklive|[https://onlinecasino-now.nl/casino-reviews/cookie,p]::1;

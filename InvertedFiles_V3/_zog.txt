@@ -1,1 +1,2 @@
 <zogby|[https://english.ahram.org.eg/,h]::1;
+<zoghbu|[https://www.nytimes.com/2022/05/07/world/middleeast/tunisia-democracy-economy.html,p]::1;

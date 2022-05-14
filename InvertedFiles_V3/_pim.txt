@@ -1,2 +1,4 @@
 <pimple|[https://www.everydayhealth.com/wellness/healthy-skin,h]::1;[https://www.healthline.com/program/acne-prone-skin-a-game-plan,p]::1;
 <pimples|[https://www.healthline.com/program/acne-prone-skin-a-game-plan,p]::1;
+<pimblett|[https://www.marca.com/mma.html?intcmp=MENUPROD&s_kw=mma,h]::1;
+<pima|[https://www.nytimes.com/2022/05/09/us/border-qanon-arizona.html,p]::2;

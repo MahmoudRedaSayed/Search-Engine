@@ -1,1 +1,2 @@
-<ngsbased|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,p]::1;
+<ngss|[https://www.sciencenewsforstudents.org/how-to-use,p]::1;[https://www.nationalgeographic.org/tickets/events,t]::1;[https://www.edtechdigest.com,h]::1;
+<ngssdisciplinary|[https://www.sciencenews.org/snhs,p]::1;

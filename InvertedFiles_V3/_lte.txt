@@ -1,1 +1,1 @@
-<lte|[https://www.apple.com/ipad,p]::1;
+<lte|[https://www.apple.com/ipad,p]::1;[https://www.apple.com/lae/ipad,p]::1;

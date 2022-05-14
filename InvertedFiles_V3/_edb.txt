@@ -1,5 +1,5 @@
-<edbrowse|[http://edbrowse.org/usersguide.html#cook,t]::1;[http://edbrowse.org/usersguide.html#cook,h]::6;[http://edbrowse.org/usersguide.html#cook,p]::187;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,t]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,h]::5;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::118;
-<edbrowseorg|[http://edbrowse.org/usersguide.html#cook,p]::2;
+<edbrowse|[http://edbrowse.org/usersguide.html#cook,t]::1;[http://edbrowse.org/usersguide.html#cook,h]::6;[http://edbrowse.org/usersguide.html#cook,p]::33;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,t]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,h]::5;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::118;
+<edbrowseorg|[http://edbrowse.org/usersguide.html#cook,p]::1;
 <edbrowsepl|[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;
 <edbrowsecerts|[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;
 <edbterminologi|[https://da.wikipedia.org/wiki/Cookie,p]::1;

@@ -1,1 +1,13 @@
-<pids|[https://blog.archive.org,p]::2;[https://www.everydayhealth.com/womens-health/which-iud-is-right-for-you,p]::1;
+<pids|[https://blog.archive.org,p]::2;
+<piden|[https://www.marca.com/polideportivo.html?intcmp=MENUPROD&s_kw=polideportivo,h]::1;[https://www.marca.com/coches-y-motos.html?intcmp=MENUPROD&s_kw=marca-coches,h]::1;[https://www.marca.com/futbol/liga-portuguesa.html?intcmp=MENUPROD&s_kw=primeira-liga-portugal,h]::2;[https://www.marca.com/futbol/argentina.html?intcmp=MENUPROD&s_kw=futbol-argentina,h]::1;[https://www.marca.com/tenis.html?intcmp=MENUPROD&s_kw=tenis,h]::2;[https://www.marca.com/ajedrez.html?intcmp=MENUPROD&s_kw=ajedrez,h]::1;[https://www.marca.com/juegos-olimpicos-invierno.html?intcmp=MENUPROD&s_kw=juegos-olimpicos-invierno,h]::1;[https://www.marca.com/olimpismo.html?intcmp=MENUPROD&s_kw=olimpismo,h]::2;[https://espanol.cdc.gov/coronavirus/2019-ncov/testing/self-testing.html,p]::1;
+<pidieron|[https://www.marca.com/futbol/copa-america.html?intcmp=MENUMIGA&s_kw=copa-america,h]::1;
+<pidätämme|[https://disneytermsofuse.com/finnish,p]::7;
+<pidentää|[https://disneytermsofuse.com/finnish,p]::1;
+<pidättää|[https://disneytermsofuse.com/finnish,p]::1;
+<pidetään|[https://disneytermsofuse.com/finnish,p]::1;
+<pida|[https://www.marca.com/toros.html?intcmp=MENUPROD&s_kw=toros,h]::1;
+<pidämme|[https://netticasino-now.com,p]::1;
+<pidätetään|[https://netticasino-now.com/arvostelut,p]::2;
+<pidgeon|[https://m.imdb.com/feature/bestpicture/?ref_=nv_ch_osc,p]::2;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::2;
+<pidha|[https://www.myenglishclub.com/discussions/do-you-know-words-that-only-exist-in-your-native-language,p]::3;
+<pidhas|[https://www.myenglishclub.com/discussions/do-you-know-words-that-only-exist-in-your-native-language,p]::4;

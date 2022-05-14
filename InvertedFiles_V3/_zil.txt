@@ -1,1 +1,3 @@
-<zilipanga|[https://www.bbc.com/,p]::1;
+<zilipanga|[https://www.bbc.com/,p]::1;[https://www.nytimes.com/live/2022/05/09/world/ukraine-russia-war-news,p]::2;
+<zillmer|[https://www.nationalgeographic.com/pages/article/masthead,p]::1;
+<zillow|[https://www.foxbusiness.com,h]::1;

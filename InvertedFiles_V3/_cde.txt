@@ -2,4 +2,3 @@
 <cderlearn|[https://www.everydayhealth.com/drugs,h]::2;
 <cded|[https://apps.apple.com/us/app/modulife/id1451478169,p]::1;
 <cdedfriendly|[https://apps.apple.com/us/app/modulife/id1451478169,p]::1;
-<cdes|[https://apps.apple.com/us/app/fast-fodmap-lookup-learn/id1357894765,p]::1;

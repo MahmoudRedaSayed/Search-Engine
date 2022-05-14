@@ -1,5 +1,14 @@
-<dag|[http://www.archive-it.org,p]::3;[https://da.wikipedia.org/wiki/Cookie,p]::1;
+<dag|[http://www.archive-it.org,p]::3;[https://da.wikipedia.org/wiki/Cookie,p]::1;[https://onlinecasino-now.se,p]::2;[https://casino-now.dk,p]::1;[https://casino-now.dk/anmeldelser,p]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::1;
 <dagons|[https://apps.apple.com/us/app/breast-cancer-healthline/id1356340700,p]::1;
-<dage|[https://da.wikipedia.org/wiki/Cookie,p]::1;
+<dage|[https://da.wikipedia.org/wiki/Cookie,p]::1;[https://disneytermsofuse.com/danish,p]::1;
 <dagoelako|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
-<dagli|[https://it.wikipedia.org/wiki/Cookie,p]::1;
+<daggers|[https://www.iflscience.com/editors-blog,h]::1;[https://www.iflscience.com/editors-blog,p]::1;
+<dagang|[https://disneytermsofuse.com/bahasa-indonesia,p]::5;
+<dagangan|[https://disneytermsofuse.com/bahasa-malaysia,p]::5;
+<dagne|[https://www.marca.com/atletismo.html?intcmp=MENUPROD&s_kw=atletismo,h]::1;
+<dager|[https://disneytermsofuse.com/norwegian,p]::1;
+<dagen|[https://onlinecasino-now.nl,p]::5;[https://onlinecasino-now.nl/casino-software/netent,p]::5;
+<dagar|[https://onlinecasino-now.se,p]::3;
+<dages|[https://casino-now.dk,p]::3;[https://casino-now.dk/anmeldelser,p]::3;
+<dagelijks|[https://casino-now.be,p]::1;
+<dagestan•|[https://commons.wikimedia.org/wiki/Atlas_of_Australia,p]::1;

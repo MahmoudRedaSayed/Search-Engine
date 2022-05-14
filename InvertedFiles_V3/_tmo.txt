@@ -1,1 +1,1 @@
-<tmobilesprint|[https://www.apple.com/us/shop/goto/store,s]::1;[https://www.apple.com/us/shop/goto/store,p]::4;[https://www.apple.com/us/shop/goto/buy_accessories,p]::1;
+<tmobilesprint|[https://www.apple.com/us/shop/goto/store,s]::1;[https://www.apple.com/us/shop/goto/store,p]::2;[https://www.apple.com/us/shop/goto/buy_accessories,p]::1;[https://bbbprograms.org,p]::1;[https://itunes.apple.com/us/app/appchoices/id894822870,p]::1;[https://www.ebay.com/globaldeals/tech/cell-phones,h]::2;[https://www.ebay.com/globaldeals/tech,h]::2;

@@ -1,1 +1,11 @@
-<rake|[https://sco.wikipedia.org/wiki/HTTP_cookie,h]::1;
+<rake|[https://sco.wikipedia.org/wiki/HTTP_cookie,h]::1;[https://www.dailymail.co.uk/news/arts/index.html,h]::1;[https://lifetickler.com/how-forex-works-and-why-you-should-start-trading-now,p]::1;[https://www.myenglishclub.com/blogs,s]::1;[https://www.myenglishclub.com/blogs,p]::1;
+<rakuten|[https://edaa.eu/participating-companies,h]::1;
+<raking|[https://www.dailymail.co.uk/femail/fashionfinder/index.html,p]::1;
+<raked|[https://www.dailymail.co.uk/news/dr-anthony-fauci/index.html,h]::1;[https://www.dailymail.co.uk/money/saving/index.html,h]::1;
+<rakes|[https://www.dailymail.co.uk/sciencetech/apple/index.html,h]::1;[https://www.dailymail.co.uk/money/mortgageshome/index.html,h]::1;
+<rakozy|[https://lifetickler.com/7-signs-that-will-hint-at-your-steady-relationship,p]::1;
+<rakip|[https://www.ugureskici.com/notlarim-makalelerim/projelerimizi-nasil-yonetsek,p]::1;[https://www.ugureskici.com/page/8,p]::1;
+<rakiplerinize|[https://www.ugureskici.com/notlarim-makalelerim/pogo-sticking-nedir,p]::1;
+<rakaman|[https://disneytermsofuse.com/bahasa-malaysia,p]::1;
+<rakesh|[https://www.amazon.science/author/rakesh-chada,t]::1;[https://www.amazon.science/author/rakesh-chada,h]::1;
+<rakshit|[https://www.geeksforgeeks.org/geek-of-the-month/?ref=ghm,p]::1;

@@ -1,1 +1,12 @@
-<asuu|[https://www.bbc.com/,p]::1;
+<asuu|[https://www.bbc.com/,p]::1;[http://bleacherreport.com/college-football,h]::2;
+<asus|[https://discountcode.dailymail.co.uk/ao-com,h]::1;[https://discountcode.dailymail.co.uk/currys,p]::1;[https://www.ebay.com/globaldeals/tech/laptops-netbooks,h]::2;[https://www.ebay.com/globaldeals/tech,h]::2;
+<asuinpaikan|[https://disneytermsofuse.com/finnish,p]::2;
+<asuvat|[https://disneytermsofuse.com/finnish,p]::1;
+<asuinpaikkakuntasi|[https://disneytermsofuse.com/finnish,p]::2;
+<asuvien|[https://disneytermsofuse.com/finnish,p]::1;
+<asunto|[https://www.marca.com/paralimpicos.html?intcmp=MENUPROD&s_kw=paralimpicos,h]::1;
+<asumi|[https://ask.loc.gov/faq/300086,p]::1;
+<asuma|[https://es.familydoctor.org/sus-recursos-para-la-salud/maneje-su-atencion-medica/notas-del-medico,p]::1;
+<asumirse|[https://espanol.cdc.gov/coronavirus/2019-ncov/your-health/quarantine-isolation.html,p]::1;
+<asugsv|[https://www.edtechdigest.com/who-we-are,p]::1;[https://www.edtechdigest.com/events,p]::2;
+<asurion|[https://www.foxnews.com/category/tech/topics/video-games,p]::1;

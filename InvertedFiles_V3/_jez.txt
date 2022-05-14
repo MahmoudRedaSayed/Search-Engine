@@ -1,1 +1,2 @@
-<jeziku|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<jeziku|[https://sh.wikipedia.org/wiki/Cookie,p]::1;[http://www.enable-javascript.com/hr,h]::1;
+<jezusses|[https://www.dailywritingtips.com/possessive-of-proper-names-ending-in-s,p]::1;

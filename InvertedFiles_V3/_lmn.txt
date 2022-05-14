@@ -1,0 +1,2 @@
+<lmns|[https://www.geeksforgeeks.org/operating-systems/?ref=ghm,s]::1;[https://www.geeksforgeeks.org/digital-electronics-logic-design-tutorials/#blg/?ref=ghm,s]::1;[https://www.geeksforgeeks.org/lmns-gq/?ref=ghm,p]::2;
+<lmnslast|[https://www.geeksforgeeks.org/lmns-gq/?ref=ghm,h]::1;

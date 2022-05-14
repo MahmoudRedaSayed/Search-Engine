@@ -1,2 +1,3 @@
 <ofproteinon|[https://www.everydayhealth.com/diet-nutrition/ketogenic-diet,p]::1;
-<ofphysicians|[https://www.everydayhealth.com/womens-health/tubal-ligation-permanent-female-sterilization-misunderstood-birth-control-method,p]::1;
+<ofproquest|[https://ask.loc.gov/faq/300086,p]::1;
+<ofpotential|[https://www.foxnews.com/category/news-events/fox-news-investigates,p]::1;

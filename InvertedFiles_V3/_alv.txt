@@ -1,1 +1,8 @@
-<alvin|[http://www.archive-it.org,p]::1;
+<alvin|[http://www.archive-it.org,p]::1;[https://www.dailymail.co.uk/news/sydney/index.html,h]::1;[https://www.hearst.com/broadcasting,s]::1;[https://www.englishclub.com/writing,p]::1;[https://www.englishclub.com/efl/category/articles,s]::1;[https://www.englishclub.com/efl/category/articles,p]::2;
+<alvarezs|[https://www.dailymail.co.uk/sport/index.html,h]::1;[https://www.dailymail.co.uk/sport/boxing/index.html,h]::6;[https://www.dailymail.co.uk/sport/rugbyunion/index.html,s]::3;[https://www.dailymail.co.uk/sport/racing/index.html,s]::3;[https://www.dailymail.co.uk/sport/tennis/index.html,s]::3;[https://www.dailymail.co.uk/sport/golf/index.html,s]::3;[https://www.dailymail.co.uk/sport/othersports/index.html,s]::3;[https://www.dailymail.co.uk/sport/mma/index.html,s]::1;[https://www.marca.com/en/?intcmp=BOTONPORTADA&s_kw=portada,h]::2;[https://www.nps.gov/people/alice-paul.htm,p]::2;[https://networks.h-net.org/node/24029/pages/31411/suffragist-colors-discussion-march-1997,p]::1;
+<alves|[http://www.beinsports.com/us,h]::1;[http://www.beinsports.com/id,h]::1;[https://www.marca.com/futbol/champions-league.html?intcmp=MENUPROD&s_kw=futbol-champions-league,h]::1;[https://www.marca.com/futbol/copa-libertadores.html?intcmp=MENUPROD&s_kw=futbol-conmebol-libertadores,h]::1;[https://www.marca.com/futbol/resto-america.html?intcmp=MENUPROD&s_kw=?intcmp=MENUPROD&s_kw=futbol-mas-america,h]::1;
+<alver|[https://www.ugureskici.com/notlarim-makalelerim/wordpress-nginx-guvenligi,p]::1;
+<alvarezdmitry|[https://www.espn.com,h]::1;
+<alvpan|[http://usnatarchives.tumblr.com,h]::1;
+<alvy|[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;
+<alveda|[https://www.foxnews.com/shows/fox-nation,h]::1;[https://www.foxnews.com/shows/fox-nation,p]::4;[https://www.foxnews.com/category/faith-values/faith,p]::1;

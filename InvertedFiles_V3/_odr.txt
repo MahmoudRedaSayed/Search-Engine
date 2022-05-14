@@ -6,3 +6,8 @@
 <odrede|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
 <određuje|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
 <odrediti|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<određene|[http://www.enable-javascript.com/hr,h]::1;
+<određeni|[http://www.enable-javascript.com/hr,h]::1;
+<odradio|[http://www.enable-javascript.com/hr,p]::1;
+<održivi|[http://vedrigrad.hr,p]::1;
+<odradzane|[https://kasyno-now.com,p]::1;

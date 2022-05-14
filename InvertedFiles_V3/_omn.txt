@@ -1,2 +1,9 @@
 <omnibox|[https://brave.com/ok-google,p]::1;
-<omnitureoptout|[https://el.wikipedia.org/wiki/HTTP_cookies,p]::1;
+<omnitureoptout|[https://el.wikipedia.org/wiki/HTTP_cookies,p]::1;[https://www.dmgmedia.co.uk,p]::1;
+<omnicom|[https://edaa.eu/participating-companies,h]::1;
+<omnichannel|[https://about.flipboard.com/blog/business,h]::1;[https://www.sitecore.com,p]::5;[https://www.sitecore.com/trust/cookie-policy,p]::4;
+<omniviolence|[https://nautil.us/topics/technology,h]::1;
+<omnipresente|[https://www.marca.com/toros.html?intcmp=MENUPROD&s_kw=toros,h]::1;
+<omnia|[https://netticasino-now.com,p]::1;
+<omnitracs|[https://www.symplr.com/leadership,p]::4;
+<omnicell|[https://www.symplr.com/leadership,p]::1;

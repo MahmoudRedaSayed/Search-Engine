@@ -1,2 +1,2 @@
-<nsas|[http://www.archive-it.org,p]::1;[https://en.wikipedia.org/wiki/HTTP_cookie,p]::2;[https://en.wikipedia.org/w/index.php?title=HTTP_cookie&oldid=1085989394,p]::2;[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<nsaids|[https://www.everydayhealth.com/ovarian-cancer/pain-what-it-feels-like-what-causes-it-and-how-women-manage-it,p]::1;[https://www.everydayhealth.com/hysterectomy/recovery-from-abdominal-hysterectomy-takes-time-patience,p]::1;
+<nsas|[http://www.archive-it.org,p]::1;[https://en.wikipedia.org/wiki/HTTP_cookie,p]::2;[https://nautil.us/topics/technology,h]::1;
+<nsaids|[https://www.everydayhealth.com/ovarian-cancer/pain-what-it-feels-like-what-causes-it-and-how-women-manage-it,p]::1;

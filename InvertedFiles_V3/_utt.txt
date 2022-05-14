@@ -1,4 +1,10 @@
-<utters|[https://developers.google.com/assistant/app/slices,p]::1;[https://developers.google.com/assistant/app/in-app-promo-sdk?hl=id,p]::1;
-<utterance|[https://developers.google.com/assistant/sdk/overview,p]::2;[https://developers.google.com/assistant/app/in-app-promo-sdk?hl=id,p]::1;
+<utters|[https://developers.google.com/assistant/app/slices,p]::1;[https://developers.google.com/assistant/app/in-app-promo-sdk?hl=id,p]::1;[https://meta.discourse.org/t/frostbite-heart-discourse/39411/17?u=jake_shadle,p]::1;[https://www.foxnews.com/lifestyle/mothers-day-protests-pro-abortion-activists-brokenness,t]::1;[https://www.foxnews.com/lifestyle/mothers-day-protests-pro-abortion-activists-brokenness,h]::1;[https://www.foxnews.com/lifestyle/mothers-day-protests-pro-abortion-activists-brokenness,p]::2;[https://www.foxnews.com,h]::2;[https://www.esl-lab.com/speaking-events,p]::1;
+<utterance|[https://developers.google.com/assistant/sdk/overview,p]::2;[https://developers.google.com/assistant/app/in-app-promo-sdk?hl=id,p]::1;[https://www.mayoclinic.org/voice/apps,p]::1;[https://www.dailywritingtips.com/english-grammar-101-all-you-need-to-know,p]::1;
 <uttarakhand|[https://www.tutorix.com,p]::1;
-<utterly|[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;
+<utterly|[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;[https://www.dailymail.co.uk/tvshowbiz/kim_kardashian/index.html,h]::1;[https://www.iflscience.com/space/nasas-new-visualization-of-a-black-hole-is-utterly-mesmerizing,t]::1;[https://www.iflscience.com/space/nasas-new-visualization-of-a-black-hole-is-utterly-mesmerizing,h]::1;[https://lifetickler.com/pure-grace-part-i-unraveling-a-radically-important-message-of-our-time,p]::1;[https://www.symplr.com/case-studies/cloud-based-symplr-provider-platform-boosts-timeliness-accuracy-efficiency-for-southern-u.s.-healthcare-organization,p]::1;[https://www.nytimes.com/live/2022/05/09/world/ukraine-russia-war-news,p]::1;[https://www.foxnews.com/media/lawmakers-biden-cancel-student-loan-debt-crazy-idea,p]::1;
+<uttrykkelig|[https://disneytermsofuse.com/norwegian,p]::2;
+<uttrykkelige|[https://disneytermsofuse.com/norwegian,p]::1;
+<uttag|[https://onlinecasino-now.se,h]::2;[https://onlinecasino-now.se,s]::2;
+<uttaksprosess|[https://norskcasino-now.com,h]::2;
+<utterances|[https://www.foxnews.com/opinion,p]::1;
+<uttered|[https://www.nytimes.com/2022/05/09/arts/television/american-song-contest-final.html,p]::1;

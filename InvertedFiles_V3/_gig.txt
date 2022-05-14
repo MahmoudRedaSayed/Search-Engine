@@ -1,3 +1,15 @@
-<gigabytes|[https://archive.org/details/software,p]::1;[https://archive.org/projects,p]::1;[https://www.tutorialspoint.com/computer_glossary.htm,h]::1;[https://www.tutorialspoint.com/computer_glossary.htm,p]::4;
+<gigabytes|[https://archive.org/details/software,p]::1;[https://archive.org/projects,p]::1;[https://www.tutorialspoint.com/computer_glossary.htm,h]::1;[https://www.tutorialspoint.com/computer_glossary.htm,p]::4;[https://discountcode.dailymail.co.uk/virgin-media,h]::1;[https://support.microsoft.com/en-us/topic/use-the-microsoft-edge-secure-network-to-protect-your-browsing-885472e2-7847-4d89-befb-c80d3dda6318,p]::1;[https://lifetickler.com/category/money,p]::1;[https://aboutpoliticalads.org/license,p]::1;[https://www.usa.gov/coronavirus,p]::1;[https://edtechdigest.com/category/trends,h]::1;[https://www.ebay.com/globaldeals/home/major-appliances,h]::1;
 <giggle|[https://www.inlife.co.uk/why-are-cookies-called-cookies,p]::1;
-<gigantic|[https://24x7mag.com/professional-development/education/the-cookie-that-would-not-crumble,p]::1;
+<gigantic|[https://24x7mag.com/professional-development/education/the-cookie-that-would-not-crumble,p]::1;[https://www.iflscience.com/plants-and-animals,p]::1;[https://en.swiss-casino-now.com/reviews,p]::1;[https://casino-now-canada.com/live-casino/baccarat,p]::1;
+<gigs|[https://lifetickler.com/category/money,p]::1;[https://lifetickler.com/fun-bizarre-ways-making-money-fiverr,p]::3;
+<giggles|[https://www.dailymail.co.uk/dailymailtv/video/index.html,s]::1;[https://www.dailymail.co.uk/dailymailtv/advertise/index.html,s]::1;
+<gigafaaaaaast|[https://www.sky.com/broadband,h]::1;
+<gigafast​|[https://www.sky.com/broadband,h]::2;[https://sky.com/tvandbroadband,p]::1;[https://www.sky.com/broadband,p]::3;[https://www.sky.com/deals/tvandbroadband?irct=tv-tv-bns-deal-CTA2-CTA4-q-lite-seealldeals,p]::1;
+<gigante|[https://www.marca.com/ultimas-noticias.html?intcmp=MENUDEST&s_kw=ultimas-noticias,h]::1;[https://www.marca.com/atletismo.html?intcmp=MENUPROD&s_kw=atletismo,h]::1;[https://www.marca.com/deportes-aventura.html?intcmp=MENUPROD&s_kw=deportes-aventura,h]::1;
+<gigafactory|[https://nautil.us/topics/physics,h]::1;
+<gigantyczną|[https://kasyno-now.com,p]::1;
+<gigantów|[https://kasyno-now.com,p]::1;
+<gigi|[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,h]::1;
+<gigolo|[https://m.imdb.com/chart/starmeter/?ref_=nv_cel_brn,p]::1;
+<giggling|[https://www.nytimes.com/2022/05/09/us/border-qanon-arizona.html,p]::2;[https://www.nytimes.com/2022/05/08/nyregion/metropolitan-diary.html,p]::1;[https://www.myenglishclub.com/members/TimNew,p]::1;
+<gigabit|[https://www.zagrosrobotics.com/shop/item.aspx?itemid=1153,p]::1;

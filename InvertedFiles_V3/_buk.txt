@@ -1,1 +1,5 @@
-<bukan|[https://id.wikipedia.org/wiki/Kuki,p]::1;[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::1;
+<bukan|[https://id.wikipedia.org/wiki/Kuki,p]::1;[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::1;[https://disneytermsofuse.com/bahasa-indonesia,p]::1;[https://disneytermsofuse.com/bahasa-malaysia,p]::5;
+<bukanlah|[https://disneytermsofuse.com/bahasa-indonesia,p]::1;
+<buku|[https://disneytermsofuse.com/bahasa-malaysia,p]::1;
+<bukti|[https://disneytermsofuse.com/bahasa-malaysia,p]::1;
+<bukmacherów|[https://kasyno-now.com,p]::1;[https://www.nytimes.com/live/2022/05/09/world/ukraine-russia-war-news,p]::1;

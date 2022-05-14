@@ -1,2 +1,4 @@
-<uma|[https://24x7mag.com/professional-development/education/the-cookie-that-would-not-crumble,p]::2;
+<uma|[https://24x7mag.com/professional-development/education/the-cookie-that-would-not-crumble,p]::2;[https://docs.google.com/document/d/1K-mKOqiUiSjgZTEscBLjtjd6E67oiK8H2ztOiq5tigk/pub,p]::1;[https://disneytermsofuse.com/portuguese,p]::1;[https://www.mayoclinic.org/portugues,h]::1;[https://www.mayoclinic.org/portugues,p]::1;
 <umanjuje|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<umar|[https://www.goal.com/en/lists/nxgn-2016-best-wonderkids/ugt5ciaielx911wusivtpvw6p,h]::1;
+<umarım|[https://www.ugureskici.com,p]::1;[https://www.ugureskici.com/notlarim-makalelerim,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/sherpa-blog-ile-eticaret-seo-sohbetleri,p]::2;

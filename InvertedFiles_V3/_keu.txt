@@ -1,0 +1,4 @@
+<keuntungan|[https://disneytermsofuse.com/bahasa-indonesia,p]::3;[https://disneytermsofuse.com/bahasa-malaysia,p]::2;
+<keupayaan|[https://disneytermsofuse.com/bahasa-malaysia,p]::1;
+<keuze|[https://onlinecasino-now.nl,s]::1;[https://casino-now.be,p]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::1;[https://onlinecasino-now.nl/casino-software/netent,p]::1;
+<keuzestress|[https://casino-now.be,s]::1;

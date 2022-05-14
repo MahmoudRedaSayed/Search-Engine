@@ -1,0 +1,3 @@
+<ukončit|[https://disneytermsofuse.com/czech,p]::4;
+<ukončení|[https://disneytermsofuse.com/czech,p]::1;
+<ukończył|[https://disneytermsofuse.com/polish,p]::1;

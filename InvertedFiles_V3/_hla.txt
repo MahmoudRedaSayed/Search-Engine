@@ -1,7 +1,8 @@
 <hlaviček|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;
 <hlavička|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
 <hlavičku|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<hlavičky|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
 <hlavičke|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
 <hlavičiek|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<hlavičky|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
 <hlavne|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<hladké|[https://disneytermsofuse.com/czech,p]::1;

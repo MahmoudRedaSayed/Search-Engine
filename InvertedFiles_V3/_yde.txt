@@ -1,1 +1,3 @@
 <ydermere|[https://da.wikipedia.org/wiki/Cookie,p]::1;
+<ydeevne|[https://disneytermsofuse.com/danish,p]::1;
+<yderligere|[https://disneytermsofuse.com/danish,p]::1;

@@ -6,7 +6,7 @@ import javax.servlet.*;
 import javax.servlet.http.*;
 
 
-import HelpersPackages.Helpers.HelperClass;
+
 import org.json.JSONException;
 import java.io.*;
 import java.nio.charset.StandardCharsets;
@@ -103,8 +103,8 @@ public class QuerySearch extends HttpServlet {
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-  static  class PhraseSearching {
-        WorkingFiles workingFilesObject;
+  static class PhraseSearching {
+
         DataBase dataBaseObject;
         public PorterStemmer stemObject = new PorterStemmer();
         public String[] stopWords;
@@ -112,10 +112,9 @@ public class QuerySearch extends HttpServlet {
 
         public PhraseSearching() throws FileNotFoundException {
 
-            workingFilesObject = new WorkingFiles();
             WorkingFiles.readStopWords();
             dataBaseObject = new DataBase();
-            this.stopWords = workingFilesObject.getStopWordsAsArray();
+            stopWords = WorkingFiles.getStopWordsAsArray();
             IDs = dataBaseObject.getIDsAsMap();
             System.out.println("Phrase Searching consturctor");
         }
@@ -191,7 +190,7 @@ public class QuerySearch extends HttpServlet {
                     continue;
 
                 // check if this line is for a word or just an extension for the previous line
-                if (tempInput.charAt(0) == '#')
+                if (tempInput.charAt(0) == '<')
                 // compare to check if this tempWord = ourWord ?
                 {
                     // extract the word from the line that read by the scanner
@@ -536,10 +535,9 @@ public class QuerySearch extends HttpServlet {
   static class QueryProcessing{
 
         //--------------------- The Data Members-------------------------//
-        WorkingFiles workingFilesObject;
         DataBase dataBaseObject;
         public String[] stopWords;
-        Map<String,Integer> IDs;
+
         //--------------------- Constructor-----------------------------//
 
 /*
@@ -549,11 +547,10 @@ public class QuerySearch extends HttpServlet {
     */
 
         public QueryProcessing() throws FileNotFoundException {
-            workingFilesObject = new WorkingFiles();
             WorkingFiles.readStopWords();
             dataBaseObject = new DataBase();
-            this.stopWords = workingFilesObject.getStopWordsAsArray();
-            IDs = dataBaseObject.getIDsAsMap();
+            this.stopWords = WorkingFiles.getStopWordsAsArray();
+
             System.out.println("The consturctor");
 
         }
@@ -647,7 +644,7 @@ public class QuerySearch extends HttpServlet {
                         continue;
 
                     // check if this line is for a word or just an extension for the previous line
-                    if (tempInput.charAt(0) == '#')
+                    if (tempInput.charAt(0) == '<')
                     // compare to check if this tempWord = ourWord ?
                     {
                         // extract the word from the line that read by the scanner
@@ -794,11 +791,9 @@ public class QuerySearch extends HttpServlet {
                 searchInInvertedFiles(currFile.getValue(), targetFile,oneFileResult, true);
 
 
-
-
                 // Loop over versions of Words
                 // Adding words results to ranker Array
-                // And splitting for the same line to prepare for fetching links
+
                 int length_2 = oneFileResult.size();
                 for(int j = 0; j<length_2; j++)
                 {
@@ -807,45 +802,9 @@ public class QuerySearch extends HttpServlet {
                     {continue;}
 
                     queryLinesResult.add(oneFileResult.get(j));
-
-
-
-                    String[] splitLine= oneFileResult.get(j).split("\\[");
-
-
-
-                    // Loop over links of the same version of each Word
-                    int length_3 = splitLine.length;
-                    for (int k=1; k<length_3; k++)
-                    {
-
-                        //Split Each part of the line to get the links, split over ','
-                        int End = splitLine[k].indexOf(']');
-                        String temp = splitLine[k].substring(0, End);
-
-                        String[] finalID = temp.split(",");
-
-                        String link = finalID[0];
-
-                        // Get description and populate Json Array
-                        String description;
-                        JSONObject Jo = new JSONObject();
-                        if(IDs.containsKey(link)) {
-                            int currentLinkID = IDs.get(link);
-                            description = HelperClass.readDescription(currentLinkID);
-                            Jo.put("Link", link);
-                            Jo.put("Description", description);
-                            finalJsonFile.put(Jo);
-                        }
-
-                    }
                 }
 
             }
-
-
-
-
             // Populate DividedQuery Array
             divide.put("Result", words);
             dividedQuery.put(divide);

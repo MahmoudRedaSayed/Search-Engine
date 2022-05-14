@@ -1,0 +1,14 @@
+<ohjelmistonsa|[https://disneytermsofuse.com/finnish,p]::5;[https://netticasino-now.com,p]::1;
+<ohjelmistoihin|[https://disneytermsofuse.com/finnish,p]::1;
+<ohjelmaa|[https://disneytermsofuse.com/finnish,p]::2;[https://netticasino-now.com/arvostelut,p]::2;
+<ohjelman|[https://disneytermsofuse.com/finnish,p]::1;[https://netticasino-now.com/arvostelut,s]::1;[https://netticasino-now.com/arvostelut,p]::2;
+<ohjelmistoja|[https://disneytermsofuse.com/finnish,p]::2;
+<ohjelmistoa|[https://disneytermsofuse.com/finnish,p]::1;
+<ohjeet|[https://disneytermsofuse.com/finnish,p]::1;[https://netticasino-now.com,p]::1;
+<ohjelmien|[https://disneytermsofuse.com/finnish,p]::1;
+<ohjelmistot|[https://netticasino-now.com/arvostelut,h]::1;
+<ohjelmat|[https://netticasino-now.com/arvostelut,h]::1;
+<ohjelmassa|[https://netticasino-now.com/arvostelut,s]::1;[https://netticasino-now.com/arvostelut,p]::1;
+<ohjataksemme|[https://netticasino-now.com/arvostelut,p]::1;
+<ohjetta|[https://netticasino-now.com/arvostelut,p]::1;
+<ohjelmistoyritykset|[https://netticasino-now.com/arvostelut,p]::1;

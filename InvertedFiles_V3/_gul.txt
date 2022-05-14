@@ -1,3 +1,8 @@
-<gulp|[https://www.everydayhealth.com/dehydration/hydration-calculator,p]::1;
+<gulp|[https://www.everydayhealth.com/dehydration/hydration-calculator,p]::1;[https://opencollective.com/icons8,p]::2;
 <gulpgrunt|[https://www.tutorialspoint.com/ethereum/index.htm,p]::1;
-<gulf|[https://thekingcenter.org/about-mrs-king,p]::1;
+<gulf|[https://thekingcenter.org/about-mrs-king,p]::1;[https://www.dailymail.co.uk/money/pensions/index.html,h]::1;[https://www.iflscience.com/space/being-in-space-for-long-periods-of-time-changes-your-brain,p]::1;[https://ngmintlsubs.nationalgeographic.co.uk/solo/ContentPage?pagename=Important-customer-alerts,p]::1;[https://www.historycentral.com/index.html,p]::1;[https://kids.kiddle.co/History_of_Australia,p]::4;[https://www.infoplease.com/history/world,p]::1;[https://www.foxweather.com,h]::1;[https://www.foxnews.com/category/science/wild-nature,p]::1;[https://www.nytimes.com/2022/05/09/opinion/coal-ash-toxic-alabama-rivers.html,p]::1;[https://www.foxnews.com/world/iran-nuclear-weapons-existential-threat,p]::2;
+<gullit|[https://www.dailymail.co.uk/sport/fa_cup/index.html,h]::1;
+<gulag|[https://www.dailymail.co.uk/sciencetech/twitter/index.html,h]::1;[http://worldhistorymatters.org,h]::1;[http://worldhistorymatters.org,p]::1;
+<gulisano|[https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm,s]::1;
+<gulleys|[https://kids.kiddle.co/History_of_Australia,p]::1;
+<gulags|[https://www.nytimes.com/2022/05/06/business/shanghai-xinjiang-china-covid-zero.html,p]::1;

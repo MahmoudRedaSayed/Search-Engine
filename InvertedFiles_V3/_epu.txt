@@ -1,2 +1,1 @@
-<epub|[https://www.cancer.org/cancer/ovarian-cancer/detection-diagnosis-staging/how-diagnosed.html,p]::2;[https://www.cancer.org/cancer/ovarian-cancer/causes-risks-prevention/risk-factors.html,p]::5;[https://blog.openlibrary.org,p]::3;
-<epubs|[https://blog.openlibrary.org,p]::2;
+<epubs|[https://blog.openlibrary.org,p]::1;

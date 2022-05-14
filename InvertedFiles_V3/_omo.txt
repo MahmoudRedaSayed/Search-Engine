@@ -1,3 +1,5 @@
 <omogućuju|[https://sh.wikipedia.org/wiki/Cookie,p]::2;
 <omogućivanje|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
 <omogućuje|[https://sh.wikipedia.org/wiki/Cookie,p]::2;
+<omogućiti|[http://www.enable-javascript.com/hr,t]::1;[http://www.enable-javascript.com/hr,h]::1;[http://www.enable-javascript.com/hr,p]::2;
+<omonia|[https://www.marca.com/futbol/conference-league/equipos.html?intcmp=MENUPROD&s_kw=conference-league-equipos,h]::1;

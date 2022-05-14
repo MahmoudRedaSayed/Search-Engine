@@ -1,1 +1,5 @@
-<plymouth|[https://www.jpsmjournal.com/article/S0885-3924(07)00319-3/fulltext,p]::1;
+<plymouths|[https://www.dailymail.co.uk/travel/escape/index.html,h]::1;[https://www.sky.com/help/articles/sky-privacy-and-cookies-notice,p]::1;[https://www.sciencenewsforstudents.org/article/light-pollution-sea-ocean-new-maps,p]::1;[https://www.nytimes.com/live/2022/05/09/world/philippines-election,p]::1;
+<plying|[http://fordlibrarymuseum.tumblr.com,p]::1;
+<plynule|[http://sk.talkenglish.com,t]::1;[http://sk.talkenglish.com,p]::1;[http://cz.talkenglish.com,t]::1;[http://cz.talkenglish.com,p]::1;
+<plynulej|[http://sk.talkenglish.com,h]::1;
+<plynulé|[http://cz.talkenglish.com,h]::1;

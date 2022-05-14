@@ -1,1 +1,13 @@
 <elvive|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
+<elvis|[https://www.dailymail.co.uk/tvshowbiz/index.html,h]::1;[https://kidskonnect.com/social-studies/stolen-generation,p]::1;[https://www.foxnews.com/category/entertainment/movies,p]::1;[https://www.dailywritingtips.com/english-grammar-101-all-you-need-to-know,p]::3;
+<elviss|[https://www.dailymail.co.uk/sciencetech/spacex/index.html,h]::2;
+<elvesztette|[https://disneytermsofuse.com/hungarian,p]::1;[http://congressarchives.tumblr.com,p]::1;
+<elveszett|[https://disneytermsofuse.com/hungarian,p]::1;
+<elvégzésére|[https://disneytermsofuse.com/hungarian,p]::1;
+<elvárásai|[https://disneytermsofuse.com/hungarian,p]::1;
+<elválasztásra|[https://disneytermsofuse.com/hungarian,p]::1;
+<elvetici|[https://it.swiss-casino-now.com/recensioni,h]::1;
+<elvetica|[https://it.swiss-casino-now.com/recensioni,s]::1;[https://it.swiss-casino-now.com/recensioni,p]::2;
+<elvetico|[https://it.swiss-casino-now.com/recensioni,p]::1;
+<elven|[https://onlinecasino-now.nl/casino-software/netent,p]::1;
+<elvira|[https://www.nytimes.com/live/2022/05/09/world/ukraine-russia-war-news,p]::1;

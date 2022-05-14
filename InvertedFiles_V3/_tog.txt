@@ -1,5 +1,12 @@
-<toggle|[http://edbrowse.org/usersguide.html#cook,p]::37;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::17;
+<toggle|[http://edbrowse.org/usersguide.html#cook,p]::31;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::17;[https://bbc.github.io/gel,p]::2;[https://caltrainschedule.io,p]::1;[https://casino-now.dk/anmeldelser,p]::1;[https://stackoverflow.com/legal/cookie-policy,p]::1;[https://www.ebay.com/adchoice/ccpa,h]::1;[https://www.ebay.com/adchoice/ccpa,p]::1;[https://www.foxnews.com/donotsell,p]::2;[http://www.eslkidslab.com/lessons/index.html,s]::2;[https://blog.icons8.com/articles/how-to-create-a-beautiful-pixel-art-environment-in-clip-studio-paint,p]::1;[https://icons8.com/free-animated-icons,p]::1;[https://eslkidslab.com/flashcards/index.html,s]::2;
 <toggles|[http://edbrowse.org/usersguide.html#cook,p]::1;
-<together…|[https://www.healthline.com/reviews,p]::1;
-<togetherness|[https://www.everydayhealth.com/breast-cancer/empowering-breast-and-gynecological-podcasts-hosted-by-survivors,p]::1;
-<togarner|[https://venturebeat.com/2014/10/06/the-cookie-is-dead-heres-how-facebook-google-and-apple-are-tracking-you-now,p]::1;[https://web.archive.org/web/20170724054647/https:/venturebeat.com/2014/10/06/the-cookie-is-dead-heres-how-facebook-google-and-apple-are-tracking-you-now,p]::1;[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<togetherness|[https://www.everydayhealth.com/breast-cancer/empowering-breast-and-gynecological-podcasts-hosted-by-survivors,p]::1;[https://isoo-overview.blogs.archives.gov,p]::1;[https://www.foxnews.com/media/randi-weingarten-hit-lack-of-self-awareness-comment-school-closures-parents-arent-dumb,p]::1;
+<toga|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<toggled|[https://bbc.github.io/gel,p]::1;
+<togo|[https://lifetickler.com/online-banking-smartphone,p]::1;[https://www.shopdisney.com,h]::1;
+<togetherwith|[https://lifetickler.com/understanding-car-insurance,p]::1;
+<togo•|[https://commons.wikimedia.org/wiki/Atlas_of_Australia,p]::1;
+<togoogle|[https://www.instructure.com/policies/privacy,p]::1;
+<toggling|[https://help.imdb.com/article/imdb/track-movies-tv/lists-faq/GNQMN47VZSE7KW38?ref_=helpsect_pro_2_1,p]::1;
+<together…i|[https://onlinelearning.hms.harvard.edu/hmx/companies,p]::1;
+<toguard|[https://www.ebay.com/globaldeals/tech/vehicle-electronics-gps,h]::1;

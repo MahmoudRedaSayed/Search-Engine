@@ -121,9 +121,9 @@ public class WorkingFiles {
     }
 
     //get Stop Words as Array
-    public String[] getStopWordsAsArray()
+    public static String[] getStopWordsAsArray()
     {
-        return this.stopWords;
+        return stopWords;
     }
 
     // get stop words as Map

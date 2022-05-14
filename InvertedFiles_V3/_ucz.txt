@@ -1,0 +1,9 @@
+<uczestników|[https://disneytermsofuse.com/polish,p]::2;[http://pl.talkenglish.com,t]::2;[http://pl.talkenglish.com,p]::2;
+<uczestniczy|[https://disneytermsofuse.com/polish,p]::1;
+<uczciwy|[https://disneytermsofuse.com/polish,p]::2;
+<uczestniczyć|[https://disneytermsofuse.com/polish,p]::3;
+<uczestnictwo|[https://disneytermsofuse.com/polish,p]::2;[https://kasyno-now.com,p]::1;
+<uczciwością|[https://kasyno-now.com,p]::1;
+<uczciwe|[https://kasyno-now.com,p]::1;
+<uczciwa|[https://kasyno-now.com/recenzja/woo,h]::1;
+<uczestnikiem|[https://kasyno-now.com/recenzja/woo,p]::1;

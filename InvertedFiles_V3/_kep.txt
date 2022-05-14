@@ -1,1 +1,9 @@
-<kepada|[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::4;
+<kepada|[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::4;[https://www.marca.com/futbol/supercopa-europa.html?intcmp=MENUPROD&s_kw=supercopa-europa,h]::1;[https://disneytermsofuse.com/bahasa-indonesia,p]::12;[https://disneytermsofuse.com/bahasa-malaysia,p]::60;
+<kepler|[https://www.dailymail.co.uk/sciencetech/nasa/index.html,h]::1;[https://nautil.us/about-us,p]::1;[https://www.sciencenewsforstudents.org/article/explainer-all-about-orbits,p]::4;
+<keplers|[https://www.sciencenewsforstudents.org/article/explainer-all-about-orbits,p]::3;
+<kepemilikan|[https://disneytermsofuse.com/bahasa-indonesia,p]::3;
+<keperluan|[https://disneytermsofuse.com/bahasa-indonesia,p]::3;[https://disneytermsofuse.com/bahasa-malaysia,p]::5;
+<kepadanya|[https://disneytermsofuse.com/bahasa-malaysia,p]::1;
+<keputusan|[https://disneytermsofuse.com/bahasa-malaysia,p]::2;
+<kepercayaan|[https://disneytermsofuse.com/bahasa-malaysia,p]::1;
+<kepner|[https://www.nytimes.com/section/todayspaper,p]::2;

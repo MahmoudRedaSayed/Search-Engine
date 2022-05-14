@@ -1,1 +1,8 @@
-<sujet|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::2;
+<sujet|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::1;[https://www.canada.ca/fr/sante-publique/services/maladies/maladie-coronavirus-covid-19.html,h]::2;
+<sujuvan|[https://disneytermsofuse.com/finnish,p]::1;
+<sujettes|[https://disneytermsofuse.com/french,p]::1;
+<sujuvuuden|[https://netticasino-now.com,s]::1;
+<sujuvien|[https://netticasino-now.com,p]::1;
+<sujetos|[https://espanol.cdc.gov/coronavirus/2019-ncov/travelers/proof-of-vaccination.html,p]::5;[https://www.nytimes.com/es,p]::1;
+<sujeta|[https://espanol.cdc.gov/coronavirus/2019-ncov/travelers/proof-of-vaccination.html,p]::1;
+<sujith|[https://www.myenglishclub.com/members/AdrianoMartelli,p]::1;

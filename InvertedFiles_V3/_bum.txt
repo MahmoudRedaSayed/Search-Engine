@@ -1,6 +1,10 @@
-<bumpkins|[https://www.dailymail.co.uk,h]::1;[https://www.everydayhealth.com/symptom-checker,p]::1;[https://developers.google.com/assistant/console/policies/general-policies,p]::1;
-<bumpy|[https://www.everydayhealth.com/crohns-disease/guide,p]::2;
-<bumps|[https://www.everydayhealth.com/psoriasis/guide,p]::1;[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::3;
-<bummer|[https://www.everydayhealth.com/type-2-diabetes/guide,p]::1;[https://apps.apple.com/us/app/aby/id1380700316,p]::1;
+<bumpkins|[https://www.dailymail.co.uk,h]::1;[https://www.everydayhealth.com/symptom-checker,p]::1;[https://developers.google.com/assistant/console/policies/general-policies,p]::1;[https://www.dailymail.co.uk/tvshowbiz/adele/index.html,h]::1;[https://www.dailymail.co.uk/news/perth/index.html,h]::1;[https://www.dailymail.co.uk/sciencetech/nasa/index.html,h]::1;[https://www.dailymail.co.uk/home/videoarchive/index.html,p]::1;[https://nautil.us/topics/physics,p]::1;[https://nautil.us/we-are-nowhere-close-to-the-limits-of-athletic-performance-2-11432,p]::1;[https://www.foxnews.com/auto,h]::1;[https://www.zagrosrobotics.com/shop/item.aspx?itemid=1168,p]::1;[https://www.foxnews.com,h]::1;[https://www.nytimes.com/2022/05/05/well/clean-disinfect-home-germs.html,h]::1;[https://www.nytimes.com/2022/05/05/well/clean-disinfect-home-germs.html,p]::1;
+<bumpy|[https://www.everydayhealth.com/crohns-disease/guide,p]::2;[https://www.dailymail.co.uk/mail-best/index.html,h]::1;[https://www.nytimes.com/2022/05/05/health/covid-impotence-erectile-dysfunction.html,p]::1;
+<bumps|[https://www.everydayhealth.com/psoriasis/guide,p]::1;[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::3;[https://lifetickler.com/category/health,p]::1;[https://www.bbc.com/future/article/20200702-the-helmets-that-can-keep-your-brain-safe,p]::1;[https://www.bbc.com/reel/video/p099tghy/is-phrenology-the-weirdest-pseudoscience-of-them-all-,p]::1;[https://www.nytimes.com/2022/05/05/business/electric-vehicle-safety.html,p]::1;
+<bummer|[https://www.everydayhealth.com/type-2-diabetes/guide,p]::1;[https://gist.github.com/maxogden/43219d6dcb9006042849,p]::1;[https://lifetickler.com/8-reasons-regret-buying-diy-home-alarm-system,p]::1;
 <bumpmy|[https://www.blogforacure.com,p]::1;
-<bumble|[https://apps.apple.com/us/app/bezzy-migraine/id1494062954,p]::1;
+<bumble|[https://apps.apple.com/us/app/bezzy-migraine/id1494062954,p]::1;[https://www.dailymail.co.uk/sciencetech/apple/index.html,h]::1;[https://www.nytimes.com/2022/05/07/opinion/abortion-supreme-court-puritanism.html,p]::1;
+<bumbling|[https://www.dailymail.co.uk/news/dr-anthony-fauci/index.html,h]::1;
+<bumper|[https://www.dailymail.co.uk/money/saving/index.html,h]::1;
+<bums|[https://lifetickler.com/why-lottery-should-be-taken-more-positively,p]::1;
+<bumped|[https://www.foxnews.com/sports,p]::1;

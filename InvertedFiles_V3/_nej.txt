@@ -1,2 +1,4 @@
-<nejsou|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;
 <nejakej|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<nejsou|[https://disneytermsofuse.com/czech,p]::1;
+<nejib|[https://www.nytimes.com/2022/05/07/world/middleeast/tunisia-democracy-economy.html,p]::1;
+<nejobvyklejších|[http://cz.talkenglish.com,p]::1;

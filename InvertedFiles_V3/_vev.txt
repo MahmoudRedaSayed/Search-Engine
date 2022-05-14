@@ -1,2 +1,2 @@
-<vev|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,p]::14;
 <vevtjenere|[https://no.wikipedia.org/wiki/Informasjonskapsel,p]::1;
+<veveya|[https://www.ugureskici.com/hakkimda,p]::1;

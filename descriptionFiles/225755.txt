@@ -1,0 +1,1 @@
+locality-sensitive hashing enables cache to hold more than three times as many query results.

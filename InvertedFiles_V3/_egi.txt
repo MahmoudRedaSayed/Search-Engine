@@ -2,3 +2,4 @@
 <egindako|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
 <egiten|[https://eu.wikipedia.org/wiki/Cookie,p]::2;
 <egingo|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
+<egift|[https://www.dailymail.co.uk/money/bills/index.html,s]::1;

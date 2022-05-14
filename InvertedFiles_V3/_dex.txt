@@ -1,3 +1,5 @@
-<dexter|[https://www.everydayhealth.com/cancer/celebrities-with-cancer-why-do-some-decide-to-go-public-and-others-dont,p]::1;[https://thekingcenter.org/about-mrs-king,p]::2;[https://www.nytimes.com/2006/02/01/obituaries/coretta-scott-king-a-civil-rights-icon-dies-at-78.html,p]::3;
+<dexter|[https://www.everydayhealth.com/cancer/celebrities-with-cancer-why-do-some-decide-to-go-public-and-others-dont,p]::1;[https://thekingcenter.org/about-mrs-king,p]::2;[https://www.nytimes.com/2006/02/01/obituaries/coretta-scott-king-a-civil-rights-icon-dies-at-78.html,p]::2;
 <dexa|[https://www.everydayhealth.com/menopause/health-risks-women-face-after-menopause,p]::1;
 <dexmethylphenidate|[https://www.everydayhealth.com/cancer/8-ways-fight-fatigue-chemotherapy-treatment,p]::1;
+<dexperts|[https://disneytermsofuse.com/french,p]::1;
+<dexposition|[https://www.canada.ca/fr/sante-publique/services/maladies/maladie-coronavirus-covid-19.html,h]::1;

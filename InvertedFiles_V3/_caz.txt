@@ -1,2 +1,5 @@
-<cazul|[https://ro.wikipedia.org/wiki/Cookie,p]::4;
-<cazului|[https://ro.wikipedia.org/wiki/Cookie,p]::1;
+<caz|[https://www.bbc.co.uk/programmes/p02r6yqw/episodes/downloads,p]::1;
+<cazoo|[https://www.dailymail.co.uk/sport/racing/index.html,h]::1;
+<cazip|[https://www.ugureskici.com/notlarim-makalelerim/cografi-hedef-yapilandirmasi,p]::1;
+<cazadores|[https://espanol.cdc.gov/coronavirus/2019-ncov/daily-life-coping/food-and-COVID-19.html,p]::3;
+<cazale|[https://m.imdb.com/feature/bestpicture/?ref_=nv_ch_osc,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;

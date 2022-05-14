@@ -1,3 +1,5 @@
 <geymd|[https://is.wikipedia.org/wiki/Vafrakaka,p]::1;
 <geyma|[https://is.wikipedia.org/wiki/Vafrakaka,p]::1;
 <geymt|[https://is.wikipedia.org/wiki/Vafrakaka,p]::1;
+<geyre|[https://www.aphrodisias.org,h]::1;[https://www.aphrodisias.org,p]::2;
+<geyser|[https://www.nytimes.com/2022/05/06/well/mind/virtual-reality-therapy-seniors.html,p]::1;

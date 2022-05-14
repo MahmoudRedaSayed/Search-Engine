@@ -1,2 +1,4 @@
-<aafa|[https://www.everydayhealth.com/eczema/guide,s]::3;[https://www.everydayhealth.com/eczema/guide,p]::3;
+<aafa|[https://www.everydayhealth.com/eczema/guide,s]::3;[https://www.everydayhealth.com/eczema/guide,p]::3;[https://www.aaf.org,p]::2;
 <aafas|[https://www.everydayhealth.com/eczema/guide,p]::1;
+<aafp|[http://www.aafp.org/home.html,t]::1;[http://www.aafp.org/home.html,h]::4;[http://www.aafp.org/home.html,p]::6;
+<aafps|[http://www.aafp.org/home.html,p]::2;

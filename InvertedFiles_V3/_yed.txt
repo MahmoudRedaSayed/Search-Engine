@@ -1,1 +1,4 @@
 <yedoensis|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;
+<yeditepe|[https://www.ugureskici.com/hakkimda,p]::1;
+<yedik|[https://www.ugureskici.com/ordan-burdan,p]::1;[https://www.ugureskici.com/ordan-burdan/dijital-pazarlama-temelleri,p]::1;
+<yedikleri|[https://www.ugureskici.com/notlarim-makalelerim/digitalzone-2017-kimler-geldi-kimler-gecti-ne-ogrendik,p]::2;

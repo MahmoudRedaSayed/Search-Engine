@@ -1,1 +1,1 @@
-<wuhan|[https://www.everydayhealth.com/infectious-diseases/coronavirus,p]::3;
+<wuhan|[https://www.everydayhealth.com/infectious-diseases/coronavirus,p]::3;[https://www.dailymail.co.uk/news/dr-anthony-fauci/index.html,h]::3;[https://systems.jhu.edu/research/public-health/ncov,s]::1;[https://systems.jhu.edu/research/public-health/ncov,p]::3;[https://www.nytimes.com/2022/05/06/business/shanghai-xinjiang-china-covid-zero.html,p]::1;

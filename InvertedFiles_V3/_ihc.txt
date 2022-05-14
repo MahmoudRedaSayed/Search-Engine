@@ -1,1 +1,1 @@
-<ihc|[https://www.ihadcancer.com/h3-blog,h]::1;[https://www.ihadcancer.com/h3-blog,p]::6;[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,p]::6;
+<ihc|[https://www.ihadcancer.com/h3-blog,h]::1;[https://www.ihadcancer.com/h3-blog,p]::6;[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,p]::3;

@@ -1,0 +1,4 @@
+<erdoğan|[https://f24.my/SC,h]::2;
+<erdem|[https://www.dailymail.co.uk/home/search.html,h]::1;
+<erdős|[https://nautil.us/topics/math,h]::1;
+<erdogan|[https://www.foxnews.com/world/iran-nuclear-weapons-existential-threat,p]::2;

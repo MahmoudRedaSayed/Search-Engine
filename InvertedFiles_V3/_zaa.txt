@@ -1,2 +1,8 @@
 <zaawansowane|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
 <zaawansowaną|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<zaatar|[https://www.dailymail.co.uk/home/you/index.html,s]::1;
+<zaakceptować|[https://disneytermsofuse.com/polish,p]::1;
+<zaakceptowania|[https://disneytermsofuse.com/polish,p]::1;
+<zaawansowanych|[https://kasyno-now.com,p]::1;
+<zaawansowanej|[https://kasyno-now.com/recenzja/woo,p]::1;
+<zaangażowani|[https://kasyno-now.com/recenzja/woo,p]::1;

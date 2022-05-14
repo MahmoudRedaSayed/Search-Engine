@@ -1,6 +1,4 @@
 <ukládají|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::2;
-<ukládat|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::2;
-<ukládání|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;
 <ukladajú|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::2;
 <ukladanie|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::2;
 <ukladané|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
@@ -8,3 +6,7 @@
 <ukladali|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
 <ukladaním|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::2;
 <ukladá|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<uključiti|[http://www.enable-javascript.com/hr,t]::1;[http://www.enable-javascript.com/hr,h]::2;[http://www.enable-javascript.com/hr,p]::2;
+<uključe|[http://www.enable-javascript.com/hr,p]::1;
+<uklisted|[https://www.dailymail.co.uk/money/investing/index.html,h]::1;
+<ukládat|[https://disneytermsofuse.com/czech,p]::1;

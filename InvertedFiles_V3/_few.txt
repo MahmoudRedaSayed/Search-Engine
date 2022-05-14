@@ -1,1 +1,1 @@
-<fewwikipedia|[https://wikimediafoundation.org,p]::1;
+<fewest|[https://insights.stackoverflow.com/survey/2021,p]::1;[https://www.nytimes.com/interactive/2020/us/covid-19-vaccine-doses.html,p]::1;[https://www.nytimes.com/2022/05/05/business/electric-vehicle-safety.html,p]::1;

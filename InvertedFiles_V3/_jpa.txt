@@ -1,1 +1,1 @@
-<jpa|[https://www.tutorialspoint.com/tutorialslibrary.htm,p]::1;[https://www.tutorialspoint.com/java_technology_tutorials.htm,p]::1;
+<jpa|[https://www.tutorialspoint.com/tutorialslibrary.htm,p]::1;[https://www.tutorialspoint.com/java_technology_tutorials.htm,p]::1;[https://library.stanford.edu/all/?q=british%20history&op=Search,h]::1;

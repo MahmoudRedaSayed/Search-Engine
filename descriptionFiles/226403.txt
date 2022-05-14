@@ -1,0 +1,1 @@
+html stands for hypertext markup language. it is the combination of hypertext and markup language that is used to define the text document within tags.

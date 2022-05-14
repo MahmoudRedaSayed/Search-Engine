@@ -1,4 +1,10 @@
-<bij|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;[https://nds-nl.wikipedia.org/wiki/Koekien_(internet),p]::1;
-<bijhouden|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;
-<bijvoorbeeld|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::4;
+<bij|[https://nds-nl.wikipedia.org/wiki/Koekien_(internet),p]::1;[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;[https://onlinecasino-now.nl,h]::2;[https://onlinecasino-now.nl,s]::3;[https://onlinecasino-now.nl,p]::2;[https://casino-now.be,s]::3;[https://casino-now.be,p]::11;[https://onlinecasino-now.nl/casino-reviews,s]::2;[https://onlinecasino-now.nl/casino-reviews,p]::1;[https://onlinecasino-now.nl/casino-reviews/playamo,p]::2;[https://onlinecasino-now.nl/casino-reviews/cookie,h]::2;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::10;[https://onlinecasino-now.nl/casino-software/netent,s]::1;[https://onlinecasino-now.nl/casino-software/netent,p]::17;
 <bijhoolden|[https://nds-nl.wikipedia.org/wiki/Koekien_(internet),p]::1;
+<bijhouden|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;
+<bijvoorbeeld|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;[https://onlinecasino-now.nl,s]::1;[https://onlinecasino-now.nl,p]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::1;[https://onlinecasino-now.nl/casino-software/netent,p]::2;
+<bijan|[http://bleacherreport.com/college-football,p]::2;
+<bijna|[https://onlinecasino-now.nl,s]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::4;[https://onlinecasino-now.nl/casino-software/netent,s]::1;[https://onlinecasino-now.nl/casino-software/netent,p]::3;
+<bijgehouden|[https://onlinecasino-now.nl,p]::1;
+<bijzonder|[https://onlinecasino-now.nl/casino-reviews/playamo,p]::1;
+<bijdrage|[https://onlinecasino-now.nl/casino-software/netent,p]::1;
+<bijzondere|[https://onlinecasino-now.nl/casino-software/netent,p]::2;

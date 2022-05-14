@@ -1,2 +1,7 @@
-<omg|[https://stupidcancer.org,p]::1;
+<omg|[https://stupidcancer.org,p]::1;[https://icons8.com,s]::1;[https://icons8.com/icons,s]::1;[https://igoutu.cn/icons,s]::1;[https://icons8.de/icons,s]::1;[https://icones8.fr/icons,s]::1;[https://icons8.com.br/icons,s]::1;[https://icons8.jp/icons,s]::1;[https://icons8.it/icons,s]::1;[https://iconos8.es/icons,s]::1;[https://icons8.ru/icons,s]::1;[https://icons8.kr/icons,s]::1;
 <omgik|[https://da.wikipedia.org/wiki/Cookie,p]::1;
+<omgå|[https://disneytermsofuse.com/danish,p]::1;[https://disneytermsofuse.com/norwegian,p]::1;
+<omgegaan|[https://onlinecasino-now.nl,p]::1;
+<omgang|[https://onlinecasino-now.nl/casino-reviews/playamo,p]::1;
+<omgeving|[https://onlinecasino-now.nl/casino-software/netent,s]::1;[https://onlinecasino-now.nl/casino-software/netent,p]::1;
+<omgimg|[https://img.icons8.com,t]::1;

@@ -1,4 +1,6 @@
 <cihl|[https://www.everydayhealth.com/cancer/cancer-news-digest-the-latest-developments-in-cancer-research-and-treatment-for-september,p]::1;
-<cihazınızda|[https://az.wikipedia.org/wiki/HTTP_Kuki,p]::1;
+<cihazınızda|[https://az.wikipedia.org/wiki/HTTP_Kuki,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/marmara-isletme-soruyor-digital-marketing-paneli,p]::1;
 <cihazında|[https://az.wikipedia.org/wiki/HTTP_Kuki,p]::1;
-<cihazlarında|[https://az.wikipedia.org/wiki/HTTP_Kuki,p]::1;
+<cihazlarında|[https://az.wikipedia.org/wiki/HTTP_Kuki,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/pogo-sticking-nedir,p]::1;
+<cihazlardaki|[https://www.ugureskici.com/notlarim-makalelerim/pogo-sticking-nedir,p]::2;
+<cihad|[https://www.ugureskici.com/notlarim-makalelerim/wordpress-nginx-guvenligi,p]::1;

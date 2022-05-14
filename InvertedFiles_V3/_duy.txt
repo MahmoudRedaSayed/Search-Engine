@@ -1,1 +1,10 @@
 <duygu|[https://ocrahope.org,p]::1;
+<duygusal|[https://www.ugureskici.com/hakkimda,p]::2;[https://www.ugureskici.com/notlarim-makalelerim/digitalzone-2017-kimler-geldi-kimler-gecti-ne-ogrendik,p]::1;
+<duyacağınız|[https://www.ugureskici.com/notlarim-makalelerim/projelerimizi-nasil-yonetsek,p]::2;
+<duyulan|[https://www.ugureskici.com/notlarim-makalelerim/projelerimizi-nasil-yonetsek,p]::1;
+<duyurusunun|[https://www.ugureskici.com/notlarim-makalelerim/projelerimizi-nasil-yonetsek,p]::1;
+<duydum|[https://www.ugureskici.com/notlarim-makalelerim/seo-pozisyonu-icin-ise-alimlarda-kullanilabileceginiz-sorular,p]::1;
+<duyuruldu|[https://www.ugureskici.com/notlarim-makalelerim/ssl-gecisi-icin-seo-kontrol-listesi,p]::1;[https://www.ugureskici.com/page/2,p]::1;
+<duymadım|[https://www.ugureskici.com/notlarim-makalelerim/rss-yayini-nedir-seo-icin-rss-olusturma,p]::1;
+<duymamaktadır|[https://www.ugureskici.com/notlarim-makalelerim/robotstxt-nedir-nasil-kullanilir,p]::1;
+<duyfken|[https://kids.kiddle.co/History_of_Australia,p]::1;

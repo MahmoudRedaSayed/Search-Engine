@@ -2,3 +2,8 @@
 <oznam|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::4;
 <oznámiť|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
 <oznamu|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<oznámení|[https://disneytermsofuse.com/czech,p]::2;
+<oznaczony|[https://disneytermsofuse.com/polish,p]::1;
+<oznakowania|[https://disneytermsofuse.com/polish,p]::1;
+<oznacza|[https://disneytermsofuse.com/polish,p]::2;[https://kasyno-now.com,p]::3;
+<oznaczać|[https://disneytermsofuse.com/polish,p]::1;

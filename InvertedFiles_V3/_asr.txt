@@ -1,3 +1,5 @@
 <asrelapses|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;
-<asrm|[https://www.everydayhealth.com/hysterectomy/guide,s]::1;[https://www.everydayhealth.com/hysterectomy/guide,p]::2;
-<asrmpatient|[https://www.everydayhealth.com/hysterectomy/guide,p]::1;
+<asrm|[https://www.everydayhealth.com/hysterectomy/guide,s]::1;
+<asreflected|[https://isoo-overview.blogs.archives.gov,p]::1;
+<asrosemarya|[https://mcpress.mayoclinic.org/healthletter/?utm_source=MC-DotOrg-Nav&utm_medium=Link&utm_campaign=HealthLetter&utm_content=HLART,p]::1;
+<asred|[https://casino-now-canada.com/reviews/casino-cruise,p]::1;

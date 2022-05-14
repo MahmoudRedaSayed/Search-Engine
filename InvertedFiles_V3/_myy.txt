@@ -1,0 +1,10 @@
+<myyntiin|[https://disneytermsofuse.com/finnish,p]::1;
+<myyjän|[https://disneytermsofuse.com/finnish,p]::4;
+<myyjänä|[https://disneytermsofuse.com/finnish,p]::1;
+<myyntihetkellä|[https://disneytermsofuse.com/finnish,p]::2;
+<myyjään|[https://disneytermsofuse.com/finnish,p]::1;
+<myymälöitä|[https://disneytermsofuse.com/finnish,p]::1;
+<myyntiehtoja|[https://disneytermsofuse.com/finnish,p]::1;
+<myyntisopimus|[https://disneytermsofuse.com/finnish,p]::1;
+<myydä|[https://disneytermsofuse.com/finnish,p]::1;
+<myynninedistämistarkoituksissa|[https://disneytermsofuse.com/finnish,p]::1;

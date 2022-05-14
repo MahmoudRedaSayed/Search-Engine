@@ -1,0 +1,2 @@
+<mcqueen|[https://www.imdb.com/search/name/?match_all=true&ref_=nv_cel_m,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;[http://www.math4children.com/quizzes.html,p]::1;[https://www.geeksforgeeks.org/c-programming-language/?ref=ghm,p]::1;
+<mcqs|[http://www.math4children.com,p]::1;[http://www.math4children.com/quizzes.html,s]::2;[http://www.math4children.com/quizzes.html,p]::2;[https://www.geeksforgeeks.org/geek-of-the-month/?ref=ghm,p]::2;

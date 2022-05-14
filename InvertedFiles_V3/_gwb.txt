@@ -1,0 +1,2 @@
+<gwblibrary|[http://www.georgewbushlibrary.smu.edu,h]::1;
+<gwbushlibrarynaragov|[http://www.georgewbushlibrary.smu.edu,p]::2;
