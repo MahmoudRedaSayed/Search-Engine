@@ -17,7 +17,6 @@ public class QueryDivide extends HttpServlet {
     {
         res.addHeader("Access-Control-Allow-Origin","*");
         res.setContentType("text/html");
-        System.out.println("print in query divide");
         String searchingQuery = req.getParameter("query");
         if(count==0)
         {
@@ -53,8 +52,7 @@ public class QueryDivide extends HttpServlet {
 
         public void readStopWords() throws FileNotFoundException {
             // open the file that contains stop words
-            String filePath = System.getProperty("user.dir");   // get the directory of the project
-            filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
+            String filePath = "D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";   // get the directory of the project
             filePath += File.separator + "helpers" + File.separator + "stop_words.txt";
             File myFile = new File(filePath);
 

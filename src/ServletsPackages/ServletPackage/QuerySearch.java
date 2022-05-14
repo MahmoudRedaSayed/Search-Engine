@@ -32,8 +32,15 @@ public class QuerySearch extends HttpServlet {
     public Map<String, Integer> phraSearchingMap = new HashMap<String, Integer>();
     public boolean isPhraseSearching = false;
     public JSONArray dividedQuery = new JSONArray();
-    Ranker rankerObject = new Ranker();
+    public Ranker rankerObject ;
     int count = 0;
+
+    public void init()
+            throws ServletException
+    {
+        rankerObject=new Ranker();
+
+    }
 
 
     public void doGet(HttpServletRequest req, HttpServletResponse res) throws IOException {
@@ -43,16 +50,10 @@ public class QuerySearch extends HttpServlet {
         String searchingQuery = req.getParameter("query");
         res.setContentType("text/html");
         String results = "";
-        DataBase dataBaseObj = new DataBase();
-        count = dataBaseObj.getCompleteCount();
 
-        //WorkingFiles workingFilesObj = new WorkingFiles(5615);
         if (searchingQuery.startsWith("\"") && searchingQuery.endsWith("\"")) {
 
             //call the function of the phrase searching
-            res.getWriter().println("phrase" + count);
-
-
             PhraseSearching obj = new PhraseSearching();
 
             try {
@@ -96,20 +97,18 @@ public class QuerySearch extends HttpServlet {
             res.getWriter().println(results);
 
         }
-//        //Ranker
-//        res.getWriter().println(results.toString());
+
     }
 
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-
-    static class PhraseSearching {
+  static  class PhraseSearching {
         WorkingFiles workingFilesObject;
         DataBase dataBaseObject;
         public PorterStemmer stemObject = new PorterStemmer();
         public String[] stopWords;
-
+        Map<String,Integer> IDs;
 
         public PhraseSearching() throws FileNotFoundException {
 
@@ -117,6 +116,7 @@ public class QuerySearch extends HttpServlet {
             WorkingFiles.readStopWords();
             dataBaseObject = new DataBase();
             this.stopWords = workingFilesObject.getStopWordsAsArray();
+            IDs = dataBaseObject.getIDsAsMap();
             System.out.println("Phrase Searching consturctor");
         }
 
@@ -184,13 +184,14 @@ public class QuerySearch extends HttpServlet {
             int stopIndex, counter;
 
             results.add(0, "");     // if the targeted word is not found, replace empty in its index
-            while (read.hasNextLine()) {
+            while(read.hasNextLine())
+            {
                 tempInput = read.nextLine();
                 if (tempInput.equals(""))
                     continue;
 
                 // check if this line is for a word or just an extension for the previous line
-                if (tempInput.charAt(0) == '/')
+                if (tempInput.charAt(0) == '#')
                 // compare to check if this tempWord = ourWord ?
                 {
                     // extract the word from the line that read by the scanner
@@ -198,7 +199,8 @@ public class QuerySearch extends HttpServlet {
                     String theWord = tempInput.substring(1, stopIndex);
 
                     // this condition for the targeted word
-                    if (!wordIsFound && theWord.equals(word.toLowerCase())) {
+                    if(!wordIsFound && theWord.equals(word.toLowerCase()))
+                    {
                         results.set(0, tempInput);     // target word will have the highest priority
                         wordIsFound = true;
                         continue;
@@ -206,7 +208,8 @@ public class QuerySearch extends HttpServlet {
 
                     counter = 1;
                     // comparing the stemmed version of the target word by the stemmed version of the word in the inverted file
-                    if (stemmingFlag) {
+                    if (stemmingFlag)
+                    {
                         if (stemmedVersion.equals(HelperClass.stemTheWord(theWord)))
                             results.add(counter++, tempInput);
                     }
@@ -229,6 +232,10 @@ public class QuerySearch extends HttpServlet {
             boolean[] indexProcessed;  //Used for Links map, to not add links over and over again
             Map<String, Integer> allLinks = new HashMap<String, Integer>(); //Has links that are repeated for each word of the search query
             JSONObject divide = new JSONObject();             //Used for divided Query servlet to highlight content in results
+            StringBuffer cleanedMessage = new StringBuffer(message);
+            cleanedMessage.deleteCharAt(cleanedMessage.length()-1);   //To remove Quotations \"
+            cleanedMessage.deleteCharAt(0);
+            message = cleanedMessage.toString();
             divide.put("Results", message);
             dividedQuery.put(divide);                    //Populating the array using the whole search query
 
@@ -277,7 +284,7 @@ public class QuerySearch extends HttpServlet {
 
 
                 //false to sepcify it's Phrase Searching not Query Processing
-                searchInInvertedFiles(result[i], targetFile, oneWordResult, false);
+                searchInInvertedFiles(result[i].toLowerCase(), targetFile, oneWordResult, false);
 
 
                 // Loop over versions of Words
@@ -300,6 +307,7 @@ public class QuerySearch extends HttpServlet {
 
                     // Loop over links of the same version of each Word
                     int length_3 = splitLine.length;
+                    boolean [] wordProcessed = new boolean[length_3];
                     for (int k = 1; k < length_3; k++) {
 
                         //Split Each part of the line to get the links, split over ','
@@ -312,7 +320,7 @@ public class QuerySearch extends HttpServlet {
 
                         // Populating Links Map
 
-                        if (i == 0 && !indexProcessed[i]) {
+                        if (i == 0 && !indexProcessed[i]  && !allLinks.containsKey(Link) ) {
                             // For First word, add links
                             allLinks.put(Link, 1);
                             if (k == length_3 - 1) {
@@ -321,7 +329,9 @@ public class QuerySearch extends HttpServlet {
                         }
                         //Then, only increment those already in the map
                         else if (!indexProcessed[i] && allLinks.containsKey(Link)) {
-                            allLinks.put(Link, 1 + allLinks.get(Link));
+                            if(allLinks.get(Link)==i) {
+                                allLinks.put(Link, 1 + allLinks.get(Link));
+                            }
                             if (k == length_3 - 1) {
                                 indexProcessed[i] = true;  //To not add again
                             }
@@ -330,17 +340,29 @@ public class QuerySearch extends HttpServlet {
                 }
 
             }
-            // Removing links that aren't repeated with every single word.
+
+            //Removing links that aren't repeated with every single word.
             for (Iterator<Map.Entry<String, Integer>> it = allLinks.entrySet().iterator(); it.hasNext(); ) {
                 Map.Entry<String, Integer> entry = it.next();
                 if (entry.getValue() < length) {
                     it.remove();
                 }
             }
+
+            // Removing links that don't contain the actual search Query.
+            for (Iterator<Map.Entry<String, Integer>> it = allLinks.entrySet().iterator(); it.hasNext(); ) {
+                Map.Entry<String, Integer> entry = it.next();
+                if(IDs.containsKey(entry.getKey())) {
+                    int currentLinkId = IDs.get(entry.getKey());
+                    String content = HelperClass.readContent(currentLinkId);
+                    if (!content.contains(message)) {
+                        it.remove();
+                    }
+                }
+            }
             return allLinks;
         }
     }
-
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -352,7 +374,6 @@ public class QuerySearch extends HttpServlet {
         Map<String,Long> wordsCount;
         Map<String,Integer> IDs;
         String[] completedLinks;
-        Map<String, Double> popularityResult;
         int completeCount;
 
         public Ranker()
@@ -362,84 +383,7 @@ public class QuerySearch extends HttpServlet {
             completedLinks = connect.getAllUrls();
             completeCount=connect.getCompleteCount();
             IDs = connect.getIDsAsMap();
-            popularityResult=calculatePopularity(completeCount);
         }
-
-
-        public Map<String, Double> calculatePopularity(int totalNodes)             //Popularity
-        {
-
-            //pagesRank1 ==> store the final results of popularity ( each page and its popularity )
-            Map<String, Double> pagesRank1 = new HashMap<String, Double>();
-
-            //TempPageRank is used to store values of pagesRank1 in it temporarily
-            Map<String, Double> TempPageRank = new HashMap<String, Double>();
-
-            //calculate the initial value of popularity for all pages
-            double InitialPageRank = 1.0 / totalNodes;
-
-            // initialize the rank of each page //
-            for (int k = 0; k < totalNodes; k++)
-                pagesRank1.put(completedLinks[k], InitialPageRank);
-
-            //ITERATION_STEP is used to iterate twice following PageRank Algorithm steps
-            int ITERATION_STEP = 1;
-            while (ITERATION_STEP <= 2) {
-
-                // Store the PageRank for All Nodes in Temporary Map
-                for (int k = 0; k < totalNodes; k++) {
-                    TempPageRank.put(completedLinks[k], pagesRank1.get(completedLinks[k]));
-                    pagesRank1.put(completedLinks[k], 0.0);
-                }
-
-                double tempSum = 0;
-                int counter12=0;
-                for (int currentPage = 0; currentPage < totalNodes; currentPage++)
-                {
-                    //I will send child link and I must get Number of OutgoingLinks of the parent
-                    double OutgoingLinks = connect.getParentLinksNum(completedLinks[currentPage]);         //Get it from From ==> (Reda) to recieve the number of outgoing links from parent link
-
-                    //if the link does not have a parent link
-                    String currentLink = connect.getParentLink(completedLinks[currentPage]);
-                    System.out.println(currentLink);
-                    if (currentLink.equals("-1"))
-                    {
-                        pagesRank1.put(completedLinks[currentPage], -1.0);
-                        counter12++;
-                        continue;
-                    }
-                    //I will send child link and get parent link ==> it will be changed later
-                    if(TempPageRank.containsKey(currentLink)) {
-                        System.out.println("Inside");
-                        double temp = TempPageRank.get(currentLink) * (1.0 / OutgoingLinks);
-                        pagesRank1.put(completedLinks[currentPage], temp);
-                        tempSum += pagesRank1.get(completedLinks[currentPage]);
-                    }
-                }
-
-                //Special handling for the first page only as there is no outgoing links to it
-                double temp = 1 - tempSum;
-                double slice = temp / counter12;
-                for ( int i=0 ; i< counter12 ; i++ )
-                {
-                    pagesRank1.put(completedLinks[i],slice );
-                }
-
-                ITERATION_STEP++;
-            }
-
-            // Add the Damping Factor to PageRank
-            double DampingFactor = 0.75;
-            double temp = 0;
-            for (int k = 1; k <= totalNodes; k++) {
-                temp = (1 - DampingFactor) + DampingFactor * pagesRank1.get(completedLinks[k]);
-                pagesRank1.put(completedLinks[k], temp);
-            }
-
-            return pagesRank1;
-        }
-
-
 
         public String calculateRelevance(ArrayList<String> tempLines , Map<String, Integer> allLinks , boolean isPhraseSearching) throws FileNotFoundException, JSONException {
 
@@ -541,10 +485,14 @@ public class QuerySearch extends HttpServlet {
             }
             System.out.println("the map "+ allLinksTf_Idf+"\n \n \n");
 
-
+            int id,popularityResult;
             for(int i=0;i<uniqueLinks.size();i++)
             {
-                allLinksTf_Idf.put(uniqueLinks.get(i),(0.7*allLinksTf_Idf.get(uniqueLinks.get(i))+0.3*popularityResult.get(uniqueLinks.get(i))));
+                id=IDs.get(uniqueLinks.get(i));
+                popularityResult=HelperClass.readPopularity(id);
+                if(popularityResult!=-1) {
+                    allLinksTf_Idf.put(uniqueLinks.get(i), (0.7 * allLinksTf_Idf.get(uniqueLinks.get(i)) + 0.3 * popularityResult));
+                }
             }
             // will need to use the popularty here
             allLinksTf_Idf.entrySet()
@@ -585,14 +533,14 @@ public class QuerySearch extends HttpServlet {
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
-static class QueryProcessing{
+  static class QueryProcessing{
 
-    //--------------------- The Data Members-------------------------//
-    WorkingFiles workingFilesObject;
-    DataBase dataBaseObject;
-    public String[] stopWords;
-
-    //--------------------- Constructor-----------------------------//
+        //--------------------- The Data Members-------------------------//
+        WorkingFiles workingFilesObject;
+        DataBase dataBaseObject;
+        public String[] stopWords;
+        Map<String,Integer> IDs;
+        //--------------------- Constructor-----------------------------//
 
 /*
         * Explanation:
@@ -600,135 +548,136 @@ static class QueryProcessing{
             Read Stop Words to use in further functions
     */
 
-    public QueryProcessing() throws FileNotFoundException {
-        workingFilesObject = new WorkingFiles();
-        WorkingFiles.readStopWords();
-        dataBaseObject = new DataBase();
-        this.stopWords = workingFilesObject.getStopWordsAsArray();
-        System.out.println("The consturctor");
+        public QueryProcessing() throws FileNotFoundException {
+            workingFilesObject = new WorkingFiles();
+            WorkingFiles.readStopWords();
+            dataBaseObject = new DataBase();
+            this.stopWords = workingFilesObject.getStopWordsAsArray();
+            IDs = dataBaseObject.getIDsAsMap();
+            System.out.println("The consturctor");
 
-    }
+        }
 
-    //--------------------------Function SplitQuery--------------------------//
+        //--------------------------Function SplitQuery--------------------------//
 
 /*
         * Explanation:
             Utility Function to divide the search query into the words constituting it
     */
 
-    private String[] SplitQuery(String searchQuery)
-    {
-        String[] subStrings = searchQuery.trim().split("\\s+");
-        return subStrings;
-    }
+        private String[] SplitQuery(String searchQuery)
+        {
+            String[] subStrings = searchQuery.trim().split("\\s+");
+            return subStrings;
+        }
 
 
-    //--------------------------Function removeElement--------------------------//
+        //--------------------------Function removeElement--------------------------//
 
 /*
         * Explanation:
             Utility Function for removeStopWords, used to remove elements from array
     */
 
-    private static String[] removeElement(String[] arr, int[] index) {
-        List<String> list = new ArrayList<>(Arrays.asList(arr));
-        for (int i=0; i<index.length;i++)
-        {
-            list.remove(new String(arr[index[i]]));
+        private static String[] removeElement(String[] arr, int[] index) {
+            List<String> list = new ArrayList<>(Arrays.asList(arr));
+            for (int i=0; i<index.length;i++)
+            {
+                list.remove(new String(arr[index[i]]));
+            }
+            return list.toArray(String[]::new);
         }
-        return list.toArray(String[]::new);
-    }
 
-    //--------------------------Function removeStopWords--------------------------//
+        //--------------------------Function removeStopWords--------------------------//
 
 /*
         * Explanation:
             Function used to remove all stop words from the Search Query
     */
 
-    private String[] removeStopWords(String[] searchQuery)
-    {
-        int length =searchQuery.length;
-        ArrayList<Integer> indeces = new ArrayList<Integer>();
-        for(int i = 0; i< length; i++)
+        private String[] removeStopWords(String[] searchQuery)
         {
-            System.out.println(searchQuery[i].toLowerCase());
-            if (Arrays.asList(this.stopWords).contains(searchQuery[i].toLowerCase()))
+            int length =searchQuery.length;
+            ArrayList<Integer> indeces = new ArrayList<Integer>();
+            for(int i = 0; i< length; i++)
             {
-                indeces.add(i);
+                System.out.println(searchQuery[i].toLowerCase());
+                if (Arrays.asList(this.stopWords).contains(searchQuery[i].toLowerCase()))
+                {
+                    indeces.add(i);
+                }
             }
+            searchQuery = removeElement(searchQuery, indeces.stream().mapToInt(Integer::intValue).toArray());
+            return searchQuery;
         }
-        searchQuery = removeElement(searchQuery, indeces.stream().mapToInt(Integer::intValue).toArray());
-        return searchQuery;
-    }
 
 
-    //--------------------------Function searchInInvertedFiles--------------------------//
+        //--------------------------Function searchInInvertedFiles--------------------------//
 
 /*
         * Explanation:
             Function used to search inverted Files,to fetch results for Search Queries.
     */
 
-    public static void searchInInvertedFiles(ArrayList<String> word, File myFile, ArrayList<String> results, boolean stemmingFlag) throws FileNotFoundException {
-        Scanner read = new Scanner(myFile);
-        int counter = 0;
+        public static void searchInInvertedFiles(ArrayList<String> word, File myFile, ArrayList<String> results, boolean stemmingFlag) throws FileNotFoundException {
+            Scanner read = new Scanner(myFile);
+            int counter = 0;
 
-        String tempInput,
-                stemmedVersion = " ";
+            String tempInput,
+                    stemmedVersion = " ";
 
 
-        boolean wordIsFound = false;
+            boolean wordIsFound = false;
 
-        int stopIndex;
+            int stopIndex;
 
-        while(read.hasNextLine())
-        {
-            tempInput = read.nextLine();
-            int i=0;
-            boolean anyWordFound = false;
-            while(!anyWordFound && i<word.size()) {
-                anyWordFound = false;
+            while(read.hasNextLine())
+            {
+                tempInput = read.nextLine();
+                int i=0;
+                boolean anyWordFound = false;
+                while(!anyWordFound && i<word.size()) {
+                    anyWordFound = false;
 
-                // stemming the word
-                if (stemmingFlag)
-                    stemmedVersion = HelperClass.stemTheWord(word.get(i));
+                    // stemming the word
+                    if (stemmingFlag)
+                        stemmedVersion = HelperClass.stemTheWord(word.get(i));
 
-                if (tempInput.equals(""))
-                    continue;
-
-                // check if this line is for a word or just an extension for the previous line
-                if (tempInput.charAt(0) == '<')
-                // compare to check if this tempWord = ourWord ?
-                {
-                    // extract the word from the line that read by the scanner
-                    stopIndex = tempInput.indexOf('|');
-                    String theWord = tempInput.substring(1, stopIndex);
-
-                    // this condition for the targeted word
-                    if (!wordIsFound && theWord.equals(word.get(i).toLowerCase())) {
-                        results.add(counter++, tempInput);     // target word will have the highest priority
-                        wordIsFound = true;
-                        anyWordFound = true;                   //To not search with other words on same line
+                    if (tempInput.equals(""))
                         continue;
-                    }
 
-                    //counter = 1;
-                    // comparing the stemmed version of the target word by the stemmed version of the word in the inverted file
-                    if (stemmingFlag) {
-                        if (stemmedVersion.equals(HelperClass.stemTheWord(theWord))) {
-                            results.add(counter++, tempInput);
-                            anyWordFound = true;
+                    // check if this line is for a word or just an extension for the previous line
+                    if (tempInput.charAt(0) == '#')
+                    // compare to check if this tempWord = ourWord ?
+                    {
+                        // extract the word from the line that read by the scanner
+                        stopIndex = tempInput.indexOf('|');
+                        String theWord = tempInput.substring(1, stopIndex);
+
+                        // this condition for the targeted word
+                        if (!wordIsFound && theWord.equals(word.get(i).toLowerCase())) {
+                            results.add(counter++, tempInput);     // target word will have the highest priority
+                            wordIsFound = true;
+                            anyWordFound = true;                   //To not search with other words on same line
+                            continue;
+                        }
+
+                        //counter = 1;
+                        // comparing the stemmed version of the target word by the stemmed version of the word in the inverted file
+                        if (stemmingFlag) {
+                            if (stemmedVersion.equals(HelperClass.stemTheWord(theWord))) {
+                                results.add(counter++, tempInput);
+                                anyWordFound = true;
+                            }
                         }
                     }
+                    i++;
                 }
-                i++;
             }
+
         }
 
-    }
-
-    //--------------------------Function sortByValue--------------------------//
+        //--------------------------Function sortByValue--------------------------//
 
 /*
         * Explanation:
@@ -736,31 +685,31 @@ static class QueryProcessing{
     */
 
 
-    public static HashMap<String, Double> sortByValue(HashMap<String, Double> hm)
-    {
-        // Create a list from elements of HashMap
-        List<Map.Entry<String, Double> > list =
-                new LinkedList<Map.Entry<String, Double> >(hm.entrySet());
+        public static HashMap<String, Double> sortByValue(HashMap<String, Double> hm)
+        {
+            // Create a list from elements of HashMap
+            List<Map.Entry<String, Double> > list =
+                    new LinkedList<Map.Entry<String, Double> >(hm.entrySet());
 
-        // Sort the list
-        Collections.sort(list, new Comparator<Map.Entry<String, Double> >() {
-            public int compare(Map.Entry<String, Double> o1,
-                               Map.Entry<String, Double> o2)
-            {
-                return (o2.getValue()).compareTo(o1.getValue());
+            // Sort the list
+            Collections.sort(list, new Comparator<Map.Entry<String, Double> >() {
+                public int compare(Map.Entry<String, Double> o1,
+                                   Map.Entry<String, Double> o2)
+                {
+                    return (o2.getValue()).compareTo(o1.getValue());
+                }
+            });
+
+            // put data from sorted list to hashmap
+            HashMap<String, Double> temp = new LinkedHashMap<String, Double>();
+            for (Map.Entry<String, Double> aa : list) {
+                temp.put(aa.getKey(), aa.getValue());
             }
-        });
-
-        // put data from sorted list to hashmap
-        HashMap<String, Double> temp = new LinkedHashMap<String, Double>();
-        for (Map.Entry<String, Double> aa : list) {
-            temp.put(aa.getKey(), aa.getValue());
+            return temp;
         }
-        return temp;
-    }
 
 
-    //--------------------------Function run--------------------------//
+        //--------------------------Function run--------------------------//
 /*
         * Explanation:
             Returns a Json Array of all results,
@@ -769,130 +718,139 @@ static class QueryProcessing{
     */
 
 
-    public void run(String message, ArrayList<String> queryLinesResult, JSONArray dividedQuery)
-            throws FileNotFoundException, JSONException {
+        public void run(String message, ArrayList<String> queryLinesResult, JSONArray dividedQuery)
+                throws FileNotFoundException, JSONException {
 
-        //Used to save File names of current words
-        HashMap<String,ArrayList<String>> fileNames=new HashMap<String,ArrayList<String>>();
+            //Used to save File names of current words
+            HashMap<String,ArrayList<String>> fileNames=new HashMap<String,ArrayList<String>>();
 
 //Used to add each word together with the whole query; to populate dividedQuery array
-        ArrayList<String> words = new ArrayList<String>();
-        words.add(message);                    //First part of dividedQuery array
-        JSONObject divide = new JSONObject();  //Used for divided Query servlet to highlight content in results
+            ArrayList<String> words = new ArrayList<String>();
+            words.add(message);                    //First part of dividedQuery array
+            JSONObject divide = new JSONObject();  //Used for divided Query servlet to highlight content in results
 
 
-        String[] result = SplitQuery(message); //Splitting for words
-        result  = removeStopWords(result);     // Remove Stop Words from the query
+            String[] result = SplitQuery(message); //Splitting for words
+            result  = removeStopWords(result);     // Remove Stop Words from the query
 
-        JSONArray finalJsonFile = new JSONArray(); //For final results
-
-
-        // Loop over words
-        int length = result.length;
-        for(int i=0; i<length;i++) {
+            JSONArray finalJsonFile = new JSONArray(); //For final results
 
 
-            // Search for proper file name for each word
-            String fileName = "";
-            if (HelperClass.isProbablyArabic(result[i]))
-                fileName = "arabic";
-            else if (result[i].length() == 2)
-                fileName = "two";
-            else if (result[i].length() > 2) {
-                fileName = "_" + result[i].substring(0, 3);
+            // Loop over words
+            int length = result.length;
+            for(int i=0; i<length;i++) {
 
-                // if the word is something like that => UK's
-                File tempFile = new File(HelperClass.invertedFilePath_V3(fileName));
-                if (!tempFile.exists()) {
-                    fileName = "others";
+
+                // Search for proper file name for each word
+                String fileName = "";
+                if (HelperClass.isProbablyArabic(result[i]))
+                    fileName = "arabic";
+                else if (result[i].length() == 2)
+                    fileName = "two";
+                else if (result[i].length() > 2) {
+                    fileName = "_" + result[i].substring(0, 3);
+
+                    // if the word is something like that => UK's
+                    File tempFile = new File(HelperClass.invertedFilePath_V3(fileName));
+                    if (!tempFile.exists()) {
+                        fileName = "others";
+                    }
+                }
+
+                if(!fileNames.containsKey(fileName)) {
+                    ArrayList<String> currentFileWords = new ArrayList<String>();
+                    currentFileWords.add(result[i]);
+                    fileNames.put(fileName, currentFileWords);
+                }
+                else{
+
+                    ArrayList<String> currentFileWords = fileNames.get(fileName);
+                    currentFileWords.add(result[i]);
+                    fileNames.put(fileName , currentFileWords);
                 }
             }
+            //filenames has all words and file names it's assigned to.
 
-            if(!fileNames.containsKey(fileName)) {
-                ArrayList<String> currentFileWords = new ArrayList<String>();
-                currentFileWords.add(result[i]);
-                fileNames.put(fileName, currentFileWords);
-            }
-            else{
+            //Loop over File names map to access all file names.
+            for (Iterator<Map.Entry<String, ArrayList<String>>> it = fileNames.entrySet().iterator(); it.hasNext(); ) {
 
-                ArrayList<String> currentFileWords = fileNames.get(fileName);
-                currentFileWords.add(result[i]);
-                 fileNames.put(fileName , currentFileWords);
-            }
-        }
-        //filenames has all words and file names it's assigned to.
+                Map.Entry<String, ArrayList<String>> currFile = it.next();
 
-        //Loop over File names map to access all file names.
-        for (Iterator<Map.Entry<String, ArrayList<String>>> it = fileNames.entrySet().iterator(); it.hasNext(); ) {
+                // Results for one file.
+                ArrayList<String> oneFileResult = new ArrayList<String>();
 
-            Map.Entry<String, ArrayList<String>> currFile = it.next();
+                String filePath = System.getProperty("user.dir");   // get the directory of the project
 
-            // Results for one file.
-            ArrayList<String> oneFileResult = new ArrayList<String>();
+                // Delete last Directory to get path of Inverted Files, root folder src
+                filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
 
-            String filePath = "D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";   // get the directory of the project
+                filePath += File.separator + "InvertedFiles_V3" + File.separator;
 
-            // Delete last Directory to get path of Inverted Files, root folder src
-            //  filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
+                filePath += currFile.getKey() + ".txt";    //To get File Name
 
-            filePath += File.separator + "InvertedFiles_V3" + File.separator;
+                File targetFile = new File(filePath);
 
-            filePath += currFile.getKey() + ".txt";    //To get File Name
-
-            File targetFile = new File(filePath);
-
-            //true to sepcify it's Query Processing not Phrase Searching
-            searchInInvertedFiles(currFile.getValue(), targetFile,oneFileResult, true);
+                //true to sepcify it's Query Processing not Phrase Searching
+                searchInInvertedFiles(currFile.getValue(), targetFile,oneFileResult, true);
 
 
 
 
-            // Loop over versions of Words
-            // Adding words results to ranker Array
-            // And splitting for the same line to prepare for fetching links
-            int length_2 = oneFileResult.size();
-            for(int j = 0; j<length_2; j++)
-            {
-                //Don't send to ranker
-                if(oneFileResult.get(j).equals(""))
-                {continue;}
-
-                queryLinesResult.add(oneFileResult.get(j));
-
-
-
-                String[] splitLine= oneFileResult.get(j).split("\\[");
-
-
-
-                // Loop over links of the same version of each Word
-                int length_3 = splitLine.length;
-                for (int k=1; k<length_3; k++)
+                // Loop over versions of Words
+                // Adding words results to ranker Array
+                // And splitting for the same line to prepare for fetching links
+                int length_2 = oneFileResult.size();
+                for(int j = 0; j<length_2; j++)
                 {
+                    //Don't send to ranker
+                    if(oneFileResult.get(j).equals(""))
+                    {continue;}
 
-                    //Split Each part of the line to get the links, split over ','
-                    int End = splitLine[k].indexOf(']');
-                    String temp = splitLine[k].substring(0, End);
+                    queryLinesResult.add(oneFileResult.get(j));
 
-                    String[] finalID = temp.split(",");
 
-                    String link = finalID[0];
 
+                    String[] splitLine= oneFileResult.get(j).split("\\[");
+
+
+
+                    // Loop over links of the same version of each Word
+                    int length_3 = splitLine.length;
+                    for (int k=1; k<length_3; k++)
+                    {
+
+                        //Split Each part of the line to get the links, split over ','
+                        int End = splitLine[k].indexOf(']');
+                        String temp = splitLine[k].substring(0, End);
+
+                        String[] finalID = temp.split(",");
+
+                        String link = finalID[0];
+
+                        // Get description and populate Json Array
+                        String description;
+                        JSONObject Jo = new JSONObject();
+                        if(IDs.containsKey(link)) {
+                            int currentLinkID = IDs.get(link);
+                            description = HelperClass.readDescription(currentLinkID);
+                            Jo.put("Link", link);
+                            Jo.put("Description", description);
+                            finalJsonFile.put(Jo);
+                        }
+
+                    }
                 }
+
             }
 
+
+
+
+            // Populate DividedQuery Array
+            divide.put("Result", words);
+            dividedQuery.put(divide);
         }
-
-
-
-
-        // Populate DividedQuery Array
-        divide.put("Result", words);
-        dividedQuery.put(divide);
-
     }
-}
-
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -989,7 +947,7 @@ static class QueryProcessing{
         public Map<String, Long> getWordsCountAsMap() {
             Map<String, Long> resultMap = new HashMap<>();
             try {
-                ResultSet resultSet = this.stmt.executeQuery("SELECT * FROM links;");
+                ResultSet resultSet = this.stmt.executeQuery("SELECT Link , wordCounts FROM links;");
 
                 while (resultSet.next()) {
                     resultMap.put(resultSet.getString("Link"), resultSet.getLong("wordCounts"));
@@ -1080,21 +1038,27 @@ static class QueryProcessing{
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     static class HelperClass {
 
-
         // get the path of the inverted Files_V3
         public static String invertedFilePath_V3(String fileName) {
 //        String filePath = Paths.get("").normalize().toAbsolutePath().toString();
-            String filePath = "D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";
+            String filePath="D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";
             //filePath = filePath.substring(0, .lastIndexOf("\\"));
             filePath += File.separator + "InvertedFiles_V3" + File.separator + fileName + ".txt";
             return filePath;
         }
 
+        public static String populairtyFilesPath()
+        {
+            String filePath = "D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";
+            // filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
+            filePath += File.separator + "PopularityFiles";
+            return filePath;
+        }
 
         // get the path of the content files
         public static String contentFilesPath()
         {
-            String filePath = "D:\\College\\Second_Year\\Second Term\\APT\\Project\\Final Version\\Sreach-Engine";
+            String filePath="D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";
             // filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
             filePath += File.separator + "ContentFiles";
             return filePath;
@@ -1103,7 +1067,7 @@ static class QueryProcessing{
         // get the path of the description files
         public static String descriptionFilesPath()
         {
-            String filePath = "D:\\College\\Second_Year\\Second Term\\APT\\Project\\Final Version\\Sreach-Engine";
+            String filePath="D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";
             // filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
             filePath += File.separator + "descriptionFiles";
             return filePath;
@@ -1132,6 +1096,19 @@ static class QueryProcessing{
                 return content;
             } catch (IOException e) {
                 return null;
+            }
+        }
+
+        // function to read popularity
+        public static int readPopularity(int fileName)
+        {
+            Path filePath = Path.of(populairtyFilesPath() + File.separator + fileName + ".txt");
+            String content = null;
+            try {
+                content = Files.readString(filePath);
+            return Integer.parseInt(content);
+            } catch (IOException e) {
+                return -1;
             }
         }
 
@@ -1170,7 +1147,7 @@ static class QueryProcessing{
     */
         public static void readStopWords() throws FileNotFoundException {
             // open the file that contains stop words
-            String filePath = "D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";   // get the directory of the project
+            String filePath="D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";   // get the directory of the project
             //filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
             filePath += File.separator + "helpers" + File.separator + "stop_words.txt";
             File myFile = new File(filePath);

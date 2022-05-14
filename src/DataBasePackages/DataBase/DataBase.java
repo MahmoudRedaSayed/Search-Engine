@@ -350,6 +350,7 @@ public class DataBase {
                     String linkParent = resultSet2.getString("Link");
                     return linkParent;
                 }
+                return "-1";
             }
 
         }

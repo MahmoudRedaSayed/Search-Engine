@@ -34,7 +34,7 @@ public class HelperClass {
     public static String invertedFilePath_V3(String fileName)
     {
 //        String filePath = Paths.get("").normalize().toAbsolutePath().toString();
-        String filePath = "F:\\Current\\Sreach-Engine";
+        String filePath = "D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";
         //filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
         filePath += File.separator + "InvertedFiles_V3" + File.separator + fileName + ".txt";
         return filePath;
@@ -43,7 +43,7 @@ public class HelperClass {
     // get the path of the inverted Files_V3 folder
     public static String invertedFilePathDirectoryPath()
     {
-        String filePath = "F:\\Current\\Sreach-Engine";
+        String filePath = "D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";
         // filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
         filePath += File.separator + "InvertedFiles_V3";
         return filePath;
@@ -52,16 +52,24 @@ public class HelperClass {
     // get the path of the content files
     public static String contentFilesPath()
     {
-        String filePath = "F:\\Current\\Sreach-Engine";
+        String filePath = "D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";
         // filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
         filePath += File.separator + "ContentFiles";
+        return filePath;
+    }
+
+    public static String populairtyFilesPath()
+    {
+        String filePath = "D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";
+        // filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
+        filePath += File.separator + "PopularityFiles";
         return filePath;
     }
 
     // get the path of the description files
     public static String descriptionFilesPath()
     {
-        String filePath = "F:\\Current\\Sreach-Engine";
+        String filePath = "D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";
         // filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
         filePath += File.separator + "descriptionFiles";
         return filePath;

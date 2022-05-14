@@ -227,6 +227,42 @@ public class WorkingFiles {
         }
     }
 
+
+
+    public static void addPopularityToFile(int pageID, double value)
+    {
+        String path = HelperClass.populairtyFilesPath();
+        path += File.separator + pageID + ".txt";
+
+        File targetFile = new File(path);
+        try {
+            targetFile.createNewFile();
+        } catch (IOException e) {
+            System.out.println("Failed to create this file -->" + pageID + ".txt");
+        }
+
+
+        FileWriter myWriter = null;
+        try {
+            myWriter = new FileWriter(path);// false to re-new the content not append
+        } catch (IOException e) {
+            System.out.println("this file (" + pageID + ".txt) is not found");
+            return;
+        }
+        try {
+            myWriter.write(String.valueOf(value));
+        } catch (IOException e) {
+            System.out.println("error in writting the content to the file");
+            return;
+        }
+        try {
+            myWriter.close();
+        } catch (IOException e) {
+            System.out.println("Can't close the file");
+            return;
+        }
+    }
+
     // add the description of the webPage to its file
     public static void addToDescriptionToFile(int pageID, String desc)
     {
