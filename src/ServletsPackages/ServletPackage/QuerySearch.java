@@ -268,7 +268,7 @@ public class QuerySearch extends HttpServlet {
                     }
                 }
 
-                String filePath = "D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";
+                String filePath = "D:\\College\\Second_Year\\Second Term\\APT\\Project\\Final Version\\Final\\Sreach-Engine";
 
                 filePath += File.separator + "InvertedFiles_V3" + File.separator;
 
@@ -789,7 +789,7 @@ public class QuerySearch extends HttpServlet {
                 // Results for one file.
                 ArrayList<String> oneFileResult = new ArrayList<String>();
 
-                String filePath = "D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";   // get the directory of the project
+                String filePath = "D:\\College\\Second_Year\\Second Term\\APT\\Project\\Final Version\\Final\\Sreach-Engine";   // get the directory of the project
 
 
                 filePath += File.separator + "InvertedFiles_V3" + File.separator;
@@ -1010,7 +1010,7 @@ public class QuerySearch extends HttpServlet {
         // get the path of the inverted Files_V3
         public static String invertedFilePath_V3(String fileName) {
 //        String filePath = Paths.get("").normalize().toAbsolutePath().toString();
-            String filePath="D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";
+            String filePath="D:\\College\\Second_Year\\Second Term\\APT\\Project\\Final Version\\Final\\Sreach-Engine";
             //filePath = filePath.substring(0, .lastIndexOf("\\"));
             filePath += File.separator + "InvertedFiles_V3" + File.separator + fileName + ".txt";
             return filePath;
@@ -1018,7 +1018,7 @@ public class QuerySearch extends HttpServlet {
 
         public static String populairtyFilesPath()
         {
-            String filePath = "D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";
+            String filePath = "D:\\College\\Second_Year\\Second Term\\APT\\Project\\Final Version\\Final\\Sreach-Engine";
             // filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
             filePath += File.separator + "PopularityFiles";
             return filePath;
@@ -1027,7 +1027,7 @@ public class QuerySearch extends HttpServlet {
         // get the path of the content files
         public static String contentFilesPath()
         {
-            String filePath="D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";
+            String filePath="D:\\College\\Second_Year\\Second Term\\APT\\Project\\Final Version\\Final\\Sreach-Engine";
             // filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
             filePath += File.separator + "ContentFiles";
             return filePath;
@@ -1036,7 +1036,7 @@ public class QuerySearch extends HttpServlet {
         // get the path of the description files
         public static String descriptionFilesPath()
         {
-            String filePath="D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";
+            String filePath="D:\\College\\Second_Year\\Second Term\\APT\\Project\\Final Version\\Final\\Sreach-Engine";
             // filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
             filePath += File.separator + "descriptionFiles";
             return filePath;
@@ -1116,7 +1116,7 @@ public class QuerySearch extends HttpServlet {
     */
         public static void readStopWords() throws FileNotFoundException {
             // open the file that contains stop words
-            String filePath="D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";   // get the directory of the project
+            String filePath="D:\\College\\Second_Year\\Second Term\\APT\\Project\\Final Version\\Final\\Sreach-Engine";   // get the directory of the project
             //filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
             filePath += File.separator + "helpers" + File.separator + "stop_words.txt";
             File myFile = new File(filePath);

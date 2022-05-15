@@ -7,9 +7,7 @@ import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
 
 public class HelperClass {
 
@@ -224,4 +222,61 @@ public class HelperClass {
         return line;
 
     }
+
+    // this function gets the snippets of the result links based on the query that the user entered
+    public static Map<String, String> getSnippet(String[] queryWords, String[] resultLinks, Map<String, String> linkParagraphs)
+    {
+        Map<String, String> result = new HashMap<>();
+        int wordsSize = queryWords.length,
+            linksSize = resultLinks.length;
+
+        String currentParagraph = null,
+               snippetParagraph = null,
+               fullParagraphs   = null;
+
+        for (int i = 0; i < wordsSize; i++)
+        {
+
+
+            for (int j = 0; j < linksSize; j++)
+            {
+                if (result.containsKey(resultLinks[j])) // we need just one snippet for each link, so if we already get a snippet ,then continue
+                    continue;
+
+                fullParagraphs = linkParagraphs.get(resultLinks[j]);
+                // split paragraphs
+                if (fullParagraphs != null)
+                {
+                        String[] separatedParagraphs = fullParagraphs.split("\\S.&\\S");
+                        int size = separatedParagraphs.length;
+
+                        for (int k = 0; k < size; k++)
+                            if (separatedParagraphs[k].contains(queryWords[i]))
+                            {
+                                result.put(resultLinks[j], splitTo30Words(separatedParagraphs[k]));
+                                break;      // because i need just one snippet, if found don't continue to the other paragraphs in this link
+                            }
+                }
+            }
+        }
+        return result;
+    }
+
+    // this functions get only 30 words from the text
+    public static String splitTo30Words(String str)
+    {
+        String[] arr = str.split(" ");
+
+        if (arr.length <= 30)
+            return str;
+
+        String result = arr[0];
+        for (int i = 1; i < 30; i++)
+            result += " " + arr[i];
+
+        return result;
+    }
+
 }
+
+

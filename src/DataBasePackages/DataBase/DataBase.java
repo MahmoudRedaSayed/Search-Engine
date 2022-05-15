@@ -599,6 +599,33 @@ public class DataBase {
         return -1;
     }
 
+    // get map of the needed links and its paragraphs
+    public Map<String, String> getLinksParagraphs(String[] links)
+    {
+        int size = links.length;
+        Map<String, String> resultMap = new HashMap<>();
+        try {
+            String query = "SELECT Link, Paragraph FROM links where Link IN (";
+            int i;
+            for (i = 0; i < size - 1; i++)
+                query += "'" + links[i] + "',";
+
+            // last link
+            query += "'" + links[i] + "');";
+
+            ResultSet resultSet = this.stmt.executeQuery(query);
+
+            while (resultSet.next())
+            {
+                resultMap.put(resultSet.getString("Link"), resultSet.getString("Paragraph"));
+            }
+            return resultMap;
+
+        } catch (SQLException e) {
+            return null;
+        }
+    }
+
     //////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
