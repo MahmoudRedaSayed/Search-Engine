@@ -35,6 +35,7 @@ public class Ranker
     Map<String,Integer> IDs;
     String[] completedLinks;
     Map<String, Double> popularityResult;
+    ArrayList<Integer>completedLinksIds=new ArrayList<Integer>();
     int completeCount;
 
     public Ranker()
@@ -45,6 +46,7 @@ public class Ranker
         completeCount=connect.getCompleteCount();
         IDs = connect.getIDsAsMap();
         calculatePopularity(completeCount);
+        completedLinksIds = connect.getIds();
     }
 
 
@@ -52,60 +54,62 @@ public class Ranker
     {
 
         //pagesRank1 ==> store the final results of popularity ( each page and its popularity )
-        Map<String, Double> pagesRank1 = new HashMap<String, Double>();
+        Map<Integer, Double> pagesRank1 = new HashMap<Integer, Double>();
 
         //TempPageRank is used to store values of pagesRank1 in it temporarily
-        Map<String, Double> TempPageRank = new HashMap<String, Double>();
+        Map<Integer, Double> TempPageRank = new HashMap<Integer, Double>();
 
         //calculate the initial value of popularity for all pages
         double InitialPageRank = 1.0 / totalNodes;
-
-        // initialize the rank of each page //
-        for (int k = 0; k < totalNodes; k++)
-            pagesRank1.put(completedLinks[k], InitialPageRank);
-
         //ITERATION_STEP is used to iterate twice following PageRank Algorithm steps
+        // 1/5000
         int ITERATION_STEP = 1;
         while (ITERATION_STEP <= 2) {
 
             // Store the PageRank for All Nodes in Temporary Map
             for (int k = 0; k < totalNodes; k++) {
-                TempPageRank.put(completedLinks[k], pagesRank1.get(completedLinks[k]));
-                pagesRank1.put(completedLinks[k], 0.0);
+                if(ITERATION_STEP==1)
+                {
+                    TempPageRank.put(completedLinksIds.get(k), InitialPageRank);
+                    pagesRank1.put(completedLinksIds.get(k), 0.0);
+                }
+                else {
+                    TempPageRank.put(completedLinksIds.get(k), pagesRank1.get(completedLinksIds.get(k)));
+                    pagesRank1.put(completedLinksIds.get(k), 0.0);
+                }
             }
 
             double tempSum = 0;
-            int counter12=0;
             for (int currentPage = 0; currentPage < totalNodes; currentPage++)
             {
-                //I will send child link and I must get Number of OutgoingLinks of the parent
-                double OutgoingLinks = connect.getParentLinksNum(completedLinks[currentPage]);         //Get it from From ==> (Reda) to recieve the number of outgoing links from parent link
+                double temp=0.0;
+                //get all links that lead to the current page
+                String LinksOfCurrentPage = connect.getLinknumParent(completedLinksIds.get(currentPage));
 
-                //if the link does not have a parent link
-                String currentLink = connect.getParentLink(completedLinks[currentPage]);
-                System.out.println(currentLink);
-                if (currentLink.equals("-1"))
-                {
-                    pagesRank1.put(completedLinks[currentPage], -1.0);
-                    counter12++;
-                    continue;
+                //split the links that lead to the current page
+                String[] allLinksOfCurrentPage = LinksOfCurrentPage.split(",");
+                // a ,c
+                int k;
+                for (  k=0 ; k<allLinksOfCurrentPage.length ; k++ ) {
+
+                    //I will send child link and I must get Number of OutgoingLinks of the parent
+                    double OutGoingLinks = connect.getOutGoingLinksNum(Integer.parseInt(allLinksOfCurrentPage[k]));         //Get it from From ==> (Reda) to recieve the number of outgoing links from parent link
+                    temp = temp +( TempPageRank.get(Integer.parseInt(allLinksOfCurrentPage[k])) * (1.0 / OutGoingLinks) );
+
                 }
-                //I will send child link and get parent link ==> it will be changed later
-                if(TempPageRank.containsKey(currentLink)) {
-                    System.out.println("Inside");
-                    double temp = TempPageRank.get(currentLink) * (1.0 / OutgoingLinks);
-                    pagesRank1.put(completedLinks[currentPage], temp);
-                    tempSum += pagesRank1.get(completedLinks[currentPage]);
-                }
-                System.out.printf(""+currentPage+"\n");
+
+                pagesRank1.put(completedLinksIds.get(k), temp);
+                tempSum += pagesRank1.get(completedLinksIds.get(k));
+
+
             }
 
             //Special handling for the first page only as there is no outgoing links to it
             double temp = 1 - tempSum;
-            double slice = temp / counter12;
-            for ( int i=0 ; i< counter12 ; i++ )
+            double slice = temp / 70;
+            for ( int i=0 ; i< 70 ; i++ )
             {
-                pagesRank1.put(completedLinks[i],slice );
+                pagesRank1.put(completedLinksIds.get(i),slice );
             }
 
             ITERATION_STEP++;
@@ -114,14 +118,12 @@ public class Ranker
         // Add the Damping Factor to PageRank
         double DampingFactor = 0.75;
         double temp = 0;
-        for (int k = 1; k < totalNodes; k++) {
-            temp = (1 - DampingFactor) + DampingFactor * pagesRank1.get(completedLinks[k]);
-            int id =connect.getID(completedLinks[k]);
-            WorkingFiles.addPopularityToFile(id,temp);
-//            pagesRank1.put(completedLinks[k], temp);
+        for (int k = 0; k < totalNodes; k++) {
+            temp = (1 - DampingFactor) + DampingFactor * pagesRank1.get(completedLinksIds.get(k));
+            WorkingFiles.addPopularityToFile(completedLinksIds.get(k),temp);
         }
-
     }
+
 
 
 

@@ -4,6 +4,7 @@ import IndexerPackages.Indexer.Indexer;
 
 import java.sql.*;
 import java.sql.ResultSet;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -60,7 +61,7 @@ public class DataBase {
     }
 //----------------------------------------------------------------------------------------------------------------------//
 
-    // --------------------------------------Update Link to Complete -------------------------------------------------------//
+
 
 // --------------------------------------Set and Get Thread Position -------------------------------------------------------//
 
@@ -172,78 +173,22 @@ public class DataBase {
 //----------------------------------------------------------------------------------------------------------------------//
 
     //-----------------------------------------get the family of the link --------------------------------------------------//
-    public synchronized ResultSet getParentUrl (String ThreadName,StringBuffer parentLink , StringBuffer grandLink , String link,int Layer)
+    public synchronized ResultSet getParentUrl (String ThreadName, StringBuffer grandLink )
     {
         try {
-//            if (Layer == 1) {
                 ResultSet resultSet = this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='" + ThreadName + "' AND Layer=1 AND Completed=0;");
-                System.out.printf("SELECT * FROM links WHERE  ThreadName='" + ThreadName + "' AND Layer=" + Layer + " AND Completed=0;");
                 while (resultSet.next()) {
                     grandLink.append(resultSet.getString("Link"));
                     return this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='" + ThreadName + "' AND Layer=1 AND Completed=0;");
                 }
-
-//                ResultSet resultSet2= this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+" AND Completed=1;");
-//                while(resultSet2.next())
-//                {
-//                    grandLink.append(resultSet2.getString("Link"));
-//                    return this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+" AND Completed=1;");
-//                }
                 //If the parent  link is completed
                 Thread.currentThread().interrupt();
-//            }
         }
         catch (SQLException e)
         {
 
         }
-//            else if(Layer==2)
-//            {
-//                ResultSet resultSet= this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+" AND Completed=0;");
-//                while(resultSet.next())
-//                {
-//                    resultSet=this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent , k.Layer FROM links as e , links as k WHERE e.Layer= "+Layer+" AND e.ThreadName='"+ThreadName+"' AND k.Id=e.LinkParent;");
-//                    while(resultSet.next())
-//                    {
-//                        parentLink.append(resultSet.getString("Link"));
-//                        return this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent , k.Layer FROM links as e , links as k WHERE e.Layer= "+Layer+" AND e.ThreadName='"+ThreadName+"' AND k.Id=e.LinkParent;");
-//                    }
-//
-//                }
-//                //If the parent  link is completed
-//                Thread.currentThread().interrupt();
-//            }
-//            else if (Layer==3||Layer-1==3)
-//            {
-//                Layer-=1;
-//                ResultSet resultSet= this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='"+ThreadName+"' AND Layer="+Layer+" AND Completed=0;");
-//                while(resultSet.next())
-//                {
-//                    resultSet =this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent , k.Layer FROM links as e , links as k WHERE e.Layer= "+Layer+" AND e.ThreadName='"+ThreadName+"' AND k.Id=e.LinkParent;");
-//                    while(resultSet.next())
-//                    {
-//                        parentLink.append(resultSet.getString("Link"));
-//                        Layer=resultSet.getInt("Layer");
-//                        resultSet =this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent , k.Layer FROM links as e , links as k WHERE e.Layer= "+Layer+" AND e.ThreadName='"+ThreadName+"' AND k.Id=e.LinkParent;");
-//                        while(resultSet.next())
-//                        {
-//                            grandLink.append(resultSet.getString("Link"));
-//                            return this.stmt.executeQuery("SELECT  k.Link  , k.LinkParent , k.Layer FROM links as e , links as k WHERE e.Layer= "+Layer+" AND e.ThreadName='"+ThreadName+"' AND k.Id=e.LinkParent;");
-//                        }
-//
-//                    }
-//
-//
-//                }
-//                //If the parent  link is completed
-//                Thread.currentThread().interrupt();
-//            }
-//        }
-//        catch(SQLException e)
-//        {
-//            return null;
-//
-//        }
+
         return null;
     }
 //----------------------------------------------------------------------------------------------------------------------//
@@ -312,21 +257,15 @@ public class DataBase {
 
     // ---------------------------------------------------------------------------------------------------------------------//
     //-----------------------------------------------get the number of links out from the parent link-----------------------//
-    public int getParentLinksNum(String url)
+    public int getOutGoingLinksNum(int id)
     {
 
         try{
-            String qq= "SELECT LinkParent FROM links  where Link='"+url+"' ;";
+            String qq= "SELECT Counter FROM links  where Id="+id+" ;";
             ResultSet resultSet=this.stmt.executeQuery(qq );
             while(resultSet.next())
             {
-                int parentId=resultSet.getInt("LinkParent");
-                String q = "SELECT count(*) as Number FROM links  where LinkParent="+parentId+";";
-                ResultSet resultSet2=this.stmt.executeQuery(qq );
-                while (resultSet2.next() )
-                {
-                    return resultSet2.getInt("Number");
-                }
+                return resultSet.getInt("Counter");
             }
         }
         catch(SQLException e)
@@ -628,6 +567,52 @@ public class DataBase {
 
     //////////////////////////////////////////////////////////////////////////////////////////////////////
 
+    public void addIdParent(String Url,int parentId)
+    {
+        try {
+            ResultSet resultSet=this.stmt.executeQuery("Select from links where Link='"+Url+"';");
+            while (resultSet.next())
+            {
+                String Counter=resultSet.getString("CounterIds");
+                Counter=Counter+","+parentId;
+                this.stmt.executeUpdate("Update links set CounterIds='"+Counter+"' where Url='"+Url+"';");
 
+            }
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+    }
+
+
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    public String getLinknumParent(int id)
+    {
+        try {
+            ResultSet resultSet=this.stmt.executeQuery("Select * from links where Id="+id+";");
+            while (resultSet.next())
+            {
+                return resultSet.getString("CounterIds");
+            }
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+        return " ";
+    }
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    public ArrayList<Integer> getIds()
+    {
+        try {
+            ResultSet resultSet=this.stmt.executeQuery("select Id from links where Completed=1");
+            ArrayList<Integer> ids=new ArrayList<Integer>();
+            while (resultSet.next())
+            {
+             ids.add(resultSet.getInt("Id"));
+            }
+            return ids;
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+    return null;
+    }
 
 }

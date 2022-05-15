@@ -34,157 +34,65 @@ public class Main {
     public static void main(String[] args) throws FileNotFoundException, JSONException {
 
         //----------------------------------------Crawler-----------------------------------------//
-        
-//        for(int i=0;i<10;i++)
-//        {
-//            ThreadsArray[i]= new Thread(new UrlThread());
-//            ThreadsArray[i].setName("Thread"+(i+1));
-//        }
-//        for(int i=0;i<10;i++)
-//        {
-//            ThreadsArray[i].start();
-//        }
-//        for(int i=0;i<10;i++)
-//        {
-//            try {
-//                ThreadsArray[i].join();
-//            } catch (InterruptedException e) {
-//                e.printStackTrace();
-//            }
-//        }
-//
-//
-//        UrlThread.Limit=0;
-//        for(int i=10;i<20;i++)
-//        {
-//            ThreadsArray[i]= new Thread(new UrlThread());
-//            ThreadsArray[i].setName("Thread"+(i+1));
-//        }
-//        for(int i=10;i<20;i++)
-//        {
-//            ThreadsArray[i].start();
-//        }
-//        for(int i=10;i<20;i++)
-//        {
-//            try {
-//                ThreadsArray[i].join();
-//            } catch (InterruptedException e) {
-//                e.printStackTrace();
-//            }
-//        }
-//
-//        UrlThread.Limit=500;
-//        for(int i=20;i<30;i++)
-//        {
-//            ThreadsArray[i]= new Thread(new UrlThread());
-//            ThreadsArray[i].setName("Thread"+(i+1));
-//        }
-//        for(int i=20;i<30;i++)
-//        {
-//            ThreadsArray[i].start();
-//        }
-//        for(int i=20;i<30;i++)
-//        {
-//            try {
-//                ThreadsArray[i].join();
-//            } catch (InterruptedException e) {
-//                e.printStackTrace();
-//            }
-//        }
-//        UrlThread.Limit=300;
-//        for(int i=30;i<40;i++)
-//        {
-//            ThreadsArray[i]= new Thread(new UrlThread());
-//            ThreadsArray[i].setName("Thread"+(i+1));
-//        }
-//        for(int i=30;i<40;i++)
-//        {
-//            ThreadsArray[i].start();
-//        }
-//        for(int i=30;i<40;i++)
-//        {
-//            try {
-//                ThreadsArray[i].join();
-//            } catch (InterruptedException e) {
-//                e.printStackTrace();
-//            }
-//        }
-//        UrlThread.Limit=200;
-//        for(int i=40;i<50;i++)
-//        {
-//            ThreadsArray[i]= new Thread(new UrlThread());
-//            ThreadsArray[i].setName("Thread"+(i+1));
-//        }
-//        for(int i=40;i<50;i++)
-//        {
-//            ThreadsArray[i].start();
-//        }
-//        for(int i=40;i<50;i++)
-//        {
-//            try {
-//                ThreadsArray[i].join();
-//            } catch (InterruptedException e) {
-//                e.printStackTrace();
-//            }
-//        }
-//        UrlThread.Limit=600;
-//        for(int i=50;i<58;i++)
-//        {
-//            ThreadsArray[i]= new Thread(new UrlThread());
-//            ThreadsArray[i].setName("Thread"+(i+1));
-//        }
-//        for(int i=50;i<58;i++)
-//        {
-//            ThreadsArray[i].start();
-//        }
-//        for(int i=50;i<58;i++)
-//        {
-//            try {
-//                ThreadsArray[i].join();
-//            } catch (InterruptedException e) {
-//                e.printStackTrace();
-//            }
-//        }
 
+        Thread ThreadsArray[]= new Thread[70];
 
-//        UrlThread.Limit=500;
-//        for(int i=58;i<60;i++)
-//        {
-//            ThreadsArray[i]= new Thread(new UrlThread());
-//            ThreadsArray[i].setName("Thread"+(i+1));
-//        }
-//        for(int i=58;i<60;i++)
-//        {
-//            ThreadsArray[i].start();
-//        }
-//        for(int i=58;i<60;i++)
-//        {
-//            try {
-//                ThreadsArray[i].join();
-//            } catch (InterruptedException e) {
-//                e.printStackTrace();
-//            }
-////        }
-//        UrlThread.Limit=200;
-//        for(int i=60;i<70;i++)
-//        {
-//            ThreadsArray[i]= new Thread(new UrlThread());
-//            ThreadsArray[i].setName("Thread"+(i+1));
-//        }
-//        for(int i=60;i<70;i++)
-//        {
-//            ThreadsArray[i].start();
-//        }
-//        for(int i=60;i<70;i++)
-//        {
-//            try {
-//                ThreadsArray[i].join();
-//            } catch (InterruptedException e) {
-//                e.printStackTrace();
-//            }
-//        }
+        UrlThread.Limit=0;
+        for(int i=0;i<25;i++)
+        {
+            ThreadsArray[i]= new Thread(new UrlThread());
+            ThreadsArray[i].setName("Thread"+(i+1));
+        }
+        for(int i=0;i<25;i++)
+        {
+            ThreadsArray[i].start();
+        }
+        for(int i=0;i<25;i++)
+        {
+            try {
+                ThreadsArray[i].join();
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }
 
+        UrlThread.Limit=200;
+        for(int i=25;i<50;i++)
+        {
+            ThreadsArray[i]= new Thread(new UrlThread());
+            ThreadsArray[i].setName("Thread"+(i+1));
+        }
+        for(int i=25;i<50;i++)
+        {
+            ThreadsArray[i].start();
+        }
+        for(int i=25;i<50;i++)
+        {
+            try {
+                ThreadsArray[i].join();
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }
 
+        UrlThread.Limit=100;
+        for(int i=50;i<70;i++)
+        {
+            ThreadsArray[i]= new Thread(new UrlThread());
+            ThreadsArray[i].setName("Thread"+(i+1));
+        }
+        for(int i=50;i<70;i++)
+        {
+            ThreadsArray[i].start();
+        }
+        for(int i=50;i<70;i++)
+        {
+            try {
+                ThreadsArray[i].join();
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }
 
 
         //-------------------------------------------------------------------------------------------------------------//

@@ -397,6 +397,7 @@ public class QuerySearch extends HttpServlet {
 
             //
             System.out.println("before the loop "+tempLines.size()+"\n");
+            ArrayList<String> snipptes = new ArrayList<String>();
             for (int i = 0; i < tempLines.size(); i++) {
                 Map<String, Double> Links_numOfOccurrences = new HashMap<String, Double>();
                 //to make priority between title,header,paragraph
@@ -433,8 +434,10 @@ public class QuerySearch extends HttpServlet {
                             coeff = 1.0 / 2.0;
                         else if (wordType == 'h' || wordType == 's')         //header or strong
                             coeff = 1.0 / 4.0;
-                        else                                                    //paragraph
+                        else {//paragraph
+                            snipptes.add(linkOfCurrentPage);
                             coeff = 1.0 / 8.0;
+                        }
 
                         //to get number of occurrences of each word
                         int countSeperator = linksWithWordPosition[j].indexOf("]::");

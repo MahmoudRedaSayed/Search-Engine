@@ -66,6 +66,7 @@ public class UrlThread implements  Runnable {
     private  int FirstUrlLayer1;
     private  int FirstUrlLayer2;
     private  int FirstUrlLayer3;
+    private  int FirstUrlLayer4;
     private StringBuffer parentLink=new StringBuffer("");
     private StringBuffer grandLink=new StringBuffer("");
     private String currentLink=new String("");
@@ -99,24 +100,21 @@ public class UrlThread implements  Runnable {
     */
     public void run() {
 
-//        synchronized (this) {
         try {
                 // query to get the url index and layer to start from
                 ResultSet Position = DataBaseObject.getThreadPosition(Thread.currentThread().getName());
 
                 // give it the link of the parent and in the inner loop will skip until reach to the target link
-                int Layer1 = -1;
+                int Layer1 = 1;
                 while (Position.next()) {
                     FirstUrlLayer1 = Position.getInt("UrlIndex1");
                     FirstUrlLayer2 = Position.getInt("UrlIndex2");
                     FirstUrlLayer3 = Position.getInt("UrlIndex3");
-                    Layer1 = Position.getInt("Layer");
+                    FirstUrlLayer4 = Position.getInt("UrlIndex4");
                 }
-
-                parentLink.delete(0, parentLink.length());
                 grandLink.delete(0, parentLink.length());
                 currentLink = "";
-                ResultSet ParentData = DataBaseObject.getParentUrl(Thread.currentThread().getName(), parentLink, grandLink, currentLink, Layer1);
+                ResultSet ParentData = DataBaseObject.getParentUrl(Thread.currentThread().getName(), grandLink);
                 String ParentLink = "";
                 int Id = -1;
                 if (ParentData == null) {
@@ -125,16 +123,8 @@ public class UrlThread implements  Runnable {
                 }
                 while (ParentData!= null && ParentData.next()) {
                     Id = ParentData.getInt("LinkParent");
-                    Layer1 = ParentData.getInt("Layer");
                 }
-                Layer1=1;
-                if (Layer1 == 1) {
-                    linkProcessing(grandLink.toString(), Layer1, FirstUrlLayer1, FirstUrlLayer2, FirstUrlLayer3, Id);
-                } else if (Layer1 == 2) {
-                    linkProcessing(parentLink.toString(), Layer1, FirstUrlLayer1, FirstUrlLayer2, FirstUrlLayer3, Id);
-                } else {
-                    linkProcessing(currentLink, Layer1, FirstUrlLayer1, FirstUrlLayer2, FirstUrlLayer3, Id);
-                }
+                linkProcessing(grandLink.toString(), Layer1, FirstUrlLayer1, FirstUrlLayer2, FirstUrlLayer3,FirstUrlLayer4, Id);
 
             }
     catch(SQLException e)
@@ -143,7 +133,6 @@ public class UrlThread implements  Runnable {
             }
 
         }
-    //}
 
     //---------------------------------------------------------------//
 
@@ -444,7 +433,7 @@ public class UrlThread implements  Runnable {
     * Explanation:-
     *   this function is responsible for the extracting the links and manage the limit of the links
     * */
-    public synchronized void linkProcessing(String Url,int Layer,int Index1,int Index2,int Index3,int ParentId)
+    public synchronized void linkProcessing(String Url,int Layer,int Index1,int Index2,int Index3,int Index4,int ParentId)
     {
         //-----------------------------------------------------------------------------------------------------------------//
         /*
@@ -456,25 +445,6 @@ public class UrlThread implements  Runnable {
         * */
         // query to check if the current link is not repeated or not  and if it is normalized by using one function
                     // call function to insert the link into the database
-                    if (!(ParentId==-1))
-                    {
-                        boolean found=false;
-                        ResultSet data =DataBaseObject.getUrls2(Url);
-                        try {
-                            while (data != null && data.next()) {
-                                found = true;
-                            }
-                            if (!found) {
-                                DataBaseObject.createLink(Url, Layer, Thread.currentThread().getName(), ParentId);
-                                IncrementInserted();
-
-                            }
-                        }
-                        catch( SQLException e)
-                        {
-
-                        }
-                    }
                     int parentId = 0;
                     parentId = DataBaseObject.getId(Url, Thread.currentThread().getName());
         //-----------------------------------------------------------------------------------------------------------------//
@@ -510,7 +480,7 @@ public class UrlThread implements  Runnable {
                             PageParsing pageContent=new PageParsing(doc);
                             String headers=Arrays.toString(pageContent.getHeaders()).replace("'","\\\'").replace("\"","\\\"");
                             String title=pageContent.getTitleTag().replace("'","\\\'").replace("\"","\\\"");
-                            String paragraphs= Arrays.toString(pageContent.getParagraphs()).replace("'","\\\'").replace("\"","\\\"");
+                            String paragraphs= Arrays.toString(pageContent.getParagraphs()).replace("'","\\\'").replace("\"","\\\"").replace(",",".&&");
                             String listItems=Arrays.toString(pageContent.getListItems()).replace("'","\\\'").replace("\"","\\\"");
                             String strongWords=Arrays.toString(pageContent.getStrongs()).replace("'","\\\'").replace("\"","\\\"");
                             DataBaseObject.addElements(parentId,paragraphs,title,headers,listItems,strongWords);
@@ -519,13 +489,6 @@ public class UrlThread implements  Runnable {
                             // check if its content is same content to another link in the database
                             String content= DataBaseObject.getContent(parentId);
                             ResultSet contentResultSet=DataBaseObject.getContents(content,parentId);
-
-//                            try {
-//                                if ((contentResultSet!=null&&contentResultSet.next())) return;
-//                            }
-//                            catch (SQLException e) {
-//                                e.printStackTrace();
-//                            }
                             //-----------------------------------------------------------------------------------------------------------------------------------------------//
                             try {
                                 String desc = doc.select("meta[name=description]").get(0)
@@ -557,15 +520,17 @@ public class UrlThread implements  Runnable {
 
                                     forbidden=DisallowedCheck(Disallowed,Allowed,link.attr("href"));
 
-                                    if (getLimit() < 1000 && result != "-1"&&!forbidden) {
+                                    if (getLimit() < 2000 && result != "-1"&&!forbidden) {
                                         try {
                                             //-----------------------------------------------------------------------------------------------------------------//
                                             // this part to check if the link is inserted by another thread or not
                                             if(flag==1)
                                             {
-                                                ResultSet resultSet=DataBaseObject.getUrls2(link.attr("href"));
+                                                ResultSet resultSet=DataBaseObject.getUrls2(result);
                                                 if (resultSet!=null&&resultSet.next())
                                                 {
+                                                    // add to the string of the ids
+                                                    DataBaseObject.addIdParent(result,ParentId);
                                                     continue;
                                                 }
 
@@ -575,7 +540,7 @@ public class UrlThread implements  Runnable {
                                             }
                                         //-----------------------------------------------------------------------------------------------------------------//
 
-                                            linkProcessing(result, Layer + 1, counter,Index2,Index3, parentId);
+                                            linkProcessing(result, Layer + 1, counter,Index2,Index3,Index4, parentId);
                                             ResultSet resultSet=DataBaseObject.getUrls2(result);
                                             while (resultSet.next())
                                             {
@@ -587,7 +552,7 @@ public class UrlThread implements  Runnable {
 
                                         }
 
-                                    } else if (getLimit() >= 1000) {
+                                    } else if (getLimit() >= 2000) {
                                         // query to set the layer and the index to 0 setThread Position
                                         DataBaseObject.setThreadPosition(Thread.currentThread().getName(), -1, 0);
                                         Thread.currentThread().interrupt();
@@ -626,7 +591,7 @@ public class UrlThread implements  Runnable {
                             PageParsing pageContent=new PageParsing(doc);
                             String headers=Arrays.toString(pageContent.getHeaders()).replace("'","\\\'").replace("\"","\\\"");
                             String title=pageContent.getTitleTag().replace("'","\\\'").replace("\"","\\\"");
-                            String paragraphs= Arrays.toString(pageContent.getParagraphs()).replace("'","\\\'").replace("\"","\\\"");
+                            String paragraphs= Arrays.toString(pageContent.getParagraphs()).replace("'","\\\'").replace("\"","\\\"").replace(",",".&&");
                             String listItems=Arrays.toString(pageContent.getListItems()).replace("'","\\\'").replace("\"","\\\"");
                             String strongWords=Arrays.toString(pageContent.getStrongs()).replace("'","\\\'").replace("\"","\\\"");
                             DataBaseObject.addElements(parentId,paragraphs,title,headers,listItems,strongWords);
@@ -635,13 +600,6 @@ public class UrlThread implements  Runnable {
                             // check if its content is same content to another link in the database
                             String content= DataBaseObject.getContent(parentId);
                             ResultSet contentResultSet=DataBaseObject.getContents(content,parentId);
-
-//                            try {
-//                                if ((contentResultSet!=null&&contentResultSet.next())) return;
-//                            }
-//                            catch (SQLException e) {
-//                                e.printStackTrace();
-//                            }
                             //-----------------------------------------------------------------------------------------------------------------------------------------------//
 
                             try {
@@ -673,7 +631,7 @@ public class UrlThread implements  Runnable {
 
                                     forbidden=DisallowedCheck(Disallowed,Allowed,link.attr("href"));
 
-                                    if (getLimit() < 1000 && result != "-1"&&!forbidden) {
+                                    if (getLimit() < 2000 && result != "-1"&&!forbidden) {
                                         try {
                                             //-----------------------------------------------------------------------------------------------------------------//
                                             // this part to check if the link is inserted by another thread or not
@@ -682,6 +640,8 @@ public class UrlThread implements  Runnable {
                                                 ResultSet resultSet=DataBaseObject.getUrls2(link.attr("href"));
                                                 if (resultSet!=null&&resultSet.next())
                                                 {
+                                                    // add to the string of the ids
+                                                    DataBaseObject.addIdParent(result,ParentId);
                                                     continue;
                                                 }
 
@@ -691,7 +651,7 @@ public class UrlThread implements  Runnable {
                                             }
                                             //-----------------------------------------------------------------------------------------------------------------//
 
-                                            linkProcessing(result, Layer + 1,Index1, counter,Index3, parentId);
+                                            linkProcessing(result, Layer + 1,Index1, counter,Index3,Index4, parentId);
                                             ResultSet resultSet=DataBaseObject.getUrls2(result);
                                             while (resultSet.next())
                                             {
@@ -703,7 +663,7 @@ public class UrlThread implements  Runnable {
 
                                         }
 
-                                    } else if (getLimit() >= 1000) {
+                                    } else if (getLimit() >= 2000) {
                                         // query to set the layer and the index to 0 setThread Position
                                         DataBaseObject.setThreadPosition(Thread.currentThread().getName(), -1, 0);
                                         Thread.currentThread().interrupt();
@@ -740,7 +700,7 @@ public class UrlThread implements  Runnable {
                             PageParsing pageContent=new PageParsing(doc);
                             String headers=Arrays.toString(pageContent.getHeaders()).replace("'","\\\'").replace("\"","\\\"");
                             String title=pageContent.getTitleTag().replace("'","\\\'").replace("\"","\\\"");
-                            String paragraphs= Arrays.toString(pageContent.getParagraphs()).replace("'","\\\'").replace("\"","\\\"");
+                            String paragraphs= Arrays.toString(pageContent.getParagraphs()).replace("'","\\\'").replace("\"","\\\"").replace(",",".&&");
                             String listItems=Arrays.toString(pageContent.getListItems()).replace("'","\\\'").replace("\"","\\\"");
                             String strongWords=Arrays.toString(pageContent.getStrongs()).replace("'","\\\'").replace("\"","\\\"");
                             DataBaseObject.addElements(parentId,paragraphs,title,headers,listItems,strongWords);
@@ -749,13 +709,6 @@ public class UrlThread implements  Runnable {
                             // check if its content is same content to another link in the database
                             String content= DataBaseObject.getContent(parentId);
                             ResultSet contentResultSet=DataBaseObject.getContents(content,parentId);
-
-//                            try {
-//                                if ((contentResultSet!=null&&contentResultSet.next())) return;
-//                            }
-//                            catch (SQLException e) {
-//                                e.printStackTrace();
-//                            }
                             //-----------------------------------------------------------------------------------------------------------------------------------------------//
                             try {
                                 String desc = doc.select("meta[name=description]").get(0)
@@ -786,7 +739,7 @@ public class UrlThread implements  Runnable {
 
                                     forbidden=DisallowedCheck(Disallowed,Allowed,link.attr("href"));
 
-                                    if (getLimit() < 1000 && result != "-1"&&!forbidden) {
+                                    if (getLimit() < 2000 && result != "-1"&&!forbidden) {
                                         try {
                                             //-----------------------------------------------------------------------------------------------------------------//
                                             // this part to check if the link is inserted by another thread or not
@@ -795,6 +748,8 @@ public class UrlThread implements  Runnable {
                                                 ResultSet resultSet=DataBaseObject.getUrls2(link.attr("href"));
                                                 if (resultSet!=null&&resultSet.next())
                                                 {
+                                                    // add to the string of the ids
+                                                    DataBaseObject.addIdParent(result,ParentId);
                                                     continue;
                                                 }
 
@@ -804,7 +759,7 @@ public class UrlThread implements  Runnable {
                                             }
                                             //-----------------------------------------------------------------------------------------------------------------//
 
-                                            linkProcessing(result, Layer + 1,Index1 ,Index2,counter, parentId);
+                                            linkProcessing(result, Layer + 1,Index1 ,Index2,counter,Index4, parentId);
                                             ResultSet resultSet=DataBaseObject.getUrls2(result);
                                             while (resultSet.next())
                                             {
@@ -816,7 +771,7 @@ public class UrlThread implements  Runnable {
 
                                         }
 
-                                    } else if (getLimit() >= 1000) {
+                                    } else if (getLimit() >= 2000) {
                                         // query to set the layer and the index to 0 setThread Position
                                         DataBaseObject.setThreadPosition(Thread.currentThread().getName(), -1, 0);
                                         Thread.currentThread().interrupt();
@@ -854,7 +809,7 @@ public class UrlThread implements  Runnable {
                             PageParsing pageContent=new PageParsing(doc);
                             String headers=Arrays.toString(pageContent.getHeaders()).replace("'","\\\'").replace("\"","\\\"");
                             String title=pageContent.getTitleTag().replace("'","\\\'").replace("\"","\\\"");
-                            String paragraphs= Arrays.toString(pageContent.getParagraphs()).replace("'","\\\'").replace("\"","\\\"");
+                            String paragraphs= Arrays.toString(pageContent.getParagraphs()).replace("'","\\\'").replace("\"","\\\"").replace(",",".&&");
                             String listItems=Arrays.toString(pageContent.getListItems()).replace("'","\\\'").replace("\"","\\\"");
                             String strongWords=Arrays.toString(pageContent.getStrongs()).replace("'","\\\'").replace("\"","\\\"");
                             DataBaseObject.addElements(parentId,paragraphs,title,headers,listItems,strongWords);
@@ -863,13 +818,6 @@ public class UrlThread implements  Runnable {
                             // check if its content is same content to another link in the database
                             String content= DataBaseObject.getContent(parentId);
                             ResultSet contentResultSet=DataBaseObject.getContents(content,parentId);
-
-//                            try {
-//                                if ((contentResultSet!=null&&contentResultSet.next())) return;
-//                            }
-//                            catch (SQLException e) {
-//                                e.printStackTrace();
-//                            }
                             //-----------------------------------------------------------------------------------------------------------------------------------------------//
                             try {
                                 String desc = doc.select("meta[name=description]").get(0)
@@ -900,7 +848,7 @@ public class UrlThread implements  Runnable {
 
                                     forbidden=DisallowedCheck(Disallowed,Allowed,link.attr("href"));
 
-                                    if (getLimit() < 1000 && result != "-1"&&!forbidden) {
+                                    if (getLimit() < 2000 && result != "-1"&&!forbidden) {
                                         try {
                                             //-----------------------------------------------------------------------------------------------------------------//
                                             // this part to check if the link is inserted by another thread or not
@@ -909,6 +857,8 @@ public class UrlThread implements  Runnable {
                                                 ResultSet resultSet=DataBaseObject.getUrls2(link.attr("href"));
                                                 if (resultSet!=null&&resultSet.next())
                                                 {
+                                                    // add to the string of the ids
+                                                    DataBaseObject.addIdParent(result,ParentId);
                                                     continue;
                                                 }
 
@@ -918,7 +868,7 @@ public class UrlThread implements  Runnable {
                                             }
                                             //-----------------------------------------------------------------------------------------------------------------//
 
-                                            linkProcessing(result, Layer + 1,Index1 ,Index2,counter, parentId);
+                                            linkProcessing(result, Layer + 1,Index1 ,Index2,Index3,counter, parentId);
                                             ResultSet resultSet=DataBaseObject.getUrls2(result);
                                             while (resultSet.next())
                                             {
@@ -930,7 +880,7 @@ public class UrlThread implements  Runnable {
 
                                         }
 
-                                    } else if (getLimit() >= 1000) {
+                                    } else if (getLimit() >= 2000) {
                                         // query to set the layer and the index to 0 setThread Position
                                         DataBaseObject.setThreadPosition(Thread.currentThread().getName(), -1, 0);
                                         Thread.currentThread().interrupt();
@@ -954,7 +904,7 @@ public class UrlThread implements  Runnable {
                     }
                     else
                     {
-                        DataBaseObject.setThreadPosition(Thread.currentThread().getName(), Layer, Index3);
+                        DataBaseObject.setThreadPosition(Thread.currentThread().getName(), Layer, Index4);
                         // query mark the current link as completed and it if it over layer 3
                         try {
                             //-----------------------------------------------------------------------------------------------------------------//
@@ -967,7 +917,7 @@ public class UrlThread implements  Runnable {
                             PageParsing pageContent = new PageParsing(doc);
                             String headers = Arrays.toString(pageContent.getHeaders()).replace("'", "\\\'").replace("\"", "\\\"");
                             String title = pageContent.getTitleTag().replace("'", "\\\'").replace("\"", "\\\"");
-                            String paragraphs = Arrays.toString(pageContent.getParagraphs()).replace("'", "\\\'").replace("\"", "\\\"");
+                            String paragraphs = Arrays.toString(pageContent.getParagraphs()).replace("'", "\\\'").replace("\"", "\\\"").replace(",",".&&");
                             String listItems = Arrays.toString(pageContent.getListItems()).replace("'", "\\\'").replace("\"", "\\\"");
                             String strongWords = Arrays.toString(pageContent.getStrongs()).replace("'", "\\\'").replace("\"", "\\\"");
                             DataBaseObject.addElements(parentId, paragraphs, title, headers, listItems, strongWords);
@@ -976,15 +926,7 @@ public class UrlThread implements  Runnable {
                             // check if its content is same content to another link in the database
                             String content = DataBaseObject.getContent(parentId);
                             ResultSet contentResultSet = DataBaseObject.getContents(content, parentId);
-
-//                            try {
-//                                if ((contentResultSet!=null&&contentResultSet.next())) return;
-//                            }
-//                            catch (SQLException e) {
-//                                e.printStackTrace();
-//                            }
                             //-----------------------------------------------------------------------------------------------------------------------------------------------//
-
                             try {
                                 String desc = doc.select("meta[name=description]").get(0)
                                         .attr("content").replaceAll("'", " ").replace('"', ' ');
