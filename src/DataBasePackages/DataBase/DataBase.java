@@ -354,7 +354,7 @@ public class DataBase {
             ResultSet resultSet=this.stmt.executeQuery("Select * From links as K ,links as J where CONCAT(K.Paragraph,K.Headers,K.Strong,K.ListItems)=CONCAT(J.Paragraph,J.Headers,J.Strong,J.ListItems) AND K.Id="+id+" AND K.Id!=J.Id;");
             while(resultSet.next())
             {
-                this.stmt.executeUpdate("Delete from links where Id="+id+";");
+                this.stmt.executeUpdate("Delete from links where Id="+id+" AND LinkParent != -1;");
             }
             return null;
         }
