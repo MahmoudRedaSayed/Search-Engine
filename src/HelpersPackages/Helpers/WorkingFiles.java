@@ -100,7 +100,7 @@ public class WorkingFiles {
     */
     public static void readStopWords() throws FileNotFoundException {
         // open the file that contains stop words
-        String filePath = "F:\\Current\\Sreach-Engine";   // get the directory of the project
+        String filePath = "D:\\College\\Second_Year\\Second Term\\APT\\Project\\Final Version\\Final\\Sreach-Engine";   // get the directory of the project
         //filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
         filePath += File.separator + "helpers" + File.separator + "stop_words.txt";
         File myFile = new File(filePath);
