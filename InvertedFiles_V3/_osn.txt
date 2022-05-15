@@ -1,2 +1,0 @@
-<osnovne|[http://toni.podmanicki.com,h]::1;
-<osnow|[https://www.orlandosentinel.com,p]::1;

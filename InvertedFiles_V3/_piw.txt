@@ -1,2 +1,0 @@
-<piwik|[https://www.digikey.com/en/help/policies/cookie-notice,p]::2;[https://piwik.pro,t]::1;[https://piwik.pro,h]::2;[https://piwik.pro,s]::7;[https://piwik.pro,p]::20;[https://help.piwik.pro/privacy-policy/#privacy_and_settings,t]::2;[https://help.piwik.pro/privacy-policy/#privacy_and_settings,h]::2;[https://help.piwik.pro/privacy-policy/#privacy_and_settings,s]::6;[https://help.piwik.pro/privacy-policy/#privacy_and_settings,p]::22;
-<piwikpro|[https://help.piwik.pro/privacy-policy/#privacy_and_settings,p]::4;

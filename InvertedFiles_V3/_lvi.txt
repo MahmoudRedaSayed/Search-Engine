@@ -1,2 +1,0 @@
-<lvicasorg|[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,h]::1;
-<lviv|[https://www.dailymail.co.uk/news/breaking_news/index.html,h]::2;[https://www.bbc.co.uk/news/live/world-europe-61353374,p]::1;[https://www.nytimes.com/live/2022/05/09/world/ukraine-russia-war-news,p]::1;

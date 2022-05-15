@@ -1,8 +1,0 @@
-<heels|[https://www.dailymail.co.uk,p]::1;[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;[https://www.dailymail.co.uk/auhome/index.html,s]::1;[https://www.dailymail.co.uk/tvshowbiz/kim_kardashian/index.html,h]::1;[https://www.dailymail.co.uk/tvshowbiz/killing-eve/index.html,h]::1;[https://shopping.dailymail.co.uk,p]::1;[https://nautil.us/topics/genetics,h]::1;[https://onlinecasino-now.nl,p]::1;[https://onlinecasino-now.nl/casino-reviews,s]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,s]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::11;[https://www.historylearningsite.co.uk/world-war-two/the-pacific-war-1941-to-1945/australia-at-war,p]::1;[https://onlinecasino-now.nl/casino-software/netent,p]::3;[https://www.nytimes.com/2022/04/29/science/tiktaalik-fish-fossil-meme.html,p]::1;
-<heersink|[https://www.everydayhealth.com/wellness/resilience,s]::1;
-<heeft|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;[https://onlinecasino-now.nl,s]::1;[https://onlinecasino-now.nl,p]::2;[https://casino-now.be,p]::1;[https://onlinecasino-now.nl/casino-reviews/playamo,p]::2;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::8;[https://onlinecasino-now.nl/casino-software/netent,s]::2;[https://onlinecasino-now.nl/casino-software/netent,p]::21;
-<heeded|[https://nautil.us/wise,p]::1;[https://nautil.us/topics/history,p]::1;[https://www.nytimes.com/2022/05/06/theater/into-the-woods-review.html,p]::1;
-<heeding|[https://nautil.us/topics/environment,h]::1;
-<heen|[https://casino-now.be,s]::1;[https://onlinecasino-now.nl/casino-software/netent,p]::1;
-<heet|[https://onlinecasino-now.nl/casino-reviews/cookie,p]::1;
-<heetten|[https://onlinecasino-now.nl/casino-software/netent,p]::1;

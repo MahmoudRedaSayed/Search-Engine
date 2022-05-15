@@ -1,2 +1,0 @@
-<nuxe|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,h]::1;[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,s]::1;
-<nuxtjs|[https://opencollective.com/icons8,p]::2;

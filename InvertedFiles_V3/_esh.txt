@@ -1,3 +1,0 @@
-<eshop|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<eshay|[https://www.dailymail.co.uk/news/sydney/index.html,h]::1;
-<eshe|[https://www.nytimes.com/live/2022/05/09/world/ukraine-russia-war-news,p]::1;

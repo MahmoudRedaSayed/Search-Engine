@@ -1,4 +1,0 @@
-<mcewen|[https://www.everydayhealth.com/stress/guide,h]::1;
-<mcelory|[https://jobs.mayoclinic.org/afp,p]::2;
-<mcelorybritanymayoedu|[https://jobs.mayoclinic.org/afp,p]::1;
-<mcenany|[https://www.foxnews.com/media,p]::2;[https://www.foxnews.com/shows/fox-nation,p]::1;

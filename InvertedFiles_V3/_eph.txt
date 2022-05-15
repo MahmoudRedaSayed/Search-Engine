@@ -1,7 +1,0 @@
-<ephemeral|[https://archive.org/about,p]::2;[https://archive.org/about/bios.php,p]::3;[http://www.archive-it.org,p]::3;[http://www.lewisandclark.org,p]::1;[https://community.ebay.com,h]::1;
-<ephemerides|[https://www.iflscience.com/space/over-1000-unknown-asteroids-discovered-in-old-hubble-data-by-citizen-scientists-and-ais,p]::2;[https://en.wikipedia.org/wiki/Ephemeris,p]::16;
-<ephemeris|[https://en.wikipedia.org/wiki/Ephemeris,t]::1;[https://en.wikipedia.org/wiki/Ephemeris,h]::1;[https://en.wikipedia.org/wiki/Ephemeris,p]::7;
-<ephemerisedit|[https://en.wikipedia.org/wiki/Ephemeris,h]::1;
-<ephemerisdiary|[https://en.wikipedia.org/wiki/Ephemeris,p]::2;
-<ephron|[https://www.imdb.com/search/name/?match_all=true&ref_=nv_cel_m,p]::1;
-<ephemerabreaking|[https://community.ebay.com,p]::1;

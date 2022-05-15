@@ -1,2 +1,0 @@
-<zda|[https://disneytermsofuse.com/czech,p]::1;
-<zdarma|[http://cz.talkenglish.com,t]::1;[http://cz.talkenglish.com,p]::1;

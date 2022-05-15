@@ -1,3 +1,0 @@
-<imsdb|[https://www.tutorialspoint.com/tutorialslibrary.htm,p]::1;[https://www.tutorialspoint.com/database_tutorials.htm,p]::1;[https://lifetickler.com/digital-parenting-and-monitoring-solution-for-working-moms,p]::1;
-<imsi|[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;
-<imsc|[https://bbc.github.io/subtitle-guidelines,h]::1;

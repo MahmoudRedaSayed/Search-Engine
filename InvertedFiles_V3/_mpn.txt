@@ -1,5 +1,0 @@
-<mpn|[https://www.everydayhealth.com/cancer/fda-approves-pacritinib-for-treatment-of-myelofibrosis,p]::1;[https://www.cancersupportcommunity.org,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/google-alisveris-reklamlari-icin-gtin-zorunlulugu,s]::1;[https://www.ugureskici.com/notlarim-makalelerim/google-alisveris-reklamlari-icin-gtin-zorunlulugu,p]::13;
-<mpns|[https://www.cancersupportcommunity.org,p]::1;
-<mpni|[https://www.ugureskici.com/notlarim-makalelerim/google-alisveris-reklamlari-icin-gtin-zorunlulugu,p]::1;
-<mpnsiz|[https://www.ugureskici.com/notlarim-makalelerim/google-alisveris-reklamlari-icin-gtin-zorunlulugu,p]::1;
-<mpninin|[https://www.ugureskici.com/notlarim-makalelerim/google-alisveris-reklamlari-icin-gtin-zorunlulugu,p]::1;

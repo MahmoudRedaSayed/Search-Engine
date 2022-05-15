@@ -1,6 +1,0 @@
-<myristate|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
-<myristyl|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::2;
-<myristic|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
-<myristoyl|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
-<myriad|[https://www.everydayhealth.com/ovarian-cancer/does-apple-cider-vinegar-fight-ovarian-cancer,p]::1;[https://www.iflscience.com/environment/is-veganism-the-solution-to-climate-change,p]::1;[http://www.besthistorysites.net/index.php/american-history,p]::3;[https://blog.discourse.org,p]::1;[https://meded.hms.harvard.edu/admissions,p]::1;[https://meded.hms.harvard.edu/admissions-who-we-are,p]::1;[https://meded.hms.harvard.edu/pathways,p]::1;[https://www.nytimes.com/2022/05/09/opinion/iran-deal-irgc-biden.html,p]::1;
-<myrna|[https://m.imdb.com/feature/bestpicture/?ref_=nv_ch_osc,p]::2;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::2;

@@ -1,4 +1,0 @@
-<zodpovedajú|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<zodpovedať|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<zodiac|[https://www.dailymail.co.uk/sciencetech/nasa/index.html,h]::1;[https://www.marca.com/en/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;[https://www.sciencenewsforstudents.org/article/scientists-say-constellation,p]::2;[https://www.loc.gov/visit/paths,p]::1;
-<zodat|[https://casino-now.be,p]::3;[https://onlinecasino-now.nl/casino-software/netent,p]::1;

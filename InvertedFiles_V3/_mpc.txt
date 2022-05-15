@@ -1,2 +1,0 @@
-<mpc|[https://www.dailymail.co.uk/property/index.html,h]::1;[https://minorplanetcenter.net,p]::4;
-<mpcs|[https://minorplanetcenter.net,p]::1;

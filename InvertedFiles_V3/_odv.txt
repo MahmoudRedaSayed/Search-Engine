@@ -1,3 +1,0 @@
-<odvodený|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::2;
-<odvolanie|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<odvozených|[https://disneytermsofuse.com/czech,p]::3;

@@ -1,1 +1,0 @@
-a high-level introduction to google smart home, including reasons to add support to your devices and how to get started with google smart home development.

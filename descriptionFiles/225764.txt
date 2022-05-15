@@ -1,1 +1,0 @@
-reducing false positives for rare events, adapting echo hardware to ultrasound sensing, and enabling concurrent ultrasound sensing and music playback are just a few challenges amazon researchers addressed.

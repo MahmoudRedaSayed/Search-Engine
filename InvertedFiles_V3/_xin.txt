@@ -1,4 +1,0 @@
-<xinjiang|[https://www.marca.com/juegos-olimpicos-invierno.html?intcmp=MENUPROD&s_kw=juegos-olimpicos-invierno,h]::1;[https://www.nytimes.com/2022/05/06/business/shanghai-xinjiang-china-covid-zero.html,p]::18;
-<xinai|[https://www.hearst.com/ventures,p]::1;
-<xinjiang•|[https://commons.wikimedia.org/wiki/Atlas_of_Australia,p]::1;
-<xinjianged|[https://www.nytimes.com/section/todayspaper,h]::1;[https://www.nytimes.com/2022/05/06/business/shanghai-xinjiang-china-covid-zero.html,t]::1;[https://www.nytimes.com/2022/05/06/business/shanghai-xinjiang-china-covid-zero.html,h]::1;

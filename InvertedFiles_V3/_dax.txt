@@ -1,2 +1,0 @@
-<dax|[https://www.tutorialspoint.com/power_bi/index.htm,p]::1;[https://money.cnn.com/data/markets,h]::1;[https://cnn.com/business/markets,h]::1;[https://markets.money.cnn.com/Marketsdata/Sectors,h]::1;[https://money.cnn.com/data/world_markets/dax,t]::2;[https://money.cnn.com/data/world_markets/dax,h]::1;
-<daxil|[https://az.wikipedia.org/wiki/HTTP_Kuki,p]::8;

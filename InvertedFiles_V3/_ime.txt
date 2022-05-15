@@ -1,7 +1,0 @@
-<imei|[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;[https://sh.wikipedia.org/wiki/Cookie,p]::2;[http://toni.podmanicki.com,h]::1;
-<imenom|[https://sh.wikipedia.org/wiki/Cookie,p]::3;
-<imena|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
-<imel|[https://www.campdream.org/ways-to-support/planned-giving-major-gifts,p]::1;
-<imej|[https://disneytermsofuse.com/bahasa-malaysia,p]::1;
-<imessages|[https://www.apple.com/privacy,p]::1;
-<imelda|[https://www.nytimes.com/live/2022/05/09/world/philippines-election,p]::1;[https://www.nytimes.com/2022/05/06/business/philippines-election-disinformation.html,p]::1;[https://www.nytimes.com/2022/04/13/world/asia/philippines-marcos-president-election.html,p]::1;

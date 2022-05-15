@@ -1,2 +1,0 @@
-<exgymnast|[https://www.metro.co.uk,h]::1;
-<exgator|[https://www.foxnews.com/sports,p]::1;

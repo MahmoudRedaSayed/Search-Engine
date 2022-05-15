@@ -1,1 +1,0 @@
-<bnf|[http://www.archive-it.org,p]::1;[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::1;

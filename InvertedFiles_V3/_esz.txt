@@ -1,4 +1,0 @@
-<eszközt|[https://disneytermsofuse.com/hungarian,p]::3;
-<eszközök|[https://disneytermsofuse.com/hungarian,p]::1;
-<eszköze|[https://disneytermsofuse.com/hungarian,p]::1;
-<eszközét|[https://disneytermsofuse.com/hungarian,p]::2;

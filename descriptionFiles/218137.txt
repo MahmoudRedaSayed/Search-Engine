@@ -1,1 +1,0 @@
-this document describes what http cookies are and what the difference is between session cookies and persistent cookies.

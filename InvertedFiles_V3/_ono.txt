@@ -1,5 +1,0 @@
-<onoff|[https://developers.google.com/assistant/smarthome/concepts/devices-traits,p]::2;[https://archive.org/about/bios.php,p]::1;[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://disneytermsofuse.com/polish,p]::1;[https://www.myenglishclub.com/page/frequently-asked-questions,s]::1;
-<onover|[https://www.iflscience.com/environment/enzyme-discovered-via-machine-learning-could-be-the-future-of-plastic-disposal,p]::1;
-<onosé|[https://edaa.eu/news-and-resources/multimedia,p]::2;
-<onojeghuoonunsplash|[https://lifetickler.com/10-tips-relationship-experts-want-teach-love,p]::1;
-<onomatopoeic|[https://www.englishclub.com/esl-activities/vocabulary.php,s]::2;

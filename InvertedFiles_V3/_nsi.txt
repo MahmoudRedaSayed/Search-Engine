@@ -1,3 +1,0 @@
-<nsi|[https://www.dailymail.co.uk/money/saving/index.html,h]::1;[https://www.dailymail.co.uk/money/saving/index.html,s]::3;[https://www.dailymail.co.uk/money/experts/index.html,h]::1;
-<nsis|[https://www.dailymail.co.uk/money/saving/index.html,p]::1;
-<nsit|[https://www.geeksforgeeks.org/testimonials/?ref=ghm,p]::1;

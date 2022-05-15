@@ -1,2 +1,0 @@
-<gpo|[https://docs.house.gov/floor,s]::3;[http://www.senate.gov/pagelayout/reference/g_three_sections_with_teasers/reference_home.htm,p]::1;[https://signup.symplr.com/template/template2/index.php,p]::1;
-<gpoin|[http://www.senate.gov/pagelayout/reference/g_three_sections_with_teasers/reference_home.htm,p]::1;

@@ -1,6 +1,0 @@
-<tjenester|[https://disneytermsofuse.com/danish,p]::4;[https://disneytermsofuse.com/norwegian,p]::7;
-<tjenesteyteren|[https://disneytermsofuse.com/norwegian,p]::1;
-<tjenesten|[https://disneytermsofuse.com/norwegian,p]::1;
-<tjenestemerker|[https://disneytermsofuse.com/norwegian,p]::1;
-<tjenestene|[https://disneytermsofuse.com/norwegian,p]::2;
-<tjener|[https://norskcasino-now.com/anmeldelser,p]::1;

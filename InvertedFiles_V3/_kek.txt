@@ -1,8 +1,0 @@
-<keki|[https://sw.wikipedia.org/wiki/Kuki,p]::1;
-<kekalahan|[http://www.beinsports.com/id,p]::1;
-<kekayaan|[https://disneytermsofuse.com/bahasa-indonesia,p]::2;
-<kekerasan|[https://disneytermsofuse.com/bahasa-indonesia,p]::1;
-<kekerapan|[https://disneytermsofuse.com/bahasa-malaysia,p]::1;
-<keksityissä|[https://disneytermsofuse.com/finnish,p]::1;
-<keksiä|[https://netticasino-now.com,p]::1;
-<kekelaokalaninui|[https://www.nps.gov/subjects/womenshistory/20-for-2020.htm,h]::1;[https://www.nps.gov/subjects/womenshistory/20-for-2020.htm,p]::1;

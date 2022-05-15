@@ -1,2 +1,0 @@
-<msh|[https://www.cancer.org/cancer/cancer-causes/genetics/family-cancer-syndromes.html,p]::2;[https://www.cancer.org/cancer/ovarian-cancer/causes-risks-prevention/risk-factors.html,p]::2;
-<msha|[https://jobs.mayoclinic.org/afp,p]::1;

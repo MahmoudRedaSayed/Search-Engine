@@ -1,3 +1,0 @@
-<ciblée|[https://youradchoices.ca/en/tools,p]::1;
-<ciblés|[https://www.canada.ca/fr/sante-publique/services/maladies/maladie-coronavirus-covid-19.html,h]::1;
-<cible|[https://www.canada.ca/fr/sante-publique/services/maladies/maladie-coronavirus-covid-19.html,p]::1;

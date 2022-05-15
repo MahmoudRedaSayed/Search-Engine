@@ -1,9 +1,0 @@
-<raffles|[https://developers.google.com/assistant/console/policies/general-policies,p]::1;[http://paulirish.com,h]::1;[http://paulirish.com,p]::1;[https://docs.google.com/document/d/1K-mKOqiUiSjgZTEscBLjtjd6E67oiK8H2ztOiq5tigk/pub,p]::2;[https://lifetickler.com/why-lottery-should-be-taken-more-positively,p]::2;[https://www.historylearningsite.co.uk/world-war-two/the-pacific-war-1941-to-1945/australia-at-war,p]::1;
-<rafik|[https://www.goal.com/en/lists/nxgn-2016-best-wonderkids/ugt5ciaielx911wusivtpvw6p,h]::1;
-<rafael|[https://www.dailymail.co.uk/sport/tennis/index.html,h]::2;[https://www.marca.com/tenis/2022/05/09/6278d58b46163fb8a28b45c9.html,s]::1;[https://www.marca.com/futbol/champions-league.html?intcmp=MENUPROD&s_kw=futbol-champions-league,h]::1;[https://www.foxnews.com/media/elon-musk-mom-slams-new-york-times-story-detached-apartheid-atrocities-south-africa-child,p]::1;[https://www.foxnews.com/media/twitter-wapo-elon-musk-buyout,p]::2;
-<raft|[https://www.dailymail.co.uk/money/mortgageshome/index.html,h]::1;[https://nautil.us/earth,p]::1;[https://nautil.us/topics/geoscience,p]::1;[https://www.nytimes.com/2022/05/09/opinion/iran-deal-irgc-biden.html,p]::1;
-<raflarda|[https://www.ugureskici.com,p]::1;[https://www.ugureskici.com/ordan-burdan/dijital-pazarlama-temelleri,p]::1;[https://www.ugureskici.com/ordan-burdan,p]::1;
-<rafting|[https://www.campdream.org/about/board-of-directors,p]::1;
-<rafinha|[https://www.marca.com/futbol/resto-america.html?intcmp=MENUPROD&s_kw=?intcmp=MENUPROD&s_kw=futbol-mas-america,h]::1;
-<rafis|[http://www.digikey.com,p]::1;
-<rafferty|[http://www.geraldrfordfoundation.org,h]::1;[http://www.geraldrfordfoundation.org,p]::2;

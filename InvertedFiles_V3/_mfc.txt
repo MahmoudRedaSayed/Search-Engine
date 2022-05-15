@@ -1,1 +1,0 @@
-<mfc|[https://www.tutorialspoint.com/python/index.htm,p]::1;

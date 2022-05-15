@@ -1,8 +1,0 @@
-<kyseisten|[https://disneytermsofuse.com/finnish,p]::1;
-<kyseessä|[https://disneytermsofuse.com/finnish,p]::2;[https://netticasino-now.com,h]::1;
-<kyseistä|[https://disneytermsofuse.com/finnish,p]::1;
-<kyseisen|[https://disneytermsofuse.com/finnish,p]::2;[https://netticasino-now.com/arvostelut,p]::1;
-<kysymyksiä|[https://disneytermsofuse.com/finnish,p]::1;
-<kyseiset|[https://disneytermsofuse.com/finnish,p]::1;
-<kysytyt|[https://netticasino-now.com,h]::1;[https://netticasino-now.com/arvostelut,p]::1;
-<kysymykset|[https://netticasino-now.com,h]::1;[https://netticasino-now.com/arvostelut,p]::1;

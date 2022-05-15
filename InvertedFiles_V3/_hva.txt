@@ -1,3 +1,0 @@
-<hvad|[https://da.wikipedia.org/wiki/Cookie,p]::1;[https://disneytermsofuse.com/danish,p]::2;[https://disneytermsofuse.com/norwegian,p]::2;[https://casino-now.dk,h]::2;[https://norskcasino-now.com,h]::2;
-<hvaða|[https://is.wikipedia.org/wiki/Vafrakaka,p]::1;
-<hvala|[http://www.enable-javascript.com/hr,p]::1;

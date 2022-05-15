@@ -1,3 +1,0 @@
-<smp|[https://www.bbc.co.uk/gel/guidelines/how-to-make-accessible-animated-images,p]::1;
-<smpte|[https://bbc.github.io/subtitle-guidelines,p]::1;
-<smps|[http://www.digikey.com,h]::1;

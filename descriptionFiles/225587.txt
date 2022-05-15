@@ -1,1 +1,0 @@
-how to setup a raspberry pi 3 with ibm watson conversation.

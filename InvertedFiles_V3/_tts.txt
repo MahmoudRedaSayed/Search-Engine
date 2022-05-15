@@ -1,5 +1,0 @@
-<tts|[https://developers.google.com/assistant/console/languages-locales,p]::2;[https://developers.google.com/assistant/surfaces/feature-entry-level-phones,p]::1;
-<ttslineheight|[https://bbc.github.io/subtitle-guidelines,p]::1;
-<ttsextent|[https://bbc.github.io/subtitle-guidelines,p]::1;
-<ttspan|[https://bbc.github.io/subtitle-guidelines,p]::1;
-<ttstextalign|[https://bbc.github.io/subtitle-guidelines,p]::1;

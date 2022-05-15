@@ -1,5 +1,0 @@
-<cylinder|[https://blog.archive.org,h]::1;[https://blog.archive.org,s]::1;[https://blog.archive.org,p]::1;[https://www.geeksforgeeks.org/mensuration/?ref=ghm,p]::2;[https://www.geeksforgeeks.org/cbse-class-8-maths-notes/?ref=ghm,p]::1;[https://www.geeksforgeeks.org/ncert-solutions-for-class-8-maths/?ref=ghm,p]::1;[https://www.geeksforgeeks.org/ncert-solutions-for-class-9-maths/?ref=ghm,p]::1;[https://www.geeksforgeeks.org/rd-sharma-class-8-solutions-for-maths/?ref=ghm,h]::1;[https://www.geeksforgeeks.org/rd-sharma-class-8-solutions-for-maths/?ref=ghm,s]::1;[https://www.geeksforgeeks.org/rd-sharma-class-8-solutions-for-maths/?ref=ghm,p]::3;
-<cylindrical|[https://www.everydayhealth.com/cervical-cancer/guide,p]::1;
-<cylab|[http://bits.blogs.nytimes.com/2010/09/17/a-loophole-big-enough-for-a-cookie-to-fit-through,p]::2;[https://web.archive.org/web/20130126032302/http:/bits.blogs.nytimes.com/2010/09/17/a-loophole-big-enough-for-a-cookie-to-fit-through,p]::2;
-<cylindrycznych|[https://kasyno-now.com,p]::1;
-<cylinders|[https://kidskonnect.com/social-studies/stolen-generation,p]::1;[https://www.geeksforgeeks.org/geometry/?ref=ghm,p]::1;

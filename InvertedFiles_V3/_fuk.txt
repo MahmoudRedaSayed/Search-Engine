@@ -1,2 +1,0 @@
-<fukushima|[https://www.iflscience.com/,h]::1;[https://www.iflscience.com/health-and-medicine,h]::1;[https://www.iflscience.com/environment/the-largest-accidental-release-of-radioactive-material-in-us-history-what-happened-at-church-rock,p]::1;
-<fukushimas|[https://www.iflscience.com/,p]::1;[https://www.iflscience.com/health-and-medicine,p]::1;

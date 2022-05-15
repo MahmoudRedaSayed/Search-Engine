@@ -1,2 +1,0 @@
-<axb|[https://www.geeksforgeeks.org/cbse-class-8-maths-notes/?ref=ghm,p]::1;
-<axbyc|[https://www.geeksforgeeks.org/cbse-class-10-maths-notes/?ref=ghm,p]::1;

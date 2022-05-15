@@ -1,2 +1,0 @@
-<icu|[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::2;[https://www.dailymail.co.uk/sciencetech/nasa/index.html,h]::1;[https://occovid19.ochealthinfo.com/coronavirus-in-oc,h]::1;[https://occovid19.ochealthinfo.com/coronavirus-in-oc,p]::2;[https://www.nytimes.com/live/2022/05/09/world/covid-19-mandates-vaccine-cases,p]::1;
-<icus|[https://www.healthline.com/health-news,h]::1;

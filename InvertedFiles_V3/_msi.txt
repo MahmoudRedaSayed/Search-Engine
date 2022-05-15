@@ -1,4 +1,0 @@
-<msi|[https://www.cancer.org/cancer/cancer-causes/genetics/family-cancer-syndromes.html,p]::2;[https://www.lequipe.fr/Esport,h]::1;
-<msie|[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;
-<msisabelle|[https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm,s]::1;
-<msic|[https://postgraduateeducation.hms.harvard.edu/participant-perspectives,p]::1;

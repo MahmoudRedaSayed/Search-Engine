@@ -1,2 +1,0 @@
-<aap|[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::2;[https://www.dailymail.co.uk/news/breaking_news/index.html,h]::2;
-<aapeeo|[https://www.factset.com/privacy,h]::1;

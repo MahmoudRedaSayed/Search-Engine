@@ -1,5 +1,0 @@
-<kyo|[http://www.enable-javascript.com,p]::1;[http://www.enable-javascript.com/hr,p]::1;[https://github.com/sponsors/hail2u,h]::1;
-<kyoung|[http://firejune.com,p]::1;[https://www.facebook.com/firejune,t]::1;[https://www.facebook.com/firejune,h]::1;[https://github.com/firejune,t]::1;[https://github.com/firejune,h]::1;
-<kyoung‎‏|[https://www.facebook.com/firejune,h]::1;[https://www.facebook.com/firejune,p]::2;
-<kyocera|[http://www.digikey.com,h]::1;[http://www.digikey.com,p]::1;
-<kyoto|[https://www.nytimes.com/2022/05/06/business/shanghai-xinjiang-china-covid-zero.html,p]::1;[https://www.esl-lab.com/academic-english,p]::1;

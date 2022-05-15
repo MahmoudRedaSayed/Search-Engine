@@ -1,4 +1,0 @@
-<enmarcar|[https://www.marca.com/futbol/primera-rfef.html?intcmp=MENUPROD&s_kw=primera-rfef,h]::1;
-<enmendaron|[https://espanol.cdc.gov/coronavirus/2019-ncov/travelers/testing-international-air-travelers.html,p]::1;
-<enmienda|[https://espanol.cdc.gov/coronavirus/2019-ncov/travelers/testing-international-air-travelers.html,p]::1;
-<enmity|[https://www.nytimes.com/2022/05/09/nyregion/aoc-eric-adams.html,p]::1;

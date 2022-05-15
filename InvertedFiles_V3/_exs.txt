@@ -1,4 +1,0 @@
-<exsoldier|[https://www.dailymail.co.uk/news/breaking_news/index.html,h]::1;
-<exsecretario|[https://www.nytimes.com/es,p]::1;
-<exspeaker|[https://www.chicagotribune.com/news/criminal-justice/#nt=taxonomy-article,h]::1;
-<exspect|[https://www.dailywritingtips.com/homograph-examples,p]::1;

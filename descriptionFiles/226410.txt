@@ -1,1 +1,0 @@
-css is used to apply styles to web pages. cascading style sheets are fondly referred to as css. it is used to make web pages presentable.

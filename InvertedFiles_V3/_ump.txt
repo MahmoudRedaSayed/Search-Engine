@@ -1,2 +1,0 @@
-<umpires|[https://www.dailymail.co.uk/news/sydney/index.html,h]::1;[https://www.dailymail.co.uk/news/adelaide/index.html,h]::1;[https://www.dailywritingtips.com/english-grammar-101-all-you-need-to-know,p]::1;
-<umpeutuessa|[https://disneytermsofuse.com/finnish,p]::1;

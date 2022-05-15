@@ -1,2 +1,0 @@
-<eukaryote|[https://www.sciencenewsforstudents.org/article-type/scientists-say,h]::1;
-<eukaryotes|[https://www.sciencenewsforstudents.org/article-type/scientists-say,p]::1;

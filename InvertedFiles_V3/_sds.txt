@@ -1,3 +1,0 @@
-<sds|[https://www.ebay.com/globaldeals/home/tools,h]::1;
-<sdsplus|[https://www.ebay.com/globaldeals/home/tools,h]::1;
-<sds‑plus|[https://www.ebay.com/globaldeals/home/tools,h]::1;

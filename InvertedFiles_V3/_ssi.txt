@@ -1,2 +1,0 @@
-<ssi|[https://blog.archive.org,p]::2;[http://a4esl.org,p]::1;
-<ssid|[https://en.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;

@@ -1,6 +1,0 @@
-<hahn|[https://www.tutorialspoint.com/computer_whoiswho.htm,h]::1;[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::1;[http://jfk.blogs.archives.gov,h]::1;
-<hahmot|[https://disneytermsofuse.com/finnish,p]::1;
-<hahmojen|[https://disneytermsofuse.com/finnish,p]::1;
-<hahvahd|[https://trademark.harvard.edu/pages/trademark-notice,p]::2;
-<hahaha|[https://www.myenglishclub.com/groups/music,p]::1;[https://www.myenglishclub.com/discussions/what-was-your-favorite-book-as-a-child,p]::2;[https://www.myenglishclub.com/discussions/do-you-know-words-that-only-exist-in-your-native-language,p]::1;[https://www.geeksforgeeks.org/campus-geek-of-the-month/?ref=ghm,p]::1;[https://www.dailywritingtips.com/homograph-examples,p]::1;
-<hahahaha|[https://www.myenglishclub.com/videos/fishes,s]::1;[https://www.myenglishclub.com/videos/fishes,p]::1;

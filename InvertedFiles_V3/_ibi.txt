@@ -1,5 +1,0 @@
-<ibili|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
-<ibini|[https://www.bbc.co.uk/programmes/p02r6yqw/episodes/downloads,p]::1;
-<ibiza|[https://www.marca.com/futbol/segunda-division.html?intcmp=MENUPROD&s_kw=segunda-division,h]::1;[https://www.marca.com/futbol/segunda/equipos.html?intcmp=MENUPROD&s_kw=equipos,h]::1;[https://www.marca.com/atletismo.html?intcmp=MENUPROD&s_kw=atletismo,h]::2;[https://www.marca.com/triatlon.html?intcmp=MENUPROD&s_kw=triatlon?intcmp=MENUPROD&s_kw=triatlon,h]::1;
-<ibisworld|[https://www.ibisworld.com/canada/market-research-reports/gambling-industry,t]::1;[https://www.ibisworld.com/canada/market-research-reports/gambling-industry,h]::1;[https://www.ibisworld.com/canada/market-research-reports/gambling-industry,p]::5;
-<ibisworlds|[https://www.ibisworld.com/canada/market-research-reports/gambling-industry,p]::1;

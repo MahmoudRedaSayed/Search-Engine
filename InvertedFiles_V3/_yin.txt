@@ -1,7 +1,0 @@
-<yin|[https://www.everydayhealth.com/wellness,h]::1;[https://www.everydayhealth.com/yoga,s]::1;[https://www.fredisalearns.com,p]::1;
-<yine|[https://www.ugureskici.com/hakkimda,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/projelerimizi-nasil-yonetsek,p]::5;[https://www.ugureskici.com/notlarim-makalelerim/evergreen-content-olumsuz-taze-icerikler,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/rss-yayini-nedir-seo-icin-rss-olusturma,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/marmara-isletme-soruyor-digital-marketing-paneli,p]::2;[https://www.ugureskici.com/page/8,p]::1;[https://www.ugureskici.com/internet-dunyasi,p]::1;
-<yinelenen|[https://www.ugureskici.com/notlarim-makalelerim/robotstxt-nedir-nasil-kullanilir,p]::1;[https://www.ugureskici.com/page/8,p]::2;
-<yinede|[https://www.ugureskici.com/page/8,p]::1;
-<yingyus|[https://library.stanford.edu/all/?q=british%20history&op=Search,p]::1;[https://m.imdb.com/feature/bestpicture/?ref_=nv_ch_osc,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;
-<yingst|[https://www.foxnews.com/world,p]::1;
-<yintercept|[https://www.geeksforgeeks.org/algebra/?ref=ghm,p]::1;

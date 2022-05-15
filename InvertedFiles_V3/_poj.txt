@@ -1,5 +1,0 @@
-<pojobased|[https://www.tutorialspoint.com/spring/index.htm,p]::2;
-<pojos|[https://www.tutorialspoint.com/spring/index.htm,p]::3;
-<pojedyncze|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<pojawia|[https://kasyno-now.com,s]::1;[https://kasyno-now.com,p]::2;
-<pojawiać|[https://kasyno-now.com,p]::1;

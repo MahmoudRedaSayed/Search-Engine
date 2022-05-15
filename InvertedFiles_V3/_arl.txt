@@ -1,4 +1,0 @@
-<arlington|[http://www.archive-it.org,p]::1;[https://nautil.us/topics/arts,h]::1;[http://blogs.archives.gov/aotus,h]::1;[http://blogs.archives.gov/aotus,p]::3;[http://fordlibrarymuseum.tumblr.com,p]::1;[https://www.nytimes.com/live/2022/05/09/world/philippines-election,p]::1;[https://www.nytimes.com/2022/04/13/world/asia/philippines-marcos-president-election.html,p]::1;[https://blog.aboutamazon.com,h]::1;
-<arlene|[https://www.commonweal.org/program/cchp,p]::2;[https://m.imdb.com/feature/bestpicture/?ref_=nv_ch_osc,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;
-<arlana|[https://www.dailymail.co.uk/news/coronavirus/index.html,h]::1;
-<arlyn|[https://lifetickler.com/about-us,p]::1;

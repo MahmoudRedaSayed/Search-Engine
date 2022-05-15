@@ -1,4 +1,0 @@
-<goggles|[https://www.tutorialspoint.com/computer_glossary.htm,p]::1;[https://ovarian.org,p]::1;[https://www.sciencenewsforstudents.org/article/smartphones-bring-ice-age-animals-to-life-augmented-virtual-reality,p]::1;
-<goglobalwithtwitterbanner|[https://twitter.com/tos,p]::1;[https://twitter.com/privacy,p]::1;
-<gogh|[https://www.marca.com/futbol/mas-futbol/tercera-division.html?intcmp=MENUPROD&s_kw=tercera-rfef,h]::1;
-<gogovru|[https://www.nytimes.com/interactive/2021/world/covid-vaccinations-tracker.html,p]::1;

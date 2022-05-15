@@ -1,8 +1,0 @@
-<feuerstein|[https://www.everydayhealth.com/cancer/condition-kitchen-easy-recipes-people-living-with-cancer,h]::1;[https://www.everydayhealth.com/cancer/condition-kitchen-easy-recipes-people-living-with-cancer,p]::7;[https://www.cancer.org/cancer/ovarian-cancer/about/key-statistics.html,p]::2;[http://www.beinsports.com/france,h]::1;
-<feud|[https://www.dailymail.co.uk/tvshowbiz/kim_kardashian/index.html,h]::1;[https://www.dailymail.co.uk/news/perth/index.html,h]::1;[https://www.dailymail.co.uk/sciencetech/blue-origin/index.html,h]::1;[https://www.dailymail.co.uk/sciencetech/google/index.html,h]::1;[https://www.dailymail.co.uk/sciencetech/twitter/index.html,h]::1;[https://www.dailymail.co.uk/dailymailtv/index.html,h]::1;[https://www.nytimes.com/ca/?action=click&region=Footer&pgtype=Homepage,h]::1;[https://www.nytimes.com/live/2022/05/09/us/midterms-primary-elections-nebraska,h]::1;[https://www.nytimes.com/live/2022/05/09/us/midterms-primary-elections-nebraska,p]::1;[https://www.nytimes.com/2022/05/09/us/politics/west-virginia-trump.html,h]::1;[https://www.nytimes.com/2022/05/09/us/politics/west-virginia-trump.html,p]::1;[https://www.nytimes.com/international/?action=click&region=Footer&pgtype=Homepage,h]::1;
-<feudal|[https://www.britannica.com/topic/history-of-Ireland,p]::1;
-<feuds|[https://www.foxnews.com/category/entertainment/celebrity-news,p]::1;[https://www.nytimes.com/2022/05/09/nyregion/aoc-eric-adams.html,p]::1;
-<feuded|[https://www.nytimes.com/live/2022/05/09/us/midterms-primary-elections-nebraska,p]::1;
-<feuerhand|[https://www.ebay.com/globaldeals/home/yard-garden-outdoor-living,h]::1;
-<feuerschale|[https://www.ebay.com/globaldeals/home/yard-garden-outdoor-living,h]::1;
-<feuding|[https://www.nydailynews.com,p]::1;

@@ -1,1 +1,0 @@
-<wgcookieprefix|[https://foundation.wikimedia.org/wiki/Cookie_statement,p]::2;

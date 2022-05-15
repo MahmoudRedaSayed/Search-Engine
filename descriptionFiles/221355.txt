@@ -1,1 +1,0 @@
-cnn s fear & greed index is a way to gauge stock market movements and whether stocks are fairly priced. the index uses seven market indicators to help answer the question: what emotion is driving the market now?

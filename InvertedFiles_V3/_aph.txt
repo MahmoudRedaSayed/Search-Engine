@@ -1,9 +1,0 @@
-<aphorism|[https://play.google.com/store/books,p]::1;
-<aphrodisias|[https://www.aphrodisias.org,t]::2;[https://www.aphrodisias.org,h]::5;[https://www.aphrodisias.org,p]::6;
-<aphrodite|[https://www.aphrodisias.org,h]::1;[https://m.imdb.com/chart/starmeter/?ref_=nv_cel_brn,p]::1;
-<aphroditeden|[https://www.aphrodisias.org,p]::1;
-<aphrodithe|[https://www.aphrodisias.org,p]::1;
-<aphrodisiasdan|[https://www.aphrodisias.org,p]::1;
-<aphasia|[https://www.foxnews.com/entertainment,p]::1;[https://www.foxnews.com/category/entertainment/movies,p]::1;
-<aphonso|[https://www.geeksforgeeks.org/experienced-interview-experiences-company-wise/?ref=ghm,s]::1;[https://www.geeksforgeeks.org/experienced-interview-experiences-company-wise/?ref=ghm,p]::1;
-<aphrodisiac|[https://tadalafilgen.com,p]::1;

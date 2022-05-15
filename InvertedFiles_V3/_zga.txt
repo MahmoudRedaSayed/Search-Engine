@@ -1,4 +1,0 @@
-<zgadzają|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://disneytermsofuse.com/polish,p]::5;
-<zgarnął|[https://kasyno-now.com,p]::1;
-<zgarnie|[https://kasyno-now.com,p]::1;
-<zgarnąć|[https://kasyno-now.com/recenzja/woo,s]::1;

@@ -1,9 +1,0 @@
-<mclogan|[https://www.youtube.com/about/press,p]::1;
-<mclane|[http://edbrowse.org/usersguide.html#cook,p]::1;[https://www.nytimes.com/2022/05/09/theater/tony-awards-nominees.html,p]::1;
-<mclaren|[http://bleacherreport.com/nfl,h]::2;[https://www.dailymail.co.uk/sport/formulaone/index.html,h]::1;
-<mclean|[https://bbbprograms.org,p]::3;[https://postdoc.hms.harvard.edu/harvard-affiliates,s]::2;[https://postdoc.hms.harvard.edu/harvard-affiliates,p]::2;
-<mcleish|[http://www.gamcare.org.uk,h]::1;
-<mclemore|[https://www.foxnews.com/food-drink,p]::1;
-<mclintockand|[https://www.nps.gov/people/lucretia-mott.htm,p]::1;[https://www.nps.gov/people/elizabeth-cady-stanton.htm,p]::1;[https://www.nps.gov/subjects/womenshistory/teach-19th-amendment.htm,h]::1;
-<mclintockmartha|[https://www.nps.gov/people/lucretia-mott.htm,p]::1;
-<mclintocks|[https://www.nps.gov/people/elizabeth-cady-stanton.htm,p]::1;

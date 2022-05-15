@@ -1,8 +1,0 @@
-<ofa|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;[https://lifetickler.com/understanding-car-insurance,p]::1;[http://www.geraldrfordfoundation.org,p]::1;
-<ofassistivedevices|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;
-<ofalmonds|[https://www.everydayhealth.com/mediterranean-diet/guide,p]::1;
-<ofalzheimers|[https://www.everydayhealth.com/diet-and-nutrition/diet/mind-diet-can-this-diet-plan-help-reverse-alzheimers-disease,p]::1;
-<ofacta|[https://www.everydayhealth.com/fertility/in-vitro-fertilization-other-infertility-treatments,p]::1;
-<ofapple|[https://www.apple.com/tv-home,p]::1;[https://www.apple.com/lae/tv-home,p]::1;
-<ofanimation|[https://docs.google.com/document/d/1K-mKOqiUiSjgZTEscBLjtjd6E67oiK8H2ztOiq5tigk/pub,h]::1;
-<ofamericans|[https://www.whitehouse.gov,h]::1;

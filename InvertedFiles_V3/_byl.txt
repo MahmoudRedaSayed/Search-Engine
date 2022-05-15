@@ -1,5 +1,0 @@
-<bylisa|[https://www.everydayhealth.com/,p]::1;[https://disneytermsofuse.com/czech,p]::2;
-<byline|[https://web.archive.org/web/20051001113951/http:/www.microsoft.com/windows/IE/community/columns/historyofie.mspx,p]::1;
-<bylines|[https://lifetickler.com/terms-of-use,p]::1;[https://www.bbc.co.uk/news/help-41670342,p]::3;[https://www.dmgmedia.co.uk/about/dmg-media-leadership,p]::1;
-<bylaws|[https://www.symplr.com/case-studies/provider-management-software-upgrade-transforms-hospitals-processes,p]::1;
-<bylipper|[https://www.foxnews.com/terms-of-use,s]::1;[https://www.foxnews.com/terms-of-use,p]::1;

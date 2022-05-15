@@ -1,1 +1,0 @@
-<rpc|[http://roy.gbiv.com/pubs/dissertation/evaluation.htm,h]::1;[https://web.archive.org/web/20110427074406/http:/roy.gbiv.com/pubs/dissertation/evaluation.htm,h]::1;

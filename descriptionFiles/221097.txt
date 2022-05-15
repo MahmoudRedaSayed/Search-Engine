@@ -1,1 +1,0 @@
-a guide to accessibility requirements to be met by vendors when supplying the bbc with technology: including digital products, services, or hardware, intended for use by bbc staff.

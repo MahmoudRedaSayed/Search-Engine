@@ -1,3 +1,0 @@
-<cpra|[https://edaa.eu/blog-series-edaa-summit-2021-the-follow-up-questions-a-company-perspective-challenges-and-opportunities-of-tomorrow-2,p]::1;[https://www.iab.com,p]::4;[https://thenai.org,p]::1;
-<cprc|[http://www.digikey.com,h]::1;[http://www.digikey.com,p]::1;
-<cprou|[https://community.ebay.com,s]::1;

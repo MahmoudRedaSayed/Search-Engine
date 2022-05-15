@@ -1,9 +1,0 @@
-<obowiązek|[https://pl.wikipedia.org/wiki/HTTP_cookie,h]::1;[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::2;[https://disneytermsofuse.com/polish,p]::4;
-<obowiązującym|[https://disneytermsofuse.com/polish,p]::3;
-<obowiązywać|[https://disneytermsofuse.com/polish,p]::2;
-<obowiązujące|[https://disneytermsofuse.com/polish,p]::1;
-<obowiązującą|[https://disneytermsofuse.com/polish,p]::1;
-<obowiązującej|[https://disneytermsofuse.com/polish,p]::1;
-<obowiązku|[https://disneytermsofuse.com/polish,p]::1;
-<obowiązkiem|[https://disneytermsofuse.com/polish,p]::1;
-<obowiązujących|[https://disneytermsofuse.com/polish,p]::1;

@@ -1,1 +1,0 @@
-google recently announced that their chrome web browser will — with luck, and if a bunch of other conditions come to pass — probably start blocking third-party cookies.

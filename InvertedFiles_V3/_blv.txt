@@ -1,1 +1,0 @@
-<blvd|[https://archive.org/about/contact.php,p]::22;[https://www.netsparker.com/blog/web-security/same-site-cookie-attribute-prevent-cross-site-request-forgery,p]::1;[https://ngmintlsubs.nationalgeographic.co.uk/solo/ContentPage?pagename=Important-customer-alerts,p]::1;[https://www.mayoclinic.org/about-mayo-clinic/contact,p]::2;[http://www.nixonlibrary.gov/index.php,p]::1;

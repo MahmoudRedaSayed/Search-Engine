@@ -1,1 +1,0 @@
-video stabilization library. contribute to georgmartius/vid.stab development by creating an account on github.

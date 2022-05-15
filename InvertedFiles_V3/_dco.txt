@@ -1,3 +1,0 @@
-<dcocuellar|[https://www.congress.gov,p]::1;
-<dcodelauro|[https://www.congress.gov,p]::1;
-<dconnecticut|[https://www.foxnews.com/category/politics/senate,p]::1;[https://www.foxnews.com/category/politics/elections,p]::1;

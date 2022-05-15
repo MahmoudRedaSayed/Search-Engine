@@ -1,2 +1,0 @@
-<enbe|[https://codelabs.developers.google.com/codelabs/appactions,p]::1;
-<enbart|[https://sv.wikipedia.org/wiki/Webbkaka,p]::1;

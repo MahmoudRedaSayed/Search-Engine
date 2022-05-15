@@ -1,1 +1,0 @@
-openshift tutorial,  openshift is a cloud development platform as a service (paas) developed by red hat. it is an open source development platform, which enables the developers to d

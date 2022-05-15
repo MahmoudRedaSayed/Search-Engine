@@ -1,1 +1,0 @@
-<ecdc|[https://github.com/CSSEGISandData/COVID-19,p]::1;[https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases,h]::1;[https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases,s]::3;[https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases,p]::8;

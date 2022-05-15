@@ -1,5 +1,0 @@
-<seychelles|[https://www.dailymail.co.uk/travel/destinations/index.html,h]::1;
-<seyrini|[https://www.ugureskici.com/notlarim-makalelerim/projelerimizi-nasil-yonetsek,p]::1;
-<seychelles•|[https://commons.wikimedia.org/wiki/Atlas_of_Australia,p]::1;
-<seymour|[https://www.tudorhistory.org,p]::1;
-<seymours|[http://hsdm.harvard.edu,p]::1;

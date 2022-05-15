@@ -1,1 +1,0 @@
-<irqw|[http://www.digikey.com,h]::1;

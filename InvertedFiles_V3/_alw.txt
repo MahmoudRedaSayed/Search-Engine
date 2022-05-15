@@ -1,3 +1,0 @@
-<alwyn|[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://www.dailymail.co.uk/auhome/index.html,s]::1;[https://www.dailymail.co.uk/dailymailtv/video/index.html,s]::1;[https://www.dailymail.co.uk/dailymailtv/advertise/index.html,s]::1;
-<alwayson|[https://www.sky.com/business/broadband,h]::1;[https://www.sky.com/business/broadband,s]::1;[https://www.sky.com/business/broadband,p]::1;[https://www.apple.com/lae/watch,p]::1;[https://www.amazon.science/blog/the-science-behind-ultrasonic-motion-sensing-for-echo,p]::1;
-<alwaysimproving|[https://generated.photos/api,p]::1;

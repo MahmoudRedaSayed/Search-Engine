@@ -1,1 +1,0 @@
-jdbc tutorial,  jdbc api is a java api that can access any kind of tabular data, especially data stored in a relational database. jdbc works with java on a variety of platforms

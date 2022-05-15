@@ -1,2 +1,0 @@
-<cpn|[https://www.campdream.org/about/board-of-directors,h]::1;
-<cpnp|[https://blog.nemours.org,p]::1;

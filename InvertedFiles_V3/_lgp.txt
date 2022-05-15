@@ -1,2 +1,0 @@
-<lgpl|[https://www.tutorialspoint.com/hibernate/index.htm,p]::2;
-<lgpd|[https://edaa.eu/blog-series-edaa-summit-2021-the-follow-up-questions-a-company-perspective-challenges-and-opportunities-of-tomorrow-2,p]::1;[https://support.google.com/analytics/answer/6004245?hl=en,s]::1;[https://piwik.pro,p]::1;

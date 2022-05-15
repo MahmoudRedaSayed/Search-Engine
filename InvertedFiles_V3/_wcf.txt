@@ -1,1 +1,0 @@
-<wcf|[https://www.tutorialspoint.com/tutorialslibrary.htm,p]::1;[https://www.tutorialspoint.com/latest_technologies.htm,p]::1;[https://web.archive.org/web/20081223151145/http:/www.infoq.com/articles/rest-anti-patterns,h]::1;

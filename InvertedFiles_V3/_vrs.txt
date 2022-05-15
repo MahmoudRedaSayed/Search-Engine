@@ -1,2 +1,0 @@
-<vrste|[https://sh.wikipedia.org/wiki/Cookie,h]::1;[https://sh.wikipedia.org/wiki/Cookie,p]::2;
-<vrstu|[https://sh.wikipedia.org/wiki/Cookie,p]::1;

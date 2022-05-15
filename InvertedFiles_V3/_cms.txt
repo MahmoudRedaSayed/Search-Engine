@@ -1,4 +1,0 @@
-<cms|[http://www.archive-it.org,p]::1;[https://lifetickler.com/jesse-veluz,p]::1;[http://meteorite.unm.edu/meteorites/meteorite-museum/new-mexico-meteorites,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/evergreen-content-olumsuz-taze-icerikler,p]::1;[https://www.addthis.com,p]::1;[http://www.springshare.com,h]::1;[http://www.springshare.com,p]::1;[https://springshare.com/privacy.html,h]::1;[https://www.englishgrammar.org/wordcounter,p]::1;
-<cmsgroupware|[https://web.archive.org/web/20090103092440/http:/support.mozilla.com/en-US/kb/Clearing%20Private%20Data#top,p]::1;
-<cmsden|[https://www.ugureskici.com/notlarim-makalelerim/ssl-gecisi-icin-seo-kontrol-listesi,p]::1;
-<cms   |[https://www.symplr.com/midas,p]::1;

@@ -1,2 +1,0 @@
-<boffins|[https://www.theregister.com/2021/02/24/dns_cname_tracking,p]::1;
-<bofetada|[https://us.marca.com/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;

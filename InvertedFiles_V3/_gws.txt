@@ -1,2 +1,0 @@
-<gws|[https://www.dailymail.co.uk/news/adelaide/index.html,h]::1;
-<gwsuk|[https://www.ebay.com/globaldeals/tech/laptops-netbooks,h]::1;

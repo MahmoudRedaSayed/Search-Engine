@@ -1,3 +1,0 @@
-<ipromote|[https://edaa.eu/participating-companies,h]::1;
-<iprospect|[https://edaa.eu/participating-companies,h]::1;
-<iprogrammer|[https://stackoverflow.co/company/press,p]::1;

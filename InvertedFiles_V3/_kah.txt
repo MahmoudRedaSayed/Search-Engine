@@ -1,7 +1,0 @@
-<kahle|[https://blog.archive.org,p]::3;[https://archive.org/about/bios.php,p]::4;
-<kahn|[https://www.tutorialspoint.com/computer_whoiswho.htm,h]::1;[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::5;[https://www.healthline.com/health/healthy-sex/second-queer-adolescence,p]::5;[https://meded.hms.harvard.edu/teaching-awards,p]::1;
-<kahler|[https://www.cancer.gov/about-cancer/understanding/what-is-cancer,p]::1;[http://usnatarchives.tumblr.com,p]::2;
-<kahnawake|[https://www.gamingcommission.ca,t]::1;[https://www.gamingcommission.ca,p]::7;[https://www.playground.ca,h]::2;[https://www.playground.ca,p]::1;[https://casino-now-canada.com/online-slots,p]::1;[https://casino-now-canada.com/reviews/spin-casino,p]::3;
-<kahoot|[https://www.edtechdigest.com,h]::2;[https://edtechdigest.com/category/cool-tools,h]::1;
-<kahwash|[https://www.nytimes.com/2022/05/09/magazine/meat-allergy-diagnosis.html,p]::16;
-<kahns|[https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/?ref=ghm,s]::1;

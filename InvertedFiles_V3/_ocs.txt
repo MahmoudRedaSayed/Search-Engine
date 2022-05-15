@@ -1,1 +1,0 @@
-<ocsp|[https://blog.mozilla.org/security/2021/01/26/supercookie-protections,p]::1;

@@ -1,1 +1,0 @@
-check posts, pages & all content for broken links & missing images to improve seo. get notified when bad links are found.

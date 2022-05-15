@@ -1,1 +1,0 @@
-blue prism tutorial,  rpa is the process of automating routine tasks by using software robots such that these tasks are performed automatically without any human intervention. these 

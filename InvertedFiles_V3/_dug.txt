@@ -1,5 +1,0 @@
-<dug|[https://web.archive.org/web/20110926122412/http:/cyberlaw.stanford.edu/node/6715,p]::1;[http://cyberlaw.stanford.edu/node/6715,p]::1;[https://docs.google.com/document/d/1K-mKOqiUiSjgZTEscBLjtjd6E67oiK8H2ztOiq5tigk/pub,p]::1;
-<dugoročni|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
-<duggee|[https://www.bbc.co.uk/cbeebies,p]::1;[https://www.bbc.co.uk/cbeebies/grownups/age-and-needs/special-needs#filter,p]::1;
-<dugout|[http://bleacherreport.com/mlb,h]::1;[http://www.lewisandclark.org,p]::1;[https://www.chicagotribune.com/sports/cubs/ct-chicago-cubs-los-angeles-dodgers-20220509-wn2mcgj52fgozea3kk6xwkoeg4-story.html#nt=interstitial-auto,p]::1;
-<dugdale|[https://kids.kiddle.co/History_of_Australia,p]::1;

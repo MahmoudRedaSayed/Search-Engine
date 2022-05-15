@@ -1,5 +1,0 @@
-<czech|[https://www.dailymail.co.uk,h]::1;[http://wordpress.org/plugins/broken-link-checker,p]::1;[https://www.healthline.com/health/mental-health/discovering-gender-identity-in-isolation,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::2;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::2;[https://www.iabeurope.eu,p]::1;[https://support.google.com/googleplay/?p=about_play,p]::1;[https://www.iflscience.com/space/large-chunk-of-europe-annihilated-in-nasas-latest-asteroid-impact-simulation-exercise,p]::2;[https://disneytermsofuse.com/czech,t]::1;[https://disneytermsofuse.com/czech,h]::1;[https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm,h]::1;[https://commons.wikimedia.org/wiki/Atlas_of_Australia,p]::1;
-<czerwca|[https://kasyno-now.com,p]::1;
-<czego|[https://kasyno-now.com,p]::1;
-<czegoś|[https://kasyno-now.com,p]::1;
-<czechoslovakia•|[https://commons.wikimedia.org/wiki/Atlas_of_Australia,p]::1;

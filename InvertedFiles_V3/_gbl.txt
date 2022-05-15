@@ -1,2 +1,0 @@
-<gbl|[https://www.dailymail.co.uk/news/sydney/index.html,h]::1;
-<gblog|[https://www.geeksforgeeks.org/category/guestblogs/?ref=ndm,t]::1;[https://www.geeksforgeeks.org/category/guestblogs/?ref=ndm,h]::1;

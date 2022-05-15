@@ -1,5 +1,0 @@
-<njehariri|[https://sw.wikipedia.org/wiki/Kuki,h]::1;
-<njegova|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
-<njegovu|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
-<njegovog|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
-<njezine|[https://sh.wikipedia.org/wiki/Cookie,p]::1;

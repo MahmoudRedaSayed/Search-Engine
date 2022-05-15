@@ -1,3 +1,0 @@
-<nefungujú|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::2;
-<nefungovali|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<nefeli|[https://www.dailymail.co.uk/home/you/index.html,h]::1;

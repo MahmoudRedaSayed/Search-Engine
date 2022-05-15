@@ -1,2 +1,0 @@
-<hvis|[https://da.wikipedia.org/wiki/Cookie,p]::3;[https://disneytermsofuse.com/danish,p]::9;[https://disneytermsofuse.com/norwegian,p]::1;
-<hvilket|[https://disneytermsofuse.com/norwegian,p]::1;[https://casino-now.dk,h]::1;[https://casino-now.dk/anmeldelser,p]::1;

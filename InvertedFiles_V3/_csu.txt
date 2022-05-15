@@ -1,2 +1,0 @@
-<csupplements|[https://www.everydayhealth.com/infectious-diseases/coronavirus,p]::1;[http://www.archive-it.org,p]::2;
-<csuite|[https://www.hearst.com/magazines,p]::4;

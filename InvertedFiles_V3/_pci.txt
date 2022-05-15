@@ -1,3 +1,0 @@
-<pci|[https://stackoverflow.com/legal/privacy-policy,p]::1;[https://www.edtechdigest.com/more/privacy-policy,p]::1;
-<pcidss|[https://www.edtechdigest.com/more/privacy-policy,p]::2;
-<pcie|[https://www.ebay.com/globaldeals/tech,h]::2;[https://www.ebay.com/globaldeals/tech/memory-drives-storage,h]::7;

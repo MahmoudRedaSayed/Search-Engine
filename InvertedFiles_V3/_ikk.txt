@@ -1,7 +1,0 @@
-<ikke|[https://da.wikipedia.org/wiki/Cookie,p]::7;[https://no.wikipedia.org/wiki/Informasjonskapsel,p]::2;[https://disneytermsofuse.com/danish,p]::17;[https://disneytermsofuse.com/norwegian,p]::31;[https://norskcasino-now.com/anmeldelser,p]::2;
-<ikkje|[https://nn.wikipedia.org/wiki/Informasjonskapsel,p]::1;
-<ikkekommerciel|[https://disneytermsofuse.com/danish,p]::2;
-<ikkeeksklusiv|[https://disneytermsofuse.com/danish,p]::1;[https://disneytermsofuse.com/norwegian,p]::2;
-<ikkeoverdragelig|[https://disneytermsofuse.com/danish,p]::1;
-<ikkekommersielle|[https://disneytermsofuse.com/norwegian,p]::2;
-<ikkeviderelisensierbar|[https://disneytermsofuse.com/norwegian,p]::1;

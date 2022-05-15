@@ -1,1 +1,0 @@
-use this simple hydration calculator to find out if you’re drinking enough water. to determine if your water intake is adequate, the tool takes factors like gender, weight, and diet quality into account.

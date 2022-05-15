@@ -1,5 +1,0 @@
-<ecard|[https://www.hearstmagazines.co.uk/contact-us,h]::1;[https://www.hearstmagazines.co.uk/faq,p]::5;[https://www.hearstmagazines.co.uk/gift-ideas,p]::5;[https://www.ebay.com/globaldeals/home/home-improvement,h]::3;
-<ecareers|[https://www.everydayhealthgroup.com,s]::1;[https://www.everydayhealthgroup.com,p]::2;
-<ecatalog|[https://www.tlcdirect.org,p]::2;
-<ecards|[https://lifetickler.com/7-signs-that-will-hint-at-your-steady-relationship,p]::1;[https://lifetickler.com/7-ways-to-be-romantic-without-being-pretty-cheesy-or-corny,p]::1;
-<ecam|[https://www.ebay.com/globaldeals/home,h]::1;[https://www.ebay.com/globaldeals/home/major-appliances,h]::2;

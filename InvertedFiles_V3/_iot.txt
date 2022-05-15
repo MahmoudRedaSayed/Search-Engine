@@ -1,2 +1,0 @@
-<iot|[https://www.hearst.com/ventures,p]::1;
-<iota|[https://www.nytimes.com/interactive/2020/us/covid-19-vaccine-doses.html,p]::1;[https://www.nytimes.com/interactive/2021/world/covid-vaccinations-tracker.html,p]::1;[https://www.nytimes.com/interactive/2021/us/covid-cases-deaths-tracker.html,p]::1;[https://www.foxnews.com/category/health/heart-health,p]::1;

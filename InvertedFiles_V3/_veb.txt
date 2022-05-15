@@ -1,5 +1,0 @@
-<veb|[https://az.wikipedia.org/wiki/HTTP_Kuki,p]::3;
-<vebsaytı|[https://az.wikipedia.org/wiki/HTTP_Kuki,p]::1;
-<vebserverlərə|[https://az.wikipedia.org/wiki/HTTP_Kuki,p]::1;
-<vebsayta|[https://az.wikipedia.org/wiki/HTTP_Kuki,p]::1;
-<vebsaytlar|[https://az.wikipedia.org/wiki/HTTP_Kuki,p]::1;

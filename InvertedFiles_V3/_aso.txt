@@ -1,9 +1,0 @@
-<asos|[https://discountcode.dailymail.co.uk/asos,t]::1;[https://discountcode.dailymail.co.uk/asos,h]::36;[https://discountcode.dailymail.co.uk/asos,p]::10;[https://discountcode.dailymail.co.uk/top-vouchers,h]::2;[https://discountcode.dailymail.co.uk/articles,h]::1;
-<asola|[https://www.marca.com/futbol/mundial-de-clubes.html?intcmp=MENUPROD&s_kw=mundial-de-clubes,h]::1;
-<asobal|[https://www.marca.com/balonmano.html?intcmp=MENUPROD&s_kw=balonmano,h]::2;
-<asociere|[https://disneytermsofuse.com/romanian,p]::1;
-<asociada|[https://es.familydoctor.org/salud-de-la-familia/hombres,p]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html,s]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html,p]::1;
-<asociación|[https://es.familydoctor.org/condicion/hipertiroidismo,p]::1;
-<asociadas|[https://www.cdc.gov/coronavirus/2019-ncov/communication/index-sp.html,p]::1;
-<asociados|[https://espanol.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html,p]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/travelers/testing-international-air-travelers.html,p]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/testing/self-testing.html,p]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/daily-life-coping/food-and-COVID-19.html,s]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/daily-life-coping/food-and-COVID-19.html,p]::1;
-<asocial|[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;

@@ -1,5 +1,0 @@
-<noaa|[https://www.iflscience.com/environment/co2-levels-in-earths-atmosphere-just-reached-highest-in-human-history,p]::1;[https://www.iflscience.com/space/fiery-meteor-creates-sonic-boom-heard-across-three-us-states,p]::2;
-<noaas|[https://www.iflscience.com/environment/co2-levels-in-earths-atmosphere-just-reached-highest-in-human-history,p]::1;
-<noaanasa|[https://www.iflscience.com/environment/tonga-volcanic-eruption-was-the-most-powerful-this-century-new-paper-confirms,p]::1;
-<noah|[https://www.dailymail.co.uk/tvshowbiz/kim_kardashian/index.html,h]::1;[https://usfblogs.usfca.edu/biol100/2018/03/20/why-are-our-brains-shrinking,p]::1;[https://nautil.us/topics/technology,h]::1;[https://www.nytimes.com/live/2022/05/09/theater/tony-awards,p]::1;
-<noahs|[https://www.foxnews.com/lifestyle,p]::1;[https://www.foxnews.com/lifestyle/mothers-day-protests-pro-abortion-activists-brokenness,p]::1;[https://www.foxnews.com/lifestyle/nebraska-teen-home-wildfire-doorbell-system,p]::1;

@@ -1,3 +1,0 @@
-<ldl|[https://www.healthline.com/program/managing-health-together,p]::1;
-<ldlibrarypath|[https://github.com/georgmartius/vid.stab#installation-instructions,p]::1;
-<ldlc|[https://www.lequipe.fr/Esport,h]::2;

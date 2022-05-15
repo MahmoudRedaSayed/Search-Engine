@@ -1,9 +1,0 @@
-<svekis|[https://www.tutorialspoint.com/developers_best_practices/index.htm,p]::2;[http://www.enable-javascript.com/hr,h]::1;[http://vedrigrad.hr,p]::1;
-<svetainė|[https://lt.wikipedia.org/wiki/Slapukas,p]::1;
-<svede|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
-<svelte|[https://www.dailymail.co.uk/auhome/index.html,s]::1;[https://www.dailymail.co.uk/news/sydney/index.html,h]::1;[https://www.dailymail.co.uk/dailymailtv/video/index.html,s]::1;[https://www.dailymail.co.uk/dailymailtv/advertise/index.html,s]::1;[https://insights.stackoverflow.com/survey/2021,p]::2;
-<sverige|[https://onlinecasino-now.nl,p]::1;[https://netticasino-now.com,p]::1;[https://onlinecasino-now.se,h]::9;[https://onlinecasino-now.se,s]::4;[https://onlinecasino-now.se,p]::1;[https://casino-now.be,p]::1;[https://casino-now.dk,p]::1;[https://kasyno-now.com,p]::1;
-<sveriges|[https://onlinecasino-now.se,t]::1;[https://onlinecasino-now.se,h]::3;
-<svenska|[https://onlinecasino-now.se,h]::3;[https://onlinecasino-now.se,s]::8;[https://onlinecasino-now.se,p]::6;[http://jfk.blogs.archives.gov,h]::1;
-<svenskfinland•|[https://commons.wikimedia.org/wiki/Atlas_of_Australia,p]::1;
-<svetlana|[https://www.nytimes.com/live/2022/05/09/world/ukraine-russia-war-news,p]::1;[https://www.nytimes.com/2022/05/09/world/europe/bullying-children-russia-war-europe.html,p]::1;

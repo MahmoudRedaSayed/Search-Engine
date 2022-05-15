@@ -1,6 +1,0 @@
-<pohranjuje|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
-<pohranjeni|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
-<pohranjivati|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
-<pohrani|[https://sh.wikipedia.org/wiki/Cookie,p]::3;
-<pohľadu|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<pohjautuen|[https://disneytermsofuse.com/finnish,p]::1;

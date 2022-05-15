@@ -1,5 +1,0 @@
-<imo|[https://blog.archive.org,p]::1;[https://app.adjust.com/f9ozcyo?deep_link=flipboard%253A%252F%252FshowSection%252Fflipboard%252Fuser%25252F2621096033%253Ffrom%253Dfeed%2526section_id%253Dflipboard%25252Fuser%2525252F2621096033%2526open_in_app_type%253Dnavbar,p]::1;
-<imovie|[https://www.apple.com/mac,p]::1;[https://www.apple.com/lae/mac,p]::1;
-<imot|[https://nn.wikipedia.org/wiki/Informasjonskapsel,p]::1;
-<imogen|[https://www.dailymail.co.uk/auhome/index.html,s]::1;[https://www.dailymail.co.uk/news/sydney/index.html,h]::1;[http://blakesmalltalkblog.dailymail.co.uk,p]::1;[https://www.imdb.com/search/name/?match_all=true&ref_=nv_cel_m,h]::1;[https://www.imdb.com/search/name/?match_all=true&ref_=nv_cel_m,p]::1;
-<imola|[https://www.marca.com/motor/formula1/calendario.html,h]::1;

@@ -1,1 +1,0 @@
-<hbase|[https://www.tutorialspoint.com/big_data_tutorials.htm,p]::1;

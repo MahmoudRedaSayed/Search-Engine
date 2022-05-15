@@ -1,2 +1,0 @@
-<shc|[http://edbrowse.org/usersguide.html#cook,p]::2;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::2;
-<shcomp|[https://money.cnn.com/data/world_markets/se_composite,t]::1;

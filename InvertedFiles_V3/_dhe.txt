@@ -1,3 +1,0 @@
-<dhea|[https://www.everydayhealth.com/alternative-health/all-articles,h]::1;[https://sq.wikipedia.org/wiki/Cookie_(internet),p]::2;
-<dhekelia•|[https://commons.wikimedia.org/wiki/Atlas_of_Australia,p]::1;
-<dheeraj|[https://www.geeksforgeeks.org/pseudo-polynomial-in-algorithms/?ref=ghm,s]::1;[https://www.geeksforgeeks.org/pseudo-polynomial-in-algorithms/?ref=ghm,p]::1;[https://www.geeksforgeeks.org/polynomial-time-approximation-scheme/?ref=ghm,p]::1;

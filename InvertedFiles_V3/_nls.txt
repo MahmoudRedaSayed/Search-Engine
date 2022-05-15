@@ -1,2 +1,0 @@
-<nls|[https://www.loc.gov,p]::1;[https://ask.loc.gov/recorded-sound,p]::1;[http://ask.loc.gov/national-library-service,t]::1;[http://ask.loc.gov/national-library-service,h]::1;[http://ask.loc.gov/national-library-service,p]::22;
-<nlsread|[http://ask.loc.gov/national-library-service,p]::7;

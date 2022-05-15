@@ -1,5 +1,0 @@
-<loeb|[http://www.archive-it.org,p]::1;[https://www.harvard.edu/copyright-issue,s]::2;[https://trademark.harvard.edu/pages/trademark-notice,p]::1;
-<loehrer|[https://www.asco.org,p]::1;
-<loerke|[https://edaa.eu/who-we-are/our-board,p]::1;
-<loerkewfa|[https://edaa.eu/news-and-resources/multimedia,p]::1;
-<loebafpgetty|[https://www.bbc.com/future/article/20220503-why-human-brains-were-bigger-3000-years-ago,p]::1;

@@ -1,2 +1,0 @@
-<khusus|[https://disneytermsofuse.com/bahasa-indonesia,p]::2;[https://disneytermsofuse.com/bahasa-malaysia,p]::2;
-<khususnya|[https://disneytermsofuse.com/bahasa-malaysia,p]::1;

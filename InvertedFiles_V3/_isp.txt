@@ -1,7 +1,0 @@
-<isp|[https://archive.org/details/software,p]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;[https://www.bbc.com/usingthebbc/cookies/how-does-the-bbc-use-cookies-for-advertising,p]::1;[https://lifetickler.com/phone-camera-money,p]::1;[https://status.discourse.org,p]::1;[https://onlinelearning.hms.harvard.edu/hmx/policies,p]::2;
-<isps|[https://archive.org/about/bios.php,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;[https://venturebeat.com/2020/05/19/google-chrome-83,p]::1;[https://www.cdn77.com,s]::1;[https://www.cdn77.com,p]::2;
-<ispirano|[https://www.hearst.it,p]::1;
-<ispositioned|[https://www.hearst.co.uk/solutions/content-marketing,p]::1;
-<ispod|[http://www.enable-javascript.com/hr,p]::1;
-<ispbased|[https://edaa.eu/faq,p]::1;
-<ispublicservicerecognition|[http://blogs.archives.gov/prologue,p]::1;

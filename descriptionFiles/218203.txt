@@ -1,1 +1,0 @@
-learn the basics of extending an android app with app actions, including adding inline inventory and using the app actions test tool.

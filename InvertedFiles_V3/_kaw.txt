@@ -1,4 +1,0 @@
-<kawasan|[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::1;[https://disneytermsofuse.com/bahasa-malaysia,p]::1;
-<kawasaki|[https://www.marca.com/coches-y-motos.html?intcmp=MENUPROD&s_kw=marca-coches,h]::2;
-<kawalan|[https://disneytermsofuse.com/bahasa-malaysia,p]::3;
-<kawaii|[https://icons8.com/free-animated-icons,p]::1;

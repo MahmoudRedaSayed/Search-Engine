@@ -1,1 +1,0 @@
-power bi tutorial,  power bi is a data visualization and business intelligence tool that converts data from different data sources to interactive dashboards and bi reports. power b

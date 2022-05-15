@@ -1,1 +1,0 @@
-<fnn|[https://www.geeksforgeeks.org/analysis-of-algorithems-little-o-and-little-omega-notations/?ref=ghm,p]::1;

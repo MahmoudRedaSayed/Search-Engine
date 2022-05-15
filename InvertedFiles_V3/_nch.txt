@@ -1,2 +1,0 @@
-<nchi|[https://www.bbc.com/,p]::1;
-<nchannel|[http://www.digikey.com,p]::2;

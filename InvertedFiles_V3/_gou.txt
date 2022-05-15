@@ -1,9 +1,0 @@
-<gouthe|[https://english.ahram.org.eg/,p]::1;[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;[https://www.everydayhealth.com/diet-nutrition/atkins-diet.aspx,p]::1;[https://www.everydayhealth.com/most-popular,p]::1;
-<gourmet|[https://www.hearstmagazines.co.uk/holidays,p]::1;[http://www.hearst.es,h]::1;[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::1;[https://www.commonweal.org/program/cchp,p]::1;[https://appsto.re/qa/5KYWU.i,p]::2;[https://www.esl-lab.com/easy,p]::1;[https://www.esl-lab.com/esl-vocabulary-quizzes,s]::1;[https://www.esl-lab.com/vocabulary-lessons,p]::1;[https://www.esl-lab.com/esl-vocabulary-quizzes,p]::1;
-<gough|[https://www.cancer.org/cancer/ovarian-cancer/detection-diagnosis-staging/signs-and-symptoms.html,p]::2;
-<goulding|[https://www.bbc.co.uk/sounds,p]::2;[https://www.dailymail.co.uk/femail/fashionfinder/index.html,p]::1;[http://blakesmalltalkblog.dailymail.co.uk,s]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;[https://www.nytimes.com/2022/04/29/science/tiktaalik-fish-fossil-meme.html,p]::1;[https://postdoc.hms.harvard.edu/orientation,p]::1;
-<goulden|[https://www.dailymail.co.uk/money/mortgageshome/index.html,p]::1;
-<gouraud|[https://lifetickler.com/syria-through-the-eyes-of-its-many-flags,p]::2;
-<gouvernement|[https://www.canada.ca/fr/sante-publique/services/maladies/maladie-coronavirus-covid-19.html,h]::1;
-<goudzoeker|[https://onlinecasino-now.nl/casino-software/netent,p]::1;
-<goudstaven|[https://onlinecasino-now.nl/casino-software/netent,p]::1;

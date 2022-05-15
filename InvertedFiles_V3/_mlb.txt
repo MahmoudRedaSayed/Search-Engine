@@ -1,3 +1,0 @@
-<mlb|[http://bleacherreport.com,h]::1;[http://bleacherreport.com,p]::2;[http://bleacherreport.com/mlb,t]::1;[http://bleacherreport.com/mlb,h]::1;[http://bleacherreport.com/mlb,p]::1;[https://www.dailymail.co.uk/news/breaking_news/index.html,h]::1;[https://www.foxnews.com/sports,h]::1;[https://www.foxnews.com/sports,p]::1;[https://www.ebay.com/globaldeals/more,h]::1;[https://www.chicagotribune.com/sports/cubs/#nt=taxonomy-article,h]::3;[https://www.chicagotribune.com/sports/#nt=taxonomy-article,h]::1;
-<mlbs|[http://bleacherreport.com,h]::1;[http://membership.chicagotribune.com/#ed=tertiarynavbar,p]::1;
-<mlbcom|[http://bleacherreport.com/mlb,p]::1;

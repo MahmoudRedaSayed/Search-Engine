@@ -1,3 +1,0 @@
-<xanthan|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::4;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::4;[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::3;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::3;
-<xanthophylls|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::1;
-<xandr|[https://www.bbc.com/usingthebbc/cookies/how-does-the-bbc-use-cookies-for-advertising,s]::1;[https://www.bbc.com/usingthebbc/cookies/how-does-the-bbc-use-cookies-for-advertising,p]::1;

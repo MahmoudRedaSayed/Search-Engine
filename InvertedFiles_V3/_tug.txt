@@ -1,2 +1,0 @@
-<tugs|[https://www.dailymail.co.uk/news/celebrity-deaths-and-obituaries/index.html,h]::1;
-<tugboat|[https://www.nytimes.com/2022/05/09/opinion/letters/ed-koch-secret-gay-life.html,p]::1;

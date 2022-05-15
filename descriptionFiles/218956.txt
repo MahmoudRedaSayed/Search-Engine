@@ -1,1 +1,0 @@
-mozilla turned on enhanced tracking protection in firefox, improved facebook container, rebranded lockbox to lockwise, and updated firefox monitor.

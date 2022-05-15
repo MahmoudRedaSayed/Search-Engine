@@ -1,3 +1,0 @@
-<mcfc|[http://bleacherreport.com/world-football,p]::1;[https://jobs.mayoclinic.org/afp,p]::1;
-<mcfields|[https://www.nytimes.com/2022/05/05/world/americas/nicaragua-ruling-family-us.html,p]::7;
-<mcfall|[https://www.foxnews.com/world/sandals-bahamas-deaths-american-miami,p]::1;

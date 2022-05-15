@@ -1,7 +1,0 @@
-<enkriptatuta|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
-<enkelt|[https://no.wikipedia.org/wiki/Informasjonskapsel,p]::1;[https://onlinecasino-now.nl,h]::1;[https://onlinecasino-now.nl,s]::2;[https://onlinecasino-now.nl,p]::1;[https://onlinecasino-now.se,s]::2;[https://onlinecasino-now.se,p]::1;[https://casino-now.be,h]::1;[https://casino-now.be,s]::1;[https://casino-now.be,p]::4;[https://onlinecasino-now.nl/casino-reviews/playamo,p]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::2;
-<enkelte|[https://no.wikipedia.org/wiki/Informasjonskapsel,p]::2;
-<enkriptirani|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
-<enkodira|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
-<enkla|[https://onlinecasino-now.se,s]::1;
-<enkele|[https://onlinecasino-now.nl/casino-reviews/playamo,p]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::1;[https://onlinecasino-now.nl/casino-software/netent,s]::1;

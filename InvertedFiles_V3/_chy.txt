@@ -1,2 +1,0 @@
-<chynas|[https://www.dailymail.co.uk/tvshowbiz/kim_kardashian/index.html,h]::4;[https://www.dailymail.co.uk/news/breaking_news/index.html,h]::5;
-<chyba|[https://disneytermsofuse.com/polish,p]::2;

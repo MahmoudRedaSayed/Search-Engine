@@ -1,2 +1,0 @@
-<lcd|[https://www.bbc.co.uk/opensource,p]::1;
-<lcddisplay|[https://www.apple.com/lae/iphone,p]::1;

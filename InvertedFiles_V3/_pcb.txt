@@ -1,2 +1,0 @@
-<pcbased|[https://archive.org/details/software,p]::1;[http://www.digikey.com,h]::1;
-<pcbs|[http://www.digikey.com,p]::1;

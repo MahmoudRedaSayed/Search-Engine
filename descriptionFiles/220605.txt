@@ -1,1 +1,0 @@
-an introduction to computer science as a tool to solve real-world analytical problems using python 3.5.

@@ -1,2 +1,0 @@
-<ucsc|[https://archive.org/about/bios.php,p]::1;
-<ucsf|[https://www.cancer.gov/news-events/cancer-currents-blog/2020/ovarian-cancer-racial-disparities-studies,p]::1;[https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-care/post-covid-science.html,p]::2;

@@ -1,6 +1,0 @@
-<obgyn|[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::1;[https://www.everydayhealth.com/coronavirus,h]::1;[https://www.everydayhealth.com/columns/my-health-story/finding-a-cancer-diagnosis-and-coping-with-infertility,p]::2;[https://www.everydayhealth.com/ovarian-cancer/myths-versus-facts,h]::1;[https://meded.hms.harvard.edu/academic-calendars,h]::3;[https://meded.hms.harvard.edu/academic-calendars,p]::3;[https://meded.hms.harvard.edu/teaching-awards,p]::1;[https://www.nytimes.com/article/birth-control-options.html,p]::1;
-<obgynnet|[https://www.everydayhealth.com/hysterectomy/guide,s]::1;
-<obgp|[https://blog.openlibrary.org,p]::4;[https://blog.openlibrary.org/page/2,h]::1;[https://blog.openlibrary.org/2022/04/27/a-high-schoolers-experience-contributing-to-the-open-book-genome-project,p]::4;[https://blog.openlibrary.org/page/2,p]::8;[https://github.com/Open-Book-Genome-Project/sequencer#docker-usage,p]::7;[https://blog.openlibrary.org/2021/08/24/the-open-book-genome-project,p]::3;
-<obgpdir|[https://github.com/Open-Book-Genome-Project/sequencer#docker-usage,p]::2;
-<obgpsconfigiaini|[https://github.com/Open-Book-Genome-Project/sequencer#docker-usage,p]::1;
-<obgpdirobgpdirdockercompose|[https://github.com/Open-Book-Genome-Project/sequencer#docker-usage,p]::1;

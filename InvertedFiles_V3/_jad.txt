@@ -1,3 +1,0 @@
-<jade|[https://www.everydayhealth.com/wellness,h]::1;[https://www.everydayhealth.com/wellness/healthy-skin,h]::1;[https://meded.hms.harvard.edu/soma-weiss-student-research-day,s]::1;[https://meded.hms.harvard.edu/soma-weiss-student-research-day,p]::1;
-<jades|[https://www.bbc.co.uk/rd/topics/accessibility,h]::1;
-<jadé|[https://www.dailymail.co.uk/news/sydney/index.html,h]::1;

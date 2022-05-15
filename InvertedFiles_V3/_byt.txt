@@ -1,7 +1,0 @@
-<bythetime|[https://www.grammar-quizzes.com/,p]::1;[https://www.edtechdigest.com/2022-finalists-winners,p]::1;
-<bytes|[https://developers.google.com/assistant/sdk/overview,p]::1;[https://archive.org/about/bios.php,p]::1;[https://www.tutorialspoint.com/computer_glossary.htm,h]::1;[https://www.tutorialspoint.com/computer_glossary.htm,p]::5;[https://en.wikipedia.org/wiki/HTTP_cookie,p]::1;[http://catb.org/jargon/html/M/magic-cookie.html,p]::1;[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::11;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::10;[https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage,p]::1;[https://bbc.github.io/subtitle-guidelines,p]::1;[https://www.frontiersin.org/articles/10.3389/fnana.2014.00015/full,p]::1;[https://www.edtechdigest.com/2022-finalists-winners,p]::1;
-<bytecode|[https://www.tutorialspoint.com/python/index.htm,p]::1;
-<bytighteningexisting|[https://web.archive.org/web/20121218093525/http:/www.jisclegal.ac.uk/ManageContent/ViewDetail/ID/1347/EU-Cookie-Directive--Directive-2009136EC.aspx,p]::2;
-<bytra|[https://lifetickler.com/how-to-impress-every-professor,p]::1;
-<bytedance|[https://www.nytimes.com/2022/05/08/opinion/tiktok-twitter-china-bytedance.html,p]::5;
-<bytecodes|[https://www.geeksforgeeks.org/scala-programming-language/?ref=ghm,p]::1;

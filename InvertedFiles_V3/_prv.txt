@@ -1,7 +1,0 @@
-<prvá|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<prvým|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<prve|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
-<prvo|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
-<prvog|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
-<prvek|[https://disneytermsofuse.com/czech,p]::2;
-<prvky|[https://disneytermsofuse.com/czech,p]::1;

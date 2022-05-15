@@ -1,2 +1,0 @@
-<gvsu|[http://www.archive-it.org,p]::1;
-<gvsus|[http://www.archive-it.org,p]::1;

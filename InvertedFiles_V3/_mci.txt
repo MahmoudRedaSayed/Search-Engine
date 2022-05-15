@@ -1,4 +1,0 @@
-<mci|[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::1;[https://en.wikipedia.org/wiki/HTTP_cookie,p]::3;[https://en.wikipedia.org/w/index.php?title=HTTP_cookie&oldid=1085989394,p]::3;
-<mcintosh|[https://www.inlife.co.uk/why-are-cookies-called-cookies,p]::1;
-<mcinew|[http://bleacherreport.com/world-football,p]::1;
-<mcilroys|[https://www.dailymail.co.uk/sport/golf/index.html,h]::2;

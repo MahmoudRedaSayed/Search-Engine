@@ -1,5 +1,0 @@
-<myplmorning|[http://bleacherreport.com/world-football,p]::2;
-<myproject|[https://blog.discourse.org/2018/11/free-hosting-for-open-source-v2,s]::1;
-<myprojectdiscoursegroup|[https://blog.discourse.org/2018/11/free-hosting-for-open-source-v2,p]::1;
-<mypath|[https://www.edtechdigest.com,h]::1;
-<mypage|[https://www.myenglishclub.com/user-guide,s]::3;[https://www.myenglishclub.com/user-guide,p]::24;[https://www.myenglishclub.com/page/frequently-asked-questions,s]::1;

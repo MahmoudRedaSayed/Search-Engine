@@ -1,1 +1,0 @@
-build your own dashboard to track the coronavirus in places across the united states.

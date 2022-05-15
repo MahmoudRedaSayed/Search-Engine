@@ -1,5 +1,0 @@
-<kwonis|[https://nautil.us/topics/evolution,p]::1;
-<kwota|[https://disneytermsofuse.com/polish,p]::4;[https://kasyno-now.com,p]::1;[https://kasyno-now.com/recenzja/woo,p]::1;
-<kwoty|[https://disneytermsofuse.com/polish,p]::1;[https://kasyno-now.com,p]::1;[https://kasyno-now.com/recenzja,p]::1;
-<kwotę|[https://disneytermsofuse.com/polish,p]::5;
-<kwok|[https://cn.nytimes.com,p]::1;

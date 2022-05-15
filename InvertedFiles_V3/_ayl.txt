@@ -1,3 +1,0 @@
-<aylesham|[https://www.dailymail.co.uk,p]::1;
-<ayling|[https://www.dailymail.co.uk/sport/rugbyunion/index.html,s]::1;[https://www.dailymail.co.uk/sport/racing/index.html,s]::1;[https://www.dailymail.co.uk/sport/tennis/index.html,s]::1;[https://www.dailymail.co.uk/sport/golf/index.html,s]::1;[https://www.dailymail.co.uk/sport/othersports/index.html,s]::1;
-<aylward|[https://www.nytimes.com/live/2022/05/09/world/covid-19-mandates-vaccine-cases,p]::1;

@@ -1,9 +1,0 @@
-<daffichage|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::1;
-<daftar|[https://id.wikipedia.org/wiki/Kuki,h]::1;
-<daffodils|[https://nautil.us/topics/arts,h]::1;
-<daffecter|[https://disneytermsofuse.com/french,p]::1;
-<dafis|[https://secure.qgiv.com/event/931769,p]::1;
-<dafina|[https://www.hearst.com/hearstrise,p]::4;
-<daffiliation|[https://fr.swiss-casino-now.com/revue,p]::1;[https://fr.swiss-casino-now.com/revue/casino-cruise,p]::1;[https://fr.swiss-casino-now.com/logiciels/netent,p]::1;
-<dafür|[https://swiss-casino-now.com/casino-bewertung/woo-casino,p]::1;[https://swiss-casino-now.com/casino-bewertung/spin-casino,p]::1;[https://swiss-casino-now.com/casino-software/netent,p]::2;[https://casino-now.at/casino-software/netent,p]::1;[https://icons8.de/animated-icons,p]::1;
-<dafoe|[https://m.imdb.com/feature/bestpicture/?ref_=nv_ch_osc,p]::2;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::2;

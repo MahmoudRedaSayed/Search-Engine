@@ -1,3 +1,0 @@
-<oinarritzen|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
-<oinarritutako|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
-<oink|[https://www.readingbrightstart.org,h]::1;[http://www.readingbrightstart.org/?external_id=RE2350803010600,h]::1;

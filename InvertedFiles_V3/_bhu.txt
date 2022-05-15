@@ -1,5 +1,0 @@
-<bhumibol|[https://www.dailymail.co.uk,p]::1;
-<bhutan|[https://bbc.in/3zDE6sk,h]::1;
-<bhutan•|[https://commons.wikimedia.org/wiki/Atlas_of_Australia,p]::1;
-<bhubaneshwar|[https://www.geeksforgeeks.org/campus-geek-of-the-month/?ref=ghm,p]::3;
-<bhubaneswar|[https://www.geeksforgeeks.org/campus-geek-of-the-month/?ref=ghm,p]::1;

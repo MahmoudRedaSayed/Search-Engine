@@ -1,4 +1,0 @@
-<roi|[https://www.hearstmagazines.co.uk/faq,p]::1;[https://www.iabeurope.eu,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/projelerimizi-nasil-yonetsek,p]::1;[https://corporate.arkadium.com,h]::1;[https://www.sky.com/help/articles/sky-privacy-and-cookies-notice,p]::1;[https://www.symplr.com/spend-management/capital-market-intelligence,p]::1;[https://www.edtechdigest.com,h]::1;[https://edtechdigest.com/category/leadership,h]::1;
-<roig|[https://www.marca.com/futbol/supercopa-europa.html?intcmp=MENUPROD&s_kw=supercopa-europa,h]::1;
-<roi—until|[https://www.symplr.com/care-finder-direct-webmd,p]::1;
-<roiled|[https://www.nytimes.com/interactive/2022/05/08/business/economy/inflation-calculator.html,p]::1;

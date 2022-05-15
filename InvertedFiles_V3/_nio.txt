@@ -1,2 +1,0 @@
-<nio|[http://edbrowse.org/usersguide.html#cook,p]::3;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::3;
-<niosh|[https://espanol.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/about-face-coverings.html,p]::1;

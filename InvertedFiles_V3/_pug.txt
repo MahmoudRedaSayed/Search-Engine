@@ -1,2 +1,0 @@
-<pug|[https://play.google.com/store/books,p]::2;
-<pugach|[https://kids.kiddle.co/History_of_Australia,p]::1;

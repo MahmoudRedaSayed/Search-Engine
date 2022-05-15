@@ -1,3 +1,0 @@
-<sro|[https://edaa.eu/who-we-are/our-board,p]::1;[https://edaa.eu/what-we-do/for-consumers,p]::5;
-<sros|[https://edaa.eu/what-we-do/for-companies,p]::2;[https://edaa.eu/what-we-do/for-consumers,s]::1;[https://edaa.eu/what-we-do/for-consumers,p]::4;[https://edaa.eu/faq,h]::1;
-<srodiči|[https://disneytermsofuse.com/czech,p]::1;

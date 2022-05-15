@@ -1,1 +1,0 @@
-<xacml|[https://www.w3.org/P3P/Overview.html,p]::1;

@@ -1,5 +1,0 @@
-<anmelden|[https://console.actions.google.com?hl=de,t]::1;[https://console.actions.google.com?hl=de,h]::2;[https://console.actions.google.com?hl=de,p]::1;[https://swiss-casino-now.com/casino-bewertung/playamo,h]::1;[https://swiss-casino-now.com/casino-bewertung/cookie,h]::1;[https://swiss-casino-now.com/casino-bewertung/spin-casino,p]::1;[https://swiss-casino-now.com/casino-software/netent,p]::2;
-<anmodninger|[https://disneytermsofuse.com/norwegian,p]::2;
-<anmeldelser|[https://casino-now.dk,s]::1;[https://casino-now.dk,p]::1;[https://norskcasino-now.com,s]::1;[https://casino-now.dk/anmeldelser,t]::1;[https://casino-now.dk/anmeldelser,s]::1;[https://casino-now.dk/anmeldelser,p]::1;[https://norskcasino-now.com/anmeldelser,t]::1;[https://norskcasino-now.com/anmeldelser,s]::1;[https://norskcasino-now.com/anmeldelser,p]::1;
-<anmeldet|[https://onlinecasino-now.de/casino-bewertung,p]::1;[https://onlinecasino-now.de/casino-software/netent,p]::1;
-<anmeldungen|[https://casino-now.at/casino-bewertung/woo,p]::4;[https://casino-now.at/casino-software/netent,p]::1;

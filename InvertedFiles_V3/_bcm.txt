@@ -1,2 +1,0 @@
-<bcm|[http://www.digikey.com,h]::1;[http://www.digikey.com,p]::1;[https://meded.hms.harvard.edu/teaching-awards,p]::1;
-<bcms|[https://meded.hms.harvard.edu/teaching-awards,p]::1;

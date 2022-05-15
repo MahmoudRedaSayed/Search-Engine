@@ -1,6 +1,0 @@
-<oshi|[https://www.everydayhealth.com/ulcerative-colitis/guide,s]::1;[https://www.everydayhealth.com/ulcerative-colitis/guide,p]::1;
-<oshea|[https://legal.twitter.com/imprint.html,p]::1;
-<oshodi|[https://www.bbc.co.uk/programmes/b006qxww,h]::1;
-<osha|[https://www.whitehouse.gov/covidplan,p]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/community/workplaces-businesses/index.html,p]::1;
-<oshaícono|[https://espanol.cdc.gov/coronavirus/2019-ncov/community/workplaces-businesses/index.html,p]::1;
-<oshkosh|[https://www.foxnews.com/category/tech/topics/military-tech,p]::1;

@@ -1,2 +1,0 @@
-<bhl|[https://blog.archive.org,p]::11;[https://archive.org/about/bios.php,p]::2;
-<bhls|[https://blog.archive.org,p]::2;

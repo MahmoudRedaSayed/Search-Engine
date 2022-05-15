@@ -1,6 +1,0 @@
-<využívajú|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::3;
-<využívať|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::2;
-<využitie|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://disneytermsofuse.com/czech,p]::1;
-<využiť|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<využívání|[https://disneytermsofuse.com/czech,p]::4;
-<využíváním|[https://disneytermsofuse.com/czech,p]::1;

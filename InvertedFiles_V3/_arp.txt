@@ -1,4 +1,0 @@
-<arpanet|[https://www.nytimes.com/2001/09/04/technology/04COOK.html,p]::1;
-<arpacı|[https://www.ugureskici.com/notlarim-makalelerim,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/evergreen-content-olumsuz-taze-icerikler,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/digitalzone-2017-kimler-geldi-kimler-gecti-ne-ogrendik,p]::1;[https://www.ugureskici.com/page/2,p]::1;
-<arpaia|[https://www.foxnews.com/food-drink,p]::1;
-<arpit|[https://www.geeksforgeeks.org/campus-geek-of-the-month/?ref=ghm,p]::2;

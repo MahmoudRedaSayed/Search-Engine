@@ -1,3 +1,0 @@
-<fdrlibrary|[http://ourpresidents.tumblr.com,p]::9;[http://fdrlibrary.tumblr.com,p]::6;
-<fdrs|[http://ourpresidents.tumblr.com,p]::4;[http://www.fdrlibrary.marist.edu/archives/index.html,p]::1;
-<fdrvisit|[http://www.fdrlibrary.marist.edu/archives/index.html,p]::1;

@@ -1,2 +1,0 @@
-<hdr|[https://discountcode.dailymail.co.uk/currys,h]::1;[https://www.mozilla.org/en-US/firefox/100.0/releasenotes,p]::2;[https://www.sky.com/glass/picture-sound,p]::1;[https://www.sky.com/glass/technical-specifications,p]::2;[https://www.sky.com/shop/store-locator,p]::1;
-<hdrcompatible|[https://www.mozilla.org/en-US/firefox/100.0/releasenotes,p]::1;

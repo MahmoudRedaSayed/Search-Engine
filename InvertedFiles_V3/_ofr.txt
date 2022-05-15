@@ -1,8 +1,0 @@
-<ofrrms|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;
-<ofrecemos|[http://www.hearst.es,p]::1;[https://es.familydoctor.org/ayuno-intermitente,p]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/testing/self-testing.html,p]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/community/workplaces-businesses/index.html,p]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/symptoms-testing/testing.html,p]::1;[https://www.nytimes.com/es,h]::1;
-<ofrisk|[https://www.everydayhealth.com/ovarian-cancer/guide,p]::1;[https://www.everydayhealth.com/ovarian-cancer/resources,p]::1;
-<ofrecerle|[https://www.warnermediaprivacy.com/?lang=es,p]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/travelers/testing-international-air-travelers.html,p]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/vaccines/vaccination-card.html,p]::1;
-<ofrecieron|[https://www.marca.com/tiramillas/television/2021/10/19/616ead5e22601d8c0d8b4615.html,s]::1;
-<ofroomba|[https://nautil.us/why-ai-needs-a-genome-2-13438,p]::1;
-<ofrecen|[https://www.marca.com/futbol/argentina.html?intcmp=MENUPROD&s_kw=futbol-argentina,h]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/testing/self-testing.html,p]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/travelers/proof-of-vaccination.html,p]::1;[https://www.vacunas.gov,p]::1;[https://www.nytimes.com/es,p]::1;[https://iconos8.es/animated-icons,h]::1;
-<ofrezca|[https://espanol.cdc.gov/coronavirus/2019-ncov/travelers/testing-international-air-travelers.html,p]::2;[https://espanol.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/about-face-coverings.html,p]::1;

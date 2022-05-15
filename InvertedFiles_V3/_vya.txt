@@ -1,2 +1,0 @@
-<vyagers|[https://blog.archive.org/2013/10/24/web-archive-404-handler-for-webmasters,p]::1;[https://sw.wikipedia.org/wiki/Kuki,h]::1;
-<vyas|[https://blog.mozilla.org/security/2021/01/26/supercookie-protections,p]::1;

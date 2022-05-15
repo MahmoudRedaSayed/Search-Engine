@@ -1,3 +1,0 @@
-<yoda|[https://www.tutorialspoint.com/excel/index.htm,p]::2;[https://tbrown.org/notes/2022/05/04/css-forces,p]::1;[https://nautil.us/topics/arts,h]::1;[https://nautil.us/topics/psychology,h]::2;[https://www.symplr.com/leadership,p]::1;
-<yodle|[https://www.hearst.com/newspapers,p]::1;
-<yodo|[https://es.familydoctor.org/condicion/hipertiroidismo,s]::1;[https://es.familydoctor.org/condicion/hipertiroidismo,p]::5;

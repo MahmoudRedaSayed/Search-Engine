@@ -1,6 +1,0 @@
-<ewaste|[https://www.bbc.com/,h]::1;[https://nautil.us/topics/environment,h]::1;
-<ewan|[https://www.dailymail.co.uk/usshowbiz/index.html,h]::1;[https://www.marca.com/ciclismo.html?intcmp=MENUPROD&s_kw=ciclismo,h]::1;
-<ewallets|[https://casino-now.dk,s]::1;[https://casino-now-canada.com/reviews,p]::1;[https://en.swiss-casino-now.com/reviews,p]::1;[https://casino-now.it/recensioni,s]::1;[https://en.swiss-casino-now.com/reviews/playamo,p]::1;[https://casino-now-canada.com/casino-deposit-methods,h]::1;[https://casino-now-canada.com/casino-deposit-methods,s]::1;[https://casino-now-canada.com/casino-deposit-methods,p]::7;[https://casino-now-canada.com/live-casino,p]::1;[https://swiss-casino-now.com/casino-bewertung/spin-casino,p]::1;[https://casino-now.co.uk/casino-software/netent,p]::2;
-<ewalletsupport|[https://onlinecasino-now.nl/casino-reviews/cookie,p]::1;
-<ewave|[https://m.arenaev.com,h]::1;
-<ewaw|[https://www.kizphonics.com/materials,h]::1;

@@ -1,6 +1,0 @@
-<odmowę|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<odmietnuť|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::2;
-<odmietnutie|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<odmowy|[https://disneytermsofuse.com/polish,p]::2;
-<odmiany|[https://kasyno-now.com,h]::1;[https://kasyno-now.com,p]::2;
-<odmiennego|[https://kasyno-now.com/recenzja/woo,p]::1;

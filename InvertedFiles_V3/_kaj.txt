@@ -1,2 +1,0 @@
-<kaj|[https://eo.wikipedia.org/wiki/Kuketo,h]::1;[https://eo.wikipedia.org/wiki/Kuketo,p]::7;
-<kaja|[https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm,s]::1;

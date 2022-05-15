@@ -1,6 +1,0 @@
-<urambazaji|[https://sw.wikipedia.org/wiki/Kuki,h]::1;
-<uraditi|[https://sh.wikipedia.org/wiki/Cookie,p]::2;
-<uranium|[https://www.iflscience.com/chemistry,h]::1;[https://www.iflscience.com/chemistry,p]::1;[https://www.iflscience.com/environment/the-largest-accidental-release-of-radioactive-material-in-us-history-what-happened-at-church-rock,p]::5;[https://www.nytimes.com/2022/05/09/opinion/coal-ash-toxic-alabama-rivers.html,p]::1;[https://www.nytimes.com/2022/05/09/opinion/iran-deal-irgc-biden.html,p]::1;[https://www.foxnews.com/world/iran-nuclear-weapons-existential-threat,p]::1;
-<uranus|[https://www.dailymail.co.uk/sciencetech/nasa/index.html,h]::1;
-<uralla|[https://kids.kiddle.co/History_of_Australia,p]::1;
-<urals|[https://www.nytimes.com/live/2022/05/09/world/ukraine-russia-war-news,p]::1;

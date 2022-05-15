@@ -1,9 +1,0 @@
-<dehydroacetic|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::4;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
-<dehydroacetate|[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::3;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::1;
-<dehumanize|[https://www.healthline.com/mental-health,p]::1;
-<dehydration|[https://www.everydayhealth.com/diet-nutrition/atkins-diet.aspx,p]::1;[https://www.everydayhealth.com/dehydration/hydration-calculator,h]::5;[https://www.everydayhealth.com/dehydration/hydration-calculator,s]::1;[https://www.everydayhealth.com/dehydration/hydration-calculator,p]::3;[https://www.everydayhealth.com/symptom-checker,p]::2;[https://www.everydayhealth.com/emotional-health/lili-reinhart-called-out-other-celebs-for-starving-themselves-why-body-image-experts-are-applauding-her,p]::1;[https://www.everydayhealth.com/breast-cancer/living-with/on-chemo-brain-dropped-words,p]::1;[https://www.everydayhealth.com/constipation/guide,h]::1;[https://www.everydayhealth.com/meditation,h]::1;[https://apps.apple.com/us/app/chemowave-cancer-health-diary/id1199851760,p]::1;[https://www.dailymail.co.uk/dailymailtv/index.html,h]::1;
-<dehn|[https://www.everydayhealthgroup.com,s]::1;[https://www.everydayhealthgroup.com,p]::1;
-<dehydrate|[https://www.iflscience.com/environment/what-would-happen-if-you-jumped-into-lake-natron-you-wont-turn-to-stone-but-it-wouldnt-be-fun,p]::1;
-<dehasıyla|[https://www.ugureskici.com/notlarim-makalelerim/murphy-kanunlari,p]::1;
-<dehalarından|[https://www.ugureskici.com/page/2,p]::1;
-<dehumanized|[https://www.foxnews.com/category/tech/topics/video-games,p]::1;[https://www.chicagotribune.com/sports/bears/ct-cb-chicago-bears-jaquan-brisker-phd-20220506-xirxzqyyongllpapwt462qwyk4-story.html#nt=interstitial-auto,p]::1;

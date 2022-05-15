@@ -1,3 +1,0 @@
-<niu|[http://www.archive-it.org,p]::1;
-<nius|[http://www.archive-it.org,p]::2;
-<niue•|[https://commons.wikimedia.org/wiki/Atlas_of_Australia,p]::1;

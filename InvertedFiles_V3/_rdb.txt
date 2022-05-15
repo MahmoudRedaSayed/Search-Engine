@@ -1,1 +1,0 @@
-<rdbms|[https://www.tutorialspoint.com/mysql/index.htm,p]::3;[https://www.tutorialspoint.com/jdbc/index.htm,p]::1;[https://www.tutorialspoint.com/mongodb/index.htm,p]::1;[https://www.tutorialspoint.com/plsql/index.htm,p]::1;[https://www.tutorialspoint.com/sql/index.htm,p]::1;

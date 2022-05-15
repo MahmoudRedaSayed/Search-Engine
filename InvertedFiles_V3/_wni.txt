@@ -1,5 +1,0 @@
-<wniesionej|[https://disneytermsofuse.com/polish,p]::2;
-<wniesioną|[https://disneytermsofuse.com/polish,p]::1;
-<wnieść|[https://disneytermsofuse.com/polish,p]::1;
-<wniosek|[https://disneytermsofuse.com/polish,p]::1;
-<wniesiony|[https://disneytermsofuse.com/polish,p]::1;

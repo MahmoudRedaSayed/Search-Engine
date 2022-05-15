@@ -1,3 +1,0 @@
-<kuyken|[http://meteorite.unm.edu/meteorites/meteorite-museum/how-id-meteorite,p]::1;
-<kuykendall|[http://www.springshare.com,s]::1;
-<kuykendallsouth|[http://www.springshare.com,p]::1;

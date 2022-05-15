@@ -1,1 +1,0 @@
-<cfp|[http://bleacherreport.com/college-football,h]::4;[https://postdoc.hms.harvard.edu,s]::1;[https://postdoc.hms.harvard.edu,p]::1;[https://www.ebay.com/globaldeals/home/kitchen-dining-bar,h]::1;

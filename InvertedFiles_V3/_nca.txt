@@ -1,3 +1,0 @@
-<ncar|[http://www.archive-it.org,p]::1;
-<ncarucar|[http://www.archive-it.org,p]::1;
-<ncaa|[http://bleacherreport.com/college-football,h]::2;[https://www.hearst.com/entertainment-syndication,p]::4;[https://www.foxnews.com/sports,p]::3;[https://www.foxbusiness.com/watchlist,h]::1;[https://www.foxbusiness.com/economy,h]::1;[https://www.foxnews.com/category/science/natural-science,p]::1;[https://www.chicagotribune.com/sports/bulls/ct-cb-chicago-bulls-offseason-dates-20220509-lanu3w2tsfbhlfy22lvkzwvwla-story.html#nt=interstitial-auto,p]::1;[https://www.baltimoresun.com,p]::1;

@@ -1,3 +1,0 @@
-<aegis|[https://edaa.eu/participating-companies,h]::1;
-<aegean|[https://www.dailymail.co.uk/travel/travelreviewshub/celebrity-travel.html,h]::1;
-<aegypti|[http://philadelphiaencyclopedia.org/archive/philadelphia-and-its-people-in-maps-the-1790s,p]::2;

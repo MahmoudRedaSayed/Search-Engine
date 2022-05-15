@@ -1,3 +1,0 @@
-<jsp|[https://www.tutorialspoint.com/full_stack_java_developer_java_plus_jsp_plus_restful_ws_plus_spring/index.asp,t]::1;[https://www.tutorialspoint.com/full_stack_java_developer_java_plus_jsp_plus_restful_ws_plus_spring/index.asp,h]::1;[https://www.tutorialspoint.com/full_stack_java_developer_java_plus_jsp_plus_restful_ws_plus_spring/index.asp,p]::5;[https://www.tutorialspoint.com/java_technology_tutorials.htm,p]::1;[https://www.tutorialspoint.com/effective_resume_writing.htm,p]::1;
-<jsps|[https://www.tutorialspoint.com/jdbc/index.htm,p]::1;
-<jspool|[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;

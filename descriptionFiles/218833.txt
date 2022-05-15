@@ -1,1 +1,0 @@
-perform browser comatibility testing of security  samesite  cookie attribute on browsers like firefox, safari and other 3000+ browser os combinations.

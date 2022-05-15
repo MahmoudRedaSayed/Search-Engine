@@ -1,9 +1,0 @@
-<uden|[https://da.wikipedia.org/wiki/Cookie,p]::6;[https://disneytermsofuse.com/danish,p]::1;
-<udelený|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<udeleniu|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<udelenie|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<udelil|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<udelukkende|[https://disneytermsofuse.com/danish,p]::1;
-<udelukkes|[https://disneytermsofuse.com/danish,p]::1;
-<udeshi|[https://www.hearst.com/hearstrise,p]::4;
-<udemy|[https://www.edtechdigest.com,h]::1;[https://www.cdn77.com,p]::3;

@@ -1,1 +1,0 @@
-<lnorm|[https://www.amazon.science/blog/more-efficient-caching-for-product-retrieval,p]::1;

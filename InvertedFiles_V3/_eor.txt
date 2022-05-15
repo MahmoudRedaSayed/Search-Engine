@@ -1,2 +1,0 @@
-<eortc|[https://www.gatewaycr.org,h]::1;
-<eora|[https://kids.kiddle.co/History_of_Australia,p]::1;

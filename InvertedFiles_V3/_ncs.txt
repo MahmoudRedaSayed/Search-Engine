@@ -1,4 +1,0 @@
-<ncses|[http://www.archive-it.org,p]::2;
-<ncsa|[https://web.archive.org/web/20061207145832/http:/wp.netscape.com/newsref/pr/newsrelease1.html,p]::3;[https://web.archive.org/web/20051001113951/http:/www.microsoft.com/windows/IE/community/columns/historyofie.mspx,p]::1;[http://roy.gbiv.com/pubs/dissertation/evaluation.htm,p]::1;[https://web.archive.org/web/20110427074406/http:/roy.gbiv.com/pubs/dissertation/evaluation.htm,p]::1;
-<ncss|[http://www.besthistorysites.net/index.php/american-history,p]::1;
-<ncsm|[https://www.foxnews.com/category/science/natural-science,p]::1;

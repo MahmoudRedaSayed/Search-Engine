@@ -1,1 +1,0 @@
-<dhtml|[https://www.tutorialspoint.com/computer_glossary.htm,p]::1;[https://web.archive.org/web/20051001113951/http:/www.microsoft.com/windows/IE/community/columns/historyofie.mspx,p]::1;[http://www.yourhtmlsource.com/javascript/cookies.html,p]::1;[https://web.archive.org/web/20150111024715/http:/msdn.microsoft.com/en-us/library/ms533007(v=vs.85).aspx,p]::1;

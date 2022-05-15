@@ -1,1 +1,0 @@
-<jvm|[https://www.tutorialspoint.com/kotlin/index.htm,p]::2;[https://www.geeksforgeeks.org/scala-programming-language/?ref=ghm,p]::1;[https://www.geeksforgeeks.org/kotlin-programming-language/?ref=ghm,p]::1;

@@ -1,4 +1,0 @@
-<hver|[https://da.wikipedia.org/wiki/Cookie,p]::3;[https://casino-now.dk,p]::1;
-<hvert|[https://da.wikipedia.org/wiki/Cookie,p]::2;[https://is.wikipedia.org/wiki/Vafrakaka,p]::1;[https://casino-now.dk,p]::1;
-<hvem|[https://da.wikipedia.org/wiki/Cookie,p]::1;
-<hverken|[https://disneytermsofuse.com/danish,p]::1;

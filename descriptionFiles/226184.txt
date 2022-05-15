@@ -1,1 +1,0 @@
-replace font awesome with modern line icons with a single line of code.

@@ -1,4 +1,0 @@
-<tttkonektoj|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
-<tttejo|[https://eo.wikipedia.org/wiki/Kuketo,p]::2;
-<tttejoj|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
-<tttt|[https://bbc.github.io/subtitle-guidelines,h]::1;

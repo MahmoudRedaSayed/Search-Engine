@@ -1,4 +1,0 @@
-<mykhailo|[http://www.archive-it.org,p]::1;
-<mykonos|[https://www.dailymail.co.uk/home/you/index.html,h]::1;
-<mykolenko|[https://www.dailymail.co.uk/sport/football/index.html,h]::1;
-<mykolaiv|[https://www.bbc.co.uk/news/world-europe-61348287,p]::1;

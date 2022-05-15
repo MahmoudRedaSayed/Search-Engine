@@ -1,3 +1,0 @@
-<vyhľadáva|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<vyhodnocovanie|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<vyhľadávanie|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

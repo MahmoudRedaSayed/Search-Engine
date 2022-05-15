@@ -1,3 +1,0 @@
-<kva|[https://nn.wikipedia.org/wiki/Informasjonskapsel,p]::1;
-<kvalitete|[http://vedrigrad.hr,t]::1;[http://vedrigrad.hr,p]::1;
-<kvalitetnije|[http://vedrigrad.hr,p]::1;

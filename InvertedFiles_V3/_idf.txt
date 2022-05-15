@@ -1,4 +1,0 @@
-<idf|[https://www.everydayhealth.com/type-2-diabetes/guide,s]::1;[https://www.everydayhealth.com/type-2-diabetes/guide,p]::1;
-<idfa|[https://en.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,s]::1;[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;[https://www.bbc.com/usingthebbc/cookies/how-does-the-bbc-use-cookies-for-advertising,p]::1;[https://pages.ebay.com/help/account/cookies-web-beacons.html,p]::1;
-<idfamodifier|[https://fr.wikipedia.org/wiki/Cookie_(informatique),h]::1;
-<idfull|[http://usnatarchives.tumblr.com,p]::1;[http://todaysdocument.tumblr.com,p]::1;

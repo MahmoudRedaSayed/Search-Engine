@@ -1,3 +1,0 @@
-<uputa|[https://sh.wikipedia.org/wiki/Cookie,p]::2;
-<upute|[http://www.enable-javascript.com/hr,h]::1;[http://www.enable-javascript.com/hr,p]::2;
-<uputio|[http://www.enable-javascript.com/hr,p]::1;

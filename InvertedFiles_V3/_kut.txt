@@ -1,5 +1,0 @@
-<kutuvamia|[https://www.bbc.com/,p]::1;
-<kutimoj|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
-<kutime|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;
-<kutaytaniregetty|[https://www.sciencenewsforstudents.org/article/scientists-say-equation,p]::1;
-<kuten|[https://disneytermsofuse.com/finnish,p]::2;[https://netticasino-now.com,s]::1;[https://netticasino-now.com,p]::1;[https://netticasino-now.com/arvostelut,p]::6;

@@ -1,3 +1,0 @@
-<kecil|[https://id.wikipedia.org/wiki/Kuki,p]::1;[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::1;[https://disneytermsofuse.com/bahasa-malaysia,p]::3;
-<kecacatan|[https://disneytermsofuse.com/bahasa-malaysia,p]::1;
-<kecuali|[https://disneytermsofuse.com/bahasa-malaysia,p]::3;

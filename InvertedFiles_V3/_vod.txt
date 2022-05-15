@@ -1,3 +1,0 @@
-<vodafone|[http://sarmady.net/contact.html,t]::1;[http://www.sarmady.net,t]::1;[https://www.acte.be,h]::1;[https://www.acte.be,p]::1;[https://www.dailymail.co.uk/money/holidays/index.html,h]::1;[https://education.github.com,p]::1;[https://www.cdn77.com,s]::1;[https://www.cdn77.com,p]::7;
-<vodott|[https://www.disneyadsales.com/our-brands/national-geographic,p]::2;
-<vodka|[https://www.nytimes.com/live/2022/05/09/world/ukraine-russia-war-news,p]::1;[https://www.nytimes.com/2022/05/09/world/europe/bullying-children-russia-war-europe.html,p]::1;

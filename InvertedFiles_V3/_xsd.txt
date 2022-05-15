@@ -1,1 +1,0 @@
-<xsd|[https://www.tutorialspoint.com/tutorialslibrary.htm,p]::1;[https://www.tutorialspoint.com/web_development_tutorials.htm,p]::1;[https://bbc.github.io/subtitle-guidelines,h]::1;

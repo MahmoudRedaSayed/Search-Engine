@@ -1,9 +1,0 @@
-<uloží|[https://cs.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<uložia|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::3;
-<uložené|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::4;
-<ulogiran|[https://sh.wikipedia.org/wiki/Cookie,p]::2;
-<ulogirati|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
-<uloženým|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<uložením|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<ulovlig|[https://disneytermsofuse.com/danish,p]::1;[https://disneytermsofuse.com/norwegian,p]::1;
-<ulovligt|[https://casino-now.dk,h]::1;

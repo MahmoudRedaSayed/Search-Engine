@@ -1,6 +1,0 @@
-<kakadu|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::1;[https://sv.wikipedia.org/wiki/Webbkaka,p]::2;[https://kids.kiddle.co/History_of_Australia,p]::1;
-<kakfil|[https://sv.wikipedia.org/wiki/Webbkaka,p]::1;
-<kakans|[https://sv.wikipedia.org/wiki/Webbkaka,p]::6;
-<kakorna|[https://sv.wikipedia.org/wiki/Webbkaka,p]::11;[https://sh.wikipedia.org/wiki/Cookie,p]::5;[http://www.enable-javascript.com/hr,t]::1;[http://www.enable-javascript.com/hr,h]::2;[http://vedrigrad.hr,h]::1;[http://www.enable-javascript.com/hr,p]::5;[http://vedrigrad.hr,p]::1;
-<kakar|[https://mcpress.mayoclinic.org/healthletter/?utm_source=MC-DotOrg-Nav&utm_medium=Link&utm_campaign=HealthLetter&utm_content=HLART,p]::1;
-<kaku|[https://www.foxnews.com/science,p]::1;

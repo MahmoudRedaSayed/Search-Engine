@@ -1,3 +1,0 @@
-<exnsw|[https://www.dailymail.co.uk/auhome/index.html,h]::1;[https://www.dailymail.co.uk/sport/rugbyunion/index.html,h]::1;
-<exniña|[https://www.marca.com/natacion.html?intcmp=MENUPROD&s_kw=natacion,h]::1;
-<exner|[https://www.foxnews.com/media/randi-weingarten-hit-lack-of-self-awareness-comment-school-closures-parents-arent-dumb,p]::1;

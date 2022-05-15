@@ -1,5 +1,0 @@
-<meyers|[https://www.everydayhealth.com/heart-health/fda-approves-camzyos-for-the-treatment-of-obstructive-hypertrophic-cardiomyopathy,p]::1;[http://bleacherreport.com/college-football,h]::2;[https://nautil.us/topics/math,h]::1;[https://www.hearst.com/newspapers,p]::4;[https://college.mayo.edu,p]::1;
-<meydan|[https://www.ugureskici.com/notlarim-makalelerim/digitalzone-2017-kimler-geldi-kimler-gecti-ne-ogrendik,p]::1;
-<meyebeer|[https://tealium.com/preferences,p]::1;
-<meyrowitz|[https://www.hearst.com/broadcasting,s]::1;
-<meyn|[http://todaysdocument.tumblr.com,h]::1;

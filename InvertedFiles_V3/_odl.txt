@@ -1,4 +1,0 @@
-<odl|[http://www.archive-it.org,p]::1;
-<odls|[http://www.archive-it.org,p]::1;
-<odległy|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<odlišné|[https://disneytermsofuse.com/czech,p]::1;

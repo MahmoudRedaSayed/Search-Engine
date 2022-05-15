@@ -1,1 +1,0 @@
-<ubuntu|[https://github.com/discourse/discourse,p]::1;
