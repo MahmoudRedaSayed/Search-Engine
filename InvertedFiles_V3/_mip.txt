@@ -1,4 +1,0 @@
-<mip|[https://www.acte.be,h]::2;[http://www.beinsports.com/au,p]::1;
-<mipalumni|[http://www.beinsports.com/au,p]::1;
-<mips|[https://www.bbc.com/future/article/20200702-the-helmets-that-can-keep-your-brain-safe,p]::3;[https://www.symplr.com/webinars,h]::1;
-<mipstype|[https://www.bbc.com/future/article/20200702-the-helmets-that-can-keep-your-brain-safe,p]::1;

@@ -1,1 +1,1 @@
-<ocd|[https://psychcentral.com,p]::1;[https://www.bbc.co.uk,p]::2;
+<ocd|[https://www.dailymail.co.uk/tvshowbiz/index.html,h]::1;[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://www.dailymail.co.uk/tvshowbiz/index.html,p]::1;[https://psychcentral.com,p]::1;[https://www.dailymail.co.uk/health/index.html,s]::1;

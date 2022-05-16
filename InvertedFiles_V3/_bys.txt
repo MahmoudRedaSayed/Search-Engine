@@ -1,6 +1,2 @@
-<bysa|[https://stackoverflow.com,p]::1;[https://stackoverflow.com/questions,p]::1;[https://stackoverflow.com/legal,p]::4;[https://stackoverflow.com/legal/privacy-policy,p]::1;[https://stackoverflow.com/legal/cookie-policy,p]::1;
-<bysabina|[https://lifetickler.com/10-tips-relationship-experts-want-teach-love,p]::1;
-<bysrikanta|[https://lifetickler.com/only-a-true-insomniac-would-understand-the-beauty-of-sleeplessness,p]::1;
-<byste|[https://disneytermsofuse.com/czech,p]::2;
-<bystander|[https://www.foxnews.com/us,p]::1;[https://www.foxnews.com/category/us/crime,p]::1;[https://www.foxnews.com,h]::1;
-<bystanders|[https://www.chicagotribune.com/news/criminal-justice/ct-downtown-chicago-crime-analysis-20220508-7dffzoq635eelaqyh6hkthidpq-story.html#nt=related-content&rt=chartbeat-flt,p]::1;
+<bystephanie|[https://www.everydayhealth.com/,p]::1;
+<bysa|[http://creativecommons.org/licenses/by-sa/3.0,t]::1;[http://creativecommons.org/licenses/by-sa/3.0,h]::1;[https://stackoverflow.com/questions,p]::1;[https://stackoverflow.com/questions/tagged/google-oauth,p]::1;[https://stackoverflow.com/questions/tagged/openid,p]::1;

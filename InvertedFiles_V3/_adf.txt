@@ -1,3 +1,0 @@
-<adfoxytrackingcom|[https://en.wikipedia.org/wiki/HTTP_cookie,p]::4;[https://ru.wikipedia.org/wiki/Cookie,p]::4;[https://sh.wikipedia.org/wiki/Cookie,p]::2;
-<adform|[https://edaa.eu/participating-companies,h]::1;
-<adfree|[https://nautil.us/primeuser,p]::1;[https://www.w3schools.com/videos/index.php,p]::1;[https://radio.foxnews.com/podcast,h]::1;[https://premium.geeksforgeeks.org/premium-plans/?ref=ndm,h]::1;

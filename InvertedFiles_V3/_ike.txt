@@ -1,3 +1,1 @@
-<ikea|[https://nautil.us/the-environmental-headache-in-your-shampoo-2-11573,p]::1;
-<ikeda|[https://www.hearst.com/ventures,s]::1;[https://www.hearst.com/ventures,p]::5;
-<ikes|[http://www.eisenhower.archives.gov,s]::1;
+<iker|[https://www.marca.com/futbol/laliga-santander/athletic-osasuna-directo/2022/05/15/01_0101_20220515_174_450.html,p]::2;[https://www.dailymail.co.uk/sport/index.html,s]::1;[https://www.marca.com/futbol/barcelona/2022/05/12/627d694046163f61bd8b4592.html,p]::1;

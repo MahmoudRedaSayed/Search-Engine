@@ -1,10 +1,3 @@
-<fog|[https://www.dailymail.co.uk,h]::1;[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;[https://www.healthline.com/multiple-sclerosis,p]::3;[https://nautil.us/spark,p]::1;[https://icons8.com/free-animated-icons,p]::1;[https://www.dailywritingtips.com/possessive-of-proper-names-ending-in-s,p]::1;
-<foggy|[https://www.sciencenewsforstudents.org/article/innovation-2022-solar-powered-system-energy-harvest-water-from-air,p]::1;[https://blog.ixl.com/category/life-at-ixl,p]::1;
-<fogadnia|[https://disneytermsofuse.com/hungarian,p]::1;
-<fogadja|[https://disneytermsofuse.com/hungarian,p]::2;
-<fogyasztói|[https://disneytermsofuse.com/hungarian,p]::2;
-<fogadtunk|[https://disneytermsofuse.com/hungarian,p]::2;
-<fogadó|[https://disneytermsofuse.com/hungarian,p]::1;
-<foglalt|[https://disneytermsofuse.com/hungarian,p]::1;
-<fogva|[https://disneytermsofuse.com/hungarian,p]::1;
-<fogelman|[https://www.nytimes.com/2022/05/09/dining/mario-batali-trial-sexual-misconduct-boston.html,p]::1;
+<foggia|[https://www.marca.com/motor/motogp/gp-francia/2022/05/13/627e1c3be2704e0e688b456f.html,s]::1;[https://www.marca.com/motor/motogp/gp-francia/2022/05/13/627e1c3be2704e0e688b456f.html,p]::1;
+<fog|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;
+<foggy|[https://blog.ixl.com/category/life-at-ixl,p]::1;[https://www.dailymail.co.uk/travel/index.html,p]::1;[https://www.iflscience.com/environment/sky-turns-blood-red-over-chinese-city-of-zhoushan,p]::1;

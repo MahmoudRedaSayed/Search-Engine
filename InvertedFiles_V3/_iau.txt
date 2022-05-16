@@ -1,1 +1,0 @@
-<iau|[https://minorplanetcenter.net,t]::1;[https://minorplanetcenter.net,p]::1;

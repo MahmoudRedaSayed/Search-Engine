@@ -1,2 +1,6 @@
-<azure|[http://www.microsoft.com/en/us/default.aspx?redir=true,p]::1;[https://lab.github.com,h]::1;[https://lab.github.com,p]::1;[https://www.dynatrace.com,s]::1;[https://help.piwik.pro/privacy-policy/#privacy_and_settings,p]::1;[https://insights.stackoverflow.com/survey/2021,p]::4;[https://stackoverflowsolutions.com/topic/client-stories/microsoft-case-study,p]::1;
-<azul|[https://www.marca.com/claro-mx/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;[https://www.marca.com/futbol/mexico.html?intcmp=MENUPROD&s_kw=futbol-mexico,h]::1;
+<azulgranas|[https://www.marca.com/futbol/primera-division/2022/05/15/627fcb40e2704ee5598b4581.html,p]::1;[https://www.marca.com/futbol/2022/05/13/627ddbd8749dee001f58f661-directo.html,s]::1;[https://www.marca.com/futbol/2022/05/13/627ddbd8749dee001f58f661-directo.html,p]::1;
+<azulones|[https://www.marca.com/futbol/primera-division/2022/05/15/627fcb40e2704ee5598b4581.html,p]::1;
+<azure|[http://www.microsoft.com/en/us/default.aspx?redir=true,p]::1;[https://stackoverflow.com/questions/tagged/openid,h]::4;
+<azurra|[https://www.marca.com/ciclismo/giro-italia/2022/05/15/6280d6cd37ff7b0023a22828-directo.html,p]::1;
+<azul|[https://www.marca.com/ciclismo/giro-italia/2022/05/15/6280d6cd37ff7b0023a22828-directo.html,p]::1;[https://www.marca.com/claro-mx/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;
+<azulgrana|[https://ar.marca.com/claro/?intcmp=BOTONPORTADA&s_kw=portada,p]::1;[https://www.marca.com/futbol/barcelona/2022/05/12/627d694046163f61bd8b4592.html,p]::2;

@@ -1,5 +1,1 @@
-<kedai|[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::1;[https://disneytermsofuse.com/bahasa-malaysia,p]::1;
-<kedy|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<kedu|[https://www.marca.com/futbol/atletico/2022/05/09/62784038268e3ea9268b45c8.html,p]::1;
-<kedvezményezettje|[https://disneytermsofuse.com/hungarian,p]::2;
-<kedvezményezettek|[https://disneytermsofuse.com/hungarian,p]::1;
+<kedma|[https://www.dailymail.co.uk/health/index.html,p]::1;

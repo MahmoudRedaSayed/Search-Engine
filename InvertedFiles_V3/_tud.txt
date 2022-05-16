@@ -1,6 +1,1 @@
-<tudo|[https://24x7mag.com/professional-development/education/the-cookie-that-would-not-crumble,p]::1;
-<tudelano|[https://www.marca.com/futbol/primera-rfef.html?intcmp=MENUPROD&s_kw=primera-rfef,h]::2;
-<tudomására|[https://disneytermsofuse.com/hungarian,p]::1;
-<tudors|[https://www.bbc.co.uk/history/british,h]::1;[https://www.english-heritage.org.uk/learn/story-of-england,h]::1;[https://www.english-heritage.org.uk/learn/story-of-england,p]::2;[https://www.tudorhistory.org,p]::10;[https://www.ebay.com/globaldeals/more/coins,h]::1;
-<tudorhistoryorg|[https://www.tudorhistory.org,t]::1;[https://www.tudorhistory.org,p]::1;
-<tudorcast|[https://www.tudorhistory.org,p]::1;
+<tudo|[https://olympics.com/pt,h]::1;

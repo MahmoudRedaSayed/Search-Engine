@@ -1,14 +1,1 @@
-<liion|[https://lifetickler.com/phone-camera-money,p]::1;
-<liittyy|[https://disneytermsofuse.com/finnish,p]::1;
-<liiketoimintaan|[https://disneytermsofuse.com/finnish,p]::1;
-<liitettyyn|[https://disneytermsofuse.com/finnish,p]::1;
-<liittyen|[https://disneytermsofuse.com/finnish,p]::5;
-<liitännäisoikeuksiaan|[https://disneytermsofuse.com/finnish,p]::1;
-<liittyvät|[https://disneytermsofuse.com/finnish,p]::4;
-<liittyvään|[https://disneytermsofuse.com/finnish,p]::1;
-<liittyvien|[https://disneytermsofuse.com/finnish,p]::1;
-<liittyviä|[https://disneytermsofuse.com/finnish,p]::2;
-<liittovaltion|[https://disneytermsofuse.com/finnish,p]::3;
-<liittyä|[https://netticasino-now.com/arvostelut,p]::1;
-<liian|[https://netticasino-now.com/arvostelut,p]::1;
-<liikkuminen|[https://netticasino-now.com/arvostelut,p]::1;
+<liikenneyhteys|[https://fi.wiktionary.org/wiki/yhteys,p]::1;

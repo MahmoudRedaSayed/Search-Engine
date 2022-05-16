@@ -1,9 +1,0 @@
-<trzecich|[https://disneytermsofuse.com/polish,p]::7;[https://kasyno-now.com,p]::1;
-<trzydziestu|[https://disneytermsofuse.com/polish,p]::3;
-<trzecia|[https://disneytermsofuse.com/polish,p]::2;
-<trzecimi|[https://disneytermsofuse.com/polish,p]::1;
-<trzecią|[https://disneytermsofuse.com/polish,p]::1;
-<trzecie|[https://disneytermsofuse.com/polish,p]::2;
-<trzeba|[https://kasyno-now.com,s]::1;[https://kasyno-now.com,p]::2;
-<trzema|[https://kasyno-now.com,p]::1;
-<trzymającą|[https://kasyno-now.com/recenzja/woo,p]::1;

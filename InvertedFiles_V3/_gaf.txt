@@ -1,2 +1,0 @@
-<gaffe|[https://www.dailymail.co.uk,h]::1;[http://www.computerworld.com/article/2510494/data-privacy/microsoft-disables--supercookies--used-on-msn-com-visitors.html,h]::1;[http://www.computerworld.com/article/2510494/data-privacy/microsoft-disables--supercookies--used-on-msn-com-visitors.html,p]::1;
-<gafas|[https://www.marca.com/futbol/copa-rey.html?intcmp=MENUPROD&s_kw=futbol-copa-rey,h]::1;

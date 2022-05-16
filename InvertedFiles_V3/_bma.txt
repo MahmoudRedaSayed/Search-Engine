@@ -1,1 +1,2 @@
-<bma|[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;
+<bma|[https://www.dailymail.co.uk/health/index.html,p]::1;
+<bmas|[https://www.dailymail.co.uk/health/index.html,p]::1;

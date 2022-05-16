@@ -1,1 +1,0 @@
-<epubs|[https://blog.openlibrary.org,p]::1;

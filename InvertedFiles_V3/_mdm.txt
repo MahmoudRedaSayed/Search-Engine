@@ -1,3 +1,0 @@
-<mdmba|[https://meded.hms.harvard.edu/md-program-landing,p]::1;[https://meded.hms.harvard.edu/meet-our-students,p]::1;
-<mdmph|[https://meded.hms.harvard.edu/md-program-landing,p]::1;
-<mdmpp|[https://meded.hms.harvard.edu/md-program-landing,p]::1;

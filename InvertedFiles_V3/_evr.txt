@@ -1,4 +1,1 @@
-<evrequest|[https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62017CC0040,p]::1;[https://www.hearst.co.uk/solutions/branded-content,p]::1;
-<evrimleştiğine|[https://www.ugureskici.com/notlarim-makalelerim/digitalzone-2017-kimler-geldi-kimler-gecti-ne-ogrendik,p]::1;
-<evrensel|[https://www.ugureskici.com/notlarim-makalelerim/cografi-hedef-yapilandirmasi,p]::1;[https://www.ugureskici.com/page/8,p]::1;
-<evra|[https://www.marca.com/futbol/premier-league.html?intcmp=MENUPROD&s_kw=premier-league,h]::1;[https://www.marca.com/futbol/liga-francesa.html?intcmp=MENUPROD&s_kw=liga-francesa,h]::1;
+<evra|[https://www.dailymail.co.uk/sport/index.html,s]::1;

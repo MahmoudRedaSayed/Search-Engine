@@ -1,3 +1,0 @@
-<dla|[https://pl.wikipedia.org/wiki/HTTP_cookie,h]::1;[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::5;[https://disneytermsofuse.com/polish,p]::13;[https://kasyno-now.com,h]::2;[https://kasyno-now.com,s]::1;[https://kasyno-now.com,p]::13;[https://kasyno-now.com/recenzja,p]::3;[https://kasyno-now.com/recenzja/woo,h]::1;[https://kasyno-now.com/recenzja/woo,s]::1;[https://kasyno-now.com/recenzja/woo,p]::8;
-<dlatego|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://kasyno-now.com,p]::4;
-<dlacartwright|[https://www.congress.gov,p]::1;

@@ -1,16 +1,2 @@
-<sakura|[https://www.apple.com/us/shop/goto/buy_accessories,h]::1;[https://www.myenglishclub.com/discussions/do-you-know-words-that-only-exist-in-your-native-language,p]::4;
-<saka|[https://www.goal.com/en/lists/nxgn-2016-best-wonderkids/ugt5ciaielx911wusivtpvw6p,p]::1;[https://www.goal.com/en/lists/nxgn-2017-best-wonderkids/1s31weojaayp31xxxt1jmf27l7,p]::1;
-<saks|[https://lifetickler.com/natural-light-photography-illuminating-the-beauty-of-the-basics,p]::1;[https://www.myenglishclub.com/discussions/do-you-know-words-that-only-exist-in-your-native-language,p]::1;
-<sake|[https://lifetickler.com/why-lottery-should-be-taken-more-positively,p]::1;[https://www.bbc.com/future/article/20150706-the-small-list-of-things-that-make-humans-unique,p]::1;[https://www.infoplease.com/history/world,p]::1;[https://www.foxnews.com/entertainment/week-long-break-depp-heard-defamation-trial-actors-advantage-cross-examination-expert,p]::1;[https://www.myenglishclub.com/blogs,p]::1;[https://www.myenglishclub.com/blogs/flight-1443h,p]::1;[https://www.geeksforgeeks.org/geek-of-the-month/?ref=ghm,p]::1;[https://www.dailywritingtips.com/homograph-examples,p]::1;
-<saki|[https://www.ugureskici.com/hakkimda,p]::1;
-<sakin|[https://www.ugureskici.com/hakkimda,p]::1;
-<sakalımı|[https://www.ugureskici.com/hakkimda,p]::1;
-<sakın|[https://www.ugureskici.com/notlarim-makalelerim/wordpress-nginx-guvenligi,p]::1;
 <sakhir|[https://www.marca.com/motor/formula1/calendario.html,h]::1;
-<sakke|[https://www.nationalgeographic.com/pages/article/masthead,p]::1;
-<saksi|[https://disneytermsofuse.com/bahasa-malaysia,p]::1;
-<saker|[https://onlinecasino-now.se,p]::1;
-<sakha•|[https://commons.wikimedia.org/wiki/Atlas_of_Australia,p]::1;
-<sakher|[https://sell.amazon.eg/?lang=en-US&ref_=nav_cs_sell&ld=AZEGSOA_sell_EN,s]::1;
-<sakshi|[https://www.geeksforgeeks.org/geek-of-the-month/?ref=ghm,p]::1;
-<saksham|[https://www.geeksforgeeks.org/geek-of-the-month/?ref=ghm,p]::1;
+<sakai|[https://www.sciencenewsforstudents.org/about-us,p]::1;

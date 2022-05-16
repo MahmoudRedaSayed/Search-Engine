@@ -1,8 +1,5 @@
-<pyramids|[https://www.bbc.com/,p]::1;[https://english.ahram.org.eg/,p]::1;[https://nautil.us/topics/geoscience,h]::1;[https://www.sciencenewsforstudents.org/article/lets-learn-about-pi,s]::1;[https://www.sciencenewsforstudents.org/article/lets-learn-about-pi,p]::2;[https://kidskonnect.com/social-studies/stolen-generation,p]::1;[https://www.historyforkids.net,p]::1;[http://englishmedialab.com/math.html,s]::1;[http://www.math4children.com/videos.html,s]::1;[http://www.math4children.com/videos.html,p]::1;[https://www.geeksforgeeks.org/rd-sharma-class-8-solutions-for-maths/?ref=ghm,p]::1;
-<pyrus|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;
-<pyro|[https://www.tutorialspoint.com/pytorch/index.htm,p]::1;
-<pyrolysis|[https://www.iflscience.com/environment/enzyme-discovered-via-machine-learning-could-be-the-future-of-plastic-disposal,p]::1;
-<pyramidal|[https://elifesciences.org/articles/41714,t]::1;[https://elifesciences.org/articles/41714,h]::2;[https://elifesciences.org/articles/41714,p]::3;
-<pyri|[https://disneytermsofuse.com/finnish,p]::1;
-<pyrotechnics|[https://www.nytimes.com/2022/05/09/arts/television/american-song-contest-final.html,p]::1;
-<pyrex|[https://www.chicagotribune.com/consumer-reviews/#nt=tertiarynavbar,h]::1;
+<pyramids|[https://english.ahram.org.eg/,p]::1;
+<pyroptosis|[https://www.dailymail.co.uk/health/index.html,p]::1;
+<pyramid|[https://www.dailymail.co.uk/travel/index.html,h]::1;
+<pyrenees|[https://www.dailymail.co.uk/travel/index.html,p]::1;
+<pyrpylis|[https://www.telva.com,h]::1;

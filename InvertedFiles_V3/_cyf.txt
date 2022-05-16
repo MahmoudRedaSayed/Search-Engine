@@ -1,3 +1,0 @@
-<cyfrowymi|[https://disneytermsofuse.com/polish,p]::1;
-<cyfrowe|[https://disneytermsofuse.com/polish,p]::2;
-<cyfrowych|[https://disneytermsofuse.com/polish,p]::1;

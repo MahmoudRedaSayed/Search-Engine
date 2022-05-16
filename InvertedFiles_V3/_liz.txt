@@ -1,14 +1,1 @@
-<liza|[https://www.canceradvocacy.org,h]::1;[https://www.dailymail.co.uk/auhome/index.html,h]::1;[https://www.dailymail.co.uk/home/you/index.html,h]::1;[https://www.dailymail.co.uk/sport/othersports/index.html,h]::2;[https://www.dailymail.co.uk/sciencetech/apple/index.html,h]::1;[https://www.congress.gov,p]::1;[https://www.nytimes.com/live/2022/05/09/world/ukraine-russia-war-news,p]::1;[https://meded.hms.harvard.edu/faculty-portal,p]::1;[https://www.foxnews.com/travel,p]::1;[https://www.nytimes.com/2022/05/09/podcasts/the-daily/drones-airstrikes-military-ptsd.html,p]::1;[https://www.chicagotribune.com/news/obituaries/#nt=tertiarynavbar,h]::1;
-<lizzy|[https://www.dailymail.co.uk/money/pensions/index.html,h]::1;
-<lizard|[https://nautil.us/topics/evolution,h]::1;[https://nautil.us/topics/evolution,p]::1;[https://www.sciencenewsforstudents.org/author/carolyn-gramling,h]::1;[https://kidskonnect.com/social-studies/stolen-generation,p]::2;[https://www.chicagotribune.com/sports/cubs/#nt=taxonomy-article,h]::1;
-<lizarazu|[https://www.marca.com/futbol/futbol-internacional.html?intcmp=MENUMIGA&s_kw=futbol-internacional,h]::1;[https://www.marca.com/futbol/futbol-internacional.html?intcmp=MENUPROD&s_kw=futbol-internacional,h]::1;[https://www.marca.com/futbol/liga-francesa.html?intcmp=MENUPROD&s_kw=liga-francesa,h]::1;
-<lizardlike|[https://www.sciencenewsforstudents.org/author/carolyn-gramling,p]::1;
-<lizenzen|[https://swiss-casino-now.com,h]::4;[https://onlinecasino-now.de,h]::1;[https://casino-now.at/casino-bewertung,s]::1;[https://casino-now.at/casino-bewertung,p]::2;[https://swiss-casino-now.com/casino-bewertung/woo-casino,p]::1;[https://casino-now.at/casino-bewertung/woo,p]::2;[https://swiss-casino-now.com/casino-bewertung/spin-casino,p]::1;[https://swiss-casino-now.com/casino-software/netent,p]::3;[https://casino-now.at/casino-software/netent,p]::1;[https://icons8.de/animated-icons,h]::1;[https://icons8.de/animated-icons,p]::1;
-<lizenzbesitzer|[https://swiss-casino-now.com,h]::1;
-<lizenzierung|[https://onlinecasino-now.de,h]::1;[https://swiss-casino-now.com/casino-software/netent,h]::1;[https://casino-now.at/casino-software/netent,h]::1;[https://onlinecasino-now.de/casino-software/netent,s]::1;[https://onlinecasino-now.de/casino-software/netent,p]::1;
-<lizzie|[https://www.congress.gov,p]::1;[https://www.nps.gov/people/idabwells.htm,p]::1;[https://www.nps.gov/articles/tennessee-women-s-history.htm,p]::1;
-<lizenziert|[https://swiss-casino-now.com/casino-software/netent,p]::1;
-<lizensiert|[https://swiss-casino-now.com/casino-software/netent,p]::1;
-<lizenzierten|[https://casino-now.at/casino-software/netent,p]::1;[https://onlinecasino-now.de/casino-software/netent,p]::1;
-<lizenzierungen|[https://casino-now.at/casino-software/netent,p]::1;
-<lizardi|[https://www.nytimes.com/2022/05/09/business/energy-environment/puerto-rico-solar-power.html,p]::3;
+<liz|[https://www.dailymail.co.uk/ushome/index.html,h]::1;[https://www.dailymail.co.uk/ushome/index.html,p]::1;[http://sensesofcinema.podbean.com,p]::1;

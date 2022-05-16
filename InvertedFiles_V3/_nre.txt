@@ -1,2 +1,1 @@
-<nrevss|[https://www.cdc.gov/ncird/index.html,p]::1;
-<nreal|[https://www.foxnews.com,h]::1;
+<nreal|[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;[https://www.dailymail.co.uk/video/index.html,p]::1;

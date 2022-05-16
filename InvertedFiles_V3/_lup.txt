@@ -1,6 +1,1 @@
-<lupus|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;[https://www.everydayhealth.com/progesterone/guide,p]::1;[https://www.healthline.com/program/focus-on-lupus,t]::1;[https://www.healthline.com/program/focus-on-lupus,p]::8;[https://lifetickler.com/surviving-pre-eclampsia-twice,p]::1;[https://www.nytimes.com/2022/05/09/magazine/meat-allergy-diagnosis.html,p]::2;
-<lupulus|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
-<lupron|[https://www.everydayhealth.com/fertility/in-vitro-fertilization-other-infertility-treatments,p]::1;
-<lupaa|[https://disneytermsofuse.com/finnish,p]::6;[https://www.nytimes.com/2022/05/09/dining/mario-batali-trial-sexual-misconduct-boston.html,p]::1;
-<lupe|[https://casino-now.at/casino-bewertung,p]::1;[https://onlinecasino-now.de/casino-software/netent,p]::2;
-<lupone|[https://m.imdb.com/feature/bestpicture/?ref_=nv_ch_osc,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;[https://www.nytimes.com/live/2022/05/09/theater/tony-awards,p]::1;[https://www.nytimes.com/2022/05/09/theater/tony-awards-nominees.html,p]::1;
+<lupus|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;

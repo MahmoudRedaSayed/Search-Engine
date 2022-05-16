@@ -1,7 +1,2 @@
-<sri|[https://www.bbc.com/,h]::2;[https://www.france24.com,p]::1;[https://www.bbc.co.uk/news,h]::1;[https://www.bbc.com/news,h]::1;[https://www.bbc.com,h]::1;[https://www.bbc.co.uk/news/av/entertainment-arts-61347805,p]::2;[https://commons.wikimedia.org/wiki/Atlas_of_Australia,p]::1;[https://www.nytimes.com/ca/?action=click&region=Footer&pgtype=Homepage,h]::1;[https://www.nytimes.com/2022/05/09/world/asia/mahinda-rajapaksa-resigns-sri-lanka.html,t]::1;[https://www.nytimes.com/2022/05/09/world/asia/mahinda-rajapaksa-resigns-sri-lanka.html,h]::1;[https://www.nytimes.com/2022/05/09/world/asia/mahinda-rajapaksa-resigns-sri-lanka.html,p]::5;[https://www.nytimes.com/international/?action=click&region=Footer&pgtype=Homepage,h]::1;
-<srikanth|[https://www.tutorialspoint.com/categories/data_science_and_ai_ml,p]::1;
-<srivastava|[https://www.tutorialspoint.com/blockchain/index.htm,p]::2;[https://www.tutorialspoint.com/blue_prism/index.htm,p]::2;[https://www.tutorialspoint.com/openshift/index.htm,p]::2;[https://www.tutorialspoint.com/operating_system/index.htm,p]::1;[https://www.tutorialspoint.com/mysql/index.htm,p]::1;[https://www.tutorialspoint.com/swing/index.htm,p]::2;[https://www.tutorialspoint.com/hadoop/index.htm,p]::1;[https://www.tutorialspoint.com/big_data_analytics/index.htm,p]::6;[https://www.tutorialspoint.com/tableau/index.htm,p]::1;[https://www.geeksforgeeks.org/geek-of-the-month/?ref=ghm,p]::1;
-<srinivas|[https://www.tutorialspoint.com/mysql/index.htm,p]::1;
-<srinivasan|[https://www.cancer.gov/news-events/cancer-currents-blog/2020/ovarian-cancer-racial-disparities-studies,p]::1;
-<sridhar|[https://www.nytimes.com/article/birth-control-options.html,p]::2;
-<srib|[https://www.geeksforgeeks.org/campus-geek-of-the-month/?ref=ghm,p]::1;
+<srikanth|[https://olympics.com/en,h]::1;
+<sri|[https://www.bbc.com/travel,h]::1;[https://www.dailymail.co.uk/travel/index.html,p]::1;

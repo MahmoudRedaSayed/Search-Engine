@@ -1,5 +1,0 @@
-<dnyboyle|[https://www.congress.gov,p]::1;
-<dnycleaver|[https://www.congress.gov,p]::1;
-<dnydemings|[https://www.congress.gov,p]::1;
-<dnyestes|[https://www.congress.gov,p]::1;
-<dnyhiggins|[https://www.congress.gov,p]::1;

@@ -1,1 +1,1 @@
-<yegor|[https://www.nytimes.com/live/2022/05/09/world/ukraine-russia-war-news,p]::1;
+<yegge|[https://en.wikipedia.org/wiki/Object-oriented_programming,p]::2;

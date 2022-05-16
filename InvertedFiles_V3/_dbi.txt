@@ -1,2 +1,0 @@
-<dbisbnextracted|[https://github.com/Open-Book-Genome-Project/sequencer/blob/master/pipeline.py,h]::1;
-<dbisbnnone|[https://github.com/Open-Book-Genome-Project/sequencer/blob/master/pipeline.py,h]::1;

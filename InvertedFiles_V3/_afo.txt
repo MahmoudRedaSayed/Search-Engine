@@ -1,1 +1,1 @@
-<aforementioned|[http://wordpress.org/plugins/broken-link-checker,p]::1;[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;[https://edaa.eu/faq,p]::1;[https://help.piwik.pro/privacy-policy/#privacy_and_settings,p]::1;[https://casino-now-canada.com/reviews/playamo-casino,p]::1;
+<aforementioned|[http://wordpress.org/plugins/broken-link-checker,p]::1;

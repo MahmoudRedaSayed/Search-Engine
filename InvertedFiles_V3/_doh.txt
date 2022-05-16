@@ -1,7 +1,2 @@
-<doha|[http://www.archive-it.org,p]::1;[https://www.nytimes.com/2022/05/05/sports/soccer/chile-ecuador-byron-castillo.html,p]::2;
-<doherty|[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,h]::1;[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,p]::4;[https://www.cancer.gov/news-events/cancer-currents-blog/2020/ovarian-cancer-racial-disparities-studies,p]::2;
-<dohvatiti|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
-<dohvaćanje|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
-<dohistory|[http://www.besthistorysites.net/index.php/american-history,p]::3;
-<dohbentz|[https://www.congress.gov,p]::1;
-<dohbrownley|[https://www.congress.gov,p]::1;
+<doha|[https://www.marca.com/futbol/liga-francesa/2022/05/15/6280d25f46163f24128b459b.html,p]::1;[https://olympics.com/fr,h]::1;[https://olympics.com/it,h]::2;[https://olympics.com/pt,h]::1;[https://olympics.com/es,h]::1;[http://www.archive-it.org,p]::1;
+<doherty|[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://www.dailymail.co.uk/auhome/index.html,s]::1;

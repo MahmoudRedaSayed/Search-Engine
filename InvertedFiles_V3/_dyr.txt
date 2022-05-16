@@ -1,4 +1,0 @@
-<dyr|[https://da.wikipedia.org/wiki/Cookie,p]::1;
-<dyrektywa|[https://pl.wikipedia.org/wiki/HTTP_cookie,h]::1;[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<dyrektywę|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<dyrektywy|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;

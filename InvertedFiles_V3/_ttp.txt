@@ -1,1 +1,12 @@
-<ttp|[https://bbc.github.io/subtitle-guidelines,p]::3;
+<ttp|[https://bbc.github.io/subtitle-guidelines,p]::24;
+<ttpcellresolution|[https://bbc.github.io/subtitle-guidelines,p]::7;
+<ttptimebase|[https://bbc.github.io/subtitle-guidelines,p]::4;
+<ttpframerate|[https://bbc.github.io/subtitle-guidelines,p]::2;
+<ttpframeratemultiplier|[https://bbc.github.io/subtitle-guidelines,p]::2;
+<ttptimebasesmpte|[https://bbc.github.io/subtitle-guidelines,p]::4;
+<ttpmarkermode|[https://bbc.github.io/subtitle-guidelines,p]::2;
+<ttpdropmode|[https://bbc.github.io/subtitle-guidelines,p]::2;
+<ttproducer|[https://bbc.github.io/subtitle-guidelines,p]::2;
+<ttptimebaseclock|[https://bbc.github.io/subtitle-guidelines,p]::3;
+<ttpclockmodelocal|[https://bbc.github.io/subtitle-guidelines,p]::2;
+<ttpclockmodeutc|[https://bbc.github.io/subtitle-guidelines,p]::1;

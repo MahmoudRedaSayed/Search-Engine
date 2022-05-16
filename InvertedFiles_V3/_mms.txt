@@ -1,1 +1,1 @@
-<mmsci|[https://postgraduateeducation.hms.harvard.edu/participant-perspectives,p]::2;
+<mms|[https://www.bbc.co.uk/news,p]::1;[https://www.bbc.com/news,p]::1;

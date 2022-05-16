@@ -1,4 +1,2 @@
-<nccnorg|[https://www.everydayhealth.com/cancer/guide,p]::1;[https://www.everydayhealth.com/cancer/living-with/how-keep-friendships-strong-while-being-treated-cancer,p]::1;[https://www.nccn.org,p]::3;[https://apps.apple.com/us/app/chemowave-cancer-health-diary/id1199851760,p]::1;[https://apps.apple.com/us/app/outcomes4me-breast-cancer-care/id1404382419,p]::3;[http://pressroom.cancer.org/2ndBoosterShot,p]::1;
-<nccs|[https://www.everydayhealth.com/cancer/guide,p]::1;[https://www.everydayhealth.com/cancer/living-with/how-keep-friendships-strong-while-being-treated-cancer,p]::1;[https://www.canceradvocacy.org,t]::1;[https://www.canceradvocacy.org,h]::10;
-<nccns|[https://www.nccn.org,p]::1;
-<nccn®|[https://www.nccn.org,p]::1;
+<nccnorg|[https://www.everydayhealth.com/cancer/guide,p]::1;
+<nccs|[https://www.everydayhealth.com/cancer/guide,p]::1;

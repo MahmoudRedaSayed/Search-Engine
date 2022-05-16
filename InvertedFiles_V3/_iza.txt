@@ -1,2 +1,3 @@
-<izango|[https://eu.wikipedia.org/wiki/Cookie,p]::2;[https://www.marca.com/paralimpicos.html?intcmp=MENUPROD&s_kw=paralimpicos,h]::1;
-<izard|[https://www.chicagotribune.com/dining/reviews/ct-food-review-3-little-pigs-chinese-american-humboldt-park-20220509-v2eo2hetpzg2dc5i5zlf5pw24u-story.html#nt=related-content&rt=chartbeat-flt,p]::1;
+<iza|[https://www.marca.com/futbol/laliga-santander/cadiz-r-madrid-directo/2022/05/15/01_0101_20220515_1737_186.html,s]::2;[https://www.marca.com/futbol/laliga-santander/cadiz-r-madrid-directo/2022/05/15/01_0101_20220515_1737_186.html,p]::3;
+<izarra|[https://www.marca.com/futbol/laliga-santander/athletic-osasuna-directo/2022/05/15/01_0101_20220515_174_450.html,p]::1;
+<izan|[https://www.marca.com/motor/motogp/gp-francia/2022/05/13/627e1c3be2704e0e688b456f.html,p]::1;

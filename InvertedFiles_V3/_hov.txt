@@ -1,12 +1,2 @@
-<hover|[https://developers.google.com/assistant/console/analytics,p]::1;[https://www.everydayhealth.com/cancer/celebrities-with-cancer-why-do-some-decide-to-go-public-and-others-dont,p]::1;[http://edbrowse.org/usersguide.html#cook,h]::1;[http://edbrowse.org/usersguide.html#cook,p]::1;[https://www.bbc.co.uk/gel/guidelines/how-to-design-for-accessibility,p]::1;[https://www.marca.com/futbol/futbol-internacional.html?intcmp=MENUMIGA&s_kw=futbol-internacional,s]::1;[https://www.marca.com/futbol/futbol-internacional.html?intcmp=MENUPROD&s_kw=futbol-internacional,s]::1;[https://www.marca.com/futbol/premier-league/equipos.html?intcmp=MENUPROD&s_kw=premier-league-equipos,h]::1;[https://www.nytimes.com/privacy/privacy-policy,p]::1;[https://www.nytimes.com/live/2022/05/09/theater/tony-awards,p]::1;[https://www.geeksforgeeks.org/jquery-tutorials/?ref=ghm,p]::1;[https://www.tribpub.com/privacy-policy,p]::1;
-<hovedsites|[https://da.wikipedia.org/wiki/Cookie,p]::2;
-<hovercraft|[https://www.iflscience.com/environment/what-would-happen-if-you-jumped-into-lake-natron-you-wont-turn-to-stone-but-it-wouldnt-be-fun,p]::1;
-<hovers|[https://www.bbc.com/future/article/20220503-why-human-brains-were-bigger-3000-years-ago,p]::1;
-<hovell|[https://kids.kiddle.co/History_of_Australia,p]::2;
-<hoverover|[https://www.edtechdigest.com/the-edtech-awards-press-kit,p]::3;
-<hovered|[https://www.foxbusiness.com,h]::2;[https://www.foxbusiness.com/markets,h]::1;[https://www.foxbusiness.com/watchlist,h]::1;[https://www.foxbusiness.com/economy,h]::1;[https://www.foxnews.com,h]::1;
-<hovaguimian|[https://meded.hms.harvard.edu/teaching-awards,p]::2;
-<hovering|[https://www.nytimes.com/live/2022/05/09/business/economy-news-stocks-inflation,p]::1;
-<hovorenia|[http://sk.talkenglish.com,t]::1;
-<hovorovú|[http://sk.talkenglish.com,h]::1;
-<hovoriť|[http://sk.talkenglish.com,p]::1;
+<hovering|[https://www.dailymail.co.uk/femail/index.html,h]::1;
+<hover|[https://www.bbc.co.uk/gel/guidelines/how-to-design-for-accessibility,p]::1;

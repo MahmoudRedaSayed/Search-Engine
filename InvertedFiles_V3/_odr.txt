@@ -1,13 +1,4 @@
-<odrverordnung|[https://legal.twitter.com/imprint.html,p]::1;
-<odróżnienie|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<odrađuju|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
-<određen|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
-<održavanje|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
-<odrede|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
-<određuje|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
-<odrediti|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<održivi|[http://vedrigrad.hr,p]::1;
 <određene|[http://www.enable-javascript.com/hr,h]::1;
 <određeni|[http://www.enable-javascript.com/hr,h]::1;
 <odradio|[http://www.enable-javascript.com/hr,p]::1;
-<održivi|[http://vedrigrad.hr,p]::1;
-<odradzane|[https://kasyno-now.com,p]::1;

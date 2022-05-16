@@ -1,5 +1,1 @@
-<exman|[https://www.dailymail.co.uk/sport/football/index.html,h]::1;
-<exmatrimonio|[https://www.marca.com/tiramillas/cine/2022/05/09/6278ca4fe2704e69088b45a2.html,p]::1;
-<exmadridista|[https://www.marca.com/futbol/resto-america.html?intcmp=MENUPROD&s_kw=?intcmp=MENUPROD&s_kw=futbol-mas-america,h]::1;
-<exmlb|[https://www.foxbusiness.com,h]::1;
-<exmsnbc|[https://www.foxnews.com,h]::1;
+<exmanager|[https://www.dailymail.co.uk/auhome/index.html,h]::1;

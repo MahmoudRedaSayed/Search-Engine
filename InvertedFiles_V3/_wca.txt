@@ -1,2 +1,1 @@
-<wcag|[https://www.everydayhealth.com/accessibility-statement,p]::1;[https://www.bbc.co.uk/gel/guidelines/how-to-make-accessible-animated-images,p]::1;[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;[https://github.com/discourse/discourse,p]::1;[https://www.nytimes.com/privacy/privacy-policy,p]::1;[https://www.ebayinc.com/accessibility,p]::2;[https://accessibility.huit.harvard.edu/digital-accessibility-policy,p]::1;
-<wcagdefine|[https://www.ebayinc.com/accessibility,p]::1;
+<wcag|[https://www.bbc.co.uk/gel/guidelines/how-to-make-accessible-animated-images,p]::1;

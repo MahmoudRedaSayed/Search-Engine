@@ -1,7 +1,2 @@
-<gum|[https://www.everydayhealth.com/type-2-diabetes/guide,p]::1;[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::5;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-awards-10,p]::7;[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::2;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::3;[https://www.everydayhealth.com/symptom-checker,p]::2;[https://www.everydayhealth.com/breast-cancer/living-with/on-chemo-brain-dropped-words,p]::1;[https://www.sciencenewsforstudents.org/article/ice-cream-crystals-grainy-nanocrystals-cellulose,p]::2;
-<gum･dipotassium|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::2;
-<gummies|[https://www.healthline.com/reviews,p]::1;
-<gumbe|[https://sh.wikipedia.org/wiki/Cookie,p]::2;
-<gumgum|[https://edaa.eu/participating-companies,h]::1;
-<gums|[https://www.sciencenewsforstudents.org/article/ice-cream-crystals-grainy-nanocrystals-cellulose,p]::3;
-<gump|[https://www.marca.com/triatlon.html?intcmp=MENUPROD&s_kw=triatlon?intcmp=MENUPROD&s_kw=triatlon,h]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,h]::1;
+<gum|[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://www.everydayhealth.com/type-2-diabetes/guide,p]::1;
+<gumnaam|[https://www.sensesofcinema.com/special-dossiers,h]::1;

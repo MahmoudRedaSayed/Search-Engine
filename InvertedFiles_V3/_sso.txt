@@ -1,1 +1,4 @@
-<sso|[https://www.economy.com/store/add_to_cart.ashx?cmd=1&pids=31-30061-01&sub=1&freq=129&site=1&trialFlag=1&promos=CNNUSER,p]::1;
+<sso|[https://stackoverflow.com/questions/tagged/google-oauth,h]::1;[https://support.google.com/a/answer/60224,h]::4;[https://stackoverflow.com/questions/tagged/openid,h]::4;[https://support.google.com/a/answer/60224,p]::16;
+<ssowith|[https://support.google.com/a/answer/60224,p]::1;
+<ssolets|[https://support.google.com/a/answer/60224,p]::1;
+<sso（saml|[https://stackoverflow.com/questions/tagged/openid,h]::1;

@@ -1,5 +1,4 @@
-<jovanni|[https://web.archive.org/web/20110926122412/http:/cyberlaw.stanford.edu/node/6715,p]::1;[http://cyberlaw.stanford.edu/node/6715,p]::1;
-<jovic|[https://www.goal.com/en/lists/nxgn-2016-best-wonderkids/ugt5ciaielx911wusivtpvw6p,h]::1;
-<joven|[https://www.marca.com/tiramillas/actualidad/2022/05/09/6278ff3c749dee001f4ac534-directo.html,s]::1;[https://www.marca.com/tiramillas/actualidad/2022/05/09/6278ff3c749dee001f4ac534-directo.html,p]::2;[https://www.marca.com/deportes-aventura.html?intcmp=MENUPROD&s_kw=deportes-aventura,h]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/travelers/proof-of-vaccination.html,p]::1;
+<joven|[https://www.marca.com/ciclismo/giro-italia/2022/05/15/6280d6cd37ff7b0023a22828-directo.html,p]::2;[https://www.marca.com/futbol/real-madrid/2022/05/15/627fbbdb46163fee128b456d.html,p]::1;[https://www.marca.com/futbol/2022/05/13/627ddbd8749dee001f58f661-directo.html,s]::1;[https://www.marca.com/futbol/2022/05/13/627ddbd8749dee001f58f661-directo.html,p]::2;
+<jovial|[https://www.dailymail.co.uk/femail/index.html,p]::1;
 <joventut|[https://www.marca.com/baloncesto.html?intcmp=MENUPROD&s_kw=baloncesto,h]::1;
-<jovalyn|[https://www.nytimes.com/2022/05/06/business/philippines-election-disinformation.html,p]::1;
+<jovic|[https://www.marca.com/futbol/primera-division.html?intcmp=MENUMIGA&s_kw=laliga-santander,h]::1;[https://www.marca.com/futbol/primera-division.html?intcmp=MENUMIGA&s_kw=noticias,h]::1;[https://www.marca.com/futbol/real-madrid.html,h]::1;[https://www.marca.com/futbol/primera-division.html,h]::1;

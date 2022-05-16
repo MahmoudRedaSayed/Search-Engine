@@ -1,2 +1,2 @@
-<hyuna|[http://pressroom.cancer.org/releases?item=1093,p]::2;
-<hyundais|[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;[https://www.marca.com/coches-y-motos.html?intcmp=MENUPROD&s_kw=marca-coches,h]::2;[https://www.foxnews.com/category/tech/topics/innovation,p]::1;
+<hyundai|[https://olympics.com/en,h]::1;
+<hyundais|[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;

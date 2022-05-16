@@ -1,2 +1,0 @@
-<olfactory|[https://bbc.github.io/uxd-cognitive,h]::1;[https://nautil.us/the-doctor-will-sniff-you-now-2-11852,p]::6;[https://www.factset.com/privacy,p]::1;
-<olfato|[https://espanol.cdc.gov/coronavirus/2019-ncov/your-health/quarantine-isolation.html,p]::1;

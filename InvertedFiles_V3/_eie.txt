@@ -1,5 +1,0 @@
-<eier|[https://disneytermsofuse.com/norwegian,p]::4;
-<eiendom|[https://disneytermsofuse.com/norwegian,p]::3;
-<eies|[https://disneytermsofuse.com/norwegian,p]::1;
-<eierskapet|[https://disneytermsofuse.com/norwegian,p]::3;
-<eiendomsrett|[https://disneytermsofuse.com/norwegian,p]::1;

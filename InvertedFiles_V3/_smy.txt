@@ -1,2 +1,1 @@
-<smythet|[https://www.sciencenewsforstudents.org/article/light-pollution-sea-ocean-new-maps,p]::5;
-<smyslem|[https://disneytermsofuse.com/czech,p]::1;
+<smyth|[https://www.dailymail.co.uk/auhome/index.html,s]::1;

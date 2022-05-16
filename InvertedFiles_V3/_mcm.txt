@@ -1,2 +1,2 @@
-<mcmurry|[https://thekingcenter.org/about-mrs-king,p]::1;
-<mcmaster|[https://www.symplr.com/leadership,p]::1;
+<mcmenamin|[https://www.bbc.co.uk/sport,p]::1;
+<mcmanus|[https://www.dailymail.co.uk/auhome/index.html,s]::1;

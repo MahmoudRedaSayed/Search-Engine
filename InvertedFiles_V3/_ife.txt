@@ -1,2 +1,1 @@
-<ifeanyichukwu|[https://www.tutorialspoint.com/swing/index.htm,p]::1;
-<ifelse|[https://lab.github.com,p]::1;[https://www.geeksforgeeks.org/analysis-of-algorithms-set-4-analysis-of-loops/?ref=ghm,p]::3;
+<ife|[https://ar.marca.com/claro/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;

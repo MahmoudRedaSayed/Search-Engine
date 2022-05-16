@@ -1,1 +1,1 @@
-<txuri|[https://www.marca.com/deportes-invierno.html?intcmp=MENUPROD&s_kw=deportes-invierno,h]::1;
+<txuriurdim|[https://www.marca.com/futbol/primera-division/2022/05/15/6280979246163f52328b45b9.html,p]::1;

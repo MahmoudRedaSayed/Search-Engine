@@ -1,3 +1,2 @@
-<cyanocobalamin|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
-<cyanide|[https://www.iflscience.com/health-and-medicine,p]::1;
-<cyanosis|[https://health.howstuffworks.com/diseases-conditions,h]::1;
+<cyanobacteria|[https://www.iflscience.com/,p]::1;[https://www.iflscience.com/technology,p]::1;
+<cyan|[https://bbc.github.io/subtitle-guidelines,p]::1;

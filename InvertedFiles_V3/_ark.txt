@@ -1,13 +1,4 @@
-<arkheia|[http://www.archive-it.org,p]::1;[https://www.foxnews.com/lifestyle,p]::1;[https://www.foxnews.com/lifestyle/mothers-day-protests-pro-abortion-activists-brokenness,p]::1;[https://www.foxnews.com/lifestyle/nebraska-teen-home-wildfire-doorbell-system,p]::1;
-<arkansas|[http://www.archive-it.org,p]::1;[https://covidtracking.com/data,h]::1;[https://www.iflscience.com/space/fiery-meteor-creates-sonic-boom-heard-across-three-us-states,p]::1;[http://www.springshare.com,p]::1;[http://preservearchives.tumblr.com,p]::1;[http://www.clintonlibrary.gov,p]::1;[http://www.facebook.com/pages/Clinton-Presidential-Center/63936082996,p]::1;[https://www.foxnews.com/media,p]::2;[https://www.foxweather.com,h]::1;[https://www.foxnews.com/category/politics/elections,p]::1;[https://www.foxnews.com/travel,p]::1;[https://www.foxnews.com,h]::1;[https://www.foxnews.com/us/alabama-law-criminalizing-gender-transition-surgery-drugs-for-minors-takes-effect,p]::1;[https://www.dailywritingtips.com/pro,p]::1;[https://www.dailywritingtips.com/possessive-of-proper-names-ending-in-s,p]::1;[https://www.dailywritingtips.com/english-grammar-101-all-you-need-to-know,p]::1;
-<arkadaşlarımdan|[https://www.ugureskici.com/hakkimda,p]::2;[https://www.ugureskici.com/notlarim-makalelerim/wordpress-nginx-guvenligi,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/digitalzone-2017-kimler-geldi-kimler-gecti-ne-ogrendik,p]::1;
-<arkadaşlarına|[https://www.ugureskici.com/notlarim-makalelerim/2021-dijital-pazarlama-trendleri-ve-ic-gorulerim,p]::1;
-<arkadium|[https://www.arkadium.com/privacy-policy,t]::1;[https://corporate.arkadium.com,t]::1;[https://www.arkadium.com/privacy-policy,s]::3;[https://corporate.arkadium.com,h]::14;[https://www.arkadium.com/privacy-policy,p]::9;[https://corporate.arkadium.com,p]::2;[https://corporate.arkadium.com/arena,t]::1;[https://corporate.arkadium.com/arena,p]::2;
-<arkadiums|[https://corporate.arkadium.com,h]::1;
-<arkadaşı|[https://www.ugureskici.com/notlarim-makalelerim/wordpress-nginx-guvenligi,p]::1;
-<arkadasım|[https://www.ugureskici.com/notlarim-makalelerim/rss-yayini-nedir-seo-icin-rss-olusturma,p]::1;
-<arkadaşım|[https://www.ugureskici.com/notlarim-makalelerim/rss-yayini-nedir-seo-icin-rss-olusturma,p]::1;
-<arkeolojik|[https://www.aphrodisias.org,p]::1;
-<arkano|[https://www.marca.com/tiramillas/television/2021/10/19/616ead5e22601d8c0d8b4615.html,s]::1;
-<arkin|[https://m.imdb.com/feature/bestpicture/?ref_=nv_ch_osc,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;
-<arky|[https://meded.hms.harvard.edu/meded-people,h]::1;
+<arkano|[https://www.marca.com/tiramillas/television/2021/10/19/616ead5e22601d8c0d8b4615.html,s]::1;[https://www.marca.com/tiramillas/television/2021/10/19/616ead5e22601d8c0d8b4615.html,p]::1;
+<arkansas|[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;[http://www.archive-it.org,p]::1;
+<ark|[https://www.sensesofcinema.com/special-dossiers,h]::1;
+<arkheia|[http://www.archive-it.org,p]::1;

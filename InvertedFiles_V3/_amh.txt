@@ -1,2 +1,1 @@
-<amherst|[https://www.everydayhealth.com/diet-nutrition/the-dash-diet.aspx,p]::1;[http://www.archive-it.org,p]::2;
-<amhistorymuseumon|[https://americanhistory.si.edu,p]::1;
+<amherst|[http://www.archive-it.org,p]::2;

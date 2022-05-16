@@ -1,4 +1,1 @@
-<kafkaesque|[https://www.dailymail.co.uk/money/pensions/index.html,h]::1;
-<kafama|[https://www.ugureskici.com/hakkimda,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/marmara-isletme-soruyor-digital-marketing-paneli,p]::1;
-<kafaya|[https://www.ugureskici.com/notlarim-makalelerim/wordpress-nginx-guvenligi,p]::1;
-<kafalisiniz|[https://www.ugureskici.com/notlarim-makalelerim/murphy-kanunlari,p]::1;
+<kaftrio|[https://www.dailymail.co.uk/health/index.html,p]::2;

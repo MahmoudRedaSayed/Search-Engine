@@ -1,9 +1,5 @@
-<hodgkin|[https://www.everydayhealth.com/cancer/guide,p]::1;[https://www.everydayhealth.com/cancer/living-with/how-keep-friendships-strong-while-being-treated-cancer,p]::1;[https://www.cancer.gov/about-cancer/understanding/what-is-cancer,p]::1;[https://www.everydayhealth.com/cancer/guide/after-cancer-diagnosis-comes-staging,p]::1;[https://nautil.us/ai-is-helping-scientists-explain-the-brain-14073,p]::1;[https://www.geeksforgeeks.org/geeksforgeeks-student-chapter/?ref=ghm,s]::1;[https://www.geeksforgeeks.org/geeksforgeeks-student-chapter/?ref=ghm,p]::1;
-<hodges|[http://www.archive-it.org,p]::1;[http://www.thesecuritypractice.com/the_security_practice/2011/03/http-state-management-mechanism-to-proposed-standard.html,p]::3;[https://www.marca.com/futbol/argentina.html?intcmp=MENUPROD&s_kw=futbol-argentina,h]::1;[https://www.great-britain.co.uk/history/history.htm,p]::1;[https://www.nytimes.com/2022/05/08/us/politics/roe-wade-supreme-court-abortion.html,p]::2;[https://www.nytimes.com/2022/05/09/briefing/ve-day-europe-ukraine-war.html,p]::1;
-<hodgkins|[https://www.everydayhealth.com/cancer/celebrities-with-cancer-why-do-some-decide-to-go-public-and-others-dont,p]::1;
-<hodnotacookie|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::4;
-<hodnoty|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<hodgson|[https://www.bbc.co.uk/sport,p]::1;
-<hodling|[https://www.dailymail.co.uk/money/index.html,h]::1;[https://www.dailymail.co.uk/money/bills/index.html,s]::1;[https://www.thisismoney.co.uk,h]::1;
-<hodan|[https://lifetickler.com/are-home-security-systems-worth-the-money,p]::1;
-<hodnotou|[https://disneytermsofuse.com/czech,p]::1;
+<hodgkin|[https://www.everydayhealth.com/cancer/guide,p]::1;
+<hodgson|[https://www.dailymail.co.uk/sport/index.html,s]::1;[https://blog.archive.org,p]::3;
+<hodling|[https://www.dailymail.co.uk/money/index.html,h]::1;[https://www.dailymail.co.uk/money/index.html,p]::1;
+<hodgkinson|[https://www.dailymail.co.uk/travel/index.html,p]::1;
+<hodges|[http://www.archive-it.org,p]::1;

@@ -1,5 +1,0 @@
-<amniotic|[https://www.everydayhealth.com/dehydration/hydration-calculator,p]::1;
-<amnesia|[https://www.nytimes.com/2001/09/04/technology/04COOK.html,p]::1;
-<amnesty|[https://www.foxnews.com/category/us/immigration,p]::1;
-<amnpsx|[https://www.ebay.com/globaldeals/home,h]::1;[https://www.ebay.com/globaldeals/home/yard-garden-outdoor-living,h]::1;
-<amntsex|[https://www.ebay.com/globaldeals/home,h]::2;[https://www.ebay.com/globaldeals/home/yard-garden-outdoor-living,h]::2;

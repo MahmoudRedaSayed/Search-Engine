@@ -1,2 +1,0 @@
-<onyoutube|[https://www.youtube.com/ads,h]::1;
-<onyenwere|[https://www.foxnews.com,h]::2;

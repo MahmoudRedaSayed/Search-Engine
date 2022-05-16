@@ -1,2 +1,2 @@
+<ljubek|[https://olympics.com/en,h]::1;
 <ljudska|[http://vedrigrad.hr,p]::1;
-<ljudfiler|[http://sv.talkenglish.com,p]::1;

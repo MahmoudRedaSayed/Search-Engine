@@ -1,4 +1,1 @@
-<tyson|[https://www.marca.com,h]::1;[https://www.dailymail.co.uk/sport/mma/index.html,h]::1;[http://www.beinsports.com/au,h]::1;[http://www.beinsports.com/au,p]::1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]::1;[https://us.marca.com/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;[https://nautil.us/topics/general,h]::1;[https://www.marca.com/polideportivo.html?intcmp=MENUPROD&s_kw=polideportivo,h]::1;[https://www.marca.com/ultimas-noticias.html?intcmp=MENUDEST&s_kw=ultimas-noticias,h]::1;[https://www.marca.com?intcmp=MENUMIGA&s_kw=home,h]::1;[https://www.marca.com/boxeo.html?intcmp=MENUPROD&s_kw=boxeo,h]::4;
-<tysiąca|[https://disneytermsofuse.com/polish,p]::2;
-<tysięcy|[https://kasyno-now.com,p]::1;
-<tysen|[https://www.nytimes.com/2022/05/09/theater/tony-awards-nominees.html,p]::1;
+<tyson|[https://www.dailymail.co.uk/sport/index.html,h]::1;[https://www.dailymail.co.uk/sport/index.html,s]::1;

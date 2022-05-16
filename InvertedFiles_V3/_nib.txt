@@ -1,2 +1,2 @@
-<nib|[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;[https://nautil.us/topics/evolution,p]::1;[https://www.ebay.com/globaldeals/more,h]::1;[https://www.ebay.com/globaldeals/more/collectibles,h]::3;
-<nibbles|[https://www.everydayhealth.com/mediterranean-diet/guide,p]::1;[https://www.everydayhealth.com/cancer/8-ways-fight-fatigue-chemotherapy-treatment,p]::1;[http://www.download-esl.com/tonguetwisters/easy/easytongue.html,p]::4;
+<nibali|[https://www.marca.com/ciclismo/giro-italia/2022/05/15/6280d6cd37ff7b0023a22828-directo.html,p]::1;
+<nibble|[https://www.dailymail.co.uk/travel/index.html,p]::1;

@@ -1,1 +1,2 @@
-<zoeken|[https://nl.wikipedia.org/wiki/Cookie_(internet),h]::1;[https://onlinecasino-now.nl,p]::3;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::2;[https://www.foxnews.com/politics/hunter-biden-working-with-hollywood-lawyer-to-investigate-laptop-leak-report,p]::1;
+<zoe|[https://www.dailymail.co.uk/auhome/index.html,s]::1;
+<zoeken|[https://nl.wiktionary.org/wiki/aansluiting,h]::1;[https://nl.wiktionary.org/wiki/raakpunt,h]::1;[https://nl.wiktionary.org/wiki/koppeling,h]::1;[https://nl.wiktionary.org/wiki/interface,h]::1;

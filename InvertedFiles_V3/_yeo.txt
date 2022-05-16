@@ -1,2 +1,1 @@
-<yeoman|[http://www.geraldrfordfoundation.org,p]::2;
-<yeojeong|[https://m.imdb.com/feature/bestpicture/?ref_=nv_ch_osc,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;
+<yeoh|[https://www.dailymail.co.uk/tvshowbiz/index.html,h]::1;

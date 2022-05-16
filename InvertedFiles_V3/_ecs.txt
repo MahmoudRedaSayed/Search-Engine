@@ -1,1 +1,2 @@
-<ecstasy|[https://nautil.us/topics/psychology,h]::1;
+<ecstatic|[https://www.sensesofcinema.com,h]::1;[https://www.sensesofcinema.com/category/feature-articles,h]::1;[https://www.dailymail.co.uk/sport/index.html,s]::1;[https://www.sensesofcinema.com/category/festival-reports,h]::1;[https://www.sensesofcinema.com/category/book-reviews,h]::2;[https://www.sensesofcinema.com/category/cteq,h]::1;[https://www.sensesofcinema.com/category/great-directors,h]::1;[https://www.sensesofcinema.com/special-dossiers,h]::2;
+<ecs|[https://stackoverflow.com/questions,h]::1;

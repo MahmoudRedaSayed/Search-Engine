@@ -1,0 +1,3 @@
+<oestrogel|[https://www.dailymail.co.uk/health/index.html,p]::1;
+<oestrogen|[https://www.dailymail.co.uk/health/index.html,p]::2;
+<oeste|[https://www.marca.com/futbol/2022/05/13/627ddbd8749dee001f58f661-directo.html,p]::4;

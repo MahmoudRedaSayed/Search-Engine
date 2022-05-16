@@ -1,4 +1,6 @@
-<fiasco|[https://www.nytimes.com/2001/09/04/technology/04COOK.html,p]::1;[https://www.dailymail.co.uk/money/pensions/index.html,h]::1;[https://www.marca.com/motor.html?intcmp=MENUPROD&s_kw=motor,h]::2;[https://www.marca.com/ultimas-noticias.html?intcmp=MENUDEST&s_kw=ultimas-noticias,h]::1;
-<fiancé|[https://www.dailymail.co.uk/usshowbiz/index.html,h]::1;[https://www.dailymail.co.uk/news/adelaide/index.html,h]::2;[https://www.dailymail.co.uk/dailymailtv/video/index.html,s]::1;[https://www.dailymail.co.uk/dailymailtv/advertise/index.html,s]::1;[https://www.nydailynews.com,p]::1;
-<fiancée|[https://www.dailymail.co.uk/news/perth/index.html,h]::2;[https://www.foxnews.com/entertainment,p]::1;[https://www.foxnews.com/category/entertainment/tv,p]::1;
-<fiables|[https://fr.casino-now-canada.com,h]::1;[https://fr.swiss-casino-now.com,h]::1;[https://fr.casino-now-canada.com/logiciels/netent,h]::1;[https://fr.casino-now-canada.com/revue,t]::1;[https://fr.swiss-casino-now.com/revue,s]::1;
+<fia|[https://www.bbc.co.uk/news,h]::1;[https://www.bbc.co.uk/sport,p]::1;[https://www.dailymail.co.uk/sport/index.html,h]::1;[https://www.dailymail.co.uk/sport/index.html,p]::1;[https://www.bbc.com/sport,p]::1;[https://www.bbc.com/news,h]::1;
+<fiancé|[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://www.dailymail.co.uk/auhome/index.html,s]::3;[https://www.dailymail.co.uk/health/index.html,s]::1;
+<fiance|[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://www.dailymail.co.uk/auhome/index.html,s]::1;[https://www.dailymail.co.uk/auhome/index.html,p]::1;
+<fiancee|[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://www.dailymail.co.uk/auhome/index.html,s]::1;[https://www.dailymail.co.uk/femail/index.html,p]::1;[https://www.dailymail.co.uk/travel/index.html,p]::1;
+<fiat|[https://www.marca.com/coches-y-motos.html?intcmp=MENUPROD&s_kw=marca-coches,h]::1;
+<fiancée|[https://www.dailymail.co.uk/video/index.html,p]::1;

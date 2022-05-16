@@ -1,1 +1,2 @@
-<ayman|[https://www.tutorialspoint.com/sas/index.htm,p]::1;
+<aymara|[https://breakingnewsenglish.com/,p]::1;
+<aymeric|[https://www.dailymail.co.uk/sport/index.html,s]::1;

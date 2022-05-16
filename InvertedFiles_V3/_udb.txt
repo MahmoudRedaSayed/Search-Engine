@@ -1,5 +1,0 @@
-<udbetalingsprocessen|[https://casino-now.dk,h]::1;[https://casino-now.dk,p]::4;[https://casino-now.dk/anmeldelser,p]::4;
-<udbetalt|[https://casino-now.dk,h]::1;
-<udbetalingshastighed|[https://casino-now.dk,p]::4;[https://casino-now.dk/anmeldelser,p]::4;
-<udbudt|[https://casino-now.dk,p]::1;
-<udbydere|[https://casino-now.dk,p]::3;

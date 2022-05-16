@@ -1,1 +1,0 @@
-[][]rfc 6265 - http state management mechanism[jun, 2012][]

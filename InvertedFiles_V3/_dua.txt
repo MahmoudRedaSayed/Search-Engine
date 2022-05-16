@@ -1,12 +1,6 @@
-<dual|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;[https://archive.org/about/bios.php,p]::1;[https://www.tutorialspoint.com/android/index.htm,p]::1;[https://web.archive.org/web/20051001113951/http:/www.microsoft.com/windows/IE/community/columns/historyofie.mspx,p]::1;[https://www.disney.com,h]::1;[https://nautil.us/topics/philosophy,p]::1;[http://www.digikey.com,h]::1;[https://isoo.blogs.archives.gov,p]::1;[https://casino-now-canada.com/online-casino-software/microgaming,p]::1;[http://www.facebook.com/pages/Zagros-Robotics-Inc/233631083999,p]::1;[https://www.zagrosrobotics.com/shop/item.aspx?itemid=1168,p]::1;[https://www.zagrosrobotics.com/shop/item.aspx?itemid=1034,p]::2;[https://www.ebay.com/globaldeals/tech,h]::2;[https://www.ebay.com/globaldeals/tech/phone-cases-accessories,h]::1;[https://www.ebay.com/globaldeals/tech/ipads-tablets-ereaders,h]::1;[https://www.ebay.com/globaldeals/tech/vehicle-electronics-gps,h]::2;[https://www.ebay.com/globaldeals/more/musical-instruments-gear,h]::3;[https://blog.icons8.com/articles/how-to-create-a-beautiful-pixel-art-environment-in-clip-studio-paint,p]::1;[https://www.dailywritingtips.com/possessive-of-proper-names-ending-in-s,p]::1;
-<dualenergy|[https://www.everydayhealth.com/menopause/health-risks-women-face-after-menopause,p]::1;
-<duargi|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
-<dualists|[https://nautil.us/topics/philosophy,h]::2;[https://nautil.us/topics/philosophy,p]::1;
-<duatlón|[https://www.marca.com/triatlon.html?intcmp=MENUPROD&s_kw=triatlon?intcmp=MENUPROD&s_kw=triatlon,h]::1;
-<dualconcentric|[http://www.digikey.com,h]::1;
-<duality|[https://www.hearst.com/ventures,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;[https://www.nytimes.com/2022/05/07/opinion/abortion-supreme-court-puritanism.html,p]::1;
+<dualscreen|[https://www.iflscience.com/,h]::1;[https://www.iflscience.com/editors-blog,h]::1;
 <dual‑camera|[https://www.apple.com/lae/iphone,p]::2;
-<dualband|[https://www.zagrosrobotics.com/shop/item.aspx?itemid=1153,p]::1;[https://www.zagrosrobotics.com/shop/item.aspx?itemid=1112,p]::1;
-<dualdisplay|[https://www.zagrosrobotics.com/shop/item.aspx?itemid=1161,p]::1;[https://www.zagrosrobotics.com/shop/item.aspx?itemid=1170,p]::1;
-<dualsense|[https://www.ebay.com/globaldeals/tech/video-games-consoles,h]::1;[https://www.ebay.com/globaldeals/tech,h]::1;
-<dualbrew|[https://www.ebay.com/globaldeals/home/kitchen-dining-bar,h]::1;
+<dua|[https://www.dailymail.co.uk/auhome/index.html,s]::1;[https://co.marca.com/claro/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;
+<dual|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;[https://archive.org/about/bios.php,p]::1;
+<dualgender|[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;
+<duarte|[https://www.marca.com/futbol/primera-division/2022/05/15/6280d88e37ff7b0023a23044-directo.html,s]::1;[https://www.marca.com/futbol/primera-division/2022/05/15/6280d88e37ff7b0023a23044-directo.html,p]::3;

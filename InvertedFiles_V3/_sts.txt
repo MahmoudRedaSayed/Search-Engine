@@ -1,1 +1,1 @@
-<stsci|[https://www.iflscience.com/space/over-1000-unknown-asteroids-discovered-in-old-hubble-data-by-citizen-scientists-and-ais,p]::2;[https://www.sciencenewsforstudents.org/about-us,p]::1;[https://www.amazon.science/blog/improving-unsupervised-sentence-pair-comparison,p]::1;
+<sts|[https://www.sciencenewsforstudents.org/about-us,p]::1;

@@ -1,2 +1,0 @@
-<gubernamental|[https://www.nytimes.com/es,p]::1;
-<gubernatorial|[https://www.foxnews.com/media,p]::2;

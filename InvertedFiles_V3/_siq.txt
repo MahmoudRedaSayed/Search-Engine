@@ -1,1 +1,1 @@
-<siquiera|[https://www.marca.com/futbol/liga-francesa.html?intcmp=MENUPROD&s_kw=liga-francesa,h]::1;
+<siquiera|[https://www.marca.com/futbol/laliga-santander/atletico-sevilla-directo/2022/05/15/01_0101_20220515_175_179.html,p]::1;[https://us.marca.com/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;[https://www.marca.com/futbol/real-madrid/2022/05/15/627fbbdb46163fee128b456d.html,p]::1;[https://www.marca.com/futbol/primera-division/2022/05/15/6280979246163f52328b45b9.html,p]::1;

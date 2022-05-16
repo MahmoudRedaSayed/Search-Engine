@@ -1,2 +1,0 @@
-<xlsx|[https://www.tutorialspoint.com/excel/index.htm,p]::2;[https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases,s]::1;[https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/robotstxt-nedir-nasil-kullanilir,p]::1;
-<xlsile|[https://www.ugureskici.com/notlarim-makalelerim/robotstxt-nedir-nasil-kullanilir,p]::1;

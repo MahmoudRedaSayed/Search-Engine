@@ -1,3 +1,2 @@
-<cojones|[https://www.marca.com/tiramillas/television/2022/05/09/6278df5e22601dae538b45cf.html,s]::1;[https://www.marca.com/tiramillas/television/2022/05/09/6278df5e22601dae538b45cf.html,p]::1;
-<cojeando|[https://www.marca.com/baloncesto.html?intcmp=MENUPROD&s_kw=baloncesto,h]::1;
-<coja|[https://www.marca.com/futbol/futbol-internacional.html?intcmp=MENUMIGA&s_kw=futbol-internacional,h]::1;[https://www.marca.com/futbol/futbol-internacional.html?intcmp=MENUPROD&s_kw=futbol-internacional,h]::1;
+<cojeando|[https://www.marca.com/futbol/laliga-santander/cadiz-r-madrid-directo/2022/05/15/01_0101_20220515_1737_186.html,p]::1;
+<cojo|[https://www.marca.com/primera-plana/opinion/2022/05/15/623847bf268e3e0f078b45b0.html,p]::1;

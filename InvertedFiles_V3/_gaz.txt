@@ -1,8 +1,5 @@
-<gaze|[https://www.healthline.com/health/mental-health/discovering-gender-identity-in-isolation,p]::2;[http://www.mailtravel.co.uk/?utm_source=mailonline&utm_medium=referral&utm_campaign=mol-nav&utm_content=top-navbar&mailonline=top-navbar,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;[https://www.nytimes.com/2022/05/09/opinion/pamela-anderson-amber-heard-redemption-plot.html,p]::1;[https://www.nytimes.com/2022/05/05/podcasts/still-processing-fatal-attraction-erotic-thrillers.html,p]::1;[https://www.chicagotribune.com/news/criminal-justice/ct-downtown-chicago-crime-analysis-20220508-7dffzoq635eelaqyh6hkthidpq-story.html#nt=related-content&rt=chartbeat-flt,p]::1;
+<gazzetta|[https://co.marca.com/claro/?intcmp=BOTONPORTADA&s_kw=portada,p]::1;
+<gazprom|[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;
+<gaze|[https://www.sensesofcinema.com/special-dossiers,h]::2;
 <gazumping|[https://www.bbc.co.uk/gel/guidelines/how-to-make-accessible-animated-images,p]::1;
-<gazi|[https://www.dailymail.co.uk/money/cardsloans/index.html,p]::1;
-<gazdasági|[https://disneytermsofuse.com/hungarian,p]::1;
-<gazing|[https://www.nytimes.com/2022/04/29/science/tiktaalik-fish-fossil-meme.html,p]::1;
-<gazette|[https://www.harvard.edu/copyright-issue,s]::1;[https://accessibility.huit.harvard.edu/digital-accessibility-policy,p]::1;[https://trademark.harvard.edu/pages/trademark-notice,p]::1;[https://www.foxnews.com/us/blue-state-covid-racial-achievement-gaps-relative-to-red-states,p]::1;
-<gazed|[https://www.nytimes.com/2022/05/08/opinion/dementia-elder-care.html,p]::1;
-<gazprombank|[https://www.nytimes.com/2022/05/08/world/americas/brazil-russian-fertilizer-sanctions.html,p]::1;
+<gazing|[https://www.iflscience.com/environment/sky-turns-blood-red-over-chinese-city-of-zhoushan,p]::1;

@@ -1,5 +1,2 @@
-<rabin|[https://thekingcenter.org/about-mrs-king,p]::1;[https://www.nytimes.com/es,p]::1;[https://www.nytimes.com/2022/05/05/health/covid-impotence-erectile-dysfunction.html,p]::1;
-<rabbits|[https://lifetickler.com/5-tips-to-become-a-professional-photographer,p]::1;[https://www.foxmovies.com,h]::1;[https://m.imdb.com/chart/starmeter/?ref_=nv_cel_brn,p]::1;[https://www.foxnews.com/lifestyle/mothers-day-protests-pro-abortion-activists-brokenness,s]::1;[https://www.foxnews.com/lifestyle/mothers-day-protests-pro-abortion-activists-brokenness,p]::1;[https://www.nytimes.com/2022/05/05/podcasts/still-processing-fatal-attraction-erotic-thrillers.html,p]::2;[https://www.freddiesville.com/games-ville,p]::1;
-<raba|[https://www.marca.com/futbol/liga-portuguesa.html?intcmp=MENUPROD&s_kw=primeira-liga-portugal,h]::1;
-<rabinkarp|[https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/?ref=ghm,s]::1;
-<rabatt|[https://icons8.de/animated-icons,h]::1;
+<rabat|[https://www.marca.com/polideportivo.html?intcmp=MENUPROD&s_kw=polideportivo,h]::2;[https://www.marca.com/ultimas-noticias.html?intcmp=MENUDEST&s_kw=ultimas-noticias,h]::1;
+<rabbits|[https://www.sensesofcinema.com/special-dossiers,h]::1;

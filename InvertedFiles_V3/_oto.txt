@@ -1,13 +1,2 @@
-<otokiti|[https://www.dailymail.co.uk,p]::1;
-<otomatis|[https://id.wikipedia.org/wiki/Kuki,p]::1;[https://disneytermsofuse.com/bahasa-indonesia,p]::2;
-<otolaryngology|[https://lifetickler.com/cause-early-hearing-loss-linked-genetic-mutation-inhibitor,p]::1;[http://medprofvideos.mayoclinic.org,p]::1;
-<otomatikleştirilmiş|[https://www.ugureskici.com/notlarim-makalelerim/digitalzone-2017-kimler-geldi-kimler-gecti-ne-ogrendik,h]::1;[https://www.ugureskici.com/notlarim-makalelerim/digitalzone-2017-kimler-geldi-kimler-gecti-ne-ogrendik,p]::1;
-<otobüste|[https://www.ugureskici.com/notlarim-makalelerim/marmara-isletme-soruyor-digital-marketing-paneli,p]::1;
-<otonom|[https://www.ugureskici.com/notlarim-makalelerim/digitalzone-2017-kimler-geldi-kimler-gecti-ne-ogrendik,p]::1;
-<otonomlaşacak|[https://www.ugureskici.com/notlarim-makalelerim/digitalzone-2017-kimler-geldi-kimler-gecti-ne-ogrendik,p]::1;
-<otoño|[https://www.marca.com/toros.html?intcmp=MENUPROD&s_kw=toros,h]::2;
-<otonomo|[https://www.hearst.com/ventures,p]::1;
-<otorguen|[https://espanol.cdc.gov/coronavirus/2019-ncov/travelers/testing-international-air-travelers.html,p]::1;
-<otorgar|[https://espanol.cdc.gov/coronavirus/2019-ncov/travelers/testing-international-air-travelers.html,p]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/travelers/proof-of-vaccination.html,p]::1;
-<otoole|[https://m.imdb.com/feature/bestpicture/?ref_=nv_ch_osc,p]::2;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::2;[https://www.nytimes.com/2022/04/29/science/tiktaalik-fish-fossil-meme.html,p]::5;
-<otoh|[https://www.dailywritingtips.com/possessive-of-proper-names-ending-in-s,p]::1;
+<otorga|[https://us.marca.com/actualidad/2022/05/12/627c720922601da03c8b45c2.html,p]::1;
+<otorgado|[https://www.marca.com/futbol/premier-league/west-ham-utd-m-city-directo/2022/05/15/01_0106_20220515_21_43.html,p]::1;

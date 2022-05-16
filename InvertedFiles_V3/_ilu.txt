@@ -1,4 +1,6 @@
+<ilusión|[https://www.marca.com/futbol/liga-francesa/2022/05/15/6280d25f46163f24128b459b.html,p]::1;[https://www.marca.com/futbol/laliga-santander/cadiz-r-madrid-directo/2022/05/15/01_0101_20220515_1737_186.html,p]::1;
+<ilusion|[https://www.dailymail.co.uk/femail/index.html,h]::1;
+<iluminó|[https://us.marca.com/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;
 <ilustracija|[http://toni.podmanicki.com,p]::2;
-<ilusión|[https://www.marca.com/tiramillas/television/2022/05/09/6278df5e22601dae538b45cf.html,p]::1;[https://www.marca.com/futbol/argentina.html?intcmp=MENUPROD&s_kw=futbol-argentina,h]::1;[https://www.marca.com/natacion.html?intcmp=MENUPROD&s_kw=natacion,h]::1;
-<ilusionando|[https://www.marca.com/futbol/mexico.html?intcmp=MENUPROD&s_kw=futbol-mexico,h]::1;
-<ilustrações|[https://icons8.com.br/mega-creator,h]::2;
+<ilusiona|[https://www.marca.com/radio.html?intcmp=BOTONPORTADA01&s_kw=radiomarca,h]::1;
+<ilusionante|[https://www.marca.com/futbol/primera-division/2022/05/15/6280979246163f52328b45b9.html,p]::1;

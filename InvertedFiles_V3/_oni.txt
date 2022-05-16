@@ -1,5 +1,1 @@
-<onif|[https://www.cisco.com/c/en/us/support/docs/security/web-security-appliance/117925-technote-csc-00.html,p]::1;[https://sh.wikipedia.org/wiki/Cookie,p]::1;
-<onions|[https://www.everydayhealth.com/cancer-photos/top-foods-to-fight-cancer.aspx,s]::1;[https://www.theregister.com/2021/02/24/dns_cname_tracking,h]::1;[https://www.bbc.co.uk/food,h]::3;[https://www.foxnews.com/food-drink,p]::1;[https://www.english-4kids.com/grammarsheets.html,s]::1;[https://www.chicagotribune.com/dining/reviews/ct-food-review-3-little-pigs-chinese-american-humboldt-park-20220509-v2eo2hetpzg2dc5i5zlf5pw24u-story.html#nt=related-content&rt=chartbeat-flt,p]::1;[https://eslkidslab.com/flashcards/index.html,s]::5;
-<onim|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
-<oninitiatives|[https://www.hearst.co.uk/solutions/purpose,p]::1;
-<onimdb|[https://help.imdb.com/article/imdb/discover-watch/how-can-i-watch-imdb-original-videos/GKAE9FDUK3CKKK9L?ref_=helpsect_pro_3_2,p]::1;
+<onions|[https://www.bbc.co.uk/food,h]::2;

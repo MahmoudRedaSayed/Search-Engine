@@ -1,3 +1,1 @@
-<olgunlaşma|[https://www.ugureskici.com/notlarim-makalelerim/projelerimizi-nasil-yonetsek,s]::2;[https://www.ugureskici.com/notlarim-makalelerim/projelerimizi-nasil-yonetsek,p]::3;
-<olgunlaştıkça|[https://www.ugureskici.com/notlarim-makalelerim/projelerimizi-nasil-yonetsek,p]::1;
-<olga|[https://kids.kiddle.co/History_of_Australia,p]::1;[https://www.nytimes.com/2022/05/09/opinion/sway-kara-swisher-clarissa-ward.html,p]::1;[https://www.nytimes.com/2022/05/08/opinion/dementia-elder-care.html,p]::1;
+<olgun|[https://www.dailymail.co.uk/ushome/index.html,p]::1;

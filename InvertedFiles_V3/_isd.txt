@@ -1,2 +1,0 @@
-<isdriving|[https://www.everydayhealth.com/yoga,p]::1;[https://www.foxnews.com/category/us/education,p]::3;
-<isdhs|[https://hub.mph.in.gov/dataset?q=COVID,p]::5;

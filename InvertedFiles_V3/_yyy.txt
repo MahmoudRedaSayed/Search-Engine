@@ -1,1 +1,2 @@
-<yyyy|[https://en.wikipedia.org/wiki/HTTP_cookie,p]::1;
+<yyyymmddthhmmss|[https://support.google.com/chrome/a/answer/9681204,s]::1;
+<yyyymmdd|[https://bbc.github.io/subtitle-guidelines,p]::7;

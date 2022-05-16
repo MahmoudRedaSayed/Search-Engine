@@ -1,1 +1,3 @@
-<gbryceyukonon|[https://www.dailywritingtips.com/20-rules-about-subject-verb-agreement,s]::1;
+<gbrmpa|[https://www.iflscience.com/environment/coral-bleaching-currently-affecting-91-percent-of-the-great-barrier-reef,p]::2;
+<gbrmpas|[https://www.iflscience.com/environment/coral-bleaching-currently-affecting-91-percent-of-the-great-barrier-reef,p]::1;
+<gbr|[https://bbc.github.io/subtitle-guidelines,p]::3;

@@ -1,2 +1,0 @@
-<nydia|[https://www.nytimes.com/2022/05/09/nyregion/aoc-eric-adams.html,p]::1;
-<nydailynewscom|[https://www.nydailynews.com,p]::1;

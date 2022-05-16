@@ -1,1 +1,0 @@
-<knn|[https://www.geeksforgeeks.org/data-science-tutorial/?ref=ghm,s]::1;[https://www.geeksforgeeks.org/data-science-tutorial/?ref=ghm,p]::1;[https://www.geeksforgeeks.org/machine-learning/?ref=ghm,p]::1;

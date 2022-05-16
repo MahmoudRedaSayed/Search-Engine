@@ -1,5 +1,2 @@
-<rautonen|[https://nautil.us/topics/evolution,p]::1;
-<raus|[https://swiss-casino-now.com/casino-software/netent,p]::1;
-<rausholen|[https://casino-now.at/casino-software/netent,p]::1;
-<raukokore|[https://www.imdb.com/search/name/?match_all=true&ref_=nv_cel_m,p]::1;
-<raunchy|[https://www.nytimes.com/2022/05/06/arts/music/bad-bunny-un-verano-sin-ti.html,p]::1;
+<raucous|[https://www.dailymail.co.uk/ushome/index.html,p]::1;[https://www.dailymail.co.uk/sport/index.html,s]::1;[https://www.dailymail.co.uk/auhome/index.html,p]::1;
+<rautatieyhteys|[https://fi.wiktionary.org/wiki/yhteys,p]::1;

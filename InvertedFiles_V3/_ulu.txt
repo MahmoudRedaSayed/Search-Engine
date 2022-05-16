@@ -1,5 +1,0 @@
-<uluslararası|[https://www.ugureskici.com/notlarim-makalelerim/cografi-hedef-yapilandirmasi,s]::2;[https://www.ugureskici.com/notlarim-makalelerim/cografi-hedef-yapilandirmasi,p]::2;
-<ulusal|[https://www.ugureskici.com/page/2,p]::1;[https://www.ugureskici.com/internet-dunyasi,p]::2;
-<ulubionych|[https://kasyno-now.com,p]::1;
-<ulubionej|[https://kasyno-now.com,p]::2;[https://kasyno-now.com/recenzja/woo,p]::1;
-<uluru|[https://kids.nationalgeographic.com/geography/countries/article/australia,p]::1;[https://kids.kiddle.co/History_of_Australia,p]::3;

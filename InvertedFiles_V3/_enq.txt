@@ -1,5 +1,2 @@
-<enquiry|[https://www.hearst.co.uk/contact-us,s]::1;[https://www.hearst.co.uk/contact-us,p]::1;[https://www.hearstmagazines.co.uk/contact-us,p]::1;[https://discountcode.dailymail.co.uk/debenhams,p]::1;
-<enquiries|[https://www.hearst.co.uk/contact-us,s]::1;[https://www.ipso.co.uk/editors-code-of-practice,p]::4;[https://www.apple.com/legal/privacy,p]::1;[https://www.dailymail.co.uk/money/buytolet/index.html,h]::1;[https://www.dailymail.co.uk/home/contactus/index.html,h]::1;[https://www.sky.com/help/articles/sky-privacy-and-cookies-notice,p]::1;[https://kids.kiddle.co/History_of_Australia,p]::1;[https://www.factset.com/privacy,p]::2;
-<enquiring|[https://www.hearstmagazines.co.uk/faq,p]::1;
-<enquiriesabilitynetorguk|[https://mcmw.abilitynet.org.uk,p]::1;
-<enquiriescontact|[https://www.canada.ca/en/services/culture/canadian-identity-society/creation-canada.html,p]::1;
+<enquiry|[https://discountcode.dailymail.co.uk/debenhams,p]::1;
+<enquiries|[https://www.sky.com/help/articles/sky-privacy-and-cookies-notice,p]::1;

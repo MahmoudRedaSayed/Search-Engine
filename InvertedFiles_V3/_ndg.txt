@@ -1,3 +1,1 @@
-<ndgeneration|[https://www.apple.com/ipad,p]::3;[https://www.apple.com/us/shop/goto/buy_accessories,h]::1;[https://www.apple.com/lae/ipad,p]::3;
-<ndgrade|[https://eslkidslab.com/phonics/index.html,s]::1;
-<ndgradeages|[https://eslkidslab.com/phonics/index.html,p]::1;
+<ndgeneration|[https://www.apple.com/lae/ipad,p]::3;

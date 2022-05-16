@@ -1,5 +1,5 @@
-<ivan|[https://www.tutorialspoint.com/categories/office_productivity,p]::1;[https://www.hearst.it,p]::1;[https://inikulin.github.io/cookie-compat/#MOZILLA0001,p]::1;[https://web.archive.org/web/20161002124029/http:/inikulin.github.io/cookie-compat/#MOZILLA0001,p]::1;[https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm,s]::1;[http://fdrlibrary.tumblr.com,p]::1;[https://www.nytimes.com/es,p]::1;[https://www.nytimes.com/live/2022/05/09/world/ukraine-russia-war-news,p]::8;[https://opencollective.com/icons8,p]::1;
-<ivareta|[https://no.wikipedia.org/wiki/Informasjonskapsel,p]::1;
-<ivana|[http://www.enable-javascript.com,p]::1;[http://www.enable-javascript.com/hr,p]::1;[https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm,s]::3;
-<ivaimpuestos|[https://www.digikey.com.mx/MyDigiKey/Registration?ReturnUrl=https%253A%252F%252Fforum.digikey.com/c/spanish/40,p]::2;
-<ivanofrankivsk|[https://www.foxnews.com/category/tech/topics/military-tech,p]::1;
+<ivan|[https://www.dailymail.co.uk/sport/index.html,h]::1;[https://www.dailymail.co.uk/sport/index.html,p]::1;[https://en.wikipedia.org/wiki/Object-oriented_programming,p]::1;
+<ivana|[http://www.enable-javascript.com,p]::1;[http://www.enable-javascript.com/hr,p]::1;[https://www.marca.com/futbol/2022/05/13/627ddbd8749dee001f58f661-directo.html,h]::1;[https://www.marca.com/futbol/2022/05/13/627ddbd8749dee001f58f661-directo.html,p]::3;
+<iva|[https://www.marca.com/coches-y-motos.html?intcmp=MENUPROD&s_kw=marca-coches,h]::1;
+<ivanova|[https://www.dailymail.co.uk/money/index.html,p]::1;
+<ivans|[https://www.sensesofcinema.com/special-dossiers,h]::1;

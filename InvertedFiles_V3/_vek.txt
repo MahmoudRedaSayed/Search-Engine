@@ -1,2 +1,0 @@
-<vekselberg|[https://www.nytimes.com/live/2022/05/09/world/ukraine-russia-war-news,p]::1;
-<vektoricons|[https://icons8.de/icons,t]::1;[https://icons8.de/icons/ios,p]::1;[https://icons8.de/icons/material,p]::1;

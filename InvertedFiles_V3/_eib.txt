@@ -1,1 +1,1 @@
-<eibar|[https://www.marca.com/futbol/segunda/equipos.html?intcmp=MENUPROD&s_kw=equipos,h]::1;
+<eibar|[https://www.marca.com,h]::1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]::1;[https://www.marca.com/ultimas-noticias.html?intcmp=MENUDEST&s_kw=ultimas-noticias,h]::1;[https://www.marca.com?intcmp=MENUMIGA&s_kw=home,h]::1;

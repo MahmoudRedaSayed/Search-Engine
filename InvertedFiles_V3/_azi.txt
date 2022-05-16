@@ -1,4 +1,1 @@
-<aziende|[https://it.swiss-casino-now.com/recensioni,p]::3;[https://casino-now.it/recensioni,p]::1;[https://casino-now.it/recensioni/woo,p]::1;[https://www.nytimes.com/interactive/2021/us/covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/us/missouri-covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/world/covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/us/utah-covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/us/maine-covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/us/hawaii-covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/us/covid-cases-deaths-tracker.html,p]::1;
-<aziendale|[https://www.ebay.com/globaldeals/tech/laptops-netbooks,h]::3;
-<aziendali|[https://icons8.it/animated-icons,h]::1;
-<azioni|[https://icons8.it/icons/material,p]::1;
+<azio|[https://www.iflscience.com/editors-blog,p]::1;

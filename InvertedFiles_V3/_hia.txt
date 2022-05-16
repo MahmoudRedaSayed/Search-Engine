@@ -1,1 +1,1 @@
-<hiatus|[https://www.myenglishclub.com/blogs/esl-blog-to-learn-in-a-fun-practical-way,p]::2;
+<hiatus|[https://www.dailymail.co.uk,p]::1;[https://www.dailymail.co.uk/femail/index.html,h]::1;

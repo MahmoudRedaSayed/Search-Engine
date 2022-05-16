@@ -1,2 +1,1 @@
-<iframe|[https://en.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://web.archive.org/web/20170316175133/https:/staff.washington.edu/fmf/2009/06/19/setting-cookies,p]::1;[https://www.netsparker.com/blog/web-security/same-site-cookie-attribute-prevent-cross-site-request-forgery,p]::1;[https://docs.google.com/document/d/1K-mKOqiUiSjgZTEscBLjtjd6E67oiK8H2ztOiq5tigk/pub,p]::1;
-<iframes|[https://venturebeat.com/2020/05/19/google-chrome-83,p]::1;
+<iframe|[https://www.allianz.com,h]::2;[https://www.allianz.com,p]::4;

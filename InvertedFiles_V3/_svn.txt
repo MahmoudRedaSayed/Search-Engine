@@ -1,1 +1,1 @@
-<svn|[https://www.tutorialspoint.com/latest_technologies.htm,p]::1;[http://wordpress.org/plugins/broken-link-checker,p]::1;
+<svn|[http://wordpress.org/plugins/broken-link-checker,p]::1;

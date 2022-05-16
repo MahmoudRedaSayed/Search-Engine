@@ -1,3 +1,1 @@
-<aha|[https://www.everydayhealth.com/type-2-diabetes/guide,s]::1;[https://www.everydayhealth.com/type-2-diabetes/guide,p]::2;[https://www.everydayhealth.com/menopause/health-risks-women-face-after-menopause,p]::5;[https://www.everydayhealth.com/breast-cancer/empowering-breast-and-gynecological-podcasts-hosted-by-survivors,p]::1;[https://www.dailymail.co.uk/news/perth/index.html,h]::1;
-<ahal|[https://eu.wikipedia.org/wiki/Cookie,p]::1;
-<ahaytta|[https://www.ugureskici.com/page/8,p]::1;
+<aha|[https://www.everydayhealth.com/type-2-diabetes/guide,s]::1;[https://www.everydayhealth.com/type-2-diabetes/guide,p]::2;

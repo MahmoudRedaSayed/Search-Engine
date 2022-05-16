@@ -1,1 +1,1 @@
-<sns|[https://www.whitehouse.gov/covidplan,p]::1;[https://www.tribpub.com/privacy-policy,p]::7;
+<snssciencenewsorg|[https://www.sciencenewsforstudents.org/about-us,p]::1;

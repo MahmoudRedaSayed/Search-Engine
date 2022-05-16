@@ -1,2 +1,1 @@
 <crna|[https://www.medicalnewstoday.com,p]::1;
-<crnas|[https://www.everydayhealthgroup.com,p]::1;

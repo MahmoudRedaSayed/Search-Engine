@@ -1,1 +1,3 @@
-<cdroms|[https://archive.org/details/software,p]::6;[https://archive.org/about/bios.php,p]::1;[https://www.tutorialspoint.com/computer_glossary.htm,h]::1;[https://www.tutorialspoint.com/computer_glossary.htm,p]::5;[https://www.iabeurope.eu,h]::1;[https://www.iabeurope.eu,p]::1;[http://www.chinese-ilab.com/lessons.html,p]::1;[http://www.chinese-ilab.com,p]::1;[https://www.chinese-ilab.com/audio/index.html,p]::1;[https://www.chinese-ilab.com/games/index.html,p]::1;[https://www.chinese-ilab.com/videos/index.html,p]::1;
+<cdroms|[https://archive.org/details/software,p]::3;[https://archive.org/about/bios.php,p]::1;
+<cdrom|[https://archive.org/details/software,p]::2;
+<cdr|[https://archive.org/details/software,p]::1;

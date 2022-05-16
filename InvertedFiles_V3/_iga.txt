@@ -1,7 +1,1 @@
-<igazolásokat|[https://disneytermsofuse.com/hungarian,p]::1;[https://casino-now.co.uk/casino-software/netent,p]::1;
-<igazságos|[https://disneytermsofuse.com/hungarian,p]::1;
-<igazságosnak|[https://disneytermsofuse.com/hungarian,p]::1;
-<igazolását|[https://disneytermsofuse.com/hungarian,p]::1;
-<igazolható|[https://disneytermsofuse.com/hungarian,p]::1;
-<igaming|[https://kasyno-now.com,p]::2;[https://www.mga.org.mt/about-us,p]::1;[https://en.swiss-casino-now.com/reviews,p]::3;[https://casino-now-canada.com/reviews/playamo-casino,p]::2;[https://casino-now-canada.com/reviews/cookie-casino,p]::2;[https://en.swiss-casino-now.com/reviews/cookie-casino,s]::1;[https://en.swiss-casino-now.com/reviews/cookie-casino,p]::5;[https://casino-now-canada.com/reviews/woo-casino,p]::1;[https://en.swiss-casino-now.com/reviews/woo-casino,s]::1;[https://en.swiss-casino-now.com/reviews/woo-casino,p]::7;[https://casino-now-canada.com/reviews/casino-cruise,s]::1;[https://casino-now-canada.com/reviews/casino-cruise,p]::4;[https://casino-now-canada.com/reviews/spin-casino,p]::2;[https://www.responsiblegambling.org,h]::1;[https://www.responsiblegambling.org,p]::2;[https://casino-now.co.uk/casino-software/netent,p]::3;
-<igamingfeel|[https://en.swiss-casino-now.com/reviews/cookie-casino,p]::1;
+<iga|[https://us.marca.com/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;

@@ -1,2 +1,0 @@
-<myuniquename|[https://codelabs.developers.google.com/codelabs/appactions,p]::1;
-<myuran|[https://www.dailymail.co.uk/news/arts/index.html,h]::1;

@@ -1,2 +1,0 @@
-<fuzzies|[https://nautil.us/topics/arts,h]::1;[https://www.sciencenewsforstudents.org/author/alison-pearce-stevens,h]::1;
-<fuzzy|[https://www.infoplease.com/history/world,p]::1;[https://www.ebay.com/globaldeals/fashion/womens-clothing,h]::1;[http://www.download-esl.com/tonguetwisters/easy/easytongue.html,p]::5;[https://www.geeksforgeeks.org/ugc-net-cs-notes-according-to-syllabus-of-paper-iii-core-group/?ref=ghm,p]::1;

@@ -1,1 +1,1 @@
-<ppd|[https://www.everydayhealth.com/depression/guide,s]::1;[https://es.familydoctor.org/prevencion-y-bienestar/bienestar-emocional/salud-mental,h]::1;
+<ppd|[https://www.everydayhealth.com/depression/guide,s]::1;

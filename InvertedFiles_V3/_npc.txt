@@ -1,2 +1,0 @@
-<npcs|[https://casino-now-canada.com/live-casino,p]::1;
-<npcompleteness|[https://www.geeksforgeeks.org/pseudo-polynomial-in-algorithms/?ref=ghm,s]::1;[https://www.geeksforgeeks.org/pseudo-polynomial-in-algorithms/?ref=ghm,p]::3;

@@ -1,2 +1,0 @@
-<tiyatro|[https://www.aphrodisias.org,h]::2;
-<tiyatroyu|[https://www.aphrodisias.org,p]::1;

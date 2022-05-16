@@ -1,8 +1,0 @@
-<ktoré|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::22;[https://kasyno-now.com,p]::1;
-<ktorý|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::9;
-<ktorá|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::5;
-<ktorú|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<ktorým|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<ktorej|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<ktorí|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::2;
-<ktorého|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

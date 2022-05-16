@@ -1,3 +1,2 @@
-<voss|[https://www.dailymail.co.uk/news/adelaide/index.html,h]::1;[https://disneytermsofuse.com/french,p]::3;[https://fr.casino-now-canada.com,h]::1;[https://fr.swiss-casino-now.com,h]::1;[https://fr.casino-now-canada.com/spincasino,s]::1;[https://fr.casino-now-canada.com/bonus-de-casino,h]::1;[https://icones8.fr/icons,s]::1;[https://icones8.fr/animated-icons,p]::1;[https://icones8.fr/icons/ios,p]::1;[https://icones8.fr/icons/material,p]::1;
-<vosoritide|[https://www.bbc.co.uk/sport/swimming/60934176,h]::1;[https://www.bbc.co.uk/sport/swimming/60934176,p]::2;
-<vostro|[https://it.swiss-casino-now.com/recensioni,p]::1;
+<vosotros|[https://www.marca.com/futbol/laliga-santander/atletico-sevilla-directo/2022/05/15/01_0101_20220515_175_179.html,p]::1;
+<vos|[https://olympics.com/fr,p]::1;[https://www.marca.com/futbol/2022/05/13/627ddbd8749dee001f58f661-directo.html,p]::1;

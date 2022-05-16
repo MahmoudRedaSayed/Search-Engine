@@ -1,3 +1,2 @@
-<kikkan|[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,h]::2;[https://www.everydayhealth.com/breast-cancer/living-with/beauty-during-breast-cancer-treatment,h]::1;[https://www.everydayhealth.com/breast-cancer/living-with/on-chemo-brain-dropped-words,h]::2;[https://www.everydayhealth.com/cancer/8-ways-fight-fatigue-chemotherapy-treatment,h]::1;[https://www.everydayhealth.com/breast-cancer/empowering-breast-and-gynecological-podcasts-hosted-by-survivors,h]::1;
-<kiki|[https://www.dailymail.co.uk/news/sydney/index.html,h]::1;
-<kiko|[https://www.nytimes.com/2022/05/06/arts/music/bad-bunny-un-verano-sin-ti.html,p]::1;
+<kike|[https://www.marca.com/futbol/laliga-santander/athletic-osasuna-directo/2022/05/15/01_0101_20220515_174_450.html,s]::3;[https://www.marca.com/futbol/laliga-santander/athletic-osasuna-directo/2022/05/15/01_0101_20220515_174_450.html,p]::4;
+<kiko|[https://www.marca.com/tiramillas/television/2022/05/14/6280017946163f6d998b45ed.html,s]::1;[https://www.marca.com/tiramillas/television/2022/05/14/6280017946163f6d998b45ed.html,p]::1;[https://www.marca.com/tiramillas.html,h]::1;

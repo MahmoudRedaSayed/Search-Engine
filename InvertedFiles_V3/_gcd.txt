@@ -1,1 +1,0 @@
-<gcd|[https://www.geeksforgeeks.org/mathematical-algorithms/?ref=ghm,s]::1;[https://www.geeksforgeeks.org/mathematical-algorithms/?ref=ghm,p]::1;[https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/?ref=ghm,s]::1;

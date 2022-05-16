@@ -1,2 +1,0 @@
-<pwc|[https://www.iab.com,p]::2;[https://www.hearst.com/ventures,p]::1;
-<pwcindia|[https://www.geeksforgeeks.org/internship-interview-experiences-company-wise/?ref=ghm,s]::1;[https://www.geeksforgeeks.org/internship-interview-experiences-company-wise/?ref=ghm,p]::1;

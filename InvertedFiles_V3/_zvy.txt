@@ -1,4 +1,0 @@
-<zvyčajne|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::4;
-<zvyku|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<zvyšuje|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<zvyšovanie|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

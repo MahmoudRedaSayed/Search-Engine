@@ -1,2 +1,0 @@
-<pfa|[https://www.bbc.co.uk/sport,p]::1;
-<pfadi|[https://www.marca.com/balonmano.html?intcmp=MENUPROD&s_kw=balonmano,h]::1;

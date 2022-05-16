@@ -1,4 +1,1 @@
-<vim|[https://apps.apple.com/us/app/bezzy-ra/id1498862311,p]::1;
-<vims|[https://github.com/sponsors/hail2u,p]::1;
-<vimeo|[https://www.bbc.co.uk/editorialguidelines/guidance/feeds-and-links,p]::1;[https://www.tbrandstudio.com,p]::1;[http://www.eslgamesplus.com,p]::1;[http://www.kizphonics.com,p]::1;[http://www.kizphonics.com/materials,p]::1;[https://www.fredisalearns.com,p]::1;[https://www.eslgamesplus.com,p]::1;[https://www.kizphonics.com/materials,p]::1;
-<vimos|[https://www.marca.com/baloncesto.html?intcmp=MENUPROD&s_kw=baloncesto,h]::1;
+<vimos|[https://www.marca.com/futbol/laliga-santander/cadiz-r-madrid-directo/2022/05/15/01_0101_20220515_1737_186.html,p]::1;

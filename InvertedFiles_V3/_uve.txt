@@ -1,6 +1,0 @@
-<uverejnil|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<uvelike|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
-<uvedená|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<uvedené|[https://disneytermsofuse.com/czech,p]::2;
-<uvedenými|[https://disneytermsofuse.com/czech,p]::2;
-<uveal|[https://www.foxnews.com/category/health/cancer,p]::1;

@@ -1,3 +1,1 @@
-<hoja|[https://espanol.cdc.gov/coronavirus/2019-ncov/travelers/proof-of-vaccination.html,p]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/vaccines/expect/after.html,p]::1;
-<hojas|[https://espanol.cdc.gov/coronavirus/2019-ncov/community/workplaces-businesses/index.html,p]::1;[https://iconos8.es/icons,s]::1;
-<hoje|[http://pt.talkenglish.com,p]::1;
+<hoja|[https://www.marca.com/futbol/liga-francesa/2022/05/15/6280d25f46163f24128b459b.html,p]::1;

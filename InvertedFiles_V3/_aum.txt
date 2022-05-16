@@ -1,4 +1,4 @@
-<aumenta|[https://www.marca.com,h]::1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]::1;[https://www.marca.com?intcmp=MENUMIGA&s_kw=home,h]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/your-health/quarantine-isolation.html,p]::1;
-<aumentar|[https://es.familydoctor.org/salud-de-la-familia/hombres,p]::1;[https://www.nytimes.com/es,p]::1;
-<aumento|[https://es.familydoctor.org/condicion/hipertiroidismo,p]::1;[https://www.nytimes.com/es,p]::1;
-<aumentando|[https://www.cdc.gov/spanish,p]::1;
+<aumente|[https://us.marca.com/actualidad/2022/05/12/627c720922601da03c8b45c2.html,p]::1;
+<aumenta|[https://us.marca.com/actualidad/2022/05/12/627c720922601da03c8b45c2.html,p]::2;
+<aumentar|[https://www.marca.com/futbol/primera-division/2022/05/15/6280d88e37ff7b0023a23044-directo.html,p]::1;
+<aumont|[https://www.sensesofcinema.com/special-dossiers,h]::1;

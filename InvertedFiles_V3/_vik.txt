@@ -1,10 +1,2 @@
-<vikipediya|[https://az.wikipedia.org/wiki/HTTP_Kuki,t]::1;
-<vikipedio|[https://eo.wikipedia.org/wiki/Kuketo,t]::1;
-<vikipedija|[https://lt.wikipedia.org/wiki/Slapukas,t]::1;
-<vikings|[https://www.dailymail.co.uk/dailymailtv/video/index.html,s]::1;[https://www.dailymail.co.uk/dailymailtv/advertise/index.html,s]::1;[https://www.sciencenewsforstudents.org/topic/archaeology,h]::1;[https://www.sciencenewsforstudents.org/topic/archaeology,p]::1;[https://www.sciencenewsforstudents.org/topic/plants,h]::1;[https://www.sciencenewsforstudents.org/topic/plants,p]::1;[https://en.swiss-casino-now.com/reviews/playamo,s]::1;[https://en.swiss-casino-now.com/reviews/playamo,p]::2;[https://casino-now-canada.com/casino-bonus,p]::1;[https://casino-now-canada.com/online-slots,p]::2;[https://www.britannica.com/topic/history-of-Ireland,s]::1;[https://www.canadianmysteries.ca/en/index.php,p]::1;[https://onlinecasino-now.nl/casino-software/netent,s]::1;[https://www.foxnews.com/travel,p]::1;[https://www.mcall.com,p]::3;
-<vikingos|[https://www.marca.com/futbol/atletico/2022/05/09/62784038268e3ea9268b45c8.html,s]::1;[https://www.marca.com/futbol/atletico/2022/05/09/62784038268e3ea9268b45c8.html,p]::1;
-<viktor|[https://www.marca.com/tiramillas/actualidad/2022/05/09/6278ff3c749dee001f4ac534-directo.html,p]::1;[https://www.nytimes.com/live/2022/05/09/world/ukraine-russia-war-news,p]::2;[https://www.myenglishclub.com/members/daragino,p]::1;
-<viktigste|[https://norskcasino-now.com,s]::3;
-<viktualienmarkt|[https://tealium.com/preferences,p]::1;
-<vikky|[https://www.ebay.com/globaldeals/fashion/womens-shoes-accessories,h]::1;
-<vikramaditya|[https://www.geeksforgeeks.org/geek-of-the-month/?ref=ghm,p]::1;
+<vikings|[https://www.dailymail.co.uk/travel/index.html,p]::1;[https://www.sciencenewsforstudents.org/topic/archaeology,h]::1;[https://www.sciencenewsforstudents.org/topic/plants,h]::1;
+<viking|[https://www.dailymail.co.uk/travel/index.html,p]::1;[https://www.sciencenewsforstudents.org/topic/archaeology,p]::1;[https://www.sciencenewsforstudents.org/topic/plants,p]::1;

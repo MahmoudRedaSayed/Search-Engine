@@ -1,6 +1,5 @@
-<yale|[https://archive.org/about/bios.php,p]::3;[http://www.archive-it.org,p]::1;[https://wayback.archive-it.org/all/20180819022850/https:/papers.ssrn.com/sol3/papers.cfm?abstract_id=597543,p]::1;[https://www.everydayhealth.com/cancer/cancer-news-digest-latest-developments-in-cancer-research-and-treatment-for-june,p]::1;[https://www.apple.com/tv-home,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/projelerimizi-nasil-yonetsek,p]::1;[https://nautil.us/about-us,p]::1;[https://jobs.mayoclinic.org/afp,p]::1;[https://www.hearst.com/ventures,p]::1;[https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-care/post-covid-science.html,p]::1;[https://www.foxbusiness.com/personal-finance,p]::5;[http://projects.voanews.com/making-the-constitution,p]::1;[http://philadelphiaencyclopedia.org/archive/philadelphia-and-its-people-in-maps-the-1790s,p]::1;
-<yalesville|[http://www.archive-it.org,p]::1;
-<yall|[https://www.healthline.com/health/healthy-sex/sexual-guilt-purity-culture,p]::1;[http://bleacherreport.com/nba,p]::1;
+<yale|[https://www.dailymail.co.uk/ushome/index.html,h]::1;[https://www.dailymail.co.uk/ushome/index.html,p]::2;[https://blog.archive.org,p]::1;[https://archive.org/about/bios.php,p]::3;[http://www.archive-it.org,p]::1;
+<yall|[https://en.wikipedia.org/wiki/American_English,p]::1;
 <yalda|[https://www.bbc.co.uk/schedules/p00fzl9m,p]::4;
-<yalnızca|[https://www.ugureskici.com/notlarim-makalelerim/google-alisveris-reklamlari-icin-gtin-zorunlulugu,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/digitalzone-2017-kimler-geldi-kimler-gecti-ne-ogrendik,p]::1;
-<yalaka|[https://www.ugureskici.com/notlarim-makalelerim/murphy-kanunlari,p]::1;
+<yala|[https://www.sensesofcinema.com/special-dossiers,h]::1;
+<yalesville|[http://www.archive-it.org,p]::1;

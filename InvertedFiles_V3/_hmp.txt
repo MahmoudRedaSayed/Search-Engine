@@ -1,3 +1,0 @@
-<hmpa|[https://postdoc.hms.harvard.edu,h]::1;[https://postdoc.hms.harvard.edu,p]::2;[https://postdoc.hms.harvard.edu/orientation,p]::1;[https://hmpa.hms.harvard.edu,h]::1;[https://hmpa.hms.harvard.edu,p]::3;
-<hmpas|[https://postdoc.hms.harvard.edu/getting-started,p]::1;
-<hmpatwitter|[https://hmpa.hms.harvard.edu,h]::1;

@@ -1,7 +1,0 @@
-<avropa|[https://az.wikipedia.org/wiki/HTTP_Kuki,p]::3;
-<avril|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::1;[https://www.canada.ca/fr/sante-publique/services/maladies/maladie-coronavirus-covid-19.html,p]::1;
-<avrupanın|[https://www.ugureskici.com,p]::1;[https://www.ugureskici.com/notlarim-makalelerim,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/digitalzone-2017-kimler-geldi-kimler-gecti-ne-ogrendik,p]::1;
-<avrai|[https://it.swiss-casino-now.com/recensioni,p]::1;[https://casino-now.it/recensioni,p]::1;
-<avranno|[https://casino-now.it/recensioni,s]::1;[https://casino-now.it/recensioni,p]::1;
-<avrà|[https://casino-now.it/recensioni/woo,p]::1;
-<avrie|[https://www.foxnews.com/food-drink,p]::1;

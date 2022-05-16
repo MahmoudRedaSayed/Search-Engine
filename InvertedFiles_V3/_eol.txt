@@ -1,1 +1,3 @@
-<eol|[http://www.adobe.com/support/documentation/en/flashplayer/help/settings_manager07.html,h]::1;[http://www.adobe.com/support/documentation/en/flashplayer/help/settings_manager07.html,p]::8;[http://www.adobe.com/go/getflashplayer,h]::1;[http://www.adobe.com/go/getflashplayer,p]::8;
+<eolokometa|[https://www.marca.com/ciclismo/giro-italia/2022/05/15/6280d6cd37ff7b0023a22828-directo.html,p]::2;
+<eolo|[https://www.marca.com/ciclismo/giro-italia/2022/05/15/6280d6cd37ff7b0023a22828-directo.html,p]::1;
+<eol|[https://bbc.github.io/subtitle-guidelines,p]::1;

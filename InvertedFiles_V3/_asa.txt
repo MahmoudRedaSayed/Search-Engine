@@ -1,14 +1,2 @@
-<asap|[https://greatist.com,p]::1;[https://www.everydayhealth.com/ovarian-cancer/guide/symptoms,p]::1;[https://apps.apple.com/us/app/chemowave-cancer-health-diary/id1199851760,p]::1;[https://edaa.eu/news-and-resources/multimedia,p]::2;[https://www.youronlinechoices.com/uk/make-a-complaint,p]::1;[https://www.foxnews.com/us/alabama-law-criminalizing-gender-transition-surgery-drugs-for-minors-takes-effect,p]::1;[http://www.lindamonk.com,p]::1;
-<asavailable|[https://archive.org/about/terms.php,p]::1;
-<asani|[https://www.bbc.co.uk/weather,h]::1;
-<asal|[http://www.beinsports.com/id,h]::2;[https://disneytermsofuse.com/bahasa-malaysia,p]::1;
-<asana|[https://lifetickler.com/how-reaching-rock-bottom-helped-me-take-control,p]::1;
-<asalto|[https://www.marca.com/coches-y-motos.html?intcmp=MENUPROD&s_kw=marca-coches,h]::1;[https://www.marca.com/boxeo.html?intcmp=MENUPROD&s_kw=boxeo,h]::1;[https://www.marca.com/deportes-aventura.html?intcmp=MENUPROD&s_kw=deportes-aventura,h]::2;[https://www.marca.com/natacion.html?intcmp=MENUPROD&s_kw=natacion,h]::1;[https://www.marca.com/triatlon.html?intcmp=MENUPROD&s_kw=triatlon?intcmp=MENUPROD&s_kw=triatlon,h]::1;
-<asas|[https://disneytermsofuse.com/bahasa-malaysia,p]::1;[http://www.esltower.com/grammar.html,s]::1;[http://www.esltower.com/teachers.html,s]::1;
-<asanda|[https://disneytermsofuse.com/bahasa-malaysia,p]::1;
-<asaltos|[https://www.marca.com/mma.html?intcmp=MENUPROD&s_kw=mma,h]::1;
-<asad|[https://www.hearst.com/magazines,p]::4;
-<asahi|[https://www.thecanadianencyclopedia.ca/en,h]::1;[https://www.thecanadianencyclopedia.ca/en,p]::2;
 <asamazing|[https://www.apple.com/lae/iphone,p]::1;
-<asare|[https://www.nytimes.com/2022/05/09/theater/tony-awards-nominees.html,p]::1;
-<asaduzzaman|[https://www.myenglishclub.com/members/daragino,p]::1;
+<asalto|[https://www.marca.com/coches-y-motos.html?intcmp=MENUPROD&s_kw=marca-coches,h]::1;

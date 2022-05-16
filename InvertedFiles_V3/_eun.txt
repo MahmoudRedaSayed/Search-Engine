@@ -1,2 +1,2 @@
-<eunice|[https://www.bbc.com/,h]::1;[https://www.dailymail.co.uk/sciencetech/apple/index.html,h]::1;
-<eunhae|[https://www.youtube.com/about/press,h]::1;[https://www.youtube.com/about/press,p]::1;
+<eunice|[https://www.bbc.com/,h]::1;
+<eunectes|[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;

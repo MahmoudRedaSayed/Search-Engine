@@ -1,1 +1,0 @@
-<mkdir|[https://github.com/Open-Book-Genome-Project/sequencer#docker-usage,p]::1;

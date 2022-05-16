@@ -1,3 +1,1 @@
-<atweet|[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;
-<atwood|[https://www.dailymail.co.uk/dailymailtv/video/index.html,s]::1;[https://www.dailymail.co.uk/dailymailtv/advertise/index.html,s]::1;
-<atwwwfoxcorporationcom|[https://www.foxnews.com/privacy-policy,p]::1;
+<atwindsor|[https://www.dailymail.co.uk,p]::1;[https://www.dailymail.co.uk/news/index.html,p]::1;[https://www.dailymail.co.uk/auhome/index.html,p]::1;

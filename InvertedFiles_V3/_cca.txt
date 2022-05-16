@@ -1,1 +1,1 @@
-<ccavenue|[https://www.tutorialspoint.com/market/teach_with_us.jsp,p]::1;[http://www.archive-it.org,p]::1;
+<cca|[http://www.archive-it.org,p]::1;

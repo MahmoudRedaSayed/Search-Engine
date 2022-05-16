@@ -1,4 +1,1 @@
 <clyfford|[http://www.archive-it.org,p]::6;
-<clydes|[https://www.dailymail.co.uk/home/search.html,h]::1;[https://www.dailymail.co.uk/privacy#ccpaExplicitNotice,s]::1;[https://www.dailymail.co.uk/terms,s]::1;[https://www.dailymail.co.uk/home/article-3633654/CONTRIBUTIONS-STANDARD-TERMS-CONDITIONS.html,s]::1;[https://www.dailymail.co.uk/additionalcookieinfo,s]::1;[https://www.dailymail.co.uk/syndication,s]::1;[https://reagan.blogs.archives.gov,h]::1;[https://reagan.blogs.archives.gov,p]::3;[https://www.nytimes.com/live/2022/05/09/theater/tony-awards,h]::1;[https://www.nytimes.com/live/2022/05/09/theater/tony-awards,p]::5;[https://meded.hms.harvard.edu/teaching-awards,p]::1;[https://www.nytimes.com/2022/05/09/theater/tony-awards-nominees.html,p]::5;
-<clyburn|[https://www.nytimes.com/live/2022/05/09/us/midterms-primary-elections-nebraska,p]::2;
-<clyburns|[https://www.nytimes.com/live/2022/05/09/us/midterms-primary-elections-nebraska,p]::1;

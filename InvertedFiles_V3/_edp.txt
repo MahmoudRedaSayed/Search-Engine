@@ -1,3 +1,1 @@
-<edp|[https://blog.archive.org,p]::1;[https://www.ebay.com/globaldeals/fashion,h]::2;
-<edpl|[http://edpl.lexxion.eu/article/EDPL/2017/3/9,t]::1;[http://edpl.lexxion.eu/article/EDPL/2017/3/9,h]::1;
-<edpb|[https://www.fedma.org,h]::1;[https://www.fedma.org,p]::2;
+<edp|[https://blog.archive.org,p]::1;

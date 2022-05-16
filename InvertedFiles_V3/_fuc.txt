@@ -1,3 +1,2 @@
-<fuciformis|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
-<fucked|[https://www.nytimes.com/2022/05/09/opinion/sway-kara-swisher-clarissa-ward.html,p]::1;[https://www.nytimes.com/2022/05/05/podcasts/still-processing-fatal-attraction-erotic-thrillers.html,p]::2;
-<fuchs|[https://www.nytimes.com/2022/05/06/well/mind/virtual-reality-therapy-seniors.html,p]::2;
+<fuchs|[http://list.org,p]::1;
+<fucking|[https://www.sensesofcinema.com/category/great-directors,h]::1;

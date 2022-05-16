@@ -1,3 +1,0 @@
-<mcstay|[https://www.dailymail.co.uk/news/sydney/index.html,h]::1;
-<mcshays|[https://www.espn.com,h]::1;[https://www.espn.com,p]::1;
-<mcsweeney|[https://www.esl-galaxy.com/children.htm,p]::1;

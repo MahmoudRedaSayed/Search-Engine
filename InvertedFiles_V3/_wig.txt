@@ -1,7 +1,1 @@
-<wiggle|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;[https://www.everydayhealth.com/cancer/celebrities-with-cancer-why-do-some-decide-to-go-public-and-others-dont,p]::6;[https://www.tlcdirect.org,s]::1;[https://www.tlcdirect.org,p]::5;[https://www.wired.co.uk/news/archive/2012-05/24/eu-cookie-law-moaning,p]::1;[https://web.archive.org/web/20121115110013/http:/www.wired.co.uk/news/archive/2012-05/24/eu-cookie-law-moaning,p]::1;[http://todaysdocument.tumblr.com,p]::1;[https://www.nytimes.com/2022/05/09/opinion/sway-kara-swisher-clarissa-ward.html,p]::1;[https://www.nytimes.com/2022/05/06/theater/into-the-woods-review.html,p]::1;[https://www.baltimoresun.com,p]::1;
-<wigs|[https://www.tlcdirect.org,t]::1;[https://www.tlcdirect.org,s]::1;[https://www.tlcdirect.org,p]::8;[https://www.everydayhealth.com/ovarian-cancer/ovarian-cancer-survivor-stories,p]::1;[https://www.everydayhealth.com/breast-cancer/empowering-breast-and-gynecological-podcasts-hosted-by-survivors,p]::2;
-<wight|[https://www.dailymail.co.uk/travel/escape/index.html,h]::1;
-<wiggles|[https://www.iflscience.com/space/astronomers-have-imaged-the-magnetic-field-at-the-edge-of-a-black-hole-for-the-first-time,p]::1;
-<wigglers|[https://www.sciencenewsforstudents.org/article/innovation-2022-worms-sniff-out-human-cancers,p]::1;
-<wiggling|[https://classroom.kidshealth.org,p]::1;
-<wiginton|[https://www.chicagotribune.com/politics/elections/ct-mayor-race-who-is-in-who-is-out-20220509-6yqd5a7pkzgg7ozhl23qjbw5o4-list.html#nt=related-content&rt=chartbeat-flt,p]::1;
+<wigwam|[https://en.wikipedia.org/wiki/American_English,p]::1;

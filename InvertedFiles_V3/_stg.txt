@@ -1,3 +1,1 @@
-<stgeneration|[https://www.apple.com/ipad,p]::1;[https://www.apple.com/lae/ipad,p]::1;
-<stgrade|[https://eslkidslab.com/phonics/index.html,s]::1;
-<stgradeages|[https://eslkidslab.com/phonics/index.html,p]::1;
+<stgeneration|[https://www.apple.com/lae/ipad,p]::1;

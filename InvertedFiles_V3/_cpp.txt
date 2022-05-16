@@ -1,2 +1,0 @@
-<cppa|[https://thenai.org,p]::2;[https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/?ref=ghm,s]::15;[https://www.geeksforgeeks.org/campus-geek-of-the-month/?ref=ghm,p]::1;
-<cppmath|[https://www.geeksforgeeks.org/c-plus-plus/?ref=ghm,s]::1;[https://www.geeksforgeeks.org/c-plus-plus/?ref=ghm,p]::1;

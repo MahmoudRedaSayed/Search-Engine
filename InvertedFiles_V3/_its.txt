@@ -1,15 +1,4 @@
 <itscalendar|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;
 <itsmy|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;
-<itsimportant|[https://twitter.com/privacy,p]::1;
-<itsa|[https://www.hearst.co.uk/solutions/accreditation,p]::1;
+<itsdiscontinued|[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;
 <itsgiven|[https://gist.github.com/maxogden/43219d6dcb9006042849,p]::1;
-<itsgoogle|[https://docs.google.com/document/d/1K-mKOqiUiSjgZTEscBLjtjd6E67oiK8H2ztOiq5tigk/pub,p]::1;[https://themarkup.org/google-the-giant/2020/07/28/google-search-results-prioritize-google-products-over-competitors,h]::1;
-<itsines|[https://www.dailymail.co.uk/news/adelaide/index.html,h]::2;
-<itsslim|[https://lifetickler.com/phone-camera-money,p]::1;
-<itso|[https://lifetickler.com/good-vibes,p]::1;
-<itsenäisyys|[https://disneytermsofuse.com/finnish,p]::1;
-<itsenäisenä|[https://disneytermsofuse.com/finnish,p]::1;
-<itselle|[https://netticasino-now.com/arvostelut,p]::1;
-<itsenäisiä|[https://netticasino-now.com/arvostelut,p]::1;
-<itscovid|[https://hms.harvard.edu/returning-campus,s]::1;
-<itspropagating|[https://www.myenglishclub.com/groups/green-thumb,p]::1;

@@ -1,1 +1,1 @@
-<foe|[https://www.dailymail.co.uk/news/coronavirus/index.html,h]::1;
+<foe|[https://www.bbc.com/sport,p]::1;

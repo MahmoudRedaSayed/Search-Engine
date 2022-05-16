@@ -1,8 +1,4 @@
-<muda|[https://sw.wikipedia.org/wiki/Kuki,p]::1;[https://www.iflscience.com/environment/over-300-dead-in-south-african-floods-as-scientists-warn-of-climate-changeinduced-stronger-storms,p]::1;[https://www.sciencenewsforstudents.org/topic/archaeology,h]::1;[https://www.sciencenewsforstudents.org/topic/archaeology,p]::1;[https://www.marca.com/futbol/argentina.html?intcmp=MENUPROD&s_kw=futbol-argentina,h]::1;[https://www.foxnews.com/entertainment/week-long-break-depp-heard-defamation-trial-actors-advantage-cross-examination-expert,p]::1;
-<mudfog|[https://play.google.com/store/books,p]::1;
-<muddle|[https://nautil.us/topics/genetics,p]::1;[https://meded.hms.harvard.edu/resources,p]::1;[https://www.nytimes.com/2022/05/08/opinion/mask-mandate-over.html,p]::1;[https://www.dailywritingtips.com/passed-vs-past,p]::2;
-<mudah|[https://disneytermsofuse.com/bahasa-malaysia,p]::3;
-<mudallali|[https://www.nytimes.com/2022/05/08/us/politics/un-agency-loans-resignation.html,p]::1;
-<muddy|[https://www.nytimes.com/2022/05/06/arts/music/hamlet-metropolitan-opera.html,p]::1;
-<mudassir|[https://www.geeksforgeeks.org/geek-of-the-month/?ref=ghm,p]::1;
-<mudgeon|[https://www.dailywritingtips.com/7-classes-of-phrases,s]::1;
+<muddle|[https://www.dailymail.co.uk,p]::1;[https://www.dailymail.co.uk/news/index.html,p]::1;
+<mud|[https://www.dailymail.co.uk/ushome/index.html,h]::1;[https://www.dailymail.co.uk/ushome/index.html,p]::2;[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;[https://www.sciencenewsforstudents.org/topic/archaeology,h]::1;[https://www.sciencenewsforstudents.org/topic/archaeology,p]::1;[https://www.iflscience.com/environment/more-human-remains-have-been-revealed-by-climate-change-at-lake-mead,p]::1;
+<mudditt|[https://www.bbc.com/future,p]::1;
+<muddy|[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;[https://www.dailymail.co.uk/travel/index.html,h]::1;[https://www.iflscience.com/environment/more-human-remains-have-been-revealed-by-climate-change-at-lake-mead,p]::1;

@@ -1,5 +1,1 @@
-<rimelige|[https://disneytermsofuse.com/danish,p]::2;[https://disneytermsofuse.com/norwegian,p]::1;[https://m.imdb.com/chart/starmeter/?ref_=nv_cel_brn,p]::1;[https://www.imdb.com/search/name/?match_all=true&ref_=nv_cel_m,p]::1;[https://www.ebay.com/globaldeals/fashion/handbags-and-accessories,h]::1;
-<rimelighet|[https://disneytermsofuse.com/norwegian,p]::2;
-<rimaniamo|[https://it.swiss-casino-now.com/recensioni,p]::1;[https://casino-now.it/recensioni,p]::1;[https://casino-now.it/recensioni/woo,p]::1;
-<rimane|[https://it.swiss-casino-now.com/recensioni,p]::1;
-<rimanere|[https://casino-now.it/recensioni,p]::1;[https://casino-now.it/recensioni/woo,p]::2;
+<rim|[https://www.iflscience.com/environment/what-is-dead-pool-a-water-expert-explains,p]::1;

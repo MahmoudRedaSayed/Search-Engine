@@ -1,3 +1,2 @@
-<gecikmelere|[https://www.ugureskici.com/notlarim-makalelerim/projelerimizi-nasil-yonetsek,p]::1;
-<gecontroleerd|[https://onlinecasino-now.nl/casino-reviews/playamo,p]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::3;[https://onlinecasino-now.nl/casino-software/netent,p]::2;
-<gecertificeerd|[https://onlinecasino-now.nl/casino-reviews/cookie,p]::2;[https://onlinecasino-now.nl/casino-software/netent,p]::2;
+<gecko|[https://www.sciencenews.org,h]::1;
+<geckos|[https://www.sciencenews.org,p]::1;

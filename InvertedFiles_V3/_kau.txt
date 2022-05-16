@@ -1,14 +1,2 @@
-<kaustubh|[https://www.tutorialspoint.com/categories/development,p]::1;[https://www.sciencenewsforstudents.org/article/innovation-2022-solar-powered-system-energy-harvest-water-from-air,p]::2;
-<kaushik|[https://www.tutorialspoint.com/cplusplus/index.htm,p]::1;[https://www.tutorialspoint.com/mongodb/index.htm,p]::1;[https://www.tutorialspoint.com/asp.net/index.htm,p]::1;
-<kaufman|[https://www.everydayhealth.com/lung-cancer/living-with/your-lungs-get-healthier-every-hour-every-day-after-you-quit-smoking,p]::1;[https://www.nytimes.com/live/2022/05/09/theater/tony-awards,p]::1;[https://icons8.de/animated-icons,p]::2;
-<kaunda|[https://thekingcenter.org/about-mrs-king,p]::1;
-<kaupapa|[https://www.dailymail.co.uk/news/article-10796455/Prince-Harry-speaks-M-ori-launcgnew-project-launched-New-Zealand-TONIGHT.html#comments,s]::1;[https://www.dailymail.co.uk/news/article-10796455/Prince-Harry-speaks-M-ori-launcgnew-project-launched-New-Zealand-TONIGHT.html#comments,p]::1;[https://www.dailymail.co.uk/news/article-10796455/Prince-Harry-speaks-M-ori-launcgnew-project-launched-New-Zealand-TONIGHT.html#video,s]::1;[https://www.dailymail.co.uk/news/article-10796455/Prince-Harry-speaks-M-ori-launcgnew-project-launched-New-Zealand-TONIGHT.html#video,p]::1;
-<kautta|[https://disneytermsofuse.com/finnish,p]::6;[https://netticasino-now.com/arvostelut,s]::1;[https://netticasino-now.com/arvostelut,p]::3;
-<kaupallista|[https://disneytermsofuse.com/finnish,p]::1;
-<kauppahintaa|[https://disneytermsofuse.com/finnish,p]::1;
-<kaupankäyntiä|[https://disneytermsofuse.com/finnish,p]::1;
-<kaupungin|[https://disneytermsofuse.com/finnish,p]::1;
-<kaupunginosassa|[https://disneytermsofuse.com/finnish,p]::1;
-<kauffman|[https://www.hearst.com/ventures,p]::1;
-<kaum|[https://casino-now.at/casino-software/netent,p]::1;
-<kaufen|[https://icons8.de/animated-icons,h]::2;[https://icons8.de/animated-icons,p]::2;
+<kaulitz|[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;
+<kaushik|[https://www.dailymail.co.uk/health/index.html,p]::1;

@@ -1,6 +1,3 @@
-<gauge|[https://www.everydayhealth.com/depression/guide,p]::1;[https://money.cnn.com/data/fear-and-greed,p]::3;[https://lifetickler.com/lotterycodex,p]::1;[https://www.arkadium.com/privacy-policy,p]::1;[https://www.sciencenewsforstudents.org/article/prevention-programs-reduce-teen-dating-violence-abuse,s]::1;[http://www.digikey.com,p]::1;[https://casino-now-canada.com/reviews,p]::1;[https://casino-now-canada.com/blackjack,p]::1;[https://www.ebay.com/globaldeals/home,h]::2;[https://www.ebay.com/globaldeals/home/tools,h]::3;[https://www.chicagotribune.com/politics/elections/ct-mayor-race-who-is-in-who-is-out-20220509-6yqd5a7pkzgg7ozhl23qjbw5o4-list.html#nt=related-content&rt=chartbeat-flt,p]::1;
-<gauzy|[https://www.nytimes.com/2022/05/06/arts/music/bad-bunny-un-verano-sin-ti.html,p]::1;
-<gauntletis|[https://www.nytimes.com/2022/05/09/us/politics/west-virginia-trump.html,p]::1;
-<gaudy|[https://www.nytimes.com/2022/05/08/opinion/dementia-elder-care.html,p]::1;
-<gaussian|[https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/?ref=ghm,s]::1;
-<gaurav|[https://www.geeksforgeeks.org/geek-of-the-month/?ref=ghm,p]::2;
+<gaunas|[https://www.marca.com/ciclismo/giro-italia/2022/05/15/6280d6cd37ff7b0023a22828-directo.html,p]::1;
+<gauge|[https://www.everydayhealth.com/depression/guide,p]::1;
+<gauld|[https://www.dailymail.co.uk/health/index.html,p]::1;

@@ -1,4 +1,0 @@
-<rwifitzpatrick|[https://www.congress.gov,p]::1;
-<rwigallego|[https://www.congress.gov,p]::1;
-<rwiguest|[https://www.congress.gov,p]::1;
-<rwis|[https://www.foxnews.com/media,p]::1;[https://www.foxnews.com/category/us/military,p]::1;

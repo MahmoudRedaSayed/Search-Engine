@@ -1,4 +1,1 @@
-<kijelenti|[https://disneytermsofuse.com/hungarian,p]::3;
-<kijelentéseknek|[https://disneytermsofuse.com/hungarian,p]::1;
-<kijelölt|[https://disneytermsofuse.com/hungarian,p]::2;
-<kijken|[https://onlinecasino-now.nl,p]::1;[https://casino-now.be,p]::1;[https://onlinecasino-now.nl/casino-reviews,s]::1;
+<kijunsen|[https://www.tutorialspoint.com/questions/category/finance,h]::1;

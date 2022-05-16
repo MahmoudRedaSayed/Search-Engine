@@ -1,7 +1,4 @@
-<imitation|[https://developers.google.com/assistant/console/policies/general-policies,h]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;[https://nautil.us/topics/environment,h]::1;[https://nautil.us/why-ai-needs-a-genome-2-13438,p]::1;[https://www.marca.com/juegos-olimpicos.html?intcmp=MENUPROD&s_kw=juegos-olimpicos,h]::1;[https://www.nytimes.com/live/2022/05/09/us/midterms-primary-elections-nebraska,p]::1;[https://wizardpins.com/products/hard-enamel-pins,p]::2;[https://wizardpins.com/products/sample-kit,p]::2;[https://wizardpins.com/collections/custom-rush-products,p]::3;[https://wizardpins.com/pages/enamel-pin-guide,p]::2;[https://wizardpins.com/pages/ext-resources,p]::2;[https://wizardpins.com/pages/rewards,p]::2;[https://wizardpins.com/pages/wizard-pins-promo-code-current-wizardpins-coupon-codes,p]::2;[https://wizardpins.com/products/soft-enamel-pins,p]::2;[https://wizardpins.com/products/custom-rush-pins,p]::2;
-<imitating|[https://lifetickler.com/parenthood-sign-ready,p]::1;[https://www.sciencenewsforstudents.org/article/light-pollution-sea-ocean-new-maps,p]::1;[https://radio.foxnews.com,h]::1;
-<imitate|[https://www.sciencenewsforstudents.org/topic/archaeology,p]::1;[https://www.sciencenewsforstudents.org/article/light-pollution-sea-ocean-new-maps,p]::1;[https://www.nytimes.com/live/2022/05/09/world/ukraine-russia-war-news,p]::1;
-<imidlertid|[https://disneytermsofuse.com/norwegian,p]::2;[https://norskcasino-now.com/anmeldelser,p]::1;
-<imienia|[https://disneytermsofuse.com/polish,p]::3;
-<imię|[https://disneytermsofuse.com/polish,p]::1;
-<imitated|[https://www.nytimes.com/2022/05/09/opinion/labor-peace-health-care.html,p]::1;
+<imitating|[https://en.wikipedia.org/wiki/American_English,p]::1;
+<imitó|[https://ar.marca.com/claro/?intcmp=BOTONPORTADA&s_kw=portada,p]::1;
+<imitate|[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;[https://www.sciencenewsforstudents.org/topic/archaeology,p]::1;
+<imitation|[https://www.sensesofcinema.com/special-dossiers,h]::1;

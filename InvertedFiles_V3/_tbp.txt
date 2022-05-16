@@ -1,1 +1,0 @@
-<tbps|[https://www.cdn77.com,h]::1;[https://www.cdn77.com,s]::1;[https://www.cdn77.com,p]::1;

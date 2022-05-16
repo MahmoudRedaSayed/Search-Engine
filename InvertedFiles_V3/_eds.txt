@@ -1,5 +1,2 @@
-<eds|[http://www.archive-it.org,p]::2;[https://www.cancer.org/cancer/cancer-causes/genetics/family-cancer-syndromes.html,p]::2;[https://www.nytimes.com/2001/09/04/technology/04COOK.html,p]::1;[https://www.cancer.org/cancer/ovarian-cancer/about/key-statistics.html,p]::2;
-<edsa|[https://developers.google.com/assistant/console/policies/general-policies,p]::2;[https://www.youtube.com/about/policies,p]::3;
-<edscancer|[https://www.cancer.org/cancer/ovarian-cancer/detection-diagnosis-staging/signs-and-symptoms.html,p]::2;
-<edsclinical|[https://www.cancer.org/cancer/ovarian-cancer/detection-diagnosis-staging/signs-and-symptoms.html,p]::2;
-<edsitement|[http://www.besthistorysites.net/index.php/american-history,p]::3;
+<edson|[https://us.marca.com/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;
+<eds|[http://www.archive-it.org,p]::2;

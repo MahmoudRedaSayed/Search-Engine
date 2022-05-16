@@ -1,1 +1,0 @@
-<dbgenomeupdated|[https://github.com/Open-Book-Genome-Project/sequencer/blob/master/pipeline.py,h]::1;

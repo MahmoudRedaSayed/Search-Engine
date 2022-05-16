@@ -1,2 +1,0 @@
-<lcfirp|[https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-care/post-covid-science.html,s]::1;
-<lcfirpexternal|[https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-care/post-covid-science.html,p]::1;

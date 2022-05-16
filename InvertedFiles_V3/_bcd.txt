@@ -1,1 +1,0 @@
-<bcd|[https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie2,p]::1;

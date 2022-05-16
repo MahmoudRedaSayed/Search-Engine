@@ -32,7 +32,7 @@ public class HelperClass {
     public static String invertedFilePath_V3(String fileName)
     {
 //        String filePath = Paths.get("").normalize().toAbsolutePath().toString();
-        String filePath = "F:\\Current Search Engine\\Sreach-Engine";
+        String filePath = "D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";
         //filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
         filePath += File.separator + "InvertedFiles_V3" + File.separator + fileName + ".txt";
         return filePath;
@@ -41,7 +41,7 @@ public class HelperClass {
     // get the path of the inverted Files_V3 folder
     public static String invertedFilePathDirectoryPath()
     {
-        String filePath = "F:\\Current Search Engine\\Sreach-Engine";
+        String filePath = "D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";
         // filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
         filePath += File.separator + "InvertedFiles_V3";
         return filePath;
@@ -50,7 +50,7 @@ public class HelperClass {
     // get the path of the content files
     public static String contentFilesPath()
     {
-        String filePath = "F:\\Current Search Engine\\Sreach-Engine";
+        String filePath = "D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";
         // filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
         filePath += File.separator + "ContentFiles";
         return filePath;
@@ -58,7 +58,7 @@ public class HelperClass {
 
     public static String populairtyFilesPath()
     {
-        String filePath = "F:\\Current Search Engine\\Sreach-Engine";
+        String filePath = "D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";
         // filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
         filePath += File.separator + "PopularityFiles";
         return filePath;
@@ -67,7 +67,7 @@ public class HelperClass {
     // get the path of the description files
     public static String descriptionFilesPath()
     {
-        String filePath = "F:\\Current Search Engine\\Sreach-Engine";
+        String filePath = "D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";
         // filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
         filePath += File.separator + "descriptionFiles";
         return filePath;
@@ -122,11 +122,12 @@ public class HelperClass {
 
     // check if a given word is existing in a given inverted file or not
     // returns the whole line that contains this word
-    public static String isExistingInFile(String word, File myFile) throws IOException {
+    public synchronized static String isExistingInFile(String word, File myFile) throws IOException {
         Scanner read = new Scanner(myFile);
         String tempInput;
-
-        while(read.hasNextLine())
+        String wordInFile = null;
+        boolean found = false;
+        while(read.hasNextLine() && !found)
         {
             tempInput = read.nextLine();
             if (tempInput.equals(""))
@@ -136,25 +137,28 @@ public class HelperClass {
             if (tempInput.charAt(0) == '<')
             // compare to check if this word = ourWord ?
             {
-                // get the word
+//                // get the word
+                wordInFile = tempInput.substring(1, tempInput.indexOf('|'));
                 int wordSize = word.length();
-                char ch = tempInput.charAt(1);      // just initialization
-                boolean matchingFlag = true;
-
-                int i;
-                for (i = 0; i < wordSize; i++)
-                    if(tempInput.charAt(i+1) != word.charAt(i))
-                        break;
-
-                if(i == wordSize)
-                    return tempInput;
+//                char ch = tempInput.charAt(1);      // just initialization
+//                boolean matchingFlag = true;
+//
+//                int i;
+//                for (i = 0; i < wordSize; i++)
+//                    if(tempInput.charAt(i+1) != word.charAt(i))
+//                        break;
+//
+//                if(i == wordSize)
+//                    return tempInput;
+            if (wordInFile.equals(word))
+                return tempInput;
             }
         }
         return "";      // if not found, return empty
     }
 
     // this function replaces a line in a given inverted file
-    public static void replaceLineInFile(Path path, String oldLine, String newLine) throws IOException {
+    public synchronized static void replaceLineInFile(Path path, String oldLine, String newLine) throws IOException {
         List<String>fileContents = new ArrayList<>(Files.readAllLines(path, StandardCharsets.UTF_8));
         int ContentSize = fileContents.size();
 
@@ -190,7 +194,7 @@ public class HelperClass {
 
     // this function checks if the info is already exist or not,
     // and if exists, just increment the counter of occurrences
-    public static String updateInfoOfWord(String line, String oldInfo) {
+    public synchronized static String updateInfoOfWord(String line, String oldInfo) {
 
         // substring the line to get the needed information
         int separationIndex = line.indexOf('|');

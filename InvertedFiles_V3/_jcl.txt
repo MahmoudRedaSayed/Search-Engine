@@ -1,2 +1,0 @@
-<jcl|[https://www.tutorialspoint.com/computer_programming_tutorials.htm,p]::1;
-<jclarknbcs|[http://bleacherreport.com/nba,p]::1;

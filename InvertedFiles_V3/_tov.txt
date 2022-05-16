@@ -1,6 +1,0 @@
-<tovuti|[https://sw.wikipedia.org/wiki/Kuki,p]::3;
-<további|[https://disneytermsofuse.com/hungarian,p]::9;
-<továbbiakban|[https://disneytermsofuse.com/hungarian,p]::1;
-<továbbá|[https://disneytermsofuse.com/hungarian,p]::4;
-<továbbra|[https://disneytermsofuse.com/hungarian,p]::1;
-<tova|[https://www.dailywritingtips.com/english-grammar-101-all-you-need-to-know,s]::1;

@@ -1,2 +1,1 @@
-<csortan|[https://www.dailymail.co.uk/news/sydney/index.html,h]::1;
-<csoportos|[https://disneytermsofuse.com/hungarian,p]::3;
+<csortan|[https://www.dailymail.co.uk/auhome/index.html,s]::1;

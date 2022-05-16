@@ -1,16 +1,1 @@
-<jelly|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::2;[https://www.iflscience.com/plants-and-animals,h]::1;[https://www.iflscience.com/plants-and-animals,p]::1;[https://www.sciencenewsforstudents.org/collections/invention-innovation,h]::1;[https://www.sciencenewsforstudents.org/author/katie-grace-carpenter,h]::1;[http://www.kizphonics.com,s]::1;[https://tadalafilgen.com,h]::1;
-<jelsert|[https://www.acco.org,h]::3;
-<jelaskan|[http://www.beinsports.com/id,h]::1;[https://disneytermsofuse.com/bahasa-indonesia,p]::1;
-<jellyfish|[https://www.dailymail.co.uk/news/sydney/index.html,h]::1;[https://nautil.us/topics/genetics,h]::3;[https://nautil.us/topics/genetics,p]::2;[https://www.hearst.com/ventures,p]::1;
-<jelen|[https://disneytermsofuse.com/hungarian,p]::33;
-<jellemzői|[https://disneytermsofuse.com/hungarian,p]::1;
-<jelzések|[https://disneytermsofuse.com/hungarian,p]::1;
-<jelentősen|[https://disneytermsofuse.com/hungarian,p]::2;
-<jellegű|[https://disneytermsofuse.com/hungarian,p]::1;
-<jelszavának|[https://disneytermsofuse.com/hungarian,p]::1;
-<jelszó|[https://disneytermsofuse.com/hungarian,p]::1;
-<jelszava|[https://disneytermsofuse.com/hungarian,p]::2;
-<jelöltünk|[https://disneytermsofuse.com/hungarian,p]::1;
-<jelentenek|[https://disneytermsofuse.com/hungarian,p]::1;
-<jellegüknél|[https://disneytermsofuse.com/hungarian,p]::1;
-<jelinek|[https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm,s]::1;
+<jelly|[https://www.sciencenewsforstudents.org/collections/invention-innovation,h]::1;

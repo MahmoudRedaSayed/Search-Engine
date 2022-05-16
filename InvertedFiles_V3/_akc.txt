@@ -1,6 +1,0 @@
-<akceptacji|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://kasyno-now.com/recenzja,p]::1;[https://kasyno-now.com/recenzja/woo,p]::1;
-<akceptované|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<akceptovaním|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<akciós|[https://disneytermsofuse.com/hungarian,p]::1;
-<akceptuje|[https://disneytermsofuse.com/polish,p]::1;[https://kasyno-now.com/recenzja/woo,p]::1;
-<akcyjne|[https://kasyno-now.com,p]::1;

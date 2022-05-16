@@ -1,3 +1,0 @@
-<obmedzeniu|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<obmedzenia|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<obmedzeniami|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;

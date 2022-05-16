@@ -1,2 +1,0 @@
-<zynga|[https://www.iab.com,p]::1;
-<zynx|[https://www.hearst.com/hearst-health,p]::7;[https://www.hearst.com/transportation,p]::1;

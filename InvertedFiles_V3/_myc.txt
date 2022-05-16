@@ -1,5 +1,6 @@
-<mycancercoachapporg|[https://www.everydayhealth.com/cancer/guide,p]::1;[https://www.everydayhealth.com/cancer/living-with/how-keep-friendships-strong-while-being-treated-cancer,p]::1;
+<mycancercoachapporg|[https://www.everydayhealth.com/cancer/guide,p]::1;
 <mycoplasma|[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,h]::1;
-<mychart|[https://apps.apple.com/us/app/outcomes4me-breast-cancer-care/id1404382419,p]::1;
-<mycket|[https://sv.wikipedia.org/wiki/Webbkaka,p]::1;
-<mycourses|[https://meded.hms.harvard.edu/faculty-portal,s]::1;[https://meded.hms.harvard.edu/faculty-portal,p]::2;[http://hsdm.harvard.edu,p]::1;
+<mycustomercustomerid|[https://support.google.com/chrome/a/answer/9681204,s]::1;
+<mycustomercustomeridchromeenrollmenttokensquery|[https://support.google.com/chrome/a/answer/9949706,p]::1;
+<mycustomercustomeridchromeenrollmenttokens|[https://support.google.com/chrome/a/answer/9949706,p]::1;
+<mycustomercustomeridchromeenrollmenttokenstokenpermanentidrevoke|[https://support.google.com/chrome/a/answer/9949706,p]::1;

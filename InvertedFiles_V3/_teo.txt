@@ -1,7 +1,0 @@
-<teori|[https://id.wikipedia.org/wiki/Kuki,p]::1;[https://blog.openlibrary.org,s]::1;[https://blog.openlibrary.org,p]::4;[https://blog.openlibrary.org/2022/04/27/a-high-schoolers-experience-contributing-to-the-open-book-genome-project,s]::1;[https://blog.openlibrary.org/2022/04/27/a-high-schoolers-experience-contributing-to-the-open-book-genome-project,p]::4;[https://blog.openlibrary.org/author/mekarpeles,p]::2;[https://www.ugureskici.com/hakkimda,p]::1;
-<teojcheng|[https://github.com/Teo-J-Cheng,t]::1;[https://github.com/Teo-J-Cheng,h]::2;[https://github.com/Teo-J-Cheng,s]::2;[https://github.com/Teo-J-Cheng,p]::1;
-<teorisi|[https://www.ugureskici.com/notlarim-makalelerim/projelerimizi-nasil-yonetsek,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/digitalzone-2017-kimler-geldi-kimler-gecti-ne-ogrendik,p]::2;
-<teorilerinden|[https://www.ugureskici.com/notlarim-makalelerim/projelerimizi-nasil-yonetsek,p]::1;
-<teorisine|[https://www.ugureskici.com/notlarim-makalelerim/projelerimizi-nasil-yonetsek,p]::2;[https://www.ugureskici.com/notlarim-makalelerim/digitalzone-2017-kimler-geldi-kimler-gecti-ne-ogrendik,p]::1;
-<teoriye|[https://www.ugureskici.com/notlarim-makalelerim/projelerimizi-nasil-yonetsek,p]::1;
-<teorik|[https://www.ugureskici.com/notlarim-makalelerim/robotstxt-nedir-nasil-kullanilir,p]::1;

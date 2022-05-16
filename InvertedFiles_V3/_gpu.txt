@@ -1,2 +1,2 @@
-<gpu|[https://www.apple.com/mac,p]::7;[https://www.apple.com/lae/mac,p]::7;
-<gpus|[https://www.mozilla.org/en-US/firefox/100.0/releasenotes,p]::2;
+<gpu|[https://www.apple.com/lae/mac,p]::7;
+<gpuaccelerated|[https://developer.apple.com/macos,p]::1;

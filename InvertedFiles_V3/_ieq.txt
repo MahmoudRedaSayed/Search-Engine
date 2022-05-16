@@ -1,1 +1,1 @@
-<ieq|[https://twitter.com/tos,p]::1;[https://legal.twitter.com/imprint.html,p]::1;
+<ieq|[https://twitter.com/tos,p]::2;

@@ -1,8 +1,1 @@
-<zenita|[https://www.youtube.com/about/press,h]::1;[https://www.everydayhealth.com/constipation/guide,p]::1;[https://www.everydayhealth.com/meditation,s]::1;[https://www.everydayhealth.com/ovarian-cancer/yoga-for-ovarian-cancer-poses-that-benefit-your-health-during-and-after-treatment,s]::1;[https://www.iflscience.com/team/dr-alfredo-carpineti,h]::1;[https://www.marca.com/futbol/champions-league/equipos.html?intcmp=MENUPROD&s_kw=futbol-champions-league-equipos,h]::1;[https://www.marca.com/futbol/mexico.html?intcmp=MENUPROD&s_kw=futbol-mexico,h]::1;
-<zenith|[https://lifetickler.com/category/relationship,p]::1;
-<zengin|[https://www.ugureskici.com/internet-dunyasi,p]::1;[https://www.hearst.com/ventures,p]::1;
-<zendaya|[https://skyaccessibility.sky,s]::1;[https://skyaccessibility.sky,p]::1;[https://www.imdb.com/search/name/?match_all=true&ref_=nv_cel_m,h]::1;[https://www.imdb.com/search/name/?match_all=true&ref_=nv_cel_m,p]::1;
-<zendrive|[https://www.hearst.com/ventures,p]::2;
-<zenkey|[https://itunes.apple.com/us/app/appchoices/id894822870,p]::1;
-<zeno|[https://www.foxbusiness.com,h]::1;
-<zenbook|[https://www.ebay.com/globaldeals/tech/laptops-netbooks,h]::1;[https://www.ebay.com/globaldeals/tech,h]::2;
+<zendaya|[https://skyaccessibility.sky,s]::1;[https://skyaccessibility.sky,p]::1;

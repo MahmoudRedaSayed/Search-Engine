@@ -1,3 +1,2 @@
-<lozano|[http://www.archive-it.org,p]::1;[https://www.marca.com/futbol/futbol-sala.html?intcmp=MENUPROD&s_kw=futbol-sala,h]::1;[https://www.marca.com/futbol/mexico.html?intcmp=MENUPROD&s_kw=futbol-mexico,h]::1;[https://www.nytimes.com/2022/05/09/podcasts/the-daily/drones-airstrikes-military-ptsd.html,p]::2;
-<lozinkom|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
-<lozinki|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<lozano|[https://www.marca.com/tiramillas/television/2022/05/15/62811b55ca474114148b4588.html,s]::1;[https://www.marca.com/tiramillas/television/2022/05/15/62811b55ca474114148b4588.html,p]::2;[https://www.marca.com/tiramillas/television/2022/05/15/6280dbe322601d476b8b4580.html,p]::1;[http://www.archive-it.org,p]::1;
+<loznitsa|[https://www.sensesofcinema.com/special-dossiers,h]::1;

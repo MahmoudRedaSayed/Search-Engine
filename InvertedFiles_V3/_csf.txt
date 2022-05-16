@@ -1,1 +1,1 @@
-<csf|[https://www.symplr.com/provider-data-management/payer-organizations,p]::1;
+<csf|[https://www.dailymail.co.uk/health/index.html,p]::1;[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;

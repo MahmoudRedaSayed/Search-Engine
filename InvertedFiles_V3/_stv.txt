@@ -1,2 +1,1 @@
-<stvaranja|[https://sh.wikipedia.org/wiki/Cookie,p]::2;
-<stvari|[https://sh.wikipedia.org/wiki/Cookie,p]::1;[http://toni.podmanicki.com,h]::1;
+<stvari|[http://toni.podmanicki.com,h]::1;

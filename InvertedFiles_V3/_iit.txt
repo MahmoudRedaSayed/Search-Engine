@@ -1,2 +1,1 @@
-<iitjee|[https://www.tutorix.com,h]::1;[https://www.tutorix.com,p]::2;[https://www.geeksforgeeks.org/gate-cs-2021-official-important-dates/?ref=ghm,p]::1;[https://www.geeksforgeeks.org/gate-cs-2021-revised-syllabus/?ref=ghm,p]::1;[https://www.geeksforgeeks.org/campus-geek-of-the-month/?ref=ghm,p]::1;[https://www.geeksforgeeks.org/testimonials/?ref=ghm,p]::1;
-<iitaliano|[https://casino-now-canada.com/reviews,p]::2;[https://casino-now-canada.com/reviews/playamo-casino,p]::2;[https://casino-now-canada.com/online-slots,p]::2;[https://casino-now-canada.com/casino-games,p]::2;
+<iitjee|[https://www.tutorix.com,h]::1;[https://www.tutorix.com,p]::2;

@@ -1,1 +1,1 @@
-<irc|[https://lifetickler.com/what-happened-to-grammar-and-spelling,p]::1;
+<irc|[https://meta.wikimedia.org/wiki/How_to_start_a_new_Wikipedia,p]::1;[http://list.org,p]::2;

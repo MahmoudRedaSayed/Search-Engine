@@ -1,2 +1,1 @@
-<ewe|[https://nautil.us/topics/evolution,h]::2;
-<ewentualnego|[https://disneytermsofuse.com/polish,p]::1;
+<ewedoos|[https://www.dailymail.co.uk,p]::1;

@@ -1,1 +1,1 @@
-<exwife|[https://www.dailymail.co.uk/tvshowbiz/kim_kardashian/index.html,h]::1;[https://www.foxnews.com/entertainment,p]::1;[https://www.foxnews.com/category/tech/topics/security,p]::1;[https://www.foxnews.com/category/health/mental-health,p]::1;[https://www.foxnews.com/entertainment/week-long-break-depp-heard-defamation-trial-actors-advantage-cross-examination-expert,p]::1;
+<exwife|[https://www.dailymail.co.uk,p]::1;[https://www.dailymail.co.uk/news/index.html,p]::1;

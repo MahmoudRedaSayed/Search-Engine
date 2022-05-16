@@ -1,5 +1,2 @@
-<kubernetes|[https://www.tutorialspoint.com/openshift/index.htm,p]::1;[https://www.dynatrace.com,s]::1;[https://insights.stackoverflow.com/survey/2021,p]::1;
-<kubra|[http://www.hearst.com.cn/en/aboutus,p]::1;[https://www.hearst.com/magazines,p]::1;
-<kubikshutterstockcom|[https://www.iflscience.com/environment/-destructive-effects-of-the-climate-crisis-highlighted-in-todays-google-doodle,p]::1;
-<kubo|[https://www.goal.com/en/lists/nxgn-2017-best-wonderkids/1s31weojaayp31xxxt1jmf27l7,h]::1;[https://www.edtechdigest.com,h]::2;[https://edtechdigest.com/category/cool-tools,h]::1;
-<kuberneteskubernetes|[https://github.com,p]::1;
+<kubrick|[https://www.sensesofcinema.com,h]::2;[https://www.sensesofcinema.com/category/feature-articles,h]::2;[https://www.sensesofcinema.com/category/festival-reports,h]::2;[https://www.sensesofcinema.com/category/book-reviews,h]::4;[https://www.sensesofcinema.com/category/cteq,h]::2;[https://www.sensesofcinema.com/category/great-directors,h]::2;[https://www.sensesofcinema.com/special-dossiers,h]::4;
+<kubricks|[https://www.sensesofcinema.com/special-dossiers,h]::2;

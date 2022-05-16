@@ -1,11 +1,2 @@
-<kroz|[https://sh.wikipedia.org/wiki/Cookie,p]::1;[http://vedrigrad.hr,p]::1;
-<kroos|[https://www.goal.com/en/lists/nxgn-2016-best-wonderkids/ugt5ciaielx911wusivtpvw6p,p]::1;[http://www.beinsports.com/us,h]::1;[http://www.beinsports.com/ph,h]::2;
-<kroky|[https://disneytermsofuse.com/czech,p]::1;[http://sk.talkenglish.com,h]::1;[http://cz.talkenglish.com,h]::1;
-<kromě|[https://disneytermsofuse.com/czech,p]::1;
-<kroků|[https://disneytermsofuse.com/czech,p]::1;
-<kroków|[https://kasyno-now.com,p]::1;
-<kroger|[https://www.dynatrace.com,s]::1;[https://www.dynatrace.com,p]::1;
-<krowl|[https://historyhub.history.gov/community/crowd-loc/blog?start=15,p]::3;
-<kross|[https://www.nytimes.com/2022/05/08/nyregion/inmate-death-rikers.html,p]::1;
-<kroki|[http://pl.talkenglish.com,h]::1;
-<kronos|[https://www.geeksforgeeks.org/internship-interview-experiences-company-wise/?ref=ghm,s]::1;[https://www.geeksforgeeks.org/internship-interview-experiences-company-wise/?ref=ghm,p]::1;
+<kroos|[https://www.marca.com/futbol/laliga-santander/cadiz-r-madrid-directo/2022/05/15/01_0101_20220515_1737_186.html,s]::3;[https://www.marca.com/futbol/laliga-santander/cadiz-r-madrid-directo/2022/05/15/01_0101_20220515_1737_186.html,p]::9;[https://www.dailymail.co.uk/sport/index.html,s]::1;[https://www.marca.com/en/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;[https://www.marca.com/baloncesto.html?intcmp=MENUPROD&s_kw=baloncesto,h]::1;[https://www.marca.com/futbol/primera-division/2022/05/15/6280d88e37ff7b0023a23044-directo.html,s]::1;[https://www.marca.com/futbol/primera-division/2022/05/15/6280d88e37ff7b0023a23044-directo.html,p]::1;[https://www.marca.com/futbol/real-madrid.html,h]::1;
+<kroz|[http://vedrigrad.hr,p]::1;

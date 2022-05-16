@@ -1,2 +1,1 @@
-<toque|[https://espanol.cdc.gov/coronavirus/2019-ncov/daily-life-coping/food-and-COVID-19.html,p]::1;
-<toquakerparents|[https://www.nps.gov/people/lucretia-mott.htm,p]::1;
+<toque|[https://www.marca.com/futbol/laliga-santander/atletico-sevilla-directo/2022/05/15/01_0101_20220515_175_179.html,p]::1;[https://www.marca.com/futbol/premier-league/west-ham-utd-m-city-directo/2022/05/15/01_0106_20220515_21_43.html,p]::1;

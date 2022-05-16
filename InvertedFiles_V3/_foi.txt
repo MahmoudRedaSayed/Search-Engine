@@ -1,6 +1,2 @@
-<foilers|[https://www.everydayhealth.com/fertility,h]::1;[https://lifetickler.com/eat-well-without-slaving-over-a-hot-stove,p]::1;[https://www.sciencenewsforstudents.org/article/light-pollution-sea-ocean-new-maps,p]::1;[http://www.digikey.com,p]::1;[https://www.nytimes.com/2022/05/09/nyregion/aoc-eric-adams.html,p]::1;[https://irishwomenshistory.blogspot.com/2014/11/the-colours-of-suffragettes.html,p]::1;
-<fois|[https://fr.wikipedia.org/wiki/Cookie_(informatique),p]::1;
-<foire|[https://fr.casino-now-canada.com/logiciels/microgaming,h]::1;[https://icones8.fr/animated-icons,h]::1;
-<foia|[http://www.eventbrite.com/o/office-of-government-information-services-7515239993,h]::52;[http://blogs.archives.gov/records-express,s]::1;[http://blogs.archives.gov/records-express,p]::1;[http://www.eventbrite.com/o/office-of-government-information-services-7515239993,p]::8;[http://blogs.archives.gov/foiablog,t]::2;[http://blogs.archives.gov/foiablog,h]::3;[http://www.clintonlibrary.gov,p]::1;[http://www.georgewbushlibrary.smu.edu,p]::1;
-<foiadisputes|[http://www.eventbrite.com/o/office-of-government-information-services-7515239993,p]::2;
-<foist|[https://www.symplr.com/leadership,h]::2;[https://www.symplr.com/leadership,p]::4;
+<foiled|[https://www.bbc.com/,h]::1;[https://www.bbc.co.uk/news,h]::1;[https://www.bbc.com/news,h]::1;
+<fois|[https://www.sensesofcinema.com/special-dossiers,h]::1;

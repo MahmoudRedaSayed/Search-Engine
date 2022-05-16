@@ -1,1 +1,2 @@
-<nfts|[https://www.dailymail.co.uk/money/index.html,h]::1;[https://money.cnn.com/data/fear-and-greed,p]::1;[https://www.dailymail.co.uk/sciencetech/twitter/index.html,h]::1;[https://www.dailymail.co.uk/money/bills/index.html,s]::1;[https://www.thisismoney.co.uk,h]::1;[https://nautil.us/topics/arts,h]::1;[https://www.nytimes.com/es,h]::1;[https://www.foxbusiness.com,h]::1;[https://www.foxnews.com/category/style-and-beauty,p]::1;
+<nft|[https://www.dailymail.co.uk/sport/index.html,s]::1;[https://www.dailymail.co.uk/video/index.html,p]::1;
+<nfts|[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;

@@ -1,4 +1,0 @@
-<vijay|[https://www.tutorialspoint.com/mysql/index.htm,p]::1;[https://www.tutorialspoint.com/php/index.htm,p]::1;[https://nautil.us/topics/arts,h]::2;
-<vijayan|[http://www.computerworld.com/article/2510494/data-privacy/microsoft-disables--supercookies--used-on-msn-com-visitors.html,p]::1;
-<vijf|[https://onlinecasino-now.nl,h]::2;[https://onlinecasino-now.nl,s]::2;[https://onlinecasino-now.nl,p]::1;[https://casino-now.be,p]::2;[https://onlinecasino-now.nl/casino-software/netent,p]::4;
-<vijftig|[https://onlinecasino-now.nl/casino-reviews/playamo,p]::1;

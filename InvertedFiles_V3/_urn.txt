@@ -1,1 +1,1 @@
-<urn|[http://roy.gbiv.com/pubs/dissertation/evaluation.htm,p]::1;[https://web.archive.org/web/20110427074406/http:/roy.gbiv.com/pubs/dissertation/evaluation.htm,p]::1;[https://www.chicagotribune.com/consumer-reviews/#nt=tertiarynavbar,h]::1;
+<urnebuttexchange|[https://bbc.github.io/subtitle-guidelines,p]::1;

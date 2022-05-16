@@ -40,10 +40,12 @@ public class DataBase {
     public synchronized void createLink(String Link,int Layer,String ThreadName,int ParentId)
     {
         try{
+            System.out.printf("Inserted \n \n");
             this.stmt.executeUpdate("INSERT INTO links (Link, Layer, ThreadName, LinkParent,Completed) VALUES ('"+Link+"', '"+Layer+"', '"+ThreadName+"', "+ParentId+",'"+0+"');");
         }
         catch(SQLException e)
         {
+
         }
     }
 //----------------------------------------------------------------------------------------------------------------------//
@@ -176,10 +178,10 @@ public class DataBase {
     public synchronized ResultSet getParentUrl (String ThreadName, StringBuffer grandLink )
     {
         try {
-                ResultSet resultSet = this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='" + ThreadName + "' AND Layer=1 AND Completed=0;");
+                ResultSet resultSet = this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='" + ThreadName + "' AND LinkParent=-1 AND Completed=0;");
                 while (resultSet.next()) {
                     grandLink.append(resultSet.getString("Link"));
-                    return this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='" + ThreadName + "' AND Layer=1 AND Completed=0;");
+                    return this.stmt.executeQuery("SELECT * FROM links WHERE  ThreadName='" + ThreadName + "' AND LinkParent=-1 AND Completed=0;");
                 }
                 //If the parent  link is completed
                 Thread.currentThread().interrupt();
@@ -354,7 +356,7 @@ public class DataBase {
             ResultSet resultSet=this.stmt.executeQuery("Select * From links as K ,links as J where CONCAT(K.Paragraph,K.Headers,K.Strong,K.ListItems)=CONCAT(J.Paragraph,J.Headers,J.Strong,J.ListItems) AND K.Id="+id+" AND K.Id!=J.Id;");
             while(resultSet.next())
             {
-                this.stmt.executeUpdate("Delete from links where Id="+id+";");
+                this.stmt.executeUpdate("Delete from links where Id="+id+" and LinkParent !=-1;");
             }
             return null;
         }
@@ -567,15 +569,18 @@ public class DataBase {
 
     //////////////////////////////////////////////////////////////////////////////////////////////////////
 
-    public void addIdParent(String Url,int parentId)
+    public synchronized void addIdParent(String Url,int parentId)
     {
+        ResultSet resultSet;
+        String query="Select CounterIds from links where Link='"+Url+"';";
         try {
-            ResultSet resultSet=this.stmt.executeQuery("Select from links where Link='"+Url+"';");
+            resultSet=this.connect.createStatement().executeQuery(query);
             while (resultSet.next())
             {
                 String Counter=resultSet.getString("CounterIds");
                 Counter=Counter+","+parentId;
-                this.stmt.executeUpdate("Update links set CounterIds='"+Counter+"' where Url='"+Url+"';");
+                this.stmt=this.connect.createStatement();
+                this.stmt.executeUpdate("Update links set CounterIds='"+Counter+"' where Link='"+Url+"';");
 
             }
         } catch (SQLException e) {
@@ -613,6 +618,16 @@ public class DataBase {
             e.printStackTrace();
         }
     return null;
+    }
+    public synchronized  ResultSet getUrl(int id)
+    {
+        try {
+            ResultSet resultSet =this.stmt.executeQuery("select * from links where Id="+id+";");
+            return resultSet;
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+        return null;
     }
 
 }

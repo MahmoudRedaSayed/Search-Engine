@@ -1,12 +1,4 @@
-<alfalfa|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;[https://occovid19.ochealthinfo.com/coronavirus-in-oc,p]::1;[https://www.marca.com/coches-y-motos.html?intcmp=MENUPROD&s_kw=marca-coches,h]::1;
-<alfred|[https://www.tutorialspoint.com/computer_whoiswho.htm,h]::1;[https://www.tutorialspoint.com/computer_whoiswho.htm,p]::2;[http://www.nemoursreport.org,p]::1;[http://phillyarchives.tumblr.com,p]::1;[https://historyhub.history.gov/community/crowd-loc/blog?start=15,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;[https://www.nps.gov/articles/from-mannish-radicals-to-feminist-heroes-suffragists-in-popular-culture.htm,p]::1;[https://www.myenglishclub.com/groups/short-english-lessons,p]::1;[https://www.chicagotribune.com/news/obituaries/#nt=tertiarynavbar,h]::1;
-<alford|[https://www.everydayhealthgroup.com,s]::1;[https://www.everydayhealthgroup.com,p]::1;
-<alfræðiritið|[https://is.wikipedia.org/wiki/Vafrakaka,t]::1;
-<alfaros|[http://bleacherreport.com/mlb,h]::2;[http://bleacherreport.com/mlb,p]::2;[https://www.foxnews.com/sports,p]::1;
-<alfredo|[https://www.iflscience.com/team/dr-alfredo-carpineti,t]::1;[https://www.iflscience.com/team/dr-alfredo-carpineti,h]::1;[https://www.iflscience.com/team/dr-alfredo-carpineti,p]::1;[https://www.marca.com/futbol/premios-marca.html,h]::1;[https://www.nytimes.com/2022/05/06/arts/music/bad-bunny-un-verano-sin-ti.html,p]::1;[https://www.myenglishclub.com/members,p]::1;
-<alfredos|[https://www.iflscience.com/team/dr-alfredo-carpineti,h]::1;
-<alfiky|[https://www.nationalgeographic.com/pages/article/masthead,p]::1;
-<alfonso|[https://www.marca.com/toros.html?intcmp=MENUPROD&s_kw=toros,h]::1;
-<alfitr|[http://todaysdocument.tumblr.com,h]::1;[https://kidskonnect.com/social-studies/stolen-generation,p]::1;
-<alfombras|[https://espanol.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/disinfecting-your-home.html,p]::1;
-<alfie|[https://www.nytimes.com/2022/05/09/theater/tony-awards-nominees.html,p]::1;
+<alfonso|[https://www.marca.com/futbol/laliga-santander/atletico-sevilla-directo/2022/05/15/01_0101_20220515_175_179.html,s]::2;[https://www.marca.com/futbol/laliga-santander/atletico-sevilla-directo/2022/05/15/01_0101_20220515_175_179.html,p]::2;[https://www.marca.com/futbol/primera-division/2022/05/15/6280d88e37ff7b0023a23044-directo.html,p]::1;
+<alfredo|[https://co.marca.com/claro/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;
+<alfa|[https://www.marca.com/coches-y-motos.html?intcmp=MENUPROD&s_kw=marca-coches,h]::1;
+<alfred|[https://www.marca.com/futbol/2022/05/13/627ddbd8749dee001f58f661-directo.html,s]::2;[https://www.marca.com/futbol/2022/05/13/627ddbd8749dee001f58f661-directo.html,p]::2;

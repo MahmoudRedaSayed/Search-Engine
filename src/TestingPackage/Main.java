@@ -36,63 +36,97 @@ public class Main {
         //----------------------------------------Crawler-----------------------------------------//
 
         Thread ThreadsArray[]= new Thread[70];
+//
+//        UrlThread.Limit=0;
+//        Thread.currentThread().setName("Thread1");
+//        ThreadsArray[0]=new Thread(new UrlThread());
+//        ThreadsArray[0].setName("Thread1");
+//        ThreadsArray[0].run();
+//        ThreadsArray[1]=new Thread(new UrlThread());
+//        ThreadsArray[1].setName("Thread11");
+//        ThreadsArray[2]=new Thread(new UrlThread());
+//        ThreadsArray[2].setName("Thread4");
+//        ThreadsArray[3]=new Thread(new UrlThread());
+//        ThreadsArray[3].setName("Thread45");
+//        ThreadsArray[4]=new Thread(new UrlThread());
+//        ThreadsArray[4].setName("Thread46");
+//        ThreadsArray[5]=new Thread(new UrlThread());
+//        ThreadsArray[5].setName("Thread50");
+//        ThreadsArray[6]=new Thread(new UrlThread());
+//        ThreadsArray[6].setName("Thread53");
+//        ThreadsArray[7]=new Thread(new UrlThread());
+//        ThreadsArray[7].setName("Thread57");
+//        ThreadsArray[8]=new Thread(new UrlThread());
+//        ThreadsArray[8].setName("Thread60");
+//        ThreadsArray[9]=new Thread(new UrlThread());
+//        ThreadsArray[9].setName("Thread7");
+//        for(int i=0;i<10;i++)
+//        {
+//            ThreadsArray[i].start();
+//        }
+//        for(int i=0;i<10;i++)
+//        {
+//            try {
+//                ThreadsArray[i].join();
+//            } catch (InterruptedException e) {
+//                e.printStackTrace();
+//            }
+//        }
+//        for(int i=0;i<25;i++)
+//        {
+//            ThreadsArray[i]= new Thread(new UrlThread());
+//            ThreadsArray[i].setName("Thread"+(i+1));
+//        }
+//        for(int i=0;i<25;i++)
+//        {
+//            ThreadsArray[i].start();
+//        }
+//        for(int i=0;i<25;i++)
+//        {
+//            try {
+//                ThreadsArray[i].join();
+//            } catch (InterruptedException e) {
+//                e.printStackTrace();
+//            }
+//        }
 
-        UrlThread.Limit=0;
-        for(int i=0;i<25;i++)
-        {
-            ThreadsArray[i]= new Thread(new UrlThread());
-            ThreadsArray[i].setName("Thread"+(i+1));
-        }
-        for(int i=0;i<25;i++)
-        {
-            ThreadsArray[i].start();
-        }
-        for(int i=0;i<25;i++)
-        {
-            try {
-                ThreadsArray[i].join();
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            }
-        }
-
-        UrlThread.Limit=200;
-        for(int i=25;i<50;i++)
-        {
-            ThreadsArray[i]= new Thread(new UrlThread());
-            ThreadsArray[i].setName("Thread"+(i+1));
-        }
-        for(int i=25;i<50;i++)
-        {
-            ThreadsArray[i].start();
-        }
-        for(int i=25;i<50;i++)
-        {
-            try {
-                ThreadsArray[i].join();
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            }
-        }
-
-        UrlThread.Limit=100;
-        for(int i=50;i<70;i++)
-        {
-            ThreadsArray[i]= new Thread(new UrlThread());
-            ThreadsArray[i].setName("Thread"+(i+1));
-        }
-        for(int i=50;i<70;i++)
-        {
-            ThreadsArray[i].start();
-        }
-        for(int i=50;i<70;i++)
-        {
-            try {
-                ThreadsArray[i].join();
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            }
-        }
+//        UrlThread.Limit=200;
+//        for(int i=25;i<50;i++)
+//        {
+//            ThreadsArray[i]= new Thread(new UrlThread());
+//            ThreadsArray[i].setName("Thread"+(i+1));
+//        }
+//        for(int i=25;i<50;i++)
+//        {
+//            ThreadsArray[i].start();
+//        }
+//        for(int i=25;i<50;i++)
+//        {
+//            try {
+//                ThreadsArray[i].join();
+//            } catch (InterruptedException e) {
+//                e.printStackTrace();
+//            }
+//        }
+//
+//        UrlThread.Limit=100;
+//        for(int i=50;i<70;i++)
+//        {
+//            ThreadsArray[i]= new Thread(new UrlThread());
+//            ThreadsArray[i].setName("Thread"+(i+1));
+//        }
+//        for(int i=50;i<70;i++)
+//        {
+//            ThreadsArray[i].start();
+//        }
+//        for(int i=50;i<70;i++)
+//        {
+//            try {
+//                ThreadsArray[i].join();
+//            } catch (InterruptedException e) {
+//                e.printStackTrace();
+//            }
+//        }
 
 
         //-------------------------------------------------------------------------------------------------------------//
@@ -151,65 +185,67 @@ public class Main {
 //        ///////////////////////////////////////////////////////
 //
             /*---------------     Start Indexing ----------------------*/
-      //   create files
-//        WorkingFiles.createInvertedFiles();
-//
-//        // connect to db
-//        DataBase connect = new DataBase();
-//
-//        // get stop words
-//        Map<Character, Vector<String>> stopWords = WorkingFiles.getStopWordsAsMap();
-//
-//        // get links from db
-//        int linksCount = connect.getCompleteCount();
-//        String[] completedLinks = connect.getAllUrls();
-//        int i = completedLinks.length;
-//
-//        // Threading
-//        int threadCount = 10,
-//                counter = 0,
-//                threadsCounter = 0,
-//                finished = 0;
-//        boolean done = false;
-//
-//        while (! done)
-//        {
-//            // creating Threads
-//            Thread[] threadsArr = new Thread[threadCount];
-//            while (counter < i && threadsCounter < threadCount)
-//            {
-//                threadsArr[threadsCounter] = new Thread(new Indexer(completedLinks[counter], stopWords, connect));
-//                threadsArr[threadsCounter].start();;
-//                counter++;
-//                threadsCounter++;
-//            }
-//            for (int j = 0; j < threadsCounter; j++)
-//            {
-//                try {
-//                    threadsArr[j].join();
-//                } catch (InterruptedException e) {
-//                    e.printStackTrace();
-//                }
-//            }
-//            done = counter == i;
-//            threadsCounter = 0;
-//            finished += threadCount;
-//            System.out.println("finished Indexing : " + finished);
-////            if (finished == 1000)
-////                done = true;
-//        }
-//
-//
-//        System.out.println("Indexing is finished :)\n");
-//
-//        // removing the empty files
-//        WorkingFiles.removeEmptyFiles();
-//        System.out.println("Removed empty files");
+         //create files
+        WorkingFiles.createInvertedFiles();
+
+        // connect to db
+        DataBase connect = new DataBase();
+
+        // get stop words
+        Map<Character, Vector<String>> stopWords = WorkingFiles.getStopWordsAsMap();
+
+        // get links from db
+        int linksCount = connect.getCompleteCount();
+        String[] completedLinks = connect.getAllUrls();
+        int i = completedLinks.length;
+
+        // Threading
+        int threadCount = 25,
+                counter = 0,
+                threadsCounter = 0,
+                finished = 0;
+        boolean done = false;
+
+        while (! done)
+        {
+            // creating Threads
+            Thread[] threadsArr = new Thread[threadCount];
+            while (counter < i && threadsCounter < threadCount)
+            {
+                threadsArr[threadsCounter] = new Thread(new Indexer(completedLinks[counter], stopWords, connect));
+                threadsArr[threadsCounter].start();;
+                counter++;
+                threadsCounter++;
+            }
+            for (int j = 0; j < threadsCounter; j++)
+            {
+                try {
+                    threadsArr[j].join();
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+            }
+            done = counter == i;
+            threadsCounter = 0;
+            finished += threadCount;
+            System.out.println("finished Indexing : " + finished);
+            System.out.println("finish " +finished);
+//            if (finished == 1000)
+//                done = true;
+        }
+
+
+        System.out.println("Indexing is finished :)\n");
+
+        // removing the empty files
+        WorkingFiles.removeEmptyFiles();
+        System.out.println("Removed empty files");
 //
 //            /*---------------     End Of Indexing ----------------------*/
 
         /*-------------------------------popularity secation------------------------*/
         //Ranker objRanker=new Ranker();
+
 
     }
 }

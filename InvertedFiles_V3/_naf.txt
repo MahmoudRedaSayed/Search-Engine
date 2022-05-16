@@ -1,2 +1,0 @@
-<nafukuje|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<naftanaila|[https://edaa.eu/who-we-are/meet-the-team,h]::1;[https://edaa.eu/who-we-are/meet-the-team,p]::1;[https://edaa.eu/news-and-resources/multimedia,s]::1;[https://edaa.eu/news-and-resources/multimedia,p]::1;

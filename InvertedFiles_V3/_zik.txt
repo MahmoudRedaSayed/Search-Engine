@@ -1,1 +1,1 @@
-<zika|[https://www.dailymail.co.uk/news/world-health-organization/index.html,h]::1;
+<zika|[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;

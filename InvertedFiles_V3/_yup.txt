@@ -1,3 +1,1 @@
-<yupik|[https://blog.archive.org,p]::2;[https://docs.google.com/document/d/1K-mKOqiUiSjgZTEscBLjtjd6E67oiK8H2ztOiq5tigk/pub,p]::1;[https://www.myenglishclub.com/blogs/movies-you-need-to-watch-because-i-say-so,p]::1;
-<yuppie|[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;
-<yupa|[https://www.myenglishclub.com/members/TimNew,p]::1;
+<yup|[https://greatist.com,p]::1;

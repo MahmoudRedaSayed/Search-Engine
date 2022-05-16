@@ -1,1 +1,0 @@
-<grpc|[https://developers.google.com/assistant/sdk/overview,p]::1;

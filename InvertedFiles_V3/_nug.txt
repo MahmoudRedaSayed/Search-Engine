@@ -1,1 +1,2 @@
-<nuggets|[http://bleacherreport.com,p]::1;[http://bleacherreport.com/nba,p]::2;[https://www.iflscience.com/environment/so-youve-stolen-from-a-national-park-and-now-feel-bad-heres-what-not-to-do,p]::1;[https://www.espn.com,h]::1;[https://www.espn.com,p]::2;[https://www.ebay.com/globaldeals/home/kitchen-dining-bar,h]::1;[https://www.chicagotribune.com/dining/reviews/ct-food-review-3-little-pigs-chinese-american-humboldt-park-20220509-v2eo2hetpzg2dc5i5zlf5pw24u-story.html#nt=related-content&rt=chartbeat-flt,p]::2;
+<nugget|[https://www.dailymail.co.uk/auhome/index.html,h]::1;
+<nuggets|[https://www.dailymail.co.uk/video/index.html,p]::1;

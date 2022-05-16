@@ -1,4 +1,3 @@
-<ovoj|[https://eo.wikipedia.org/wiki/Kuketo,p]::1;[https://sh.wikipedia.org/wiki/Cookie,p]::3;[http://www.enable-javascript.com/hr,h]::1;[http://vedrigrad.hr,p]::1;[https://www.dailymail.co.uk/money/bills/index.html,h]::1;
-<ovog|[https://sh.wikipedia.org/wiki/Cookie,p]::2;
-<ovoga|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
+<ovoj|[https://sh.wiktionary.org/wiki/interfejs,p]::1;[http://www.enable-javascript.com/hr,h]::1;
 <ovom|[http://vedrigrad.hr,p]::1;
+<ovo|[http://vedrigrad.hr,p]::1;

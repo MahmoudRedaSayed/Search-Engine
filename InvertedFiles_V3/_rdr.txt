@@ -1,0 +1,2 @@
+<rdroppingedit|[https://en.wikipedia.org/wiki/British_English,h]::1;
+<rdropping|[https://en.wikipedia.org/wiki/British_English,p]::1;[https://en.wikipedia.org/wiki/American_English,p]::2;

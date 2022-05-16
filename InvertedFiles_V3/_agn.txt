@@ -1,5 +1,1 @@
-<agnuscastus|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
-<agnostic|[https://www.everydayhealth.com/yoga,p]::1;[https://www.bbc.co.uk/accessibility/forproducts/guides/mobile,p]::1;[https://www.bbc.co.uk/gel/guidelines/how-to-design-accessible-games,p]::1;[https://bbc.github.io/gel,p]::1;
-<agnostics|[https://lifetickler.com/pure-grace-part-i-unraveling-a-radically-important-message-of-our-time,p]::1;
-<agnieszka|[https://meded.hms.harvard.edu/teaching-awards,s]::1;[https://meded.hms.harvard.edu/teaching-awards,p]::1;
-<agnes|[https://www.nytimes.com/2022/05/08/nyregion/metropolitan-diary.html,p]::1;
+<agnostic|[https://www.bbc.co.uk/accessibility/forproducts/guides/mobile,p]::1;[https://www.bbc.co.uk/gel/guidelines/how-to-design-accessible-games,p]::1;[https://bbc.github.io/gel,p]::1;

@@ -1,6 +1,3 @@
-<hicks|[https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy,p]::1;[https://lifetickler.com/parenting-tips-part2,p]::1;[https://www.nytimes.com/es,p]::1;[https://www.foxweather.com,h]::1;[https://www.nps.gov/people/lucretia-mott.htm,p]::1;[https://www.chicagotribune.com/sports/bears/ct-cb-chicago-bears-jaquan-brisker-phd-20220506-xirxzqyyongllpapwt462qwyk4-story.html#nt=interstitial-auto,p]::4;
-<hicieron|[https://www.marca.com/futbol/premier-league.html?intcmp=MENUPROD&s_kw=premier-league,h]::1;
-<hicimos|[https://www.marca.com/futbol/champions-league.html?intcmp=MENUPROD&s_kw=futbol-champions-league,h]::1;
-<hiccups|[http://kidshealth.org/en/kids,p]::1;
-<hickey|[https://newsroom.loc.gov/news/library-of-congress-acquires-papers-of-award-winning-playwright-neil-simon/s/ef170337-5bc8-461d-acf0-dd360597896d,p]::1;
-<hicksite|[https://www.nps.gov/people/elizabeth-cady-stanton.htm,p]::1;
+<hickey|[https://www.skysports.com/,h]::1;[https://en.wikipedia.org/wiki/Object-oriented_programming,p]::1;
+<hicieron|[https://www.marca.com/tiramillas/television/2021/10/19/616ead5e22601d8c0d8b4615.html,p]::1;[https://co.marca.com/claro/?intcmp=BOTONPORTADA&s_kw=portada,p]::1;[https://ar.marca.com/claro/?intcmp=BOTONPORTADA&s_kw=portada,p]::1;
+<hicimos|[https://www.marca.com/claro-mx/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;

@@ -1,2 +1,1 @@
-<mbsr|[https://www.everydayhealth.com/abdominal-pain/guide,h]::1;[https://sky.com/tvandbroadband,p]::6;[https://www.sky.com/broadband,p]::11;[https://www.sky.com/business/broadband,p]::9;[https://www.ebay.com/globaldeals/tech,h]::1;[https://www.ebay.com/globaldeals/tech/memory-drives-storage,h]::1;
-<mbshares|[https://www.cdc.gov/coronavirus/2019-ncov/php/index.html,p]::1;
+<mbs|[https://www.sky.com/broadband,p]::11;[https://sky.com/tvandbroadband,p]::6;[https://www.sky.com/business/broadband,p]::9;

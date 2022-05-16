@@ -1,2 +1,0 @@
-<fll|[http://edbrowse.org/usersguide.html#cook,p]::3;
-<fllow|[https://www.tlcdirect.org,p]::1;

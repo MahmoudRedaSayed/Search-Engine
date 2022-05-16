@@ -1,8 +1,1 @@
-<gedaan|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;[https://onlinecasino-now.nl/casino-software/netent,p]::1;
-<geddes|[https://lifetickler.com/natural-light-photography-illuminating-the-beauty-of-the-basics,p]::1;
-<gediget|[https://onlinecasino-now.se,s]::1;
-<gedetailleerde|[https://casino-now.be,p]::2;[https://onlinecasino-now.nl/casino-reviews,s]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::1;[https://onlinecasino-now.nl/casino-software/netent,p]::2;
-<gedeelte|[https://onlinecasino-now.nl/casino-reviews/playamo,s]::1;
-<gedanken|[https://casino-now.at/casino-software/netent,p]::1;
-<geduld|[https://casino-now.at/casino-software/netent,p]::1;
-<gedit|[https://www.geeksforgeeks.org/perl-programming-language/?ref=ghm,p]::1;
+<ged|[https://www.dailymail.co.uk/sport/index.html,s]::1;

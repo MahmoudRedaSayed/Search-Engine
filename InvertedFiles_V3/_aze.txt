@@ -1,4 +1,3 @@
-<azevedo|[https://www.nature.com/scitable/blog/brain-metrics/are_there_really_as_many,p]::1;
-<azerbaiyán|[https://www.marca.com/motor/formula1/calendario.html,h]::1;
-<azerbaijan•|[https://commons.wikimedia.org/wiki/Atlas_of_Australia,p]::1;[https://www.nytimes.com/live/2022/05/09/us/midterms-primary-elections-nebraska,p]::1;
-<azeen|[https://www.nytimes.com/2022/05/05/well/clean-disinfect-home-germs.html,p]::1;
+<azerbaijani|[https://simple.wikipedia.org,p]::2;
+<azerbaiyán|[https://www.marca.com/tiramillas/musica/2022/05/13/627e964a46163f496a8b45f8.html,s]::1;[https://www.marca.com/motor/formula1/calendario.html,h]::1;
+<aze|[https://www.marca.com/esports.html,h]::1;

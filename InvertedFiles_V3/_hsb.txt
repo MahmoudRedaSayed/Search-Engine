@@ -1,1 +1,1 @@
-<hsbc|[https://lifetickler.com/online-banking-smartphone,p]::1;[https://www.dailymail.co.uk/money/saving/index.html,s]::1;[https://www.dailymail.co.uk/money/saving/index.html,p]::1;[https://www.dailymail.co.uk/money/experts/index.html,h]::2;[https://www.hearst.com/hearst-health,p]::1;
+<hsbc|[https://www.dailymail.co.uk/money/index.html,p]::1;

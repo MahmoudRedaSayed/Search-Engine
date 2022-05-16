@@ -1,0 +1,2 @@
+<gcoprivacytools|[https://policies.google.com/technologies/cookies?en_US=en,p]::2;
+<gcoadsettings|[https://policies.google.com/technologies/cookies?en_US=en,p]::1;

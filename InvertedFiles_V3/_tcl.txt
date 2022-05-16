@@ -1,1 +1,2 @@
-<tcltk|[https://www.tutorialspoint.com/tutorialslibrary.htm,p]::1;[https://discountcode.dailymail.co.uk/currys,h]::1;
+<tcltk|[https://www.tutorialspoint.com/tutorialslibrary.htm,p]::1;
+<tcl|[https://discountcode.dailymail.co.uk/currys,h]::1;

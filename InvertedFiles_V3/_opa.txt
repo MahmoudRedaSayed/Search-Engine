@@ -1,9 +1,2 @@
-<opaque|[https://blog.archive.org,p]::1;[http://catb.org/jargon/html/M/magic-cookie.html,p]::1;[http://www.cookiecentral.com/faq,p]::1;[https://www.nytimes.com/2022/05/08/opinion/tiktok-twitter-china-bytedance.html,p]::1;
-<opals|[https://www.dailymail.co.uk/sport/othersports/index.html,h]::1;[https://www.imdb.com/search/name/?match_all=true&ref_=nv_cel_m,p]::1;[https://www.ebay.com/globaldeals/fashion/fashion-jewelry,h]::1;[https://www.ebay.com/globaldeals/home/kitchen-dining-bar,h]::1;
-<opatrovníky|[https://disneytermsofuse.com/czech,p]::1;
-<opatrovníka|[https://disneytermsofuse.com/czech,p]::1;
-<opakovaně|[https://disneytermsofuse.com/czech,p]::1;
-<opatření|[https://disneytermsofuse.com/czech,p]::1;
-<oparciu|[https://disneytermsofuse.com/polish,p]::1;
-<oparty|[https://kasyno-now.com,p]::1;
-<oparta|[https://kasyno-now.com/recenzja/woo,p]::1;
+<opaque|[https://blog.archive.org,p]::1;
+<opacity|[https://bbc.github.io/subtitle-guidelines,p]::1;

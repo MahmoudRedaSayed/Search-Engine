@@ -1,7 +1,1 @@
-<fein|[https://www.dailymail.co.uk,h]::1;[https://www.france24.com,p]::1;[https://www.dailymail.co.uk/sciencetech/twitter/index.html,h]::1;
-<feinman|[https://www.everydayhealth.com/diet-nutrition/atkins-diet.aspx,p]::3;
-<feinmans|[https://www.everydayhealth.com/diet-nutrition/atkins-diet.aspx,p]::1;
-<feisty|[https://bbc.in/3zDE6sk,h]::1;
-<feit|[https://onlinecasino-now.nl/casino-software/netent,p]::1;
-<feinberg|[https://historyhub.history.gov/community/crowd-loc/blog?start=15,p]::1;[https://www.nytimes.com/article/birth-control-options.html,p]::1;[https://www.ft.com/content/2e4bac38-76f4-11e9-b0ec-7dff87b9a4a2,p]::1;
-<feinsteins|[https://www.nytimes.com/live/2022/05/09/theater/tony-awards,p]::1;[https://www.nytimes.com/2022/05/09/us/politics/ukraine-steel-tariffs.html,p]::1;
+<fein|[https://www.dailymail.co.uk,p]::1;

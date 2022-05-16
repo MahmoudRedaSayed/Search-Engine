@@ -1,5 +1,0 @@
-<uznać|[https://disneytermsofuse.com/polish,p]::2;
-<uznaje|[https://disneytermsofuse.com/polish,p]::2;
-<uznania|[https://disneytermsofuse.com/polish,p]::1;
-<uznany|[https://disneytermsofuse.com/polish,p]::1;
-<uznane|[https://disneytermsofuse.com/polish,p]::4;

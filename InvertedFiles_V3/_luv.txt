@@ -1,3 +1,0 @@
-<luvattomalla|[https://disneytermsofuse.com/finnish,p]::2;
-<luvattomasta|[https://disneytermsofuse.com/finnish,p]::1;
-<luvattomalta|[https://disneytermsofuse.com/finnish,p]::1;

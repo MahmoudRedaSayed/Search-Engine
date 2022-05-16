@@ -1,1 +1,1 @@
-<nvda|[https://accounts.accessibe.com/statement/?domain=academicinfo.net,p]::1;
+<nvda|[https://www.bbc.co.uk/sounds/help/questions/about-bbc-sounds-and-our-policies/accessibility-info,p]::1;

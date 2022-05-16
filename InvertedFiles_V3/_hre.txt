@@ -1,11 +1,2 @@
-<hrefhttpsbnaawwebsitea|[http://www.archive-it.org,p]::1;[https://blog.openlibrary.org/2022/04/27/a-high-schoolers-experience-contributing-to-the-open-book-genome-project,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/cografi-hedef-yapilandirmasi,s]::1;
+<hrefhttpsbnaawwebsitea|[http://www.archive-it.org,p]::1;
 <hrefhttpsbnaawdigitaldigital|[http://www.archive-it.org,p]::1;
-<hrefhttpwwwtutorialspointcomtutorials|[https://www.tutorialspoint.com/about/about_helping.htm,p]::1;
-<hreflang|[https://www.ugureskici.com/notlarim-makalelerim/cografi-hedef-yapilandirmasi,s]::1;[https://www.ugureskici.com/notlarim-makalelerim/cografi-hedef-yapilandirmasi,p]::1;
-<hreflangx|[https://www.ugureskici.com/notlarim-makalelerim/cografi-hedef-yapilandirmasi,p]::1;
-<hrefalternateurl|[https://www.ugureskici.com/notlarim-makalelerim/cografi-hedef-yapilandirmasi,p]::1;
-<hrefhttpswwwugureskicicom|[https://www.ugureskici.com/notlarim-makalelerim/cografi-hedef-yapilandirmasi,p]::1;
-<hreflangtrtr|[https://www.ugureskici.com/notlarim-makalelerim/cografi-hedef-yapilandirmasi,p]::1;
-<hrefhttpswwwugureskicicomen|[https://www.ugureskici.com/notlarim-makalelerim/cografi-hedef-yapilandirmasi,p]::1;
-<hreflangenus|[https://www.ugureskici.com/notlarim-makalelerim/cografi-hedef-yapilandirmasi,p]::1;
-<hrefcssbootstrapmincss|[https://www.geeksforgeeks.org/bootstrap-tutorials/?ref=ghm,p]::1;

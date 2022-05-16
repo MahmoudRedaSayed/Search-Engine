@@ -1,3 +1,0 @@
-<eaca|[https://eaca.eu,t]::2;[https://eaca.eu,h]::2;[https://eaca.eu,s]::1;[https://eaca.eu,p]::8;
-<eaca￼|[https://eaca.eu,h]::1;
-<eacas|[https://eaca.eu,p]::1;

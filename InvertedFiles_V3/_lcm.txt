@@ -1,2 +1,0 @@
-<lcm|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,p]::2;[https://www.geeksforgeeks.org/mathematical-algorithms/?ref=ghm,s]::1;[https://www.geeksforgeeks.org/mathematical-algorithms/?ref=ghm,p]::1;[http://www.math4children.com/downloads.html,p]::1;[https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/?ref=ghm,s]::1;
-<lcme|[https://hms.harvard.edu/about-hms/lcme-accreditation,t]::1;[https://hms.harvard.edu/about-hms/lcme-accreditation,h]::1;[https://hms.harvard.edu/about-hms/lcme-accreditation,p]::6;

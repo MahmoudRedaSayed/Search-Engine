@@ -1,6 +1,1 @@
-<pui|[https://hub.mph.in.gov/dataset?q=COVID,h]::1;
-<puigcerda|[https://www.marca.com/deportes-invierno.html?intcmp=MENUPROD&s_kw=deportes-invierno,h]::1;[https://meded.hms.harvard.edu/residents-and-fellows-teaching-portal,p]::1;[https://meded.hms.harvard.edu/teaching-awards,p]::2;
-<puigdemont|[https://www.marca.com/olimpismo.html?intcmp=MENUPROD&s_kw=olimpismo,h]::1;
-<puissance|[https://www.lequipe.fr/Esport,h]::1;
-<puistonpenkillä|[https://netticasino-now.com/arvostelut,p]::1;
-<puisje|[https://icones8.fr/animated-icons,h]::2;
+<puig|[https://www.marca.com,h]::1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]::1;[https://www.marca.com/motor.html?intcmp=MENUPROD&s_kw=motor,h]::1;[https://www.marca.com/ultimas-noticias.html?intcmp=MENUDEST&s_kw=ultimas-noticias,h]::1;[https://www.marca.com?intcmp=MENUMIGA&s_kw=home,h]::1;[https://www.marca.com/futbol/primera-division/2022/05/15/6280d88e37ff7b0023a23044-directo.html,s]::1;[https://www.marca.com/futbol/primera-division/2022/05/15/6280d88e37ff7b0023a23044-directo.html,p]::1;

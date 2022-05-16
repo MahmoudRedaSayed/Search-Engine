@@ -1,3 +1,2 @@
-<udruga|[http://toni.podmanicki.com,p]::2;[http://vedrigrad.hr,t]::1;[http://vedrigrad.hr,p]::1;[https://accessibility.harvard.edu,s]::1;[https://accessibility.harvard.edu,p]::4;
+<udruga|[http://toni.podmanicki.com,p]::2;[http://vedrigrad.hr,t]::1;[http://vedrigrad.hr,p]::1;
 <udruge|[http://vedrigrad.hr,p]::3;
-<udržováním|[https://disneytermsofuse.com/czech,p]::1;

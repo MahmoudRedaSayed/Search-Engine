@@ -1,3 +1,2 @@
 <crl|[http://www.archive-it.org,p]::3;
 <crls|[http://www.archive-it.org,p]::1;
-<crlf|[http://edbrowse.org/usersguide.html#cook,p]::1;[https://web.archive.org/web/20170316024448/http:/edbrowse.org/usersguide.html#cook,p]::1;

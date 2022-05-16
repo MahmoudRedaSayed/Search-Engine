@@ -1,4 +1,0 @@
-<myndighet|[https://disneytermsofuse.com/norwegian,p]::1;
-<myndige|[https://casino-now.dk/anmeldelser,p]::1;[https://norskcasino-now.com/anmeldelser,p]::1;
-<myndvr|[https://www.nytimes.com/2022/05/06/well/mind/virtual-reality-therapy-seniors.html,p]::2;
-<myntra|[https://www.geeksforgeeks.org/internship-interview-experiences-company-wise/?ref=ghm,s]::1;[https://www.geeksforgeeks.org/internship-interview-experiences-company-wise/?ref=ghm,p]::1;

@@ -1,4 +1,2 @@
-<fiji|[https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases,p]::2;[https://kids.kiddle.co/History_of_Australia,p]::1;[https://www.foxnews.com/foxaroundtheworld,s]::1;
-<fijarse|[https://co.marca.com/claro/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;[https://www.marca.com/futbol/liga-portuguesa.html?intcmp=MENUPROD&s_kw=primeira-liga-portugal,h]::1;
-<fijos|[https://www.marca.com/futbol/mexico.html?intcmp=MENUPROD&s_kw=futbol-mexico,h]::1;
-<fiji•|[https://commons.wikimedia.org/wiki/Atlas_of_Australia,p]::1;
+<fijo|[https://us.marca.com/actualidad/2022/05/12/627c720922601da03c8b45c2.html,p]::2;
+<fijos|[https://www.marca.com/futbol/real-madrid/2022/05/15/627fbbdb46163fee128b456d.html,p]::1;

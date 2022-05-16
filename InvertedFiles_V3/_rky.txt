@@ -1,3 +1,0 @@
-<rkybarragan|[https://www.congress.gov,p]::1;[https://www.foxnews.com/media,p]::1;[https://www.foxnews.com/politics,p]::2;[https://www.foxnews.com/category/politics/executive,p]::1;[https://www.foxnews.com/media/james-comer-hunter-biden-national-security-risk-president-business-dealings,p]::3;[https://www.foxnews.com/politics/hunter-biden-working-with-hollywood-lawyer-to-investigate-laptop-leak-report,p]::1;
-<rkyconnolly|[https://www.congress.gov,p]::1;
-<rkyharder|[https://www.congress.gov,p]::1;

@@ -1,8 +1,1 @@
-<mehta|[https://www.tutorialspoint.com/entity_framework/index.htm,p]::1;
-<mehrere|[https://de.wikipedia.org/wiki/HTTP-Cookie,p]::1;[https://casino-now.at/casino-bewertung,p]::1;[https://casino-now.at/casino-bewertung/woo,s]::2;[https://casino-now.at/casino-bewertung/woo,p]::3;[https://swiss-casino-now.com/casino-software/netent,p]::1;[https://casino-now.at/casino-software/netent,p]::3;[https://onlinecasino-now.de/casino-software/netent,p]::1;[https://icons8.de/animated-icons,h]::1;[https://icons8.de/animated-icons,p]::5;
-<mehanizam|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
-<mehmet|[https://www.ugureskici.com/notlarim-makalelerim/digitalzone-2017-kimler-geldi-kimler-gecti-ne-ogrendik,s]::1;[https://www.ugureskici.com/notlarim-makalelerim/digitalzone-2017-kimler-geldi-kimler-gecti-ne-ogrendik,p]::2;[https://www.foxnews.com/category/politics/senate,p]::1;[https://www.nytimes.com/2022/05/09/opinion/sometimes-history-goes-backward.html,p]::1;
-<mehmetin|[https://www.ugureskici.com/notlarim-makalelerim/digitalzone-2017-kimler-geldi-kimler-gecti-ne-ogrendik,p]::1;
-<mehrwert|[https://swiss-casino-now.com/casino-bewertung/woo-casino,p]::1;[https://casino-now.at/casino-bewertung/woo,p]::1;[https://swiss-casino-now.com/casino-bewertung/spin-casino,p]::1;[https://swiss-casino-now.com/casino-software/netent,p]::1;[https://casino-now.at/casino-software/netent,p]::1;
-<mehdi|[https://www.foxnews.com/media/lawmakers-biden-cancel-student-loan-debt-crazy-idea,p]::1;
-<mehreren|[https://icons8.de/animated-icons,p]::1;
+<mehr|[https://olympics.com/de,h]::1;[https://olympics.com/de,p]::1;

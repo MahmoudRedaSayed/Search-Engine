@@ -1,2 +1,0 @@
-<eglises|[https://www.acte.be,p]::1;
-<egler|[https://nautil.us/topics/philosophy,p]::1;

@@ -1,3 +1,4 @@
 <gwersi|[https://www.bbc.co.uk/bitesize,p]::1;
-<gwen|[https://www.dailymail.co.uk/usshowbiz/index.html,s]::1;[https://newsroom.loc.gov/news/library-of-congress-acquires-papers-of-award-winning-playwright-neil-simon/s/ef170337-5bc8-461d-acf0-dd360597896d,p]::1;
-<gwenn|[https://www.iflscience.com/environment/so-youve-stolen-from-a-national-park-and-now-feel-bad-heres-what-not-to-do,p]::1;
+<gwendolyn|[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;
+<gwen|[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;
+<gwent|[https://www.dailymail.co.uk/health/index.html,p]::1;

@@ -1,1 +1,0 @@
-<ebxml|[https://www.tutorialspoint.com/latest_technologies.htm,p]::1;

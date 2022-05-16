@@ -1,3 +1,1 @@
-<tce|[https://www.marca.com/coches-y-motos.html?intcmp=MENUPROD&s_kw=marca-coches,h]::1;[https://www.thecanadianencyclopedia.ca/en,p]::1;
-<tcea|[https://www.edtechdigest.com/events,p]::1;
-<tcell|[https://meded.hms.harvard.edu/soma-weiss-student-research-day,p]::1;
+<tce|[https://www.marca.com/coches-y-motos.html?intcmp=MENUPROD&s_kw=marca-coches,h]::1;

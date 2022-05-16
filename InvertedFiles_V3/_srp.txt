@@ -1,2 +1,3 @@
-<srp|[https://seer.cancer.gov/statfacts/html/all.html,p]::2;[https://seer.cancer.gov/statfacts/html/ovary.html,p]::2;
-<srpska•|[https://commons.wikimedia.org/wiki/Atlas_of_Australia,p]::1;
+<srpski|[https://simple.wikipedia.org,p]::1;
+<srpskohrvatski|[https://simple.wikipedia.org,p]::1;
+<srpskohrvatskiuredi|[https://sh.wiktionary.org/wiki/interfejs,h]::1;

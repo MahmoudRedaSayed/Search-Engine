@@ -1,3 +1,1 @@
-<snyde|[https://da.wikipedia.org/wiki/Cookie,p]::1;[https://casino-now.dk,h]::1;[https://www.nydailynews.com,p]::1;
-<snyder|[https://www.foxnews.com/sports,p]::1;
-<snyg|[https://www.ebay.com/globaldeals/tech/tv-video-home-audio,h]::1;
+<snyder|[https://buhomag.elmundo.es,h]::2;[https://buhomag.elmundo.es,p]::1;

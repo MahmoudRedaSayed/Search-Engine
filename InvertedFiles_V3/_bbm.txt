@@ -1,1 +1,2 @@
-<bbm|[https://www.nytimes.com/2022/05/01/world/asia/philippines-election-marcos-robredo.html,p]::2;
+<bbmas|[https://www.dailymail.co.uk/ushome/index.html,p]::2;[https://www.dailymail.co.uk/video/index.html,p]::1;
+<bbma|[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://www.dailymail.co.uk/auhome/index.html,s]::1;

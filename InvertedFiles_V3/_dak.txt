@@ -1,7 +1,2 @@
-<dakota|[http://www.archive-it.org,p]::3;[https://www.dailymail.co.uk/news/world-health-organization/index.html,h]::1;[https://www.sciencenewsforstudents.org/topic/animals,p]::1;[https://www.foxnews.com/media,p]::1;[https://www.foxbusiness.com,h]::1;[https://www.nytimes.com/2022/05/09/arts/television/american-song-contest-final.html,p]::2;
-<dakshina|[https://www.tutorix.com,p]::2;[https://www.geeksforgeeks.org/campus-geek-of-the-month/?ref=ghm,p]::1;
-<dakle|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
-<dakik|[https://www.ugureskici.com/hakkimda,p]::1;
-<dakikalık|[https://www.ugureskici.com/gezdim-gordum/italya,p]::1;
-<dakwaan|[https://disneytermsofuse.com/bahasa-malaysia,p]::1;
-<dakotaon|[https://www.dailywritingtips.com/passed-vs-past,s]::1;
+<dakshina|[https://www.tutorix.com,p]::2;
+<dakota|[https://www.dailymail.co.uk/health/index.html,p]::1;[http://www.archive-it.org,p]::3;[https://www.sciencenewsforstudents.org/topic/animals,p]::1;

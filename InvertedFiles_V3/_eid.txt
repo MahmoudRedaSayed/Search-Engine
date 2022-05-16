@@ -1,3 +1,1 @@
-<eidevall|[https://www.dailymail.co.uk/sport/index.html,h]::1;[https://www.dailymail.co.uk/sport/football/index.html,h]::1;[http://todaysdocument.tumblr.com,h]::2;[https://kidskonnect.com/social-studies/stolen-generation,p]::1;[https://www.cdc.gov/coronavirus/2019-ncov/science/science-and-research.html,p]::1;[https://www.nytimes.com/section/todayspaper,h]::2;[https://www.myenglishclub.com/videos/fishes,s]::1;[https://www.myenglishclub.com/videos/fishes,p]::1;
-<eidetic|[https://www.iflscience.com/brain,h]::1;
-<eidgenössischen|[https://swiss-casino-now.com,h]::1;
+<eidetic|[https://www.iflscience.com/brain,h]::1;[https://www.iflscience.com/brain,p]::1;

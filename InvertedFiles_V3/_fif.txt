@@ -1,14 +1,3 @@
-<fiftyyear|[https://www.everydayhealthgroup.com,p]::1;
-<fiftyfifty|[https://www.everydayhealth.com/cancer/risk-genes-everything-you-need-know-about-brca1-brca2,p]::1;
-<fifties|[https://www.everydayhealth.com/womens-health/hormones/history-hormone-therapy,p]::3;[https://thekingcenter.org/about-mrs-king,p]::1;
-<fifthleading|[https://www.cancer.gov/news-events/cancer-currents-blog/2020/ovarian-cancer-racial-disparities-studies,p]::1;
-<fifa|[https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=mundial-2022,h]::1;[https://www.marca.com/futbol/copa-rey.html?intcmp=MENUPROD&s_kw=futbol-copa-rey,h]::1;[https://www.marca.com/futbol/mundial.html?intcmp=MENUPROD&s_kw=mundial-2022,h]::1;[https://www.marca.com/futbol/mexico.html?intcmp=MENUPROD&s_kw=futbol-mexico,h]::1;[https://www.lequipe.fr/Esport,t]::1;[https://www.nytimes.com/2022/05/05/sports/soccer/chile-ecuador-byron-castillo.html,p]::9;
-<fifthlargest|[https://www.hearst.com/newspapers,p]::1;
-<fifteenth|[https://reagan.blogs.archives.gov,p]::3;[https://www.history.com/tag/canada,p]::1;[https://www.geeksforgeeks.org/cbse-class-11-physics-notes/?ref=ghm,p]::1;
-<fiftythree|[https://historyhub.history.gov/thread/3059,p]::1;
-<fifthyear|[https://insights.stackoverflow.com/survey/2021,p]::1;
-<fifthgeneration|[https://www.foxnews.com/category/us/digital-originals,p]::1;
-<fifteenyearold|[https://www.foxnews.com/category/tech/topics/innovation,p]::1;
-<fiftysix|[https://www.nytimes.com/2022/04/13/world/asia/philippines-marcos-president-election.html,p]::1;
-<fifo|[https://www.geeksforgeeks.org/must-do-coding-questions-for-product-based-companies/?ref=ghm,p]::1;[https://www.geeksforgeeks.org/queue-data-structure/?ref=ghm,p]::1;
-<fifthinning|[https://www.chicagotribune.com/sports/cubs/ct-chicago-cubs-seiya-suzuki-20220508-brn6scutbjdelavtbfznpvrmsy-story.html#nt=related-content&rt=chartbeat-flt,p]::1;
+<fifa|[https://www.marca.com,h]::1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]::1;[https://www.marca.com/futbol.html?intcmp=MENUPROD&s_kw=futbol,h]::1;[https://www.marca.com?intcmp=MENUMIGA&s_kw=home,h]::1;[https://www.dailymail.co.uk/travel/index.html,h]::1;[https://www.dailymail.co.uk/travel/index.html,p]::1;
+<fifties|[https://www.dailymail.co.uk/health/index.html,p]::1;
+<fiftyfifty|[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;

@@ -1,3 +1,1 @@
-<paf|[https://www.everydayhealth.com/cancer/guide,s]::1;[https://www.everydayhealth.com/cancer/guide,p]::2;[https://www.everydayhealth.com/cancer/living-with/how-keep-friendships-strong-while-being-treated-cancer,s]::1;[https://www.everydayhealth.com/cancer/living-with/how-keep-friendships-strong-while-being-treated-cancer,p]::2;[https://www.patientadvocate.org,h]::3;[https://www.patientadvocate.org,p]::4;
-<paf…|[https://www.patientadvocate.org,h]::1;
-<pafsage|[https://historyhub.history.gov/community/crowd-loc/blog?start=15,p]::1;
+<paf|[https://www.everydayhealth.com/cancer/guide,s]::1;[https://www.everydayhealth.com/cancer/guide,p]::2;

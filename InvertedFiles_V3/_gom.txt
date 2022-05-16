@@ -1,4 +1,4 @@
-<gomez|[https://www.cancer.gov/news-events/cancer-currents-blog/2020/ovarian-cancer-racial-disparities-studies,p]::1;[https://www.dailymail.co.uk/news/joe-biden/index.html,h]::1;[https://www.goal.com/en/lists/nxgn-2016-best-wonderkids/ugt5ciaielx911wusivtpvw6p,h]::1;[https://www.dailymail.co.uk/news/kamala-harris/index.html,h]::3;[https://www.dailymail.co.uk/usshowbiz/index.html,s]::1;[https://www.nytimes.com/live/2022/05/09/us/midterms-primary-elections-nebraska,p]::2;[https://www.foxnews.com/us/de-blasio-ouster-four-white-nypd-chiefs-diversity-lawsuit,p]::2;
-<gomes|[https://www.goal.com/en/lists/nxgn-2017-best-wonderkids/1s31weojaayp31xxxt1jmf27l7,h]::2;
-<gompel|[http://medprofvideos.mayoclinic.org,p]::1;
-<gomperts|[https://www.nytimes.com/2022/05/09/upshot/abortion-pills-medication-roe-v-wade.html,p]::1;
+<gomes|[https://www.dailymail.co.uk/ushome/index.html,p]::1;[https://www.dailymail.co.uk/auhome/index.html,p]::1;
+<gomas|[https://www.marca.com/tiramillas/television/2022/05/15/6280dbe322601d476b8b4580.html,p]::1;
+<gomez|[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://www.dailymail.co.uk/auhome/index.html,h]::1;[https://www.dailymail.co.uk/auhome/index.html,s]::1;[https://www.dailymail.co.uk/auhome/index.html,p]::1;[https://www.dailymail.co.uk/health/index.html,p]::1;
+<gomera|[https://www.dailymail.co.uk/travel/index.html,p]::1;

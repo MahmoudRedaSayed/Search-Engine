@@ -1,4 +1,1 @@
-<heuristic|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653668,p]::1;
-<heuristics|[https://www.w3.org/P3P/Overview.html,p]::1;
-<heutzutage|[https://casino-now.at/casino-bewertung/woo,p]::1;[https://swiss-casino-now.com/casino-software/netent,p]::3;[https://casino-now.at/casino-software/netent,p]::2;
-<heute|[https://swiss-casino-now.com/casino-software/netent,p]::2;[https://casino-now.at/casino-software/netent,p]::2;[http://de.talkenglish.com,p]::1;
+<heuristic|[https://bbc.github.io/subtitle-guidelines,p]::1;

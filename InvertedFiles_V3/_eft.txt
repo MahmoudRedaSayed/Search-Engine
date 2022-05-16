@@ -1,4 +1,1 @@
-<efta|[https://twitter.com/tos,p]::2;[https://twitter.com/privacy,p]::8;[https://kasyno-now.com,p]::1;
-<efter|[https://da.wikipedia.org/wiki/Cookie,p]::1;[https://sv.wikipedia.org/wiki/Webbkaka,p]::1;[https://disneytermsofuse.com/danish,p]::1;[https://onlinecasino-now.se,s]::1;
-<eftir|[https://is.wikipedia.org/wiki/Vafrakaka,p]::1;
-<eftersom|[https://sv.wikipedia.org/wiki/Webbkaka,p]::1;
+<efta|[https://twitter.com/tos,p]::7;[https://twitter.com/privacy,p]::10;[https://help.twitter.com/safety-and-security/data-through-partnerships,p]::5;[https://help.twitter.com/rules-and-policies/data-processing-legal-bases,p]::27;

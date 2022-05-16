@@ -1,2 +1,0 @@
-<xss|[https://en.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://web.archive.org/web/20131209210402/http:/news.cnet.com/8301-10789_3-9918582-57.html,p]::3;[https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie2,p]::1;[https://www.netsparker.com/blog/web-security/same-site-cookie-attribute-prevent-cross-site-request-forgery,h]::1;[https://venturebeat.com/2020/05/19/google-chrome-83,p]::2;[https://sh.wikipedia.org/wiki/Cookie,p]::1;
-<xssr|[https://www.ebay.com/globaldeals/home/tools,h]::1;

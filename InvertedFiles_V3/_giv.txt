@@ -1,8 +1,1 @@
-<givne|[https://da.wikipedia.org/wiki/Cookie,p]::1;
-<giver|[https://da.wikipedia.org/wiki/Cookie,p]::1;[https://disneytermsofuse.com/danish,p]::1;
-<givefalse|[https://lifetickler.com/why-lottery-should-be-taken-more-positively,p]::1;
-<givingnemoursorg|[https://secure.qgiv.com/event/931769,p]::1;
-<giveaways|[https://www.playground.ca,h]::1;
 <giveyou|[https://support.apple.com/kb/HT203033,p]::1;
-<givetoassist|[https://meded.hms.harvard.edu,p]::1;
-<giveyour|[https://icons8.com/our-business-model,p]::1;

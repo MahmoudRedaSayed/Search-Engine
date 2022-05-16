@@ -1,8 +1,1 @@
-<seja|[https://24x7mag.com/professional-development/education/the-cookie-that-would-not-crumble,p]::1;
-<sejumlah|[https://id.wikipedia.org/wiki/Kuki,p]::1;
-<sejarah|[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::1;
-<sejnowski|[https://www.frontiersin.org/articles/10.3389/fnana.2014.00015/full,p]::1;
-<sejak|[https://disneytermsofuse.com/bahasa-indonesia,p]::1;
-<sejenis|[https://disneytermsofuse.com/bahasa-indonesia,p]::1;
-<sejam|[https://disneytermsofuse.com/brazilian-portuguese,p]::2;[https://www.mayoclinic.org/portugues,p]::1;
-<sejajar|[https://disneytermsofuse.com/bahasa-malaysia,p]::1;
+<sejuegaengetafe|[https://www.marca.com/futbol/primera-division/2022/05/15/6280d88e37ff7b0023a23044-directo.html,p]::1;

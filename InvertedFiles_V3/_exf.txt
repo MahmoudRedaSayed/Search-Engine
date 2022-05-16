@@ -1,7 +1,4 @@
-<exfoliation|[https://www.everydayhealth.com/psoriasis/guide,p]::1;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::2;[https://www.healthline.com/program/acne-prone-skin-a-game-plan,p]::1;
-<exfoliating|[https://www.everydayhealth.com/wellness,h]::1;[https://www.healthline.com/program/acne-prone-skin-a-game-plan,p]::2;
-<exfoliate|[https://www.healthline.com/program/acne-prone-skin-a-game-plan,p]::1;
-<exfiancées|[https://www.dailymail.co.uk/femail/index.html,h]::1;
-<exfootballer|[https://www.dailymail.co.uk/news/adelaide/index.html,h]::1;[https://www.dailymail.co.uk/travel/travelreviewshub/celebrity-travel.html,h]::1;
-<exfoliator|[https://www.dailymail.co.uk/mail-best/index.html,h]::1;
-<exfda|[https://www.dailymail.co.uk/news/dr-anthony-fauci/index.html,h]::1;
+<exfoliating|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;[https://www.everydayhealth.com/wellness,h]::1;
+<exfiancé|[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;
+<exfoliation|[https://www.everydayhealth.com/psoriasis/guide,p]::1;
+<exfutbolista|[https://www.marca.com/ultimas-noticias.html?intcmp=MENUDEST&s_kw=ultimas-noticias,h]::1;

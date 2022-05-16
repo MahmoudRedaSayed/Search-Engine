@@ -1,2 +1,1 @@
-<yulias|[https://www.migraineagain.com,h]::1;
-<yulen|[https://www.imdb.com/search/name/?match_all=true&ref_=nv_cel_m,p]::1;
+<yulo|[https://olympics.com/en,h]::1;

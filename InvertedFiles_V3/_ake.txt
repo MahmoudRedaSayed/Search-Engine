@@ -1,4 +1,3 @@
+<akerman|[https://www.sensesofcinema.com/category/great-directors,h]::1;[https://www.sensesofcinema.com/special-dossiers,h]::6;
+<akermans|[https://www.sensesofcinema.com/special-dossiers,h]::4;
 <aketogenicdiet|[https://www.everydayhealth.com/diet-nutrition/ketogenic-diet,p]::1;
-<aketodiet|[https://www.everydayhealth.com/diet-nutrition/diet/low-carb-diet-beginners-guide-food-list-meal-plan-tips,p]::1;
-<akey|[https://nautil.us/how-we-learned-to-love-neanderthalsand-a-lot-of-other-hominids-too-11462,p]::4;
-<akerstrom|[http://fordlibrarymuseum.tumblr.com,p]::2;

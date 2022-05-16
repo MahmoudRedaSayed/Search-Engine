@@ -1,6 +1,0 @@
-<ophalen|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::1;
-<ophæve|[https://disneytermsofuse.com/danish,p]::2;
-<ophavsretligt|[https://disneytermsofuse.com/danish,p]::2;[https://casino-now.dk/anmeldelser,p]::1;
-<ophthalmology|[https://www.mayoclinic.org/medical-professionals/publications,h]::1;[http://medprofvideos.mayoclinic.org,p]::1;[https://meded.hms.harvard.edu/news-events,p]::1;[https://meded.hms.harvard.edu/admissions-who-we-are,p]::1;[https://meded.hms.harvard.edu/student-research,p]::2;[https://meded.hms.harvard.edu/meet-our-students,p]::1;[https://hms.harvard.edu/education-admissions/graduation,p]::1;[https://hms.harvard.edu/news/belonging-halls-medicine,p]::1;[https://meded.hms.harvard.edu/alumni-friends,p]::1;
-<ophthalmologyrelated|[https://www.mayoclinic.org/medical-professionals/publications,p]::1;
-<ophelias|[https://www.nytimes.com/2022/05/06/arts/music/hamlet-metropolitan-opera.html,p]::3;

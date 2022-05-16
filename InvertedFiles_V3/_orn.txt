@@ -1,4 +1,4 @@
-<ornaments|[https://www.iflscience.com/editors-blog,p]::1;[https://www.shopdisney.com,h]::1;[https://shop.foxnews.com,s]::2;
-<ornstein|[http://bleacherreport.com/world-football,p]::1;
-<ornamented|[https://www.nytimes.com/2022/05/06/theater/into-the-woods-review.html,p]::1;
-<ornamental|[https://www.myenglishclub.com/groups/green-thumb,p]::1;
+<ornew|[https://support.apple.com/HT211788,p]::1;
+<ornate|[https://www.dailymail.co.uk/auhome/index.html,p]::1;[https://www.dailymail.co.uk/travel/index.html,p]::1;
+<ornithopod|[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;
+<ornes|[https://www.sciencenewsforstudents.org/about-us,p]::1;

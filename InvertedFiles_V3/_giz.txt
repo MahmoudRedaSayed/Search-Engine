@@ -1,2 +1,1 @@
-<giza|[https://www.bbc.com/,p]::1;[https://english.ahram.org.eg/,p]::1;[https://nautil.us/topics/geoscience,h]::1;
-<gizli|[https://www.ugureskici.com/notlarim-makalelerim/ssl-gecisi-icin-seo-kontrol-listesi,p]::1;
+<giza|[https://english.ahram.org.eg/,p]::1;

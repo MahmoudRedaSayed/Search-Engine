@@ -1,1 +1,1 @@
-<dybala|[http://www.beinsports.com/hk,p]::1;[http://www.beinsports.com/ph,p]::1;[http://www.beinsports.com/id,h]::4;[http://www.beinsports.com/id,p]::1;[https://www.marca.com/futbol/liga-portuguesa.html?intcmp=MENUPROD&s_kw=primeira-liga-portugal,h]::1;[https://www.marca.com/futbol/argentina.html?intcmp=MENUPROD&s_kw=futbol-argentina,h]::2;
+<dybala|[https://co.marca.com/claro/?intcmp=BOTONPORTADA&s_kw=portada,h]::2;[https://ar.marca.com/claro/?intcmp=BOTONPORTADA&s_kw=portada,h]::2;[https://www.marca.com/ultimas-noticias.html?intcmp=MENUDEST&s_kw=ultimas-noticias,h]::1;

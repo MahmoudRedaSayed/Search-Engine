@@ -445,6 +445,26 @@ public class UrlThread implements  Runnable {
         * */
         // query to check if the current link is not repeated or not  and if it is normalized by using one function
                     // call function to insert the link into the database
+        System.out.printf("the processing function is running now");
+        if (!(ParentId==-1))
+        {
+            boolean found=false;
+            ResultSet data =DataBaseObject.getUrls2(Url);
+            try {
+                while (data != null && data.next()) {
+                    found = true;
+                }
+                if (!found) {
+                    DataBaseObject.createLink(Url, Layer, Thread.currentThread().getName(), ParentId);
+                    IncrementInserted();
+
+                }
+            }
+            catch( SQLException e)
+            {
+
+            }
+        }
                     int parentId = 0;
                     parentId = DataBaseObject.getId(Url, Thread.currentThread().getName());
         //-----------------------------------------------------------------------------------------------------------------//
@@ -478,21 +498,31 @@ public class UrlThread implements  Runnable {
                             * this block to add the content of the link into the database put separeted
                             * */
                             PageParsing pageContent=new PageParsing(doc);
-                            String headers=Arrays.toString(pageContent.getHeaders()).replace("'","\\\'").replace("\"","\\\"");
-                            String title=pageContent.getTitleTag().replace("'","\\\'").replace("\"","\\\"");
-                            String paragraphs= Arrays.toString(pageContent.getParagraphs()).replace("'","\\\'").replace("\"","\\\"").replace(",",".&&");
-                            String listItems=Arrays.toString(pageContent.getListItems()).replace("'","\\\'").replace("\"","\\\"");
-                            String strongWords=Arrays.toString(pageContent.getStrongs()).replace("'","\\\'").replace("\"","\\\"");
+                            String headers=Arrays.toString(pageContent.getHeaders()).replace("'","").replace("\"","");
+                            String title=pageContent.getTitleTag().replace("'","").replace("\"","");
+                            String paragraphs= Arrays.toString(pageContent.getParagraphs()).replace("'","").replace("\"","").replace(",",".&&");
+                            String listItems=Arrays.toString(pageContent.getListItems()).replace("'","").replace("\"","");
+                            String strongWords=Arrays.toString(pageContent.getStrongs()).replace("'","").replace("\"","");
                             DataBaseObject.addElements(parentId,paragraphs,title,headers,listItems,strongWords);
 
                             //----------------------------------------------------------------------------------------------------------------------------------------------//
                             // check if its content is same content to another link in the database
                             String content= DataBaseObject.getContent(parentId);
                             ResultSet contentResultSet=DataBaseObject.getContents(content,parentId);
+                            ResultSet resultSeturl=DataBaseObject.getUrl(parentId);
+
+                                try {
+                                    while (!resultSeturl.next())
+                                    {
+                                        return;
+                                    }
+                                } catch (SQLException e) {
+                                    e.printStackTrace();
+                                }
                             //-----------------------------------------------------------------------------------------------------------------------------------------------//
                             try {
                                 String desc = doc.select("meta[name=description]").get(0)
-                                        .attr("content").replace("'","\\\'").replace("\"", "\\\"");
+                                        .attr("content").replace("'","").replace("\"", "");
                                 DataBaseObject.addDesc(parentId, desc);
                             }
                             catch (IndexOutOfBoundsException e)
@@ -589,17 +619,26 @@ public class UrlThread implements  Runnable {
                              * this block to add the content of the link into the database put separeted
                              * */
                             PageParsing pageContent=new PageParsing(doc);
-                            String headers=Arrays.toString(pageContent.getHeaders()).replace("'","\\\'").replace("\"","\\\"");
-                            String title=pageContent.getTitleTag().replace("'","\\\'").replace("\"","\\\"");
-                            String paragraphs= Arrays.toString(pageContent.getParagraphs()).replace("'","\\\'").replace("\"","\\\"").replace(",",".&&");
-                            String listItems=Arrays.toString(pageContent.getListItems()).replace("'","\\\'").replace("\"","\\\"");
-                            String strongWords=Arrays.toString(pageContent.getStrongs()).replace("'","\\\'").replace("\"","\\\"");
+                            String headers=Arrays.toString(pageContent.getHeaders()).replace("'","").replace("\"","");
+                            String title=pageContent.getTitleTag().replace("'","").replace("\"","");
+                            String paragraphs= Arrays.toString(pageContent.getParagraphs()).replace("'","").replace("\"","").replace(",",".&&");
+                            String listItems=Arrays.toString(pageContent.getListItems()).replace("'","").replace("\"","");
+                            String strongWords=Arrays.toString(pageContent.getStrongs()).replace("'","").replace("\"","");
                             DataBaseObject.addElements(parentId,paragraphs,title,headers,listItems,strongWords);
-
                             //----------------------------------------------------------------------------------------------------------------------------------------------//
                             // check if its content is same content to another link in the database
                             String content= DataBaseObject.getContent(parentId);
                             ResultSet contentResultSet=DataBaseObject.getContents(content,parentId);
+                            ResultSet resultSeturl=DataBaseObject.getUrl(parentId);
+
+                            try {
+                                while (!resultSeturl.next())
+                                {
+                                    return;
+                                }
+                            } catch (SQLException e) {
+                                e.printStackTrace();
+                            }
                             //-----------------------------------------------------------------------------------------------------------------------------------------------//
 
                             try {
@@ -698,17 +737,26 @@ public class UrlThread implements  Runnable {
                              * this block to add the content of the link into the database put separeted
                              * */
                             PageParsing pageContent=new PageParsing(doc);
-                            String headers=Arrays.toString(pageContent.getHeaders()).replace("'","\\\'").replace("\"","\\\"");
-                            String title=pageContent.getTitleTag().replace("'","\\\'").replace("\"","\\\"");
-                            String paragraphs= Arrays.toString(pageContent.getParagraphs()).replace("'","\\\'").replace("\"","\\\"").replace(",",".&&");
-                            String listItems=Arrays.toString(pageContent.getListItems()).replace("'","\\\'").replace("\"","\\\"");
-                            String strongWords=Arrays.toString(pageContent.getStrongs()).replace("'","\\\'").replace("\"","\\\"");
+                            String headers=Arrays.toString(pageContent.getHeaders()).replace("'","").replace("\"","");
+                            String title=pageContent.getTitleTag().replace("'","").replace("\"","");
+                            String paragraphs= Arrays.toString(pageContent.getParagraphs()).replace("'","").replace("\"","").replace(",",".&&");
+                            String listItems=Arrays.toString(pageContent.getListItems()).replace("'","").replace("\"","");
+                            String strongWords=Arrays.toString(pageContent.getStrongs()).replace("'","").replace("\"","");
                             DataBaseObject.addElements(parentId,paragraphs,title,headers,listItems,strongWords);
-
                             //----------------------------------------------------------------------------------------------------------------------------------------------//
                             // check if its content is same content to another link in the database
                             String content= DataBaseObject.getContent(parentId);
                             ResultSet contentResultSet=DataBaseObject.getContents(content,parentId);
+                            ResultSet resultSeturl=DataBaseObject.getUrl(parentId);
+
+                            try {
+                                while (!resultSeturl.next())
+                                {
+                                    return;
+                                }
+                            } catch (SQLException e) {
+                                e.printStackTrace();
+                            }
                             //-----------------------------------------------------------------------------------------------------------------------------------------------//
                             try {
                                 String desc = doc.select("meta[name=description]").get(0)
@@ -758,11 +806,12 @@ public class UrlThread implements  Runnable {
                                                 flag=1;
                                             }
                                             //-----------------------------------------------------------------------------------------------------------------//
-
+                                            System.out.printf("the data \n");
                                             linkProcessing(result, Layer + 1,Index1 ,Index2,counter,Index4, parentId);
                                             ResultSet resultSet=DataBaseObject.getUrls2(result);
                                             while (resultSet.next())
                                             {
+                                                System.out.printf("the data2 \n");
                                                 IncrementLimit();
                                             }
                                         }
@@ -807,17 +856,27 @@ public class UrlThread implements  Runnable {
                              * this block to add the content of the link into the database put separeted
                              * */
                             PageParsing pageContent=new PageParsing(doc);
-                            String headers=Arrays.toString(pageContent.getHeaders()).replace("'","\\\'").replace("\"","\\\"");
-                            String title=pageContent.getTitleTag().replace("'","\\\'").replace("\"","\\\"");
-                            String paragraphs= Arrays.toString(pageContent.getParagraphs()).replace("'","\\\'").replace("\"","\\\"").replace(",",".&&");
-                            String listItems=Arrays.toString(pageContent.getListItems()).replace("'","\\\'").replace("\"","\\\"");
-                            String strongWords=Arrays.toString(pageContent.getStrongs()).replace("'","\\\'").replace("\"","\\\"");
+                            String headers=Arrays.toString(pageContent.getHeaders()).replace("'","").replace("\"","");
+                            String title=pageContent.getTitleTag().replace("'","").replace("\"","");
+                            String paragraphs= Arrays.toString(pageContent.getParagraphs()).replace("'","").replace("\"","").replace(",",".&&");
+                            String listItems=Arrays.toString(pageContent.getListItems()).replace("'","").replace("\"","");
+                            String strongWords=Arrays.toString(pageContent.getStrongs()).replace("'","").replace("\"","");
                             DataBaseObject.addElements(parentId,paragraphs,title,headers,listItems,strongWords);
 
                             //----------------------------------------------------------------------------------------------------------------------------------------------//
                             // check if its content is same content to another link in the database
                             String content= DataBaseObject.getContent(parentId);
                             ResultSet contentResultSet=DataBaseObject.getContents(content,parentId);
+                            ResultSet resultSeturl=DataBaseObject.getUrl(parentId);
+
+                            try {
+                                while (!resultSeturl.next())
+                                {
+                                    return;
+                                }
+                            } catch (SQLException e) {
+                                e.printStackTrace();
+                            }
                             //-----------------------------------------------------------------------------------------------------------------------------------------------//
                             try {
                                 String desc = doc.select("meta[name=description]").get(0)
@@ -914,18 +973,28 @@ public class UrlThread implements  Runnable {
                             /*
                              * this block to add the content of the link into the database put separeted
                              * */
-                            PageParsing pageContent = new PageParsing(doc);
-                            String headers = Arrays.toString(pageContent.getHeaders()).replace("'", "\\\'").replace("\"", "\\\"");
-                            String title = pageContent.getTitleTag().replace("'", "\\\'").replace("\"", "\\\"");
-                            String paragraphs = Arrays.toString(pageContent.getParagraphs()).replace("'", "\\\'").replace("\"", "\\\"").replace(",",".&&");
-                            String listItems = Arrays.toString(pageContent.getListItems()).replace("'", "\\\'").replace("\"", "\\\"");
-                            String strongWords = Arrays.toString(pageContent.getStrongs()).replace("'", "\\\'").replace("\"", "\\\"");
-                            DataBaseObject.addElements(parentId, paragraphs, title, headers, listItems, strongWords);
+                            PageParsing pageContent=new PageParsing(doc);
+                            String headers=Arrays.toString(pageContent.getHeaders()).replace("'","").replace("\"","");
+                            String title=pageContent.getTitleTag().replace("'","").replace("\"","");
+                            String paragraphs= Arrays.toString(pageContent.getParagraphs()).replace("'","").replace("\"","").replace(",",".&&");
+                            String listItems=Arrays.toString(pageContent.getListItems()).replace("'","").replace("\"","");
+                            String strongWords=Arrays.toString(pageContent.getStrongs()).replace("'","").replace("\"","");
+                            DataBaseObject.addElements(parentId,paragraphs,title,headers,listItems,strongWords);
 
                             //----------------------------------------------------------------------------------------------------------------------------------------------//
                             // check if its content is same content to another link in the database
                             String content = DataBaseObject.getContent(parentId);
                             ResultSet contentResultSet = DataBaseObject.getContents(content, parentId);
+                            ResultSet resultSeturl=DataBaseObject.getUrl(parentId);
+
+                            try {
+                                while (!resultSeturl.next())
+                                {
+                                    return;
+                                }
+                            } catch (SQLException e) {
+                                e.printStackTrace();
+                            }
                             //-----------------------------------------------------------------------------------------------------------------------------------------------//
                             try {
                                 String desc = doc.select("meta[name=description]").get(0)

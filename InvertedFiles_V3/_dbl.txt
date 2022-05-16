@@ -1,2 +1,0 @@
-<dblp|[https://arxiv.org/abs/cs.SE/0105018,h]::1;
-<dblerinizle|[https://www.ugureskici.com/notlarim-makalelerim/wordpress-nginx-guvenligi,p]::1;

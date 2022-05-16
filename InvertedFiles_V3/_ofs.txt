@@ -1,10 +1,4 @@
 <ofsymptoms|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;
+<ofs|[https://www.tutorialspoint.com/what-is-disinvestment-in-divestitures,s]::1;[https://www.tutorialspoint.com/what-is-disinvestment-in-divestitures,p]::1;
+<ofsuccess|[https://www.fool.com/mms/mark/sa-earlybird?utm_source=cnnmoney&utm_medium=contentmarketing&utm_campaign=sar-earlybird-oct2020&paid=8969&waid=8969&aid=8969&psource=esacnnwdg0210062&source=esacnnwdg0210062&wsource=esacnnwdg0210062,p]::1;
 <ofstdsoccur|[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::1;
-<ofsleepstaying|[https://www.everydayhealth.com/infectious-diseases/coronavirus,p]::1;
-<ofseinfeldandveepfame|[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,p]::1;
-<ofsted|[https://www.bbc.co.uk,p]::1;
-<ofsecurity|[https://www.dailymail.co.uk/tvshowbiz/killing-eve/index.html,h]::1;
-<ofsnail|[https://lifetickler.com/parenting-tips-part2,p]::1;
-<ofscientists|[https://www.sciencenewsforstudents.org/article/scientists-say-atmosphere,p]::1;[https://www.sciencenewsforstudents.org/article/scientists-say-constellation,p]::1;[https://www.sciencenewsforstudents.org/article/scientists-say-variable,p]::1;[https://www.sciencenewsforstudents.org/article/scientists-say-equation,p]::1;
-<ofslotsfrom|[https://en.swiss-casino-now.com/reviews/playamo,p]::1;
-<ofstudent|[https://meded.hms.harvard.edu/md-program-landing,p]::1;

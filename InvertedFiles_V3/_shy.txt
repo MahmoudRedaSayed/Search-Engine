@@ -1,4 +1,1 @@
-<shy|[https://www.dailymail.co.uk/home/books/index.html,h]::1;[https://www.dailymail.co.uk/femail/fashionfinder/index.html,p]::1;[https://nautil.us/how-we-learned-to-love-neanderthalsand-a-lot-of-other-hominids-too-11462,p]::1;[http://richardnixonlibrary.tumblr.com,p]::1;[https://www.nytimes.com/2022/05/08/books/fernanda-melchor-paradais.html,p]::1;[https://www.myenglishclub.com/discussions,p]::1;[https://www.myenglishclub.com/discussions/what-was-your-favorite-book-as-a-child,p]::1;
-<shying|[https://www.dailymail.co.uk/travel/travelreviewshub/celebrity-travel.html,h]::1;
-<shyla|[https://nautil.us/wise,p]::1;[https://www.dailywritingtips.com/7-classes-of-phrases,s]::1;
-<shyamala|[https://www.whitehouse.gov/administration/vice-president-harris,p]::1;[https://meded.hms.harvard.edu/meet-our-students,h]::1;
+<shyamala|[https://www.dailymail.co.uk/ushome/index.html,p]::1;

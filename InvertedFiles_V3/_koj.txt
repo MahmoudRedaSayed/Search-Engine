@@ -1,10 +1,2 @@
-<koja|[https://sh.wikipedia.org/wiki/Cookie,p]::4;
-<koji|[https://sh.wikipedia.org/wiki/Cookie,p]::14;[http://www.enable-javascript.com/hr,h]::1;[http://www.enable-javascript.com/hr,p]::3;
-<koje|[https://sh.wikipedia.org/wiki/Cookie,p]::5;
-<kojih|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
-<kojim|[https://sh.wikipedia.org/wiki/Cookie,p]::2;
-<koju|[https://sh.wikipedia.org/wiki/Cookie,p]::4;
-<kojima|[https://sh.wikipedia.org/wiki/Cookie,p]::3;
-<kojeg|[https://sh.wikipedia.org/wiki/Cookie,p]::1;[http://vedrigrad.hr,p]::1;
-<kojem|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
-<kojarzą|[https://kasyno-now.com,p]::1;
+<kojeg|[http://vedrigrad.hr,p]::1;
+<koji|[http://www.enable-javascript.com/hr,h]::1;[http://www.enable-javascript.com/hr,p]::3;

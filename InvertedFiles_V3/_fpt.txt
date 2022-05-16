@@ -1,1 +1,0 @@
-<fptas|[https://www.geeksforgeeks.org/polynomial-time-approximation-scheme/?ref=ghm,p]::5;

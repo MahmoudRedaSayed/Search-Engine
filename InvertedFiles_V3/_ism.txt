@@ -1,13 +1,2 @@
 <ismultifactorial|[https://www.everydayhealth.com/type-2-diabetes/guide,p]::1;
-<isms|[https://www.healthline.com/health/healthy-sex/second-queer-adolescence,p]::1;
-<ismail|[https://www.goal.com/en/lists/nxgn-2016-best-wonderkids/ugt5ciaielx911wusivtpvw6p,h]::1;[https://www.hearst.com/hearstrise,p]::4;[https://www.hearst.com/fitch-group,p]::4;
-<ismaila|[https://www.goal.com/en/lists/nxgn-2017-best-wonderkids/1s31weojaayp31xxxt1jmf27l7,h]::1;
-<ismi|[https://www.ugureskici.com/page/8,p]::1;
-<isminden|[https://www.ugureskici.com/internet-dunyasi,p]::1;
-<ismertetik|[https://disneytermsofuse.com/hungarian,p]::2;
-<ismertetjük|[https://disneytermsofuse.com/hungarian,p]::1;
-<ismertetett|[https://disneytermsofuse.com/hungarian,p]::1;
-<ismételten|[https://disneytermsofuse.com/hungarian,p]::1;
-<ismany|[https://casino-now-canada.com/reviews/casino-cruise,p]::1;
-<ismicrogaming|[https://casino-now-canada.com/reviews/spin-casino,p]::1;
-<ismael|[https://www.nytimes.com/2022/05/06/arts/music/bad-bunny-un-verano-sin-ti.html,p]::1;
+<ism|[https://stackoverflow.com/questions,h]::1;

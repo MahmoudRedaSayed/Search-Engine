@@ -1,5 +1,1 @@
-<tiberius|[https://www.aphrodisias.org,h]::1;
-<tiburones|[https://www.marca.com/deportes-aventura.html?intcmp=MENUPROD&s_kw=deportes-aventura,h]::1;
-<tibial|[https://es.familydoctor.org/prevencion-y-bienestar/ejercicio-y-estado-fisico/seguridad-deportiva,h]::1;
-<tibet•|[https://commons.wikimedia.org/wiki/Atlas_of_Australia,p]::1;[https://www.nytimes.com/2022/05/06/business/shanghai-xinjiang-china-covid-zero.html,p]::1;
-<tibetan|[https://www.imdb.com/search/name/?match_all=true&ref_=nv_cel_m,p]::1;
+<tibia|[https://www.marca.com/futbol/laliga-santander/atletico-sevilla-directo/2022/05/15/01_0101_20220515_175_179.html,p]::2;

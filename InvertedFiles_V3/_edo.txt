@@ -1,1 +1,1 @@
-<edo|[https://eu.wikipedia.org/wiki/Cookie,p]::3;
+<edo|[https://www.dailymail.co.uk/femail/index.html,h]::1;[https://www.dailymail.co.uk/femail/index.html,p]::1;

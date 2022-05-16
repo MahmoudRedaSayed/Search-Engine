@@ -1,12 +1,1 @@
-<krueger|[https://www.cancerfac.org,p]::1;[http://www.infoq.com/articles/rest-anti-patterns,s]::1;[https://www.edtechdigest.com/who-we-are,p]::1;[https://www.edtechdigest.com/2022/05/02/how-are-schools-reaching-families,p]::1;
-<kruikemeier|[http://edpl.lexxion.eu/article/EDPL/2017/3/9,p]::1;
-<kruger|[https://www.dailymail.co.uk/news/sydney/index.html,h]::1;
-<kruszelnicki|[https://www.dailymail.co.uk/news/sydney/index.html,h]::1;
-<krupierem|[https://kasyno-now.com,h]::2;[https://kasyno-now.com,p]::5;[https://kasyno-now.com/recenzja/woo,p]::1;
-<krupiera|[https://kasyno-now.com,p]::1;
-<krupierami|[https://kasyno-now.com,p]::1;
-<krupierzy|[https://kasyno-now.com/recenzja/woo,p]::1;
-<krugman|[https://www.nytimes.com/section/opinion,p]::1;
-<krupke|[https://www.nytimes.com/2022/05/09/podcasts/the-daily/drones-airstrikes-military-ptsd.html,p]::1;
-<krups|[https://www.ebay.com/globaldeals/home/major-appliances,h]::1;
-<kruskal|[https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/?ref=ghm,s]::1;
+<krubner|[https://en.wikipedia.org/wiki/Object-oriented_programming,p]::1;

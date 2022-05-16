@@ -1,3 +1,2 @@
-<laha|[https://www.iflscience.com/space/firstever-magnetic-reversal-of-a-supermassive-black-hole-may-have-been-spotted,p]::1;
-<lahjoitusten|[https://disneytermsofuse.com/finnish,p]::1;
-<lahore|[https://www.englishclub.com/efl/tefl-articles/10-tips-and-tricks-for-teaching-english-as-a-second-language,p]::2;
+<lahoz|[https://www.marca.com/futbol/laliga-santander/cadiz-r-madrid-directo/2022/05/15/01_0101_20220515_1737_186.html,p]::2;[https://www.marca.com/futbol/primera-division/2022/05/15/62813920ca4741a7238b4584.html,s]::1;[https://www.marca.com/futbol/primera-division/2022/05/15/62813920ca4741a7238b4584.html,p]::1;
+<lah|[https://id.wiktionary.org/wiki/antarmuka,p]::1;

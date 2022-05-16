@@ -1,3 +1,2 @@
+<ery|[https://en.wikipedia.org/wiki/American_English,p]::1;
 <erythrodermic|[https://www.everydayhealth.com/psoriasis/guide,h]::1;[https://www.everydayhealth.com/psoriasis/guide,s]::1;
-<erythritol|[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::1;
-<erythematosus|[https://www.healthline.com/program/focus-on-lupus,p]::1;

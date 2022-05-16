@@ -1,3 +1,1 @@
-<umbrella|[https://www.everydayhealth.com/crohns-disease/guide,p]::1;[https://www.cancer.org/latest-news/lessons-from-the-olympics-help-shannon-miller-through-ovarian-cancer-treatment.html,p]::1;[https://edaa.eu/what-we-do/for-consumers,p]::1;[https://www.nytimes.com/2022/05/08/opinion/dementia-elder-care.html,p]::1;[https://www.nytimes.com/2022/05/05/podcasts/still-processing-fatal-attraction-erotic-thrillers.html,p]::2;[https://www.myenglishclub.com/blogs,p]::4;[https://www.myenglishclub.com/blogs/let-s-talk-seriously-about-puns,p]::1;[https://www.english-4kids.com/grammarsheets.html,s]::1;[https://eslkidslab.com/flashcards/index.html,s]::5;
-<umbellata|[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
-<umbc|[https://www.baltimoresun.com,p]::1;
+<umbrella|[https://www.everydayhealth.com/crohns-disease/guide,p]::1;[https://en.wikipedia.org/wiki/American_English,p]::1;

@@ -1,3 +1,0 @@
-<bcbc|[https://www.historycentral.com/dates,s]::1;
-<bcbg|[https://www.ebay.com/globaldeals/fashion/womens-clothing,h]::2;[https://www.ebay.com/globaldeals/fashion,h]::1;
-<bcbeb|[https://blog.icons8.com/articles/how-to-create-a-paper-cut-out-effect-in-lunacy,p]::1;

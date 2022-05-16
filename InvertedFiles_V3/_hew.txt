@@ -1,3 +1,3 @@
+<hewlettpackard|[https://www.dailymail.co.uk,p]::1;[https://www.dailymail.co.uk/ushome/index.html,p]::1;[https://www.dailymail.co.uk/auhome/index.html,p]::1;[https://www.tutorialspoint.com/what-are-the-differences-between-split-ups-and-carve-outs,p]::1;
+<hewitt|[https://www.dailymail.co.uk/auhome/index.html,s]::1;
 <hewlett|[https://archive.org/projects,p]::1;[https://archive.org/about/bios.php,p]::1;
-<hewitt|[https://www.dailymail.co.uk/news/sydney/index.html,h]::1;[https://www.foxnews.com/media,p]::1;[https://www.foxnews.com/category/us/economy,p]::1;
-<hewer|[https://www.dailymail.co.uk/sciencetech/twitter/index.html,h]::2;

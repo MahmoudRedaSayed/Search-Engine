@@ -1,3 +1,1 @@
 <kibotu|[https://gist.github.com/maxogden/43219d6dcb9006042849,h]::2;[https://gist.github.com/maxogden/43219d6dcb9006042849,s]::2;[https://gist.github.com/maxogden/43219d6dcb9006042849,p]::1;
-<kibana|[https://www.ugureskici.com/notlarim-makalelerim/digitalzone-2017-kimler-geldi-kimler-gecti-ne-ogrendik,p]::1;
-<kibananın|[https://www.ugureskici.com/notlarim-makalelerim/digitalzone-2017-kimler-geldi-kimler-gecti-ne-ogrendik,p]::1;

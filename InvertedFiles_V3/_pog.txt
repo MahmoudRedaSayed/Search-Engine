@@ -1,8 +1,3 @@
-<pogostemon|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::2;[https://www.ugureskici.com/notlarim-makalelerim/pogo-sticking-nedir,t]::1;[https://www.ugureskici.com/notlarim-makalelerim/pogo-sticking-nedir,h]::3;[https://www.ugureskici.com/notlarim-makalelerim/pogo-sticking-nedir,s]::2;[https://www.ugureskici.com/notlarim-makalelerim/pogo-sticking-nedir,p]::10;[https://www.ugureskici.com/page/2,h]::1;[https://www.ugureskici.com/page/2,p]::2;
-<pogba|[https://www.dailymail.co.uk/sport/index.html,h]::2;[http://bleacherreport.com/world-football,h]::1;[http://bleacherreport.com/world-football,p]::1;[https://www.dailymail.co.uk/sport/football/index.html,h]::3;[https://www.dailymail.co.uk/sport/fa_cup/index.html,h]::1;[https://www.dailymail.co.uk/sport/premierleague/index.html,h]::1;[http://www.beinsports.com/france,h]::2;[https://www.dailymail.co.uk/news/celebrity-deaths-and-obituaries/index.html,h]::1;[https://www.marca.com/futbol/liga-francesa.html?intcmp=MENUPROD&s_kw=liga-francesa,h]::1;[https://www.marca.com/futbol/uefa-nations-league.html,h]::1;
+<pogba|[https://www.skysports.com/,h]::1;[https://www.bbc.co.uk/sport,p]::1;[https://www.bbc.com/sport,p]::1;[https://www.marca.com/futbol/2022/05/13/627ddbd8749dee001f58f661-directo.html,h]::1;[https://www.marca.com/futbol/2022/05/13/627ddbd8749dee001f58f661-directo.html,s]::1;[https://www.marca.com/futbol/2022/05/13/627ddbd8749dee001f58f661-directo.html,p]::2;
 <pogledaj|[http://www.enable-javascript.com/hr,p]::1;
 <pogledu|[http://www.enable-javascript.com/hr,p]::1;
-<pogostick|[https://www.ugureskici.com/notlarim-makalelerim/pogo-sticking-nedir,h]::1;
-<pogonun|[https://www.ugureskici.com/notlarim-makalelerim/pogo-sticking-nedir,p]::1;
-<pogosticking|[https://www.ugureskici.com/notlarim-makalelerim/pogo-sticking-nedir,p]::1;
-<pogrebin|[https://www.nytimes.com/section/todayspaper,p]::2;

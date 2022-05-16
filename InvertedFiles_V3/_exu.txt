@@ -1,4 +1,0 @@
-<exuma|[https://www.dailymail.co.uk,p]::1;[https://www.nytimes.com/2022/05/08/world/americas/bahamas-sandals-resort-americans-dead.html,p]::1;[https://www.foxnews.com/world/sandals-bahamas-deaths-american-miami,p]::1;
-<exude|[https://en.swiss-casino-now.com/reviews/cookie-casino,s]::1;
-<exuberance|[https://newsroom.loc.gov/news/national-recording-registry-inducts-music-from-alicia-keys--ricky-martin--journey-and-more-in-2022/s/fee30140-0454-401c-a2a2-205298e32fb1,p]::1;[https://www.nytimes.com/2022/05/09/arts/television/american-song-contest-final.html,p]::1;
-<exuberant|[https://www.nytimes.com/2022/05/08/opinion/dementia-elder-care.html,p]::1;

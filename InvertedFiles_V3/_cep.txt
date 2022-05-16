@@ -1,8 +1,1 @@
-<cepo|[https://www.everydayhealth.com/ulcerative-colitis/guide,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/murphy-kanunlari,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/marmara-isletme-soruyor-digital-marketing-paneli,p]::1;
-<cepteteb|[https://www.ugureskici.com/hakkimda,p]::1;
-<cepeda|[https://www.marca.com/ultimas-noticias.html?intcmp=MENUDEST&s_kw=ultimas-noticias,h]::1;
-<cepat|[https://disneytermsofuse.com/bahasa-malaysia,p]::1;
-<cepas|[https://www.marca.com/paralimpicos.html?intcmp=MENUPROD&s_kw=paralimpicos,h]::1;
-<cependant|[https://fr.casino-now-canada.com/nouveaux-casinos,p]::1;[https://fr.casino-now-canada.com/playamo-casino,p]::1;
-<cephas|[https://www.nytimes.com/2022/05/09/theater/tony-awards-nominees.html,p]::1;
-<ceproposalhmsharvardedu|[http://cmecourses.hms.harvard.edu,p]::1;
+<cepo|[https://www.everydayhealth.com/ulcerative-colitis/guide,p]::1;

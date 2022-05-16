@@ -1,6 +1,0 @@
-<obchodnej|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<obchode|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<obchodní|[https://disneytermsofuse.com/czech,p]::4;
-<obcházet|[https://disneytermsofuse.com/czech,p]::1;
-<obchodním|[https://disneytermsofuse.com/czech,p]::1;
-<obchodovat|[https://disneytermsofuse.com/czech,p]::1;

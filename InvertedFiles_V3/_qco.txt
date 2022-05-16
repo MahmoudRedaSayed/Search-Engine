@@ -1,1 +1,0 @@
-<qcon|[http://www.infoq.com/articles/rest-anti-patterns,h]::1;

@@ -1,1 +1,3 @@
-<uid|[https://bbc.github.io/subtitle-guidelines,s]::1;
+<uid|[https://bbc.github.io/subtitle-guidelines,s]::1;[https://bbc.github.io/subtitle-guidelines,p]::10;
+<uidsubtitle|[https://bbc.github.io/subtitle-guidelines,p]::1;
+<uidversion|[https://bbc.github.io/subtitle-guidelines,p]::1;

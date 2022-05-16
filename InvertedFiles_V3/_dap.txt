@@ -1,5 +1,1 @@
-<dapp|[https://brave.com/ok-google,h]::1;
-<dapat|[https://id.wikipedia.org/wiki/Kuki,p]::6;[http://www.beinsports.com/id,h]::1;[https://disneytermsofuse.com/bahasa-indonesia,p]::20;[https://disneytermsofuse.com/bahasa-malaysia,p]::5;
-<dapati|[https://disneytermsofuse.com/bahasa-malaysia,p]::1;
-<dapprentissage|[https://fr.casino-now-canada.com,h]::1;[https://fr.swiss-casino-now.com,h]::1;
-<daphne|[https://www.nytimes.com/2022/05/09/opinion/sway-kara-swisher-clarissa-ward.html,p]::2;
+<dapper|[https://www.dailymail.co.uk/news/index.html,p]::1;[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://www.dailymail.co.uk/auhome/index.html,s]::1;

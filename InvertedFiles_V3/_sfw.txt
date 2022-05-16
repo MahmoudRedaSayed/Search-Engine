@@ -1,1 +1,1 @@
-<sfwa|[https://www.dailymail.co.uk,p]::1;[http://www.senate.gov/floor/index.htm,p]::1;
+<sfw|[https://www.dailymail.co.uk/ushome/index.html,p]::1;[https://www.dailymail.co.uk/auhome/index.html,p]::1;

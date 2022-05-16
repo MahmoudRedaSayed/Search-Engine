@@ -1,4 +1,0 @@
-<kiosk|[https://groups.google.com/group/comp.infosystems.www.users/msg/9a210e5f72278328,p]::1;
-<kiosztásra|[https://disneytermsofuse.com/hungarian,p]::1;
-<kiosks|[https://ask.loc.gov/faq/304551,p]::2;[https://www.tribpub.com/privacy-policy,p]::1;
-<kioxia|[https://www.ebay.com/globaldeals/tech/memory-drives-storage,h]::1;

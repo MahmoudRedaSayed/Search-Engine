@@ -1,9 +1,10 @@
-<mum|[https://www.dailymail.co.uk,h]::1;[https://www.hearstmagazines.co.uk/gift-ideas,p]::1;[https://www.bbc.co.uk,p]::2;[https://www.dailymail.co.uk/auhome/index.html,h]::2;[https://www.dailymail.co.uk/money/index.html,h]::1;[https://www.bbc.co.uk/cbeebies/shows/pablo,p]::1;[https://www.dailymail.co.uk/property/index.html,h]::1;[https://www.dailymail.co.uk/news/sydney/index.html,h]::1;[https://www.dailymail.co.uk/news/perth/index.html,h]::3;[https://www.dailymail.co.uk/news/brisbane/index.html,h]::1;[https://www.dailymail.co.uk/sciencetech/apple/index.html,h]::1;[https://www.dailymail.co.uk/money/mortgageshome/index.html,h]::2;[https://www.bbc.co.uk/sport/weightlifting/59660304,p]::1;[https://discountcode.dailymail.co.uk/articles,h]::1;[https://www.thisismoney.co.uk,h]::1;
 <mummification|[https://english.ahram.org.eg/,p]::1;
-<mumbai|[https://www.everydayhealthgroup.com,s]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;[https://www.linkedin.com/showcase/AmazonScience,p]::1;
-<mums|[https://www.dailymail.co.uk/femail/index.html,h]::2;[https://www.dailymail.co.uk/money/pensions/index.html,h]::1;[https://www.dailymail.co.uk/money/experts/index.html,h]::1;
-<mummy|[https://www.dailymail.co.uk/femail/index.html,h]::1;[https://nautil.us/topics/anthropology,h]::2;[https://www.sciencenewsforstudents.org/topic/archaeology,h]::1;[https://www.sciencenewsforstudents.org/topic/brain,p]::1;
+<mum|[https://www.dailymail.co.uk/tvshowbiz/index.html,h]::1;[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://www.dailymail.co.uk/tvshowbiz/index.html,p]::2;[https://www.dailymail.co.uk/auhome/index.html,h]::2;[https://www.dailymail.co.uk/auhome/index.html,s]::2;[https://www.dailymail.co.uk/femail/index.html,h]::2;[https://www.dailymail.co.uk/femail/index.html,p]::1;[https://www.dailymail.co.uk/health/index.html,s]::1;[https://www.dailymail.co.uk/health/index.html,p]::1;[https://www.dailymail.co.uk/money/index.html,h]::1;[https://www.dailymail.co.uk/travel/index.html,h]::1;[https://www.dailymail.co.uk/travel/index.html,p]::1;[https://www.bbc.co.uk/cbeebies/shows/pablo,p]::1;
+<mums|[https://www.dailymail.co.uk/tvshowbiz/index.html,h]::1;[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://www.dailymail.co.uk/femail/index.html,h]::1;[https://www.dailymail.co.uk/health/index.html,s]::1;
+<mumoffive|[https://www.dailymail.co.uk/auhome/index.html,h]::1;[https://www.dailymail.co.uk/health/index.html,h]::1;
+<mumofone|[https://www.dailymail.co.uk/auhome/index.html,p]::1;
+<mummys|[https://www.sciencenewsforstudents.org/collections,h]::1;
+<mumsnet|[https://www.dailymail.co.uk/femail/index.html,p]::4;
+<mummies|[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;
+<mummy|[https://www.sciencenewsforstudents.org/topic/archaeology,h]::1;[https://www.sciencenewsforstudents.org/topic/brain,p]::1;
 <mummified|[https://www.sciencenewsforstudents.org/topic/archaeology,p]::1;
-<mumps|[https://www.cdc.gov/nchs/fastats/default.htm,p]::1;
-<mumbaib|[https://www.myenglishclub.com/groups/short-english-lessons,p]::1;
-<mumbaia|[https://www.myenglishclub.com/groups/short-english-lessons,p]::1;

@@ -1,5 +1,1 @@
-<tlds|[https://blog.archive.org,p]::1;[https://publicsuffix.org/learn,p]::2;[https://link.springer.com/10.1007/978-3-030-76663-4_3,p]::1;[http://bayou.io/draft/cookie.domain.html,p]::1;
-<tldextract|[https://publicsuffix.org/learn,p]::2;[https://web.archive.org/web/20160514000450/https:/publicsuffix.org/learn,p]::1;
-<tldjs|[https://publicsuffix.org/learn,p]::1;[https://web.archive.org/web/20160514000450/https:/publicsuffix.org/learn,p]::1;
-<tldts|[https://publicsuffix.org/learn,p]::1;
-<tldr|[https://meta.discourse.org/t/frostbite-heart-discourse/39411/17?u=jake_shadle,s]::1;[https://meta.discourse.org/t/frostbite-heart-discourse/39411/17?u=jake_shadle,p]::2;
+<tlds|[https://blog.archive.org,p]::1;

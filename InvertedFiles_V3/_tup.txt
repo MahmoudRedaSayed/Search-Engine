@@ -1,3 +1,0 @@
-<tuple|[https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage,p]::1;[https://www.geeksforgeeks.org/csharp-programming-language/?ref=ghm,s]::1;[https://www.geeksforgeeks.org/csharp-programming-language/?ref=ghm,p]::1;
-<tupelo|[https://www.nytimes.com/2022/05/03/business/economy/pandemic-supply-chains-inflation.html,p]::1;[https://www.foxnews.com/lifestyle/mothers-day-protests-pro-abortion-activists-brokenness,p]::1;
-<tuples|[https://www.geeksforgeeks.org/python-programming-language/?ref=ghm,s]::1;

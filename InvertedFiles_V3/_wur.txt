@@ -1,3 +1,4 @@
-<wurden|[https://legal.twitter.com/imprint.html,p]::1;[https://swiss-casino-now.com/casino-bewertung/woo-casino,p]::1;[https://casino-now.at/casino-bewertung/woo,p]::3;[https://swiss-casino-now.com/casino-bewertung/spin-casino,p]::2;[https://swiss-casino-now.com/casino-software/netent,p]::6;[https://casino-now.at/casino-software/netent,p]::7;
-<wurzeln|[https://swiss-casino-now.com/casino-software/netent,p]::1;
-<wureceivedtherobert|[https://meded.hms.harvard.edu/soma-weiss-student-research-day,p]::1;
+<wurundjeri|[https://www.sensesofcinema.com,p]::1;[https://www.sensesofcinema.com/category/feature-articles,p]::1;[https://www.sensesofcinema.com/category/festival-reports,p]::1;[https://www.sensesofcinema.com/category/book-reviews,p]::1;[https://www.sensesofcinema.com/category/cteq,p]::1;[https://www.sensesofcinema.com/category/great-directors,p]::1;[https://www.sensesofcinema.com/special-dossiers,p]::1;
+<wurrung|[https://www.sensesofcinema.com,p]::1;[https://www.sensesofcinema.com/category/feature-articles,p]::1;[https://www.sensesofcinema.com/category/festival-reports,p]::1;[https://www.sensesofcinema.com/category/book-reviews,p]::1;[https://www.sensesofcinema.com/category/cteq,p]::1;[https://www.sensesofcinema.com/category/great-directors,p]::1;[https://www.sensesofcinema.com/special-dossiers,p]::1;
+<wurz|[https://www.bbc.co.uk/news,h]::1;[https://www.bbc.co.uk/sport,p]::1;[https://www.bbc.com/sport,p]::1;[https://www.bbc.com/news,h]::1;
+<wurst|[https://www.dailymail.co.uk/auhome/index.html,s]::1;

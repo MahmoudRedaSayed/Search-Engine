@@ -1,1 +1,1 @@
-<uae|[http://sarmady.net/contact.html,h]::1;[http://www.mayoclinic.org/about-mayo-clinic,h]::1;[https://www.foxnews.com/foxaroundtheworld,s]::1;
+<uae|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk/auhome/index.html,s]::1;[https://www.dailymail.co.uk/health/index.html,s]::1;[https://sarmady.net/contact.html,h]::1;

@@ -1,6 +1,2 @@
-<seuss|[https://www.inlife.co.uk/why-are-cookies-called-cookies,p]::1;[https://gl.wikipedia.org/wiki/Rastro,p]::2;[https://disneytermsofuse.com/brazilian-portuguese,p]::3;[https://disneytermsofuse.com/portuguese,p]::1;[https://kidskonnect.com/social-studies/stolen-generation,p]::1;[https://icons8.com.br/icons,s]::1;[https://icons8.com.br/animated-icons,p]::1;[https://icons8.com.br/icons/material,p]::1;
-<seungwoo|[https://www.goal.com/en/lists/nxgn-2016-best-wonderkids/ugt5ciaielx911wusivtpvw6p,h]::1;
-<seurauksena|[https://disneytermsofuse.com/finnish,p]::1;[https://netticasino-now.com/arvostelut,p]::1;
-<seuloa|[https://disneytermsofuse.com/finnish,p]::1;[https://icones8.fr/animated-icons,p]::1;
-<seuraavia|[https://disneytermsofuse.com/finnish,p]::1;[https://netticasino-now.com/arvostelut,p]::2;
-<seurataankin|[https://netticasino-now.com,p]::1;
+<seus|[https://olympics.com/pt,p]::1;
+<seurakuntayhteys|[https://fi.wiktionary.org/wiki/yhteys,p]::1;

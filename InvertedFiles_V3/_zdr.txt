@@ -1,4 +1,0 @@
-<zdroj|[https://cs.wikipedia.org/wiki/HTTP_cookie,h]::13;[https://sk.wikipedia.org/wiki/HTTP_cookie,h]::11;[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;
-<zdrojupraviť|[https://sk.wikipedia.org/wiki/HTTP_cookie,h]::1;
-<zdravotní|[https://disneytermsofuse.com/czech,p]::1;
-<zdrowotnej|[https://disneytermsofuse.com/polish,p]::1;

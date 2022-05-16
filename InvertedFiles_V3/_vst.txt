@@ -1,2 +1,1 @@
 <vstack|[http://paulirish.com,p]::1;[https://gist.github.com/maxogden/43219d6dcb9006042849,p]::1;
-<vstar|[https://www.ebay.com/globaldeals/home/toys,h]::1;[https://www.ebay.com/globaldeals/more/toys,h]::1;

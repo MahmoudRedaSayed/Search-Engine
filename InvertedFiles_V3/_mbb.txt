@@ -1,1 +1,1 @@
-<mbbs|[https://www.everydayhealth.com/flu/guide,p]::1;[https://www.everydayhealth.com/infectious-diseases/coronavirus-alert,p]::1;[https://legal.twitter.com/imprint.html,p]::1;[https://meded.hms.harvard.edu/teaching-awards,p]::2;[https://hms.harvard.edu/departments/office-external-education,p]::1;
+<mbbs|[https://www.everydayhealth.com/flu/guide,p]::1;

@@ -1,6 +1,1 @@
-<afar|[https://www.everydayhealth.com/stress/guide,h]::1;[https://www.cancersupportcommunity.org,h]::1;[https://www.marca.com/futbol/copa-america.html?intcmp=MENUMIGA&s_kw=copa-america,h]::1;[https://www.nytimes.com/2022/05/09/opinion/sway-kara-swisher-clarissa-ward.html,p]::1;[https://apps.apple.com/us/app/national-park-service/id1549226484,p]::1;
-<afamily|[https://lifetickler.com/a-guide-to-buying-a-second-hand-car,p]::1;
-<afaic…|[https://lifetickler.com/what-happened-to-grammar-and-spelling,h]::1;
-<afantastic|[https://casino-now-canada.com/casino-bonus,p]::1;
-<afaculty|[https://meded.hms.harvard.edu,p]::1;
-<afaict|[https://apps.apple.com/us/app/national-park-service/id1549226484,p]::1;
+<afar|[https://www.everydayhealth.com/stress/guide,h]::1;

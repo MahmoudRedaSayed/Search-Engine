@@ -1,1 +1,2 @@
-<django|[https://www.tutorialspoint.com/prime-pack/complete-python-prime-pack/index.asp,p]::1;[https://education.github.com,p]::1;[http://meteorite.unm.edu/meteorites/meteorite-museum/new-mexico-meteorites,p]::1;[https://insights.stackoverflow.com/survey/2021,p]::1;[https://www.geeksforgeeks.org/python-programming-language/?ref=ghm,h]::1;[https://www.geeksforgeeks.org/python-programming-language/?ref=ghm,s]::1;[https://www.geeksforgeeks.org/python-programming-language/?ref=ghm,p]::2;
+<djalilis|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk/news/index.html,h]::1;[https://www.dailymail.co.uk/health/index.html,s]::1;
+<django|[https://postorius.readthedocs.org,p]::3;[https://stackoverflow.com/questions/tagged/openid,h]::1;

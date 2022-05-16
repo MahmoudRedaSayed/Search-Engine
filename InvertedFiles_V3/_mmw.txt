@@ -1,1 +1,0 @@
-<mmwr|[https://espanol.cdc.gov/coronavirus/2019-ncov/community/health-equity/index.html,p]::1;[https://www.cdc.gov/coronavirus/2019-ncov/science/science-and-research.html,p]::1;[https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-care/post-covid-science.html,p]::1;[https://espanol.cdc.gov/coronavirus/2019-ncov/symptoms-testing/testing.html,p]::1;

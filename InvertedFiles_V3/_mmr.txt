@@ -1,1 +1,1 @@
-<mmr|[https://www.cancer.org/cancer/cancer-causes/genetics/family-cancer-syndromes.html,p]::3;
+<mmrs|[https://www.dailymail.co.uk/sport/index.html,p]::1;

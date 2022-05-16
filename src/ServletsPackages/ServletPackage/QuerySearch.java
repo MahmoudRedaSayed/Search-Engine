@@ -24,33 +24,30 @@ import java.util.List;
 import org.json.*;
 import com.mysql.jdbc.*;
 import org.tartarus.snowball.ext.PorterStemmer;
-
+// the new comment
 
 public class QuerySearch extends HttpServlet {
     public String searchingQuery;
-    public ArrayList<String> rankerArray = new ArrayList<String>();
-    public Map<String, Integer> phraSearchingMap = new HashMap<String, Integer>();
-    public boolean isPhraseSearching = false;
-    public JSONArray dividedQuery = new JSONArray();
+    public Map<String, Integer> phraSearchingMap ;
+    public boolean isPhraseSearching ;
+    public JSONArray dividedQuery ;
     public Ranker rankerObject ;
     int count = 0;
 
-    public void init()
-            throws ServletException
-    {
-        rankerObject=new Ranker();
 
-    }
 
 
     public void doGet(HttpServletRequest req, HttpServletResponse res) throws IOException {
         rankerObject=new Ranker();
-
+         phraSearchingMap = new HashMap<String, Integer>();
+         isPhraseSearching = false;
+         dividedQuery = new JSONArray();
         res.addHeader("Access-Control-Allow-Origin", "*");
-        System.out.println("any thing here ");
-        String searchingQuery = req.getParameter("query");
         res.setContentType("text/html");
         String results = "";
+        String searchingQuery = req.getParameter("query");
+        System.out.printf("new array \n \n");
+        ArrayList<String> rankerArray=new ArrayList<String>();
 
         if (searchingQuery.startsWith("\"") && searchingQuery.endsWith("\"")) {
 
@@ -65,6 +62,7 @@ public class QuerySearch extends HttpServlet {
 
             try {
                 isPhraseSearching = true;
+
                 results = rankerObject.calculateRelevance(rankerArray, phraSearchingMap, isPhraseSearching);
 
             } catch (JSONException e) {
@@ -85,6 +83,7 @@ public class QuerySearch extends HttpServlet {
             }
             try {
                isPhraseSearching = false;
+                System.out.println("the arrray is "+rankerArray.toString()+"\n");
                results = rankerObject.calculateRelevance(rankerArray, phraSearchingMap, isPhraseSearching);
 
             } catch (JSONException e) {
@@ -153,7 +152,6 @@ public class QuerySearch extends HttpServlet {
             int length = searchQuery.length;
             ArrayList<Integer> indeces = new ArrayList<Integer>();
             for (int i = 0; i < length; i++) {
-                System.out.println(searchQuery[i].toLowerCase());
                 if (Arrays.asList(this.stopWords).contains(searchQuery[i].toLowerCase())) {
                     indeces.add(i);
                 }
@@ -396,7 +394,6 @@ public class QuerySearch extends HttpServlet {
 
 
             //
-            System.out.println("before the loop "+tempLines.size()+"\n");
             ArrayList<String> snipptes = new ArrayList<String>();
             for (int i = 0; i < tempLines.size(); i++) {
                 Map<String, Double> Links_numOfOccurrences = new HashMap<String, Double>();
@@ -407,7 +404,6 @@ public class QuerySearch extends HttpServlet {
                 String lineWithoutTheWord = tempLines.get(i).substring(startIndex + 1);
                 String[] linksWithWordPosition = lineWithoutTheWord.split(";");
 
-                System.out.println("from the loop"+linksWithWordPosition.length);
 
                 //array to store all links of the current query
                 ArrayList<String> arr = new ArrayList<String>();
@@ -424,7 +420,6 @@ public class QuerySearch extends HttpServlet {
                     {
                         //get the length of the page
                         Long lengthOfPage = wordsCount.get(linkOfCurrentPage);
-                        System.out.println("the link from the if  "+ linkOfCurrentPage +"\n");
 
                         //to get the type of the word ==> paragraph or title or strong or header
                         int separetorPosition = linksWithWordPosition[j].indexOf(',');
@@ -454,7 +449,6 @@ public class QuerySearch extends HttpServlet {
                                 arr.add(linkOfCurrentPage);
                             }
                             Links_numOfOccurrences.put(linkOfCurrentPage, tf);
-                            System.out.println("the map of the links is "+Links_numOfOccurrences+"\n");
                         }
                         tf = 0;
                     }
@@ -485,24 +479,22 @@ public class QuerySearch extends HttpServlet {
                 numOfOccerrencesInAllDocuments=0;
 
             }
-            System.out.println("the map "+ allLinksTf_Idf+"\n \n \n");
 
             int id;
             double popularityResult;
             for(int i=0;i<uniqueLinks.size();i++)
             {
                 id=IDs.get(uniqueLinks.get(i));
-                popularityResult=HelperClass.readPopularity(id);
-                if(popularityResult!=-1) {
-                    allLinksTf_Idf.put(uniqueLinks.get(i), (0.7 * allLinksTf_Idf.get(uniqueLinks.get(i)) + 0.3 * popularityResult));
-                }
+//                popularityResult=HelperClass.readPopularity(id);
+//                if(popularityResult!=-1) {
+                    allLinksTf_Idf.put(uniqueLinks.get(i), (0.7 * allLinksTf_Idf.get(uniqueLinks.get(i)) + 0.3 ));
+//                }
             }
             // will need to use the popularty here
             allLinksTf_Idf.entrySet()
                     .stream()
                     .sorted(Map.Entry.comparingByValue())
                     .forEachOrdered(x -> allLinksTf_Idf.put(x.getKey(), x.getValue()));
-            System.out.println("the map "+ allLinksTf_Idf+"\n \n \n");
 
 
             for (Iterator<Map.Entry<String, Double>> iter = allLinksTf_Idf.entrySet().iterator(); iter.hasNext(); ) {
@@ -611,7 +603,6 @@ public class QuerySearch extends HttpServlet {
                 }
             }
             searchQuery = removeElement(searchQuery, indeces.stream().mapToInt(Integer::intValue).toArray());
-            System.out.printf("after remove \n");
             return searchQuery;
         }
 
@@ -625,7 +616,8 @@ public class QuerySearch extends HttpServlet {
 
         public static void searchInInvertedFiles(ArrayList<String> word, File myFile, ArrayList<String> results, boolean stemmingFlag) throws FileNotFoundException {
             Scanner read = new Scanner(myFile);
-            System.out.printf("start search \n");
+//            System.out.printf("The inverted files "+myFile.getName()+"\n");
+            System.out.println(" i am hereeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee");
             int counter = 0;
 
             String tempInput,
@@ -640,7 +632,6 @@ public class QuerySearch extends HttpServlet {
             while(read.hasNextLine())
             {
                 counter1++;
-                System.out.printf("file line"+counter1);
                 tempInput = read.nextLine();
                 int i=0;
                 boolean anyWordFound = false;
@@ -687,7 +678,6 @@ public class QuerySearch extends HttpServlet {
                     i++;
                 }
             }
-            System.out.printf("end search \n");
         }
 
         //--------------------------Function sortByValue--------------------------//
@@ -792,19 +782,18 @@ public class QuerySearch extends HttpServlet {
                 // Results for one file.
                 ArrayList<String> oneFileResult = new ArrayList<String>();
 
-                String filePath = "D:\\College\\Second_Year\\Second Term\\APT\\Project\\Final Version\\Final\\Sreach-Engine";   // get the directory of the project
+                String filePath="D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";
 
 
                 filePath += File.separator + "InvertedFiles_V3" + File.separator;
 
                 filePath += currFile.getKey() + ".txt";    //To get File Name
+                System.out.printf(" the file is lllllllllllllllllllll"+filePath+"\n\n\n");
 
                 File targetFile = new File(filePath);
 
                 //true to sepcify it's Query Processing not Phrase Searching
-                System.out.printf("before search \n");
                 searchInInvertedFiles(currFile.getValue(), targetFile,oneFileResult, true);
-                System.out.printf("after search \n");
 
                 // Loop over versions of Words
                 // Adding words results to ranker Array
@@ -815,8 +804,9 @@ public class QuerySearch extends HttpServlet {
                     //Don't send to ranker
                     if(oneFileResult.get(j).equals(""))
                     {continue;}
-
+                    System.out.printf("the new line is "+oneFileResult.get(j)+"\n");
                     queryLinesResult.add(oneFileResult.get(j));
+                    System.out.printf("the new line is "+queryLinesResult.get(j)+"\n");
                 }
 
             }
@@ -1013,7 +1003,7 @@ public class QuerySearch extends HttpServlet {
         // get the path of the inverted Files_V3
         public static String invertedFilePath_V3(String fileName) {
 //        String filePath = Paths.get("").normalize().toAbsolutePath().toString();
-            String filePath="D:\\College\\Second_Year\\Second Term\\APT\\Project\\Final Version\\Final\\Sreach-Engine";
+            String filePath="D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";
             //filePath = filePath.substring(0, .lastIndexOf("\\"));
             filePath += File.separator + "InvertedFiles_V3" + File.separator + fileName + ".txt";
             return filePath;
@@ -1021,7 +1011,7 @@ public class QuerySearch extends HttpServlet {
 
         public static String populairtyFilesPath()
         {
-            String filePath = "D:\\College\\Second_Year\\Second Term\\APT\\Project\\Final Version\\Final\\Sreach-Engine";
+            String filePath = "D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";
             // filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
             filePath += File.separator + "PopularityFiles";
             return filePath;
@@ -1030,7 +1020,7 @@ public class QuerySearch extends HttpServlet {
         // get the path of the content files
         public static String contentFilesPath()
         {
-            String filePath="D:\\College\\Second_Year\\Second Term\\APT\\Project\\Final Version\\Final\\Sreach-Engine";
+            String filePath="D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";
             // filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
             filePath += File.separator + "ContentFiles";
             return filePath;
@@ -1039,7 +1029,7 @@ public class QuerySearch extends HttpServlet {
         // get the path of the description files
         public static String descriptionFilesPath()
         {
-            String filePath="D:\\College\\Second_Year\\Second Term\\APT\\Project\\Final Version\\Final\\Sreach-Engine";
+            String filePath="D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";
             // filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
             filePath += File.separator + "descriptionFiles";
             return filePath;
@@ -1119,7 +1109,7 @@ public class QuerySearch extends HttpServlet {
     */
         public static void readStopWords() throws FileNotFoundException {
             // open the file that contains stop words
-            String filePath="D:\\College\\Second_Year\\Second Term\\APT\\Project\\Final Version\\Final\\Sreach-Engine";   // get the directory of the project
+            String filePath="D:\\Study\\Second Year\\Second Sem\\APT\\New folder (2)\\New folder (2)\\Sreach-Engine";   // get the directory of the project
             //filePath = filePath.substring(0, filePath.lastIndexOf("\\"));
             filePath += File.separator + "helpers" + File.separator + "stop_words.txt";
             File myFile = new File(filePath);

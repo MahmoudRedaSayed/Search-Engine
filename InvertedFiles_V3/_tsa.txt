@@ -1,2 +1,1 @@
-<tsawaita|[https://www.bbc.com/,p]::1;
-<tsar|[https://www.dailymail.co.uk/news/dr-anthony-fauci/index.html,h]::2;
+<tsada|[https://www.bbc.com/,p]::1;

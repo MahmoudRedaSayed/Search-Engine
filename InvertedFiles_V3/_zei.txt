@@ -1,10 +1,1 @@
-<zeichen|[https://de.wikipedia.org/wiki/HTTP-Cookie,p]::1;
-<zeichensatz|[https://de.wikipedia.org/wiki/HTTP-Cookie,p]::1;
-<zeit|[https://casino-now.at/casino-bewertung,p]::1;[https://casino-now.at/casino-bewertung/woo,p]::3;[https://swiss-casino-now.com/casino-software/netent,p]::2;[https://casino-now.at/casino-software/netent,p]::2;
-<zeichnet|[https://swiss-casino-now.com/casino-bewertung/spin-casino,p]::1;
-<zeigen|[https://swiss-casino-now.com/casino-bewertung/spin-casino,p]::1;[https://swiss-casino-now.com/casino-software/netent,p]::1;
-<zeitpunkt|[https://casino-now.at/casino-software/netent,p]::1;
-<zeigt|[https://onlinecasino-now.de/casino-software/netent,p]::1;
-<zeitloser|[https://onlinecasino-now.de/casino-software/netent,p]::1;
-<zeitgeist|[https://www.nytimes.com/2022/05/05/podcasts/still-processing-fatal-attraction-erotic-thrillers.html,p]::1;
-<zeiss|[https://www.ebay.com/globaldeals/tech/cameras-photo,h]::2;
+<zeitgeist|[https://www.sensesofcinema.com/special-dossiers,h]::1;

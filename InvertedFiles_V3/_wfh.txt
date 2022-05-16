@@ -1,1 +1,1 @@
-<wfh|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk/registration/logout.html,h]::1;[https://www.dailymail.co.uk/home/index.html,h]::1;[https://www.mailonsunday.co.uk,h]::1;[https://www.dailymail.co.uk/news/article-10797111/Civil-servants-warned-passes-tracked-make-sure-come-Whitehall.html#comments,h]::1;
+<wfh|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk/news/index.html,h]::1;[https://www.dailymail.co.uk/health/index.html,h]::1;

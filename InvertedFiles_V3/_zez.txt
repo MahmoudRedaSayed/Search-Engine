@@ -1,4 +1,0 @@
-<zezwala|[https://disneytermsofuse.com/polish,p]::1;
-<zezwalać|[https://disneytermsofuse.com/polish,p]::1;
-<zezwolenia|[https://disneytermsofuse.com/polish,p]::2;
-<zezwalająca|[https://disneytermsofuse.com/polish,p]::2;

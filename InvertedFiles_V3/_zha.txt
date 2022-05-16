@@ -1,5 +1,1 @@
-<zhala|[https://www.marca.com/tiramillas/actualidad/2022/05/09/6278ff3c749dee001f4ac534-directo.html,p]::2;
-<zhao|[https://www.sciencenewsforstudents.org/article/losing-some-genes-may-explain-how-vampire-bats-can-live-on-blood,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;[https://www.nytimes.com/2022/05/06/business/shanghai-xinjiang-china-covid-zero.html,p]::1;[https://www.nytimes.com/2022/05/09/theater/tony-awards-nominees.html,p]::1;[https://www.amazon.science/latest-news/robin-deals-with-a-world-where-things-are-changing-all-around-it,p]::2;
-<zhang|[https://library.stanford.edu/all/?q=british%20history&op=Search,p]::1;[https://www.foxnews.com/auto,p]::1;[https://www.englishclub.com/english-for-work/airline.htm,p]::1;
-<zhaldak|[https://www.nytimes.com/live/2022/05/09/world/ukraine-russia-war-news,p]::1;
-<zhaos|[https://www.amazon.science/latest-news/robin-deals-with-a-world-where-things-are-changing-all-around-it,p]::1;
+<zhang|[https://www.dailymail.co.uk/money/index.html,p]::1;

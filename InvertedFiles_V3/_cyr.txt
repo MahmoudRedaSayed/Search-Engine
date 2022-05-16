@@ -1,3 +1,2 @@
-<cyril|[https://www.dailymail.co.uk/news/sydney/index.html,h]::1;
-<cyrillic|[https://www.nytimes.com/2022/04/29/style/modern-love-rostov-on-don-russia.html,p]::1;
-<cyrus|[https://www.nytimes.com/2022/05/06/arts/music/bad-bunny-un-verano-sin-ti.html,p]::1;[https://www.amazon.science/latest-news/registration-remains-open-for-june-amazon-re-mars-event,p]::1;
+<cyrus|[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::2;[https://www.dailymail.co.uk/auhome/index.html,s]::1;
+<cyréna|[https://olympics.com/fr,h]::1;

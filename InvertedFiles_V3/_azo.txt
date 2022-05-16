@@ -1,14 +1,1 @@
-<azovstal|[https://www.dailymail.co.uk/news/russia-ukraine-conflict/index.html,h]::1;[https://www.dailymail.co.uk/news/worldnews/index.html,h]::1;[https://www.bbc.co.uk/news/world-europe-61332283,p]::1;[https://www.bbc.co.uk/news/live/world-europe-61353374,h]::1;[https://tinyurl.com/2p997hfj,p]::2;[https://www.bbc.co.uk/news/live/world-europe-61353374,p]::3;[https://www.marca.com/tiramillas/actualidad/2022/05/09/6278ff3c749dee001f4ac534-directo.html,s]::1;[https://www.marca.com/tiramillas/actualidad/2022/05/09/6278ff3c749dee001f4ac534-directo.html,p]::2;[https://www.foxnews.com/world/mariupol-steel-plant-all-women-children-elderly-evacuated-official,p]::4;[https://www.foxnews.com/category/world/united-nations,p]::1;[https://www.nytimes.com/live/2022/05/09/world/ukraine-russia-war-news,p]::1;[https://www.nytimes.com/2022/05/08/world/europe/ukraine-russia-biden.html,p]::2;[https://www.foxnews.com/us/elon-musk-cryptic-tweet-dying-mysterious-circumstances,p]::9;[https://www.foxnews.com/world/putin-blames-west-backing-threats-nuclear-war,p]::5;
-<azoxystrobin|[https://nautil.us/the-race-to-protect-sweet-corn-15873,p]::1;
-<azolla|[https://nautil.us/how-to-bury-carbon-let-plants-do-the-dirty-work-11810,p]::9;
-<azollastyle|[https://nautil.us/how-to-bury-carbon-let-plants-do-the-dirty-work-11810,p]::1;
-<azon|[https://disneytermsofuse.com/hungarian,p]::7;
-<azonos|[https://disneytermsofuse.com/hungarian,p]::3;
-<azonnali|[https://disneytermsofuse.com/hungarian,p]::1;
-<azok|[https://disneytermsofuse.com/hungarian,p]::6;
-<azonosító|[https://disneytermsofuse.com/hungarian,p]::1;
-<azokat|[https://disneytermsofuse.com/hungarian,p]::4;
-<azonban|[https://disneytermsofuse.com/hungarian,p]::2;
-<azonosítása|[https://disneytermsofuse.com/hungarian,p]::1;
-<azokkal|[https://disneytermsofuse.com/hungarian,p]::1;
-<azores•|[https://commons.wikimedia.org/wiki/Atlas_of_Australia,p]::1;
+<azovstal|[https://www.dailymail.co.uk/news/index.html,h]::1;[https://www.dailymail.co.uk/auhome/index.html,h]::1;[https://www.dailymail.co.uk/video/index.html,p]::1;[https://www.marca.com/tiramillas.html,h]::1;

@@ -1,2 +1,2 @@
-<idph|[https://dph.illinois.gov/covid19,p]::5;[https://postdoc.hms.harvard.edu/tools-resources,p]::8;[https://postdoc.hms.harvard.edu/guidelines,p]::4;
-<idps|[https://postdoc.hms.harvard.edu/tools-resources,p]::2;
+<idp|[https://stackoverflow.com/questions/tagged/openid,h]::1;[https://support.google.com/a/answer/60224,p]::6;
+<idps|[https://support.google.com/a/answer/60224,p]::1;

@@ -1,6 +1,2 @@
-<eugenol|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;[https://www.hearstmagazines.co.uk/good-housekeeping-beauty-box-7,p]::5;[https://www.hearstmagazines.co.uk/harpers-bazaar-beauty-box-9,p]::1;
-<eugenia|[https://www.hearstmagazines.co.uk/red-beauty-box-luxe-10,p]::1;[https://www.imdb.com/search/name/?match_all=true&ref_=nv_cel_m,p]::1;[https://meded.hms.harvard.edu/registrar,h]::1;[https://www.nytimes.com/live/2022/05/09/business/economy-news-stocks-inflation,p]::1;
-<eugenie|[https://www.dailymail.co.uk/news/prince-andrew/index.html,h]::4;[https://www.dailymail.co.uk/tvshowbiz/meghan-markle/index.html,h]::3;
-<eugenics|[https://www.bbc.com/future/article/20220503-why-human-brains-were-bigger-3000-years-ago,p]::1;[https://nautil.us/topics/sociology,h]::1;
-<eugene|[https://nautil.us/we-are-nowhere-close-to-the-limits-of-athletic-performance-2-11432,p]::1;[https://www.chicagotribune.com/news/obituaries/#nt=tertiarynavbar,h]::1;[https://www.chicagotribune.com/politics/elections/ct-mayor-race-who-is-in-who-is-out-20220509-6yqd5a7pkzgg7ozhl23qjbw5o4-list.html#nt=related-content&rt=chartbeat-flt,p]::1;[https://blog.ixl.com/category/life-at-ixl,h]::1;[https://blog.ixl.com/category/life-at-ixl,p]::2;
-<eugenio|[https://www.mayoclinic.org/about-mayo-clinic/contact,p]::1;
+<eugenio|[https://www.marca.com/ciclismo/giro-italia/2022/05/15/6280d6cd37ff7b0023a22828-directo.html,p]::1;
+<eugene|[https://blog.ixl.com/category/life-at-ixl,h]::1;[https://blog.ixl.com/category/life-at-ixl,p]::2;

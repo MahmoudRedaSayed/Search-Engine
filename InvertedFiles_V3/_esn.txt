@@ -1,3 +1,2 @@
-<esni|[https://blog.mozilla.org/security/2021/01/26/supercookie-protections,s]::1;
-<esnasında|[https://www.ugureskici.com/notlarim-makalelerim/evergreen-content-olumsuz-taze-icerikler,p]::1;[https://www.ugureskici.com/notlarim-makalelerim/digitalzone-2017-kimler-geldi-kimler-gecti-ne-ogrendik,p]::1;
-<esnifando|[https://www.marca.com/tiramillas/cine/2022/05/09/6278ca4fe2704e69088b45a2.html,s]::1;[https://www.marca.com/tiramillas/cine/2022/05/09/6278ca4fe2704e69088b45a2.html,p]::1;
+<esna|[https://english.ahram.org.eg/,p]::1;
+<esnpn|[https://english.ahram.org.eg/,p]::1;

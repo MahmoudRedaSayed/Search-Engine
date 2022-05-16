@@ -1,8 +1,2 @@
-<ofmonthly|[https://www.everydayhealth.com/pictures/celebrities-with-breast-cancer,p]::1;
-<ofmac|[https://www.apple.com/mac,h]::1;[https://www.apple.com/lae/mac,h]::1;
-<ofmind|[https://www.apple.com/services,p]::1;[https://www.apple.com/lae/services,p]::1;[https://www.whitehouse.gov/covidplan,h]::1;
-<ofmoney|[https://lifetickler.com/online-banking-smartphone,p]::1;
-<ofmotley|[https://www.fool.com/mms/mark/advert-millionaire-maker?utm_source=cnnmoney&utm_medium=contentmarketing&utm_campaign=sar-millionairemaker-dec2020&paid=9214&waid=9214&aid=9214&psource=esacnnwdg0210065&source=esacnnwdg0210065&wsource=esacnnwdg0210065,p]::1;
-<ofmayo|[https://healthyliving.mayoclinic.org/?mc_id=global&utm_source=mayoclinicorgmainnav&utm_medium=l&utm_content=healthylivingprogram&utm_campaign=hlp&geo=national&placementsite=enterprise&cauid=100469,p]::1;
-<ofmemorizing|[https://casino-now-canada.com/blackjack,p]::1;
-<ofmany|[https://casino-now-canada.com/casino-bonus/welcome,p]::1;
+<ofmac|[https://www.apple.com/lae/mac,h]::1;
+<ofmind|[https://www.apple.com/lae/services,p]::1;

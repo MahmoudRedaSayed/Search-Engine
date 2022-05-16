@@ -1,7 +1,1 @@
-<eerste|[https://nl.wikipedia.org/wiki/Cookie_(internet),p]::2;[https://onlinecasino-now.nl,p]::1;[https://casino-now.be,s]::2;[https://casino-now.be,p]::2;[https://onlinecasino-now.nl/casino-reviews,p]::2;[https://onlinecasino-now.nl/casino-reviews/playamo,p]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::5;[https://onlinecasino-now.nl/casino-software/netent,p]::7;
-<eerlijk|[https://onlinecasino-now.nl,p]::1;[https://casino-now.be,p]::2;[https://onlinecasino-now.nl/casino-reviews,p]::2;[https://onlinecasino-now.nl/casino-reviews/playamo,p]::2;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::2;[https://onlinecasino-now.nl/casino-software/netent,p]::2;
-<eerlijkheid|[https://onlinecasino-now.nl,p]::1;[https://onlinecasino-now.nl/casino-reviews,p]::1;[https://onlinecasino-now.nl/casino-reviews/playamo,p]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,h]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::1;[https://onlinecasino-now.nl/casino-software/netent,p]::5;
-<eerlijke|[https://onlinecasino-now.nl,p]::1;[https://casino-now.be,s]::1;[https://casino-now.be,p]::1;[https://onlinecasino-now.nl/casino-software/netent,s]::1;[https://onlinecasino-now.nl/casino-software/netent,p]::1;
-<eerily|[http://riversidearchives.tumblr.com,p]::1;
-<eerder|[https://onlinecasino-now.nl/casino-reviews/playamo,p]::1;
-<eerie|[https://www.foxnews.com/shows/fox-nation,p]::1;
+<eerie|[https://bbc.github.io/subtitle-guidelines,p]::1;

@@ -1,8 +1,2 @@
-<wicks|[https://www.bbc.co.uk/sounds,p]::1;[https://blog.nemours.org,p]::1;
-<wicked|[https://www.disneyadsales.com/our-brands/national-geographic,h]::1;
-<wichtigsten|[https://casino-now.at,h]::1;[https://onlinecasino-now.de,h]::2;[https://casino-now.at/casino-bewertung,h]::1;[https://casino-now.at/casino-bewertung,p]::1;[https://swiss-casino-now.com/casino-bewertung/playamo,h]::1;[https://swiss-casino-now.com/casino-bewertung/woo-casino,s]::1;[https://swiss-casino-now.com/casino-bewertung/woo-casino,p]::2;[https://casino-now.at/casino-bewertung/woo,p]::10;[https://swiss-casino-now.com/casino-bewertung/spin-casino,p]::1;[https://swiss-casino-now.com/casino-software/netent,p]::1;[https://casino-now.at/casino-software/netent,p]::3;[https://onlinecasino-now.de/casino-software/netent,p]::1;
-<wichita|[http://lbjlibrary.tumblr.com,p]::1;
-<wichtiges|[https://casino-now.at/casino-bewertung/woo,p]::1;[https://casino-now.at/casino-software/netent,p]::1;
-<wichtiger|[https://casino-now.at/casino-bewertung/woo,p]::1;[https://swiss-casino-now.com/casino-bewertung/spin-casino,p]::1;[https://casino-now.at/casino-software/netent,p]::1;
-<wiczai|[https://meded.hms.harvard.edu/teaching-awards,h]::1;[https://meded.hms.harvard.edu/teaching-awards,p]::1;
-<wickers|[http://www.chicagotribune.com/sports/baseball/cubs/ct-cubs-fan-ronnie-woo-woo--harassment--20170512-column.html,p]::25;
+<wicks|[https://www.bbc.co.uk,p]::1;[https://www.dailymail.co.uk/tvshowbiz/index.html,h]::1;[https://www.bbc.co.uk/sounds,p]::2;[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://www.dailymail.co.uk/tvshowbiz/index.html,p]::1;[https://www.dailymail.co.uk/health/index.html,s]::1;
+<wicketkeeper|[https://www.dailymail.co.uk/sport/index.html,p]::1;

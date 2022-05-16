@@ -1,6 +1,2 @@
-<erneuten|[https://de.wikipedia.org/wiki/HTTP-Cookie,p]::1;
-<ernie|[https://www.dailymail.co.uk/sport/golf/index.html,h]::1;
-<ernest|[https://www.bbc.co.uk/news/world-europe-61332283,p]::1;[https://kids.kiddle.co/History_of_Australia,p]::2;[http://www.jfklibrary.org,h]::1;[https://library.stanford.edu/all/?q=british%20history&op=Search,h]::1;[https://newsroom.loc.gov/news/national-recording-registry-inducts-music-from-alicia-keys--ricky-martin--journey-and-more-in-2022/s/fee30140-0454-401c-a2a2-205298e32fb1,s]::1;[https://newsroom.loc.gov/news/national-recording-registry-inducts-music-from-alicia-keys--ricky-martin--journey-and-more-in-2022/s/fee30140-0454-401c-a2a2-205298e32fb1,p]::2;[https://m.imdb.com/feature/bestpicture/?ref_=nv_ch_osc,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;
-<ernaar|[https://casino-now.be,p]::2;
-<ernstig|[https://onlinecasino-now.nl/casino-reviews/cookie,p]::1;[https://www.harvard.edu/copyright-issue,s]::1;
-<ernenwein|[https://www.englishclub.com/efl/category/articles,p]::1;
+<ernest|[https://en.wikipedia.org/wiki/British_English,p]::1;[https://www.dailymail.co.uk/femail/index.html,h]::1;
+<ernie|[https://bbc.github.io/subtitle-guidelines,p]::2;

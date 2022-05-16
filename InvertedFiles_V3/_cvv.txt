@@ -1,1 +1,1 @@
-<cvv|[https://twitter.com/privacy,p]::1;
+<cvv|[https://twitter.com/privacy,p]::2;[https://help.twitter.com/rules-and-policies/data-processing-legal-bases,p]::1;

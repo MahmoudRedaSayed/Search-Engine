@@ -1,7 +1,5 @@
-<lloris|[http://www.beinsports.com/ph,h]::1;[http://www.beinsports.com/ph,p]::1;
-<lloyd|[https://lifetickler.com/about-us,p]::1;[https://www.congress.gov,p]::1;[https://kids.kiddle.co/History_of_Australia,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::2;[https://www.nytimes.com/2022/05/09/opinion/sometimes-history-goes-backward.html,p]::1;
-<lloyds|[https://www.dailymail.co.uk/money/cardsloans/index.html,h]::1;[https://www.hearst.com/fitch-group,p]::1;
-<llorica|[https://www.marca.com/tiramillas/television/2022/05/09/6278df5e22601dae538b45cf.html,p]::1;
-<llorando|[https://www.marca.com/futbol/copa-rey.html?intcmp=MENUPROD&s_kw=futbol-copa-rey,h]::2;[https://www.marca.com/futbol/resto-america.html?intcmp=MENUPROD&s_kw=?intcmp=MENUPROD&s_kw=futbol-mas-america,h]::1;
-<llorar|[https://www.marca.com/futbol/liga-portuguesa.html?intcmp=MENUPROD&s_kw=primeira-liga-portugal,h]::1;
-<llobera|[https://www.marca.com/deportes-aventura.html?intcmp=MENUPROD&s_kw=deportes-aventura,h]::1;
+<lloyds|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk/news/index.html,h]::1;
+<llorente|[https://www.marca.com/futbol/laliga-santander/atletico-sevilla-directo/2022/05/15/01_0101_20220515_175_179.html,s]::5;[https://www.marca.com/futbol/laliga-santander/atletico-sevilla-directo/2022/05/15/01_0101_20220515_175_179.html,p]::9;[https://www.marca.com/futbol/primera-division/2022/05/15/6280d88e37ff7b0023a23044-directo.html,s]::1;[https://www.marca.com/futbol/primera-division/2022/05/15/6280d88e37ff7b0023a23044-directo.html,p]::1;
+<lloris|[https://www.dailymail.co.uk/sport/index.html,h]::1;[https://www.dailymail.co.uk/sport/index.html,p]::1;
+<llora|[https://www.marca.com/futbol/primera-division/2022/05/15/6280d88e37ff7b0023a23044-directo.html,p]::2;
+<llorica|[https://www.marca.com/radio.html?intcmp=BOTONPORTADA01&s_kw=radiomarca,h]::1;

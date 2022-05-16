@@ -1,2 +1,1 @@
-<syystä|[https://disneytermsofuse.com/finnish,p]::1;
-<syyn|[https://disneytermsofuse.com/finnish,p]::1;
+<syyyhteys|[https://fi.wiktionary.org/wiki/yhteys,p]::1;

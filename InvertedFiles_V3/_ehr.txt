@@ -1,5 +1,0 @@
-<ehr|[https://www.mayo.edu/research,h]::1;[https://www.symplr.com/provider-data-management/provider-directory-software,p]::3;[https://www.symplr.com/care-finder-direct-webmd,p]::2;[https://www.symplr.com/workforce-management/clinical-communications,h]::2;[https://www.symplr.com/workforce-management/clinical-communications,p]::3;[https://www.symplr.com/compliance-quality-safety/quality,p]::1;
-<ehrlich|[https://casino-now.at/casino-bewertung,s]::1;[https://casino-now.at/casino-bewertung,p]::1;[https://casino-now.at/casino-bewertung/woo,p]::1;[https://casino-now.at/casino-software/netent,p]::1;
-<ehrlichman|[http://richardnixonlibrary.tumblr.com,p]::1;
-<ehre|[https://casino-now.at/casino-software/netent,p]::1;
-<ehrgeizig|[https://casino-now.at/casino-software/netent,p]::1;

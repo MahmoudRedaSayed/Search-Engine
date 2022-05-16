@@ -1,3 +1,2 @@
-<ngo|[https://english.ahram.org.eg/,p]::1;[https://archive.org/about/bios.php,p]::1;[http://www.archive-it.org,p]::1;[https://www.iflscience.com/environment/russian-invasion-of-ukraine-suggests-fossil-fuel-demands-have-peaked-argues-ngo,t]::1;[https://www.iflscience.com/environment/russian-invasion-of-ukraine-suggests-fossil-fuel-demands-have-peaked-argues-ngo,h]::1;[http://history.house.gov,h]::1;
-<ngos|[https://archive.org/projects,p]::1;[https://archive.org/about/bios.php,p]::1;[https://www.youtube.com/about/policies,p]::2;[https://www.iflscience.com/environment/russian-invasion-of-ukraine-suggests-fossil-fuel-demands-have-peaked-argues-ngo,p]::1;
-<ngozi|[https://www.nytimes.com/2022/05/03/business/economy/pandemic-supply-chains-inflation.html,p]::1;
+<ngo|[https://www.iflscience.com/environment,h]::1;[https://archive.org/about/bios.php,p]::1;[http://www.archive-it.org,p]::1;
+<ngos|[https://archive.org/projects,p]::1;[https://help.twitter.com/rules-and-policies/twitter-api,p]::1;[https://archive.org/about/bios.php,p]::1;

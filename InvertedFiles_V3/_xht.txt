@@ -1,1 +1,1 @@
-<xhtml|[https://www.tutorialspoint.com/css/index.htm,p]::3;[https://www.tutorialspoint.com/web_development_tutorials.htm,p]::1;
+<xhtml|[https://en.wikipedia.org/wiki/Object-oriented_programming,p]::1;

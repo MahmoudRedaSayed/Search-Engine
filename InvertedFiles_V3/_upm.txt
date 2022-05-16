@@ -1,1 +1,1 @@
-<upmarket|[https://www.dailymail.co.uk/femail/index.html,h]::1;
+<upmarket|[https://www.dailymail.co.uk/money/index.html,p]::1;

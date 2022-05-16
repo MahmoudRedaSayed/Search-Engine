@@ -1,2 +1,1 @@
-<mncahn|[https://www.who.int,p]::1;
-<mncs|[https://www.englishclub.com/business-english/resumes.htm,s]::1;[https://www.englishclub.com/business-english/resumes.htm,p]::1;[https://www.geeksforgeeks.org/campus-geek-of-the-month/?ref=ghm,p]::1;
+<mnc|[https://bbc.github.io/subtitle-guidelines,p]::1;

@@ -1,2 +1,2 @@
-<gaethje|[https://www.dailymail.co.uk/sport/racing/index.html,s]::1;[https://www.dailymail.co.uk/sport/tennis/index.html,s]::1;[https://www.dailymail.co.uk/sport/golf/index.html,s]::1;[https://www.dailymail.co.uk/sport/mma/index.html,h]::6;[https://www.dailymail.co.uk/sport/mma/index.html,s]::1;
-<gaetz|[https://www.nytimes.com/2022/05/07/opinion/abortion-supreme-court-puritanism.html,p]::1;
+<gaethje|[https://www.dailymail.co.uk/sport/index.html,s]::1;
+<gaelic|[https://en.wikipedia.org/wiki/British_English,p]::1;

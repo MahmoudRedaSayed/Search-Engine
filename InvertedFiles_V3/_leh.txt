@@ -1,10 +1,2 @@
-<lehrerfreund|[https://edaa.eu/participating-companies,h]::1;
-<lehman|[https://www.dailymail.co.uk/home/search.html,h]::1;[https://www.dailymail.co.uk/privacy#ccpaExplicitNotice,s]::1;[https://www.dailymail.co.uk/terms,s]::1;[https://www.dailymail.co.uk/home/article-3633654/CONTRIBUTIONS-STANDARD-TERMS-CONDITIONS.html,s]::1;[https://www.dailymail.co.uk/additionalcookieinfo,s]::1;[https://www.dailymail.co.uk/syndication,s]::1;[https://www.nytimes.com/live/2022/05/09/theater/tony-awards,h]::1;[https://www.nytimes.com/live/2022/05/09/theater/tony-awards,p]::8;[https://www.nytimes.com/2022/05/09/theater/tony-awards-nominees.html,p]::8;
-<lehetnek|[https://disneytermsofuse.com/hungarian,p]::9;
-<lehetővé|[https://disneytermsofuse.com/hungarian,p]::4;
-<lehetőségéről|[https://disneytermsofuse.com/hungarian,p]::1;
-<lehetséges|[https://disneytermsofuse.com/hungarian,p]::4;
-<lehetőségét|[https://disneytermsofuse.com/hungarian,p]::1;
-<lehetősége|[https://disneytermsofuse.com/hungarian,p]::3;
-<lehrman|[http://www.besthistorysites.net/index.php/american-history,p]::2;
-<lehigh|[http://www.besthistorysites.net/index.php/american-history,p]::1;[https://www.mcall.com,t]::1;[https://www.mcall.com,h]::2;[https://www.mcall.com,p]::7;
+<leh|[https://www.bbc.com/,p]::1;
+<lehman|[https://www.tutorialspoint.com/what-is-the-equity-carve-outs-in-divestitures,p]::6;

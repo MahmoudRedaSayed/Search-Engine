@@ -1,2 +1,1 @@
-<amroliwala|[https://www.bbc.co.uk/schedules/p00fzl9m,p]::4;[https://www.nationalgeographic.com/pages/article/masthead,p]::1;
-<amri|[https://australian.museum/learn/science/human-evolution/how-have-we-changed-since-our-species-first-appeared,s]::1;
+<amroliwala|[https://www.bbc.co.uk/schedules/p00fzl9m,p]::4;

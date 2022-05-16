@@ -1,8 +1,2 @@
-<nekte|[https://no.wikipedia.org/wiki/Informasjonskapsel,p]::1;
-<neki|[https://sh.wikipedia.org/wiki/Cookie,p]::2;
-<neku|[https://sh.wikipedia.org/wiki/Cookie,p]::1;
-<neke|[https://sh.wikipedia.org/wiki/Cookie,p]::3;
+<nekita|[https://www.dailymail.co.uk/femail/index.html,p]::1;
 <nekog|[http://www.enable-javascript.com/hr,h]::1;
-<nekadar|[https://www.ugureskici.com/notlarim-makalelerim/murphy-kanunlari,p]::1;
-<nekomerčnímu|[https://disneytermsofuse.com/czech,p]::2;
-<nekünk|[https://disneytermsofuse.com/hungarian,p]::2;

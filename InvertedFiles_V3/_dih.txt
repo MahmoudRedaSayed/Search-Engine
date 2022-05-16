@@ -1,4 +1,0 @@
-<dihantar|[https://ms.wikipedia.org/wiki/Kuki_HTTP,p]::2;[https://disneytermsofuse.com/bahasa-malaysia,p]::5;[https://postgraduateeducation.hms.harvard.edu/participant-perspectives,p]::1;
-<dihadkan|[https://disneytermsofuse.com/bahasa-malaysia,p]::1;
-<dihuraikan|[https://disneytermsofuse.com/bahasa-malaysia,p]::1;
-<dihantarselepas|[https://disneytermsofuse.com/bahasa-malaysia,p]::1;

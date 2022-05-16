@@ -1,2 +1,0 @@
-<itp|[https://www.theverge.com/2020/3/24/21192830/apple-safari-intelligent-tracking-privacy-full-third-party-cookie-blocking,p]::8;[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://www.nytimes.com/privacy/cookie-policy#how-do-i-manage-trackers,p]::1;[https://meded.hms.harvard.edu/health-sciences-technology,p]::1;
-<itphotograph|[https://nautil.us/topics/genetics,p]::1;[https://nautil.us/topics/technology,p]::1;

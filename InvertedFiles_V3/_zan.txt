@@ -1,7 +1,6 @@
-<zanechávať|[https://sk.wikipedia.org/wiki/HTTP_cookie,p]::1;[https://www.dailymail.co.uk/news/prince-andrew/index.html,h]::1;[https://m.imdb.com/feature/bestpicture/?ref_=nv_ch_osc,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;
-<zanimljive|[http://toni.podmanicki.com,h]::1;[https://disneytermsofuse.com/polish,p]::3;
+<zancadillas|[https://www.marca.com/futbol/laliga-santander/atletico-sevilla-directo/2022/05/15/01_0101_20220515_175_179.html,p]::1;
+<zana|[https://www.marca.com/ciclismo/giro-italia/2022/05/15/6280d6cd37ff7b0023a22828-directo.html,p]::2;
 <zandvoort|[https://www.marca.com/motor/formula1/calendario.html,h]::1;
-<zancadillas|[https://www.marca.com/futbol/supercopa-europa.html?intcmp=MENUPROD&s_kw=supercopa-europa,h]::1;
-<zandron|[https://www.marca.com/juegos-olimpicos-invierno.html?intcmp=MENUPROD&s_kw=juegos-olimpicos-invierno,h]::2;
-<zanzibar|[https://commons.wikimedia.org/wiki/Atlas_of_Australia,p]::1;
-<zanon|[https://www.dailywritingtips.com/when-to-use-on-and-when-to-use-in,s]::1;
+<zanjar|[https://www.marca.com/tiramillas/television/2021/10/19/616ead5e22601d8c0d8b4615.html,p]::1;
+<zanimljive|[http://toni.podmanicki.com,h]::1;
+<zanima|[http://toni.podmanicki.com,p]::1;

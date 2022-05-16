@@ -1,3 +1,5 @@
+<mojave|[https://support.apple.com/HT202530,p]::3;[https://www.iflscience.com/technology,h]::1;
 <moja|[http://toni.podmanicki.com,h]::1;
-<moje|[https://kasyno-now.com/recenzja/woo,h]::1;
-<mojo|[https://help.imdb.com/article/imdb/general-information/imdb-site-index/GNCX7BHNSPBTFALQ#so,s]::1;[https://help.imdb.com/article/imdb/general-information/imdb-site-index/GNCX7BHNSPBTFALQ#so,p]::2;[https://www.boxofficemojo.com,t]::1;[https://www.imdb.com/pressroom/?ref_=ft_pr,p]::2;[https://www.boxofficemojo.com,p]::1;[https://www.amazon.jobs/en/teams/imdb,p]::2;
+<moje|[http://toni.podmanicki.com,p]::1;
+<mojav|[https://www.iflscience.com/technology,p]::1;
+<mojica|[https://www.sensesofcinema.com/special-dossiers,h]::1;

@@ -1,2 +1,0 @@
-<ryzykowne|[https://pl.wikipedia.org/wiki/HTTP_cookie,p]::2;[https://disneytermsofuse.com/polish,p]::1;[https://kasyno-now.com,p]::1;
-<ryzyka|[https://kasyno-now.com,p]::1;
