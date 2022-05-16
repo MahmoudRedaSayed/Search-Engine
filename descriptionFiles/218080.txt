@@ -1,1 +1,0 @@
-hadoop tutorial,  hadoop is an open-source framework that allows to store and process big data in a distributed environment across clusters of computers using simple programming 

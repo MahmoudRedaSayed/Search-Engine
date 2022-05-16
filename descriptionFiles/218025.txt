@@ -1,1 +1,0 @@
-web development technologies - tutorials for dom, angularjs, svg, xsd, xpath, xslt, web development technologies including adobe flex, gwt, jsf, asp.net, html, html5, xhtml, css, javascript, vbscript, jquery, jqueryui, bootstrap, prototype, script.aculo.us, web developer s guide, ruby on rails etc.

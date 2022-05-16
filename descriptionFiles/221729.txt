@@ -1,1 +1,0 @@
-github is where over 83 million developers shape the future of software, together. contribute to the open source community, manage your git repositories, review code like a pro, track bugs and features, power your ci/cd and devops workflows, and secure code before you commit it.

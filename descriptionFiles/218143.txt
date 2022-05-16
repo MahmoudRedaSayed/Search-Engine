@@ -1,1 +1,0 @@
-a security researcher says obtaining one cookie could have compromised all google services in a new internet explorer cross-site scripting attack. read this article by robert vamosi on cnet news.

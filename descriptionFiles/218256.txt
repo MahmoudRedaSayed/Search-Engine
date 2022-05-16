@@ -1,1 +1,0 @@
-learn about cookies, pixels and local storage, how we use them, and your privacy options.

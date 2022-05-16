@@ -1,1 +1,0 @@
-node.js is an open-source and cross-platform runtime environment built on chrome’s v8 javascript engine for executing javascript code outside of a browser.

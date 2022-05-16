@@ -1,1 +1,0 @@
-swift tutorial,  swift 4 is a new programming language developed by apple inc for ios and os x development. swift 4 adopts the best of c and objective-c, without the constraints

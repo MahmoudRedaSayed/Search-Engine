@@ -20,7 +20,7 @@ import com.mysql.cj.xdevapi.DatabaseObject;
 import com.mysql.cj.xdevapi.JsonArray;
 import com.mysql.cj.xdevapi.JsonString;
 //import QueryProcessingPackages.Query.QueryProcessing;
-import RankerPackage.Ranker.*;
+//import RankerPackage.Ranker.*;
 import org.json.*;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -185,7 +185,6 @@ public class Main {
 //        ///////////////////////////////////////////////////////
 //
             /*---------------     Start Indexing ----------------------*/
-         //create files
         WorkingFiles.createInvertedFiles();
 
         // connect to db
@@ -244,7 +243,21 @@ public class Main {
 //            /*---------------     End Of Indexing ----------------------*/
 
         /*-------------------------------popularity secation------------------------*/
-        //Ranker objRanker=new Ranker();
+
+//        DataBase con = new DataBase();
+//        String[] arr = {"wayback", "machine"};
+//        ArrayList<String>links = new ArrayList<>();
+//        links.add("https://web.archive.org/");
+//        links.add("https://cancer.osu.edu");
+//        Map<String, String> d = con.getLinksParagraphs(links);
+//
+//
+//        Map<String, String> res =  HelperClass.getSnippet(arr, links, d);
+//        System.out.println("herh");
+
+
+
+
 
 
     }

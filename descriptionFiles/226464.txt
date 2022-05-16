@@ -1,1 +1,0 @@
-gate cs topic wise preparation notes on operating systems, dbms, theory of computation, mathematics, computer organization, and digital electronics

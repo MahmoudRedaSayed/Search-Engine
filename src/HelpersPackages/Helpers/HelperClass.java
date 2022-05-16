@@ -228,38 +228,45 @@ public class HelperClass {
     }
 
     // this function gets the snippets of the result links based on the query that the user entered
-    public static Map<String, String> getSnippet(String[] queryWords, String[] resultLinks, Map<String, String> linkParagraphs)
+    public static Map<String, String> getSnippet(String[] queryWords, ArrayList<String> resultLinks, Map<String, String> linkParagraphs)
     {
         Map<String, String> result = new HashMap<>();
         int wordsSize = queryWords.length,
-            linksSize = resultLinks.length;
+                linksSize = resultLinks.size();
 
         String currentParagraph = null,
-               snippetParagraph = null,
-               fullParagraphs   = null;
+                snippetParagraph = null,
+                fullParagraphs   = null;
 
         for (int i = 0; i < wordsSize; i++)
         {
-
-
             for (int j = 0; j < linksSize; j++)
             {
-                if (result.containsKey(resultLinks[j])) // we need just one snippet for each link, so if we already get a snippet ,then continue
+                String currentLink = resultLinks.get(j);
+                if (result.containsKey(currentLink)) // we need just one snippet for each link, so if we already get a snippet ,then continue
                     continue;
 
-                fullParagraphs = linkParagraphs.get(resultLinks[j]);
+                fullParagraphs = linkParagraphs.get(currentLink);
                 // split paragraphs
                 if (fullParagraphs != null)
                 {
-                        String[] separatedParagraphs = fullParagraphs.split("\\S.&\\S");
-                        int size = separatedParagraphs.length;
+                    String[] separatedParagraphs = fullParagraphs.split("\\S.&\\S");
 
-                        for (int k = 0; k < size; k++)
-                            if (separatedParagraphs[k].contains(queryWords[i]))
-                            {
-                                result.put(resultLinks[j], splitTo30Words(separatedParagraphs[k]));
-                                break;      // because i need just one snippet, if found don't continue to the other paragraphs in this link
-                            }
+                    int size = separatedParagraphs.length;
+
+                    for (int k = 0; k < size; k++)
+                    {
+                        currentParagraph = separatedParagraphs[k];
+                        if (currentParagraph.contains(queryWords[i]))
+                        {
+                            if(currentParagraph.charAt(0) == '[')
+                                currentParagraph = currentParagraph.substring(1);
+
+                            result.put(currentLink, splitTo30Words(currentParagraph));
+                            break;      // because i need just one snippet, if found don't continue to the other paragraphs in this link
+                        }
+                    }
+
                 }
             }
         }

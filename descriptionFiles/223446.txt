@@ -1,1 +1,0 @@
-discourse is modern forum software for your community. use it as a mailing list, discussion forum, long-form chat room, and more!

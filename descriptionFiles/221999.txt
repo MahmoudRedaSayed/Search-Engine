@@ -1,1 +1,0 @@
-coğrafi hedef yapılandırması ile içeriğin doğru kitleye ulaşmasını sağlamak için genelde 2 yöntem kullanılır. url düzeyinde ve site genelinde hedefleme.

@@ -1,1 +1,0 @@
-tutorials for computer programming languages including cics, fortran, sed, cobol, assembly, c, c++, java, c#, objective c, d lang, euphoria, jcl, lisp, matlab, pascal, scala, vb.net, python, ruby, perl, php, lua etc.

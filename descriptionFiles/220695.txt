@@ -1,1 +1,0 @@
-instructions on how to enable (activate) javascript in web browser and why.

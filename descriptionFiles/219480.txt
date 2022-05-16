@@ -1,1 +1,0 @@
-describes how to manage cookies in internet explorer 6.

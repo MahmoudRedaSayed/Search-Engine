@@ -1,1 +1,0 @@
-angularjs is a javascript open-source front-end framework that is mainly used to develop single-page web applications(spas).

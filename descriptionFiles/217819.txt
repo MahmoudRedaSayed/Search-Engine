@@ -1,1 +1,0 @@
-learn the best practices for building games on google assistant.

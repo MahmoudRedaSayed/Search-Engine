@@ -1,1 +1,0 @@
-jquery is an open-source javascript library that simplifies the interactions between an html/css document, or more precisely the dom, and javascript.

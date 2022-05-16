@@ -1,2 +1,0 @@
-opening for discussion, per the last interim group meeting.
-this should correspond to https://tools.ietf.org/html/draft-west-cookie-incrementalism-01#section-3.2

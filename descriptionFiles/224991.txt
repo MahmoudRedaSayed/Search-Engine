@@ -1,1 +1,0 @@
-full calendar  options to sort events by office and/or type.

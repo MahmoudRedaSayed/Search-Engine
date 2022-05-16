@@ -357,6 +357,7 @@ public class DataBase {
             while(resultSet.next())
             {
                 this.stmt.executeUpdate("Delete from links where Id="+id+" and LinkParent !=-1;");
+
             }
             return null;
         }
@@ -541,18 +542,18 @@ public class DataBase {
     }
 
     // get map of the needed links and its paragraphs
-    public Map<String, String> getLinksParagraphs(String[] links)
+    public Map<String, String> getLinksParagraphs(ArrayList<String> links)
     {
-        int size = links.length;
+        int size = links.size();
         Map<String, String> resultMap = new HashMap<>();
         try {
             String query = "SELECT Link, Paragraph FROM links where Link IN (";
             int i;
             for (i = 0; i < size - 1; i++)
-                query += "'" + links[i] + "',";
+                query += "'" + links.get(i) + "',";
 
             // last link
-            query += "'" + links[i] + "');";
+            query += "'" + links.get(i) + "');";
 
             ResultSet resultSet = this.stmt.executeQuery(query);
 

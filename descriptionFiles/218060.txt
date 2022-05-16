@@ -1,1 +1,0 @@
-pl/sql tutorial,  pl/sql is a combination of sql along with the procedural features of programming languages. it was developed by oracle corporation in the early 90 s to enhance 

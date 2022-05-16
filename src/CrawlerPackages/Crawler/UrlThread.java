@@ -31,7 +31,11 @@ import org.json.*;
 
 
 
-
+class RobotRule {
+    public String userAgent;
+    public String rule;
+    public String allowRule;
+}
 
 
 

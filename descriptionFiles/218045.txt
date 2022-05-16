@@ -1,1 +1,0 @@
-hibernate tutorial,  hibernate is a high-performance object/relational persistence and query service, which is licensed under the open source gnu lesser general public license (lgpl

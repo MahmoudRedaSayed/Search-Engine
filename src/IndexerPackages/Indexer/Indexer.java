@@ -217,7 +217,7 @@ public class Indexer implements Runnable {
     // remove non-important symbols
     private String removeSymbols(String str)
     {
-        str = str.replaceAll("[\\[`~@#$%^&*(\")“\\-{}|_=<–>+:,.!;?'”/1234567890\\]]", "");  // replaced with a space, to use the space as a separator in splitting the string
+        str = str.replaceAll("[\\[`~@#$%^&*(\")“\\-{£—›δ…©}|_=<–>+:,.!;?'”/1234567890\\]]", "");  // replaced with a space, to use the space as a separator in splitting the string
         str = str.replaceAll("[؟.,ٍـ،/ًٌَُ‘÷×؛’ْ~]", "");
         str = str.replaceAll("\\\"","\"");
         str = str.replaceAll("\\\'","\'");

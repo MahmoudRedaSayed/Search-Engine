@@ -1,1 +1,0 @@
-apple has an update out for safari’s intelligent tracking prevention tool set that makes its web browser even more secure. now, safari blocks all third-party cookies by default, with no exceptions, thanks to fundamental changes to the way traffic is handled.

@@ -1,2 +1,0 @@
-the set-cookie http response header is used to send a cookie from the server to the user agent, so that the user agent can send it back to the server later.
-  to send multiple cookies, multiple set-cookie headers should be sent in the same response.

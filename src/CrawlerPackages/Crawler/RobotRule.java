@@ -1,7 +1,7 @@
-package CrawlerPackages.Crawler;
+//package CrawlerPackages.Crawler;
 
-public class RobotRule {
-    public String userAgent;
-    public String rule;
-    public String allowRule;
-}
+//public class RobotRule {
+//    public String userAgent;
+//    public String rule;
+//    public String allowRule;
+//}

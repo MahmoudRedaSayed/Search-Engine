@@ -1,1 +1,0 @@
-this is an interactive multiple-choice javascript quiz for students of english as a second language.

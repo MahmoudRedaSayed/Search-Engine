@@ -1,1 +1,0 @@
-an overview of the differences between expires and max-age for http cookies, as well as issues with cross-browser support.

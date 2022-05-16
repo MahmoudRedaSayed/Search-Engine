@@ -1,1 +1,0 @@
-entity framework tutorial,  entity framework is an object relational mapping (orm) framework that offers an automated mechanism to developers for storing and accessing the data in the data

@@ -1,1 +1,0 @@
-angular 4 tutorial,  angular 4 is a javascript framework for building web applications and apps in javascript, html, and typescript, which is a superset of javascript. angular provi
