@@ -1,5 +1,5 @@
-# :mag: SearchK3M
-SearchK3M is a search engine similar to Google, Yahoo, and Bing. The repo contains the engine's frontend, backend, crawler, and indexer.
+# :mag: <i style="color: rgb(11 149 212);font-family:cursive">K<i style="color:#c7c2c2">3</i>M</i>
+Search <i style="color: rgb(11 149 212);font-family:cursive">K<i style="color:#c7c2c2">3</i>M</i> is a search engine similar to Google, Yahoo, and Bing. The repo contains the engine's frontend, backend, crawler, and indexer.
 
 
 ## 📷 Screenshots
