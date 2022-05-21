@@ -8,6 +8,8 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.*;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 public class HelperClass {
 
@@ -138,6 +140,8 @@ public class HelperClass {
             // compare to check if this word = ourWord ?
             {
 //                // get the word
+                if (tempInput.indexOf('|') < 0)
+                    return "";
                 wordInFile = tempInput.substring(1, tempInput.indexOf('|'));
                 int wordSize = word.length();
 //                char ch = tempInput.charAt(1);      // just initialization
@@ -228,6 +232,7 @@ public class HelperClass {
     }
 
     // this function gets the snippets of the result links based on the query that the user entered
+    // this function gets the snippets of the result links based on the query that the user entered
     public static Map<String, String> getSnippet(String[] queryWords, ArrayList<String> resultLinks, Map<String, String> linkParagraphs)
     {
         Map<String, String> result = new HashMap<>();
@@ -257,10 +262,14 @@ public class HelperClass {
                     for (int k = 0; k < size; k++)
                     {
                         currentParagraph = separatedParagraphs[k];
-                        if (currentParagraph.contains(queryWords[i]))
+//                        if (currentParagraph.contains(queryWords[i]))
+                        if (isContain(currentParagraph, queryWords[i]))
                         {
                             if(currentParagraph.charAt(0) == '[')
                                 currentParagraph = currentParagraph.substring(1);
+
+                            else if (currentParagraph.charAt(0)== '.' && currentParagraph.charAt(1)== '&')
+                                currentParagraph = currentParagraph.substring(3);
 
                             result.put(currentLink, splitTo30Words(currentParagraph));
                             break;      // because i need just one snippet, if found don't continue to the other paragraphs in this link
@@ -286,6 +295,62 @@ public class HelperClass {
             result += " " + arr[i];
 
         return result;
+    }
+
+    public static boolean isContain(String source, String subItem){
+        String pattern = "\\b"+subItem+"\\b";
+        Pattern p=Pattern.compile(pattern);
+        Matcher m=p.matcher(source);
+        return m.find();
+    }
+
+    public static Map<Integer, String> getAllContent(Map<String, Integer>IDs)
+    {
+        Map<Integer, String> result = new HashMap<>();
+        String content;
+        Integer id;
+        for (Iterator<Map.Entry<String, Integer>> it = IDs.entrySet().iterator(); it.hasNext(); ) {
+            Map.Entry<String, Integer> entry = it.next();
+            id=IDs.get(entry.getKey());
+            content = readContent(id);
+            result.put(id, content);
+        }
+        return result;
+    }
+
+    public static Map<Integer, Double> getAllPopularity(Map<String, Integer>IDs)
+    {
+        Map<Integer,Double> result = new HashMap<>();
+        String content;
+        Integer id;
+        for (Iterator<Map.Entry<String, Integer>> it = IDs.entrySet().iterator(); it.hasNext(); ) {
+            Map.Entry<String, Integer> entry = it.next();
+            id=IDs.get(entry.getKey());
+            content = readPopularity(id);
+            if ( content.equals("")  || content.equals(" ") || content.equals(null)   )
+            {
+                continue;
+            }
+            result.put(id, Double.parseDouble(content));
+        }
+        return result;
+    }
+
+    // function to read popularity
+    public static String readPopularity(int fileName)
+    {
+        Path filePath = Path.of(populairtyFilesPath() + File.separator + fileName + ".txt");
+        if(!filePath.toFile().exists())
+        {
+            return " ";
+        }
+        String content = null;
+        try {
+            content = Files.readString(filePath);
+            return content;
+        } catch (IOException e) {
+            return null;
+        }
     }
 
 }

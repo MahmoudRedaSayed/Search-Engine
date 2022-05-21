@@ -1,189 +1,75 @@
 package TestingPackage;
-import java.io.File;
-import java.io.FileNotFoundException;
+import java.io.BufferedReader;
 import java.io.IOException;
-import java.nio.file.Paths;
-import java.sql.ResultSet;
-import java.sql.SQLException;
+import java.io.InputStreamReader;
+import java.io.FileNotFoundException;
 import java.util.*;
 import CrawlerPackages.Crawler.*;
-import CrawlerPackages.Crawler.UrlThread.*;
 import DataBasePackages.DataBase.*;
-import HelpersPackages.Helpers.HelperClass;
-import HelpersPackages.Helpers.WorkingFiles;
-import IndexerPackages.Indexer.Indexer;
-import IndexerPackages.Indexer.PageParsing;
-//import PhraseSearchingPackages.PhraseSearching.*;
-//import ServletsPackages.ServletPackage.QuerySearch;
-import IndexerPackages.Indexer.Indexer;
-import com.mysql.cj.xdevapi.DatabaseObject;
-import com.mysql.cj.xdevapi.JsonArray;
-import com.mysql.cj.xdevapi.JsonString;
-//import QueryProcessingPackages.Query.QueryProcessing;
-//import RankerPackage.Ranker.*;
-import org.json.*;
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
-import org.jsoup.select.Elements;
-
-import javax.print.Doc;
-import javax.xml.crypto.Data;
+import  IndexerPackages.Indexer.*;
+import HelpersPackages.Helpers.*;
+import RankerPackage.Ranker.*;
+import java.util.Map;
+import org.json.JSONException;
 
 public class Main {
 
     public static void main(String[] args) throws FileNotFoundException, JSONException {
-
         //----------------------------------------Crawler-----------------------------------------//
 
-        Thread ThreadsArray[]= new Thread[70];
-//
-//        UrlThread.Limit=0;
-//        Thread.currentThread().setName("Thread1");
-//        ThreadsArray[0]=new Thread(new UrlThread());
-//        ThreadsArray[0].setName("Thread1");
-//        ThreadsArray[0].run();
-//        ThreadsArray[1]=new Thread(new UrlThread());
-//        ThreadsArray[1].setName("Thread11");
-//        ThreadsArray[2]=new Thread(new UrlThread());
-//        ThreadsArray[2].setName("Thread4");
-//        ThreadsArray[3]=new Thread(new UrlThread());
-//        ThreadsArray[3].setName("Thread45");
-//        ThreadsArray[4]=new Thread(new UrlThread());
-//        ThreadsArray[4].setName("Thread46");
-//        ThreadsArray[5]=new Thread(new UrlThread());
-//        ThreadsArray[5].setName("Thread50");
-//        ThreadsArray[6]=new Thread(new UrlThread());
-//        ThreadsArray[6].setName("Thread53");
-//        ThreadsArray[7]=new Thread(new UrlThread());
-//        ThreadsArray[7].setName("Thread57");
-//        ThreadsArray[8]=new Thread(new UrlThread());
-//        ThreadsArray[8].setName("Thread60");
-//        ThreadsArray[9]=new Thread(new UrlThread());
-//        ThreadsArray[9].setName("Thread7");
-//        for(int i=0;i<10;i++)
-//        {
-//            ThreadsArray[i].start();
-//        }
-//        for(int i=0;i<10;i++)
-//        {
-//            try {
-//                ThreadsArray[i].join();
-//            } catch (InterruptedException e) {
-//                e.printStackTrace();
-//            }
-//        }
-//        for(int i=0;i<25;i++)
-//        {
-//            ThreadsArray[i]= new Thread(new UrlThread());
-//            ThreadsArray[i].setName("Thread"+(i+1));
-//        }
-//        for(int i=0;i<25;i++)
-//        {
-//            ThreadsArray[i].start();
-//        }
-//        for(int i=0;i<25;i++)
-//        {
-//            try {
-//                ThreadsArray[i].join();
-//            } catch (InterruptedException e) {
-//                e.printStackTrace();
-//            }
-//        }
+        InputStreamReader isr = new InputStreamReader(System.in);
+        BufferedReader br = new BufferedReader(isr);
+        int numberOfThreads;
 
-//        UrlThread.Limit=200;
-//        for(int i=25;i<50;i++)
-//        {
-//            ThreadsArray[i]= new Thread(new UrlThread());
-//            ThreadsArray[i].setName("Thread"+(i+1));
-//        }
-//        for(int i=25;i<50;i++)
-//        {
-//            ThreadsArray[i].start();
-//        }
-//        for(int i=25;i<50;i++)
-//        {
-//            try {
-//                ThreadsArray[i].join();
-//            } catch (InterruptedException e) {
-//                e.printStackTrace();
-//            }
-//        }
-//
-//        UrlThread.Limit=100;
-//        for(int i=50;i<70;i++)
-//        {
-//            ThreadsArray[i]= new Thread(new UrlThread());
-//            ThreadsArray[i].setName("Thread"+(i+1));
-//        }
-//        for(int i=50;i<70;i++)
-//        {
-//            ThreadsArray[i].start();
-//        }
-//        for(int i=50;i<70;i++)
-//        {
-//            try {
-//                ThreadsArray[i].join();
-//            } catch (InterruptedException e) {
-//                e.printStackTrace();
-//            }
-//        }
+        System.out.println("Enter the number of Threads :");
+        String str = null;
+        try {
+            str = br.readLine();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        System.out.println(str);
+        numberOfThreads=Integer.parseInt(str);
+        //first get the number of the inserted links
+        //then check if it equals to 5100
+        DataBase dataBaseObj=new DataBase();
+        UrlThread.Limit+=dataBaseObj.getCompleteCount();
+        if(UrlThread.Limit>=5100)
+        {
+            //new crawling delete the data base and set Limit=0
+            dataBaseObj.deleteLinks();
+            dataBaseObj.updateThreads();
+            UrlThread.Limit=0;
 
+        }
+        Thread ThreadsArray[]= new Thread[72];
+        int count=72,threadCounter=0;
 
+        while(count>=0)
+        {
+
+            for(int i=threadCounter;i<numberOfThreads+threadCounter;i++)
+            {
+                ThreadsArray[i]=new Thread(new UrlThread());
+                ThreadsArray[i].setName("Thread"+(i+1));
+            }
+            for(int i=threadCounter;i<numberOfThreads+threadCounter;i++)
+            {
+                ThreadsArray[i].start();
+            }
+            for(int i=threadCounter;i<numberOfThreads+threadCounter;i++)
+            {
+                try {
+                    ThreadsArray[i].join();
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+            }
+            threadCounter+=numberOfThreads;
+            count-=numberOfThreads;
+        }
         //-------------------------------------------------------------------------------------------------------------//
-        // DataBase DataBaseObject = new DataBase();
-        // UrlThread.Limit+=DataBaseObject.getCompleteCount();
-//         Thread ThreadsArray[]=new Thread[51];
-//
-//        JSONArray dividedQuery = new JSONArray();
-//        Ranker rankerObj = new Ranker();
-//        String finalJSONARRAY;
-//        QueryProcessing obj = new QueryProcessing();
-//        PhraseSearching phraseSearchingObj = new PhraseSearching();
-//        String searchingQuery;
-//        ArrayList<String> rankerArray = new ArrayList<String>();
-//        searchingQuery = " provide programs";
-//        System.out.println(searchingQuery);
-//        finalJSONARRAY = obj.run(searchingQuery, rankerArray, dividedQuery);
-////        HashMap<String, Double> toBeSorted = new HashMap<String, Double>();
-////        toBeSorted.put("link1", 0.25);
-////        toBeSorted.put("Link2", 0.5);
-////        toBeSorted.put("Link3", 0.45);
-//
-//        Map<String, Double> rankingResult = rankerObj.calculateRelevance(rankerArray);
-//        HashMap<String, Double> toBeSorted = new HashMap<String, Double>(rankingResult);
-//        HashMap<String, Double> sortedRankerMap = QueryProcessing.sortByValue(toBeSorted);
-//       // HashMap<String,Double> linksRankedMap = QueryProcessing.replaceIDByLink(toBeSorted);
-//
-//        for (Map.Entry<String, Double> entry : sortedRankerMap.entrySet()) {
-//            System.out.println(entry.getKey() /*+ "   :" + entry.getValue().toString()*/);
-//          }
-//
-//            System.out.println(finalJSONARRAY);
-//            System.out.println(dividedQuery.toString());
-//            System.out.println(rankerArray.toString());
 
-//        DataBase databaseObj  = new DataBase();
-//        System.out.println(databaseObj.getCompleteCount());
-//           Thread ThreadsArray=new Thread(new UrlThread());
-//             Thread.currentThread().setName("Thread1");
-////             Thread.currentThread().start();
-//           ThreadsArray.setName("Thread2");
-//           ThreadsArray.run();
-//
-//
-//
-////         Thread ThreadsArray2=new Thread(new UrlThread());
-////        ThreadsArray2.setName("Thread2");
-////        ThreadsArray2.start();
-////        ArrayList<String> Disallowed =ThreadsArray.robotSafe("https://www.bbc.co.uk/");
-////        System.out.println("Disallowed");
-////        DataBase DataBaseObject=new DataBase();
-////        UrlThread.Limit+=DataBaseObject.getCompleteCount();
-////        System.out.printf(" the limit %d",UrlThread.Limit);
-//
-
-//        ///////////////////////////////////////////////////////
-//
             /*---------------     Start Indexing ----------------------*/
         WorkingFiles.createInvertedFiles();
 
@@ -194,12 +80,12 @@ public class Main {
         Map<Character, Vector<String>> stopWords = WorkingFiles.getStopWordsAsMap();
 
         // get links from db
-        int linksCount = connect.getCompleteCount();
+        int linksCount = connect.getNotIndexed();
         String[] completedLinks = connect.getAllUrls();
         int i = completedLinks.length;
 
         // Threading
-        int threadCount = 25,
+        int threadCount = threadCounter,
                 counter = 0,
                 threadsCounter = 0,
                 finished = 0;
@@ -229,8 +115,7 @@ public class Main {
             finished += threadCount;
             System.out.println("finished Indexing : " + finished);
             System.out.println("finish " +finished);
-//            if (finished == 1000)
-//                done = true;
+
         }
 
 
@@ -239,25 +124,10 @@ public class Main {
         // removing the empty files
         WorkingFiles.removeEmptyFiles();
         System.out.println("Removed empty files");
-//
-//            /*---------------     End Of Indexing ----------------------*/
+            /*---------------     End Of Indexing ----------------------*/
 
         /*-------------------------------popularity secation------------------------*/
-
-//        DataBase con = new DataBase();
-//        String[] arr = {"wayback", "machine"};
-//        ArrayList<String>links = new ArrayList<>();
-//        links.add("https://web.archive.org/");
-//        links.add("https://cancer.osu.edu");
-//        Map<String, String> d = con.getLinksParagraphs(links);
-//
-//
-//        Map<String, String> res =  HelperClass.getSnippet(arr, links, d);
-//        System.out.println("herh");
-
-
-
-
+        Ranker rankerObj=new Ranker();
 
 
     }

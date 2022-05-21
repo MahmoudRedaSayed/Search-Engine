@@ -57,10 +57,8 @@ public class Indexer implements Runnable {
         if (content == null)
             return;
         WorkingFiles.addToContentToFile(id, content);
+        myDB.setIndexed(id);
 
-//        // add description to the file
-//        String description = myDB.getDescription(url);
-//        WorkingFiles.addToDescriptionToFile(id, description);
     }
 
     // String Processing

@@ -1,6 +1,5 @@
 package DataBasePackages.DataBase;
 
-import IndexerPackages.Indexer.Indexer;
 
 import java.sql.*;
 import java.sql.ResultSet;
@@ -62,8 +61,29 @@ public class DataBase {
         }
     }
 //----------------------------------------------------------------------------------------------------------------------//
-
-
+    public void deleteLinks()
+    {
+        try {
+            this.stmt.executeUpdate("Delete from links where LinkParent !=-1;");
+            this.stmt.executeUpdate("Update links set Indexed=0;");
+            this.stmt.executeUpdate("Update links set Completed=0;");
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+    }
+//----------------------------------------------------------------------------------------------------------------------//
+    public void updateThreads()
+    {
+        try {
+            this.stmt.executeUpdate("update threads set Layer = 1;");
+            this.stmt.executeUpdate("update threads set UrlIndex4 = 1;");
+            this.stmt.executeUpdate("update threads set UrlIndex3 = 1;");
+            this.stmt.executeUpdate("update threads set UrlIndex2 = 1;");
+            this.stmt.executeUpdate("update threads set UrlIndex1 = 1;");
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+    }
 
 // --------------------------------------Set and Get Thread Position -------------------------------------------------------//
 
@@ -199,11 +219,11 @@ public class DataBase {
 
 
     //------------------------------------------get the completed urls------------------------------------------------------//
-    public synchronized int getCompleteCount ()
+    public synchronized int getNotIndexed ()
     {
         try
         {
-            ResultSet result =this.stmt.executeQuery("SELECT count(Link) as Number FROM links WHERE  Completed=1 ;");
+            ResultSet result =this.stmt.executeQuery("SELECT count(Link) as Number FROM links where Indexed=0 ;");
             int count=0;
             while(result.next())
             {
@@ -236,14 +256,29 @@ public class DataBase {
         return null;
     }
 
+    public int getCompleteCount()
+    {
+        try{
+            ResultSet resultSet=this.stmt.executeQuery("Select count(*) as number from links;");
+            while (resultSet.next())
+            {
+                return resultSet.getInt("number");
+            }
+        }
+        catch(SQLException e)
+        {
+
+        }
+        return 0;
+    }
     //---------------------------------------------get url and its related ID-------------------------------------------//
     public String[] getAllUrls()
     {
-        int linksCount = getCompleteCount();
+        int linksCount = getNotIndexed();
         String[] completedLinks = new String[linksCount];
         int i = 0;
         try{
-            ResultSet rs = this.stmt.executeQuery("SELECT * FROM links where Completed = 1;" );
+            ResultSet rs = this.stmt.executeQuery("SELECT * FROM links where Indexed=0;" );
             while (rs.next())
             {
                 completedLinks[i++] = rs.getString("Link");
@@ -259,11 +294,11 @@ public class DataBase {
 
     // ---------------------------------------------------------------------------------------------------------------------//
     //-----------------------------------------------get the number of links out from the parent link-----------------------//
-    public int getOutGoingLinksNum(int id)
+    public double getOutGoingLinksNum(Integer id)
     {
 
         try{
-            String qq= "SELECT Counter FROM links  where Id="+id+" ;";
+            String qq= "SELECT COUNT(Id) as Counter FROM links  where Id="+id+" ;";
             ResultSet resultSet=this.stmt.executeQuery(qq );
             while(resultSet.next())
             {
@@ -488,7 +523,7 @@ public class DataBase {
     {
         Map<String, Long> resultMap = new HashMap<>();
         try {
-            ResultSet resultSet = this.stmt.executeQuery("SELECT * FROM links;");
+            ResultSet resultSet = this.stmt.executeQuery("SELECT Link,wordCounts FROM links;");
 
             while (resultSet.next())
             {
@@ -608,7 +643,7 @@ public class DataBase {
     public ArrayList<Integer> getIds()
     {
         try {
-            ResultSet resultSet=this.stmt.executeQuery("select Id from links where Completed=1");
+            ResultSet resultSet=this.stmt.executeQuery("select Id from links");
             ArrayList<Integer> ids=new ArrayList<Integer>();
             while (resultSet.next())
             {
@@ -630,5 +665,15 @@ public class DataBase {
         }
         return null;
     }
-
+ public synchronized  void setIndexed(int id)
+ {
+     try
+     {
+         this.stmt.executeUpdate("Update links set Indexed=1 where Id="+id+";");
+     }
+     catch (SQLException e)
+     {
+         e.printStackTrace();
+     }
+ }
 }

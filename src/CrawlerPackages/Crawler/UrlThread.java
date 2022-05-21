@@ -24,7 +24,7 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 // indexing
-import IndexerPackages.Indexer.PageParsing;
+import IndexerPackages.Indexer.*;
 import org.json.*;
 //-------------------------------------------------------------------//
 
@@ -88,7 +88,6 @@ public class UrlThread implements  Runnable {
     {
         System.out.printf("From the constructor\n");
         DataBaseObject=new DataBase();
-        //Limit+=DataBaseObject.getCompleteCount();
     }
     //---------------------------------------------------------------//
 
@@ -564,7 +563,7 @@ public class UrlThread implements  Runnable {
                                                 if (resultSet!=null&&resultSet.next())
                                                 {
                                                     // add to the string of the ids
-                                                    DataBaseObject.addIdParent(result,ParentId);
+                                                    DataBaseObject.addIdParent(result,parentId);
                                                     continue;
                                                 }
 
