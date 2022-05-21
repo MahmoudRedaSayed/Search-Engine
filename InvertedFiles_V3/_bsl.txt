@@ -1,1 +1,1 @@
-<bsl|[https://www.bbc.co.uk/iplayer/help/questions/accessibility/accessibility-playing-content,p]::1;
+<bsl|[https://www.bbc.co.uk/iplayer/help/questions/accessibility/accessibility-playing-content,p]::1;[https://www.bbc.com/aboutthebbc/whatwedo/publicservices/accessservices,p]::1;

@@ -1,2 +1,10 @@
-<alkhelaifi|[https://ar.marca.com/claro/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;
+<alkhelaifi|[https://www.marca.com,h]::1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]::1;[https://www.marca.com?intcmp=MENUMIGA&s_kw=home,h]::1;[https://www.marca.com/futbol/liga-francesa.html?intcmp=MENUPROD&s_kw=liga-francesa,h]::1;
+<alkorta|[https://www.marca.com/futbol/mas-futbol/tercera-division.html?intcmp=MENUPROD&s_kw=tercera-rfef,h]::2;
+<alketa|[https://www.sensesofcinema.com/2022/festival-reports/the-pivot-to-asia-the-34th-tokyo-international-film-festival,p]::1;[https://www.sensesofcinema.com/2022/festival-reports/afi-fest-afm-the-perils-of-online,p]::1;
+<alkuun|[https://netticasino-now.com,p]::1;
+<alkaa|[https://netticasino-now.com,p]::2;
+<alkuperäisen|[https://netticasino-now.com,p]::1;
+<alkoholu|[https://kasyno-now.com,s]::1;
+<alkalinitythose|[https://www.nationalgeographic.com/environment/article/mining-is-a-polluting-business-can-new-tech-make-it-cleaner,p]::1;
+<alkmaar|[https://www.symplr.com/contact,h]::1;[https://www.symplr.com/customer-support,h]::1;[https://www.symplr.com/contact,p]::1;[https://www.symplr.com/customer-support,p]::1;
 <alkaline|[https://www.everydayhealth.com/psoriasis/guide,p]::1;

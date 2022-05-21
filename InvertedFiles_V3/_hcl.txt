@@ -1,0 +1,1 @@
+<hcls|[https://cloud.google.com/solutions/healthcare-life-sciences,h]::1;[https://cloud.google.com/solutions/healthcare-life-sciences,p]::1;

@@ -1,3 +1,4 @@
-<eolokometa|[https://www.marca.com/ciclismo/giro-italia/2022/05/15/6280d6cd37ff7b0023a22828-directo.html,p]::2;
-<eolo|[https://www.marca.com/ciclismo/giro-italia/2022/05/15/6280d6cd37ff7b0023a22828-directo.html,p]::1;
-<eol|[https://bbc.github.io/subtitle-guidelines,p]::1;
+<eol|[https://bbc.github.io/subtitle-guidelines,p]::1;[https://www.adobe.com/products/flashplayer/end-of-life.html,h]::1;[https://www.adobe.com/products/flashplayer/end-of-life.html,p]::8;
+<eolokometa|[https://www.marca.com/ciclismo/giro-italia/equipos.html?intcmp=MENUMIGA&s_kw=equipos-y-ciclistas,h]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/15/6280d6cd37ff7b0023a22828-directo.html,p]::2;[https://www.marca.com/ciclismo/giro-italia/2022/05/12/627d32df46163f6da68b4587.html,s]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/12/627d32df46163f6da68b4587.html,p]::2;[https://www.marca.com/ciclismo/giro-italia/2022/05/12/627cece5749dee001f555a85-directo.html,p]::2;
+<eolo|[https://www.marca.com/ciclismo/giro-italia/2022/05/15/62811040ca4741e0488b45ab.html,s]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/15/62811040ca4741e0488b45ab.html,p]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/15/6280d6cd37ff7b0023a22828-directo.html,p]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/12/627cece5749dee001f555a85-directo.html,p]::4;
+<eolgul|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;

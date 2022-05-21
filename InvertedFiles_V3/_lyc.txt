@@ -1,2 +1,5 @@
-<lycoming|[http://www.archive-it.org,p]::5;
-<lycomingedu|[http://www.archive-it.org,p]::1;
+<lycéens|[http://www.clemi.org/fr,p]::1;[http://www.ciep.fr,p]::2;[https://drameducation.jimdo.com,p]::1;[https://savoirs.rfi.fr,p]::1;
+<lycée|[http://www.fondation-alliancefr.org,p]::1;
+<lycéennes|[https://drameducation.jimdo.com,p]::1;
+<lycra|[https://www.sensesofcinema.com/2015/michael-bay-dossier/michael-bay-the-island,p]::1;
+<lyceum|[https://www.nytimes.com/live/2022/05/18/world/covid-19-mandates-vaccine-cases,p]::1;

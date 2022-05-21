@@ -1,1 +1,4 @@
-<cystic|[https://www.dailymail.co.uk/health/index.html,h]::1;
+<cysts|[https://www.healthline.com/program/acne-prone-skin-a-game-plan,p]::1;
+<cystic|[https://nautil.us/topics/genetics,p]::1;[https://medlineplus.gov/genetics/understanding/basics/gene,p]::2;
+<cyst|[https://www.dailywritingtips.com/vocabulary-test-1,p]::1;
+<cysteine|[https://www.ebay.com/globaldeals/fashion/health,h]::1;[https://www.ebay.com/globaldeals/fashion/beauty,h]::1;

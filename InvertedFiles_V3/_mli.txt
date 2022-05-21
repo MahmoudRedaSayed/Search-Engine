@@ -1,1 +1,2 @@
-<mlis|[https://archive.org/about/bios.php,p]::2;[http://www.archive-it.org,p]::2;
+<mlis|[https://archive.org/about/bios.php,p]::2;[https://www.dailywritingtips.com/masters-degree-or-masters-degree,p]::1;
+<mlitt|[https://blog.archive.org/category/event/upcoming-event,p]::1;

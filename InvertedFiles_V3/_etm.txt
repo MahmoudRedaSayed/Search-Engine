@@ -1,0 +1,2 @@
+<etms|[https://wiki.creativecommons.org/FAQ,p]::4;
+<etm|[https://wiki.creativecommons.org/FAQ,p]::1;

@@ -1,1 +1,14 @@
+<boiling|[https://www.foxnews.com/,h]::1;[https://www.sensesofcinema.com/2006/great-directors/bolognini,p]::1;[https://www.bbc.com/future/article/20220510-why-are-there-continent-sized-blobs-in-the-deep-earth,p]::1;[https://www.britannica.com/reviews/french-press-coffee,p]::3;[https://www.foxbusiness.com,h]::1;[https://www.dailywritingtips.com/20-rules-about-subject-verb-agreement,p]::1;[https://www.dailywritingtips.com/75-synonyms-for-angry,s]::1;[https://www.dailywritingtips.com/75-synonyms-for-angry,p]::1;
+<boicoteando|[https://www.marca.com/motor/formula1/gp-bahrein.html?intcmp=MENUPROD&s_kw=formula-1-gp-bahrein,h]::1;
+<boils|[https://www.healthline.com/health/healthy-sex/sexual-guilt-purity-culture,p]::1;[https://www.dailywritingtips.com/10-rules-for-writing-numbers-and-numerals,p]::1;
 <boise|[https://archive.org/about/bios.php,p]::1;
+<boite|[https://www.e-marchespublics.com/faq,p]::1;[https://fr.casino-now-canada.com/revue,p]::1;
+<boisterous|[https://www.sensesofcinema.com/2022/great-directors/curtiz-michael,p]::1;[https://www.sensesofcinema.com/2022/festival-reports/thessaloniki-international-film-festival-rewriting-the-rules-of-the-game,p]::1;[https://www.nationalgeographic.com/magazine/article/black-colleges-universities-race-class-gender-sexuality,p]::1;
+<boilerplate|[https://www.apache.org/licenses/LICENSE-2.0,p]::1;[https://nationalgeographicpartners.com/press,h]::1;[https://opensource.org/licenses/Apache-2.0,p]::1;[https://www.dailywritingtips.com/how-to-format-a-us-business-letter,p]::3;
+<boi|[https://rural.rfi.ro,p]::1;
+<boidin|[https://www.sensesofcinema.com/2015/feature-articles/notes-on-bruno-dumonts-ptit-quinquin-or-something-is-rotten-in-the-north-of-france,p]::1;
+<boix|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;
+<bois|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;[https://www.nationalgeographic.com/magazine/article/black-colleges-universities-race-class-gender-sexuality,p]::3;
+<boiler|[https://www.britannica.com/reviews/espresso-machines,p]::2;[https://www.amazon.ca/ref=nodl_&nodl_android,p]::1;
+<boil|[https://nautil.us/topics/environment,p]::2;[https://www.englishclub.com/vocabulary/phrasal-verbs-list.htm,p]::1;
+<boiled|[https://www.nps.gov/articles/national-womans-party-protests-world-war-i.htm,p]::1;

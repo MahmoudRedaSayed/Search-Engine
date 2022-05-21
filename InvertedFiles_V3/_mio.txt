@@ -1,0 +1,3 @@
+<mio|[https://www.hearst.it/case-study,h]::1;[https://www.sensesofcinema.com/2006/great-directors/bolognini,p]::4;[https://www.statista.com/statistics/388346/sales-of-lotteries-by-province-canada,p]::1;
+<miocardiopatía|[https://www.marca.com/futbol/segunda-rfef.html?intcmp=MENUPROD&s_kw=segunda-rfef,h]::1;[https://es.familydoctor.org/salud-de-la-familia/embarazo-y-el-parto,p]::1;
+<miocardio|[https://es.familydoctor.org/salud-de-la-familia/mujeres,p]::2;

@@ -1,1 +1,5 @@
+<ofpartners|[https://www.linkedin.com/legal/privacy-policy,p]::1;
+<ofpoliteby|[https://developer.twitter.com/en/docs/twitter-for-websites/timelines/overview,p]::1;
+<ofproquest|[https://ask.loc.gov/faq/300086,p]::1;
+<ofpotential|[https://www.foxnews.com/category/news-events/fox-news-investigates,p]::1;
 <ofproteinon|[https://www.everydayhealth.com/diet-nutrition/ketogenic-diet,p]::1;

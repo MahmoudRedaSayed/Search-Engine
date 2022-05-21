@@ -1,1 +1,1 @@
-<csf|[https://www.dailymail.co.uk/health/index.html,p]::1;[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;
+<csf|[https://cloud.google.com/solutions/healthcare-life-sciences,p]::1;[https://www.marca.com/ciclismo/giro-italia/equipos.html?intcmp=MENUMIGA&s_kw=equipos-y-ciclistas,h]::1;[https://cloud.google.com/healthcare-api,p]::2;[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;[https://www.dailymail.co.uk/health/index.html,p]::1;

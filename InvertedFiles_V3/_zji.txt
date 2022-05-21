@@ -1,0 +1,2 @@
+<zjištěny|[https://cs.wordpress.org/plugins/broken-link-checker,p]::1;
+<zjištěných|[https://cs.wordpress.org/plugins/broken-link-checker,p]::1;

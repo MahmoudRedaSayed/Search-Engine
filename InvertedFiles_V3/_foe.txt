@@ -1,1 +1,3 @@
-<foe|[https://www.bbc.com/sport,p]::1;
+<foe|[https://www.bbc.co.uk/news/world-europe-35023029,p]::1;[https://www.nationalgeographic.com/animals/article/how-predators-get-past-the-trickiest-of-defenses,p]::1;[https://www.nytimes.com/2022/05/16/health/covid-reinfection.html,p]::1;
+<foes|[https://www.nationalgeographic.com/animals/article/how-predators-get-past-the-trickiest-of-defenses,h]::1;
+<foeman|[https://www.nationalgeographic.com/magazine/article/race-genetics-science-africa,p]::6;

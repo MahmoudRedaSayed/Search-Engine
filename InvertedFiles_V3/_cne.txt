@@ -1,1 +1,5 @@
-<cnet|[http://paulirish.com,p]::3;
+<cned|[http://www.cned.fr,t]::1;[http://www.cned.fr,h]::2;[http://www.cned.fr,p]::3;
+<cnet|[https://ma.tt,p]::1;
+<cnesspot|[https://chromeenterprise.google/intl/en_US/devices,p]::8;
+<cnes|[https://chromeenterprise.google/intl/en_US/devices,p]::5;
+<cnesastrium|[https://chromeenterprise.google/intl/en_US/devices,p]::3;

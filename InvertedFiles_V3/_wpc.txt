@@ -1,0 +1,3 @@
+<wpcli|[https://make.wordpress.org,s]::1;[https://make.wordpress.org,p]::2;[https://wordpress.org/hosting,p]::1;[https://developer.wordpress.org,h]::1;
+<wpcliwpcli|[https://make.wordpress.org,p]::1;
+<wpcom|[https://ma.tt,p]::1;

@@ -1,1 +1,5 @@
-<daemons|[https://stackoverflow.com/questions,h]::1;
+<daech|[https://www.sensesofcinema.com/about/advertisers,h]::1;
+<daeng|[https://www.sensesofcinema.com/2001/festival-reports/bangkok-2,p]::1;
+<daele|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-8,h]::1;
+<daesperti|[https://casino-now.it/recensioni,p]::1;
+<daemon|[https://research-development.nomadic-labs.com/announcing-tezos-10th-protocol-upgrade-proposal-jakarta.html,p]::1;

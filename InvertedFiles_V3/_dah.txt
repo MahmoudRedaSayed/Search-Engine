@@ -1,1 +1,8 @@
-<dahl|[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;
+<dahl|[https://blog.archive.org/category/television-archive,p]::7;[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;
+<dahlia|[https://www.sensesofcinema.com/2022/feature-articles/the-cry-cinema-sentiment-minnelli,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;[https://historyhub.history.gov/community/crowd-loc/blog,p]::1;[https://historyhub.history.gov/community/crowd-loc/blog/2020/02/25/delve-into-spanish-history-with-herencia#comments,p]::1;
+<daher|[https://onlinecasino-now.de,p]::13;[https://onlinecasino-now.se,p]::1;[https://swiss-casino-now.com/casino-bewertung,p]::9;[https://casino-now.at/casino-bewertung,p]::2;[https://onlinecasino-now.de/casino-bewertung,p]::2;[https://casino-now.at/live-casino/holdem,p]::1;[https://swiss-casino-now.com/casino-software,p]::2;[https://casino-now.at/casino-software,p]::6;[https://swiss-casino-now.com/casino-software/betsoft,p]::3;
+<dahinter|[https://casino-now.at/casino-software,p]::2;
+<dahin|[https://casino-now.at/casino-software,p]::1;
+<dahiru|[https://www.nationalgeographic.com/magazine/article/things-that-divide-us,p]::2;
+<dahon|[https://www.dailywritingtips.com/the-yiddish-handbook-40-words-you-should-know,s]::1;
+<dahhh|[https://www.dailywritingtips.com/the-yiddish-handbook-40-words-you-should-know,p]::1;

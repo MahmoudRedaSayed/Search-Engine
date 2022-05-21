@@ -1,0 +1,1 @@
+<qps|[https://cloud.google.com/bigtable,p]::1;[https://cloud.google.com/memorystore,p]::1;

@@ -1,0 +1,1 @@
+<xlsx|[https://cloud.google.com/translate,p]::2;

@@ -1,1 +1,3 @@
-<pda|[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://www.dailymail.co.uk/auhome/index.html,s]::1;[https://www.dailymail.co.uk/auhome/index.html,p]::1;
+<pdamianihearstit|[https://www.hearst.it/contattaci,s]::1;[https://www.hearst.it/contattaci,p]::1;
+<pdai|[https://cloud.google.com/solutions/procurement-doc-ai,p]::1;
+<pda|[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;

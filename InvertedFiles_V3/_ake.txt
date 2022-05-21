@@ -1,3 +1,7 @@
-<akerman|[https://www.sensesofcinema.com/category/great-directors,h]::1;[https://www.sensesofcinema.com/special-dossiers,h]::6;
-<akermans|[https://www.sensesofcinema.com/special-dossiers,h]::4;
+<akerman|[https://www.sensesofcinema.com/category/great-directors,h]::1;[https://www.sensesofcinema.com/2022/festival-reports/afi-fest-afm-the-perils-of-online,p]::1;[https://www.sensesofcinema.com/author/berenice-reynaud,p]::1;[https://www.sensesofcinema.com/about/staff,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::2;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;
+<akelarre|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;
+<akermans|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;
+<akey|[https://nautil.us/how-we-learned-to-love-neanderthalsand-a-lot-of-other-hominids-too-11462,p]::9;
+<akeys|[https://nautil.us/how-we-learned-to-love-neanderthalsand-a-lot-of-other-hominids-too-11462,p]::1;
+<ake|[https://www.kizphonics.com/phonics-stories,s]::1;[https://www.kizphonics.com/phonics-stories,p]::1;[https://www.kizphonics.com/phonics-program/1st-grade-level-2/worksheets,s]::1;[https://www.kizphonics.com/phonics-program/1st-grade-level-2/listening,s]::1;[https://www.kizphonics.com/materials/stories,p]::1;
 <aketogenicdiet|[https://www.everydayhealth.com/diet-nutrition/ketogenic-diet,p]::1;

@@ -1,1 +1,1 @@
-<rna|[https://www.sciencenewsforstudents.org/collections,h]::1;
+<rna|[https://nautil.us/biology-beyond,h]::1;[https://nautil.us/topics/genetics,h]::1;[https://nlmdirector.nlm.nih.gov,p]::2;[https://www.nationalgeographic.com/magazine/article/viruses-can-cause-great-harm-but-we-could-not-live-without-them-feature,p]::10;[https://medlineplus.gov/whatsnew,p]::1;[https://www.englishclub.com/vocabulary/vaccine.php,s]::1;[https://www.sciencenewsforstudents.org/collections,h]::1;

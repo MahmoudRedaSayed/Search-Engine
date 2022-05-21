@@ -1,1 +1,1 @@
-<taekwondo|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk/ushome/index.html,h]::1;[https://www.dailymail.co.uk/news/index.html,h]::1;[https://www.dailymail.co.uk/auhome/index.html,h]::1;[https://www.dailymail.co.uk/health/index.html,s]::1;
+<taekyung|[https://www.nytimes.com/live/2022/05/18/world/covid-19-mandates-vaccine-cases,p]::1;

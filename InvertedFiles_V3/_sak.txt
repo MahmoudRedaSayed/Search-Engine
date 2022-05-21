@@ -1,2 +1,13 @@
-<sakhir|[https://www.marca.com/motor/formula1/calendario.html,h]::1;
+<sake|[https://circuitdigest.com/microcontroller-projects/arduino-spi-communication-tutorial,p]::1;[https://www.sensesofcinema.com/2022/feature-articles/the-night-shift-woman-as-outlaw-hero-in-the-man-i-love,p]::1;[https://www.sensesofcinema.com/2006/great-directors/bolognini,p]::2;[https://blog.archive.org/category/audio-archive/78rpm,p]::1;[https://blog.archive.org/category/audio-archive,p]::1;[https://blog.archive.org/category/cool-items,p]::1;[https://www.sensesofcinema.com/2021/book-reviews/42756,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;[https://nautil.us/topics/communication,p]::1;[https://www.nationalgeographic.com/travel/article/this-city-has-more-than-4000-murals,p]::1;[https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs,p]::1;[https://www.myenglishclub.com/blogs,p]::1;[https://www.dailywritingtips.com/homograph-examples,p]::1;[https://www.dailywritingtips.com/inquire-vs-enquire,p]::1;[https://www.dailywritingtips.com/cannot-or-can-not,p]::1;[https://www.dailywritingtips.com/latin-words-and-expressions-all-you-need-to-know,p]::2;[https://www.dailywritingtips.com/yours-faithfully-or-yours-sincerely,p]::2;[https://www.dailywritingtips.com/what-is-irony-with-examples,p]::2;[https://opensource.org/licenses/GPL-3.0,p]::1;[https://www.dailywritingtips.com/creative-writing-101,p]::1;[https://www.dailywritingtips.com/useful-stock-phrases-for-your-business-emails,p]::2;
+<sakhir|[https://www.marca.com/motor/formula1/calendario.html,h]::1;[https://www.marca.com/motor/formula1/gp-bahrein.html?intcmp=MENUPROD&s_kw=formula-1-gp-bahrein,h]::2;
+<sakarah|[https://www.bbc.co.uk/food,h]::1;
+<sakura|[https://www.apple.com/us/shop/goto/buy_accessories,h]::1;
+<sakamoto|[https://www.sensesofcinema.com/2021/great-directors/obayashi-nobuhiko,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;
+<saka|[https://www.marca.com/futbol/eurocopa.html?intcmp=MENUPROD&s_kw=euro-2020,h]::1;[https://www.arsenal.com,h]::2;[https://www.arsenal.com,p]::1;[https://player.arsenal.com/matches/first?utm_source=arsenaldotcom&utm_medium=meganavvideo&utm_campaign=arsenaldotcom,h]::2;[https://player.arsenal.com/matches/first?utm_source=arsenaldotcom&utm_medium=meganavvideo&utm_campaign=arsenaldotcom,p]::3;
+<sakurai|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;
+<saker|[https://onlinecasino-now.se,p]::1;
+<sak|[https://onlinecasino-now.se,p]::1;
+<sakke|[https://www.nationalgeographic.com/pages/article/masthead,p]::1;
+<sakher|[https://sell.amazon.eg/?lang=en-US&ref_=nav_cs_sell&ld=AZEGSOA_sell_EN,s]::1;
 <sakai|[https://www.sciencenewsforstudents.org/about-us,p]::1;
+<sakas|[https://player.arsenal.com/matches/first?utm_source=arsenaldotcom&utm_medium=meganavvideo&utm_campaign=arsenaldotcom,p]::1;

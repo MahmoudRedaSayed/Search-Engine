@@ -1,0 +1,2 @@
+<dtmf|[https://cloud.google.com/dialogflow,p]::2;
+<dtm|[https://apps.apple.com/us/app/sofascore-live-score-app/id1176147574,p]::1;

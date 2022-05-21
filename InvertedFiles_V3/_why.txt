@@ -1,2 +1,3 @@
-<whyte|[https://www.dailymail.co.uk/sport/index.html,p]::1;
-<whyalwaysmej|[https://www.marca.com/futbol/premier-league/west-ham-utd-m-city-directo/2022/05/15/01_0106_20220515_21_43.html,p]::1;
+<whythis|[https://blog.archive.org/category/archive-version-2,s]::1;[https://blog.archive.org/category/archive-version-2,p]::1;
+<whyarentyouwatchingthis|[https://nautil.us/topics/astronomy,p]::1;
+<why―and|[https://www.nrdc.org/stories/water-pollution-everything-you-need-know,p]::1;

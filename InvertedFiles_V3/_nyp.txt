@@ -1,1 +1,1 @@
-<nypd|[https://www.dailymail.co.uk/video/index.html,p]::1;
+<nypd|[https://www.foxnews.com/,h]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;[https://www.foxnews.com/category/entertainment/tv,p]::1;[https://www.foxnews.com/family,p]::1;

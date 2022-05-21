@@ -1,3 +1,11 @@
-<cunha|[https://www.marca.com/futbol/laliga-santander/atletico-sevilla-directo/2022/05/15/01_0101_20220515_175_179.html,s]::2;[https://www.marca.com/futbol/laliga-santander/atletico-sevilla-directo/2022/05/15/01_0101_20220515_175_179.html,p]::3;
-<cuneo|[http://www.archive-it.org,p]::1;
-<cuna|[https://mibebeyyo.elmundo.es,h]::1;
+<cuny|[https://www.sensesofcinema.com/2006/great-directors/bolognini,p]::1;[https://www.nytimes.com/live/2022/05/18/world/covid-19-mandates-vaccine-cases,p]::1;[https://www.nytimes.com/2022/04/14/health/covid-cases-tracking.html,p]::1;
+<cuneta|[https://www.marca.com/futbol/supercopa-espana.html?intcmp=MENUPROD&s_kw=supercopa-de-espana,h]::1;[https://www.marca.com/futbol/real-madrid/opinion/2022/05/16/62815b4fe2704e11ac8b45b6.html,p]::1;
+<cunliffe|[https://www.sensesofcinema.com/2022/great-directors/lau-kar-leung,p]::1;[https://www.sensesofcinema.com/author/tom-cunliffe,t]::1;[https://www.sensesofcinema.com/author/tom-cunliffe,h]::2;[https://www.sensesofcinema.com/author/tom-cunliffe,p]::1;
+<cunt|[http://www.bbc.co.uk/editorialguidelines/guidance/removal-online-content,p]::1;
+<cunha|[https://www.sensesofcinema.com/2022/festival-reports/afi-fest-afm-the-perils-of-online,p]::2;
+<cuneo|[https://www.marca.com/ciclismo/giro-italia/2022/05/05/626ff4b5ca4741345a8b4595.html?intcmp=MENUMIGA&s_kw=recorrido,h]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/12/627cece5749dee001f555a85-directo.html,p]::1;
+<cunningly|[https://www.sensesofcinema.com/2022/feature-articles/no-exit-monte-hellmans-the-shooting,p]::1;
+<cunoscută|[https://generatia30.rfi.ro,h]::1;[https://generatia30.rfi.ro,p]::1;
+<cunoașterea|[https://rural.rfi.ro,p]::1;
+<cunaplus|[https://nautil.us/topics/technology,p]::2;
+<cunning|[https://www.dailywritingtips.com/100-words-for-facial-expressions,p]::2;

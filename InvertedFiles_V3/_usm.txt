@@ -1,0 +1,8 @@
+<usmnt|[https://us.marca.com/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;[https://www.marca.com/futbol/estados-unidos.html?intcmp=MENUPROD&s_kw=futbol-estados-unidos,h]::1;[https://www.marca.com/futbol/resto-america.html?intcmp=MENUPROD&s_kw=?intcmp=MENUPROD&s_kw=futbol-mas-america,h]::1;[https://apps.apple.com/us/app/onefootball-soccer-news/id382002079,p]::1;
+<usman|[https://www.marca.com/mma.html?intcmp=MENUPROD&s_kw=mma,h]::1;[https://www.marca.com/combates-ufc.html?intcmp=MENUPROD&s_kw=UFC,h]::1;
+<usmexico|[https://blog.archive.org/category/television-archive,h]::1;[https://nautil.us/topics/zoology,p]::2;[https://www.foxnews.com/category/us/immigration,p]::1;[https://www.foxnews.com/category/politics/senate,p]::1;[https://www.foxnews.com/category/politics/judiciary,p]::1;
+<usmade|[https://www.bbc.co.uk/news/live/world-europe-61461805,p]::1;
+<usmexicocanada|[https://www.nationalgeographic.com/animals/article/vaquita-porpoises-could-genetically-recover-if-fishing-ends,p]::1;
+<usmore|[https://www.aboutamazon.com/news/workplace/15b-in-covid-19-related-costs-to-prioritize-employee-health-and-safety,p]::1;
+<usmc|[https://www.foxnews.com/category/entertainment/tv,p]::1;
+<usm|[https://cryptomode.com/cadaf-to-launch-new-marketplace-on-tezos-led-by-curators-ruled-by-artists,h]::3;

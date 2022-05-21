@@ -1,1 +1,1 @@
-<oer|[https://www.dailymail.co.uk/travel/index.html,p]::1;
+<oer|[https://www.edtechdigest.com/2021-finalists-winners,s]::1;[https://www.edtechdigest.com/2021-finalists-winners,p]::1;[https://www.dailymail.co.uk/travel/index.html,p]::1;

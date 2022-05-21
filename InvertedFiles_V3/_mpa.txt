@@ -1,0 +1,3 @@
+<mpaa|[https://cloud.google.com/solutions/media-entertainment,p]::1;
+<mpas|[https://www.nationalgeographic.com/magazine/article/philippines-reefs-are-some-of-the-most-vibrant-but-in-peril-feature,p]::9;
+<mpa|[https://www.nationalgeographic.com/magazine/article/philippines-reefs-are-some-of-the-most-vibrant-but-in-peril-feature,p]::5;

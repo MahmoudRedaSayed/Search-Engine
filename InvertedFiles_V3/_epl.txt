@@ -1,0 +1,3 @@
+<epleys|[https://nautil.us/topics/psychology,p]::1;
+<epl|[https://www.gnu.org/licenses/license-list.html#CC0,p]::4;[https://apps.apple.com/us/app/onefootball-soccer-news/id382002079,p]::1;
+<epld|[https://www.gnu.org/licenses/license-list.html#CC0,p]::1;

@@ -1,2 +1,10 @@
-<thyroid|[https://www.everydayhealth.com/depression/guide,p]::1;[https://www.everydayhealth.com/rheumatoid-arthritis/guide,h]::1;[https://www.iflscience.com/policy,p]::1;
-<thymine|[https://www.iflscience.com/chemistry,p]::1;
+<thyroid|[https://www.healthline.com/program/knowledge-is-power-with-ulcerative-colitis,p]::1;[https://www.everydayhealth.com/depression/guide,p]::1;[https://www.everydayhealth.com/rheumatoid-arthritis/guide,h]::1;[https://www.iflscience.com/policy,p]::1;
+<thyberg|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::1;
+<thy|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;[https://www.nationalgeographic.com/magazine/article/black-colleges-universities-race-class-gender-sexuality,p]::1;[https://www.dailywritingtips.com/english-grammar-101-all-you-need-to-know,p]::1;[https://www.dailywritingtips.com/homograph-examples,p]::2;
+<thyme|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;[https://www.nationalgeographic.com/magazine/article/lost-your-smell-to-covid-19-heres-how-to-retrain-your-brain,p]::1;
+<thymus|[https://nautil.us/how-does-anyone-stay-healthy-in-a-world-full-of-germs-11795,p]::11;
+<thymussomehow|[https://nautil.us/how-does-anyone-stay-healthy-in-a-world-full-of-germs-11795,p]::1;
+<thymic|[https://nautil.us/how-does-anyone-stay-healthy-in-a-world-full-of-germs-11795,p]::2;
+<thymine|[https://medlineplus.gov/genetics/understanding/basics/dna,p]::1;[https://www.nationalgeographic.com/magazine/article/race-genetics-science-africa,p]::1;[https://www.iflscience.com/chemistry,p]::1;
+<thynon|[https://www.dailywritingtips.com/homograph-examples,s]::1;
+<thyear|[https://www.chicagotribune.com/sports/bears/ct-cb-chicago-bears-roster-breakdown-otas-20220516-gxvwqjx32rbyradq2gf6h2tyia-story.html#nt=interstitial-auto,p]::1;

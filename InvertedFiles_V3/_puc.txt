@@ -1,3 +1,9 @@
+<puce|[https://savoirs.rfi.fr/en/apprendre-enseigner,h]::1;
+<puckering|[https://www.sensesofcinema.com/2022/feature-articles/the-cry-cinema-sentiment-minnelli,p]::1;
+<puchuncaví|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;
+<puck|[https://www.aboutamazon.com/what-we-do/entertainment,h]::1;[https://www.sky.com/glass/sky-inside,p]::1;[https://www.sky.com/glass/existing-customers,p]::2;
+<puckett|[http://www.springshare.com,s]::1;
+<puckettgeorgia|[http://www.springshare.com,p]::1;
+<puckish|[https://www.dailywritingtips.com/100-exquisite-adjectives,s]::1;[https://www.dailywritingtips.com/100-exquisite-adjectives,p]::1;
 <pucci|[https://www.everydayhealth.com/cancer/guide,p]::1;
 <pucks|[https://www.sky.com/glass/sky-inside,p]::1;
-<puck|[https://www.sky.com/glass/sky-inside,p]::1;[https://www.sky.com/glass/existing-customers,p]::2;

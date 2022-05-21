@@ -1,1 +1,2 @@
-<elton|[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://www.bbc.com/sport,p]::1;
+<elton|[https://www.dailymail.co.uk,h]::1;[https://nautil.us/topics/environment,p]::1;[https://www.dailymail.co.uk/news/index.html,h]::1;[https://www.dailymail.co.uk/tvshowbiz/index.html,h]::1;[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;
+<elt|[https://www.englishclub.com/,s]::1;[https://www.englishmedialab.com/,p]::1;[https://cloud.google.com/dataprep,h]::1;[https://cloud.google.com/dataprep,p]::1;[https://www.englishclub.com/teach,s]::1;[https://www.englishclub.com/teach,p]::2;

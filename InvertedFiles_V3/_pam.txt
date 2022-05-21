@@ -1,4 +1,11 @@
-<pamplona|[https://www.marca.com/futbol/laliga-santander/athletic-osasuna-directo/2022/05/15/01_0101_20220515_174_450.html,s]::1;[https://www.marca.com/futbol/laliga-santander/athletic-osasuna-directo/2022/05/15/01_0101_20220515_174_450.html,p]::1;[https://www.marca.com/futbol/primera-division/2022/05/15/6280979246163f52328b45b9.html,p]::1;
-<pam|[https://www.dailymail.co.uk/sport/index.html,p]::2;
-<pamela|[https://www.sensesofcinema.com/category/festival-reports,h]::1;
-<pamphlets|[http://www.archive-it.org,p]::2;
+<pamlico|[https://www.foxnews.com/,h]::1;
+<pam|[https://www.sensesofcinema.com/2022/feature-articles/the-night-shift-woman-as-outlaw-hero-in-the-man-i-love,p]::1;[https://www.sensesofcinema.com/2022/festival-reports/from-white-clouds-wild-delights-the-18th-golden-apricot-yerevan-international-film-festival,h]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,h]::1;[https://www.nytimes.com/es,p]::2;[https://creativecommons.org/20-years,p]::1;[https://www.nytimes.com/news-event/coronavirus,p]::1;[https://www.nytimes.com/live/2022/05/18/world/covid-19-mandates-vaccine-cases,p]::1;[https://www.nytimes.com/by/sheryl-gay-stolberg,p]::1;[https://www.dailywritingtips.com/50-rhetorical-devices-for-rational-writing,p]::1;
+<pamplona|[https://www.marca.com/futbol/primera-division.html?intcmp=MENUPROD&s_kw=primera-division,h]::1;
+<pamphlets|[https://www.sensesofcinema.com/2022/festival-reports/come-together-the-59th-viennale,p]::1;[https://www.nlm.nih.gov/readingroom/index.html,p]::1;[https://www.loc.gov/rr,p]::1;[https://www.tefl.net/jobs/faq.php,p]::1;
+<pamt|[https://www.cfi.fr,h]::1;
+<pamper|[https://profiles.wordpress.org/managewp,p]::1;[https://www.britannica.com/reviews/new-parent-gifts,p]::1;
+<pamiętać|[https://kasyno-now.com,p]::1;
+<pamiętaj|[https://kasyno-now.com,p]::1;[https://kasyno-now.com/recenzja,p]::1;
+<pampers|[https://www.britannica.com/reviews/new-parent-gifts,h]::1;[https://www.britannica.com/reviews/new-parent-gifts,s]::1;
+<pamela|[https://www.nytimes.com/es,h]::1;[https://www.dailywritingtips.com/cannot-or-can-not,p]::1;[https://www.foxbusiness.com/real-estate,p]::1;[https://hms.harvard.edu/news/belonging-halls-medicine,p]::1;[https://hms.harvard.edu/news/winds-change,p]::1;[https://www.dailywritingtips.com/50-rhetorical-devices-for-rational-writing,s]::1;
+<pamon|[https://www.dailywritingtips.com/possessive-of-proper-names-ending-in-s,s]::1;

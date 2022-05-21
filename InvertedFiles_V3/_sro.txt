@@ -1,0 +1,2 @@
+<sro|[https://edaa.eu/who-we-are/our-board,p]::1;[https://edaa.eu/what-we-do/for-consumers,p]::5;[https://www.nlm.nih.gov/ep/FAQScores.html,p]::2;
+<sros|[https://edaa.eu/what-we-do/for-consumers,s]::1;[https://edaa.eu/what-we-do/for-consumers,p]::4;[https://edaa.eu/what-we-do/for-companies,p]::2;

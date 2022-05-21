@@ -1,2 +1,4 @@
-<jockey|[https://en.wikipedia.org/wiki/American_English,p]::1;
-<jocelyn|[https://www.dailymail.co.uk/auhome/index.html,p]::1;[https://www.dailymail.co.uk/femail/index.html,p]::1;[https://www.sensesofcinema.com/special-dossiers,h]::1;
+<jockey|[https://www.marca.com/turf.html?intcmp=MENUPROD&s_kw=turf,h]::4;[https://www.nytimes.com/2022/05/11/world/europe/russia-ukraine-fighting-east.html,p]::1;[https://en.wikipedia.org/wiki/American_English,p]::1;
+<jock|[https://blog.archive.org/category/audio-archive/78rpm,p]::1;[https://blog.archive.org/category/audio-archive,p]::1;[https://blog.archive.org/category/cool-items,p]::1;[https://www.ebay.com/globaldeals/fashion/mens-clothing,h]::1;
+<jockeying|[https://nautil.us/what-lurks-in-a-drowned-forest-in-alabama-16508,p]::1;
+<jocular|[https://www.dailywritingtips.com/100-mostly-small-but-expressive-interjections,p]::1;[https://www.dailywritingtips.com/100-exquisite-adjectives,s]::1;[https://www.dailywritingtips.com/100-exquisite-adjectives,p]::1;

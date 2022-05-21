@@ -1,1 +1,8 @@
-<koi|[https://www.marca.com/esports.html,h]::3;
+<kointv|[https://www.hearst.com/broadcasting,p]::1;
+<koi|[https://www.marca.com/esports.html?intcmp=MENUPROD&s_kw=esports,h]::3;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::2;[https://www.marca.com/esports.html,h]::3;
+<koivisto|[https://www.marca.com/golf.html?intcmp=MENUPROD&s_kw=golf,h]::1;
+<koichi|[https://www.sensesofcinema.com/2021/great-directors/obayashi-nobuhiko,p]::1;
+<koiya|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;
+<koimme|[https://netticasino-now.com,p]::1;
+<koitua|[https://netticasino-now.com,p]::1;
+<koittaa|[https://netticasino-now.com,p]::1;

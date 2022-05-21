@@ -1,3 +1,6 @@
-<ciara|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk/auhome/index.html,s]::1;[https://www.dailymail.co.uk/health/index.html,s]::1;
+<ciascun|[https://www.hearst.it/vivere-meglio/hearst-italy-peace,p]::2;[https://www.hearst.it/condizioni-di-utilizzo-del-sito-e-copyright,p]::1;[https://www.hearst.it/chi-siamo,p]::1;[https://www.hearst.it/soluzioni/hearst-live,p]::2;[https://www.hearst.it/brand/gente,p]::2;
+<ciascuno|[https://www.hearst.it/informativa-privacy,p]::3;[https://www.hearst.it/chi-siamo,p]::1;[https://www.hearst.it/lavora-con-noi,p]::1;
+<cia|[https://nautil.us/topics/astronomy,p]::1;[https://nautil.us/topics/psychology,p]::2;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;[https://www.myenglishclub.com/blogs,s]::1;[https://www.myenglishclub.com/blogs,p]::1;
+<ciat|[https://nautil.us/topics/communication,p]::1;[https://nautil.us/topics/genetics,p]::1;[https://nautil.us/topics/philosophy,p]::1;
+<cianjur|[https://www.myenglishclub.com/blogs,s]::2;[https://www.myenglishclub.com/blogs,p]::2;
 <cian|[https://en.wikipedia.org/wiki/American_English,p]::1;
-<cia|[http://www.archive-it.org,p]::1;

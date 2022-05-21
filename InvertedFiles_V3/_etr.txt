@@ -1,1 +1,4 @@
-<etransit|[https://www.marca.com/coches-y-motos.html?intcmp=MENUPROD&s_kw=marca-coches,h]::1;
+<etransit|[https://www.marca.com/coches-y-motos.html?intcmp=MENUPROD&s_kw=marca-coches,h]::1;[https://www.marca.com/coches-y-motos/coches.html?intcmp=MENUPROD&s_kw=coches,h]::1;
+<etregister|[https://blog.archive.org,p]::1;[https://blog.archive.org/category/event,p]::1;[https://blog.archive.org/category/web-data-services,p]::1;
+<etron|[https://www.marca.com/motor/dakar.html?intcmp=MENUPROD&s_kw=dakar,h]::1;[https://www.marca.com/motor/pruebas-coches,h]::3;
+<etreeorg|[https://blog.archive.org/category/archive-version-2,p]::1;[https://blog.archive.org/category/live-music-archive-2,p]::1;

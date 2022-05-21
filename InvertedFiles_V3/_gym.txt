@@ -1,5 +1,7 @@
-<gym|[https://www.dailymail.co.uk/auhome/index.html,h]::1;[https://www.dailymail.co.uk/auhome/index.html,p]::1;[https://www.dailymail.co.uk/health/index.html,p]::1;[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;[https://discountcode.dailymail.co.uk/nike,h]::1;
-<gymnastics|[https://olympics.com/en,h]::1;
-<gymnasiade|[https://olympics.com/en,h]::1;[https://olympics.com/fr,h]::1;[https://olympics.com/de,h]::1;[https://olympics.com/it,h]::1;[https://olympics.com/pt,h]::1;[https://olympics.com/ja,h]::1;
-<gymnast|[https://www.dailymail.co.uk/health/index.html,p]::1;
-<gyms|[https://www.healthline.com/fitness,p]::2;[https://www.everydayhealth.com/fitness,h]::1;
+<gym|[https://www.menshealth.com[https://www.healthline.com/reviews,p]::1;[https://tunein.com/careers,p]::2;[https://www.nationalgeographic.com/magazine/article/an-all-black-expedition-aims-to-summit-everest,p]::1;[https://nautil.us/topics/communication,p]::1;[https://www.britannica.com/reviews/baby-shower-gifts,p]::1;[https://www.fda.gov/consumers/consumer-updates/controlling-cholesterol-statins,p]::1;[https://www.ebay.com/globaldeals/fashion/mens-clothing,h]::2;[https://www.ebay.com/globaldeals/fashion/womens-clothing,h]::1;[https://www.englishclub.com/vocabulary/phrasal-verbs-list.htm,p]::1;[https://www.dailymail.co.uk/ushome/index.html,s]::1;[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://www.dailymail.co.uk/auhome/index.html,s]::2;[https://www.dailymail.co.uk/video/index.html,p]::1;[https://www.dailymail.co.uk/health/index.html,p]::1;[https://discountcode.dailymail.co.uk/nike,h]::1;
+,h]::1;
+<gymnast|[https://www.bbc.co.uk/sport,p]::1;[https://www.bbc.com/sport,p]::1;[https://www.dailymail.co.uk/health/index.html,p]::1;
+<gyms|[https://www.healthline.com/fitness,p]::2;[https://www.tefl.net/jobs/faq.php,p]::1;[https://www.everydayhealth.com/fitness,h]::1;
+<gymnastics|[https://www.healthline.com/health/healthy-sex/black-women-sexuality,p]::1;
+<gymnasium|[https://www.sensesofcinema.com/2022/great-directors/lau-kar-leung,p]::2;
+<gymraeg|[http://www.bbc.co.uk/editorialguidelines/guidelines/impartiality,p]::1;[http://www.bbc.co.uk/editorialguidelines/guidelines/accuracy,p]::1;[https://www.bbc.com/editorialguidelines/guidelines/accuracy/guidelines,p]::1;[https://www.bbc.com/editorialguidelines/guidelines/editorial-standards#15accountability,p]::1;[http://www.bbc.co.uk/editorialguidelines/guidelines/accuracy/mandatory-referrals,p]::1;[https://www.bbc.com/editorialguidelines/guidelines/fairness/guidelines#anonymity,p]::1;

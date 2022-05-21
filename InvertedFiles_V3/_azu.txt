@@ -1,6 +1,11 @@
-<azulgranas|[https://www.marca.com/futbol/primera-division/2022/05/15/627fcb40e2704ee5598b4581.html,p]::1;[https://www.marca.com/futbol/2022/05/13/627ddbd8749dee001f58f661-directo.html,s]::1;[https://www.marca.com/futbol/2022/05/13/627ddbd8749dee001f58f661-directo.html,p]::1;
-<azulones|[https://www.marca.com/futbol/primera-division/2022/05/15/627fcb40e2704ee5598b4581.html,p]::1;
-<azure|[http://www.microsoft.com/en/us/default.aspx?redir=true,p]::1;[https://stackoverflow.com/questions/tagged/openid,h]::4;
+<azulgrana|[https://www.marca.com/futbol/barcelona/2022/05/18/628237a7268e3e89618b45c3.html,p]::2;[https://www.marca.com/futbol/real-madrid/2022/05/18/6284cde8ca47411b708b4585.html,p]::1;[https://www.marca.com/baloncesto/copa-rey.html?intcmp=MENUPROD&s_kw=baloncesto-copa-rey,h]::1;[https://www.marca.com/baloncesto/euroliga.html?intcmp=MENUPROD&s_kw=baloncesto-euroliga,h]::1;
+<azulona|[https://www.marca.com/futbol/primera-division.html?intcmp=MENUPROD&s_kw=primera-division,h]::1;
+<azuread|[https://stackoverflow.com/questions/tagged/openid,h]::1;
+<azure|[https://stackoverflow.com/questions/tagged/openid,h]::4;[https://cloud.google.com/products,p]::1;[https://cloud.google.com/compute,p]::1;[https://cloud.google.com/bigquery,p]::1;[https://cloud.google.com/anthos,p]::1;[https://cloud.google.com/bare-metal,h]::2;[https://cloud.google.com/bare-metal,p]::2;[https://cloud.google.com/deployment-manager/docs,p]::2;[https://nautil.us/topics/psychology,p]::1;[https://insights.stackoverflow.com/survey/2021,p]::4;[https://stackoverflowsolutions.com/topic/client-stories/microsoft-case-study,p]::1;
+<azulón|[https://www.marca.com/futbol/futbol-sala.html?intcmp=MENUPROD&s_kw=futbol-sala,h]::1;
+<azulgranas|[https://www.marca.com/futbol/europa-league.html?intcmp=MENUPROD&s_kw=europa-league,h]::1;
+<azul|[https://www.marca.com/futbol/mexico.html?intcmp=MENUPROD&s_kw=futbol-mexico,h]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/17/628384deca4741511f8b458a.html,p]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/15/6280d6cd37ff7b0023a22828-directo.html,p]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/10/627a97dae2704ec8bf8b462a.html,p]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/12/627c1ea0e2704e25a88b45e5.html,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;
 <azurra|[https://www.marca.com/ciclismo/giro-italia/2022/05/15/6280d6cd37ff7b0023a22828-directo.html,p]::1;
-<azul|[https://www.marca.com/ciclismo/giro-italia/2022/05/15/6280d6cd37ff7b0023a22828-directo.html,p]::1;[https://www.marca.com/claro-mx/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;
-<azulgrana|[https://ar.marca.com/claro/?intcmp=BOTONPORTADA&s_kw=portada,p]::1;[https://www.marca.com/futbol/barcelona/2022/05/12/627d694046163f61bd8b4592.html,p]::2;
+<azukaon|[https://www.dailywritingtips.com/masters-degree-or-masters-degree,s]::1;
+<azuka|[https://www.dailywritingtips.com/masters-degree-or-masters-degree,p]::1;
+<azules|[https://shop.realmadrid.com/collections/kits-football-shop-by-player-9-benzema,p]::1;[https://shop.realmadrid.com/collections/kits-football-home,p]::1;

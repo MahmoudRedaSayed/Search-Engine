@@ -1,1 +1,10 @@
-<bylindsey|[https://www.everydayhealth.com/,p]::1;
+<bylines|[https://www.bbc.co.uk/news/help-41670342,p]::3;
+<bylittle|[https://www.sensesofcinema.com/about/staff,p]::1;
+<byly|[https://cs.wordpress.org/plugins/broken-link-checker,p]::1;
+<byl|[https://cs.wordpress.org/plugins/broken-link-checker,p]::1;
+<byli|[http://wpolityce.pl/kultura/226645-ida-jak-poklosie-pluzanski-w-filmie-to-polacy-sa-mordercami,s]::2;[http://wpolityce.pl/kultura/226645-ida-jak-poklosie-pluzanski-w-filmie-to-polacy-sa-mordercami,p]::3;
+<byline|[https://www.nrdc.org/stories/water-pollution-everything-you-need-know,p]::1;
+<bylisa|[https://nautil.us/we-are-nowhere-close-to-the-limits-of-athletic-performance-2-11432,p]::1;
+<bylaws|[https://www.hmbana.org/about-us/mission.html,p]::1;[https://creativecommons.org/about/contact,p]::1;[https://www.marhabaservices.com/ae/english/contract-conditions.html,p]::1;
+<bylucy|[https://www.englishclub.com/store/product/lucy-pollards-guide-to-teaching-english,p]::1;
+<bylevel|[https://www.kizphonics.com/materials/phonics-listening,h]::1;

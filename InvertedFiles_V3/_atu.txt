@@ -1,0 +1,7 @@
+<atusername|[https://developer.twitter.com/en/developer-terms/display-requirements.html,p]::1;
+<atualizados|[https://www.outbrain.com/legal,p]::1;
+<atualizadas|[https://www.outbrain.com/legal,p]::1;
+<atual|[https://www.outbrain.com/legal,p]::1;
+<atuar|[https://www.outbrain.com/legal,p]::1;
+<atualizar|[https://www.outbrain.com/legal,p]::1;
+<atuará|[https://www.outbrain.com/legal,p]::1;

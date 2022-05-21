@@ -1,1 +1,1 @@
-<tcf|[https://bbc.github.io/subtitle-guidelines,p]::1;
+<tcf|[https://bbc.github.io/subtitle-guidelines,p]::1;[https://savoirs.rfi.fr/en/apprendre-enseigner,h]::1;[http://www.ciep.fr,p]::2;[https://savoirs.rfi.fr,h]::1;

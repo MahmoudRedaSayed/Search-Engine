@@ -1,0 +1,17 @@
+<lafarge|[https://www.france24.com,p]::1;[https://www.rfi.fr,p]::1;
+<lafayette|[https://www.hearst.com/broadcasting,p]::3;[https://www.campdream.org/about/partners,p]::1;[https://www.nps.gov/subjects/womenshistory/teach-19th-amendment.htm,h]::1;[https://www.nps.gov/subjects/womenshistory/teach-19th-amendment.htm,p]::1;
+<laffer|[https://www.hearst.com/newspapers,s]::1;[https://www.hearst.com/newspapers,p]::6;[https://www.foxbusiness.com/economy,h]::1;[https://www.foxbusiness.com/markets,h]::1;
+<laffranchissement|[https://www.e-convocations.com,p]::1;
+<lafundación|[https://www.escuelaunidadeditorial.es,p]::1;
+<laffaire|[https://savoirs.rfi.fr/en/apprendre-enseigner,h]::1;[https://savoirs.rfi.fr/fr/recherche/editorial/questionnaire/mots-cles/fait-du-jour-3359/contenu-niveau-francais/2753?solrsort=ds_created%2520desc,h]::1;
+<lafrique|[https://www.rfi.fr,p]::3;[https://emailing.rfi.fr/fr/subscribe,p]::1;[https://fr.casino-now-canada.com/logiciels/microgaming,p]::1;
+<lafc|[https://www.marca.com/futbol/mexico.html?intcmp=MENUPROD&s_kw=futbol-mexico,h]::1;
+<laf|[http://www.fondation-alliancefr.org,p]::1;
+<lafd|[https://appafrique.rfi.fr,p]::1;
+<lafosse|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-8,p]::1;
+<lafogler|[https://nautil.us/topics/history,p]::1;
+<laffidabilità|[https://casino-now.it/recensioni,p]::1;[https://casino-now.it/software,s]::1;[https://casino-now.it/software,p]::1;
+<lafraniere|[https://www.nytimes.com/live/2022/05/18/world/covid-19-mandates-vaccine-cases,p]::2;[https://www.nytimes.com/by/sharon-lafraniere,t]::1;[https://www.nytimes.com/by/sharon-lafraniere,h]::2;[https://www.nytimes.com/by/sharon-lafraniere,p]::13;[https://www.nytimes.com/by/sheryl-gay-stolberg,p]::1;
+<lafranieremichael|[https://www.nytimes.com/by/sharon-lafraniere,p]::1;[https://www.nytimes.com/by/sheryl-gay-stolberg,p]::1;
+<lafferty|[https://www.dailywritingtips.com/creative-writing-101,p]::1;
+<laffichage|[https://www.nike.com/ma,p]::1;[https://www.nike.com/ca/fr,p]::1;

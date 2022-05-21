@@ -1,0 +1,2 @@
+<gubbels|[https://www.nationalgeographic.com/animals/article/greyhound-racing-decline-united-states,p]::2;
+<gubernatorial|[https://www.foxnews.com/media,p]::2;[https://www.foxnews.com/elections,h]::1;[https://www.foxnews.com/official-polls,p]::2;

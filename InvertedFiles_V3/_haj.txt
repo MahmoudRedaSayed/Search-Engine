@@ -1,1 +1,3 @@
-<hajim|[http://www.archive-it.org,p]::1;
+<haji|[https://blog.archive.org/category/image-archive,p]::1;[https://blog.archive.org/category/movie-archive,p]::1;[https://nautil.us/topics/sociology,p]::1;
+<hajimari|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;
+<hajimeon|[https://www.dailywritingtips.com/get-with-the-programme,s]::1;

@@ -1,1 +1,4 @@
+<vsac|[https://www.nlm.nih.gov/portals/healthcare.html,p]::2;
+<vsauce|[https://nautil.us/topics/communication,h]::1;
+<vsafe|[https://salud.nih.gov/covid-19,p]::1;
 <vsam|[https://www.tutorialspoint.com/tutorialslibrary.htm,p]::1;

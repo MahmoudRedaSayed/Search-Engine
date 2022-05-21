@@ -1,3 +1,9 @@
-<jab|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk/news/index.html,h]::1;[https://www.dailymail.co.uk/health/index.html,h]::5;[https://www.dailymail.co.uk/health/index.html,p]::4;
-<jabs|[https://www.dailymail.co.uk/health/index.html,h]::1;
-<jabeur|[https://olympics.com/fr,h]::1;
+<jabari|[https://www.marca.com/claro-mx/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;
+<jabeur|[https://www.marca.com/tenis.html?intcmp=MENUPROD&s_kw=tenis,h]::1;
+<jabato|[https://www.marca.com/motor/motogp/gp-francia/2022/05/16/6281435eca4741022c8b4572.html,p]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/15/62811040ca4741e0488b45ab.html,p]::1;
+<jablonec|[https://www.marca.com/futbol/conference-league/equipos.html?intcmp=MENUPROD&s_kw=conference-league-equipos,h]::1;
+<jabón|[https://www.marca.com/futbol/europa-league.html?intcmp=MENUPROD&s_kw=europa-league,h]::1;
+<jabs|[http://www.bbc.co.uk/news/have_your_say,p]::2;[https://www.dailymail.co.uk/health/index.html,h]::1;
+<jab|[http://www.bbc.co.uk/news/have_your_say,p]::1;[https://www.englishclub.com/vocabulary/vaccine.php,s]::1;[https://www.englishclub.com/vocabulary/vaccine.php,p]::3;[https://www.dailymail.co.uk/auhome/index.html,h]::1;[https://www.dailymail.co.uk/health/index.html,h]::4;[https://www.dailymail.co.uk/health/index.html,p]::4;
+<jabra|[https://ma.tt,p]::2;
+<jabber|[https://www.gnu.org/licenses/license-list.html#CC0,p]::3;

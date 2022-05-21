@@ -1,1 +1,2 @@
-<khrustalyov|[https://www.sensesofcinema.com/special-dossiers,h]::1;
+<khrankompé|[https://appafrique.rfi.fr,p]::1;
+<khrzhanovsky|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-8,p]::1;

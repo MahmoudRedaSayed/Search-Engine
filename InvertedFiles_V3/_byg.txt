@@ -1,1 +1,4 @@
-<bygone|[https://www.dailymail.co.uk/travel/index.html,h]::1;
+<bygone|[https://www.nationalgeographic.com/travel/article/discover-the-natural-wonders-along-georgias-coast,p]::1;[http://www.weta.org,h]::1;[https://www.dailywritingtips.com/20-types-and-forms-of-humor,p]::1;[https://www.dailymail.co.uk/travel/index.html,h]::1;
+<bygeneticist|[https://nautil.us/ebook,p]::1;
+<bygones|[https://www.nationalgeographic.com/magazine/article/things-that-divide-us,p]::2;
+<bygrade|[https://www.kizphonics.com/materials/phonics-videos,h]::1;

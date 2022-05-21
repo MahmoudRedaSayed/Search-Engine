@@ -1,1 +1,11 @@
-<kooples|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk/health/index.html,s]::1;
+<koo|[https://www.sensesofcinema.com/2021/great-directors/obayashi-nobuhiko,p]::3;
+<koot|[https://www.sensesofcinema.com/2021/book-reviews/foraging-in-a-transforming-mediascape-cinemas-dark-and-slow-in-digital-india-by-lalitha-gopalan,p]::1;
+<kooperativa|[https://generatia30.rfi.ro,p]::1;
+<kooperationen|[https://www.outbrain.com/legal,s]::2;
+<koozhangal|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;
+<koostuu|[https://netticasino-now.com,p]::1;
+<koonneet|[https://netticasino-now.com,p]::1;
+<koonin|[https://nlmdirector.nlm.nih.gov,p]::1;
+<kook|[https://nautil.us/topics/physics,p]::1;
+<koolaid|[https://www.nrdc.org/stories/water-pollution-everything-you-need-know,p]::1;
+<kool|[https://www.dailywritingtips.com/types-of-rhyme,p]::1;

@@ -1,1 +1,3 @@
-<ahram|[https://english.ahram.org.eg/,t]::2;[https://english.ahram.org.eg/,p]::1;
+<ahram|[https://english.ahram.org.eg/,t]::2;[https://english.ahram.org.eg/,p]::2;
+<ahrefattribute|[https://developer.twitter.com/en/docs/twitter-for-websites/tweet-button/overview,p]::1;
+<ahrefs|[https://icons8.com/advertising,h]::2;

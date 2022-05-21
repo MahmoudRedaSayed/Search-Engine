@@ -1,2 +1,2 @@
-<idp|[https://stackoverflow.com/questions/tagged/openid,h]::1;[https://support.google.com/a/answer/60224,p]::6;
+<idp|[https://stackoverflow.com/questions/tagged/openid,h]::1;[https://support.google.com/a/topic/7556794,p]::2;[https://support.google.com/a/answer/60224,p]::6;
 <idps|[https://support.google.com/a/answer/60224,p]::1;

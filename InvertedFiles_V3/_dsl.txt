@@ -1,0 +1,2 @@
+<dsl|[https://www.gnu.org/licenses/license-list.html#CC0,p]::1;
+<dslr|[https://www.ebay.com/globaldeals/tech/cameras-photo,h]::2;

@@ -1,0 +1,7 @@
+<jaume|[https://www.marca.com/ultimas-noticias.html?intcmp=MENUDEST&s_kw=ultimas-noticias,h]::1;[https://www.marca.com/futbol/primera-division.html?intcmp=MENUPROD&s_kw=primera-division,h]::1;
+<jaula|[https://www.marca.com/mma.html?intcmp=MENUPROD&s_kw=mma,h]::2;
+<jaurai|[https://mondoblog.org,p]::1;
+<jaunt|[https://www.sensesofcinema.com/2001/festival-reports/bangkok-2,p]::1;[https://www.arcademicskillbuilders.com/games,p]::1;
+<jaunts|[https://www.nationalgeographic.com/magazine/article/an-all-black-expedition-aims-to-summit-everest,p]::1;
+<jaundiced|[https://blog.nemours.org,p]::1;
+<jaune|[https://fr.casino-now-canada.com/royal-vegas,p]::1;

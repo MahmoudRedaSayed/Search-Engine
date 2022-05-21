@@ -1,1 +1,2 @@
-<kibotu|[https://gist.github.com/maxogden/43219d6dcb9006042849,h]::2;[https://gist.github.com/maxogden/43219d6dcb9006042849,s]::2;[https://gist.github.com/maxogden/43219d6dcb9006042849,p]::1;
+<kibbitz|[https://www.dailywritingtips.com/the-yiddish-handbook-40-words-you-should-know,s]::1;[https://www.dailywritingtips.com/the-yiddish-handbook-40-words-you-should-know,p]::1;
+<kibosh|[https://www.dailywritingtips.com/the-yiddish-handbook-40-words-you-should-know,p]::2;

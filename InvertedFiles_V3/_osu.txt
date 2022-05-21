@@ -1,3 +1,6 @@
 <osuccc|[https://cancer.osu.edu,t]::1;[https://cancer.osu.edu,p]::1;
-<osullivans|[https://www.dailymail.co.uk/sport/index.html,s]::1;
-<osullivan|[https://www.dailymail.co.uk/sport/index.html,s]::2;
+<osugi|[https://www.sensesofcinema.com/2021/great-directors/obayashi-nobuhiko,p]::1;
+<osumaan|[https://netticasino-now.com,p]::1;
+<osuu|[https://netticasino-now.com,p]::2;
+<osuessa|[https://netticasino-now.com,p]::1;
+<osullivan|[https://nautil.us/topics/psychology,p]::1;

@@ -1,1 +1,8 @@
-<kad|[http://vedrigrad.hr,p]::1;
+<kadírov|[https://www.marca.com/tiramillas/actualidad/2022/05/18/62845e8237ff7b0023aa7493-directo.html,s]::1;[https://www.marca.com/tiramillas/actualidad/2022/05/18/62845e8237ff7b0023aa7493-directo.html,p]::4;
+<kadyrov|[https://www.marca.com/tiramillas/actualidad/2022/05/18/62845e8237ff7b0023aa7493-directo.html,p]::1;[https://www.foxnews.com/category/world/conflicts,p]::2;
+<kadreke|[https://www.marca.com/futbol/liga-francesa/2022/05/16/6281fbe8ca4741fe5e8b4593.html,p]::1;
+<kadish|[https://blog.archive.org/category/newsletter,p]::1;
+<kadokawa|[https://www.sensesofcinema.com/2021/great-directors/obayashi-nobuhiko,p]::1;
+<kadence|[https://wordpress.org/themes,h]::1;
+<kadarius|[https://www.chicagotribune.com/sports/bears/ct-cb-chicago-bears-brad-biggs-10-thoughts-20220103-fy2qrxl7nvdkbnyxdgdkgnig64-story.html#nt=interstitial-auto,p]::1;
+<kadena|[https://cryptomode.com/cadaf-to-launch-new-marketplace-on-tezos-led-by-curators-ruled-by-artists,h]::1;

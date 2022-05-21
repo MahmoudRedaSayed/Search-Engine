@@ -1,0 +1,2 @@
+<isvs|[https://cloud.google.com/solutions/data-cloud-isvs,t]::1;[https://cloud.google.com/solutions/data-cloud-isvs,h]::1;[https://cloud.google.com/solutions/data-cloud-isvs,p]::4;[https://cloud.google.com/solutions/backup-dr,p]::1;[https://cloud.google.com/saas,p]::1;
+<isv|[https://cloud.google.com/solutions/backup-dr,p]::1;[https://cloud.google.com/apigee,p]::1;[https://cloud.google.com/vmware-engine,p]::1;

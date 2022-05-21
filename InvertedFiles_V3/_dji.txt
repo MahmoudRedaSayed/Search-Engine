@@ -1,2 +1,6 @@
-<djia|[https://money.cnn.com/data/markets,p]::1;[https://cnn.com/business/markets,p]::1;[https://money.cnn.com/data/markets/dow,t]::1;[https://money.cnn.com/data/markets/dow,p]::2;[https://money.cnn.com/data/markets/nasdaq,p]::1;[https://money.cnn.com/data/markets/sandp,p]::1;
-<dji|[https://money.cnn.com/data/markets,p]::1;[https://cnn.com/business/markets,p]::1;[https://money.cnn.com/data/markets/dow,p]::1;[https://money.cnn.com/data/markets/nasdaq,p]::1;[https://money.cnn.com/data/markets/sandp,p]::1;
+<djihadisme|[https://www.rfi.fr,p]::1;
+<djibouti|[https://www.francemediasmonde.com/en,p]::1;
+<djigui|[https://appafrique.rfi.fr,p]::1;
+<djimon|[https://www.sensesofcinema.com/2015/michael-bay-dossier/michael-bay-the-island,p]::1;
+<dji|[https://www.foxbusiness.com,h]::1;[https://www.foxbusiness.com,p]::1;[https://money.cnn.com/data/markets,p]::1;[https://cnn.com/business/markets,p]::1;[https://money.cnn.com/data/markets/dow,p]::1;[https://money.cnn.com/data/markets/sandp,p]::1;[https://money.cnn.com/data/markets/nasdaq,p]::1;
+<djia|[https://money.cnn.com/data/markets,p]::1;[https://cnn.com/business/markets,p]::1;[https://money.cnn.com/data/markets/dow,t]::1;[https://money.cnn.com/data/markets/dow,p]::2;[https://money.cnn.com/data/markets/sandp,p]::1;[https://money.cnn.com/data/markets/nasdaq,p]::1;

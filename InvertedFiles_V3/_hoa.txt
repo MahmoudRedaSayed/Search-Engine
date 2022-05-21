@@ -1,0 +1,6 @@
+<hoard|[https://blog.archive.org/about,p]::1;[https://nautil.us/topics/psychology,h]::1;
+<hoax|[https://blog.archive.org/category/television-archive,p]::4;[https://www.bbc.com/editorialguidelines/guidelines/accuracy/guidelines,p]::1;
+<hoaxed|[https://www.bbc.com/editorialguidelines/guidelines/fairness/guidelines#anonymity,p]::1;
+<hoarding|[https://nautil.us/topics/communication,p]::1;[https://nautil.us/topics/psychology,p]::1;[https://www.nytimes.com/interactive/2021/world/covid-vaccinations-tracker.html,p]::1;
+<hoarse|[https://www.dailywritingtips.com/100-beautiful-and-ugly-words,p]::1;
+<hoath|[https://www.englishclub.com/store/product/lucy-pollards-guide-to-teaching-english,s]::2;[https://www.englishclub.com/store/product/lucy-pollards-guide-to-teaching-english,p]::2;

@@ -1,1 +1,1 @@
-<hrt|[https://www.dailymail.co.uk/health/index.html,h]::7;[https://www.dailymail.co.uk/health/index.html,p]::2;[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;
+<hrt|[https://www.dailymail.co.uk/health/index.html,h]::4;[https://www.dailymail.co.uk/health/index.html,p]::1;

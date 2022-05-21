@@ -1,0 +1,4 @@
+<lire|[https://mondoblog.org,p]::1;[http://www.clemi.org/fr,p]::1;[https://www.reseau-canope.fr,p]::1;[https://drameducation.jimdo.com,p]::1;[https://www.pug.fr/theme/7/francais-langue-etrangere,p]::1;[https://fr.casino-now-canada.com,p]::2;[https://fr.casino-now-canada.com/spincasino,p]::1;[https://fr.casino-now-canada.com/logiciels/microgaming,p]::1;[https://fr.casino-now-canada.com/revue,s]::1;[https://fr.casino-now-canada.com/revue,p]::1;[https://fr.casino-now-canada.com/logiciels/betsoft,p]::1;
+<liris|[http://www.iris-france.org,h]::2;[http://www.iris-france.org,p]::5;
+<lird|[https://www.ird.fr,h]::3;[https://www.ird.fr,p]::2;
+<lira|[https://www.nytimes.com/2022/05/17/business/inflation-developing-economies.html,p]::2;

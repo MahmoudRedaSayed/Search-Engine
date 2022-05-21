@@ -1,1 +1,5 @@
 <nofail|[https://www.bbc.co.uk/gel/guidelines/how-to-design-accessible-games,p]::1;
+<nofooter|[https://developer.twitter.com/en/docs/twitter-for-websites/oembed-api,p]::1;
+<nofly|[https://www.bbc.co.uk/news/uk-60565392,p]::3;[https://www.foxnews.com/category/tech/topics/security,p]::1;
+<nofollow|[https://wordpress.org/plugins/tags/external-link,h]::1;[https://wordpress.org/plugins/tags/links,h]::1;
+<noffrent|[https://fr.casino-now-canada.com/playamo-casino,p]::1;

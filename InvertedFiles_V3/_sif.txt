@@ -1,1 +1,4 @@
-<sifting|[https://en.wikipedia.org/wiki/British_English,p]::1;
+<sifting|[https://www.skysports.com/,h]::1;[https://en.wikipedia.org/wiki/British_English,p]::1;
+<sift|[http://www.ai-cbr.org/,p]::1;[https://ai-cbr.org/how-to-find-the-best-ecommerce-platform-available,p]::1;[https://ai-cbr.org/tag/industries,p]::1;[https://ai-cbr.org/tag/interface,p]::1;[https://ai-cbr.org/tag/platforms,p]::1;[https://ai-cbr.org/category/ecommerce,p]::1;[https://ai-cbr.org/2017/04,p]::1;[https://ai-cbr.org/author/cbradmin,p]::1;
+<sifted|[https://www.sensesofcinema.com/2021/interviews/sunken-film-bill-morrison-talks-the-village-detective-a-song-cycle,p]::1;
+<sifts|[https://nautil.us/why-were-a-lot-better-at-fighting-cancer-than-we-realized-11621,p]::1;[https://www.nytimes.com/2022/05/05/arts/television/cocomelon-moonbug-entertainment.html,p]::1;

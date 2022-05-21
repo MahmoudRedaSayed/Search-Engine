@@ -1,3 +1,2 @@
-<iskander|[https://www.dailymail.co.uk/ushome/index.html,p]::1;[https://www.dailymail.co.uk/news/index.html,p]::1;
-<iskanders|[https://www.dailymail.co.uk/ushome/index.html,p]::1;[https://www.dailymail.co.uk/news/index.html,p]::1;
-<isključen|[http://www.enable-javascript.com/hr,p]::1;
+<iskme|[https://blog.archive.org/category/announcements,p]::1;[https://blog.archive.org/category/open-library,p]::1;
+<iskcon|[https://www.ning.com,h]::1;[https://www.ning.com,p]::1;

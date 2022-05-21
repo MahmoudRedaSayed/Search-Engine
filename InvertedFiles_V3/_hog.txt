@@ -1,5 +1,14 @@
-<hogtie|[https://www.france24.com,p]::1;
-<hogtied|[https://www.dailymail.co.uk/ushome/index.html,h]::1;[https://www.dailymail.co.uk/ushome/index.html,p]::1;
-<hogtyingshooter|[https://www.dailymail.co.uk/video/index.html,p]::1;
+<hogar|[https://www.marca.com/corporativo/politica-privacidad.html,p]::1;[https://www.ojd.es,p]::1;[https://www.marca.com/cookies.html,p]::1;[https://casinoenlinea-now.com,p]::1;[https://www.amazon.com.mx/ref=nodl_&nodl_android,h]::1;[https://salud.nih.gov/covid-19,p]::6;[https://www.amazon.es/ref=nodl_&nodl_android,t]::1;[https://www.amazon.es/ref=nodl_&nodl_android,p]::1;[https://es.familydoctor.org/salud-de-la-familia/embarazo-y-el-parto,p]::1;[https://www.nytimes.com/es,h]::1;
+<hogg|[https://www.sensesofcinema.com/author/leonardo-goi,h]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;
+<hogs|[https://www.sensesofcinema.com/2015/feature-articles/notes-on-bruno-dumonts-ptit-quinquin-or-something-is-rotten-in-the-north-of-france,p]::1;[https://www.nationalgeographic.com/travel/article/how-net-zero-hotels-could-make-travel-more-climate-friendly,p]::1;
+<hog|[https://www.nationalgeographic.com/travel/article/these-six-parks-tell-the-surprising-stories-of-the-american-south,p]::2;[https://www.nationalgeographic.com/travel/article/discover-the-natural-wonders-along-georgias-coast,p]::1;[https://www.tefl.net/jobs/faq.php,p]::1;[https://www.foxnews.com/elections,p]::1;[https://www.dailywritingtips.com/what-is-irony-with-examples,p]::1;
+<hoger|[https://onlinecasino-now.nl,p]::2;[https://casino-now.be,p]::1;[https://onlinecasino-now.nl/casino-reviews,p]::1;[https://onlinecasino-now.nl/casino-software,p]::2;
+<hoge|[https://casino-now.be,p]::1;[https://onlinecasino-now.nl/casino-reviews,p]::1;[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::1;[https://onlinecasino-now.nl/casino-software,s]::2;[https://onlinecasino-now.nl/casino-software,p]::2;
+<hogares|[https://salud.nih.gov/covid-19,p]::1;[https://es.familydoctor.org/sus-recursos-para-la-salud,p]::1;
+<hogan|[https://www.nationalgeographic.com/magazine/article/13-foot-long-fish-caught-in-mekong-river-shows-some-megafish-are-thriving,p]::8;
+<hogans|[https://www.nationalgeographic.com/magazine/article/13-foot-long-fish-caught-in-mekong-river-shows-some-megafish-are-thriving,p]::1;
+<hogarth|[https://nautil.us/topics/psychology,p]::1;
+<hogernatuurlijk|[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::1;
+<hoganon|[https://www.dailywritingtips.com/homograph-examples,s]::1;[https://www.dailywritingtips.com/34-writing-tips-that-will-make-you-a-better-writer,s]::1;
 <hogwarts|[https://www.dailymail.co.uk/travel/index.html,h]::2;
 <hogwartscommonroomstyle|[https://www.dailymail.co.uk/travel/index.html,p]::1;

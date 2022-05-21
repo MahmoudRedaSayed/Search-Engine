@@ -1,4 +1,13 @@
-<zampado|[https://www.marca.com/futbol/primera-division/2022/05/15/627fcb40e2704ee5598b4581.html,p]::1;
-<zamora|[https://www.marca.com/futbol/laliga-santander/cadiz-r-madrid-directo/2022/05/15/01_0101_20220515_1737_186.html,s]::3;[https://www.marca.com/futbol/laliga-santander/cadiz-r-madrid-directo/2022/05/15/01_0101_20220515_1737_186.html,p]::5;[https://www.marca.com/futbol/laliga-santander/atletico-sevilla-directo/2022/05/15/01_0101_20220515_175_179.html,p]::1;[https://www.marca.com/futbol/primera-division/zamora.html,t]::1;[https://www.marca.com/futbol/primera-division/zamora.html,h]::1;[https://www.marca.com/futbol/primera-division/zamora.html,p]::1;
-<zamora¿¿¿¿¿¿¿|[https://www.marca.com/futbol/laliga-santander/cadiz-r-madrid-directo/2022/05/15/01_0101_20220515_1737_186.html,p]::1;
+<zambia|[https://www.bbc.com/,h]::1;[https://www.bbc.com/,p]::1;[https://www.nationalgeographic.com/environment/article/mining-is-a-polluting-business-can-new-tech-make-it-cleaner,p]::1;
 <zambon|[https://www.medicalnewstoday.com,p]::1;
+<zamora|[https://www.marca.com/futbol/futbol-femenino/primera-division.html?intcmp=MENUPROD&s_kw=futbol-femenino-primera-iberdrola,h]::2;[https://www.marca.com/futbol/premios-marca.html,h]::2;[https://www.marca.com/futbol/premios-marca.html,p]::1;[https://www.marca.com/futbol/futbol-femenino/champions-league.html?intcmp=MENUPROD&s_kw=futbol-champions-league-femenina,h]::1;
+<zampa|[https://www.sensesofcinema.com/2006/great-directors/bolognini,p]::5;
+<zampedri|[https://www.marca.com/futbol/chile.html?intcmp=MENUPROD&s_kw=futbol-chile,h]::1;
+<zambie|[http://www.fondation-alliancefr.org,p]::1;
+<zamyatins|[https://www.sensesofcinema.com/2015/michael-bay-dossier/michael-bay-the-island,p]::2;
+<zamyka|[https://blog.aboutamazon.pl,h]::2;
+<zamiłowania|[https://blog.aboutamazon.pl,h]::1;
+<zameriava|[http://sk.talkenglish.com,h]::1;
+<zaměřuje|[http://cz.talkenglish.com,h]::1;
+<zamboninion|[https://www.dailywritingtips.com/10-rules-for-writing-numbers-and-numerals,s]::1;
+<zambo|[https://www.dailymail.co.uk/sport/index.html,h]::1;

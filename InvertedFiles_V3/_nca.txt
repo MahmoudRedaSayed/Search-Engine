@@ -1,2 +1,1 @@
-<ncar|[http://www.archive-it.org,p]::1;
-<ncarucar|[http://www.archive-it.org,p]::1;
+<ncaa|[https://www.hearst.com/entertainment-syndication,p]::4;[https://tunein.com/broadcasters,p]::1;[https://tunein.com/podcasters,p]::1;[https://tunein.com/policies/privacy,p]::1;[https://tunein.com/policies,p]::1;[https://tunein.com/sitemap,p]::1;[https://www.foxnews.com/sports,p]::5;[https://www.foxnews.com/category/science/natural-science,p]::1;

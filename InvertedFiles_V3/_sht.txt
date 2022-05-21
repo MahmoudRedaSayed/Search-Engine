@@ -1,1 +1,7 @@
-<sht|[https://www.dailymail.co.uk/travel/index.html,h]::1;[https://www.healthline.com/program/sexual-health-for-every-body,p]::1;[http://healthline.com/program/sexual-health-for-every-body#covid-19,p]::1;[http://healthline.com/program/sexual-health-for-every-body#identity,p]::1;
+<sht|[https://www.healthline.com/program/sexual-health-for-every-body,p]::1;[http://healthline.com/program/sexual-health-for-every-body#covid-19,p]::1;[http://healthline.com/program/sexual-health-for-every-body#sex-qs,p]::1;[http://healthline.com/program/sexual-health-for-every-body#help,p]::1;[http://healthline.com/program/sexual-health-for-every-body#shop,p]::1;[https://www.healthline.com/health/healthy-sex/black-women-sexuality,p]::1;[https://www.dailywritingtips.com/inquire-vs-enquire,p]::1;[https://www.dailymail.co.uk/travel/index.html,h]::1;
+<shtposts|[https://www.healthline.com/health/healthy-sex/sexual-guilt-purity-culture,p]::1;
+<shtick|[https://www.dailywritingtips.com/the-yiddish-handbook-40-words-you-should-know,s]::1;[http://www.chicagotribune.com/sports/baseball/cubs/ct-cubs-fan-ronnie-woo-woo--harassment--20170512-column.html,p]::1;
+<shtup|[https://www.dailywritingtips.com/the-yiddish-handbook-40-words-you-should-know,p]::1;
+<shtupping|[https://www.dailywritingtips.com/the-yiddish-handbook-40-words-you-should-know,p]::1;
+<shtupanot|[https://www.dailywritingtips.com/the-yiddish-handbook-40-words-you-should-know,p]::1;
+<shtetl|[https://www.dailywritingtips.com/the-yiddish-handbook-40-words-you-should-know,p]::2;

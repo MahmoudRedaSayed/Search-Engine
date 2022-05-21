@@ -1,0 +1,1 @@
+<oxhead|[https://research-development.nomadic-labs.com/announcing-ithaca-2.html,p]::1;[https://research-development.nomadic-labs.com/announcing-tezos-10th-protocol-upgrade-proposal-jakarta.html,p]::1;[https://marigold.dev/blog/announcing-hangzhou,p]::1;

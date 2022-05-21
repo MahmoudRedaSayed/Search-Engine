@@ -1,0 +1,7 @@
+<fuzz|[https://blog.archive.org/category/books-archive/lending-books,p]::1;
+<fuzzy|[https://blog.archive.org/category/technical,p]::1;[https://blog.archive.org/category/web-data-services,p]::1;[https://www.britannica.com/reviews/rice-cookers,p]::2;[https://nautil.us/topics/technology,p]::1;[https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs,p]::1;[https://www.englishclub.com/vocabulary/censorship.php,p]::1;[https://www.dailywritingtips.com/vocabulary-test-2,p]::1;
+<fuzzycat|[https://blog.archive.org/category/web-data-services,p]::1;
+<fuzzball|[https://nautil.us/ebook,p]::1;
+<fuzziness|[https://www.mayoclinic.org/diseases-conditions/high-blood-cholesterol/in-depth/statin-side-effects/ART-20046013?p=1,p]::1;
+<fuze|[https://www.dailywritingtips.com/25-confused-homonym-pairs,p]::12;
+<fuzes|[https://www.dailywritingtips.com/25-confused-homonym-pairs,p]::1;

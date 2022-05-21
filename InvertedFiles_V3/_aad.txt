@@ -1,1 +1,2 @@
-<aad|[https://www.everydayhealth.com/eczema/guide,s]::1;[https://www.everydayhealth.com/eczema/guide,p]::2;[https://www.everydayhealth.com/psoriasis/guide,s]::1;[https://www.everydayhealth.com/psoriasis/guide,p]::3;
+<aadish|[https://www.sensesofcinema.com/2021/book-reviews/foraging-in-a-transforming-mediascape-cinemas-dark-and-slow-in-digital-india-by-lalitha-gopalan,p]::1;
+<aad|[https://nautil.us/ebook,p]::1;[https://www.everydayhealth.com/psoriasis/guide,s]::1;[https://www.everydayhealth.com/eczema/guide,s]::1;[https://www.everydayhealth.com/eczema/guide,p]::2;[https://www.everydayhealth.com/psoriasis/guide,p]::3;

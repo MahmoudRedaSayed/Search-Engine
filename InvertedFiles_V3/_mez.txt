@@ -1,0 +1,5 @@
+<mezzi|[https://www.hearst.it/vivere-meglio/cosmopolitan-il-cambiamento-e-onlife,p]::2;[https://www.hearst.it/condizioni-di-utilizzo-del-sito-e-copyright,p]::1;
+<mezzo|[https://www.hearst.it/vivere-meglio/cosmopolitan-il-cambiamento-e-onlife,p]::1;[https://www.hearst.it/informativa-sui-cookies,p]::1;[https://casino-now.it,p]::1;
+<mezzanine|[https://www.sensesofcinema.com/2022/great-directors/curtiz-michael,p]::1;[https://www.sensesofcinema.com/author/jeremy-carr,p]::1;[https://www.sensesofcinema.com/2021/great-directors/riefenstahl-leni,p]::1;[https://nlmdirector.nlm.nih.gov,t]::1;[https://nlmdirector.nlm.nih.gov,h]::1;
+<mezclar|[https://www.marca.com/blogs/tirandoadar,h]::1;[https://salud.nih.gov/covid-19,p]::1;
+<mezcla|[https://www.marca.com/blogs/tirandoadar,p]::1;[https://salud.nih.gov/covid-19,p]::1;

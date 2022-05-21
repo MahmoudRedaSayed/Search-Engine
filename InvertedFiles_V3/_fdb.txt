@@ -1,0 +1,2 @@
+<fdb|[https://www.hearst.com/hearst-health,p]::44;
+<fdbs|[https://www.hearst.com/hearst-health,p]::4;

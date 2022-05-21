@@ -1,0 +1,4 @@
+<etl|[https://cloud.google.com/solutions/smart-analytics,p]::2;[https://cloud.google.com/solutions/spark,p]::2;[https://cloud.google.com/dataproc,p]::1;[https://cloud.google.com/data-fusion,p]::1;
+<etlelt|[https://cloud.google.com/data-fusion,p]::2;[https://cloud.google.com/pubsub,p]::1;
+<etliche|[https://fr.swiss-casino-now.com,p]::1;[https://onlinecasino-now.de,p]::2;[https://netticasino-now.com,p]::1;[https://swiss-casino-now.com/casino-software/betsoft,p]::1;
+<etlichen|[https://swiss-casino-now.com/casino-software/betsoft,p]::2;

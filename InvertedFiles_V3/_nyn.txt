@@ -1,1 +1,2 @@
 <nynorsk|[https://simple.wikipedia.org,p]::2;
+<nyní|[https://cs.wordpress.org/plugins/broken-link-checker,p]::1;

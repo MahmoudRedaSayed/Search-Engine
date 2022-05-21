@@ -1,1 +1,2 @@
-<hefty|[https://www.dailymail.co.uk/money/index.html,p]::1;
+<hefty|[https://www.sensesofcinema.com/2022/cteq/fritz-lang-in-america-while-the-city-sleeps,p]::1;[https://en.swiss-casino-now.com,p]::1;[https://www.foxbusiness.com,p]::3;[https://www.nytimes.com/interactive/2022/03/18/technology/cryptocurrency-crypto-guide.html,p]::1;[https://www.foxbusiness.com/markets,h]::1;[https://www.foxbusiness.com/lifestyle,p]::1;[https://www.dailywritingtips.com/the-yiddish-handbook-40-words-you-should-know,p]::1;[https://www.dailymail.co.uk/money/index.html,p]::1;
+<heft|[https://nautil.us/topics/physics,p]::1;[https://www.nationalgeographic.com/magazine/article/behold-the-first-picture-of-the-black-hole-at-the-center-of-our-galaxy,p]::1;

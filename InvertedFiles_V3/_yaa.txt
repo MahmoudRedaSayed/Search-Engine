@@ -1,0 +1,3 @@
+<yaaba|[https://mondoblog.org,p]::1;
+<yaasa|[https://www.britannica.com/reviews/weighted-blankets,h]::2;[https://www.britannica.com/reviews/weighted-blankets,p]::1;
+<yaamini|[https://www.dailywritingtips.com/coordinating-vs-subordinating-conjunctions,s]::1;[https://www.dailywritingtips.com/coordinating-vs-subordinating-conjunctions,p]::1;

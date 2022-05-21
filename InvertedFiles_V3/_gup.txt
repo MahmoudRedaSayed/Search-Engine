@@ -1,1 +1,1 @@
-<gupta|[https://www.everydayhealth.com/stress/guide,h]::1;[https://www.everydayhealth.com/stress/guide,p]::6;
+<gupta|[https://www.nationalgeographic.com/history/history-magazine/article/buddhist-treasures-lay-hidden-inside-these-caves-for-centuries,p]::1;[https://stackoverflow.co/teams,s]::1;[https://stackoverflowsolutions.com/topic/client-stories/microsoft-case-study,p]::1;[https://www.everydayhealth.com/stress/guide,h]::1;[https://www.everydayhealth.com/stress/guide,p]::6;

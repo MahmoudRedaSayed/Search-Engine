@@ -1,1 +1,4 @@
-<fukushima|[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;
+<fukushima|[https://www.sensesofcinema.com/2021/great-directors/obayashi-nobuhiko,p]::1;[https://nautil.us/topics/environment,p]::1;[https://www.nationalgeographic.com/environment/article/how-the-ukraine-war-is-accelerating-germanys-renewable-energy-transition,p]::1;[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;
+<fukada|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::2;
+<fukunaga|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;
+<fukushimas|[https://nautil.us/topics/environment,h]::1;

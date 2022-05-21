@@ -1,3 +1,5 @@
 <ushereor|[https://twitter.com/privacy,p]::1;
-<usher|[https://www.sciencenewsforstudents.org/all-stories,p]::1;[https://www.sciencenewsforstudents.org/topic/animals,p]::1;
-<ushered|[https://en.wikipedia.org/wiki/American_English,p]::1;
+<ushered|[https://www.sensesofcinema.com/2022/interviews/a-joyride-through-technological-change-interview-with-david-cox,p]::1;[https://nautil.us/topics/physics,p]::5;[https://en.wikipedia.org/wiki/American_English,p]::1;
+<ushev|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;
+<ushering|[https://www.ccpgames.com,h]::1;
+<usher|[https://www.nationalgeographic.com/magazine/article/race-rising-anxiety-white-america,p]::1;[https://www.nytimes.com/interactive/2022/03/18/technology/cryptocurrency-crypto-guide.html,p]::1;[https://www.sciencenewsforstudents.org/topic/life,p]::1;[https://www.sciencenewsforstudents.org/topic/humans,p]::1;

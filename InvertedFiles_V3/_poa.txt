@@ -1,1 +1,5 @@
-<poached|[https://www.dailymail.co.uk/femail/index.html,s]::1;[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;
+<poachers|[https://www.sensesofcinema.com/2022/festival-reports/from-white-clouds-wild-delights-the-18th-golden-apricot-yerevan-international-film-festival,p]::1;[https://www.nationalgeographic.com/magazine/article/philippines-reefs-are-some-of-the-most-vibrant-but-in-peril-feature,p]::1;[https://www.englishgrammar.org/exercises,p]::1;
+<poague|[https://www.sensesofcinema.com/2018/book-reviews/mind-movie-critic-two-cheers-hollywood-joseph-mcbride,p]::1;
+<poached|[https://www.sensesofcinema.com/2022/cteq/fritz-langs-spione-1928,p]::1;[https://www.nationalgeographic.com/magazine/article/philippines-reefs-are-some-of-the-most-vibrant-but-in-peril-feature,p]::1;[https://www.dailymail.co.uk/femail/index.html,s]::1;
+<poate|[https://rural.rfi.ro,p]::4;[https://generatia30.rfi.ro,p]::1;
+<poaching|[https://nautil.us/topics/evolution,h]::1;[https://nautil.us/topics/zoology,p]::1;[https://www.nationalgeographic.com/magazine/article/philippines-reefs-are-some-of-the-most-vibrant-but-in-peril-feature,p]::3;

@@ -1,3 +1,7 @@
+<cahier|[https://www.e-marchespublics.com/dematerialisez,p]::1;
+<cahiers|[https://www.sensesofcinema.com/about,p]::1;[https://www.sensesofcinema.com/2006/great-directors/carax,p]::2;[https://www.sensesofcinema.com/2020/feature-articles/founding-father-a-tribute-to-thomas-elsaesser-1943-2019,p]::2;
+<cahen|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;
+<cahill|[https://nautil.us/topics/zoology,p]::1;
+<cahalan|[https://www.nytimes.com/interactive/2021/us/covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2022/05/13/us/covid-deaths-us-one-million.html,p]::2;[https://www.nytimes.com/interactive/2021/us/covid-cases-deaths-tracker.html,p]::1;[https://www.nytimes.com/interactive/2020/us/covid-19-vaccine-doses.html,p]::1;[https://www.nytimes.com/interactive/2021/world/covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/us/mississippi-covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/us/pennsylvania-covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/us/connecticut-covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/us/arizona-covid-cases.html,p]::1;
 <cah|[https://en.wikipedia.org/wiki/American_English,p]::1;
 <cahills|[https://www.dailymail.co.uk/travel/index.html,p]::1;
-<cahiers|[https://www.sensesofcinema.com/special-dossiers,h]::2;

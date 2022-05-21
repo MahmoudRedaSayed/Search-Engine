@@ -1,3 +1,9 @@
-<bipolar|[https://www.everydayhealth.com/,h]::1;[https://www.bbc.co.uk,p]::1;[https://www.everydayhealth.com/depression/guide,h]::1;[https://www.everydayhealth.com/depression/guide,s]::3;[https://www.bbc.co.uk/sport,p]::1;[https://www.everydayhealth.com/depression/guide,p]::4;[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;
-<biphobia|[https://www.dailymail.co.uk,p]::1;[https://www.dailymail.co.uk/news/index.html,p]::1;[https://www.dailymail.co.uk/sport/index.html,p]::1;
-<bipoc|[https://www.everydayhealth.com/eczema/guide,h]::1;[https://www.everydayhealth.com/psoriasis/guide,h]::1;[https://www.everydayhealth.com/psoriasis/guide,p]::2;[https://www.everydayhealth.com/type-2-diabetes/guide,h]::1;[http://www.archive-it.org,p]::1;
+<bipolar|[https://www.harvard.edu/,s]::1;[https://www.healthline.com/health-news,h]::1;[https://www.healthline.com/health-news,p]::1;[https://www.britannica.com/reviews/weighted-blankets,p]::1;[https://www.harvard.edu/copyright-issue,s]::1;[https://www.everydayhealth.com/depression/guide,h]::1;[https://www.everydayhealth.com/depression/guide,s]::3;[https://www.everydayhealth.com/depression/guide,p]::4;[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;
+<biphobia|[https://www.healthline.com/program/united-in-pride,p]::1;
+<biplav|[https://wordpress.org/support/plugin/broken-link-checker/reviews/?filter=1,p]::2;
+<bipin|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::1;
+<bipedal|[https://nautil.us/topics/evolution,h]::1;[https://nautil.us/topics/evolution,p]::2;[https://nautil.us/how-we-learned-to-love-neanderthalsand-a-lot-of-other-hominids-too-11462,p]::1;
+<bipocowned|[https://www.britannica.com/reviews/about,p]::1;
+<bipartisan|[https://nautil.us/topics/technology,p]::1;[https://www.foxnews.com/politics,p]::2;[https://www.dailywritingtips.com/vocabulary-test-1,p]::1;
+<bipartisanship|[https://www.foxnews.com/media,p]::1;
+<bipoc|[https://www.everydayhealth.com/eczema/guide,h]::1;[https://www.everydayhealth.com/psoriasis/guide,h]::1;[https://www.everydayhealth.com/psoriasis/guide,p]::2;[https://www.everydayhealth.com/type-2-diabetes/guide,h]::1;

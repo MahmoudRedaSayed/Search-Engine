@@ -1,3 +1,14 @@
-<laziness|[https://www.everydayhealth.com/depression/guide,p]::1;
-<lazy|[https://www.dailymail.co.uk/travel/index.html,h]::2;[https://www.dailymail.co.uk/travel/index.html,p]::1;[https://archive.org/about/bios.php,p]::1;[https://www.bbc.co.uk/gel/guidelines/how-to-make-accessible-animated-images,p]::1;
-<laza|[https://www.marca.com/futbol/primera-division/2022/05/15/6280d88e37ff7b0023a23044-directo.html,p]::1;
+<lazyboy|[http://www.ai-cbr.org/,p]::1;[https://ai-cbr.org/67-steps-a-better-life,p]::1;[https://ai-cbr.org/tag/67-steps,p]::1;[https://ai-cbr.org/tag/life-tips,p]::1;[https://ai-cbr.org/tag/productivity,p]::1;[https://ai-cbr.org/tag/better-life,p]::1;[https://ai-cbr.org/category/life,p]::1;[https://ai-cbr.org/2016/07,p]::1;[https://ai-cbr.org/author/cbradmin,p]::1;
+<lazy|[https://www.bbc.co.uk/gel/guidelines/how-to-make-accessible-animated-images,p]::1;[https://archive.org/about/bios.php,p]::1;[https://wordpress.org/plugins/browse/beta,h]::1;[https://profiles.wordpress.org/isa3caramel,h]::1;[https://profiles.wordpress.org/wpmudev,h]::2;[https://www.britannica.com/reviews/chia-pets,p]::1;[https://www.nationalgeographic.com/magazine/article/race-rising-anxiety-white-america,p]::1;[https://www.dailywritingtips.com/awoken-or-awakened,p]::1;[https://www.dailywritingtips.com/100-words-for-facial-expressions,p]::1;[https://www.dailywritingtips.com/7-redundant-adjectives,p]::1;[https://www.dailywritingtips.com/yours-faithfully-or-yours-sincerely,p]::3;[https://www.dailywritingtips.com/10-techniques-for-more-precise-writing,p]::1;[https://www.dailymail.co.uk/travel/index.html,h]::1;[https://www.dailymail.co.uk/travel/index.html,p]::1;
+<lazo|[https://www.marca.com/atletismo.html?intcmp=MENUPROD&s_kw=atletismo,h]::1;
+<lazio|[https://www.marca.com/futbol/liga-italiana/equipos.html?intcmp=MENUPROD&s_kw=serie-a-equipos,h]::1;[https://www.marca.com/futbol/liga-italiana.html?intcmp=MENUPROD&s_kw=serie-a,h]::2;[https://www.marca.com/futbol/liga-italiana.html?intcmp=MENUPROD&s_kw=serie-a,s]::1;[https://www.marca.com/futbol/europa-league/equipos.html?intcmp=MENUPROD&s_kw=europa-league-equipos,h]::1;
+<lazione|[https://www.hearst.it/soluzioni/data-insight,p]::1;
+<lazaros|[https://www.sensesofcinema.com/2022/festival-reports/thessaloniki-international-film-festival-rewriting-the-rules-of-the-game,p]::1;
+<lazos|[https://www.marca.com/coches-y-motos/salon-automovil-frankfurt.html?intcmp=MENUPROD&s_kw=frankfurt,h]::1;
+<lazam|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::1;
+<lazarov|[https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm,p]::1;
+<lazinessits|[https://nautil.us/topics/communication,h]::2;
+<laziness|[https://nautil.us/topics/sociology,p]::1;[https://stackoverflow.blog/newsletter,h]::1;[https://www.dailywritingtips.com/yours-faithfully-or-yours-sincerely,p]::1;[https://www.everydayhealth.com/depression/guide,p]::1;
+<lazaro|[https://www.nytimes.com/interactive/2020/us/covid-19-vaccine-doses.html,p]::1;
+<lazkani|[https://www.dailymail.co.uk/femail/index.html,h]::1;[https://www.dailymail.co.uk/femail/index.html,p]::1;
+<lazartigue|[https://discountcode.dailymail.co.uk/debenhams,h]::1;

@@ -1,1 +1,6 @@
-<aegerter|[https://www.marca.com/motor.html?intcmp=MENUPROD&s_kw=motor,h]::1;
+<aegerter|[https://www.marca.com/motor/motogp.html?intcmp=MENUMIGA&s_kw=motogp,h]::1;[https://www.marca.com/motor/motogp/gp-francia.html?intcmp=MENUPROD&s_kw=moto-gp-francia,h]::1;[https://www.marca.com/motor/motogp/gp-australia.html?intcmp=MENUPROD&s_kw=moto-gp-australia,h]::1;
+<aeg|[https://www.sensesofcinema.com/2022/interviews/a-joyride-through-technological-change-interview-with-david-cox,p]::1;
+<aegis|[https://www.sensesofcinema.com/2022/festival-reports/the-pivot-to-asia-the-34th-tokyo-international-film-festival,p]::1;[https://www.dailywritingtips.com/50-incorrect-pronunciations-that-you-should-avoid,s]::1;[https://www.dailywritingtips.com/50-incorrect-pronunciations-that-you-should-avoid,p]::2;
+<aegean|[https://nautil.us/topics/technology,p]::1;
+<aegypti|[http://philadelphiaencyclopedia.org/archive/philadelphia-and-its-people-in-maps-the-1790s,p]::2;
+<aeginaon|[https://www.dailywritingtips.com/75-contronyms-words-with-contradictory-meanings,s]::1;

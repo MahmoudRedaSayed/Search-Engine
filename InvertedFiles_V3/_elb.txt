@@ -1,2 +1,7 @@
-<elbows|[https://www.everydayhealth.com/eczema/guide,p]::1;[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;[https://www.everydayhealth.com/psoriasis/guide,p]::3;
-<elbakkali|[https://olympics.com/fr,h]::1;
+<elbicharraco|[https://www.marca.com/futbol/europa-league/2022/05/18/6284a833ca4741d2228b4633.html,p]::1;
+<elbow|[https://www.sensesofcinema.com/2022/feature-articles/jacob-holdts-american-pictures-a-note-on-style-in-poor-cinema,p]::2;[https://www.nationalgeographic.com/magazine/article/viruses-can-cause-great-harm-but-we-could-not-live-without-them-feature,p]::1;
+<elbicho|[https://www.marca.com/ciclismo/giro-italia/2022/05/13/627e32ad749dee001f59d96a-directo.html,p]::1;
+<elbadry|[https://nautil.us/ebook,p]::1;
+<elbseattleon|[https://www.dailywritingtips.com/100-exquisite-adjectives,s]::1;
+<elbows|[https://www.everydayhealth.com/psoriasis/guide,p]::3;[https://www.everydayhealth.com/eczema/guide,p]::1;[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;
+<elbabaa|[https://www.dailymail.co.uk/health/index.html,p]::1;

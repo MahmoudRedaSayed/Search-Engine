@@ -1,2 +1,15 @@
-<hovering|[https://www.dailymail.co.uk/femail/index.html,h]::1;
-<hover|[https://www.bbc.co.uk/gel/guidelines/how-to-design-for-accessibility,p]::1;
+<hover|[https://www.foxnews.com/,h]::1;[https://developers.google.com/assistant/console/analytics,p]::1;[https://www.bbc.co.uk/gel/guidelines/how-to-design-for-accessibility,p]::1;[https://wordpress.org/patterns,h]::1;[https://cloud.google.com/code,p]::1;[https://www.foxbusiness.com,h]::1;[https://www.nytimes.com/privacy/privacy-policy,p]::1;
+<hove|[https://www.marca.com/futbol/futbol-internacional.html?intcmp=MENUPROD&s_kw=futbol-internacional,s]::1;[https://www.marca.com/futbol/premier-league.html?intcmp=MENUPROD&s_kw=premier-league,s]::1;[https://www.marca.com/futbol/premier-league/equipos.html?intcmp=MENUPROD&s_kw=premier-league-equipos,h]::1;
+<hovers|[https://www.sensesofcinema.com/2022/great-directors/lau-kar-leung,p]::1;[https://www.sensesofcinema.com/2022/feature-articles/loss-and-absence-in-still-life,p]::1;
+<hovering|[https://www.sensesofcinema.com/2022/festival-reports/afi-fest-afm-the-perils-of-online,p]::1;[https://www.bbc.com/worklife/article/20220505-the-office-spaces-transforming-into-luxury-apartments,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,s]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::1;[https://www.nytimes.com/2022/05/09/movies/elizabeth-olsen-doctor-strange-multiverse-of-madness.html,p]::1;
+<hovind|[https://www.sensesofcinema.com/author/jacob-hovind,t]::1;[https://www.sensesofcinema.com/author/jacob-hovind,h]::2;[https://www.sensesofcinema.com/author/jacob-hovind,p]::1;[https://www.sensesofcinema.com/2022/feature-articles/the-journey-peter-watkinss-polyphonic-plea-for-humanity,p]::1;
+<hoverboards|[https://www.arcademicskillbuilders.com/games,p]::2;[https://www.nytimes.com/interactive/2022/03/18/technology/cryptocurrency-crypto-guide.html,p]::1;
+<hovenweep|[https://www.nationalgeographic.com/travel/article/how-to-avoid-crowds-in-moab-utah,p]::1;
+<hoverflies|[https://www.nationalgeographic.com/animals/article/bats-imitate-hornets-to-avoid-being-eaten-by-owls,p]::1;[https://nautil.us/topics/zoology,h]::1;
+<hoverfly|[https://nautil.us/ebook,p]::1;
+<hoverover|[https://www.edtechdigest.com/the-edtech-awards-press-kit,p]::3;
+<hovorenia|[http://sk.talkenglish.com,t]::1;
+<hovorovú|[http://sk.talkenglish.com,h]::1;
+<hovoriť|[http://sk.talkenglish.com,p]::1;
+<hovered|[https://www.nytimes.com/2022/05/11/technology/bitcoin-price-crashing-stocks.html,p]::1;
+<hovaguimian|[https://meded.hms.harvard.edu/teaching-awards,p]::2;

@@ -1,0 +1,9 @@
+<rscdunn|[https://congress.gov,p]::1;
+<rscmalinowski|[https://congress.gov,p]::1;
+<rscnorton|[https://congress.gov,p]::1;
+<rscrogers|[https://congress.gov,p]::1;
+<rsctitus|[https://congress.gov,p]::1;
+<rscwittman|[https://congress.gov,p]::1;
+<rscgrassley|[https://congress.gov,p]::1;
+<rscshaheen|[https://congress.gov,p]::1;
+<rsc|[https://www.foxnews.com/media,p]::1;

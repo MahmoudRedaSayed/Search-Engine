@@ -1,1 +1,10 @@
-<faz|[https://olympics.com/pt,h]::1;
+<fazeli|[https://musiceman.net,p]::1;
+<fazendeiros|[https://www.sensesofcinema.com/2022/festival-reports/afi-fest-afm-the-perils-of-online,p]::1;
+<fazemos|[https://www.outbrain.com/legal,s]::2;
+<fazer|[https://www.outbrain.com/legal,p]::1;[https://www.dailywritingtips.com/25-confused-homonym-pairs,p]::1;
+<faz|[https://www.outbrain.com/legal,p]::1;
+<fazem|[https://www.outbrain.com/legal,p]::1;
+<fazendeiro|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::3;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;
+<fazit|[https://onlinecasino-now.de,h]::1;[https://casino-now.at/casino-bewertung,h]::1;[https://onlinecasino-now.de/casino-bewertung,h]::2;[https://onlinecasino-now.de/casino-bewertung/cookie,h]::1;[https://casino-now.at/live-casino/holdem,h]::1;[https://swiss-casino-now.com/casino-software,h]::1;[https://casino-now.at/casino-software,p]::1;[https://swiss-casino-now.com/casino-software/betsoft,h]::1;
+<fazio|[https://meded.hms.harvard.edu/educational-scholarship-review,p]::1;
+<faze|[https://www.dailywritingtips.com/25-confused-homonym-pairs,s]::1;[https://www.dailywritingtips.com/25-confused-homonym-pairs,p]::1;

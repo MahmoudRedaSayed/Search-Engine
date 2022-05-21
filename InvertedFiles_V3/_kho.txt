@@ -1,0 +1,10 @@
+<khoudjand|[http://www.fondation-alliancefr.org,p]::2;
+<khoo|[https://www.sensesofcinema.com/2022/cteq/out-of-the-shadows-cloak-and-dagger-fritz-lang-1946,h]::1;
+<khouzam|[http://blogs.icrc.org/law-and-policy,s]::1;[http://blogs.icrc.org/law-and-policy,p]::1;
+<khokhar|[https://wordpress.org/support/plugin/broken-link-checker/reviews/?filter=3,p]::2;
+<khorshid|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::1;
+<khodā|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::1;
+<khomich|[https://nautil.us/topics/physics,p]::1;
+<khoesan|[https://www.nationalgeographic.com/magazine/article/race-genetics-science-africa,p]::4;
+<khoka|[https://www.dailywritingtips.com/50-slang-terms-for-money,p]::1;
+<khon|[https://onlinelearning.hms.harvard.edu/hmx/about,p]::1;[https://onlinelearning.hms.harvard.edu/hmx/institutions,p]::1;

@@ -1,3 +1,9 @@
-<hewlettpackard|[https://www.dailymail.co.uk,p]::1;[https://www.dailymail.co.uk/ushome/index.html,p]::1;[https://www.dailymail.co.uk/auhome/index.html,p]::1;[https://www.tutorialspoint.com/what-are-the-differences-between-split-ups-and-carve-outs,p]::1;
-<hewitt|[https://www.dailymail.co.uk/auhome/index.html,s]::1;
-<hewlett|[https://archive.org/projects,p]::1;[https://archive.org/about/bios.php,p]::1;
+<hewlett|[https://archive.org/projects,p]::1;[https://archive.org/about/bios.php,p]::1;[https://creativecommons.org/category/about-cc,h]::1;[https://creativecommons.org/category/about-cc,p]::1;
+<hewas|[https://www.hearst.com/broadcasting,p]::1;[https://www.dailymail.co.uk/health/index.html,p]::1;
+<hewlettpackard|[https://myindigolives.wordpress.com,s]::1;[https://myindigolives.wordpress.com,p]::1;
+<hewn|[https://www.sensesofcinema.com/2022/great-directors/tahimik-kidlat,p]::1;[https://www.nationalgeographic.com/history/article/secret-tunnel-reveals-procession-of-ancient-gods,p]::1;
+<hewer|[https://www.sensesofcinema.com/2022/book-reviews/the-depths-of-empiricism-werner-herzog-ecstatic-truth-and-other-useless-conquests-by-kristoffer-hegnsvad,p]::1;
+<hewison|[https://www.sensesofcinema.com/about,p]::1;
+<hewing|[https://nautil.us/topics/technology,p]::1;
+<hewitt|[https://www.dailywritingtips.com/cannot-or-can-not,p]::1;[https://www.englishclub.com/store/product/wordup-esl-game,s]::1;[https://www.englishclub.com/store/product/wordup-esl-game-schools,s]::2;[https://www.englishclub.com/store/product/wordup-esl-game,p]::1;[https://www.englishclub.com/store/product/wordup-esl-game-schools,p]::2;
+<hewins|[https://www.dailymail.co.uk/auhome/index.html,s]::1;

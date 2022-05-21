@@ -1,0 +1,2 @@
+<esd|[https://circuitdigest.com/microcontroller-projects/arduino-spi-communication-tutorial,p]::1;[https://circuitdigest.com,p]::1;
+<esdemarca|[https://cloud.google.com/solutions/web-hosting,p]::1;

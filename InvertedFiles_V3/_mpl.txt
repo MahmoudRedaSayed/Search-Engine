@@ -1,0 +1,5 @@
+<mplusgov|[https://medlineplus.gov/whatsnew,p]::1;
+<mplab|[https://bit.ly/3rZV7uA,p]::1;
+<mpl|[https://www.gnu.org/licenses/license-list.html#CC0,p]::15;
+<mplcovered|[https://www.gnu.org/licenses/license-list.html#CC0,p]::2;
+<mpls|[https://www.gnu.org/licenses/license-list.html#CC0,p]::2;

@@ -1,1 +1,2 @@
-<obnoxious|[https://blog.archive.org,p]::1;
+<obnoxious|[https://blog.archive.org,p]::1;[https://blog.archive.org/category/event,p]::1;[https://blog.archive.org/2022/05/13/goodbye-facebook-hello-decentralized-social-media,p]::1;[https://blog.archive.org/category/web-data-services,p]::1;[https://www.dailywritingtips.com/100-exquisite-adjectives,p]::1;[https://www.gnu.org/licenses/license-list.html#CC0,p]::2;
+<obnoxiously|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;

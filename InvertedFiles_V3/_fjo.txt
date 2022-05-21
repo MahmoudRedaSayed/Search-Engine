@@ -1,1 +1,1 @@
-<fjord|[https://www.dailymail.co.uk/travel/index.html,p]::1;
+<fjord|[https://blog.archive.org/about,p]::1;[https://www.nationalgeographic.com/travel/article/how-net-zero-hotels-could-make-travel-more-climate-friendly,p]::1;[https://www.dailymail.co.uk/travel/index.html,p]::1;

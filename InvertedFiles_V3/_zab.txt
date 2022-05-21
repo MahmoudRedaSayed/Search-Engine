@@ -1,1 +1,6 @@
-<zaba|[http://vedrigrad.hr,p]::1;
+<zabala|[https://www.marca.com/paralimpicos.html?intcmp=MENUPROD&s_kw=paralimpicos,h]::1;
+<zabutykh|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;
+<zabawy|[https://kasyno-now.com,s]::3;[https://kasyno-now.com,p]::1;
+<zabawę|[https://kasyno-now.com,s]::1;[https://kasyno-now.com,p]::3;
+<zabawa|[https://kasyno-now.com,p]::1;
+<zabokrtsky|[https://www.nationalgeographic.com/travel/article/paddling-minnesota-ancient-superhighway-border-route,p]::1;

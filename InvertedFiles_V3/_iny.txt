@@ -1,1 +1,6 @@
 <inyour|[https://twitter.com/privacy,p]::1;
+<inyectan|[https://www.expansion.com,h]::1;
+<inyección|[https://www.diariomedico.com,p]::1;[https://www.diariomedico.com/farmacia.html,p]::2;
+<inyourface|[https://www.sensesofcinema.com/2006/great-directors/bolognini,p]::1;[https://www.sensesofcinema.com/2022/festival-reports/from-white-clouds-wild-delights-the-18th-golden-apricot-yerevan-international-film-festival,p]::1;
+<inyectar|[https://www.healthline.com/type-2-diabetes,p]::1;
+<inyecciones|[https://es.familydoctor.org,h]::1;

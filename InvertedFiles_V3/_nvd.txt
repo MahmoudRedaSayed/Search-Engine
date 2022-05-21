@@ -1,1 +1,1 @@
-<nvda|[https://www.bbc.co.uk/sounds/help/questions/about-bbc-sounds-and-our-policies/accessibility-info,p]::1;
+<nvda|[https://www.bbc.co.uk/sounds/help/questions/about-bbc-sounds-and-our-policies/accessibility-info,p]::1;[https://www.emirates.com/english/sitetools/accessibility.aspx,p]::5;[https://www.emirates.com/ae/english/sitetools/accessibility.aspx,p]::5;

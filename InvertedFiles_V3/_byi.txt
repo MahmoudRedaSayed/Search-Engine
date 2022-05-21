@@ -1,0 +1,3 @@
+<byinch|[https://blog.archive.org/category/books-archive/lending-books,p]::1;
+<byinternet|[https://blog.archive.org/category/event/past-event,p]::1;
+<byits|[https://nautil.us/topics/zoology,h]::1;

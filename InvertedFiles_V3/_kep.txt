@@ -1,0 +1,6 @@
+<kepada|[http://www.beinsports.com/id,p]::2;
+<kepa|[https://www.marca.com/futbol/supercopa-europa.html?intcmp=MENUPROD&s_kw=supercopa-europa,h]::1;
+<keppens|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;
+<kepler|[https://nautil.us/about-us,p]::1;[https://nautil.us/topics/astronomy,p]::1;[https://nautil.us/topics/evolution,p]::1;
+<keplerf|[https://nautil.us/topics/astronomy,p]::1;
+<keplers|[https://nautil.us/topics/evolution,p]::1;

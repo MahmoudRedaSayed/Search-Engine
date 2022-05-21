@@ -1,1 +1,2 @@
-<dpdepartmentskyuk|[https://www.sky.com/help/articles/sky-privacy-and-cookies-notice,p]::1;
+<dpd|[https://www.infomigrants.net,p]::1;[https://cloud.google.com/dialogflow,p]::1;
+<dpdk|[https://www.cdn77.com,p]::1;

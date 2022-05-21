@@ -1,5 +1,8 @@
-<pyramids|[https://english.ahram.org.eg/,p]::1;
+<pyramids|[https://english.ahram.org.eg/,p]::1;[https://www.nationalgeographic.com/history/magazine,p]::1;
+<pyramid|[https://www.sensesofcinema.com/2022/festival-reports/the-pivot-to-asia-the-34th-tokyo-international-film-festival,h]::1;[https://nautil.us/topics/psychology,p]::2;[https://www.nationalgeographic.com/magazine/article/why-are-people-so-dang-obsessed-with-mars-feature,p]::1;[https://www.nytimes.com/interactive/2022/03/18/technology/cryptocurrency-crypto-guide.html,s]::1;[https://www.nytimes.com/interactive/2022/03/18/technology/cryptocurrency-crypto-guide.html,p]::4;[https://www.dailywritingtips.com/what-does-sic-mean,p]::1;[https://www.dailymail.co.uk/travel/index.html,h]::1;[https://www.dailymail.co.uk/travel/index.html,p]::1;
+<pyrata|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;
+<pyrotechnics|[https://nautil.us/topics/technology,p]::1;
+<pyrrhic|[https://www.dailywritingtips.com/vocabulary-test-1,p]::1;
+<pyrex|[https://www.chicagotribune.com/consumer-reviews/#nt=tertiarynavbar,h]::1;
 <pyroptosis|[https://www.dailymail.co.uk/health/index.html,p]::1;
-<pyramid|[https://www.dailymail.co.uk/travel/index.html,h]::1;
 <pyrenees|[https://www.dailymail.co.uk/travel/index.html,p]::1;
-<pyrpylis|[https://www.telva.com,h]::1;

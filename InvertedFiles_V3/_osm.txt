@@ -1,1 +1,3 @@
-<osman|[https://english.ahram.org.eg/,h]::1;
+<osma|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;
+<osmosis|[https://www.nationalgeographic.com/culture/article/our-honest-hidden-thoughts-on-race-captured-in-just-6-words?cmpid=int_org=ngp::int_mc=website::int_src=ngp::int_cmp=NGM_June2021::int_add=RIA_hub_fullwidthbanner,p]::1;[https://www.dailywritingtips.com/get-with-the-programme,p]::1;[https://onlinelearning.hms.harvard.edu/hmx/companies,p]::1;
+<osman|[https://creativecommons.org/2022/05/04/eight-case-studies-show-opportunities-challenges-and-needs-of-low-capacity-and-non-western-cultural-heritage-institutions,p]::1;

@@ -1,0 +1,8 @@
+<vizcaya|[https://www.diariomedico.com/farmacia.html,p]::1;[https://www.diariomedico.com,p]::2;[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4976595,p]::2;
+<vizela|[https://www.marca.com/futbol/liga-portuguesa/equipos.html?intcmp=MENUPROD&s_kw=primeira-liga-portugal-equipos,h]::1;[https://www.marca.com/futbol/liga-portuguesa.html?intcmp=MENUPROD&s_kw=primeira-liga-portugal,s]::1;
+<vizier|[https://cloud.google.com/data-cloud,p]::1;[https://cloud.google.com/vertex-ai,p]::2;
+<vizzini|[https://www.marca.com/ciclismo/giro-italia/2022/05/05/626ff4b5ca4741345a8b4595.html?intcmp=MENUMIGA&s_kw=recorrido,p]::1;
+<vizită|[https://rural.rfi.ro,h]::1;[https://rural.rfi.ro,p]::1;
+<viziune|[https://webdoc.rfi.ro,h]::1;
+<vizor|[https://generatia30.rfi.ro,p]::2;
+<vizzle|[https://www.edtechdigest.com,h]::1;

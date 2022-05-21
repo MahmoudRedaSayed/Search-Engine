@@ -1,3 +1,8 @@
-<nude|[https://www.dailymail.co.uk,p]::1;[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://www.dailymail.co.uk/femail/index.html,h]::1;[https://www.dailymail.co.uk/femail/index.html,p]::1;
-<nudata|[https://blog.archive.org,p]::1;
-<nudity|[https://help.twitter.com/rules-and-policies/twitter-rules,p]::1;
+<nudity|[https://developers.google.com/assistant/console/policies/general-policies,p]::1;[https://www.sensesofcinema.com/2022/feature-articles/streaming-paracinema-charles-band-full-moon-features-and-auteurism-on-third-tier-svod-services,p]::1;[https://help.twitter.com/en/rules-and-policies/twitter-rules,p]::1;[https://www.sensesofcinema.com/2022/festival-reports/afi-fest-afm-the-perils-of-online,p]::1;
+<nudata|[https://blog.archive.org/category/event,p]::1;[https://blog.archive.org/category/web-data-services,p]::1;
+<nude|[https://www.sensesofcinema.com/2006/great-directors/bolognini,p]::3;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;[https://www.nationalgeographic.com/travel/article/10-destinations-where-you-can-ditch-your-car-this-summer,p]::1;[https://www.foxnews.com/science,p]::1;[https://www.foxnews.com/category/science/natural-science,p]::1;[https://www.dailymail.co.uk/ushome/index.html,s]::1;[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://www.dailymail.co.uk/video/index.html,p]::1;
+<nudging|[https://www.icrc.org/en/what-we-do/operational-research,h]::1;[https://casino-now-canada.com/online-slots,p]::1;
+<nudges|[https://nautil.us/topics/physics,p]::1;[https://www.nationalgeographic.com/magazine/article/why-are-people-so-dang-obsessed-with-mars-feature,p]::1;
+<nudge|[https://nautil.us/topics/psychology,p]::1;[https://www.britannica.com/reviews/new-parent-gifts,p]::1;[https://www.dailywritingtips.com/the-yiddish-handbook-40-words-you-should-know,p]::1;[https://www.kizphonics.com/materials/stories,p]::1;
+<nudist|[https://www.dailywritingtips.com/bare-or-bear-with-me,p]::1;
+<nudnik|[https://www.dailywritingtips.com/the-yiddish-handbook-40-words-you-should-know,p]::2;

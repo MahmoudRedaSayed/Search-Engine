@@ -1,0 +1,3 @@
+<wampe|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::2;
+<wampum|[https://www.dailywritingtips.com/50-slang-terms-for-money,s]::1;[https://www.dailywritingtips.com/50-slang-terms-for-money,p]::1;
+<wampumpeag|[https://www.dailywritingtips.com/50-slang-terms-for-money,p]::1;

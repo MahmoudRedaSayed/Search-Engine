@@ -1,5 +1,12 @@
-<himachal|[https://www.tutorix.com,p]::1;
-<himno|[https://www.marca.com/futbol/laliga-santander/atletico-sevilla-directo/2022/05/15/01_0101_20220515_175_179.html,p]::1;
-<himalayan|[https://www.dailymail.co.uk/travel/index.html,h]::2;[https://www.dailymail.co.uk/travel/index.html,s]::1;
+<himalaya|[https://www.marca.com/deportes-aventura.html?intcmp=MENUPROD&s_kw=deportes-aventura,h]::1;[https://www.dailymail.co.uk/travel/index.html,p]::1;
+<himmelreich|[https://www.sensesofcinema.com/2022/feature-articles/heil-darling-a-story-of-lips-that-havent-laughed,p]::1;
+<hims|[https://www.healthline.com/reviews,p]::1;
+<himno|[https://www.marca.com/futbol/premier-league.html?intcmp=MENUPROD&s_kw=premier-league,h]::1;[https://www.marca.com/futbol/supercopa-europa.html?intcmp=MENUPROD&s_kw=supercopa-europa,h]::1;[http://videos.marca.com/v/0_hfu21xie-jovic-ya-marca-como-madridista-zurdazo-para-limpiar-telaranas-en-la-escuadra,h]::1;
+<himher|[https://www.francemediasmonde.com/en/legal-notice,p]::1;[http://www.kizphonics.com,p]::1;[https://www.kizphonics.com/phonics-program,p]::1;[https://www.kizphonics.com/phonics-program/preschool,p]::2;[https://www.kizphonics.com/phonics-program/kindergarten-level-1,p]::1;[https://www.dailywritingtips.com/inquire-vs-enquire,p]::1;[https://www.kizphonics.com/phonics-program/kindergarten-level-2,p]::1;[https://www.kizphonics.com/phonics-program/1st-grade-level-1,p]::1;[https://www.kizphonics.com/phonics-program/1st-grade-level-2,p]::1;[https://www.kizphonics.com/phonics-program/2nd-grade-level-1,p]::1;[https://www.dailywritingtips.com/34-writing-tips-that-will-make-you-a-better-writer,p]::1;
+<hime|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;
+<himalayan|[https://www.nationalgeographic.com/magazine/article/this-himalayan-hike-skims-the-clouds-without-everest-crowds,t]::1;[https://www.nationalgeographic.com/magazine/article/this-himalayan-hike-skims-the-clouds-without-everest-crowds,h]::1;[https://www.dailymail.co.uk/travel/index.html,h]::2;
+<himheavily|[https://www.nationalgeographic.com/environment/article/their-house-has-stood-130-years-new-wildfire-era-may-change-that,p]::1;
+<himbut|[https://www.nationalgeographic.com/magazine/article/martin-luther-king-streets-worldwide,p]::1;
+<himselfherselfitself|[https://www.englishgrammar.org/rules-review,p]::1;
+<himanshu|[https://www.dailywritingtips.com/100-mostly-small-but-expressive-interjections,s]::1;
 <himalayas|[https://www.dailymail.co.uk/travel/index.html,h]::1;[https://www.dailymail.co.uk/travel/index.html,p]::1;
-<himalaya|[https://www.dailymail.co.uk/travel/index.html,p]::1;

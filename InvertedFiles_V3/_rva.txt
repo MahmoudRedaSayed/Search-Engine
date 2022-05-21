@@ -1,0 +1,5 @@
+<rvacloud|[https://congress.gov,p]::1;
+<rvagooden|[https://congress.gov,p]::1;
+<rvagrijalva|[https://congress.gov,p]::1;
+<rvawomack|[https://congress.gov,p]::1;
+<rva|[https://www.foxnews.com/media,p]::1;[https://www.foxnews.com/category/politics/judiciary,p]::1;

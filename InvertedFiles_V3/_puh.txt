@@ -1,2 +1,3 @@
-<puhelinyhteys|[https://fi.wiktionary.org/wiki/yhteys,p]::1;
-<puheyhteys|[https://fi.wiktionary.org/wiki/yhteys,p]::1;
+<puhelinpalvelu|[https://netticasino-now.com,s]::1;[https://netticasino-now.com,p]::1;
+<puhelinnumero|[https://netticasino-now.com,s]::1;
+<puhumme|[https://netticasino-now.com,p]::1;

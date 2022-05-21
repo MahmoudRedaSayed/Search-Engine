@@ -1,1 +1,7 @@
-<ahmed|[https://f24.my/SC,h]::1;
+<ahmady|[https://english.ahram.org.eg/,h]::1;
+<ahmet|[https://www.sensesofcinema.com/2022/festival-reports/afi-fest-afm-the-perils-of-online,p]::1;
+<ahmets|[https://www.sensesofcinema.com/2022/festival-reports/afi-fest-afm-the-perils-of-online,p]::1;
+<ahmir|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::1;[https://www.nationalgeographic.com/history/article/questlove-on-the-summer-of-soul-an-awesome-look-at-beautiful-people-having-fun,p]::1;
+<ahmed|[https://www.nationalgeographic.com/travel/article/to-see-saudi-arabia-start-with-this-magical-gateway-to-mecca,p]::1;[https://meded.hms.harvard.edu/meet-our-students,h]::2;[https://www.dailywritingtips.com/how-to-format-a-us-business-letter,s]::1;[https://www.tutorialspoint.com/market/index.asp,p]::1;
+<ahmedon|[https://www.dailywritingtips.com/english-grammar-101-all-you-need-to-know,s]::1;
+<ahmen|[https://www.dailywritingtips.com/50-incorrect-pronunciations-that-you-should-avoid,p]::1;

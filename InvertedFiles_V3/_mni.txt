@@ -1,0 +1,5 @@
+<mni|[https://www.hearst.com/broadcasting,p]::1;[https://www.tefl.net/elt/articles/career/how-to-become-a-successful-tutor,s]::1;
+<mnis|[https://www.hearst.com/broadcasting,p]::1;
+<mnie|[http://wpolityce.pl/kultura/226645-ida-jak-poklosie-pluzanski-w-filmie-to-polacy-sa-mordercami,s]::1;[http://wpolityce.pl/kultura/226645-ida-jak-poklosie-pluzanski-w-filmie-to-polacy-sa-mordercami,p]::2;
+<mniez|[http://wpolityce.pl/kultura/226645-ida-jak-poklosie-pluzanski-w-filmie-to-polacy-sa-mordercami,p]::1;
+<mniejsze|[https://kasyno-now.com,p]::1;

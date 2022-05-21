@@ -1,5 +1,9 @@
-<cisgender|[https://www.healthline.com/nutrition,p]::1;
-<cis|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::2;[http://www.archive-it.org,p]::1;
-<ciss|[https://www.marca.com/futbol/primera-division/2022/05/15/6280d88e37ff7b0023a23044-directo.html,p]::1;
-<cisco|[https://archive.org/about/bios.php,p]::1;
+<cisgender|[https://www.healthline.com/nutrition,p]::1;[https://www.healthline.com/health/healthy-sex/second-queer-adolescence,p]::3;[https://www.healthline.com/health/healthy-sex/sexual-guilt-purity-culture,p]::2;[https://www.sensesofcinema.com/2022/feature-articles/promising-young-woman-and-the-cinematic-renegotiation-of-gender-in-rape-revenge,p]::9;[https://www.sensesofcinema.com/about/style-guide,p]::2;
+<cisnormative|[https://www.healthline.com/health/healthy-sex/second-queer-adolescence,p]::1;
+<cishet|[https://www.healthline.com/health/healthy-sex/second-queer-adolescence,p]::1;
+<cis|[https://www.healthline.com/health/healthy-sex/second-queer-adolescence,p]::1;[https://creativecommons.org/category/about-cc,p]::1;[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::2;
+<cisco|[https://archive.org/about/bios.php,p]::1;[https://cloud.google.com/solutions,p]::1;[https://cloud.google.com/dialogflow,p]::1;
 <cissp|[https://stackoverflow.com/questions/tagged/openid,h]::1;
+<cissé|[https://www.marca.com/futbol/copa-africa.html?intcmp=MENUPROD&s_kw=copa-africa,h]::1;
+<ciso|[https://cloud.google.com/customers,p]::2;[https://cloud.google.com/solutions/security-and-resilience,p]::1;
+<cisa|[https://www.hhs.gov/vulnerability-disclosure-policy/index.html,p]::1;

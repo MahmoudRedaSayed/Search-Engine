@@ -1,2 +1,2 @@
-<lcddisplay|[https://www.apple.com/lae/iphone,p]::1;
-<lcd|[https://www.bbc.co.uk/opensource,p]::1;
+<lcd|[https://www.gsmarena.com/,h]::1;[https://circuitdigest.com/microcontroller-projects/arduino-spi-communication-tutorial,p]::1;[https://www.bbc.co.uk/opensource,p]::1;
+<lcdigppbd|[https://asianpacificheritage.gov,p]::1;

@@ -1,1 +1,1 @@
-<iago|[https://www.marca.com/futbol.html?intcmp=MENUPROD&s_kw=futbol,h]::1;[https://www.marca.com/futbol/primera-division.html?intcmp=MENUMIGA&s_kw=laliga-santander,h]::2;[https://www.marca.com/futbol/primera-division.html?intcmp=MENUMIGA&s_kw=noticias,h]::2;[https://www.marca.com/futbol/primera-division/2022/05/15/6280979246163f52328b45b9.html,s]::1;[https://www.marca.com/futbol/primera-division/2022/05/15/6280979246163f52328b45b9.html,p]::1;[https://www.marca.com/futbol/primera-division.html,h]::2;
+<iago|[https://www.marca.com/futbol/premios-marca.html,h]::1;

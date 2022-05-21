@@ -1,1 +1,2 @@
-<idyllic|[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://www.dailymail.co.uk/travel/index.html,h]::1;
+<idyllic|[https://www.sensesofcinema.com/2022/great-directors/curtiz-michael,p]::1;[https://blog.archive.org/category/archive-it,p]::1;[https://www.nationalgeographic.com/travel/article/10-destinations-where-you-can-ditch-your-car-this-summer,p]::1;[https://www.nationalgeographic.com/travel/article/these-six-parks-tell-the-surprising-stories-of-the-american-south,p]::1;[https://www.dailywritingtips.com/100-beautiful-and-ugly-words,p]::1;[https://www.dailymail.co.uk/travel/index.html,h]::1;
+<idyll|[https://www.sensesofcinema.com/2001/festival-reports/stkff_jake,p]::1;

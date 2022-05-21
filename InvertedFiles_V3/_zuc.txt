@@ -1,1 +1,2 @@
-<zuckerberg|[https://www.dailymail.co.uk/sciencetech/index.html,h]::2;[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;[https://www.dailymail.co.uk/video/index.html,p]::1;
+<zucchini|[https://blog.nemours.org,p]::1;
+<zuckerberg|[https://nautil.us/topics/technology,p]::1;[https://www.nytimes.com/interactive/2022/03/18/technology/cryptocurrency-crypto-guide.html,p]::1;[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;

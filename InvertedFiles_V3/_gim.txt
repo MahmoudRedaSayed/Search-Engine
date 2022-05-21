@@ -1,3 +1,4 @@
-<giménez|[https://www.marca.com/futbol/laliga-santander/atletico-sevilla-directo/2022/05/15/01_0101_20220515_175_179.html,s]::7;[https://www.marca.com/futbol/laliga-santander/atletico-sevilla-directo/2022/05/15/01_0101_20220515_175_179.html,p]::14;[https://www.marca.com/futbol/primera-division/2022/05/15/6280d88e37ff7b0023a23044-directo.html,s]::1;[https://www.marca.com/futbol/primera-division/2022/05/15/6280d88e37ff7b0023a23044-directo.html,p]::1;
-<gimnasiada|[https://olympics.com/es,h]::1;
-<gimenez|[https://www.marca.com/futbol/primera-division/2022/05/15/6280d88e37ff7b0023a23044-directo.html,p]::1;
+<gimnasia|[https://www.marca.com/claro-mx/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;[https://www.marca.com/natacion.html?intcmp=MENUPROD&s_kw=natacion,h]::1;
+<gimli|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;
+<gimme|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::1;
+<gimp|[https://www.dailywritingtips.com/60-synonyms-for-walk,s]::1;[https://www.dailywritingtips.com/60-synonyms-for-walk,p]::1;

@@ -1,0 +1,2 @@
+<psd|[https://cloud.google.com/solutions/open-banking-apix,p]::1;[https://icons8.com/pricing,p]::1;
+<psdcompliant|[https://cloud.google.com/solutions/open-banking-apix,p]::1;

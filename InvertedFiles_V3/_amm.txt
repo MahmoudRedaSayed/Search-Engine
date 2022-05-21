@@ -1,0 +1,11 @@
+<ammunition|[https://developers.google.com/assistant/console/policies/general-policies,p]::2;[https://www.bbc.co.uk/news/live/world-europe-61461805,p]::1;[https://www.bbc.co.uk/news/world-europe-60874223,p]::2;[https://www.icrc.org/en/document/weapons,p]::1;[https://www.nytimes.com/2022/05/11/world/europe/russia-ukraine-fighting-east.html,p]::1;[https://www.dailywritingtips.com/25-confused-homonym-pairs,p]::1;
+<ammonite|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::1;[https://www.ebay.com/globaldeals/fashion,h]::1;[https://www.ebay.com/globaldeals/fashion/fine-jewelry,h]::1;
+<ammattilaispelaajiemme|[https://netticasino-now.com,p]::1;
+<ammattilaisten|[https://netticasino-now.com,p]::1;
+<ammattilaisia|[https://netticasino-now.com,p]::1;
+<ammattilaistiimimme|[https://netticasino-now.com,p]::1;
+<amministrazione|[https://casino-now.it,p]::2;
+<ammonia|[https://nautil.us/topics/psychology,p]::1;[https://www.britannica.com/reviews/natural-cleaning-products,p]::2;
+<ammonium|[https://www.britannica.com/reviews/natural-cleaning-products,p]::1;[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4976595,p]::2;
+<ammann|[https://www.dailywritingtips.com/34-writing-tips-that-will-make-you-a-better-writer,s]::1;[https://www.dailywritingtips.com/34-writing-tips-that-will-make-you-a-better-writer,p]::1;
+<ammyclara|[https://www.dailymail.co.uk/auhome/index.html,p]::1;

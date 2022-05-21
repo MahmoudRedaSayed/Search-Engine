@@ -1,0 +1,1 @@
+<hbase|[https://cloud.google.com/solutions/database-migration,p]::1;[https://cloud.google.com/products/databases,p]::2;[https://cloud.google.com/solutions/database-modernization,p]::1;[https://cloud.google.com/bigtable,p]::3;

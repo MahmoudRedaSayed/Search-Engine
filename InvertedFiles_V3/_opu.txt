@@ -1,2 +1,8 @@
-<opulent|[https://www.dailymail.co.uk/travel/index.html,p]::1;
+<opulencia|[https://www.marca.com/futbol/seleccion.html?intcmp=MENUPROD&s_kw=seleccion-espanola,h]::1;
+<opulent|[https://www.sensesofcinema.com/2022/great-directors/lau-kar-leung,p]::1;[https://www.dailywritingtips.com/100-beautiful-and-ugly-words,p]::2;[https://www.dailymail.co.uk/travel/index.html,p]::1;
+<opuestas|[https://www.marca.com/futbol/futbol-femenino/champions-league.html?intcmp=MENUPROD&s_kw=futbol-champions-league-femenina,h]::1;
+<opulence|[https://www.sensesofcinema.com/2021/great-directors/lucas-george,p]::1;
+<opus|[https://www.sensesofcinema.com/2022/festival-reports/thessaloniki-international-film-festival-rewriting-the-rules-of-the-game,p]::1;[https://www.sensesofcinema.com/2022/festival-reports/the-pivot-to-asia-the-34th-tokyo-international-film-festival,p]::1;[https://wordpress.tv,p]::1;[https://nautil.us/topics/environment,p]::1;[https://nautil.us/topics/psychology,p]::1;[https://fr.casino-now-canada.com/logiciels,p]::1;[https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs,s]::1;
+<oputu|[http://blogs.icrc.org/law-and-policy,s]::1;[http://blogs.icrc.org/law-and-policy,p]::1;
+<opublikowano|[http://wpolityce.pl/kultura/226645-ida-jak-poklosie-pluzanski-w-filmie-to-polacy-sa-mordercami,p]::1;
 <opuses|[https://www.dailymail.co.uk/travel/index.html,p]::1;

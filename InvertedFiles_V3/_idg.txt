@@ -1,0 +1,2 @@
+<idgy|[https://www.harvard.edu/,p]::1;
+<idg|[https://cloud.google.com/solutions/hybrid-and-multicloud-application-platform,p]::1;[https://cloud.google.com/solutions/business-innovation,p]::2;[https://cloud.google.com/solutions/smart-analytics,p]::1;

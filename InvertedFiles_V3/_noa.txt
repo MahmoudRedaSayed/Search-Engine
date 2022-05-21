@@ -1,2 +1,8 @@
-<noah|[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://en.wikipedia.org/wiki/American_English,p]::2;[https://www.dailymail.co.uk/auhome/index.html,s]::1;[https://www.dailymail.co.uk/health/index.html,s]::1;
-<noaa|[https://www.iflscience.com/environment/donald-trump-looked-into-whether-china-was-firing-hurricanes-at-the-us,p]::1;
+<noale|[https://www.marca.com/motor/motogp/2022/05/17/62827c43268e3e492e8b45a0.html,p]::1;
+<noarvara|[https://www.sensesofcinema.com/2000/interviews/ng,p]::1;
+<noahs|[https://www.sensesofcinema.com/2022/great-directors/curtiz-michael,p]::4;[https://www.foxnews.com/lifestyle,p]::1;
+<noah|[https://blog.archive.org/category/newsletter,p]::1;[https://www.sensesofcinema.com/2022/feature-articles/the-cry-cinema-sentiment-minnelli,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::1;[https://nautil.us/topics/technology,h]::1;[https://creativecommons.org/blog,h]::1;[https://creativecommons.org/blog,p]::2;[https://creativecommons.org/category/about-cc,h]::1;[https://creativecommons.org/category/about-cc,p]::2;[https://www.nytimes.com/news-event/coronavirus,p]::1;[https://www.nytimes.com/live/2022/05/18/world/covid-19-mandates-vaccine-cases,p]::1;[https://www.dailymail.co.uk/ushome/index.html,s]::1;[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://en.wikipedia.org/wiki/American_English,p]::2;
+<noam|[https://www.sensesofcinema.com/2018/book-reviews/mind-movie-critic-two-cheers-hollywood-joseph-mcbride,p]::1;[https://www.sensesofcinema.com/author/elroy-rosenberg,h]::1;
+<noaa|[https://cloud.google.com/datasets,p]::1;[https://nautil.us/topics/environment,p]::1;[https://www.nrdc.org/stories/water-pollution-everything-you-need-know,h]::1;
+<noastră|[https://europaplus.rfi.ro,p]::1;[https://rural.rfi.ro,p]::3;
+<noastre|[https://rural.rfi.ro,p]::2;

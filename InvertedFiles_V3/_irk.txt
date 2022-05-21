@@ -1,0 +1,4 @@
+<irkutsk|[https://www.dailymail.co.uk,p]::1;[https://www.dailymail.co.uk/news/index.html,p]::1;[https://www.dailymail.co.uk/auhome/index.html,p]::1;
+<irks|[https://www.nationalgeographic.com/culture/article/our-honest-hidden-thoughts-on-race-captured-in-just-6-words?cmpid=int_org=ngp::int_mc=website::int_src=ngp::int_cmp=NGM_June2021::int_add=RIA_hub_fullwidthbanner,p]::1;[https://www.dailywritingtips.com/possessive-of-proper-names-ending-in-s,p]::1;[https://www.dailywritingtips.com/inquire-vs-enquire,p]::1;[https://www.dailywritingtips.com/100-mostly-small-but-expressive-interjections,p]::1;[https://www.dailywritingtips.com/get-with-the-programme,p]::1;
+<irksome|[https://www.nationalgeographic.com/magazine/article/race-rising-anxiety-white-america,p]::1;[https://www.dailywritingtips.com/100-exquisite-adjectives,s]::1;[https://www.dailywritingtips.com/100-exquisite-adjectives,p]::1;
+<irksall|[https://www.dailywritingtips.com/100-exquisite-adjectives,p]::1;

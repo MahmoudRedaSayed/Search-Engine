@@ -1,1 +1,8 @@
-<jot|[https://www.apple.com/safari,p]::1;[https://www.apple.com/lae/ipad,p]::1;[https://support.apple.com/guide/safari/welcome/mac,p]::1;
+<jota|[https://www.marca.com/balonmano.html?intcmp=MENUPROD&s_kw=balonmano,h]::1;[https://www.marca.com/turf.html?intcmp=MENUPROD&s_kw=turf,h]::1;[https://www.marca.com/baloncesto/basketfeb.html?intcmp=MENUPROD&s_kw=baloncesto-feb,h]::1;[https://netticasino-now.com,p]::1;
+<jot|[https://www.apple.com/ipad,p]::1;[https://nautil.us/topics/communication,p]::1;[https://www.dailywritingtips.com/writing-prompts-101,p]::1;[https://www.apple.com/safari,p]::1;[https://support.apple.com/guide/safari/welcome/mac,p]::1;
+<jotta|[https://netticasino-now.com,s]::1;[https://netticasino-now.com,p]::7;
+<jotka|[https://netticasino-now.com,p]::14;
+<joten|[https://netticasino-now.com,p]::5;
+<jotkin|[https://netticasino-now.com,p]::1;
+<jotted|[https://www.nytimes.com/2022/05/05/arts/television/cocomelon-moonbug-entertainment.html,p]::1;
+<jotting|[https://www.dailywritingtips.com/writing-prompts-101,p]::1;

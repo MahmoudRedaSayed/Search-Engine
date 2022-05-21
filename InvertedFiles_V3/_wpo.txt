@@ -1,0 +1,4 @@
+<wpoptimize|[https://profiles.wordpress.org/isa3caramel,h]::1;
+<wpolitycepl|[https://www.sensesofcinema.com/2015/feature-articles/nationalism-on-and-off-the-screen,p]::1;[http://wpolityce.pl/kultura/226645-ida-jak-poklosie-pluzanski-w-filmie-to-polacy-sa-mordercami,h]::1;[http://wpolityce.pl/kultura/226645-ida-jak-poklosie-pluzanski-w-filmie-to-polacy-sa-mordercami,s]::1;
+<wporg|[https://wordpress.org/about/privacy,p]::2;
+<wpolscepl|[http://wpolityce.pl/kultura/226645-ida-jak-poklosie-pluzanski-w-filmie-to-polacy-sa-mordercami,s]::1;[http://wpolityce.pl/kultura/226645-ida-jak-poklosie-pluzanski-w-filmie-to-polacy-sa-mordercami,p]::1;

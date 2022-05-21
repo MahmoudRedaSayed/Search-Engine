@@ -1,1 +1,4 @@
-<itwith|[https://www.apple.com/privacy,p]::1;
+<itwarmer|[https://www.apple.com/tv-home,p]::1;
+<itwhen|[https://help.twitter.com/managing-your-account/two-factor-authentication,p]::1;[https://www.dailywritingtips.com/34-writing-tips-that-will-make-you-a-better-writer,p]::1;
+<itwill|[https://www.nlm.nih.gov/readingroom/index.html,p]::1;
+<itwe|[https://nautil.us/ebook,p]::1;

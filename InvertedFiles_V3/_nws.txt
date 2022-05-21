@@ -1,0 +1,2 @@
+<nws|[https://www.foxweather.com,h]::1;
+<nwsa|[https://www.nps.gov/articles/massachusetts-and-the-19th-amendment.htm,p]::1;

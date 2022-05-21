@@ -1,0 +1,2 @@
+<kuvaus|[https://fi.wordpress.org/plugins/broken-link-checker,h]::1;
+<kuvankaappaukset|[https://fi.wordpress.org/plugins/broken-link-checker,h]::1;

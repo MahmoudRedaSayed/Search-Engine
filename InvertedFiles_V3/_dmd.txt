@@ -1,0 +1,10 @@
+<dmdbrown|[https://congress.gov,p]::1;
+<dmdhudson|[https://congress.gov,p]::1;
+<dmdmiller|[https://congress.gov,p]::1;
+<dmdreschenthaler|[https://congress.gov,p]::1;
+<dmdrush|[https://congress.gov,p]::1;
+<dmdscalise|[https://congress.gov,p]::1;
+<dmdturner|[https://congress.gov,p]::1;
+<dmdcarper|[https://congress.gov,p]::1;
+<dmdwarner|[https://congress.gov,p]::1;
+<dmd|[https://meded.hms.harvard.edu/meded-people,h]::1;[https://hms.harvard.edu/education-admissions/graduation,h]::1;[https://hms.harvard.edu/education-admissions/graduation,p]::1;

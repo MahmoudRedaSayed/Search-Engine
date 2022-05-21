@@ -1,0 +1,3 @@
+<obblighi|[https://www.hearst.it/informativa-privacy,s]::2;[https://www.hearst.it/termini-e-condizioni-delle-app,p]::1;
+<obbligo|[https://www.hearst.it/termini-e-condizioni-delle-app,p]::1;
+<obbliga|[https://www.hearst.it/condizioni-di-utilizzo-del-sito-e-copyright,p]::1;

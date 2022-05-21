@@ -1,3 +1,6 @@
-<spheres|[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;[https://www.dailymail.co.uk/travel/index.html,p]::1;
-<sphinx|[https://stackoverflow.com/questions,h]::1;
-<sphere|[http://www.archive-it.org,p]::1;
+<sphinx|[https://english.ahram.org.eg/,h]::1;[https://english.ahram.org.eg/,p]::1;
+<sphere|[https://www.hearst.com/ventures,p]::1;[https://www.sensesofcinema.com/2015/michael-bay-dossier/michael-bay-the-island,p]::1;[https://www.icrc.org/en/what-we-do/forensic-action,p]::1;[https://www.icrc.org/en/what-we-do/operational-research,p]::1;[https://nautil.us/topics/astronomy,h]::1;[https://nautil.us/topics/math,p]::1;[https://www.nationalgeographic.com/magazine/article/why-are-people-so-dang-obsessed-with-mars-feature,p]::1;[https://www.foxbusiness.com,p]::1;[https://www.onefootball.com/company/app-privacy-policy-en.html,p]::3;
+<spheres|[https://www.sensesofcinema.com/2022/cteq/fritz-langs-spione-1928,p]::1;[https://nautil.us/topics/astronomy,p]::1;[https://nautil.us/topics/physics,p]::2;[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;[https://www.dailymail.co.uk/travel/index.html,p]::1;
+<sph|[https://cloud.google.com/appsheet,p]::1;
+<spheeris|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-8,p]::1;
+<spherical|[https://nautil.us/topics/physics,p]::2;[https://www.dailywritingtips.com/latin-words-and-expressions-all-you-need-to-know,p]::1;[https://www.dailywritingtips.com/100-beautiful-and-ugly-words,p]::1;

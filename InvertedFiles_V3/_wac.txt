@@ -1,1 +1,12 @@
-<wacky|[https://en.wikipedia.org/wiki/American_English,p]::1;[https://www.dailymail.co.uk/travel/index.html,h]::1;
+<wacky|[https://www.pretzellabs.co,h]::1;[https://en.wikipedia.org/wiki/American_English,p]::1;[https://www.dailymail.co.uk/travel/index.html,h]::1;
+<wachowski|[https://www.sensesofcinema.com/2022/interviews/a-joyride-through-technological-change-interview-with-david-cox,p]::1;
+<wachstumstreiber|[https://cloud.google.com/events,h]::1;
+<waco|[https://www.sensesofcinema.com/2022/festival-reports/afi-fest-afm-the-perils-of-online,p]::1;
+<wace|[https://www.hearst.co.uk/annual-engagement-policy-implementation-statement,p]::1;
+<wachtwoord|[https://www.outbrain.com/legal,p]::2;
+<wachowskis|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;
+<wachstum|[https://onlinecasino-now.de,p]::1;
+<wacht|[https://onlinecasino-now.nl,p]::2;
+<wachlarz|[https://kasyno-now.com,p]::1;
+<wachten|[https://onlinecasino-now.nl/casino-reviews/playamo,p]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::1;[https://onlinecasino-now.nl/casino-software,p]::2;
+<wachsende|[https://casino-now.at/live-casino/holdem,p]::1;

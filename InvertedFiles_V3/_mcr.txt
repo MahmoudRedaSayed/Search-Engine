@@ -1,1 +1,1 @@
-<mcrae|[https://www.dailymail.co.uk/money/index.html,h]::1;
+<mcrae|[https://nautil.us/topics/psychology,p]::1;[https://www.dailymail.co.uk/auhome/index.html,s]::1;

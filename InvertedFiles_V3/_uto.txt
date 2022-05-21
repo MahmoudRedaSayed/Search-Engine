@@ -1,3 +1,7 @@
-<utopia|[https://www.iflscience.com/space,p]::1;[https://www.sensesofcinema.com/special-dossiers,h]::1;
-<utopians|[https://www.sensesofcinema.com/special-dossiers,h]::2;
-<utopian|[https://www.sensesofcinema.com/special-dossiers,h]::1;
+<utopian|[https://www.sensesofcinema.com/2022/feature-articles/smooth-digital-reveries-on-proto-vaporwave-and-the-flying-luna-clipper,p]::2;[https://blog.archive.org/category/books-archive/lending-books,p]::1;[https://www.sensesofcinema.com/2015/michael-bay-dossier/michael-bay-the-island,p]::8;[https://www.nytimes.com/interactive/2022/03/18/technology/cryptocurrency-crypto-guide.html,p]::1;
+<utopia|[https://www.sensesofcinema.com/2000/interviews/ng,p]::1;[https://www.sensesofcinema.com/2022/great-directors/tahimik-kidlat,p]::1;[https://www.sensesofcinema.com/2001/festival-reports/bangkok-2,h]::1;[https://www.sensesofcinema.com/2015/michael-bay-dossier/michael-bay-the-island,t]::1;[https://www.sensesofcinema.com/2015/michael-bay-dossier/michael-bay-the-island,h]::1;[https://www.sensesofcinema.com/2015/michael-bay-dossier/michael-bay-the-island,p]::34;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;[https://www.iflscience.com/space,p]::1;
+<utopies|[http://www.fondation-alliancefr.org,p]::1;
+<utopiadystopia|[https://www.sensesofcinema.com/2015/michael-bay-dossier/michael-bay-the-island,p]::2;
+<utopiandystopian|[https://www.sensesofcinema.com/2015/michael-bay-dossier/michael-bay-the-island,p]::1;
+<utomik|[http://www.hitcents.com,h]::1;
+<utopias|[https://www.nytimes.com/interactive/2022/03/18/technology/cryptocurrency-crypto-guide.html,p]::1;

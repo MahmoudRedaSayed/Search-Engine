@@ -1,1 +1,3 @@
-<ldap|[https://cloud.google.com/identity/docs/groups,p]::1;
+<ldac|[https://www.gsmarena.com/,h]::1;
+<ldap|[https://cloud.google.com/identity/docs/groups,p]::1;[https://cloud.google.com/identity,p]::3;
+<ldai|[https://cloud.google.com/solutions/lending-doc-ai,p]::1;

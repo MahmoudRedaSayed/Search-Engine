@@ -1,1 +1,3 @@
 <cmdk|[https://www.bbc.co.uk/gel/guidelines/how-to-design-accessible-email-newsletters,p]::1;
+<cmdlets|[https://cloud.google.com/powershell,p]::2;
+<cmd|[https://firefox-source-docs.mozilla.org/devtools-user/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=footer&utm_content=developers,p]::1;

@@ -1,1 +1,1 @@
-<euus|[https://twitter.com/privacy,p]::4;
+<euus|[https://twitter.com/privacy,p]::4;[https://vine.co/privacy,p]::4;[https://www.hearst.it/terms-and-conditions-print-and-digital-advertising,p]::1;[https://tunein.com/policies/privacy,p]::1;[https://www.parse.ly/privacy-policy,p]::2;[https://www.redditinc.com/policies/privacy-policy,p]::1;

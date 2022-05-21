@@ -1,2 +1,2 @@
-<pcso|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk/news/index.html,h]::1;
-<pcs|[https://www.tutorialspoint.com/upsc_ias_exams.htm,p]::2;[https://www.tutorialspoint.com/current_affairs.htm,p]::1;[https://www.tutorialspoint.com/what-are-the-differences-between-split-ups-and-carve-outs,p]::1;[https://discountcode.dailymail.co.uk/currys,h]::2;[https://discountcode.dailymail.co.uk/currys,p]::2;[https://chromeenterprise.google/intl/en_US,p]::1;
+<pcs|[https://www.microsoft.com/en-us/accessibility/features?activetab=pivot_1%253aprimaryr2,p]::5;[https://blog.archive.org/category/software-archive,p]::1;[https://chromeenterprise.google,p]::1;[https://nautil.us/topics/physics,h]::1;[https://chromeenterprise.google/intl/en_US/browser/download,h]::1;
+<pcsmart|[https://casino-now.co.uk/casino-software,p]::1;

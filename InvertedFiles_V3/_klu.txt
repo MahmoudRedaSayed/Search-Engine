@@ -1,1 +1,8 @@
-<klum|[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::2;
+<kluge|[https://www.sensesofcinema.com/author/lukasz-mankowski,h]::1;[https://www.sensesofcinema.com/author/dirk-de-bruyn,h]::1;[https://www.sensesofcinema.com/2022/great-directors/tahimik-kidlat,p]::1;[https://www.sensesofcinema.com/2021/great-directors/obayashi-nobuhiko,h]::1;[https://www.sensesofcinema.com/category/feature-articles/page/2,h]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/10/627a503737ff7b00238dba4a-directo.html,p]::1;
+<klub|[http://www.beinsports.com/id,h]::1;
+<klubnya|[http://www.beinsports.com/id,p]::2;
+<klux|[https://www.sensesofcinema.com/2022/feature-articles/jacob-holdts-american-pictures-a-note-on-style-in-poor-cinema,p]::1;[https://www.nationalgeographic.com/magazine/article/tulsa-finally-confronts-the-day-a-white-mob-destroyed-a-black-community-feature,p]::1;[https://www.nationalgeographic.com/magazine/article/race-rising-anxiety-white-america,p]::1;
+<kluges|[https://nautil.us/topics/genetics,p]::1;[https://nautil.us/topics/technology,p]::1;
+<kluelessphotograph|[https://nautil.us/topics/math,p]::1;
+<klutz|[https://www.dailywritingtips.com/the-yiddish-handbook-40-words-you-should-know,s]::1;[https://www.dailywritingtips.com/100-beautiful-and-ugly-words,p]::1;
+<klum|[https://www.dailymail.co.uk/auhome/index.html,s]::1;

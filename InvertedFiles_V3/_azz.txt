@@ -1,1 +1,4 @@
-<azzurra|[https://www.marca.com/ciclismo/giro-italia/2022/05/15/6280d6cd37ff7b0023a22828-directo.html,p]::5;[https://olympics.com/it,h]::1;
+<azzurra|[https://www.marca.com/ciclismo/giro-italia/2022/05/15/6280d6cd37ff7b0023a22828-directo.html,p]::5;[https://www.marca.com/ciclismo/giro-italia/2022/05/12/627cece5749dee001f555a85-directo.html,p]::1;
+<azzardo|[https://casino-now.it,p]::2;
+<azzellini|[https://creativecommons.org/2022/05/04/eight-case-studies-show-opportunities-challenges-and-needs-of-low-capacity-and-non-western-cultural-heritage-institutions,p]::1;
+<azzopardi|[https://www.nytimes.com/interactive/2022/05/13/us/covid-deaths-us-one-million.html,p]::1;

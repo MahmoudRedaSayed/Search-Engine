@@ -1,0 +1,7 @@
+<rkybarragan|[https://congress.gov,p]::1;
+<rkyconnolly|[https://congress.gov,p]::1;
+<rkyharder|[https://congress.gov,p]::1;
+<rkymast|[https://congress.gov,p]::1;
+<rkyrogers|[https://congress.gov,p]::1;
+<rkymenendez|[https://congress.gov,p]::1;
+<rkypeters|[https://congress.gov,p]::1;

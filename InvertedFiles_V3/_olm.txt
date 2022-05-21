@@ -1,1 +1,5 @@
-<olmos|[https://www.marca.com/claro-mx/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;
+<olmi|[https://www.sensesofcinema.com/2006/great-directors/bolognini,p]::1;
+<olm|[https://cloud.google.com/storage,p]::1;
+<olmos|[https://ma.tt,p]::1;
+<olmo|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-8,p]::1;
+<olmsted|[http://www.mayoclinic.org/about-this-site/terms-conditions-use-policy,p]::1;

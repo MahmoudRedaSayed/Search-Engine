@@ -1,0 +1,1 @@
+<clk|[https://circuitdigest.com/microcontroller-projects/arduino-spi-communication-tutorial,s]::1;[https://circuitdigest.com/microcontroller-projects/arduino-spi-communication-tutorial,p]::2;

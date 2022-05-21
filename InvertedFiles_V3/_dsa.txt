@@ -1,0 +1,1 @@
+<dsa|[https://www.outbrain.com/legal,s]::1;[https://www.outbrain.com/legal,p]::7;[https://edaa.eu,p]::2;[https://nautil.us/topics/sociology,p]::1;[https://creativecommons.org/category/policy-advocacy-copyright-reform,p]::2;

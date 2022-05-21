@@ -1,1 +1,3 @@
 <uzbek|[https://simple.wikipedia.org,p]::1;
+<uzbekistán|[https://www.marca.com/juegos-olimpicos.html?intcmp=MENUPROD&s_kw=juegos-olimpicos,h]::1;
+<uzbekistan|[https://www.foxnews.com/category/science/archaeology/dinosaurs,p]::1;

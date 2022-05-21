@@ -1,0 +1,9 @@
+<sogno|[https://www.hearst.it/vivere-meglio/cosmopolitan-il-cambiamento-e-onlife,p]::2;
+<sognante|[https://www.hearst.it/vivere-meglio/cosmopolitan-il-cambiamento-e-onlife,p]::1;
+<soggetti|[https://www.hearst.it/informativa-privacy,s]::1;[https://www.hearst.it/valori-e-principi-dei-nostri-contenuti,s]::1;[https://www.outbrain.com/legal,p]::1;
+<soggetto|[https://www.hearst.it/condizioni-di-utilizzo-del-sito-e-copyright,p]::1;
+<sogar|[https://onlinecasino-now.de,p]::4;[https://casino-now.at/live-casino/holdem,p]::3;[https://swiss-casino-now.com/casino-software,p]::2;[https://swiss-casino-now.com/casino-software/betsoft,p]::4;
+<sogenannten|[https://onlinecasino-now.de,p]::1;[https://casino-now.at/casino-software,p]::1;
+<soggy|[https://www.britannica.com/reviews/houseplants,p]::1;
+<soggettive|[https://casino-now.it/recensioni,p]::1;
+<sogenanntes|[https://casino-now.at/live-casino/holdem,p]::1;

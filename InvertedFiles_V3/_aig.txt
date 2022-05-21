@@ -1,0 +1,4 @@
+<aiguiser|[http://www.clemi.org/fr,p]::1;
+<aiga|[https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm,s]::1;[https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm,p]::1;
+<aiguided|[https://www.nationalgeographic.com/environment/article/mining-is-a-polluting-business-can-new-tech-make-it-cleaner,p]::1;
+<aigenerated|[https://generated.photos,p]::1;[https://generated.photos/faces,p]::1;

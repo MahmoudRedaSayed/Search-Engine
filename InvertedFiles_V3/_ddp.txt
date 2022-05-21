@@ -1,0 +1,2 @@
+<ddp|[https://www.digikey.jp/MyDigiKey/Registration?ReturnUrl=https%253A%252F%252Fforum.digikey.com/c/japanese/43,s]::2;
+<ddp（関税支払済みの仕向け先納入条件）|[https://www.digikey.jp/MyDigiKey/Registration?ReturnUrl=https%253A%252F%252Fforum.digikey.com/c/japanese/43,p]::2;

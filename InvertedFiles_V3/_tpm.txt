@@ -1,0 +1,2 @@
+<tpm|[https://cloud.google.com/shielded-vm,p]::1;[https://aws.amazon.com/blogs/aws,p]::3;
+<tpms|[https://creativecommons.org/2022/05/16/cc-at-sccr-42-a-look-back-at-the-wipo-copyright-meeting,p]::1;

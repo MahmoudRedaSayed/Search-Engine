@@ -1,1 +1,2 @@
-<gippsland|[https://www.dailymail.co.uk/femail/index.html,p]::1;
+<gipson|[https://www.chicagotribune.com/sports/bears/ct-cb-chicago-bears-roster-breakdown-otas-20220516-gxvwqjx32rbyradq2gf6h2tyia-story.html#nt=interstitial-auto,p]::2;[https://www.chicagotribune.com/sports/bears/ct-cb-chicago-bears-brad-biggs-10-thoughts-20220103-fy2qrxl7nvdkbnyxdgdkgnig64-story.html#nt=interstitial-auto,h]::1;[https://www.chicagotribune.com/sports/bears/ct-cb-chicago-bears-brad-biggs-10-thoughts-20220103-fy2qrxl7nvdkbnyxdgdkgnig64-story.html#nt=interstitial-auto,p]::9;
+<gip|[https://www.everydayhealth.com/type-2-diabetes/guide,p]::1;

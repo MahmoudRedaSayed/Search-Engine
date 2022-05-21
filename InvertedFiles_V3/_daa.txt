@@ -1,1 +1,15 @@
-<daas|[https://twitter.com/privacy,p]::2;
+<daas|[https://twitter.com/privacy,p]::2;[https://cloud.google.com/solutions/virtual-desktops,p]::2;
+<daa|[https://www.demandbase.com/privacy-policy,p]::2;[https://warnermediaprivacy.com/opt-out,p]::1;[https://www.outbrain.com/legal,p]::1;[https://www.warnermediaprivacy.com/do-not-sell,p]::1;[https://www.ebay.com/adchoice,p]::2;[https://www.marhabaservices.com/ae/english/cookie-policy.html,p]::3;[https://www.emirates.com/english/sitetools/cookie-policy.aspx,p]::2;[https://www.emirates.com/ae/english/sitetools/cookie-policy.aspx,p]::2;
+<daac|[https://warnermediaprivacy.com/opt-out,p]::1;
+<daarbij|[https://www.outbrain.com/legal,p]::1;[https://onlinecasino-now.nl/casino-reviews/playamo,p]::2;
+<daarvan|[https://www.outbrain.com/legal,p]::1;
+<daarnaast|[https://onlinecasino-now.nl,p]::2;[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::1;[https://onlinecasino-now.nl/casino-software,p]::1;
+<daarom|[https://onlinecasino-now.nl,p]::3;[https://casino-now.be,p]::1;[https://onlinecasino-now.nl/casino-reviews,p]::4;[https://onlinecasino-now.nl/casino-reviews/playamo,s]::1;[https://onlinecasino-now.nl/casino-reviews/playamo,p]::3;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::2;[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::2;[https://onlinecasino-now.nl/casino-software,p]::5;
+<daarna|[https://onlinecasino-now.nl,p]::1;[https://casino-now.be,s]::1;[https://casino-now.be,p]::1;[https://onlinecasino-now.nl/live-casino/casino-holdem,s]::1;[https://onlinecasino-now.nl/casino-software,p]::1;
+<daar|[https://onlinecasino-now.nl,p]::1;[https://onlinecasino-now.nl/live-casino/casino-holdem,s]::1;[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::1;[https://onlinecasino-now.nl/casino-software,p]::1;
+<daadwerkelijke|[https://onlinecasino-now.nl,p]::1;[https://onlinecasino-now.nl/casino-reviews,p]::1;[https://onlinecasino-now.nl/casino-reviews/playamo,p]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::1;[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::1;[https://onlinecasino-now.nl/casino-software,p]::1;
+<daarmee|[https://onlinecasino-now.nl,p]::1;[https://onlinecasino-now.nl/casino-reviews,p]::2;[https://onlinecasino-now.nl/casino-reviews/playamo,p]::2;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::2;[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::2;[https://onlinecasino-now.nl/casino-software,p]::2;
+<daarin|[https://onlinecasino-now.nl/casino-reviews,p]::1;[https://onlinecasino-now.nl/casino-reviews/playamo,p]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::1;[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::1;[https://onlinecasino-now.nl/casino-software,p]::1;
+<daardoor|[https://onlinecasino-now.nl/casino-reviews,p]::1;[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::1;
+<daadwerkelijk|[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::1;
+<daaopens|[https://www.emirates.com/english/sitetools/cookie-policy.aspx,p]::1;[https://www.emirates.com/ae/english/sitetools/cookie-policy.aspx,p]::1;

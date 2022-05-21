@@ -1,1 +1,5 @@
-<yacht|[https://www.dailymail.co.uk/auhome/index.html,s]::1;[https://www.dailymail.co.uk/femail/index.html,p]::1;[https://www.dailymail.co.uk/travel/index.html,p]::1;
+<yacine|[https://appsto.re/qa/5KYWU.i,p]::1;[https://www.sensesofcinema.com/2015/feature-articles/notes-on-bruno-dumonts-ptit-quinquin-or-something-is-rotten-in-the-north-of-france,p]::1;
+<yachts|[https://observers.france24.com,p]::1;[https://www.foxbusiness.com,h]::1;
+<yacht|[https://www.sensesofcinema.com/2015/michael-bay-dossier/michael-bay-the-island,p]::3;[https://www.sensesofcinema.com/2021/interviews/an-interview-with-the-late-monte-hellman-1929-2021,p]::2;[https://www.campdream.org/about/staff,p]::1;[https://www.dailymail.co.uk/video/index.html,p]::1;[https://www.dailymail.co.uk/travel/index.html,h]::1;[https://www.dailymail.co.uk/travel/index.html,s]::1;[https://www.dailymail.co.uk/travel/index.html,p]::2;
+<yac|[https://www.campdream.org/about/staff,p]::1;
+<yachance|[https://www.merriam-webster.com/reviews?post_type=roundup&p=5101&preview=true,h]::1;[https://www.merriam-webster.com/reviews?post_type=roundup&p=5101&preview=true,p]::2;

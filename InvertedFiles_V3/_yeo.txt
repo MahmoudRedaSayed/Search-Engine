@@ -1,1 +1,4 @@
+<yeoja|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::2;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::2;
+<yeok|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::1;
+<yeojeong|[https://m.imdb.com/feature/bestpicture/?ref_=nv_ch_osc,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;
 <yeoh|[https://www.dailymail.co.uk/tvshowbiz/index.html,h]::1;

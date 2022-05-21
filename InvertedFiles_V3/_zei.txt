@@ -1,1 +1,14 @@
-<zeitgeist|[https://www.sensesofcinema.com/special-dossiers,h]::1;
+<zeinab|[https://www.bbc.co.uk/schedules/p00fzl9m,p]::1;
+<zeitgeist|[https://www.sensesofcinema.com/2022/great-directors/lau-kar-leung,h]::1;[https://www.sensesofcinema.com/2021/book-reviews/42756,p]::1;[https://www.nationalgeographic.com/magazine/article/why-are-people-so-dang-obsessed-with-mars-feature,p]::1;[https://www.dailywritingtips.com/vocabulary-test-2,p]::1;
+<zeit|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;[https://onlinecasino-now.de,h]::1;[https://onlinecasino-now.de,p]::5;[https://swiss-casino-now.com/casino-bewertung,p]::3;[https://casino-now.at/casino-bewertung,p]::1;[https://onlinecasino-now.de/casino-bewertung,p]::1;[https://swiss-casino-now.com/casino-software,p]::1;[https://casino-now.at/casino-software,p]::3;[https://swiss-casino-now.com/casino-software/betsoft,p]::1;
+<zeitraum|[https://onlinecasino-now.de,p]::1;
+<zeigt|[https://onlinecasino-now.de,p]::2;[https://www.aboutamazon.de,h]::1;
+<zeigen|[https://onlinecasino-now.de,p]::1;[https://swiss-casino-now.com/casino-bewertung,p]::4;[https://casino-now.at/casino-bewertung,p]::2;[https://onlinecasino-now.de/casino-bewertung,p]::1;[https://onlinecasino-now.de/casino-bewertung/cookie,p]::5;
+<zeitalter|[https://swiss-casino-now.com/casino-bewertung,p]::1;[https://casino-now.at/casino-software,p]::1;
+<zeichen|[https://onlinecasino-now.de/casino-bewertung,p]::1;
+<zeitlose|[https://casino-now.at/live-casino/holdem,p]::1;
+<zeitpunkt|[https://swiss-casino-now.com/casino-software,p]::1;
+<zeiten|[https://swiss-casino-now.com/casino-software,p]::1;
+<zei|[https://onlinecasino-now.nl/casino-software,p]::1;
+<zeichnen|[https://swiss-casino-now.com/casino-software/betsoft,p]::2;
+<zeitunabhängig|[https://swiss-casino-now.com/casino-software/betsoft,p]::1;

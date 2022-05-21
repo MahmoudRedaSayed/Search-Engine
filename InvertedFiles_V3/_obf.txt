@@ -1,1 +1,3 @@
-<obfuscate|[https://twitter.com/privacy,p]::1;
+<obfuscate|[https://twitter.com/privacy,p]::1;[https://cloud.google.com/healthcare-api,p]::1;[https://nautil.us/topics/technology,h]::2;
+<obfuscated|[https://www.sensesofcinema.com/2022/great-directors/curtiz-michael,p]::1;[https://cloud.google.com/datasets,p]::2;
+<obfuscating|[https://www.sensesofcinema.com/2022/feature-articles/the-journey-peter-watkinss-polyphonic-plea-for-humanity,p]::1;[https://support.google.com/analytics/answer/6004245?hl=en,p]::1;

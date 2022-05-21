@@ -1,0 +1,1 @@
+<pzlinkcard|[https://wordpress.org/plugins/tags/external-link,h]::1;

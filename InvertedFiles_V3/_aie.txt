@@ -1,1 +1,4 @@
-<aienabled|[https://atos.net,h]::1;
+<aiempowered|[https://www.hearst.com/ventures,p]::1;
+<aienabled|[https://cloud.google.com/solutions/healthcare-life-sciences,p]::1;[https://cloud.google.com/solutions/manufacturing,p]::1;[https://cloud.google.com/solutions/intelligent-products,p]::2;
+<aient|[https://fr.swiss-casino-now.com,p]::1;[https://fr.swiss-casino-now.com/revue,p]::1;[https://fr.swiss-casino-now.com/revue/playamo,p]::1;
+<aiechon|[https://www.dailywritingtips.com/possessive-of-proper-names-ending-in-s,s]::1;

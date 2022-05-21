@@ -1,0 +1,2 @@
+<dtd|[https://www.nlm.nih.gov/portals/publishers.html,p]::2;[https://www.tutorialspoint.com/tutorialslibrary.htm,p]::1;
+<dtdatatilsynetdk|[https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm,p]::1;

@@ -1,1 +1,13 @@
-<tavernier|[https://www.skysports.com/,h]::1;
+<tavares|[https://www.realmadrid.com,h]::1;[https://www.realmadrid.com,p]::1;[https://www.marca.com/baloncesto/acb.html?intcmp=MENUPROD&s_kw=baloncesto-acb,h]::1;[https://www.marca.com/baloncesto/euroliga.html?intcmp=MENUPROD&s_kw=baloncesto-euroliga,h]::2;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;[https://player.arsenal.com/matches/first?utm_source=arsenaldotcom&utm_medium=meganavvideo&utm_campaign=arsenaldotcom,h]::6;[https://player.arsenal.com/matches/first?utm_source=arsenaldotcom&utm_medium=meganavvideo&utm_campaign=arsenaldotcom,p]::3;
+<tavernier|[https://www.marca.com/futbol/europa-league/2022/05/18/6284a833ca4741d2228b4633.html,p]::1;[https://www.bbc.co.uk/sport,p]::1;[https://www.sensesofcinema.com/category/cteq,h]::1;[http://www.beinsports.com/france,h]::1;[https://www.marca.com/futbol/europa-league.html?intcmp=MENUPROD&s_kw=europa-league,h]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-8,p]::1;
+<tavole|[https://www.hearst.it/soluzioni/hearst-live,p]::1;
+<tavascan|[https://www.marca.com/coches-y-motos/salon-automovil-frankfurt.html?intcmp=MENUPROD&s_kw=frankfurt,h]::1;
+<taviani|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;
+<tavernkeepers|[https://historyhub.history.gov/community/crowd-loc/blog,p]::1;[https://historyhub.history.gov/community/crowd-loc/blog/2020/06/29/george-washington-s-washing-and-the-women-who-did-it,p]::1;[https://historyhub.history.gov/community/crowd-loc/blog/2020/06/29/george-washington-s-washing-and-the-women-who-did-it#comments,p]::1;[http://philadelphiaencyclopedia.org/archive/philadelphia-and-its-people-in-maps-the-1790s,s]::1;[http://philadelphiaencyclopedia.org/archive/philadelphia-and-its-people-in-maps-the-1790s,p]::4;
+<tavallisesta|[https://netticasino-now.com,p]::1;
+<tavalla|[https://netticasino-now.com,p]::1;
+<tavolo|[https://casino-now.it,p]::2;[https://casino-now.it/recensioni,s]::1;[https://casino-now.it/recensioni,p]::2;[https://casino-now.it/software,p]::3;
+<tavoli|[https://casino-now.it,p]::2;[https://casino-now.it/software,s]::1;[https://casino-now.it/software,p]::1;
+<tavern|[https://www.nationalgeographic.com/magazine/article/race-rising-anxiety-white-america,p]::1;[http://projects.voanews.com/making-the-constitution,p]::3;[http://philadelphiaencyclopedia.org/archive/philadelphia-and-its-people-in-maps-the-1790s,p]::2;[http://www.citytavern.com,t]::2;[http://www.citytavern.com,p]::2;
+<tavanier|[https://creativecommons.org/category/open-culture,h]::1;[https://creativecommons.org/category/open-culture,p]::1;
+<taverns|[http://philadelphiaencyclopedia.org/archive/philadelphia-and-its-people-in-maps-the-1790s,p]::2;[http://www.citytavern.com,p]::1;

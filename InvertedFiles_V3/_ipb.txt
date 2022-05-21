@@ -1,0 +1,2 @@
+<ipbutton|[https://circuitdigest.com/microcontroller-projects/arduino-spi-communication-tutorial,p]::1;
+<ipbased|[https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs,p]::1;

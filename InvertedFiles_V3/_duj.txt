@@ -1,0 +1,3 @@
+<dujournal|[https://savoirs.rfi.fr/en/apprendre-enseigner/economie/etats-unis-les-salaires-des-grands-patrons-explosent/1,p]::1;
+<dujardins|[https://www.sensesofcinema.com/2012/feature-articles/the-artist-mystification-beyond-artistry,p]::4;
+<dujardin|[https://m.imdb.com/feature/bestpicture/?ref_=nv_ch_osc,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;

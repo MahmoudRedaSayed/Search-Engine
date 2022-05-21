@@ -1,0 +1,2 @@
+<dsps|[https://edaa.eu/icon-providers,p]::1;[https://www.aboutamazon.com/what-we-do/delivery-logistics,h]::1;[https://www.aboutamazon.com/news/transportation/meet-the-skier-delivering-for-amazon-in-a-remote-austrian-village,h]::1;
+<dsp|[https://www.aboutamazon.com/what-we-do/delivery-logistics,h]::1;[https://www.aboutamazon.com/impact/empowerment/delivery-partners,h]::2;[https://www.aboutamazon.com/news/transportation/meet-the-skier-delivering-for-amazon-in-a-remote-austrian-village,h]::2;

@@ -1,3 +1,13 @@
-<hoeness|[https://www.dailymail.co.uk/sport/index.html,h]::1;[https://www.dailymail.co.uk/sport/index.html,p]::2;
-<hoefer|[https://www.dailymail.co.uk/femail/index.html,p]::1;
-<hoefkens|[https://www.marca.com/futbol/2022/05/13/627ddbd8749dee001f58f661-directo.html,s]::1;[https://www.marca.com/futbol/2022/05/13/627ddbd8749dee001f58f661-directo.html,p]::1;
+<hoeness|[http://www.beinsports.com/au,h]::1;
+<hoe|[https://www.outbrain.com/legal,s]::6;[http://blog.zog.org/2013/11/links-voor-4-november-2013.html,p]::1;[https://onlinecasino-now.nl,h]::1;[https://onlinecasino-now.nl,p]::10;[https://casino-now.be,h]::2;[https://casino-now.be,p]::2;[https://onlinecasino-now.nl/casino-reviews,h]::2;[https://onlinecasino-now.nl/casino-reviews,p]::4;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::3;[https://onlinecasino-now.nl/live-casino/casino-holdem,h]::3;[https://onlinecasino-now.nl/live-casino/casino-holdem,s]::1;[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::4;[https://onlinecasino-now.nl/casino-software,h]::2;
+<hoeveelheid|[https://onlinecasino-now.nl,p]::1;[https://onlinecasino-now.nl/casino-reviews/playamo,p]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::1;[https://onlinecasino-now.nl/casino-software,p]::2;
+<hoewel|[https://onlinecasino-now.nl,p]::2;[https://casino-now.be,p]::1;[https://onlinecasino-now.nl/casino-reviews,p]::2;[https://onlinecasino-now.nl/casino-reviews/playamo,p]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::1;[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::1;[https://onlinecasino-now.nl/casino-software,p]::3;
+<hoeveel|[https://casino-now.be,s]::2;[https://casino-now.be,p]::4;
+<hoef|[https://casino-now.be,p]::1;[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::1;
+<hoeft|[https://onlinecasino-now.nl/casino-reviews,p]::1;[https://onlinecasino-now.nl/casino-reviews/playamo,p]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::1;[https://onlinecasino-now.nl/live-casino/casino-holdem,s]::1;[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::3;[https://onlinecasino-now.nl/casino-software,p]::1;
+<hoede|[https://onlinecasino-now.nl/casino-reviews,p]::1;
+<hoeffel|[https://www.nationalgeographic.com/pages/article/masthead,p]::1;
+<hoecookie|[https://onlinecasino-now.nl/casino-reviews/cookie,p]::1;
+<hoenig|[https://meded.hms.harvard.edu/faculty-opportunities,p]::1;
+<hoeyon|[https://www.dailywritingtips.com/100-beautiful-and-ugly-words,s]::1;
+<hoerner|[https://www.chicagotribune.com/sports/cubs/#nt=taxonomy-article,h]::3;

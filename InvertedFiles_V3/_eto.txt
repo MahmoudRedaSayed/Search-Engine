@@ -1,1 +1,5 @@
-<etoo|[https://www.marca.com/en/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;[https://www.marca.com/futbol/barcelona/2022/05/12/627d694046163f61bd8b4592.html,p]::1;
+<etoo|[https://www.marca.com/futbol.html?intcmp=MENUPROD&s_kw=futbol,h]::1;
+<etou|[https://www.outbrain.com/legal,p]::2;[https://www.nike.com/ma,p]::1;[https://www.nike.com/ca/fr,p]::1;
+<eto|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::1;
+<etoneducated|[https://www.dailymail.co.uk/femail/index.html,h]::1;
+<eton|[https://www.dailymail.co.uk/femail/index.html,p]::1;

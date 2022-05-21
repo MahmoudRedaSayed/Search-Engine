@@ -1,1 +1,11 @@
-<tehnologije|[http://toni.podmanicki.com,h]::1;
+<tehrani|[https://www.healthline.com/health-news,p]::1;
+<tehnologică|[https://rural.rfi.ro,p]::1;
+<tehnologie|[https://rural.rfi.ro,p]::1;
+<tehnologia|[https://rural.rfi.ro,p]::1;
+<tehran|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::1;[https://nautil.us/topics/environment,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;
+<tehtävämme|[https://netticasino-now.com,p]::1;
+<tehtäviin|[https://netticasino-now.com,p]::1;
+<tehdä|[https://netticasino-now.com,p]::1;
+<tehty|[https://netticasino-now.com,p]::1;
+<tehdyt|[https://netticasino-now.com,p]::1;
+<tehtävänä|[https://netticasino-now.com,p]::1;

@@ -1,1 +1,1 @@
-<mmrs|[https://www.dailymail.co.uk/sport/index.html,p]::1;
+<mmr|[https://nautil.us/pursuing-covid-19-at-internet-speed-11453,p]::1;[https://www.englishclub.com/vocabulary/vaccine.php,s]::1;[https://www.englishclub.com/vocabulary/vaccine.php,p]::3;

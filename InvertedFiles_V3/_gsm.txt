@@ -1,0 +1,4 @@
+<gsmarenacom|[https://www.gsmarena.com/,t]::1;[https://www.gsmarena.com/,p]::2;[https://m.arenaev.com,p]::1;[https://merch.gsmarena.com,p]::1;
+<gsm|[https://www.gsmarena.com/,p]::1;[https://www.ebay.com/globaldeals/tech/cell-phones,h]::1;[https://www.ebay.com/globaldeals/featured/tech,h]::1;[https://www.onefootball.com/company/app-privacy-policy-en.html,p]::2;
+<gsmarena|[https://merch.gsmarena.com,t]::1;[https://merch.gsmarena.com,h]::1;[https://merch.gsmarena.com,p]::2;
+<gsmcdma|[https://www.ebay.com/globaldeals,h]::2;[https://www.ebay.com/globaldeals/tech/cell-phones,h]::2;[https://www.ebay.com/globaldeals/featured/tech,h]::2;[https://www.ebay.com/globaldeals/tech,h]::4;

@@ -1,0 +1,13 @@
+<rcac|[https://cloud.google.com/solutions,p]::1;[https://cloud.google.com/solutions/risk-and-compliance-as-code,h]::2;
+<rcacammack|[https://congress.gov,p]::1;
+<rcagarcia|[https://congress.gov,p]::1;
+<rcajackson|[https://congress.gov,p]::1;
+<rcakind|[https://congress.gov,p]::1;
+<rcalaturner|[https://congress.gov,p]::1;
+<rcamccaul|[https://congress.gov,p]::1;
+<rcamccollum|[https://congress.gov,p]::1;
+<rcaocasiocortez|[https://congress.gov,p]::1;
+<rcastefanik|[https://congress.gov,p]::1;
+<rcavan|[https://congress.gov,p]::1;
+<rca|[https://www.dailywritingtips.com/masters-degree-or-masters-degree,p]::1;
+<rcalif|[https://www.foxnews.com/tech,p]::1;

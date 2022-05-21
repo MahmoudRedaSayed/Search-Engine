@@ -1,0 +1,8 @@
+<dgablumenauer|[https://congress.gov,p]::1;
+<dgabowman|[https://congress.gov,p]::1;
+<dgajohnson|[https://congress.gov,p]::1;
+<dgamccarthy|[https://congress.gov,p]::1;
+<dgascott|[https://congress.gov,p]::1;
+<dgawilliams|[https://congress.gov,p]::1;
+<dgapadilla|[https://congress.gov,p]::1;
+<dgawarren|[https://congress.gov,p]::1;

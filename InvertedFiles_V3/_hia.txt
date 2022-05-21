@@ -1,1 +1,5 @@
-<hiatus|[https://www.dailymail.co.uk,p]::1;[https://www.dailymail.co.uk/femail/index.html,h]::1;
+<hiatus|[https://blog.archive.org/category/announcements,p]::1;[https://blog.archive.org/category/education-archive,p]::1;[https://www.sensesofcinema.com/2001/festival-reports/bangkok-2,p]::1;[https://www.sensesofcinema.com/2021/interviews/an-interview-with-the-late-monte-hellman-1929-2021,p]::1;[https://www.nytimes.com/live/2022/05/18/world/covid-19-mandates-vaccine-cases,p]::2;
+<hialurónico|[https://www.elmundo.es,h]::1;
+<hiawatha|[https://myindigolives.wordpress.com,p]::1;
+<hialeah|[https://www.nationalgeographic.com/animals/article/greyhound-racing-decline-united-states,p]::1;
+<hiarky|[https://www.dailywritingtips.com/50-incorrect-pronunciations-that-you-should-avoid,p]::1;

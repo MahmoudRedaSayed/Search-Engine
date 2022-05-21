@@ -1,2 +1,10 @@
-<smuggling|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk/news/index.html,h]::1;[https://www.bbc.co.uk/news,p]::2;[https://www.dailymail.co.uk/auhome/index.html,h]::1;[https://www.bbc.com/news,p]::2;
+<smudgeproof|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk/news/index.html,h]::1;
+<smug|[https://www.sensesofcinema.com/2022/feature-articles/promising-young-woman-and-the-cinematic-renegotiation-of-gender-in-rape-revenge,p]::1;[https://www.dailywritingtips.com/100-beautiful-and-ugly-words,p]::1;
+<smush|[https://profiles.wordpress.org/isa3caramel,h]::1;[https://profiles.wordpress.org/wpmudev,h]::2;
+<smuggling|[https://www.infomigrants.net,h]::1;[http://www.weta.org,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;
+<smudge|[https://nautil.us/topics/astronomy,p]::1;
+<smullyan|[https://nautil.us/topics/philosophy,p]::2;
+<smuggled|[https://nautil.us/ebook,p]::1;[https://www.dailywritingtips.com/25-confused-homonym-pairs,p]::1;
+<smukerss|[https://www.dailywritingtips.com/possessive-of-proper-names-ending-in-s,p]::1;
+<smukersss|[https://www.dailywritingtips.com/possessive-of-proper-names-ending-in-s,p]::1;
 <smugglers|[https://www.dailymail.co.uk/travel/index.html,p]::1;

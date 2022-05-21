@@ -1,0 +1,2 @@
+<pdm|[https://wiki.creativecommons.org/wiki/CC0_FAQ,p]::4;[https://wiki.creativecommons.org/PDM_FAQ,t]::1;[https://wiki.creativecommons.org/CC0_PDM_comparison_chart,t]::1;[https://wiki.creativecommons.org/PDM_FAQ,h]::2;[https://wiki.creativecommons.org/CC0_PDM_comparison_chart,h]::1;[https://wiki.creativecommons.org/CC0_PDM_comparison_chart,p]::2;[https://wiki.creativecommons.org/PDM_FAQ,p]::50;
+<pdmmarked|[https://wiki.creativecommons.org/PDM_FAQ,h]::1;[https://wiki.creativecommons.org/PDM_FAQ,p]::6;

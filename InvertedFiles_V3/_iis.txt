@@ -1,1 +1,1 @@
-<iis|[https://www.dailymail.co.uk,p]::1;[https://www.dailymail.co.uk/news/index.html,p]::1;
+<iis|[https://en.wikipedia.org/wiki/List_of_HTTP_status_codes#2xx_Success,p]::2;[https://blog.archive.org/category/emulation,p]::1;[https://blog.archive.org/category/software-archive,p]::1;[https://cloud.google.com/migrate/anthos,p]::1;

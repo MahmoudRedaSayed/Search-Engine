@@ -1,1 +1,2 @@
-<wyatt|[https://www.dailymail.co.uk/travel/index.html,p]::1;
+<wyatt|[https://www.sensesofcinema.com/2022/feature-articles/the-night-shift-woman-as-outlaw-hero-in-the-man-i-love,p]::4;[https://www.dailymail.co.uk/travel/index.html,p]::1;
+<wyatts|[https://www.sensesofcinema.com/2022/feature-articles/the-night-shift-woman-as-outlaw-hero-in-the-man-i-love,p]::1;

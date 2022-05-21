@@ -1,0 +1,3 @@
+<dvtwenstrup|[https://congress.gov,p]::1;
+<dvtlee|[https://congress.gov,p]::1;
+<dvt|[https://creativecommons.org/category/policy-advocacy-copyright-reform,p]::1;

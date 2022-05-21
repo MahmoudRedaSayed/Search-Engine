@@ -1,4 +1,4 @@
-<ttp|[https://bbc.github.io/subtitle-guidelines,p]::24;
+<ttp|[https://bbc.github.io/subtitle-guidelines,p]::35;
 <ttpcellresolution|[https://bbc.github.io/subtitle-guidelines,p]::7;
 <ttptimebase|[https://bbc.github.io/subtitle-guidelines,p]::4;
 <ttpframerate|[https://bbc.github.io/subtitle-guidelines,p]::2;
@@ -10,3 +10,4 @@
 <ttptimebaseclock|[https://bbc.github.io/subtitle-guidelines,p]::3;
 <ttpclockmodelocal|[https://bbc.github.io/subtitle-guidelines,p]::2;
 <ttpclockmodeutc|[https://bbc.github.io/subtitle-guidelines,p]::1;
+<ttps|[https://bbc.github.io/subtitle-guidelines,p]::1;

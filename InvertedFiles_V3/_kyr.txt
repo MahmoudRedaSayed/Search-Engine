@@ -1,1 +1,4 @@
-<kyrie|[https://archive.org/about/bios.php,p]::1;
+<kyrie|[https://archive.org/about/bios.php,p]::1;[https://www.foxnews.com/category/tech/topics/video-games,p]::1;
+<kyriazis|[https://www.nationalgeographic.com/animals/article/vaquita-porpoises-could-genetically-recover-if-fishing-ends,p]::2;
+<kyrenia|[https://nautil.us/topics/technology,p]::1;
+<kyrsten|[https://congress.gov,p]::1;

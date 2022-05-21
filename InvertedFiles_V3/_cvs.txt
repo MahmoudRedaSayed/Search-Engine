@@ -1,0 +1,3 @@
+<cvssv|[https://github.com/sbaresearch/advisories/tree/public/2019/SBA-ADV-20190913-02_WordPress_Plugin_Broken_Link_Checker,s]::2;
+<cvsan|[https://nautil.us/topics/genetics,p]::1;
+<cvs|[https://nautil.us/topics/sociology,p]::1;

@@ -1,1 +1,8 @@
-<sowie|[http://www.archive-it.org,p]::1;
+<sow|[https://www.marca.com/futbol/europa-league/2022/05/18/6284a833ca4741d2228b4633.html,p]::1;[http://www.weta.org,p]::1;[https://www.nytimes.com/section/todayspaper,p]::1;[https://www.nytimes.com/2022/05/17/business/inflation-developing-economies.html,p]::2;[https://www.dailywritingtips.com/75-contronyms-words-with-contradictory-meanings,p]::1;
+<sowmya|[https://www.hearst.com/news,p]::2;
+<sowden|[https://blog.archive.org/category/software-archive,p]::1;
+<sowie|[https://legal.twitter.com/imprint.html,p]::1;[https://onlinecasino-now.de,p]::2;[https://swiss-casino-now.com/casino-bewertung,p]::2;[https://casino-now.at/casino-bewertung,p]::2;[https://casino-now.at/live-casino/holdem,p]::2;[https://swiss-casino-now.com/casino-software,p]::2;[https://casino-now.at/casino-software,p]::3;[https://swiss-casino-now.com/casino-software/betsoft,p]::3;
+<sowohl|[https://onlinecasino-now.de,p]::6;[https://netticasino-now.com,p]::1;[https://onlinecasino-now.de/casino-bewertung/cookie,p]::1;[https://casino-now.at/live-casino/holdem,p]::1;[https://swiss-casino-now.com/casino-software,p]::1;
+<sowed|[https://nautil.us/topics/evolution,h]::1;
+<sowieso|[https://onlinecasino-now.nl/casino-reviews,p]::1;
+<sowing|[https://www.dailywritingtips.com/12-idioms-commonly-seen-with-homonymic-spelling-errors,p]::2;

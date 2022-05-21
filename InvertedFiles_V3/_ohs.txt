@@ -1,2 +1,2 @@
-<ohsus|[http://www.archive-it.org,p]::1;
-<ohsu|[http://www.archive-it.org,p]::2;
+<ohsoadorable|[http://blog.zog.org/2013/11/links-voor-4-november-2013.html,p]::1;
+<ohsu|[https://www.nlm.nih.gov/ep/GrantTrainInstitute.html,s]::1;

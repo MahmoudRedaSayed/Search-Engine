@@ -1,3 +1,14 @@
-<tetas|[https://www.marca.com/tiramillas/television/2022/05/15/6280dbe322601d476b8b4580.html,p]::1;
-<tetracampeón|[https://www.marca.com/futbol/real-madrid.html,h]::1;
 <tet|[https://bbc.github.io/subtitle-guidelines,p]::1;
+<tethered|[https://www.sensesofcinema.com/2022/feature-articles/promising-young-woman-and-the-cinematic-renegotiation-of-gender-in-rape-revenge,p]::1;[https://nautil.us/topics/genetics,p]::1;
+<tether|[https://www.expansion.com,h]::1;[https://nautil.us/topics/physics,p]::2;[https://fr.swiss-casino-now.com/revue/playamo,p]::1;[https://www.nytimes.com/2022/05/11/technology/bitcoin-price-crashing-stocks.html,p]::1;
+<tete|[https://www.marca.com/futbol/futbol-sala.html?intcmp=MENUPROD&s_kw=futbol-sala,h]::1;
+<tetris|[https://blog.archive.org/category/books-archive/lending-books,p]::1;
+<tetracampeón|[https://www.marca.com/futbol/champions-league.html?intcmp=MENUPROD&s_kw=futbol-champions-league,h]::1;
+<tetzlaff|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;
+<tetuan|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;
+<tetuán|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;
+<tetwan|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;
+<tetsuya|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;
+<teton|[https://www.nationalgeographic.com/travel/national-parks/article/most-visited-parks-photos,p]::1;[https://www.natgeomaps.com,s]::2;
+<tetra|[https://www.dailywritingtips.com/latin-words-and-expressions-all-you-need-to-know,p]::2;
+<tetrazzini|[https://www.foxnews.com/category/faith-values/faith,p]::1;

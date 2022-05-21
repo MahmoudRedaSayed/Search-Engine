@@ -1,0 +1,2 @@
+<rhubarb|[https://www.nytimes.com/,p]::1;[https://www.nytimes.com/ca/?action=click&region=Footer&pgtype=Homepage,p]::1;
+<rhums|[https://www.sensesofcinema.com/about,h]::1;

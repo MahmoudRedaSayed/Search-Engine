@@ -1,2 +1,2 @@
-<oysters|[https://www.dailymail.co.uk/travel/index.html,h]::1;
-<oyster|[http://www.archive-it.org,p]::1;
+<oysters|[https://nautil.us,h]::1;[https://nautil.us,p]::1;[https://nautil.us/topics/environment,h]::1;[https://nautil.us/topics/environment,p]::1;[https://www.nrdc.org/stories/water-pollution-everything-you-need-know,h]::1;[https://www.nrdc.org/stories/water-pollution-everything-you-need-know,p]::1;[https://nautil.us/what-lurks-in-a-drowned-forest-in-alabama-16508,h]::1;[https://nautil.us/what-lurks-in-a-drowned-forest-in-alabama-16508,p]::1;[https://www.dailymail.co.uk/video/index.html,p]::1;[https://www.dailymail.co.uk/travel/index.html,h]::1;
+<oyster|[https://www.sensesofcinema.com/author/steven-shaviro,h]::1;[https://www.dailymail.co.uk/femail/index.html,h]::1;[https://www.dailymail.co.uk/femail/index.html,p]::1;[https://www.dailymail.co.uk/travel/index.html,h]::1;

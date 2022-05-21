@@ -1,2 +1,7 @@
+<oxide|[https://www.sensesofcinema.com/2001/festival-reports/bangkok-2,p]::1;[https://www.dailymail.co.uk/health/index.html,p]::1;
+<oxilia|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;
+<oxides|[https://nautil.us/topics/environment,p]::1;
+<oxidea|[https://nautil.us/triggering-the-bodys-defenses-to-fight-cancer-3-13118,p]::1;
+<oxidizer|[https://irishwomenshistory.blogspot.com/2014/11/the-colours-of-suffragettes.html,p]::1;
 <oxidase|[https://www.everydayhealth.com/depression/guide,s]::1;
 <oxitec|[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;

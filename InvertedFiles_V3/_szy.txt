@@ -1,1 +1,9 @@
-<szymanek|[http://www.enable-javascript.com,p]::1;[http://www.enable-javascript.com/hr,p]::1;
+<szybkie|[https://kasyno-now.com,h]::1;
+<szybkimi|[https://kasyno-now.com,s]::1;[https://kasyno-now.com,p]::1;
+<szyfrowania|[https://kasyno-now.com,s]::1;[https://kasyno-now.com,p]::1;
+<szybką|[https://kasyno-now.com,p]::2;
+<szybkość|[https://kasyno-now.com,p]::5;[https://kasyno-now.com/recenzja,p]::5;
+<szybkich|[https://kasyno-now.com,p]::1;
+<szybkiej|[https://kasyno-now.com,p]::1;
+<szybko|[https://kasyno-now.com,p]::1;
+<szybki|[https://kasyno-now.com,p]::1;

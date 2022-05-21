@@ -1,1 +1,4 @@
+<odata|[https://www.hearst.it/terms-and-conditions-print-and-digital-advertising,p]::1;
+<odată|[https://rural.rfi.ro,p]::1;
+<odaklanır|[http://tr.talkenglish.com,h]::1;
 <oda|[http://list.org,p]::1;

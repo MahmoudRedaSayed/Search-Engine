@@ -1,2 +1,2 @@
-<gwyneth|[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://www.dailymail.co.uk/auhome/index.html,s]::1;[https://www.dailymail.co.uk/travel/index.html,p]::1;
+<gwyneth|[https://nautil.us/topics/physics,p]::1;[https://www.nationalgeographic.com/animals/article/greyhound-racing-decline-united-states,p]::1;[https://m.imdb.com/feature/bestpicture/?ref_=nv_ch_osc,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://www.dailymail.co.uk/auhome/index.html,s]::2;[https://www.dailymail.co.uk/travel/index.html,p]::1;
 <gwynnies|[https://www.dailymail.co.uk/travel/index.html,h]::1;

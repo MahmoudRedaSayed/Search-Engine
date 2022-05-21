@@ -1,2 +1,4 @@
-<xcode|[https://developer.apple.com/macos,s]::1;[https://developer.apple.com/macos,p]::4;
 <xcoordinate|[https://bbc.github.io/subtitle-guidelines,p]::2;
+<xcoded|[https://bit.ly/3MDhzBQ,h]::1;
+<xcode|[https://bit.ly/3MDhzBQ,h]::2;[https://developer.apple.com/macos,s]::1;[https://developer.apple.com/macos,p]::4;
+<xcomon|[https://www.dailywritingtips.com/bare-or-bear-with-me,s]::1;

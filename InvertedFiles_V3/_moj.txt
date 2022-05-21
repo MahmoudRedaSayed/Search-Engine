@@ -1,5 +1,11 @@
-<mojave|[https://support.apple.com/HT202530,p]::3;[https://www.iflscience.com/technology,h]::1;
-<moja|[http://toni.podmanicki.com,h]::1;
-<moje|[http://toni.podmanicki.com,p]::1;
+<moja|[https://www.marca.com/tiramillas/television/2022/05/17/6283f73f22601d7e228b4571.html,t]::1;[https://www.marca.com/tiramillas/television/2022/05/17/6283f73f22601d7e228b4571.html,h]::2;[https://www.marca.com/motor/formula1/gp-australia.html?intcmp=MENUPROD&s_kw=formula-1-gp-australia,h]::1;[https://www.marca.com/motor/formula1/gp-abu-dhabi.html?intcmp=MENUPROD&s_kw=formula-1-gp-abu-dhabi,h]::1;[https://www.marca.com/motor/rallies.html?intcmp=MENUPROD&s_kw=rallies,h]::1;[https://www.marca.com/noticias-mas-leidas.html,h]::1;
+<mojado|[https://www.marca.com/motor/24-horas-daytona.html?intcmp=MENUPROD&s_kw=24-horas-daytona,h]::1;
+<mojada|[https://www.marca.com/futbol/chile.html?intcmp=MENUPROD&s_kw=futbol-chile,h]::1;
+<mojtahed|[https://www.sensesofcinema.com/about/patrons,p]::1;
+<mojave|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::2;[https://support.apple.com/HT202530,p]::3;[https://www.iflscience.com/technology,h]::1;
+<moj|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;
+<mojca|[https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm,s]::2;[https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm,p]::2;
+<mojica|[https://nautil.us/topics/genetics,p]::2;
+<mojo|[https://help.imdb.com/article/imdb/general-information/imdb-site-index/GNCX7BHNSPBTFALQ#so,s]::1;[https://help.imdb.com/article/imdb/general-information/imdb-site-index/GNCX7BHNSPBTFALQ#so,p]::2;[https://www.boxofficemojo.com,t]::1;[https://www.boxofficemojo.com,p]::1;[https://www.imdb.com/pressroom/?ref_=ft_pr,p]::2;[https://www.amazon.jobs/en/teams/imdb,p]::2;[http://www.imdb.com/privacy?ref_=pro_ftr_privpol,p]::1;
+<mojoon|[https://www.dailywritingtips.com/what-is-the-difference-between-metaphor-and-simile,s]::1;
 <mojav|[https://www.iflscience.com/technology,p]::1;
-<mojica|[https://www.sensesofcinema.com/special-dossiers,h]::1;

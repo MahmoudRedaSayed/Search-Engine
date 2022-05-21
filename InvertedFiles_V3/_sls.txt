@@ -1,1 +1,1 @@
-<sls|[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;[https://www.dailymail.co.uk/sciencetech/index.html,p]::2;
+<sls|[https://www.britannica.com/reviews/natural-cleaning-products,p]::1;[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;[https://www.dailymail.co.uk/sciencetech/index.html,p]::2;

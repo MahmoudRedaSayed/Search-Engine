@@ -1,1 +1,7 @@
-<noyce|[https://www.dailymail.co.uk/femail/index.html,p]::1;
+<noya|[https://www.marca.com/triatlon.html?intcmp=MENUPROD&s_kw=triatlon?intcmp=MENUPROD&s_kw=triatlon,h]::3;
+<noyuki|[https://www.sensesofcinema.com/2021/great-directors/obayashi-nobuhiko,p]::1;
+<noyces|[https://www.sensesofcinema.com/2022/festival-reports/afi-fest-afm-the-perils-of-online,p]::1;
+<noyce|[https://www.sensesofcinema.com/2018/book-reviews/mind-movie-critic-two-cheers-hollywood-joseph-mcbride,p]::1;[https://www.sensesofcinema.com/2021/book-reviews/42756,h]::1;
+<noyer|[http://www.institutfrancais.com,p]::1;
+<noyes|[http://www.weta.org,p]::1;[https://www.dailywritingtips.com/what-is-the-difference-between-metaphor-and-simile,p]::1;
+<noymer|[https://www.nytimes.com/interactive/2022/05/13/us/covid-deaths-us-one-million.html,p]::2;

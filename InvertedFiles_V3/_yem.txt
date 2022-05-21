@@ -1,1 +1,5 @@
-<yemens|[https://www.france24.com,p]::1;
+<yemen|[https://developers.google.com/assistant/console/policies/general-policies,p]::1;[https://www.bbc.co.uk/news/world-europe-35023029,p]::2;[https://www.icrc.org/en/where-we-work/middle-east/yemen,t]::1;[https://www.icrc.org/en/where-we-work/middle-east/yemen,h]::1;[https://www.icrc.org/en/where-we-work/middle-east/yemen,p]::7;[https://www.icrc.org/en/war-and-law/protected-persons/internally-displaced-persons,p]::2;[https://www.icrc.org/en/person/peter-maurer,p]::1;[https://www.icrc.org/en/war-and-law/protected-persons/women,p]::1;[https://www.myenglishclub.com,h]::1;[https://www.myenglishclub.com/home,h]::1;[https://www.nytimes.com/2022/05/17/business/inflation-developing-economies.html,p]::5;[https://www.myenglishclub.com/blogs,h]::1;
+<yemeni|[https://www.icrc.org/en/warning-fraud,p]::1;[https://www.icrc.org/en/where-we-work/middle-east/yemen,p]::2;
+<yemens|[https://www.icrc.org/en/where-we-work/middle-east/yemen,p]::1;
+<yemenis|[https://www.icrc.org/en/war-and-law/protected-persons/internally-displaced-persons,p]::1;
+<yemi|[https://www.sensesofcinema.com/2021/interviews/an-interview-with-the-late-monte-hellman-1929-2021,p]::1;

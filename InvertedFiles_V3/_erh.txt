@@ -1,1 +1,9 @@
-<erhaltung|[http://www.archive-it.org,p]::1;
+<erhalten|[https://www.outbrain.com/legal,p]::2;[https://onlinecasino-now.de,p]::3;[https://swiss-casino-now.com/casino-bewertung,p]::1;[https://casino-now.at/live-casino/holdem,p]::2;[https://swiss-casino-now.com/casino-software,p]::3;[https://swiss-casino-now.com/casino-software/betsoft,p]::5;
+<erhält|[https://onlinecasino-now.de,h]::1;[https://onlinecasino-now.de,p]::4;[https://onlinecasino-now.de/casino-bewertung/cookie,p]::3;[https://casino-now.at/live-casino/holdem,p]::2;
+<erhalt|[https://onlinecasino-now.de,p]::3;
+<erheben|[https://onlinecasino-now.de,p]::1;
+<erhältlich|[https://onlinecasino-now.de,p]::1;[http://de.talkenglish.com,p]::1;
+<erheblichen|[https://onlinecasino-now.de,p]::1;[https://onlinecasino-now.de/casino-bewertung,p]::1;[https://onlinecasino-now.de/casino-bewertung/cookie,p]::1;
+<erhöhen|[https://swiss-casino-now.com/casino-bewertung,p]::1;[https://casino-now.at/live-casino/holdem,p]::1;
+<erhebt|[https://swiss-casino-now.com/casino-bewertung,p]::1;
+<erhebung|[https://swiss-casino-now.com/casino-software/betsoft,p]::1;

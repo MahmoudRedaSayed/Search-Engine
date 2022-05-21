@@ -1,0 +1,8 @@
+<lijkt|[https://www.outbrain.com/legal,p]::2;
+<lijst|[https://onlinecasino-now.nl,s]::2;[https://onlinecasino-now.nl,p]::10;[https://casino-now.be,s]::1;[https://casino-now.be,p]::5;[https://onlinecasino-now.nl/casino-reviews,s]::1;[https://onlinecasino-now.nl/casino-reviews,p]::3;[https://onlinecasino-now.nl/casino-reviews/playamo,p]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::1;[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::1;[https://onlinecasino-now.nl/casino-software,h]::2;[https://onlinecasino-now.nl/casino-software,p]::16;
+<lijsten|[https://onlinecasino-now.nl,p]::2;
+<lijstje|[https://onlinecasino-now.nl,p]::1;[https://onlinecasino-now.nl/casino-reviews,p]::1;
+<lijn|[https://casino-now.be,p]::1;
+<lijstop|[https://casino-now.be,p]::1;
+<lijststaan|[https://casino-now.be,p]::1;
+<lijve|[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::1;

@@ -1,1 +1,4 @@
+<zoccarato|[https://www.marca.com/ciclismo/giro-italia/2022/05/13/627e32ad749dee001f59d96a-directo.html,p]::1;
+<zock|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4976595,p]::1;
+<zocor|[https://www.mayoclinic.org/diseases-conditions/high-blood-cholesterol/in-depth/statin-side-effects/ART-20046013?p=1,p]::1;[https://www.mayoclinic.org/es-es/diseases-conditions/high-blood-cholesterol/in-depth/statin-side-effects/art-20046013?p=1,p]::1;
 <zocdoc|[https://www.everydayhealth.com/flu/guide,s]::1;[https://www.everydayhealth.com/flu/guide,p]::2;

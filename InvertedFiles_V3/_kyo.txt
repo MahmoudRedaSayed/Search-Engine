@@ -1,2 +1,5 @@
-<kyo|[http://www.enable-javascript.com,p]::1;[http://www.enable-javascript.com/hr,p]::1;
-<kyoung|[https://www.marca.com/polideportivo.html?intcmp=MENUPROD&s_kw=polideportivo,h]::1;
+<kyoung|[https://www.marca.com/golf.html?intcmp=MENUPROD&s_kw=golf,h]::1;
+<kyoushitsu|[https://www.sensesofcinema.com/2021/great-directors/obayashi-nobuhiko,p]::1;
+<kyoshi|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::2;
+<kyohei|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;
+<kyoto|[https://www.prnewswire.com/in/news-releases/nus-computing-joins-forces-with-tz-apac-to-develop-singapore-s-next-generation-of-tech-innovators-852832930.html,p]::1;

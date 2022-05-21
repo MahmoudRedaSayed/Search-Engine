@@ -1,3 +1,2 @@
-<iza|[https://www.marca.com/futbol/laliga-santander/cadiz-r-madrid-directo/2022/05/15/01_0101_20220515_1737_186.html,s]::2;[https://www.marca.com/futbol/laliga-santander/cadiz-r-madrid-directo/2022/05/15/01_0101_20220515_1737_186.html,p]::3;
-<izarra|[https://www.marca.com/futbol/laliga-santander/athletic-osasuna-directo/2022/05/15/01_0101_20220515_174_450.html,p]::1;
-<izan|[https://www.marca.com/motor/motogp/gp-francia/2022/05/13/627e1c3be2704e0e688b456f.html,p]::1;
+<izan|[https://www.marca.com/motor/formula1/gp-canada.html?intcmp=MENUPROD&s_kw=formula-1-gp-canada,h]::1;[https://www.marca.com/motor/motogp/gp-qatar.html?intcmp=MENUPROD&s_kw=moto-gp-qatar,h]::1;[https://www.marca.com/motor/motogp/gp-jerez.html?intcmp=MENUPROD&s_kw=moto-gp-espana,h]::1;[https://www.marca.com/paralimpicos.html?intcmp=MENUPROD&s_kw=paralimpicos,h]::1;
+<izaak|[https://www.dailywritingtips.com/inquire-vs-enquire,p]::1;

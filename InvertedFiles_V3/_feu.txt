@@ -1,2 +1,10 @@
-<feud|[https://www.dailymail.co.uk/sport/index.html,h]::1;[https://www.bbc.co.uk/sport,p]::2;[https://www.dailymail.co.uk/auhome/index.html,s]::1;[https://www.dailymail.co.uk/auhome/index.html,p]::1;
-<feudo|[https://www.marca.com/futbol/primera-division/2022/05/13/627e9ed9ca47410d538b4580.html,p]::1;
+<feuded|[https://www.sensesofcinema.com/2022/cteq/fritz-lang-in-america-while-the-city-sleeps,p]::1;[https://www.chicagotribune.com/sports/white-sox/ct-chicago-white-sox-tim-anderson-ozzie-guillen-20220518-n6pwv3co6vejpo2dgyybbpie6m-story.html#nt=interstitial-auto,p]::1;
+<feuilles|[https://appafrique.rfi.fr,p]::1;
+<feusette|[http://wpolityce.pl/kultura/226645-ida-jak-poklosie-pluzanski-w-filmie-to-polacy-sa-mordercami,s]::1;[http://wpolityce.pl/kultura/226645-ida-jak-poklosie-pluzanski-w-filmie-to-polacy-sa-mordercami,p]::1;
+<feulner|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;
+<feu|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::1;[https://stackoverflow.co/teams,s]::1;
+<feuillade|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;
+<feud|[https://nautil.us/topics/math,p]::1;
+<feuer|[https://www.symplr.com/press-releases/repscrubs-symplr-partnership,p]::1;
+<feuds|[https://www.foxnews.com/category/entertainment/celebrity-news,p]::1;
+<feudal|[https://www.dailywritingtips.com/75-contronyms-words-with-contradictory-meanings,p]::2;

@@ -1,1 +1,2 @@
-<cbt|[https://www.everydayhealth.com/depression/guide,s]::1;[https://www.healthline.com/mental-health,p]::1;
+<cbt|[https://www.healthline.com/mental-health,p]::1;[https://www.healthline.com/program/youth-in-focus,p]::1;[https://cloud.google.com/bigtable,p]::1;[https://www.everydayhealth.com/depression/guide,s]::1;
+<cbtsim|[https://www.nationalgeographic.com/magazine/article/things-that-divide-us,p]::2;

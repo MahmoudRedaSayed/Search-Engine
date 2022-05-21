@@ -1,0 +1,1 @@
+<ioc|[https://cloud.google.com/solutions/security,p]::2;[https://cloud.google.com/solutions/security-analytics-and-operations,p]::1;

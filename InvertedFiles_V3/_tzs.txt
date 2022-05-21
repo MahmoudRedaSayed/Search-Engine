@@ -1,0 +1,1 @@
+<tzstats|[https://tarides.com/blog/2022-04-26-lightning-fast-with-irmin-tezos-storage-is-6x-faster-with-1000-tps-surpassed,p]::1;

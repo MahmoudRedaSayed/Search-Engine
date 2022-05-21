@@ -1,2 +1,14 @@
-<obituary|[https://www.dailymail.co.uk/sport/index.html,p]::1;[http://www.archive-it.org,p]::1;
-<obispo|[http://www.archive-it.org,p]::2;
+<obie|[https://about.twitter.com/en/who-we-are/our-company.html,p]::1;
+<obispo|[https://www.hearst.com/about/being-green,p]::1;[https://www.hearst.com/real-estate,p]::1;
+<obiwan|[https://www.marca.com/tiramillas.html,h]::1;[https://www.sensesofcinema.com/2021/great-directors/lucas-george,p]::1;[https://blogs.loc.gov/copyright,p]::1;[https://www.dailywritingtips.com/masters-degree-or-masters-degree,p]::1;
+<obiettivi|[https://www.hearst.it/soluzioni,p]::1;[https://www.hearst.it/vivere-meglio/hearst-italia-le-licenze-di-mens-health-e-runners-world,p]::1;[https://www.hearst.it/soluzioni/hearst-create,p]::1;[https://www.hearst.it/soluzioni/display-solutions,p]::1;[https://www.hearst.it/soluzioni/influencer-agency,p]::1;[https://www.hearst.it/soluzioni/data-insight,p]::1;[https://www.hearst.it/brand/mens-health,h]::1;[https://www.hearst.it/brand/mens-health,p]::1;[https://casino-now.it/recensioni,p]::1;
+<obiettivo|[https://www.hearst.it/condizioni-di-utilizzo-del-sito-e-copyright,p]::1;[https://www.hearst.it/chi-siamo,h]::1;
+<obituary|[https://blog.archive.org/category/newsletter,p]::1;[https://www.sensesofcinema.com/2022/cteq/fritz-lang-in-america-while-the-city-sleeps,p]::1;
+<obiectivelor|[https://rural.rfi.ro,p]::1;
+<obigen|[https://onlinecasino-now.de,p]::1;
+<obies|[https://nautil.us/topics/communication,p]::1;
+<obituaries|[https://nautil.us/topics/sociology,h]::1;[https://www.nytimes.com/section/todayspaper,h]::1;[https://www.nytimes.com/interactive/2022/05/13/us/covid-deaths-us-one-million.html,p]::1;[https://www.chicagotribune.com/news/obituaries/#nt=tertiarynavbar,t]::1;[https://www.chicagotribune.com/news/obituaries/#nt=tertiarynavbar,h]::1;[https://www.chicagotribune.com/news/obituaries/#nt=tertiarynavbar,p]::1;
+<obits|[https://nautil.us/topics/psychology,h]::1;
+<obiettività|[https://it.swiss-casino-now.com/recensioni,p]::1;
+<obiettiva|[https://it.swiss-casino-now.com/recensioni,p]::1;
+<obiter|[https://www.dailywritingtips.com/latin-words-and-expressions-all-you-need-to-know,s]::1;[https://www.dailywritingtips.com/latin-words-and-expressions-all-you-need-to-know,p]::1;

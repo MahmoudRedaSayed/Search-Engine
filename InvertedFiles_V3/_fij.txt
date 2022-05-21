@@ -1,2 +1,10 @@
-<fijo|[https://us.marca.com/actualidad/2022/05/12/627c720922601da03c8b45c2.html,p]::2;
-<fijos|[https://www.marca.com/futbol/real-madrid/2022/05/15/627fbbdb46163fee128b456d.html,p]::1;
+<fija|[https://www.marca.com/motor/formula1/gp-hungria.html?intcmp=MENUPROD&s_kw=formula-1-gp-hungria,h]::1;[https://www.marca.com/futbol/futbol-sala.html?intcmp=MENUPROD&s_kw=futbol-sala,h]::1;[https://www.marca.com/futbol/liga-portuguesa.html?intcmp=MENUPROD&s_kw=primeira-liga-portugal,h]::1;[https://www.marca.com/baloncesto/eurocup.html?intcmp=MENUPROD&s_kw=baloncesto-eurocup,h]::1;
+<fijación|[https://www.marca.com/motor/motogp/gp-jerez/2022/04/29/626c0a99268e3e8c4f8b4582.html?intcmp=MNOT23801&s_kw=1,s]::1;[https://www.marca.com/motor/motogp/gp-jerez/2022/04/29/626c0a99268e3e8c4f8b4582.html?intcmp=MNOT23801&s_kw=1,p]::1;
+<fijarse|[https://www.diariomedico.com,p]::1;
+<fijos|[https://www.marca.com/futbol/mundial.html?intcmp=MENUPROD&s_kw=mundial-2022,h]::1;[https://www.marca.com/futbol/mexico.html?intcmp=MENUPROD&s_kw=futbol-mexico,h]::1;
+<fijri|[http://www.fondation-alliancefr.org,p]::1;
+<fijo|[https://www.marca.com/ciclismo/giro-italia/2022/05/05/626ff4b5ca4741345a8b4595.html?intcmp=MENUMIGA&s_kw=recorrido,p]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/11/627ae25822601d28468b457e.html,p]::1;[https://casinoenlinea-now.com,p]::2;
+<fijado|[https://www.marca.com/ciclismo/giro-italia/2022/05/14/627fcb0346163ff39e8b45d4.html,p]::1;
+<fijas|[https://casinoenlinea-now.com,p]::1;
+<fiji|[https://nautil.us/topics/psychology,p]::1;[https://www.dailymail.co.uk/auhome/index.html,s]::1;
+<fijne|[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::1;

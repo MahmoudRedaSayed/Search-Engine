@@ -1,0 +1,3 @@
+<oslo|[https://www.marca.com/ajedrez.html?intcmp=MENUPROD&s_kw=ajedrez,h]::4;[https://www.bbc.com/future/article/20220510-why-are-there-continent-sized-blobs-in-the-deep-earth,p]::1;[https://onlinelearning.hms.harvard.edu/hmx/about,p]::1;
+<oslob|[https://www.nationalgeographic.com/magazine/article/philippines-reefs-are-some-of-the-most-vibrant-but-in-peril-feature,p]::1;
+<osl|[https://www.gnu.org/licenses/license-list.html#CC0,p]::2;

@@ -1,2 +1,8 @@
-<odinga|[https://www.bbc.com/,p]::1;
-<odia|[https://www.marca.com/futbol/barcelona/2022/05/12/627d694046163f61bd8b4592.html,p]::1;
+<odio|[https://us.marca.com/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;[https://www.marca.com/juegos-olimpicos-invierno.html?intcmp=MENUPROD&s_kw=juegos-olimpicos-invierno,h]::1;[https://www.marca.com/combates-ufc.html?intcmp=MENUPROD&s_kw=UFC,h]::1;[https://www.marca.com/corporativo/terminos-condiciones-uso.html,p]::2;[https://www.marca.com/blogs/tirandoadar/2022/04/20/pique-tambien-era-casta.html,p]::1;
+<odie|[https://www.marca.com/tenis.html?intcmp=MENUPROD&s_kw=tenis,h]::1;
+<odisea|[https://www.marca.com/futbol/segunda-rfef.html?intcmp=MENUPROD&s_kw=segunda-rfef,h]::1;[https://www.marca.com/baloncesto/basketfeb.html?intcmp=MENUPROD&s_kw=baloncesto-feb,h]::1;
+<odious|[https://www.sensesofcinema.com/2022/festival-reports/the-pivot-to-asia-the-34th-tokyo-international-film-festival,p]::1;[https://www.sensesofcinema.com/2022/festival-reports/afi-fest-afm-the-perils-of-online,p]::1;[https://www.dailywritingtips.com/100-beautiful-and-ugly-words,p]::1;
+<odili|[https://ma.tt,p]::1;
+<odita|[https://ma.tt,p]::1;
+<odiously|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::2;
+<odib|[https://accessibility.harvard.edu,p]::1;

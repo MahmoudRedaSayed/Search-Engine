@@ -1,0 +1,2 @@
+<npm|[https://developers.google.com/actions/smarthome/reference/local,p]::1;[https://cloud.google.com/artifact-registry,p]::1;[https://github.com/videojs/video.js,p]::1;
+<npmin|[https://cloud.google.com/products/tools,p]::2;

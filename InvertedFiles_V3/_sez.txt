@@ -1,0 +1,5 @@
+<sezione|[https://www.hearst.it/informativa-privacy,p]::5;[https://www.hearst.it/termini-e-condizioni-delle-app,p]::1;[https://www.hearst.it/informativa-sui-cookies,p]::2;[https://it.swiss-casino-now.com/recensioni,h]::2;[https://it.swiss-casino-now.com/recensioni,p]::1;[https://casino-now.it/software,s]::1;[https://casino-now.it/software,p]::3;
+<sezioni|[https://www.hearst.it/condizioni-di-utilizzo-del-sito-e-copyright,p]::1;[https://casino-now.it/software,p]::1;
+<seznam|[https://cs.wordpress.org/plugins/broken-link-checker,p]::1;
+<seznamu|[https://cs.wordpress.org/plugins/broken-link-checker,p]::1;
+<sezer|[https://nautil.us/topics/evolution,p]::1;

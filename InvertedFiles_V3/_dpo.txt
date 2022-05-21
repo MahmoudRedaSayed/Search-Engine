@@ -1,0 +1,4 @@
+<dpounidadeditoriales|[https://www.marca.com/corporativo/politica-privacidad.html,p]::1;
+<dpoicrcorg|[https://www.icrc.org/en/privacy-policy,p]::1;
+<dpowordpressorg|[https://wordpress.org/about/privacy,p]::1;
+<dpo|[https://www.outbrain.com/legal,s]::4;

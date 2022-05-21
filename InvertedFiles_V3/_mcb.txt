@@ -1,0 +1,4 @@
+<mcburnie|[https://www.skysports.com/,h]::2;[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk/sport/index.html,h]::1;[https://www.dailymail.co.uk/sport/index.html,p]::1;
+<mcbride|[https://www.sensesofcinema.com/2018/book-reviews/mind-movie-critic-two-cheers-hollywood-joseph-mcbride,t]::1;[https://www.sensesofcinema.com/2018/book-reviews/mind-movie-critic-two-cheers-hollywood-joseph-mcbride,h]::1;[https://www.sensesofcinema.com/2018/book-reviews/mind-movie-critic-two-cheers-hollywood-joseph-mcbride,s]::1;[https://www.sensesofcinema.com/2018/book-reviews/mind-movie-critic-two-cheers-hollywood-joseph-mcbride,p]::52;[https://www.sensesofcinema.com/author/adrian-schober,h]::1;
+<mcbrides|[https://www.sensesofcinema.com/2018/book-reviews/mind-movie-critic-two-cheers-hollywood-joseph-mcbride,p]::12;
+<mcbridegmcbridecsduwmedu|[https://networks.h-net.org/node/24029/pages/31411/suffragist-colors-discussion-march-1997,p]::1;

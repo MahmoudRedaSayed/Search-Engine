@@ -1,1 +1,2 @@
-<mcfly|[https://www.sensesofcinema.com/special-dossiers,h]::1;
+<mcfarlane|[https://www.sensesofcinema.com/category/interviews,h]::1;[https://www.foxnews.com/opinion,p]::1;
+<mcfarland|[https://www.aboutamazon.com/news/small-business/meet-the-newest-small-businesses-coming-to-amazon-hq2-in-arlington,p]::1;[https://www.dailymail.co.uk/ushome/index.html,h]::1;[https://www.dailymail.co.uk/ushome/index.html,p]::3;

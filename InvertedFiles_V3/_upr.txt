@@ -1,1 +1,11 @@
-<uprooting|[https://blog.archive.org,p]::1;
+<uproar|[https://www.bbc.com/,h]::1;
+<uprooting|[https://blog.archive.org,p]::1;[https://blog.archive.org/category/event,p]::1;[https://blog.archive.org/2022/05/10/fireside-chat-congressman-ro-khanna-in-conversation-with-larry-lessig,p]::1;[https://blog.archive.org/category/event/upcoming-event,p]::1;
+<uproots|[https://www.sensesofcinema.com/2022/great-directors/lau-kar-leung,p]::1;
+<uprising|[https://www.sensesofcinema.com/2022/great-directors/lau-kar-leung,p]::1;[https://www.dailywritingtips.com/possessive-of-proper-names-ending-in-s,p]::1;[https://www.englishclub.com/vocabulary/censorship.php,s]::1;
+<uprooted|[https://www.icrc.org/en/war-and-law/contemporary-challenges-for-ihl/occupation,p]::2;
+<uprawia|[https://kasyno-now.com,p]::1;
+<uprościły|[https://kasyno-now.com,p]::1;
+<upright|[https://nautil.us/topics/evolution,p]::1;[https://nautil.us/topics/paleontology,p]::1;[https://www.dailywritingtips.com/latin-words-and-expressions-all-you-need-to-know,p]::1;
+<uprgrade|[https://www.dailywritingtips.com/when-to-use-on-and-when-to-use-in,p]::1;
+<uprisings|[https://www.englishclub.com/this-week-in-history,p]::2;[https://www.englishclub.com/vocabulary/censorship.php,p]::1;
+<uprisingnoun|[https://www.englishclub.com/vocabulary/censorship.php,p]::1;

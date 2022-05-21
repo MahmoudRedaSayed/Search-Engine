@@ -1,0 +1,17 @@
+<mckinsey|[https://www.hearst.com/hearst-health,p]::1;
+<mckeon|[https://www.marca.com/juegos-olimpicos.html?intcmp=MENUPROD&s_kw=juegos-olimpicos,h]::1;
+<mckendrick|[https://www.sensesofcinema.com/2022/feature-articles/promising-young-woman-and-the-cinematic-renegotiation-of-gender-in-rape-revenge,p]::1;
+<mckesson|[https://cloud.google.com/customers,p]::2;[https://cloud.google.com/solutions/healthcare-life-sciences,p]::2;[https://cloud.google.com/solutions/infrastructure-modernization,p]::1;
+<mckennie|[https://www.marca.com/futbol/estados-unidos.html?intcmp=MENUPROD&s_kw=futbol-estados-unidos,h]::2;[https://dugout.com/spurs,h]::1;[https://dugout.com/spurs,p]::1;
+<mckibbin|[https://www.sensesofcinema.com/author/tony-mckibbin,t]::1;[https://www.sensesofcinema.com/author/tony-mckibbin,h]::2;[https://www.sensesofcinema.com/author/tony-mckibbin,p]::1;[https://www.sensesofcinema.com/2022/book-reviews/the-depths-of-empiricism-werner-herzog-ecstatic-truth-and-other-useless-conquests-by-kristoffer-hegnsvad,p]::1;[https://www.sensesofcinema.com/2006/great-directors/carax,p]::1;
+<mckenna|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;
+<mckenzie|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;[https://iclg.com/practice-areas/gambling-laws-and-regulations/canada,s]::1;[https://iclg.com/practice-areas/gambling-laws-and-regulations/canada,p]::2;
+<mckay|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;[https://www.foxnews.com/media,p]::1;
+<mckearnan|[https://www.campdream.org/ways-to-support/volunteer,p]::2;[https://www.campdream.org/about/staff,h]::1;
+<mckinley|[https://historyhub.history.gov/community/crowd-loc/blog,p]::2;[https://historyhub.history.gov/community/crowd-loc/blog/2021/02/08/finding-really-cool-connections#comments,p]::2;[https://www.nps.gov/people/idabwells.htm,p]::1;[https://www.foxnews.com/elections,p]::2;[https://www.nytimes.com/interactive/2021/us/covid-cases.html,p]::2;[https://www.nytimes.com/interactive/2021/us/covid-cases-deaths-tracker.html,p]::2;[https://www.nytimes.com/interactive/2021/world/covid-cases.html,p]::2;[https://www.nytimes.com/interactive/2021/us/mississippi-covid-cases.html,p]::2;[https://www.nytimes.com/interactive/2021/us/pennsylvania-covid-cases.html,p]::2;[https://www.nytimes.com/interactive/2021/us/connecticut-covid-cases.html,p]::2;[https://www.nytimes.com/interactive/2021/us/arizona-covid-cases.html,p]::2;
+<mcknight|[https://www.campdream.org/ways-to-support/foundations-corporate-giving,p]::1;
+<mckeever|[https://www.nationalgeographic.com/pages/article/masthead,p]::1;
+<mckellen|[https://m.imdb.com/feature/bestpicture/?ref_=nv_ch_osc,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;
+<mckern|[https://m.imdb.com/feature/bestpicture/?ref_=nv_ch_osc,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;
+<mckean|[https://www.foxnews.com/category/entertainment/movies,p]::1;
+<mckie|[https://www.chicagotribune.com/sports/bears/ct-cb-chicago-bears-brad-biggs-10-thoughts-20220103-fy2qrxl7nvdkbnyxdgdkgnig64-story.html#nt=interstitial-auto,p]::1;

@@ -1,0 +1,1 @@
+<ugc|[https://developers.google.com/assistant/console/policies/general-policies,p]::4;[http://www.bbc.co.uk/editorialguidelines/guidance/removal-online-content,p]::1;[https://www.bbc.com/editorialguidelines/guidance/user-generated-contributions,p]::3;[https://nautil.us/topics/astronomy,p]::1;[https://corporate.britannica.com/termsofuse.html,p]::22;

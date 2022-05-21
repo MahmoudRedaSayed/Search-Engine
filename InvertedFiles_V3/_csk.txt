@@ -1,0 +1,2 @@
+<cska|[https://www.marca.com/futbol/conference-league/equipos.html?intcmp=MENUPROD&s_kw=conference-league-equipos,h]::1;[https://www.marca.com/baloncesto/euroliga.html?intcmp=MENUPROD&s_kw=baloncesto-euroliga,h]::1;[https://www.marca.com/baloncesto/eurocup.html?intcmp=MENUPROD&s_kw=baloncesto-eurocup,h]::2;
+<cskgjp|[https://status.discourse.org,s]::1;

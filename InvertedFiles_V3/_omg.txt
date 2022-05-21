@@ -1,0 +1,6 @@
+<omg|[https://business.twitter.com,p]::1;[https://icons8.com,s]::1;[https://igoutu.cn,s]::1;[https://icones8.fr,s]::1;[https://icons8.de,s]::1;[https://icons8.jp,s]::1;[https://icons8.it,s]::1;[https://icons8.ru,s]::1;[https://icons8.com.br,s]::1;[https://icons8.kr,s]::1;[https://iconos8.es,s]::1;[https://www.dailywritingtips.com/100-mostly-small-but-expressive-interjections,p]::1;[https://icons8.com/icons,s]::1;[https://www.dailymail.co.uk/travel/index.html,h]::2;[https://www.dailymail.co.uk/travel/index.html,s]::2;[https://www.dailymail.co.uk/travel/index.html,p]::2;
+<omgegaan|[https://onlinecasino-now.nl,p]::1;
+<omgezet|[https://onlinecasino-now.nl/casino-reviews,p]::1;
+<omgang|[https://onlinecasino-now.nl/casino-reviews/playamo,p]::1;
+<omgekeerd|[https://onlinecasino-now.nl/casino-software,p]::1;
+<omgimg|[https://img.icons8.com,t]::1;

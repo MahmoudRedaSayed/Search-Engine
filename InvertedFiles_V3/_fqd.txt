@@ -1,0 +1,2 @@
+<fqdn|[https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures,p]::2;[https://blog.archive.org/author/vinay,p]::2;[https://en.wikipedia.org/wiki/Fully_qualified_domain_name,p]::3;
+<fqdns|[https://en.wikipedia.org/wiki/Fully_qualified_domain_name,p]::1;

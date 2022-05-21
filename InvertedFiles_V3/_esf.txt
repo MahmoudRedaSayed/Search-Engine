@@ -1,1 +1,7 @@
-<esfuerzos|[https://www.marca.com/futbol/premier-league/west-ham-utd-m-city-directo/2022/05/15/01_0106_20220515_21_43.html,p]::1;
+<esfuerzo|[https://www.marca.com/motor/motogp/2022/05/18/6283770aca474138528b45cf.html,p]::1;[https://www.marca.com/motor/formula1/gp-singapur.html?intcmp=MENUPROD&s_kw=formula-1-gp-singapur,h]::1;[https://www.marca.com/motor/motogp/gp-malasia.html?intcmp=MENUPROD&s_kw=moto-gp-malasia,h]::1;[https://www.marca.com/codigo-etico.html,p]::1;[https://www.marca.com/baloncesto/champions-league.html?intcmp=MENUMIGA&s_kw=baloncesto-champions-league,h]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/17/628372ec37ff7b0023a84107-directo.html,p]::2;[https://www.marca.com/futbol/eurocopa/2019/06/10/5cfecb2246163f62888b45e9.html,p]::1;[https://www.marca.com/blogs/tirandoadar/2022/04/20/pique-tambien-era-casta.html,p]::1;
+<esfuerzos|[https://www.marca.com/tiramillas/actualidad/2022/05/18/62845e8237ff7b0023aa7493-directo.html,p]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/15/62811eabca4741df528b4590.html,p]::1;[https://salud.nih.gov/covid-19,p]::1;
+<esfuerza|[https://www.marca.com/motor/formula1/gp-brasil.html?intcmp=MENUPROD&s_kw=formula-1-gp-brasil,h]::1;
+<esforzarse|[https://www.marca.com/codigo-etico.html,p]::1;
+<esfahani|[https://blog.archive.org/category/movie-archive,p]::1;[https://blog.archive.org/category/event/past-event,p]::1;
+<esforzado|[https://casinoenlinea-now.com,p]::1;
+<esfuma|[https://www.nytimes.com/es,h]::1;

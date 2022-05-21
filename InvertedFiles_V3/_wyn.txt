@@ -1,2 +1,9 @@
-<wynonna|[https://www.dailymail.co.uk/ushome/index.html,h]::1;
-<wynona|[https://www.dailymail.co.uk/ushome/index.html,p]::1;
+<wyng|[https://www.hearst.com/ventures,p]::1;
+<wyniki|[https://kasyno-now.com,s]::1;[https://kasyno-now.com,p]::4;[https://kasyno-now.com/recenzja,p]::2;
+<wynosiła|[https://kasyno-now.com,p]::1;
+<wyników|[https://kasyno-now.com,p]::2;
+<wynik|[https://kasyno-now.com,p]::2;
+<wynika|[https://kasyno-now.com,p]::1;
+<wynn|[https://newsroom.loc.gov/news/artists-celebrate-lionel-richie-receiving-library-s-gershwin-prize/s/7135edca-40eb-4434-b0ea-7679390c00c9,p]::1;
+<wynyard|[https://m.imdb.com/feature/bestpicture/?ref_=nv_ch_osc,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;
+<wynter|[https://www.foxnews.com/food-drink,p]::1;

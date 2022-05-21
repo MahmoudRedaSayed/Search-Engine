@@ -1,0 +1,4 @@
+<giec|[https://savoirs.rfi.fr/fr/recherche/editorial/questionnaire/mots-cles/fait-du-jour-3359/contenu-niveau-francais/2753?solrsort=ds_created%2520desc,h]::1;
+<gieseken|[http://blogs.icrc.org/law-and-policy,s]::1;[http://blogs.icrc.org/law-and-policy,p]::1;
+<gier|[https://kasyno-now.com,h]::2;[https://kasyno-now.com,s]::2;[https://kasyno-now.com,p]::36;
+<gielgud|[https://m.imdb.com/feature/bestpicture/?ref_=nv_ch_osc,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;

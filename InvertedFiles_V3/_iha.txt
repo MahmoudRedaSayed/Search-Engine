@@ -1,2 +1,3 @@
+<ihave|[https://blog.archive.org/about,p]::1;[https://www.tutorialspoint.com/learn-about-publishing-your-react-native-app-to-google-play/index.asp,p]::1;
 <ihadcancer|[https://www.everydayhealth.com/cancer/guide,s]::1;[https://www.everydayhealth.com/cancer/guide,p]::2;
 <ihadcancercom|[https://www.everydayhealth.com/cancer/guide,p]::1;

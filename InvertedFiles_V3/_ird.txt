@@ -1,0 +1,1 @@
+<ird|[https://www.ird.fr,t]::1;[https://www.ird.fr,h]::2;[https://www.ird.fr,p]::1;

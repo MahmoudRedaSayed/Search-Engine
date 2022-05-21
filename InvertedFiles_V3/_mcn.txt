@@ -1,1 +1,6 @@
-<mcnally|[https://www.dailymail.co.uk/auhome/index.html,h]::1;[https://www.dailymail.co.uk/auhome/index.html,s]::1;[https://www.dailymail.co.uk/auhome/index.html,p]::1;
+<mcneil|[https://blog.archive.org/category/audio-archive/78rpm,p]::1;[https://blog.archive.org/category/music,p]::1;[https://www.sensesofcinema.com/2022/cteq/a-pin-for-me-at-fritz-langs-man-hunt,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::1;[https://www.dailywritingtips.com/50-handy-expressions-about-hands,p]::1;
+<mcney|[https://www.sensesofcinema.com/about/patrons,p]::1;
+<mcneill|[https://www.sensesofcinema.com/about/staff,p]::1;
+<mcnaughton|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;
+<mcneilon|[https://www.dailywritingtips.com/50-handy-expressions-about-hands,s]::1;[https://www.dailywritingtips.com/50-slang-terms-for-money,s]::1;[https://www.dailywritingtips.com/what-is-irony-with-examples,s]::1;[https://www.dailywritingtips.com/50-rhetorical-devices-for-rational-writing,s]::1;[https://www.dailywritingtips.com/20-great-opening-lines-to-inspire-the-start-of-your-story,s]::1;
+<mcnally|[https://www.foxbusiness.com/lifestyle,p]::1;

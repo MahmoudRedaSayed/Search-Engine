@@ -1,1 +1,3 @@
-<cteq|[https://www.sensesofcinema.com/category/cteq,t]::1;[https://www.sensesofcinema.com/category/cteq,h]::1;
+<cteq|[https://www.sensesofcinema.com/category/cteq,t]::1;[https://www.sensesofcinema.com/category/cteq,h]::1;[https://www.sensesofcinema.com/about/staff,h]::1;[https://www.sensesofcinema.com/about/proposals,s]::1;[https://www.sensesofcinema.com/about/proposals,p]::2;
+<cte|[https://nautil.us/topics/neuroscience,p]::1;[https://nautil.us/topics/technology,p]::2;
+<cterminal|[https://medlineplus.gov/whatsnew,p]::1;

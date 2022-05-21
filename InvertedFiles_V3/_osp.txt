@@ -1,2 +1,7 @@
+<ospina|[https://www.marca.com/noticias-mas-leidas.html,h]::1;[https://www.marca.com/futbol/primera-division.html?intcmp=MENUPROD&s_kw=primera-division,h]::1;
+<ospiterà|[https://www.hearst.it/vivere-meglio/elle-decor-allaperto-dal-7-all11-aprile-2022,p]::1;
+<ospite|[https://www.hearst.it/vivere-meglio/cosmopolitan-il-cambiamento-e-onlife,p]::1;
 <osplatform|[https://support.google.com/chrome/a/answer/9681204,p]::1;
 <osplatformversion|[https://support.google.com/chrome/a/answer/9681204,p]::1;
+<ospitano|[https://www.hearst.it/valori-e-principi-dei-nostri-contenuti,p]::1;
+<osp|[https://nlmdirector.nlm.nih.gov,p]::1;

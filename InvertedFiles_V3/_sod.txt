@@ -1,2 +1,9 @@
-<soda|[https://www.bbc.co.uk,p]::1;[https://en.wikipedia.org/wiki/American_English,p]::1;
-<sodom|[https://www.sensesofcinema.com/special-dossiers,h]::1;
+<sodomized|[https://www.sensesofcinema.com/2022/feature-articles/promising-young-woman-and-the-cinematic-renegotiation-of-gender-in-rape-revenge,p]::1;
+<soda|[https://blog.archive.org/about,p]::2;[https://www.sensesofcinema.com/2022/feature-articles/the-cry-cinema-sentiment-minnelli,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;[https://www.nrdc.org/stories/water-pollution-everything-you-need-know,p]::1;[https://www.dailywritingtips.com/what-is-irony-with-examples,p]::1;[https://www.dailywritingtips.com/writing-prompts-101,p]::2;[https://en.wikipedia.org/wiki/American_English,p]::1;
+<soddisfare|[https://www.hearst.it/informativa-privacy,p]::1;
+<soddisfano|[https://www.hearst.it/condizioni-di-utilizzo-del-sito-e-copyright,p]::1;
+<sodom|[https://www.sensesofcinema.com/2022/great-directors/curtiz-michael,p]::3;[https://www.sensesofcinema.com/author/jeremy-carr,h]::1;[https://www.sensesofcinema.com/author/berenice-reynaud,h]::1;
+<soddisfazione|[https://www.hearst.it/brand/mens-health,p]::1;
+<sodium|[https://www.healthline.com/program/living-with-chronic-kidney-disease,p]::2;[https://www.nationalgeographic.com/environment/article/mining-is-a-polluting-business-can-new-tech-make-it-cleaner,p]::1;[https://www.britannica.com/reviews/natural-cleaning-products,p]::1;[https://www.ebay.com/globaldeals/fashion,h]::1;[https://www.foxnews.com/category/health/heart-health,p]::1;
+<soderbergh|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;[https://www.nationalgeographic.com/animals/article/greyhound-racing-decline-united-states,p]::1;
+<sodass|[https://swiss-casino-now.com/casino-bewertung,p]::1;[https://casino-now.at/live-casino/holdem,p]::1;[https://swiss-casino-now.com/casino-software/betsoft,p]::1;

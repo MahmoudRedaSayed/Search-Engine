@@ -1,1 +1,4 @@
-<stgeneration|[https://www.apple.com/lae/ipad,p]::1;
+<stgermains|[https://www.bbc.com/,p]::1;
+<stgeneration|[https://www.apple.com/ipad,p]::1;
+<stgbkriminalisieren|[https://onlinecasino-now.de,p]::1;
+<stgrade|[https://www.kizphonics.com/phonics-program/preschool,p]::2;[https://www.kizphonics.com/phonics-program/kindergarten-level-1,p]::2;[https://www.kizphonics.com/phonics-program/kindergarten-level-2,p]::2;[https://www.kizphonics.com/phonics-program/1st-grade-level-1,s]::1;[https://www.kizphonics.com/phonics-program/1st-grade-level-1,p]::3;[https://www.kizphonics.com/phonics-program/1st-grade-level-2,p]::3;[https://www.kizphonics.com/phonics-program/2nd-grade-level-1,p]::2;

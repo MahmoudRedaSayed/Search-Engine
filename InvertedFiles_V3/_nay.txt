@@ -1,1 +1,2 @@
-<naysayers|[https://www.dailymail.co.uk/tvshowbiz/index.html,p]::1;
+<naysayers|[https://nautil.us/topics/astronomy,p]::1;[https://nautil.us/topics/evolution,p]::1;[https://www.dailymail.co.uk/tvshowbiz/index.html,p]::1;
+<nayib|[https://www.nytimes.com/interactive/2022/03/18/technology/cryptocurrency-crypto-guide.html,p]::1;

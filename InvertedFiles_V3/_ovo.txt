@@ -1,3 +1,1 @@
-<ovoj|[https://sh.wiktionary.org/wiki/interfejs,p]::1;[http://www.enable-javascript.com/hr,h]::1;
-<ovom|[http://vedrigrad.hr,p]::1;
-<ovo|[http://vedrigrad.hr,p]::1;
+<ovo|[https://www.dailywritingtips.com/latin-words-and-expressions-all-you-need-to-know,p]::1;

@@ -1,0 +1,7 @@
+<gaffe|[https://www.dailymail.co.uk,p]::1;[https://www.foxnews.com/,h]::1;[https://www.foxnews.com/us,p]::1;[https://www.foxnews.com/category/world/conflicts,p]::1;[https://www.chicagotribune.com/sports/bears/ct-cb-chicago-bears-brad-biggs-10-thoughts-20220103-fy2qrxl7nvdkbnyxdgdkgnig64-story.html#nt=interstitial-auto,p]::1;[https://www.dailymail.co.uk/ushome/index.html,p]::1;[https://www.dailymail.co.uk/auhome/index.html,h]::1;[https://www.dailymail.co.uk/auhome/index.html,s]::1;
+<gafais|[https://www.marca.com/futbol/liga-francesa/2022/05/16/6281fbe8ca4741fe5e8b4593.html,p]::1;
+<gaffer|[https://www.sensesofcinema.com/2022/interviews/leaning-into-the-challenge-interview-with-scattered-co-creators-logan-mucha-and-kate-darrigan,p]::1;
+<gafe|[https://www.marca.com/futbol/primera-division.html?intcmp=MENUPROD&s_kw=primera-division,h]::1;
+<gafas|[https://www.marca.com/futbol/copa-rey.html?intcmp=MENUPROD&s_kw=futbol-copa-rey,h]::1;
+<gafado|[https://www.marca.com/ciclismo/giro-italia/2022/05/16/62824ac122601d23168b45a5.html,p]::1;
+<gaffiti|[https://www.dailywritingtips.com/latin-words-and-expressions-all-you-need-to-know,p]::1;

@@ -1,1 +1,11 @@
-<wahowiak|[https://www.everydayhealth.com/,p]::1;
+<wahyu|[https://translate.wordpress.org/projects/wp-plugins/broken-link-checker/contributors,p]::1;
+<wahl|[https://onlinecasino-now.de,s]::1;[https://onlinecasino-now.de,p]::8;[https://casino-now.at/casino-bewertung,p]::1;[https://onlinecasino-now.de/casino-bewertung/cookie,p]::1;[https://casino-now.at/live-casino/holdem,s]::2;[https://casino-now.at/live-casino/holdem,p]::4;[https://swiss-casino-now.com/casino-software,p]::1;
+<wahr|[https://onlinecasino-now.de,p]::1;
+<wahrscheinlich|[https://onlinecasino-now.de,p]::1;[https://casino-now.at/casino-software,p]::1;
+<wahrscheinlichkeit|[https://onlinecasino-now.de,p]::2;[https://swiss-casino-now.com/casino-software,p]::1;
+<wahre|[https://swiss-casino-now.com/casino-bewertung,p]::1;[https://swiss-casino-now.com/casino-software,p]::1;[https://swiss-casino-now.com/casino-software/betsoft,p]::2;
+<wahrheit|[https://swiss-casino-now.com/casino-bewertung,p]::1;[https://swiss-casino-now.com/casino-software,p]::1;[https://swiss-casino-now.com/casino-software/betsoft,p]::1;
+<wahren|[https://onlinecasino-now.de/casino-bewertung,s]::1;[https://onlinecasino-now.de/casino-bewertung,p]::1;
+<wahnsinnig|[https://onlinecasino-now.de/casino-bewertung/cookie,p]::1;
+<wahlberg|[https://m.imdb.com/feature/bestpicture/?ref_=nv_ch_osc,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;
+<waht|[https://www.dailywritingtips.com/what-is-the-difference-between-metaphor-and-simile,p]::1;[https://www.dailywritingtips.com/yours-faithfully-or-yours-sincerely,p]::1;

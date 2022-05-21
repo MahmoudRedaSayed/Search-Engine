@@ -1,1 +1,1 @@
-<hca|[http://www.archive-it.org,p]::3;
+<hca|[https://cloud.google.com/solutions/healthcare-life-sciences,p]::1;[https://cloud.google.com/covid19-healthcare,p]::1;[https://cloud.google.com/covid19,p]::1;[https://cloud.google.com/datasets,p]::1;

@@ -1,0 +1,5 @@
+<ryusuke|[https://www.sensesofcinema.com/2022/festival-reports/the-pivot-to-asia-the-34th-tokyo-international-film-festival,p]::1;[https://www.sensesofcinema.com/2022/festival-reports/afi-fest-afm-the-perils-of-online,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::4;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-8,p]::2;
+<ryutaro|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;
+<ryuichi|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;
+<ryusoulger|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;
+<ryu|[https://www.nytimes.com/live/2022/05/18/world/covid-19-mandates-vaccine-cases,p]::1;

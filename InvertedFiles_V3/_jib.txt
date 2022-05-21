@@ -1,0 +1,2 @@
+<jibe|[https://cloud.google.com/solutions/talent-solution,p]::2;
+<jib|[https://cloud.google.com/products/tools,p]::2;

@@ -1,4 +1,13 @@
-<togher|[https://www.dailymail.co.uk/health/index.html,p]::1;
+<toget|[https://developer.twitter.com/en/docs/authentication/guides/log-in-with-twitter,p]::1;
+<togetherness|[https://blog.archive.org/category/audio-archive,p]::1;[https://www.sensesofcinema.com/2021/great-directors/lucas-george,p]::1;[https://m.imdb.com/chart/starmeter/?ref_=nv_cel_brn,p]::1;[https://www.imdb.com/search/name/?match_all=true&ref_=nv_cel_m,p]::1;[https://www.dailywritingtips.com/compared-to-or-compared-with,p]::1;
+<togeth|[https://www.hearst.it/terms-and-conditions-print-and-digital-advertising,p]::1;
+<toggle|[https://blog.archive.org/category/live-music-archive-2,p]::2;[https://blog.archive.org/category/television-archive,s]::1;[https://blog.archive.org/category/video-archive,p]::2;[https://blog.archive.org/category/television-archive,p]::1;[https://help.twitter.com/safety-and-security/twitter-location-services-for-mobile,p]::1;[https://www.digikey.com/en/help/contact-us?faq=ordering,p]::1;[https://stackoverflow.com/legal/cookie-policy,p]::1;[https://www.ebay.com/adchoice/ccpa,h]::1;[https://www.ebay.com/adchoice/ccpa,p]::1;[https://icons8.com/free-animated-icons,p]::1;[https://research-development.nomadic-labs.com/announcing-tezos-10th-protocol-upgrade-proposal-jakarta.html,p]::3;
+<togetherstarting|[https://blog.archive.org/category/open-library,h]::1;
+<togo|[https://appafrique.rfi.fr,p]::1;[https://casino-now-canada.com/online-casino-software/betsoft,p]::1;[https://swiss-casino-now.com/casino-software/betsoft,p]::2;
+<togetherand|[https://www.nationalgeographic.com/magazine/article/black-colleges-universities-race-class-gender-sexuality,p]::1;
+<toggles|[https://firefox-source-docs.mozilla.org/devtools-user/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=footer&utm_content=developers,p]::1;
+<togetheri|[https://onlinelearning.hms.harvard.edu/hmx/companies,p]::1;
 <togauge|[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;
-<toggle|[https://bbc.github.io/gel,p]::2;
-<toggled|[https://bbc.github.io/gel,p]::1;
+<togher|[https://www.dailymail.co.uk/health/index.html,p]::1;
+<togglevote|[https://research-development.nomadic-labs.com/announcing-tezos-10th-protocol-upgrade-proposal-jakarta.html,h]::1;
+<toggled|[https://apps.apple.com/us/app/fc-barcelona-official-app/id343196080,p]::1;

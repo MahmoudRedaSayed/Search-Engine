@@ -1,0 +1,13 @@
+<dnjgranger|[https://congress.gov,p]::1;
+<dnjkim|[https://congress.gov,p]::1;
+<dnjmalliotakis|[https://congress.gov,p]::1;
+<dnjnorman|[https://congress.gov,p]::1;
+<dnjpalmer|[https://congress.gov,p]::1;
+<dnjpayne|[https://congress.gov,p]::1;
+<dnjpelosi|[https://congress.gov,p]::1;
+<dnjsimpson|[https://congress.gov,p]::1;
+<dnjslotkin|[https://congress.gov,p]::1;
+<dnjweber|[https://congress.gov,p]::1;
+<dnjboozman|[https://congress.gov,p]::1;
+<dnjmerkley|[https://congress.gov,p]::1;
+<dnjbiden|[https://www.dailymail.co.uk/ushome/index.html,p]::1;

@@ -1,1 +1,1 @@
-<egmissing|[https://help.twitter.com/managing-your-account/how-to-deactivate-twitter-account,p]::1;
+<egmissing|[https://help.twitter.com/en/managing-your-account/how-to-deactivate-twitter-account,p]::1;

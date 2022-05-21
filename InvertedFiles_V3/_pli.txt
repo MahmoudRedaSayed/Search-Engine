@@ -1,2 +1,10 @@
-<plied|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk/ushome/index.html,h]::1;[https://www.dailymail.co.uk/news/index.html,h]::1;[https://www.dailymail.co.uk/auhome/index.html,h]::1;[https://www.dailymail.co.uk/health/index.html,s]::1;
-<plibersek|[https://www.dailymail.co.uk/auhome/index.html,h]::1;[https://www.dailymail.co.uk/auhome/index.html,p]::2;
+<plis|[https://www.e-marchespublics.com/dematerialisez,p]::2;[https://www.e-marchespublics.com/faq,p]::2;
+<pli|[https://www.e-marchespublics.com/faq,p]::3;
+<pliskova|[http://www.beinsports.com/au,h]::1;
+<plight|[https://www.sensesofcinema.com/2021/great-directors/riefenstahl-leni,p]::1;[https://www.sensesofcinema.com/2022/festival-reports/the-pivot-to-asia-the-34th-tokyo-international-film-festival,p]::1;[https://nautil.us/spark,p]::1;[https://nautil.us/topics/communication,p]::1;[https://nautil.us/topics/zoology,p]::1;[https://www.nationalgeographic.com/environment/article/these-artists-transform-garbage-into-garb-to-take-a-stand,p]::2;[https://www.nrdc.org/stories/water-pollution-everything-you-need-know,p]::1;[https://www.nationalgeographic.com/magazine/article/black-colleges-universities-race-class-gender-sexuality,p]::1;
+<plinth|[https://www.sensesofcinema.com/2022/feature-articles/the-cry-cinema-sentiment-minnelli,p]::1;
+<plimbat|[https://rural.rfi.ro,p]::1;
+<plików|[https://kasyno-now.com,p]::1;[https://kasyno-now.com/recenzja,p]::1;
+<pliny|[https://nautil.us/topics/technology,p]::2;
+<plied|[https://www.nationalgeographic.com/history/article/woman-navigated-3000-mile-pacific-voyage-without-maps-technology,p]::1;
+<plists|[https://chromeenterprise.google/intl/en_US/browser/download,p]::1;

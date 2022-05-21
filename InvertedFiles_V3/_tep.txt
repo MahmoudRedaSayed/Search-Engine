@@ -1,0 +1,3 @@
+<tepui|[https://www.nationalgeographic.com,p]::1;
+<tependris|[https://www.sensesofcinema.com/2022/festival-reports/thessaloniki-international-film-festival-rewriting-the-rules-of-the-game,p]::1;
+<tepid|[https://nautil.us/topics/physics,h]::2;[https://www.nps.gov/articles/national-womans-party-protests-world-war-i.htm,p]::1;[https://www.nytimes.com/live/2022/05/18/world/covid-19-mandates-vaccine-cases,p]::1;

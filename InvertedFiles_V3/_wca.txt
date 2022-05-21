@@ -1,1 +1,3 @@
-<wcag|[https://www.bbc.co.uk/gel/guidelines/how-to-make-accessible-animated-images,p]::1;
+<wcag|[https://www.bbc.co.uk/gel/guidelines/how-to-make-accessible-animated-images,p]::1;[https://cloud.google.com/security,p]::1;[https://github.com/discourse/discourse,p]::1;[https://www.ebayinc.com/accessibility,p]::2;[https://accessibility.huit.harvard.edu/digital-accessibility-policy,p]::1;[https://www.emirates.com/english/sitetools/accessibility.aspx,p]::3;[https://www.emirates.com/ae/english/sitetools/accessibility.aspx,p]::3;
+<wca|[https://www.nytimes.com/privacy/privacy-policy,p]::1;
+<wcagdefine|[https://www.ebayinc.com/accessibility,p]::1;

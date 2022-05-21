@@ -1,0 +1,4 @@
+<coy|[https://www.nytimes.com/,h]::1;[https://www.dailywritingtips.com/100-words-for-facial-expressions,s]::1;[https://www.dailywritingtips.com/100-words-for-facial-expressions,p]::1;[https://www.nytimes.com/ca/?action=click&region=Footer&pgtype=Homepage,h]::1;
+<coyote|[https://www.marca.com/coches-y-motos/accesorios.html?intcmp=MENUPROD&s_kw=accesorios,h]::1;[https://www.dailymail.co.uk/video/index.html,p]::1;
+<coyotes|[https://www.nationalgeographic.com/animals/article/paid-content-nightlife-animals-after-dark,p]::1;[https://www.nationalgeographic.com/animals/article/los-angeles-mountain-lions-becoming-inbred,p]::1;
+<coyle|[https://meded.hms.harvard.edu/resources,p]::1;

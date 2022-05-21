@@ -1,2 +1,3 @@
 <eunice|[https://www.bbc.com/,h]::1;
-<eunectes|[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;
+<eunt|[https://www.dailywritingtips.com/latin-words-and-expressions-all-you-need-to-know,p]::2;
+<eunsil|[https://www.englishclub.com/store/product/essential-business-words,s]::1;[https://www.englishclub.com/store/product/essential-business-words,p]::1;

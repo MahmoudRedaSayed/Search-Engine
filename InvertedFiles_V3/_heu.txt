@@ -1,1 +1,10 @@
-<heuristic|[https://bbc.github.io/subtitle-guidelines,p]::1;
+<heures|[http://www.e-legalite.com,p]::1;[https://www.e-marchespublics.com/dematerialisez,p]::1;[https://www.e-marchespublics.com/faq,p]::2;[https://mondoblog.org,p]::2;[https://fr.wordpress.org/plugins/broken-link-checker,p]::1;[https://fr.casino-now-canada.com,p]::2;[https://fr.swiss-casino-now.com,p]::2;
+<heuristic|[https://bbc.github.io/subtitle-guidelines,p]::1;[https://www.sensesofcinema.com/2022/feature-articles/jacob-holdts-american-pictures-a-note-on-style-in-poor-cinema,p]::1;[https://cloud.google.com/recommender,p]::1;[https://www.dailywritingtips.com/100-exquisite-adjectives,s]::1;[https://www.dailywritingtips.com/100-exquisite-adjectives,p]::1;
+<heurtel|[https://www.marca.com/baloncesto/copa-rey.html?intcmp=MENUPROD&s_kw=baloncesto-copa-rey,h]::1;[https://www.marca.com/baloncesto/eurobasket.html?intcmp=MENUMIGA&s_kw=baloncesto-eurobasket,h]::1;
+<heutzutage|[https://onlinecasino-now.de,p]::4;
+<heute|[https://onlinecasino-now.de,p]::1;[https://onlinecasino-now.de/casino-bewertung/cookie,p]::3;[https://casino-now.at/live-casino/holdem,p]::1;[https://swiss-casino-now.com/casino-software,p]::2;[http://de.talkenglish.com,p]::1;
+<heuse|[https://www.nationalgeographic.com/animals/article/greyhound-racing-decline-united-states,p]::1;[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::1;
+<heurtent|[https://fr.swiss-casino-now.com/revue/playamo,p]::1;
+<heutige|[https://casino-now.at/casino-software,p]::1;
+<heutigen|[https://casino-now.at/casino-software,p]::1;
+<heureux|[https://fr.casino-now-canada.com/logiciels/betsoft,p]::2;

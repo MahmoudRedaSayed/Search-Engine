@@ -1,0 +1,1 @@
+<ogp|[https://wordpress.org/plugins/tags/external-link,p]::1;

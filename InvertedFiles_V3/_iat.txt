@@ -1,0 +1,2 @@
+<iată|[https://gastronomie.rfi.ro,p]::1;[https://europaplus.rfi.ro,p]::1;
+<iatrogenic|[https://www.englishclub.com/vocabulary/vaccine.php,s]::1;[https://www.englishclub.com/vocabulary/vaccine.php,p]::2;

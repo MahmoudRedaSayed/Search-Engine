@@ -1,1 +1,4 @@
-<exnrl|[https://www.dailymail.co.uk/auhome/index.html,s]::1;
+<exnavy|[https://www.foxnews.com/,h]::1;
+<exniña|[https://www.marca.com/natacion.html?intcmp=MENUPROD&s_kw=natacion,h]::1;
+<exnovia|[https://www.marca.com/noticias-mas-leidas.html,h]::1;
+<exnottingham|[https://www.dailymail.co.uk/news/index.html,h]::1;[https://www.dailymail.co.uk/sport/index.html,s]::1;

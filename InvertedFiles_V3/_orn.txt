@@ -1,4 +1,12 @@
+<ornate|[https://blog.archive.org/category/announcements,p]::1;[https://blog.archive.org/category/music,p]::1;[https://www.nationalgeographic.com/travel/article/10-destinations-where-you-can-ditch-your-car-this-summer,p]::1;[https://www.dailymail.co.uk/auhome/index.html,p]::1;[https://www.dailymail.co.uk/travel/index.html,p]::1;
+<ornamentation|[https://www.sensesofcinema.com/2021/great-directors/riefenstahl-leni,p]::1;[https://www.sensesofcinema.com/2022/cteq/a-pin-for-me-at-fritz-langs-man-hunt,p]::1;
+<ornamental|[https://www.sensesofcinema.com/2021/book-reviews/rhythm-and-light-poetic-cinema-and-the-spirit-of-the-gift-in-the-films-of-pabst-parajanov-kubrick-and-ruiz-by-laleen-jayamanne,p]::2;[https://www.britannica.com/reviews/chia-pets,p]::1;
+<ornament|[https://www.sensesofcinema.com/2021/book-reviews/rhythm-and-light-poetic-cinema-and-the-spirit-of-the-gift-in-the-films-of-pabst-parajanov-kubrick-and-ruiz-by-laleen-jayamanne,p]::2;
+<ornbspandroid|[https://support.google.com/chrome/answer/2790761?hl=en&co=GENIE.Platform=Android,p]::1;[https://support.google.com/chrome/answer/2790761?hl=en&co=GENIE.Platform=Desktop,p]::1;
+<ornithology|[https://www.nationalgeographic.com/animals/article/bats-imitate-hornets-to-avoid-being-eaten-by-owls,p]::1;
+<ornées|[https://fr.casino-now-canada.com/logiciels/betsoft,p]::1;
+<ornant|[https://fr.casino-now-canada.com/logiciels/betsoft,p]::1;
+<ornery|[https://www.dailywritingtips.com/50-incorrect-pronunciations-that-you-should-avoid,p]::1;
 <ornew|[https://support.apple.com/HT211788,p]::1;
-<ornate|[https://www.dailymail.co.uk/auhome/index.html,p]::1;[https://www.dailymail.co.uk/travel/index.html,p]::1;
 <ornithopod|[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;
 <ornes|[https://www.sciencenewsforstudents.org/about-us,p]::1;

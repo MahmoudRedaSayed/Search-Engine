@@ -1,0 +1,1 @@
+<tzip|[https://forum.tezosagora.org,h]::1;[https://research-development.nomadic-labs.com/announcing-tezos-10th-protocol-upgrade-proposal-jakarta.html,p]::1;

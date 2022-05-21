@@ -1,2 +1,8 @@
-<elmira|[http://www.archive-it.org,p]::1;
-<elmundoes|[https://www.elmundo.es/television/programacion-tv,p]::1;[https://www.elmundo.es/traductor,p]::1;
+<elmslie|[https://www.sensesofcinema.com/2001/festival-reports/stkff_jake,p]::1;
+<elmina|[https://www.sensesofcinema.com/2022/book-reviews/the-depths-of-empiricism-werner-herzog-ecstatic-truth-and-other-useless-conquests-by-kristoffer-hegnsvad,p]::1;
+<elmafias|[https://www.marca.com/ciclismo/giro-italia/2022/05/11/627b9d34749dee001f52308a-directo.html,p]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/10/627a503737ff7b00238dba4a-directo.html,p]::1;
+<elmer|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::1;
+<elm|[https://nautil.us/topics/environment,h]::1;[https://nautil.us/topics/environment,p]::1;[https://www.britannica.com/reviews/baby-shower-gifts,h]::1;
+<elmhurst|[https://www.symplr.com/leadership,p]::1;
+<elman|[https://www.nytimes.com/2022/05/11/world/europe/russia-ukraine-fighting-east.html,p]::1;
+<elmendorfrichardson|[https://www.foxnews.com/category/science/wild-nature,p]::1;

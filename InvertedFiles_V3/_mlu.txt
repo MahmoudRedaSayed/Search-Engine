@@ -1,0 +1,3 @@
+<mluvení|[http://cz.talkenglish.com,t]::1;
+<mluvenou|[http://cz.talkenglish.com,h]::1;
+<mluvit|[http://cz.talkenglish.com,p]::1;

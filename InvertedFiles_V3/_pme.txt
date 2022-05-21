@@ -1,1 +1,5 @@
-<pmest|[https://blog.archive.org,p]::1;
+<pmest|[https://blog.archive.org,p]::1;[https://blog.archive.org/category/event,p]::1;[https://blog.archive.org/2022/05/13/goodbye-facebook-hello-decentralized-social-media,p]::1;[https://blog.archive.org/category/web-data-services,p]::1;
+<pme|[https://www.e-marchespublics.com/sourcing,p]::1;[https://meded.hms.harvard.edu/faculty-portal,p]::3;[https://meded.hms.harvard.edu/educational-scholarship-review,h]::3;[https://meded.hms.harvard.edu/educational-scholarship-review,p]::21;[https://meded.hms.harvard.edu/faculty-opportunities,p]::1;[https://meded.hms.harvard.edu/teaching-awards,p]::1;
+<pmehmsharvardedu|[https://medstudenthandbook.hms.harvard.edu/student-handbook,s]::1;[https://medstudenthandbook.hms.harvard.edu/student-handbook,p]::1;[https://meded.hms.harvard.edu/contact,p]::1;
+<pmesfaculty|[https://meded.hms.harvard.edu/educational-scholarship-review,p]::1;
+<pmeapproved|[https://meded.hms.harvard.edu/educational-scholarship-review,p]::1;

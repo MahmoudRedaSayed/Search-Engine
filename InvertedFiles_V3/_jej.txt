@@ -1,2 +1,5 @@
+<jej|[https://cs.wordpress.org/plugins/broken-link-checker,p]::1;[https://kasyno-now.com,p]::3;
+<jejich|[https://cs.wordpress.org/plugins/broken-link-checker,p]::1;
+<jeje|[https://www.marca.com/blogs/tirandoadar/2022/04/20/pique-tambien-era-casta.html,p]::1;
+<jejune|[https://www.dailywritingtips.com/100-exquisite-adjectives,s]::1;[https://www.dailywritingtips.com/100-exquisite-adjectives,p]::2;
 <jejunoileitis|[https://www.everydayhealth.com/crohns-disease/guide,s]::1;
-<jeje|[https://www.marca.com/futbol/premier-league/west-ham-utd-m-city-directo/2022/05/15/01_0106_20220515_21_43.html,p]::1;

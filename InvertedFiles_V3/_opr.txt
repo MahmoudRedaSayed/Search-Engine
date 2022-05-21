@@ -1,1 +1,8 @@
-<oprah|[https://www.dailymail.co.uk/tvshowbiz/index.html,p]::1;
+<oprah|[https://www.hearst.com/magazines,p]::1;[https://nautil.us/topics/psychology,p]::1;[https://www.nytimes.com/2022/05/09/us/arkansas-pastor-evangelical-churches.html,p]::1;[https://www.dailymail.co.uk/tvshowbiz/index.html,p]::1;
+<opravit|[https://cs.wordpress.org/plugins/broken-link-checker,p]::1;
+<opre|[https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm,s]::2;[https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm,p]::2;
+<opregelmatige|[https://casino-now.be,p]::1;
+<oprogramowanie|[https://kasyno-now.com,h]::1;
+<oprogramowania|[https://kasyno-now.com,p]::8;
+<oprócz|[https://kasyno-now.com,p]::3;
+<oprogramowaniu|[https://kasyno-now.com,p]::1;

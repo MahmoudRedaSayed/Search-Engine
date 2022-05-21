@@ -1,0 +1,4 @@
+<gcp|[https://cloud.google.com/serverless,p]::1;[https://cloud.google.com/solutions/continuous-delivery,h]::1;[https://cloud.google.com/solutions/continuous-integration,h]::1;[https://cloud.google.com/solutions/continuous-delivery,p]::5;[https://cloud.google.com/solutions/continuous-integration,p]::1;[https://cloud.google.com/windows,p]::2;[https://cloud.google.com/solutions/virtual-desktops,p]::2;[https://cloud.google.com/saas,p]::1;[https://cloud.google.com/knative,p]::1;[https://cloud.google.com/deployment-manager/docs,p]::1;[https://cloud.google.com/powershell,p]::2;[https://cloud.google.com/life-sciences,p]::1;
+<gcps|[https://cloud.google.com/solutions/continuous-integration,p]::3;
+<gcpmanaged|[https://cloud.google.com/traffic-director,p]::1;
+<gcpdelivered|[https://cloud.google.com/traffic-director,p]::1;

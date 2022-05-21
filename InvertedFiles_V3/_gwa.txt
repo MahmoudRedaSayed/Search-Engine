@@ -1,2 +1,5 @@
-<gwangju|[https://olympics.com/en,h]::1;[https://olympics.com/fr,h]::1;[https://olympics.com/de,h]::1;[https://olympics.com/it,h]::1;[https://olympics.com/pt,h]::1;[https://olympics.com/es,h]::1;
+<gwai|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;
+<gwarantuje|[https://kasyno-now.com,s]::1;
+<gwarantują|[https://kasyno-now.com,p]::3;
+<gwarantowana|[https://kasyno-now.com,p]::1;
 <gwagon|[https://www.dailymail.co.uk/travel/index.html,p]::1;

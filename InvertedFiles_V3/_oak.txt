@@ -1,4 +1,8 @@
-<oakley|[https://www.dailymail.co.uk/auhome/index.html,s]::1;[https://www.dailymail.co.uk/money/index.html,h]::1;[https://www.dailymail.co.uk/money/index.html,p]::2;
+<oaks|[https://www.harvard.edu/,s]::1;[https://www.nationalgeographic.com/travel/article/these-six-parks-tell-the-surprising-stories-of-the-american-south,p]::1;[https://www.nationalgeographic.com/magazine/article/tulsa-finally-confronts-the-day-a-white-mob-destroyed-a-black-community-feature,p]::1;[https://www.harvard.edu/copyright-issue,s]::1;
+<oakland|[https://www.harvard.edu/,p]::1;[https://archive.org/about/contact.php,p]::1;[https://archive.org/about/bios.php,p]::1;[https://blog.archive.org/category/announcements,p]::1;[https://blog.archive.org/category/movie-archive,p]::1;[https://blog.archive.org/category/event/past-event,p]::1;[https://www.nationalgeographic.com/animals/article/greyhound-racing-decline-united-states,p]::1;[https://wizardpins.com/pages/ext-resources,p]::1;
+<oakley|[https://www.sensesofcinema.com/about/patrons,p]::1;[https://www.ebay.com/globaldeals/fashion,h]::2;[https://www.ebay.com/globaldeals/fashion/handbags-and-accessories,h]::3;[https://www.dailymail.co.uk/money/index.html,h]::1;[https://www.dailymail.co.uk/money/index.html,p]::2;
+<oak|[https://www.campdream.org/about/partners,p]::1;[https://www.nationalgeographic.com/history/history-magazine/article/a-viking-ship-burial-held-riches-and-a-surprising-mystery,p]::1;[https://www.chicagotribune.com/news/obituaries/#nt=tertiarynavbar,h]::1;
+<oakleyjournalist|[https://nautil.us/ebook,p]::1;
+<oaklawn|[https://www.nationalgeographic.com/magazine/article/tulsa-finally-confronts-the-day-a-white-mob-destroyed-a-black-community-feature,p]::6;
+<oaklee|[https://community.ebay.com/t5/Announcements/bg-p/Announcements,h]::1;
 <oakleys|[https://www.dailymail.co.uk/money/index.html,p]::2;
-<oakland|[https://archive.org/about/contact.php,p]::1;[https://archive.org/about/bios.php,p]::1;
-<oaks|[http://www.archive-it.org,p]::1;

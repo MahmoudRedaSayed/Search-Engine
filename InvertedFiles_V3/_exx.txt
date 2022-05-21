@@ -1,0 +1,3 @@
+<exxonmobils|[https://english.ahram.org.eg/,h]::1;
+<exxonmobil|[https://english.ahram.org.eg/,p]::1;
+<exxonmobiloperated|[https://english.ahram.org.eg/,p]::1;

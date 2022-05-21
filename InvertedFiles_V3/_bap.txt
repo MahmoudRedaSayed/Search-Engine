@@ -1,0 +1,6 @@
+<baptisée|[https://appafrique.rfi.fr,p]::1;
+<baptiste|[https://www.sensesofcinema.com/2015/feature-articles/notes-on-bruno-dumonts-ptit-quinquin-or-something-is-rotten-in-the-north-of-france,p]::1;[https://about.google/products,p]::1;
+<baptist|[https://www.nationalgeographic.com/travel/article/these-six-parks-tell-the-surprising-stories-of-the-american-south,p]::2;[https://www.nationalgeographic.com/animals/article/greyhound-racing-decline-united-states,p]::1;[https://www.hmbana.org/about-us/board.html,p]::1;[https://www.nationalgeographic.com/culture/article/our-honest-hidden-thoughts-on-race-captured-in-just-6-words?cmpid=int_org=ngp::int_mc=website::int_src=ngp::int_cmp=NGM_June2021::int_add=RIA_hub_fullwidthbanner,p]::1;[https://www.nationalgeographic.com/magazine/article/black-colleges-universities-race-class-gender-sexuality,p]::1;[https://www.nationalgeographic.com/magazine/article/martin-luther-king-streets-worldwide,p]::1;[https://www.nytimes.com/2022/05/09/us/arkansas-pastor-evangelical-churches.html,p]::3;
+<baptists|[https://nautil.us/topics/astronomy,p]::2;
+<baptistaalberto|[https://www.nationalgeographic.com/pages/article/masthead,p]::1;
+<baptism|[https://www.dailywritingtips.com/50-handy-expressions-about-hands,p]::1;

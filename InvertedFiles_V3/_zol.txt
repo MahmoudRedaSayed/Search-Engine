@@ -1,1 +1,7 @@
-<zolkin|[https://www.dailymail.co.uk,p]::1;[https://www.dailymail.co.uk/news/index.html,p]::1;[https://www.dailymail.co.uk/auhome/index.html,p]::1;
+<zol|[http://www.beinsports.com/au,p]::1;
+<zolikonta|[https://translate.wordpress.org/projects/wp-plugins/broken-link-checker/contributors,p]::1;
+<zolas|[https://www.sensesofcinema.com/2015/feature-articles/notes-on-bruno-dumonts-ptit-quinquin-or-something-is-rotten-in-the-north-of-france,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::4;
+<zola|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::4;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-8,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,h]::1;[https://www.imdb.com/pressroom/?ref_=ft_pr,p]::1;
+<zolang|[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::1;[https://onlinecasino-now.nl/casino-software,p]::1;
+<zoll|[https://swiss-casino-now.com/casino-software/betsoft,p]::1;
+<zolan|[https://www.nytimes.com/section/todayspaper,p]::1;

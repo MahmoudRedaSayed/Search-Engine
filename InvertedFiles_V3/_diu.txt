@@ -1,0 +1,2 @@
+<diurne|[https://www.ird.fr,h]::1;
+<diuretic|[https://www.foxnews.com/category/health/heart-health,p]::1;

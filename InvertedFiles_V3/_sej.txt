@@ -1,1 +1,3 @@
-<sejuegaengetafe|[https://www.marca.com/futbol/primera-division/2022/05/15/6280d88e37ff7b0023a23044-directo.html,p]::1;
+<sejauh|[http://www.beinsports.com/id,p]::2;
+<seja|[https://www.outbrain.com/legal,p]::14;
+<sejam|[https://www.outbrain.com/legal,p]::1;

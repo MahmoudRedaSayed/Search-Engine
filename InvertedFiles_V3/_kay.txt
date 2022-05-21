@@ -1,3 +1,14 @@
-<kayan|[https://www.bbc.com/,p]::1;
-<kay|[https://en.wikipedia.org/wiki/Object-oriented_programming,p]::3;
-<kayaking|[https://www.dailymail.co.uk/travel/index.html,h]::1;[https://www.dailymail.co.uk/travel/index.html,s]::1;
+<kayakers|[https://www.foxnews.com/,h]::1;[https://www.nationalgeographic.com/travel/article/10-destinations-where-you-can-ditch-your-car-this-summer,p]::1;[https://www.foxnews.com/us,p]::1;
+<kay|[https://www.bbc.co.uk,p]::2;[https://www.sensesofcinema.com/2022/great-directors/curtiz-michael,p]::1;[https://www.nationalgeographic.com/pages/article/masthead,p]::1;[https://congress.gov,p]::1;[https://www.edtechdigest.com/edcal-2019,p]::1;[https://www.imdb.com/search/name/?match_all=true&ref_=nv_cel_m,p]::1;[https://networks.h-net.org/node/24029/pages/31411/suffragist-colors-discussion-march-1997,p]::1;[https://en.wikipedia.org/wiki/Object-oriented_programming,p]::3;
+<kayla|[https://www.marca.com/mma.html?intcmp=MENUPROD&s_kw=mma,h]::1;[https://www.dailymail.co.uk/femail/index.html,p]::1;
+<kayak|[https://www.nationalgeographic.com/travel/article/10-destinations-where-you-can-ditch-your-car-this-summer,p]::1;[https://www.nationalgeographic.com/travel/article/paddling-minnesota-ancient-superhighway-border-route,p]::1;
+<kayaking|[https://www.nationalgeographic.com/travel/article/heres-why-hut-hiking-is-the-best-way-to-see-new-zealand,p]::1;[https://www.nationalgeographic.com/travel/article/discover-the-natural-wonders-along-georgias-coast,p]::1;[https://www.dailymail.co.uk/travel/index.html,h]::1;
+<kaya|[https://www.nationalgeographic.com/pages/article/masthead,p]::1;
+<kayenne|[https://onlinecasino-now.nl/casino-reviews/cookie,p]::1;
+<kayan|[https://sell.amazon.eg/?lang=en-US&ref_=nav_cs_sell&ld=AZEGSOA_sell_EN,h]::1;
+<kayleigh|[https://www.foxnews.com/politics,p]::2;[https://www.foxnews.com/media,p]::1;
+<kaylaon|[https://www.dailywritingtips.com/yours-faithfully-or-yours-sincerely,s]::1;
+<kaye|[https://www.dailywritingtips.com/masters-degree-or-masters-degree,s]::1;[https://www.dailywritingtips.com/20-great-opening-lines-to-inspire-the-start-of-your-story,p]::1;
+<kayos|[https://www.dailywritingtips.com/50-incorrect-pronunciations-that-you-should-avoid,p]::1;
+<kaycie|[https://www.ebay.com/globaldeals/featured/home-and-garden,h]::1;[https://www.ebay.com/globaldeals/home,h]::1;[https://www.ebay.com/globaldeals/home/bedding,h]::1;
+<kayode|[https://www.dailymail.co.uk/femail/index.html,h]::1;[https://www.dailymail.co.uk/femail/index.html,p]::1;

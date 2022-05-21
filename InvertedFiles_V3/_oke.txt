@@ -1,1 +1,2 @@
-<okeechobee|[http://www.archive-it.org,p]::1;
+<okeh|[https://blog.archive.org/category/audio-archive/78rpm,p]::1;[https://blog.archive.org/category/audio-archive,p]::1;[https://blog.archive.org/category/cool-items,p]::1;
+<okediji|[https://creativecommons.org/20-years,p]::1;

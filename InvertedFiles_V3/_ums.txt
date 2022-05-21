@@ -1,1 +1,13 @@
 <ums|[https://bbc.github.io/subtitle-guidelines,p]::3;
+<umsatzsteueridentifikationsnummer|[https://legal.twitter.com/imprint.html,p]::1;
+<umständen|[https://www.outbrain.com/legal,s]::3;
+<umsatzbedingung|[https://onlinecasino-now.de,p]::1;
+<umsatz|[https://onlinecasino-now.de,p]::8;
+<umsätze|[https://onlinecasino-now.de,p]::2;
+<umsatzzahlen|[https://onlinecasino-now.de,p]::1;
+<umstrittendenn|[https://onlinecasino-now.de,p]::1;
+<umsetzen|[https://onlinecasino-now.de,p]::2;
+<umso|[https://swiss-casino-now.com/casino-bewertung,p]::1;[https://onlinecasino-now.de/casino-bewertung/cookie,p]::1;[https://casino-now.at/live-casino/holdem,p]::1;
+<umsonst|[https://swiss-casino-now.com/casino-software,p]::1;
+<umsetzung|[https://swiss-casino-now.com/casino-software/betsoft,p]::1;
+<umstellung|[https://swiss-casino-now.com/casino-software/betsoft,p]::1;

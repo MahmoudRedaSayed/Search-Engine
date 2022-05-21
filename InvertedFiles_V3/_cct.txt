@@ -1,2 +1,4 @@
-<cctv|[https://www.dailymail.co.uk/travel/index.html,p]::1;
 <cct|[https://bbc.github.io/subtitle-guidelines,p]::1;
+<cctv|[https://www.bbc.co.uk/news/live/world-europe-61461805,h]::3;[https://www.dailymail.co.uk/travel/index.html,p]::1;
+<cctld|[https://creativecommons.org/policies,s]::1;
+<cctldchapters|[https://creativecommons.org/policies,p]::1;

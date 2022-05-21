@@ -1,1 +1,5 @@
-<nix|[https://gist.github.com/maxogden/43219d6dcb9006042849,p]::1;
+<nixon|[https://www.sensesofcinema.com/2022/feature-articles/the-night-shift-woman-as-outlaw-hero-in-the-man-i-love,p]::1;[https://www.sensesofcinema.com/author/rob-nixon,t]::1;[https://www.sensesofcinema.com/author/rob-nixon,h]::2;[https://www.sensesofcinema.com/author/rob-nixon,p]::1;[https://www.sensesofcinema.com/2021/great-directors/lucas-george,p]::1;[https://www.sensesofcinema.com/2021/book-reviews/42756,p]::1;[https://www.sensesofcinema.com/2022/feature-articles/jacob-holdts-american-pictures-a-note-on-style-in-poor-cinema,p]::1;[https://www.foxnews.com/shows/fox-nation,p]::1;[https://www.dailywritingtips.com/34-writing-tips-that-will-make-you-a-better-writer,p]::1;
+<nixed|[https://www.nationalgeographic.com/travel/article/in-the-town-that-lego-built-kids-rule-for-the-day,p]::1;
+<nix|[https://onlinecasino-now.de/casino-bewertung/cookie,p]::1;
+<nixienoxon|[https://www.dailywritingtips.com/compared-to-or-compared-with,s]::1;
+<nixienox|[https://www.dailywritingtips.com/compared-to-or-compared-with,p]::1;

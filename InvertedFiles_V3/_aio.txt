@@ -1,1 +1,1 @@
-<aiola|[https://www.dailymail.co.uk/travel/index.html,p]::1;
+<aiops|[https://cloud.google.com/analyst-reports,p]::1;[https://cloud.google.com/solutions/active-assist,p]::1;

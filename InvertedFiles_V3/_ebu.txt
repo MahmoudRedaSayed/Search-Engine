@@ -1,7 +1,7 @@
-<ebu|[https://www.bbc.co.uk/rd/topics/accessibility,p]::1;[https://bbc.github.io/subtitle-guidelines,p]::3;
-<ebutt|[https://bbc.github.io/subtitle-guidelines,h]::2;[https://bbc.github.io/subtitle-guidelines,p]::68;
+<ebu|[https://www.bbc.co.uk/rd/topics/accessibility,p]::1;[https://bbc.github.io/subtitle-guidelines,p]::4;
+<ebutt|[https://bbc.github.io/subtitle-guidelines,h]::2;[https://bbc.github.io/subtitle-guidelines,p]::79;
 <ebuttmdocumentmetadata|[https://bbc.github.io/subtitle-guidelines,h]::2;[https://bbc.github.io/subtitle-guidelines,p]::2;
-<ebuttd|[https://bbc.github.io/subtitle-guidelines,h]::4;[https://bbc.github.io/subtitle-guidelines,p]::52;
+<ebuttd|[https://bbc.github.io/subtitle-guidelines,h]::4;[https://bbc.github.io/subtitle-guidelines,p]::64;
 <ebuttmbinarydata|[https://bbc.github.io/subtitle-guidelines,s]::1;[https://bbc.github.io/subtitle-guidelines,p]::3;
 <ebuttsmultirowalign|[https://bbc.github.io/subtitle-guidelines,p]::6;
 <ebuttslinepadding|[https://bbc.github.io/subtitle-guidelines,p]::2;
@@ -53,3 +53,6 @@
 <ebuttmstlrevisionnumber|[https://bbc.github.io/subtitle-guidelines,p]::1;
 <ebuttdttimingtype|[https://bbc.github.io/subtitle-guidelines,p]::4;
 <ebuttm|[https://bbc.github.io/subtitle-guidelines,p]::1;
+<ebuttdxml|[https://bbc.github.io/subtitle-guidelines,p]::1;
+<ebullient|[https://www.dailywritingtips.com/100-beautiful-and-ugly-words,p]::1;
+<ebut|[https://www.dailywritingtips.com/34-writing-tips-that-will-make-you-a-better-writer,p]::1;

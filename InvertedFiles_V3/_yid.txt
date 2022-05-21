@@ -1,1 +1,4 @@
-<yiddish|[https://en.wikipedia.org/wiki/American_English,p]::1;
+<yidff|[https://www.sensesofcinema.com/2022/great-directors/tahimik-kidlat,p]::1;
+<yiddish|[https://www.dailywritingtips.com/100-mostly-small-but-expressive-interjections,p]::1;[https://www.dailywritingtips.com/50-slang-terms-for-money,p]::1;[https://www.dailywritingtips.com/the-yiddish-handbook-40-words-you-should-know,t]::1;[https://www.dailywritingtips.com/the-yiddish-handbook-40-words-you-should-know,h]::2;[https://www.dailywritingtips.com/the-yiddish-handbook-40-words-you-should-know,p]::48;[https://www.dailywritingtips.com/100-beautiful-and-ugly-words,p]::1;[https://en.wikipedia.org/wiki/American_English,p]::1;
+<yiddisher|[https://www.dailywritingtips.com/the-yiddish-handbook-40-words-you-should-know,s]::1;
+<yiddushhebrew|[https://www.dailywritingtips.com/the-yiddish-handbook-40-words-you-should-know,p]::1;

@@ -1,0 +1,2 @@
+<ayour|[https://www.hearst.it/privacy-notice,h]::1;[https://www.hearst.it/privacy-notice,p]::1;
+<ayoung|[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;

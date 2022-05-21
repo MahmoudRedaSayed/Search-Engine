@@ -1,2 +1,8 @@
+<mcafee|[https://www.hearst.com/newspapers,p]::1;[https://www.dailywritingtips.com/60-synonyms-for-walk,s]::1;
+<mcandrew|[https://www.sensesofcinema.com/2022/feature-articles/promising-young-woman-and-the-cinematic-renegotiation-of-gender-in-rape-revenge,p]::1;
+<mcandrews|[https://www.sensesofcinema.com/2022/feature-articles/promising-young-woman-and-the-cinematic-renegotiation-of-gender-in-rape-revenge,p]::2;
+<mcarthurdowty|[https://www.sensesofcinema.com/about/staff,p]::1;
+<mcadams|[https://nautil.us/topics/psychology,p]::2;[https://m.imdb.com/feature/bestpicture/?ref_=nv_ch_osc,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;[https://www.imdb.com/search/name/?match_all=true&ref_=nv_cel_m,h]::1;[https://www.imdb.com/search/name/?match_all=true&ref_=nv_cel_m,p]::2;
+<mcallen|[http://www.weta.org,p]::1;
+<mcat|[https://meded.hms.harvard.edu/admissions-before-you-apply,p]::2;
 <mcarthur|[https://en.wikipedia.org/wiki/British_English,p]::1;
-<mcauley|[https://www.dailymail.co.uk/femail/index.html,p]::1;[http://www.archive-it.org,p]::2;

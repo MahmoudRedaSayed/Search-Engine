@@ -1,2 +1,5 @@
-<cojeando|[https://www.marca.com/futbol/laliga-santander/cadiz-r-madrid-directo/2022/05/15/01_0101_20220515_1737_186.html,p]::1;
-<cojo|[https://www.marca.com/primera-plana/opinion/2022/05/15/623847bf268e3e0f078b45b0.html,p]::1;
+<cojonuda|[https://www.marca.com/motor/motogp.html?intcmp=MENUMIGA&s_kw=motogp,h]::1;
+<cojones|[https://www.marca.com/motor/motogp/gp-malasia.html?intcmp=MENUPROD&s_kw=moto-gp-malasia,h]::1;
+<cojo|[https://www.marca.com/tenis.html?intcmp=MENUPROD&s_kw=tenis,h]::1;[https://www.marca.com/futbol/valencia/2022/05/15/628172f1268e3ea94c8b4584.html,p]::1;
+<coj|[https://www.marca.com/motor/motogp/gp-jerez/2022/04/29/626c0a99268e3e8c4f8b4582.html?intcmp=MNOT23801&s_kw=1,p]::1;[https://www.marca.com/futbol/premier-league.html?intcmp=MENUPROD&s_kw=premier-league,h]::1;
+<coja|[https://www.marca.com/ciclismo/giro-italia/2022/05/16/628256ba268e3e5a408b4595.html,p]::1;

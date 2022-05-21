@@ -1,1 +1,2 @@
-<ukwide|[https://www.dailymail.co.uk/health/index.html,h]::1;
+<ukwide|[http://www.bbc.co.uk/editorialguidelines/guidelines/impartiality,p]::1;[https://www.dailymail.co.uk/health/index.html,h]::1;
+<ukwhen|[https://legal.twitter.com/en/purchaser-terms.html,p]::1;

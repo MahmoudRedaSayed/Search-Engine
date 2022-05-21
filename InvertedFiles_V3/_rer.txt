@@ -1,1 +1,7 @@
-<reread|[https://bbc.github.io/subtitle-guidelines,p]::2;
+<reread|[https://bbc.github.io/subtitle-guidelines,p]::2;[https://nautil.us/topics/astronomy,p]::1;[https://nautil.us/topics/psychology,p]::1;[https://www.dailywritingtips.com/latin-words-and-expressions-all-you-need-to-know,p]::1;[https://www.dailywritingtips.com/what-is-irony-with-examples,p]::1;
+<reremembered|[https://blog.archive.org/category/archive-it,p]::1;
+<reruns|[https://www.sensesofcinema.com/2021/great-directors/lucas-george,p]::1;
+<rereleased|[https://www.sensesofcinema.com/2021/great-directors/riefenstahl-leni,p]::1;[https://www.sensesofcinema.com/2021/book-reviews/42756,p]::1;
+<rerelease|[https://www.sensesofcinema.com/2021/book-reviews/42756,p]::1;
+<rerotation|[https://fr.casino-now-canada.com/logiciels/betsoft,p]::1;
+<rerereopening|[https://www.nytimes.com/live/2022/05/18/world/covid-19-mandates-vaccine-cases,p]::1;

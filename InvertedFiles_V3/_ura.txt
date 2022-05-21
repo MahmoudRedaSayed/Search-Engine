@@ -1,1 +1,5 @@
-<uranium|[https://www.iflscience.com/chemistry,h]::1;[https://www.iflscience.com/chemistry,p]::1;
+<uranium|[https://www.sensesofcinema.com/2022/feature-articles/the-journey-peter-watkinss-polyphonic-plea-for-humanity,p]::1;[https://www.nationalgeographic.com/travel/article/it-was-a-toxic-wasteland-now-its-a-national-park,p]::1;[https://nautil.us/topics/technology,p]::1;[https://www.nrdc.org/stories/water-pollution-everything-you-need-know,p]::1;[https://www.iflscience.com/chemistry,h]::1;[https://www.iflscience.com/chemistry,p]::1;
+<uratowali|[http://wpolityce.pl/kultura/226645-ida-jak-poklosie-pluzanski-w-filmie-to-polacy-sa-mordercami,p]::1;
+<urayama|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;
+<urad|[https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm,p]::1;
+<uranus|[https://nautil.us/topics/astronomy,p]::1;[https://www.nationalgeographic.com/magazine/article/see-how-people-have-imagined-life-on-mars-through-history-feature,p]::1;

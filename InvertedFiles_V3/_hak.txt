@@ -1,4 +1,11 @@
-<haka|[https://www.marca.com,h]::1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]::1;[https://www.marca.com/polideportivo.html?intcmp=MENUPROD&s_kw=polideportivo,h]::1;[https://www.marca.com/ultimas-noticias.html?intcmp=MENUDEST&s_kw=ultimas-noticias,h]::1;[https://www.marca.com?intcmp=MENUMIGA&s_kw=home,h]::1;
-<hakimi|[https://www.dailymail.co.uk/sport/index.html,s]::1;
-<haku|[https://fi.wiktionary.org/wiki/rajapinta,h]::1;[https://fi.wiktionary.org/wiki/yhteys,h]::1;
 <hakim|[https://www.bbc.co.uk/schedules/p00fzl9m,p]::4;
+<hakkinen|[https://www.marca.com/motor/formula1/gp-hungria.html?intcmp=MENUPROD&s_kw=formula-1-gp-hungria,h]::1;
+<haka|[https://www.marca.com/rugby.html?intcmp=MENUPROD&s_kw=rugby,h]::1;
+<hak|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::2;
+<hakatere|[https://www.nationalgeographic.com/travel/article/heres-why-hut-hiking-is-the-best-way-to-see-new-zealand,p]::1;
+<hakee|[https://netticasino-now.com,p]::1;
+<hakai|[https://nautil.us/what-lurks-in-a-drowned-forest-in-alabama-16508,p]::1;
+<hakeem|[https://congress.gov,p]::1;
+<hakimi|[https://www.dailymail.co.uk/sport/index.html,s]::1;
+<haku|[https://fi.wiktionary.org/wiki/rajapinta,h]::1;
+<hakone|[https://www.nike.com/ar,p]::2;

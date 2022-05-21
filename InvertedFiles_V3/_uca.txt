@@ -1,1 +1,1 @@
-<ucam|[https://www.marca.com/baloncesto.html?intcmp=MENUPROD&s_kw=baloncesto,h]::1;[https://www.marca.com/esports.html,h]::1;
+<ucam|[https://www.marca.com/esports.html?intcmp=MENUPROD&s_kw=esports,h]::1;[https://www.marca.com/baloncesto/acb.html?intcmp=MENUPROD&s_kw=baloncesto-acb,h]::3;[https://www.marca.com/baloncesto/copa-rey.html?intcmp=MENUPROD&s_kw=baloncesto-copa-rey,h]::5;[https://www.marca.com/esports.html,h]::1;

@@ -1,0 +1,2 @@
+<spme|[http://www.clemi.org/fr,h]::1;[http://www.clemi.org/fr,p]::6;
+<spms|[https://www.everydayhealth.com/multiple-sclerosis/guide,h]::1;[https://www.everydayhealth.com/multiple-sclerosis/guide,s]::1;

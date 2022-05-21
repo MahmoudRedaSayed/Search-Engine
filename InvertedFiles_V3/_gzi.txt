@@ -1,0 +1,2 @@
+<gzipfalse|[https://github.com/internetarchive/wayback/tree/master/wayback-cdx-server,s]::1;
+<gzip|[https://github.com/internetarchive/wayback/tree/master/wayback-cdx-server,p]::1;

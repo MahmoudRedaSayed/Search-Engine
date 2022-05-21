@@ -1,0 +1,2 @@
+<rtsp|[https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs,p]::1;
+<rts|[https://www.ebay.com/globaldeals/fashion,h]::2;[https://www.ebay.com/globaldeals/fashion/mens-shoes-accessories,h]::2;[https://www.ebay.com/globaldeals/home/sporting-goods,h]::1;

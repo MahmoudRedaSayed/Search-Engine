@@ -1,1 +1,7 @@
-<atscale|[https://blog.archive.org,p]::1;
+<atscale|[https://blog.archive.org,p]::1;[https://blog.archive.org/category/event,p]::1;[https://blog.archive.org/category/audio-archive,p]::1;[https://blog.archive.org/category/television-archive,p]::1;
+<atsc|[https://www.hearst.com/broadcasting,p]::3;[https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs,p]::1;
+<atsecuritydemandbasecom|[https://www.demandbase.com/privacy-policy,p]::1;
+<atsupporttuneincom|[https://tunein.com/policies/privacy,p]::2;[https://tunein.com/policies,p]::1;
+<atsymplrcvo|[https://www.symplr.com/provider-data-management/cvo-services/demo-request,p]::1;
+<atstudentaffairshmsharvardedurather|[https://meded.hms.harvard.edu/resources,p]::1;
+<atsf|[https://www.dailywritingtips.com/masters-degree-or-masters-degree,p]::1;

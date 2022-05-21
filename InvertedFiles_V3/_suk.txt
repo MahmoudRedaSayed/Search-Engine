@@ -1,1 +1,4 @@
-<sukupuoliyhteys|[https://fi.wiktionary.org/wiki/yhteys,p]::1;
+<sukces|[http://wpolityce.pl/kultura/226645-ida-jak-poklosie-pluzanski-w-filmie-to-polacy-sa-mordercami,s]::1;[http://wpolityce.pl/kultura/226645-ida-jak-poklosie-pluzanski-w-filmie-to-polacy-sa-mordercami,p]::1;
+<sukumār|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;
+<sukiyaki|[https://www.nationalgeographic.com/travel/article/beyond-chinatowns-these-places-explore-asian-americans-deep-roots-in-united-states,p]::1;
+<sukcesu|[https://blog.aboutamazon.pl,h]::1;

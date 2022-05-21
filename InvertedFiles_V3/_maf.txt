@@ -1,1 +1,4 @@
-<mafs|[https://www.dailymail.co.uk/auhome/index.html,s]::2;
+<mafia|[https://www.marca.com/motor/formula1/gp-paises-bajos.html?intcmp=MENUPROD&s_kw=formula-1-gp-paises-bajos,h]::1;[https://www.marca.com/futbol/supercopa-espana.html?intcmp=MENUPROD&s_kw=supercopa-de-espana,h]::1;[https://www.sensesofcinema.com/2022/festival-reports/afi-fest-afm-the-perils-of-online,p]::1;[https://nautil.us/topics/psychology,p]::1;[https://www.nationalgeographic.com/animals/article/greyhound-racing-decline-united-states,p]::1;
+<mafioso|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::1;
+<mafiosi|[https://www.nationalgeographic.com/animals/article/greyhound-racing-decline-united-states,p]::1;
+<mafiagangs|[https://www.dailywritingtips.com/50-slang-terms-for-money,p]::1;

@@ -1,1 +1,5 @@
-<eaves|[https://www.dailymail.co.uk/travel/index.html,p]::1;
+<eaves|[https://www.sensesofcinema.com/2022/great-directors/lau-kar-leung,p]::1;[https://www.dailymail.co.uk/travel/index.html,p]::1;
+<eavesdropping|[https://www.sensesofcinema.com/2022/feature-articles/jacob-holdts-american-pictures-a-note-on-style-in-poor-cinema,p]::1;
+<eavan|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;
+<eavesdrops|[https://nautil.us/topics/zoology,h]::1;
+<eavesdroppers|[https://fpn.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=products,p]::1;

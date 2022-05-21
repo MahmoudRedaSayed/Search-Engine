@@ -1,0 +1,4 @@
+<cco|[https://about.twitter.com/en/who-we-are/our-company.html,p]::1;[https://www.foxnews.com/media,p]::1;
+<ccopymeans|[https://www.hearst.it/terms-and-conditions-print-and-digital-advertising,p]::1;
+<ccowned|[https://creativecommons.org/terms,p]::2;
+<ccon|[https://www.dailywritingtips.com/what-does-sic-mean,s]::2;

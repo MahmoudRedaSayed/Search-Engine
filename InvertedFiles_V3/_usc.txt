@@ -1,1 +1,6 @@
-<usc|[https://help.twitter.com/rules-and-policies/twitter-law-enforcement-support,p]::2;[http://www.archive-it.org,p]::1;
+<usc|[https://www.hearst.com/broadcasting,p]::1;[https://www.sensesofcinema.com/2021/great-directors/lucas-george,p]::3;[https://blog.archive.org/category/event/past-event,s]::1;[https://blog.archive.org/category/event/past-event,p]::2;[https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support,p]::2;[https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office,p]::2;[https://www.loc.gov/legal,p]::1;
+<uscite|[https://www.hearst.it/vivere-meglio/hearst-italia-le-licenze-di-mens-health-e-runners-world,p]::1;
+<uscanada|[https://blog.archive.org/category/television-archive,p]::1;
+<uscita|[https://it.swiss-casino-now.com/recensioni,p]::2;
+<uscode|[http://copyright.gov,p]::1;
+<uscentric|[https://www.dailywritingtips.com/50-incorrect-pronunciations-that-you-should-avoid,p]::1;

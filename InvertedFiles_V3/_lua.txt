@@ -1,1 +1,3 @@
-<lua|[https://en.wikipedia.org/wiki/Object-oriented_programming,p]::1;
+<luanda|[https://www.beinsports.com/en,p]::1;
+<lualdi|[https://www.sensesofcinema.com/2006/great-directors/bolognini,p]::3;
+<lua|[https://rural.rfi.ro,p]::2;[https://en.wikipedia.org/wiki/Object-oriented_programming,p]::1;

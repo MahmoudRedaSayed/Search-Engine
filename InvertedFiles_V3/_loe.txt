@@ -1,2 +1,5 @@
-<loewe|[https://www.dailymail.co.uk/femail/index.html,p]::1;
-<loeb|[http://www.archive-it.org,p]::1;
+<loeb|[https://www.harvard.edu/,s]::2;[https://www.marca.com/motor/rallies.html?intcmp=MENUPROD&s_kw=rallies,h]::7;[https://www.marca.com/motor/dakar.html?intcmp=MENUPROD&s_kw=dakar,h]::2;[https://nautil.us/topics/astronomy,p]::1;[https://www.nationalgeographic.com/magazine/article/martin-luther-king-streets-worldwide,p]::1;[https://www.nytimes.com/by/sheryl-gay-stolberg,p]::1;[https://www.nytimes.com/by/sharon-lafraniere,p]::1;[https://www.harvard.edu/copyright-issue,s]::2;
+<loeil|[https://www.sensesofcinema.com/2015/michael-bay-dossier/michael-bay-the-island,p]::15;[https://fr.casino-now-canada.com/logiciels/microgaming,p]::1;
+<loerke|[https://edaa.eu/who-we-are/our-board,p]::1;
+<loep|[https://onlinecasino-now.nl,p]::1;
+<loess|[https://www.nationalgeographic.com/environment/article/tree-planting-projects-abound-which-should-you-support,p]::1;

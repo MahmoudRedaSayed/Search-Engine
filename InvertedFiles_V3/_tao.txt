@@ -1,1 +1,3 @@
-<tao|[https://www.marca.com/ciclismo/giro-italia/2022/05/15/6280d6cd37ff7b0023a22828-directo.html,s]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/15/6280d6cd37ff7b0023a22828-directo.html,p]::1;[https://www.sensesofcinema.com/special-dossiers,h]::1;
+<tao|[https://www.sensesofcinema.com/2022/great-directors/lau-kar-leung,p]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/15/6280d6cd37ff7b0023a22828-directo.html,s]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/15/6280d6cd37ff7b0023a22828-directo.html,p]::1;
+<taoism|[https://www.sensesofcinema.com/2021/great-directors/lucas-george,p]::1;
+<taoyuan|[https://www.marhabaservices.com/ae/english/contract-conditions.html,h]::1;

@@ -1,0 +1,2 @@
+<ccda|[https://www.nlm.nih.gov/portals/healthcare.html,p]::1;
+<ccd|[https://exchange.adobe.com/creativecloud.details.103891.html,p]::1;[https://wiki.creativecommons.org/wiki/CC0_FAQ,h]::1;[https://wiki.creativecommons.org/wiki/CC0_FAQ,p]::6;

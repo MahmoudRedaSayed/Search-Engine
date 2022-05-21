@@ -1,8 +1,7 @@
-<yhteys|[https://fi.wiktionary.org/wiki/yhteys,t]::1;[https://fi.wiktionary.org/wiki/yhteys,h]::1;[https://fi.wiktionary.org/wiki/yhteys,p]::1;
-<yhteydenotto|[https://fi.wiktionary.org/wiki/yhteys,p]::1;
-<yhteydenpito|[https://fi.wiktionary.org/wiki/yhteys,p]::1;
-<yhteyshauta|[https://fi.wiktionary.org/wiki/yhteys,p]::1;
-<yhteyshenkilö|[https://fi.wiktionary.org/wiki/yhteys,p]::1;
-<yhteyssihteeri|[https://fi.wiktionary.org/wiki/yhteys,p]::1;
-<yhteysupseeri|[https://fi.wiktionary.org/wiki/yhteys,p]::1;
-<yhteysväline|[https://fi.wiktionary.org/wiki/yhteys,p]::1;
+<yhteenveto|[https://netticasino-now.com,h]::1;
+<yhtään|[https://netticasino-now.com,p]::1;
+<yhtä|[https://netticasino-now.com,p]::1;
+<yhteyden|[https://netticasino-now.com,p]::1;
+<yhteistyötä|[https://netticasino-now.com,p]::1;
+<yhteydessä|[https://netticasino-now.com,p]::2;
+<yhteyttä|[https://netticasino-now.com,p]::1;

@@ -1,0 +1,6 @@
+<pfa|[https://www.bbc.co.uk/sport,p]::1;[https://www.dailywritingtips.com/useful-stock-phrases-for-your-business-emails,p]::1;
+<pfadi|[https://www.marca.com/balonmano.html?intcmp=MENUPROD&s_kw=balonmano,h]::1;
+<pfas|[https://www.nrdc.org/stories/water-pollution-everything-you-need-know,p]::1;
+<pfasladen|[https://www.nrdc.org/stories/water-pollution-everything-you-need-know,p]::1;
+<pfass|[https://www.nrdc.org/stories/water-pollution-everything-you-need-know,p]::1;
+<pfazer|[https://www.dailywritingtips.com/25-confused-homonym-pairs,p]::1;

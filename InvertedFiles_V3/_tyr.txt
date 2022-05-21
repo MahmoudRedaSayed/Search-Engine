@@ -1,1 +1,10 @@
-<tyre|[https://www.dailymail.co.uk/auhome/index.html,h]::1;[https://www.bbc.co.uk/programmes/p02r6yqw/episodes/downloads,p]::1;
+<tyre|[https://www.bbc.co.uk/programmes/p02r6yqw/episodes/downloads,p]::1;[https://www.foxnews.com/us,p]::1;[https://www.dailywritingtips.com/get-with-the-programme,p]::1;
+<tyreek|[https://www.marca.com/nfl.html?intcmp=MENUPROD&s_kw=nfl?intcmp=MENUPROD&s_kw=nfl,h]::1;
+<tyranny|[https://www.sensesofcinema.com/2022/great-directors/curtiz-michael,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;[https://www.nytimes.com/2022/05/09/us/arkansas-pastor-evangelical-churches.html,p]::1;[https://www.nytimes.com/interactive/2022/03/18/technology/cryptocurrency-crypto-guide.html,p]::1;[https://www.dailywritingtips.com/50-rhetorical-devices-for-rational-writing,p]::1;
+<tyrannical|[https://www.sensesofcinema.com/2022/cteq/fritz-langs-spione-1928,p]::1;[https://nautil.us/topics/communication,p]::1;
+<tyrant|[https://nautil.us/topics/psychology,p]::1;
+<tyrants|[https://www.dailywritingtips.com/awoken-or-awakened,p]::1;[https://www.dailywritingtips.com/what-does-sic-mean,p]::2;
+<tyreunnaon|[https://www.dailywritingtips.com/what-is-the-difference-between-metaphor-and-simile,s]::1;
+<tyrannis|[https://www.dailywritingtips.com/what-does-sic-mean,p]::1;
+<tyrannosaurus|[https://www.foxnews.com/category/science/archaeology/dinosaurs,p]::1;
+<tyrannosaurs|[https://www.foxnews.com/category/science/archaeology/dinosaurs,p]::1;

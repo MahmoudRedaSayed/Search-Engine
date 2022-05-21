@@ -1,2 +1,9 @@
-<eisenhower|[https://www.dailymail.co.uk/travel/index.html,p]::1;
-<eisensteins|[https://www.sensesofcinema.com/special-dossiers,h]::1;
+<eisenstein|[https://www.sensesofcinema.com/category/book-reviews,h]::1;[https://www.sensesofcinema.com/2021/interviews/sunken-film-bill-morrison-talks-the-village-detective-a-song-cycle,p]::1;[https://www.sensesofcinema.com/2022/cteq/fritz-langs-spione-1928,p]::1;[https://www.sensesofcinema.com/author/shari-kizirian,h]::1;
+<eisenbaum|[https://www.sensesofcinema.com/2022/interviews/a-joyride-through-technological-change-interview-with-david-cox,p]::1;
+<eisensteins|[https://www.sensesofcinema.com/2022/festival-reports/looking-for-love-at-hitchcon-2021,p]::1;
+<eisner|[https://www.sensesofcinema.com/2022/book-reviews/the-depths-of-empiricism-werner-herzog-ecstatic-truth-and-other-useless-conquests-by-kristoffer-hegnsvad,p]::3;[https://www.sensesofcinema.com/2022/cteq/out-of-the-shadows-cloak-and-dagger-fritz-lang-1946,p]::1;
+<eishockey|[https://onlinecasino-now.de,p]::1;
+<eisen|[https://onlinecasino-now.nl,p]::3;[https://onlinecasino-now.nl/casino-reviews,p]::1;
+<eiste|[https://www.dailywritingtips.com/greek-words,p]::1;
+<eisenberg|[https://meded.hms.harvard.edu/soma-weiss-student-research-day,s]::1;[https://meded.hms.harvard.edu/soma-weiss-student-research-day,p]::1;
+<eisenhower|[https://www.dailywritingtips.com/25-confused-homonym-pairs,p]::1;[https://www.dailymail.co.uk/travel/index.html,p]::1;

@@ -1,0 +1,11 @@
+<rncbishop|[https://congress.gov,p]::1;
+<rncburchett|[https://congress.gov,p]::1;
+<rncchabot|[https://congress.gov,p]::1;
+<rncfrankel|[https://congress.gov,p]::1;
+<rnchuffman|[https://congress.gov,p]::1;
+<rncmckinley|[https://congress.gov,p]::1;
+<rncmurphy|[https://congress.gov,p]::1;
+<rncroy|[https://congress.gov,p]::1;
+<rnccantwell|[https://congress.gov,p]::1;
+<rnctoomey|[https://congress.gov,p]::1;
+<rnc|[https://www.foxnews.com/media,p]::1;[https://creativecommons.org/category/policy-advocacy-copyright-reform,p]::1;[https://www.foxnews.com/category/world/scandals,p]::1;[https://www.foxnews.com/category/politics/senate,p]::1;[https://www.foxnews.com/category/politics/house-of-representatives,p]::1;[https://www.foxnews.com/category/politics/judiciary,p]::1;

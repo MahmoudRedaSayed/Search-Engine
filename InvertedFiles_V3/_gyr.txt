@@ -1,0 +1,5 @@
+<gyroscope|[https://policies.google.com/privacy?hl=en,p]::1;[https://www.aboutamazon.com/news/company-news/2021-letter-to-shareholders,p]::1;
+<gyrus|[https://www.nationalgeographic.com/magazine/article/things-that-divide-us,p]::1;
+<gyre|[https://www.foxweather.com,h]::2;
+<gyroscopes|[https://www.dailywritingtips.com/25-confused-homonym-pairs,p]::1;
+<gyro|[https://www.zagrosrobotics.com/shop/item.aspx?itemid=1168,p]::1;

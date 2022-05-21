@@ -1,1 +1,1 @@
-<ngss|[https://www.sciencenewsforstudents.org/how-to-use,p]::1;
+<ngss|[https://www.edtechdigest.com,h]::1;[https://www.sciencenewsforstudents.org/how-to-use,p]::1;

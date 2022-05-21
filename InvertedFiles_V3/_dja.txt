@@ -1,2 +1,2 @@
-<djalilis|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk/news/index.html,h]::1;[https://www.dailymail.co.uk/health/index.html,s]::1;
-<django|[https://postorius.readthedocs.org,p]::3;[https://stackoverflow.com/questions/tagged/openid,h]::1;
+<django|[https://stackoverflow.com/questions/tagged/openid,h]::1;[https://cloud.google.com/run,p]::1;[https://cloud.google.com/knative,p]::1;[https://www.w3schools.com,h]::1;[https://insights.stackoverflow.com/survey/2021,p]::1;[https://postorius.readthedocs.org,p]::3;
+<djanii|[https://www.rfi.fr,p]::1;

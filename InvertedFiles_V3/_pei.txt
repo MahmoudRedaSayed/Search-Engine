@@ -1,2 +1,8 @@
+<peineta|[https://www.marca.com/deportes-invierno.html?intcmp=MENUPROD&s_kw=deportes-invierno,h]::1;[https://www.marca.com/juegos-olimpicos-invierno.html?intcmp=MENUPROD&s_kw=juegos-olimpicos-invierno,h]::1;
+<peina|[https://www.marca.com/futbol/primera-rfef.html?intcmp=MENUPROD&s_kw=primera-rfef,h]::1;
+<peine|[https://www.rfi.fr,p]::3;[https://fr.casino-now-canada.com/nouveaux-casinos,h]::1;[https://fr.casino-now-canada.com/nouveaux-casinos,p]::1;
+<peihua|[https://www.sensesofcinema.com/about/patrons,p]::1;
+<peignoir|[https://www.sensesofcinema.com/2022/feature-articles/the-cry-cinema-sentiment-minnelli,p]::2;
 <peio|[https://www.marca.com/ciclismo/giro-italia/2022/05/15/6280d6cd37ff7b0023a22828-directo.html,p]::2;
-<peixoto|[http://www.enable-javascript.com,p]::1;[http://www.enable-javascript.com/hr,p]::1;
+<peisajul|[https://rural.rfi.ro,p]::1;
+<peixoto|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;

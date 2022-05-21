@@ -1,1 +1,8 @@
-<cuddle|[https://www.dailymail.co.uk/travel/index.html,h]::1;
+<cuddlebunny|[https://www.sensesofcinema.com/2022/book-reviews/hollywood-reinvented-shooting-midnight-cowboy-art-sex-loneliness-liberation-and-the-making-of-a-dark-classic-by-glenn-frankel,p]::1;
+<cuddled|[https://www.bbc.co.uk/news/world-europe-60874223,p]::1;
+<cudax|[https://cloud.google.com/deep-learning-containers,p]::1;
+<cuddle|[https://www.britannica.com/reviews/weighted-blankets,p]::1;[https://itunes.apple.com/us/app/draw-a-stickman-color-buddies/id1305148198?l=el&ls=1&mt=8,p]::1;[https://www.merriam-webster.com/reviews?post_type=roundup&p=5101&preview=true,p]::1;[https://www.dailymail.co.uk/travel/index.html,h]::1;
+<cuddlesome|[https://itunes.apple.com/us/app/draw-a-stickman-color-buddies/id1305148198?l=el&ls=1&mt=8,p]::1;
+<cuddly|[https://www.merriam-webster.com/reviews?post_type=roundup&p=5101&preview=true,p]::1;
+<cud|[https://www.dailywritingtips.com/the-yiddish-handbook-40-words-you-should-know,p]::1;
+<cuddles|[https://www.dailymail.co.uk/health/index.html,h]::1;[https://www.dailymail.co.uk/health/index.html,p]::1;

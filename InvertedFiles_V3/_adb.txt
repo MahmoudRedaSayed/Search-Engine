@@ -1,0 +1,3 @@
+<adb|[https://developers.google.com/assistant/app/get-started,p]::2;[https://codelabs.developers.google.com/codelabs/appactions,p]::1;
+<adbased|[https://www.nytimes.com/interactive/2022/03/18/technology/cryptocurrency-crypto-guide.html,p]::1;
+<adbert|[https://www.chicagotribune.com/sports/cubs/ct-chicago-cubs-christopher-morel-brandon-hughes-20220518-fxv4ovo3ybhtvarlqy56k7flrq-story.html#nt=interstitial-auto,p]::1;

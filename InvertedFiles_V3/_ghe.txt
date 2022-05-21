@@ -1,4 +1,10 @@
-<ghetto|[https://english.ahram.org.eg/,p]::1;
-<ghebreyesus|[https://www.dailymail.co.uk/health/index.html,p]::1;
-<ghent|[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;[http://www.archive-it.org,p]::2;
+<ghetto|[https://english.ahram.org.eg/,p]::1;[https://www.sensesofcinema.com/2022/feature-articles/jacob-holdts-american-pictures-a-note-on-style-in-poor-cinema,p]::2;
 <gherkin|[https://www.bbc.co.uk/opensource/projects/bbc-a11y,p]::1;
+<ghettoes|[https://www.sensesofcinema.com/2022/book-reviews/hollywood-reinvented-shooting-midnight-cowboy-art-sex-loneliness-liberation-and-the-making-of-a-dark-classic-by-glenn-frankel,p]::1;
+<ghemri|[https://www.reseau-canope.fr,p]::1;
+<gheorghiță|[https://rural.rfi.ro,p]::1;
+<gheţurilor|[https://rural.rfi.ro,p]::1;
+<ghez|[https://nautil.us/topics/physics,p]::1;[https://www.nationalgeographic.com/magazine/article/behold-the-first-picture-of-the-black-hole-at-the-center-of-our-galaxy,p]::1;
+<ghettos|[https://www.dailywritingtips.com/the-yiddish-handbook-40-words-you-should-know,p]::1;
+<ghent|[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;
+<ghebreyesus|[https://www.dailymail.co.uk/health/index.html,p]::1;

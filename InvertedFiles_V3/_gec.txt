@@ -1,2 +1,7 @@
-<gecko|[https://www.sciencenews.org,h]::1;
-<geckos|[https://www.sciencenews.org,p]::1;
+<gecko|[https://www.sensesofcinema.com/2022/feature-articles/smooth-digital-reveries-on-proto-vaporwave-and-the-flying-luna-clipper,p]::1;[https://www.nationalgeographic.com/animals/article/how-predators-get-past-the-trickiest-of-defenses,p]::3;[https://www.sciencenews.org,h]::1;
+<gecontroleerde|[https://www.outbrain.com/legal,p]::1;
+<gecontroleerd|[https://onlinecasino-now.nl,p]::1;[https://casino-now.be,p]::1;[https://onlinecasino-now.nl/casino-reviews,p]::1;[https://onlinecasino-now.nl/casino-reviews/playamo,p]::2;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::3;[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::2;[https://onlinecasino-now.nl/casino-software,p]::1;
+<gecertificeerd|[https://onlinecasino-now.nl,p]::2;[https://casino-now.be,p]::2;[https://onlinecasino-now.nl/casino-reviews,p]::2;[https://onlinecasino-now.nl/casino-reviews/playamo,p]::2;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::2;[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::3;[https://onlinecasino-now.nl/casino-software,p]::2;
+<geckos|[https://www.nationalgeographic.com/animals/article/how-predators-get-past-the-trickiest-of-defenses,p]::3;[https://www.sciencenews.org,p]::1;
+<gecertifieerd|[https://onlinecasino-now.nl/live-casino/casino-holdem,h]::1;
+<gecombineerd|[https://onlinecasino-now.nl/casino-software,p]::1;

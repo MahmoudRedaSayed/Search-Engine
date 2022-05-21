@@ -1,4 +1,7 @@
-<exfoliating|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;[https://www.everydayhealth.com/wellness,h]::1;
-<exfiancé|[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;
-<exfoliation|[https://www.everydayhealth.com/psoriasis/guide,p]::1;
-<exfutbolista|[https://www.marca.com/ultimas-noticias.html?intcmp=MENUDEST&s_kw=ultimas-noticias,h]::1;
+<exfutbolista|[https://www.marca.com/claro-mx/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;[https://ar.marca.com/claro/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;[https://www.marca.com/noticias-mas-leidas.html,h]::1;[https://www.marca.com/futbol/liga-francesa.html?intcmp=MENUPROD&s_kw=liga-francesa,h]::1;
+<exfutbolistas|[https://www.marca.com/futbol.html?intcmp=MENUPROD&s_kw=futbol,h]::1;
+<exf|[https://www.marca.com/motor/24-horas-le-mans.html?intcmp=MENUPROD&s_kw=24-horas-de-le-mans,h]::1;
+<exfoliating|[https://www.healthline.com/program/acne-prone-skin-a-game-plan,p]::2;[https://www.everydayhealth.com/wellness,h]::1;
+<exfoliate|[https://www.healthline.com/program/acne-prone-skin-a-game-plan,p]::1;
+<exfoliation|[https://www.healthline.com/program/acne-prone-skin-a-game-plan,p]::1;[https://www.everydayhealth.com/psoriasis/guide,p]::1;
+<exfiltration|[https://cloud.google.com/shielded-vm,h]::1;[https://cloud.google.com/shielded-vm,p]::1;

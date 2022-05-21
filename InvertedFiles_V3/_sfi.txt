@@ -1,0 +1,5 @@
+<sfida|[https://www.hearst.it/case-study,h]::1;
+<sfide|[https://www.hearst.it/case-study,p]::1;[https://www.hearst.it/chi-siamo,h]::1;[https://www.hearst.it/chi-siamo,p]::1;[https://www.hearst.it/lavora-con-noi,p]::1;
+<sfilter|[https://github.com/sbaresearch/advisories/tree/public/2019/SBA-ADV-20190913-02_WordPress_Plugin_Broken_Link_Checker,p]::2;
+<sfi|[https://appafrique.rfi.fr,p]::1;[https://www.hss.gov.nt.ca/en/services/addictions,p]::2;
+<sfilza|[https://casino-now.it/software,p]::1;

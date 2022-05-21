@@ -1,2 +1,11 @@
-<kroos|[https://www.marca.com/futbol/laliga-santander/cadiz-r-madrid-directo/2022/05/15/01_0101_20220515_1737_186.html,s]::3;[https://www.marca.com/futbol/laliga-santander/cadiz-r-madrid-directo/2022/05/15/01_0101_20220515_1737_186.html,p]::9;[https://www.dailymail.co.uk/sport/index.html,s]::1;[https://www.marca.com/en/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;[https://www.marca.com/baloncesto.html?intcmp=MENUPROD&s_kw=baloncesto,h]::1;[https://www.marca.com/futbol/primera-division/2022/05/15/6280d88e37ff7b0023a23044-directo.html,s]::1;[https://www.marca.com/futbol/primera-division/2022/05/15/6280d88e37ff7b0023a23044-directo.html,p]::1;[https://www.marca.com/futbol/real-madrid.html,h]::1;
-<kroz|[http://vedrigrad.hr,p]::1;
+<krontv|[https://www.hearst.com/broadcasting,p]::2;[https://www.sensesofcinema.com/2021/great-directors/lucas-george,p]::1;
+<kron|[https://www.hearst.com/broadcasting,p]::2;
+<kroos|[http://www.beinsports.com/us,h]::1;[https://www.marca.com/futbol/mundial-de-clubes.html?intcmp=MENUPROD&s_kw=mundial-de-clubes,h]::1;[https://www.marca.com/baloncesto/nba.html?intcmp=MENUPROD&s_kw=baloncesto-nba,h]::1;[https://www.dailymail.co.uk/sport/index.html,s]::1;
+<kroků|[https://cs.wordpress.org/plugins/broken-link-checker,p]::1;
+<krokdo|[http://wpolityce.pl/kultura/226645-ida-jak-poklosie-pluzanski-w-filmie-to-polacy-sa-mordercami,p]::1;
+<kroków|[https://kasyno-now.com,p]::1;
+<krohg|[https://nautil.us/topics/environment,p]::1;
+<kronanswedens|[https://nautil.us/topics/environment,p]::1;
+<kronecker|[https://nautil.us/topics/philosophy,p]::1;
+<kroky|[http://sk.talkenglish.com,h]::1;[http://cz.talkenglish.com,h]::1;
+<kroki|[http://pl.talkenglish.com,h]::1;

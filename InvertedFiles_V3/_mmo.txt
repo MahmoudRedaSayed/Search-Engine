@@ -1,1 +1,4 @@
-<mmojela|[https://www.dailymail.co.uk/femail/index.html,p]::1;
+<mmog|[https://www.sensesofcinema.com/author/rob-nixon,h]::1;
+<mmonlineen|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::1;
+<mmo|[https://www.lequipe.fr/Esport,t]::1;
+<mmoll|[https://www.mayoclinic.org/diseases-conditions/high-blood-cholesterol/in-depth/statins/ART-20045772?p=1,p]::1;[https://www.mayoclinic.org/es-es/diseases-conditions/high-blood-cholesterol/in-depth/statins/art-20045772?p=1,p]::1;

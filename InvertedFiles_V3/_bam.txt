@@ -1,2 +1,15 @@
+<bamboo|[https://developers.googleblog.com/2020/06/voice-global-2020-new-improvements-to-core-platform.html,p]::1;[https://www.sensesofcinema.com/2022/great-directors/tahimik-kidlat,p]::2;[https://www.britannica.com/reviews/composting-bins,p]::1;[https://nautil.us/topics/zoology,p]::1;[https://www.nationalgeographic.com/magazine/article/philippines-reefs-are-some-of-the-most-vibrant-but-in-peril-feature,p]::2;[https://www.britannica.com/reviews/weighted-blankets,p]::2;[https://www.chicagotribune.com/consumer-reviews/#nt=tertiarynavbar,h]::1;[https://www.dailymail.co.uk/travel/index.html,p]::1;[https://www.everydayhealth.com/wellness/resilience,p]::1;
+<bampfa|[https://blog.archive.org/2016/10/23/showcase-the-gif-collider-at-berkeley-art-museum,p]::2;
+<bambini|[https://www.hearst.it/informativa-privacy,p]::2;[https://www.outbrain.com/legal,s]::1;[https://www.amazon.it/ref=nodl_&nodl_android,h]::1;
+<bambole|[https://www.sensesofcinema.com/2006/great-directors/bolognini,p]::2;
+<bame|[http://www.bbc.co.uk/news/have_your_say,h]::1;
+<bamako|[https://www.rfi.fr,p]::1;[http://atelier.rfi.fr,p]::1;
+<bam|[https://mondoblog.org,p]::1;[https://www.readingbrightstart.org,p]::1;[http://www.readingbrightstart.org/?external_id=RE2350803010600,p]::1;
+<bamber|[https://www.sensesofcinema.com/2004/cteq/virgin_spring,p]::1;
+<bambara|[https://appafrique.rfi.fr,p]::1;
+<bambino|[https://www.britannica.com/reviews/espresso-machines,h]::2;[https://www.britannica.com/reviews/espresso-machines,p]::1;
+<bamboozle|[https://www.britannica.com/reviews/composting-bins,h]::2;[https://www.britannica.com/reviews/composting-bins,p]::1;
+<bamtech|[https://privacy.thewaltdisneycompany.com/en/current-privacy-policy,p]::4;
+<bamford|[https://www.dailymail.co.uk/sport/index.html,h]::1;
+<bamberg|[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;
 <bamburgh|[https://www.dailymail.co.uk/travel/index.html,h]::1;
-<bamboo|[https://www.dailymail.co.uk/travel/index.html,p]::1;[https://www.everydayhealth.com/wellness/resilience,p]::1;

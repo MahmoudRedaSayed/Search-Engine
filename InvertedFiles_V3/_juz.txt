@@ -1,1 +1,4 @@
-<juzgado|[https://www.marca.com/futbol/laliga-santander/atletico-sevilla-directo/2022/05/15/01_0101_20220515_175_179.html,p]::1;
+<juzgó|[https://www.marca.com/motor/motogp/gp-jerez/2022/04/29/626c0a99268e3e8c4f8b4582.html?intcmp=MNOT23801&s_kw=1,p]::1;
+<juzgado|[https://www.elmundo.es,h]::1;[https://www.marca.com/corporativo/terminos-condiciones-uso.html,p]::1;
+<juzgados|[https://www.diariomedico.com,p]::1;[https://www.marca.com/corporativo/terminos-condiciones-uso.html,p]::1;
+<juzumė|[https://www.sensesofcinema.com/about/patrons,p]::1;

@@ -1,1 +1,9 @@
-<lud|[https://www.marca.com/futbol/primera-division/2022/05/15/6280d88e37ff7b0023a23044-directo.html,p]::1;
+<ludwig|[https://www.sensesofcinema.com/2022/feature-articles/heil-darling-a-story-of-lips-that-havent-laughed,p]::3;[https://blog.archive.org/about,p]::1;[https://www.sensesofcinema.com/2022/cteq/a-pin-for-me-at-fritz-langs-man-hunt,p]::1;[https://www.sensesofcinema.com/2022/feature-articles/the-cry-cinema-sentiment-minnelli,p]::1;[https://ask.loc.gov/performing-arts,p]::1;
+<ludogorets|[https://www.marca.com/futbol/europa-league/equipos.html?intcmp=MENUPROD&s_kw=europa-league-equipos,h]::1;
+<ludoplay|[https://wordpress.org/support/forum/requests-and-feedback,p]::1;
+<ludicrous|[https://www.sensesofcinema.com/2022/feature-articles/the-cry-cinema-sentiment-minnelli,p]::1;[https://nautil.us/topics/technology,p]::1;[https://www.dailywritingtips.com/75-contronyms-words-with-contradictory-meanings,p]::1;
+<ludique|[https://appafrique.rfi.fr,p]::1;[https://fr.casino-now-canada.com/logiciels/netent,p]::1;[https://fr.casino-now-canada.com/logiciels,p]::1;
+<ludiques|[https://fr.casino-now-canada.com,s]::1;[https://fr.casino-now-canada.com,p]::2;[https://fr.casino-now-canada.com/logiciels/netent,p]::1;
+<ludothèque|[https://fr.swiss-casino-now.com,p]::1;[https://fr.casino-now-canada.com/jeux-casino,p]::1;[https://fr.casino-now-canada.com/playamo-casino,p]::1;[https://fr.swiss-casino-now.com/revue/playamo,p]::1;
+<ludopatia|[https://casino-now.it,p]::1;[https://casino-now.it/recensioni,p]::1;[https://casino-now.it/software,p]::1;
+<ludopatie|[https://it.swiss-casino-now.com/recensioni,s]::1;[https://it.swiss-casino-now.com/recensioni,p]::2;

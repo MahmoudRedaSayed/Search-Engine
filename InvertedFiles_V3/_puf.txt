@@ -1,1 +1,4 @@
-<pufo|[https://www.marca.com/futbol/primera-division/2022/05/15/627fcb40e2704ee5598b4581.html,p]::1;
+<puffy|[https://www.sensesofcinema.com/2021/great-directors/riefenstahl-leni,p]::1;[https://www.healthline.com/program/life-beyond-the-changing-table,p]::1;[https://icons8.com/l/3d-hands,p]::1;[https://www.dailymail.co.uk/ushome/index.html,s]::1;[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;
+<puff|[https://nautil.us/topics/physics,p]::1;[https://www.nationalgeographic.com/magazine/article/philippines-reefs-are-some-of-the-most-vibrant-but-in-peril-feature,p]::1;[https://www.chicagotribune.com/consumer-reviews/#nt=tertiarynavbar,h]::1;
+<puffs|[https://nautil.us/topics/psychology,p]::1;
+<puffer|[https://gear.tezos.com,h]::1;

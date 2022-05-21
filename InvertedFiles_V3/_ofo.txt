@@ -1,0 +1,3 @@
+<ofourlatest|[https://www.apple.com/ios/app-store,h]::1;
+<ofon|[https://nautil.us/topics/evolution,p]::1;
+<ofoctez|[https://research-development.nomadic-labs.com/announcing-tezos-10th-protocol-upgrade-proposal-jakarta.html,p]::1;

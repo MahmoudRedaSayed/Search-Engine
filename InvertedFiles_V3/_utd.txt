@@ -1,1 +1,2 @@
-<utd|[https://www.skysports.com/,h]::3;
+<utd|[https://www.skysports.com/,h]::1;[https://www.manutd.com,h]::1;[https://www.bbc.co.uk/sport,p]::2;[https://www.bbc.com/sport,p]::1;[http://www.beinsports.com/france,h]::2;[http://www.beinsports.com/us,h]::1;[https://www.marca.com/futbol/futbol-internacional.html?intcmp=MENUPROD&s_kw=futbol-internacional,s]::1;[https://www.marca.com/futbol/premier-league.html?intcmp=MENUPROD&s_kw=premier-league,s]::1;[https://dugout.com/spurs,h]::1;
+<utds|[https://www.skysports.com/,h]::2;[https://www.bbc.co.uk/sport,p]::1;[https://www.bbc.com/sport,p]::1;

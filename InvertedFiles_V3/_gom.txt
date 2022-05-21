@@ -1,4 +1,12 @@
-<gomes|[https://www.dailymail.co.uk/ushome/index.html,p]::1;[https://www.dailymail.co.uk/auhome/index.html,p]::1;
-<gomas|[https://www.marca.com/tiramillas/television/2022/05/15/6280dbe322601d476b8b4580.html,p]::1;
-<gomez|[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://www.dailymail.co.uk/auhome/index.html,h]::1;[https://www.dailymail.co.uk/auhome/index.html,s]::1;[https://www.dailymail.co.uk/auhome/index.html,p]::1;[https://www.dailymail.co.uk/health/index.html,p]::1;
+<goma|[https://www.marca.com/motor/formula1/gp-espana/2022/05/17/62834e56ca474138528b45c2.html,p]::1;
+<gomis|[http://www.beinsports.com/france,h]::1;[http://www.beinsports.com/france,p]::1;[http://afriquefoot.rfi.fr,p]::1;
+<gomorrha|[https://www.sensesofcinema.com/2022/great-directors/curtiz-michael,p]::1;
+<gomorrah|[https://www.sensesofcinema.com/2022/great-directors/curtiz-michael,p]::2;
+<gomes|[https://www.sensesofcinema.com/2022/festival-reports/afi-fest-afm-the-perils-of-online,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::3;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::3;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;[https://www.chicagotribune.com/sports/cubs/ct-chicago-cubs-christopher-morel-brandon-hughes-20220518-fxv4ovo3ybhtvarlqy56k7flrq-story.html#nt=interstitial-auto,p]::1;
+<gomez|[https://wordpress.org/support/plugin/broken-link-checker/reviews/?filter=5,p]::1;[http://teepublic.tumblr.com,p]::1;[https://www.imdb.com/search/name/?match_all=true&ref_=nv_cel_m,h]::1;[https://www.imdb.com/search/name/?match_all=true&ref_=nv_cel_m,p]::1;[https://www.dailymail.co.uk/tvshowbiz/index.html,h]::1;[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://www.dailymail.co.uk/sport/index.html,h]::1;[https://www.dailymail.co.uk/health/index.html,p]::1;
+<gompel|[http://medprofvideos.mayoclinic.org,p]::1;
+<gombe|[https://nautil.us/topics/zoology,p]::1;
+<gomezrobles|[https://www.nationalgeographic.com/science/article/denisovan-tooth-found-in-laos-adds-new-wrinkles-to-their-story,p]::1;
+<gomonova|[https://stackoverflow.co/teams,s]::1;
+<gomer|[https://www.foxnews.com/category/entertainment/tv,p]::1;
 <gomera|[https://www.dailymail.co.uk/travel/index.html,p]::1;

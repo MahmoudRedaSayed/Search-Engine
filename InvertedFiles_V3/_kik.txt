@@ -1,2 +1,4 @@
-<kike|[https://www.marca.com/futbol/laliga-santander/athletic-osasuna-directo/2022/05/15/01_0101_20220515_174_450.html,s]::3;[https://www.marca.com/futbol/laliga-santander/athletic-osasuna-directo/2022/05/15/01_0101_20220515_174_450.html,p]::4;
-<kiko|[https://www.marca.com/tiramillas/television/2022/05/14/6280017946163f6d998b45ed.html,s]::1;[https://www.marca.com/tiramillas/television/2022/05/14/6280017946163f6d998b45ed.html,p]::1;[https://www.marca.com/tiramillas.html,h]::1;
+<kiko|[https://www.marca.com/tiramillas.html,h]::1;
+<kike|[https://www.marca.com/futbol/futbol-sala.html?intcmp=MENUPROD&s_kw=futbol-sala,h]::1;
+<kiki|[https://www.sensesofcinema.com/about/style-guide,p]::2;
+<kika|[https://sv.wordpress.org/plugins/broken-link-checker,p]::1;

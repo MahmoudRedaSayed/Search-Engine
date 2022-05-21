@@ -1,2 +1,2 @@
-<pembertontrust|[https://www.dailymail.co.uk/femail/index.html,h]::1;
-<pemberton|[https://www.dailymail.co.uk/femail/index.html,p]::1;
+<pemain|[http://www.beinsports.com/id,h]::3;
+<pemba|[https://www.nationalgeographic.com/magazine/article/an-all-black-expedition-aims-to-summit-everest,p]::1;[https://nautil.us/topics/evolution,p]::2;

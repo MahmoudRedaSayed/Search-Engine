@@ -1,1 +1,2 @@
 <ncname|[https://bbc.github.io/subtitle-guidelines,p]::2;
+<ncnr|[https://www.digikey.com/en/help/contact-us?faq=ordering,p]::1;

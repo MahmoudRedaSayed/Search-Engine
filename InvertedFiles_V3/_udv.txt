@@ -1,0 +1,2 @@
+<udvikling|[https://da.wordpress.org/plugins/broken-link-checker,h]::1;
+<udviklerloggen|[https://da.wordpress.org/plugins/broken-link-checker,p]::1;

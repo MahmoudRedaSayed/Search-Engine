@@ -1,3 +1,8 @@
-<ableys|[https://www.dailymail.co.uk/tvshowbiz/index.html,h]::1;[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://www.dailymail.co.uk/health/index.html,s]::1;
-<abley|[https://www.dailymail.co.uk/tvshowbiz/index.html,p]::1;
-<ablack|[https://support.apple.com/kb/HT203033,p]::1;
+<ablebodied|[https://www.healthline.com/health/healthy-sex/black-women-sexuality,p]::1;
+<ableist|[https://blog.archive.org/category/announcements,p]::2;
+<ablauf|[https://onlinecasino-now.de,p]::1;
+<abled|[https://www.nationalgeographic.com/travel/article/in-the-town-that-lego-built-kids-rule-for-the-day,p]::1;
+<ablation|[https://blog.nemours.org/featured-post,p]::2;
+<ablations|[https://blog.nemours.org/featured-post,p]::1;
+<abl|[https://www.aboutamazon.com/news/innovation-at-amazon/amazon-makes-historic-launch-investment-to-advance-project-kuiper,p]::1;
+<ableger|[https://casino-now.at/live-casino/holdem,p]::1;

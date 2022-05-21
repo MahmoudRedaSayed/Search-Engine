@@ -1,1 +1,2 @@
-<axon|[https://www.dailymail.co.uk/auhome/index.html,p]::1;
+<axon|[https://www.gsmarena.com/,s]::1;
+<axons|[https://nautil.us/the-doctor-will-sniff-you-now-2-11852,p]::1;

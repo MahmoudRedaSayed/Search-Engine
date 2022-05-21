@@ -1,2 +1,6 @@
+<mowery|[https://blog.archive.org/about,p]::1;
+<mower|[https://www.campdream.org/ways-to-support/our-wish-list,p]::1;[https://www.nationalgeographic.com/magazine/article/philippines-reefs-are-some-of-the-most-vibrant-but-in-peril-feature,p]::1;[https://www.dailywritingtips.com/english-grammar-101-all-you-need-to-know,p]::1;[https://www.dailywritingtips.com/11-writing-exercises,p]::1;
+<mowa|[https://kasyno-now.com,p]::2;
+<mowing|[https://www.nationalgeographic.com/environment/article/the-biggest-living-thing-on-earth-is-being-nibbled-to-death,p]::1;[https://www.dailywritingtips.com/11-writing-exercises,p]::1;
 <mow|[https://www.dailymail.co.uk/health/index.html,h]::1;
-<mowle|[https://www.dailymail.co.uk/health/index.html,p]::1;
+<mowers|[https://www.dailymail.co.uk/best-buys,h]::1;

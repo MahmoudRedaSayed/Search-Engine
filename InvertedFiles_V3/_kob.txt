@@ -1,1 +1,12 @@
-<kobayashi|[https://www.sensesofcinema.com/category/book-reviews,h]::1;
+<kobayashi|[https://www.sensesofcinema.com/category/book-reviews,h]::1;[https://www.marca.com/motor/mundial-resistencia.html?intcmp=MENUPROD&s_kw=wec,h]::6;[https://www.marca.com/motor/24-horas-le-mans.html?intcmp=MENUPROD&s_kw=24-horas-de-le-mans,h]::1;[https://www.marca.com/deportes-invierno.html?intcmp=MENUPROD&s_kw=deportes-invierno,h]::2;[https://www.sensesofcinema.com/2022/festival-reports/the-pivot-to-asia-the-34th-tokyo-international-film-festival,p]::1;
+<kobalt|[https://www.hearst.com/entertainment-syndication,p]::1;
+<kobusch|[https://www.marca.com/deportes-aventura.html?intcmp=MENUPROD&s_kw=deportes-aventura,h]::2;
+<kobozuka|[https://www.sensesofcinema.com/2021/great-directors/obayashi-nobuhiko,p]::1;
+<kobe|[https://www.sensesofcinema.com/2022/festival-reports/the-pivot-to-asia-the-34th-tokyo-international-film-festival,p]::1;[https://www.marca.com/baloncesto/nba.html?intcmp=MENUPROD&s_kw=baloncesto-nba,h]::1;[https://nautil.us/we-are-nowhere-close-to-the-limits-of-athletic-performance-2-11432,p]::1;[https://www.foxbusiness.com,h]::1;
+<kobietąale|[http://wpolityce.pl/kultura/226645-ida-jak-poklosie-pluzanski-w-filmie-to-polacy-sa-mordercami,s]::1;[http://wpolityce.pl/kultura/226645-ida-jak-poklosie-pluzanski-w-filmie-to-polacy-sa-mordercami,p]::1;
+<koberidze|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::2;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::4;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::2;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-8,p]::2;
+<koberdize|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;
+<kobold|[https://www.nationalgeographic.com/environment/article/mining-is-a-polluting-business-can-new-tech-make-it-cleaner,p]::3;
+<kobolds|[https://www.nationalgeographic.com/environment/article/mining-is-a-polluting-business-can-new-tech-make-it-cleaner,p]::1;
+<kobietyliderki|[https://blog.aboutamazon.pl,h]::1;
+<kobiety|[https://blog.aboutamazon.pl,h]::1;

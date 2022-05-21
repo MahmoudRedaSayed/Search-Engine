@@ -1,1 +1,4 @@
 <msph|[https://www.medicalnewstoday.com,p]::3;
+<msport|[https://www.marca.com/motor/dakar.html?intcmp=MENUPROD&s_kw=dakar,h]::1;
+<msp|[https://www.symplr.com/webinars,h]::1;
+<mspl|[https://www.gnu.org/licenses/license-list.html#CC0,p]::1;

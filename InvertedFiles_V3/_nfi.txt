@@ -1,0 +1,3 @@
+<nfib|[https://www.foxbusiness.com,h]::1;
+<nfid|[https://www.everydayhealth.com/flu/guide,s]::1;[https://www.everydayhealth.com/flu/guide,p]::1;
+<nfidis|[https://www.everydayhealth.com/flu/guide,p]::1;

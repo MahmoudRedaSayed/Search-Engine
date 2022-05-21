@@ -1,1 +1,7 @@
+<mcentee|[https://www.sensesofcinema.com/2022/feature-articles/promising-young-woman-and-the-cinematic-renegotiation-of-gender-in-rape-revenge,p]::1;[https://www.sensesofcinema.com/author/joy-mcentee,t]::1;[https://www.sensesofcinema.com/author/joy-mcentee,h]::2;[https://www.sensesofcinema.com/author/joy-mcentee,p]::1;[https://www.sensesofcinema.com/2021/book-reviews/time-machines-after-kubrick-a-filmmakers-legacy-edited-by-jeremi-szaniawski,p]::1;
+<mcelhaney|[https://www.sensesofcinema.com/2022/cteq/an-entertainment-fritz-langs-ministry-of-fear-1944,p]::1;
+<mcewan|[https://nautil.us/topics/physics,p]::1;
+<mcenany|[https://www.foxnews.com/politics,p]::2;[https://www.foxnews.com/media,p]::1;
+<mcenore|[https://www.foxnews.com/sports,p]::1;
+<mcevoy|[https://www.dailymail.co.uk/sport/index.html,p]::1;
 <mcewen|[https://www.everydayhealth.com/stress/guide,h]::1;

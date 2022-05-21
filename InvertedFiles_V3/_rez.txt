@@ -1,1 +1,12 @@
-<reza|[https://www.marca.com/futbol/2022/05/13/627ddbd8749dee001f58f661-directo.html,p]::1;
+<reza|[https://www.marca.com/motor/formula1/gp-austria.html?intcmp=MENUPROD&s_kw=formula-1-gp-austria,h]::1;[https://www.marca.com/motor/formula1/gp-gran-bretana.html?intcmp=MENUPROD&s_kw=formula-1-gp-gran-bretana,h]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::4;[https://www.dailywritingtips.com/english-grammar-101-all-you-need-to-know,p]::1;
+<rezando|[https://www.marca.com/motor/formula1/gp-gran-bretana.html?intcmp=MENUPROD&s_kw=formula-1-gp-gran-bretana,h]::1;
+<rezoning|[https://www.bbc.com/worklife/article/20220505-the-office-spaces-transforming-into-luxury-apartments,p]::1;
+<rezervaţia|[https://rural.rfi.ro,h]::2;
+<rezervate|[https://generatia30.rfi.ro,p]::1;
+<rezende|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;
+<rezultacie|[https://kasyno-now.com,p]::1;[https://kasyno-now.com/recenzja,p]::1;
+<rezensionen|[https://swiss-casino-now.com/casino-bewertung,s]::1;[https://swiss-casino-now.com/casino-bewertung,p]::4;[https://onlinecasino-now.de/casino-bewertung,p]::1;
+<rezension|[https://swiss-casino-now.com/casino-bewertung,p]::1;
+<rezaon|[https://www.dailywritingtips.com/english-grammar-101-all-you-need-to-know,s]::3;
+<reznicekon|[https://www.dailywritingtips.com/100-beautiful-and-ugly-words,s]::1;
+<rezzaro|[https://www.dailymail.co.uk/auhome/index.html,p]::1;

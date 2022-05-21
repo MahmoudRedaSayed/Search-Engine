@@ -1,1 +1,7 @@
-<iframe|[https://www.allianz.com,h]::2;[https://www.allianz.com,p]::4;
+<ifreceived|[https://circuitdigest.com/microcontroller-projects/arduino-spi-communication-tutorial,p]::1;
+<ifrom|[https://www.e-marchespublics.com/#acheteur,p]::1;[https://www.e-marchespublics.com/acheteur,p]::1;
+<ifrs|[https://www.icrc.org/en/faq/icrcs-funding-and-spending,p]::1;
+<ifrc|[https://www.icrc.org/en/war-and-law/contemporary-challenges-for-ihl/respect-ihl,p]::1;[https://www.icrc.org/en/who-we-are/movement,p]::1;[https://www.icrc.org/en/what-we-do/forensic-action,p]::1;
+<ifr|[https://casino-now-canada.com/online-casino-software/betsoft,p]::1;
+<iframes|[https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs,s]::1;[https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs,p]::1;[https://firefox-source-docs.mozilla.org/devtools-user/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=footer&utm_content=developers,p]::3;
+<iframe|[https://firefox-source-docs.mozilla.org/devtools-user/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=footer&utm_content=developers,p]::1;

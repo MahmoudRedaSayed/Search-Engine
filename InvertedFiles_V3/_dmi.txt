@@ -1,2 +1,13 @@
-<dmitrovic|[https://www.marca.com/futbol/laliga-santander/atletico-sevilla-directo/2022/05/15/01_0101_20220515_175_179.html,s]::1;[https://www.marca.com/futbol/laliga-santander/atletico-sevilla-directo/2022/05/15/01_0101_20220515_175_179.html,p]::2;
-<dmitry|[https://www.dailymail.co.uk/sport/index.html,s]::2;[https://www.marca.com/en/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;
+<dmitri|[https://www.marca.com/tiramillas/actualidad/2022/05/18/62845e8237ff7b0023aa7493-directo.html,s]::1;[https://www.marca.com/tiramillas/actualidad/2022/05/18/62845e8237ff7b0023aa7493-directo.html,p]::1;
+<dmitry|[https://www.marca.com/boxeo.html?intcmp=MENUPROD&s_kw=boxeo,h]::3;[https://www.bbc.co.uk/news/live/world-europe-61461805,p]::1;[https://nautil.us/the-doctor-will-sniff-you-now-2-11852,p]::1;[https://www.dailymail.co.uk/sport/index.html,h]::2;[https://www.dailymail.co.uk/sport/index.html,s]::2;[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;
+<dmitrii|[https://www.marca.com/boxeo.html?intcmp=MENUPROD&s_kw=boxeo,h]::1;
+<dmidoggett|[https://congress.gov,p]::1;
+<dmikilmer|[https://congress.gov,p]::1;
+<dmilawson|[https://congress.gov,p]::1;
+<dmilevin|[https://congress.gov,p]::1;
+<dmismith|[https://congress.gov,p]::1;
+<dmistewart|[https://congress.gov,p]::1;
+<dmitonko|[https://congress.gov,p]::1;
+<dmiportman|[https://congress.gov,p]::1;
+<dmisullivan|[https://congress.gov,p]::1;
+<dmin|[https://www.dailywritingtips.com/masters-degree-or-masters-degree,p]::2;

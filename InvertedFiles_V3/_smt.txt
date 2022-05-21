@@ -1,0 +1,2 @@
+<smtp|[https://en.wikipedia.org/wiki/Fully_qualified_domain_name,p]::1;
+<smtwitter|[https://www.nlm.nih.gov/research/training.html,p]::1;

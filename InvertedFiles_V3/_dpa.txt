@@ -1,0 +1,11 @@
+<dpa|[https://gdpr.twitter.com,p]::1;
+<dpabrady|[https://congress.gov,p]::1;
+<dpacase|[https://congress.gov,p]::1;
+<dpadelbene|[https://congress.gov,p]::1;
+<dpaduncan|[https://congress.gov,p]::1;
+<dpafallon|[https://congress.gov,p]::1;
+<dpahoyer|[https://congress.gov,p]::1;
+<dpalamborn|[https://congress.gov,p]::1;
+<dpaschakowsky|[https://congress.gov,p]::1;
+<dpawilliams|[https://congress.gov,p]::1;
+<dpacassidy|[https://congress.gov,p]::1;

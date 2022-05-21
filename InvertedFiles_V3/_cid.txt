@@ -1,3 +1,5 @@
-<cider|[https://www.dailymail.co.uk/femail/index.html,s]::1;[https://www.everydayhealth.com/type-2-diabetes/guide,h]::1;[https://www.iflscience.com/health-and-medicine,h]::1;[https://www.iflscience.com/health-and-medicine,p]::1;[https://www.everydayhealth.com/wellness/healthy-skin,h]::1;
-<cid|[https://www.marca.com/ultimas-noticias.html?intcmp=MENUDEST&s_kw=ultimas-noticias,h]::1;[https://www.marca.com/tiramillas.html,h]::1;
-<cidal|[https://www.sensesofcinema.com/special-dossiers,h]::1;
+<cid|[https://www.marca.com/juegos-olimpicos.html?intcmp=MENUPROD&s_kw=juegos-olimpicos,h]::1;
+<cidessous|[https://www.e-marchespublics.com/contact_acheteur,p]::1;[https://fr.casino-now-canada.com,p]::4;[https://fr.swiss-casino-now.com,p]::2;[https://fr.casino-now-canada.com/logiciels,p]::1;
+<cider|[https://blog.archive.org/about,p]::2;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;[https://www.dailymail.co.uk/femail/index.html,s]::1;[https://www.everydayhealth.com/type-2-diabetes/guide,h]::1;[https://www.everydayhealth.com/wellness/healthy-skin,h]::1;[https://www.iflscience.com/health-and-medicine,h]::1;[https://www.iflscience.com/health-and-medicine,p]::1;
+<cidade|[https://www.outbrain.com/legal,p]::1;
+<cidessus|[https://fr.swiss-casino-now.com,p]::1;[https://fr.swiss-casino-now.com/revue,p]::1;[https://fr.swiss-casino-now.com/revue/playamo,p]::1;

@@ -1,3 +1,12 @@
-<egoísta|[https://www.marca.com/futbol/laliga-santander/athletic-osasuna-directo/2022/05/15/01_0101_20220515_174_450.html,p]::1;
-<egocentric|[https://www.dailymail.co.uk/auhome/index.html,p]::1;
-<ego|[https://www.marca.com/claro-mx/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;
+<ego|[https://www.sensesofcinema.com/2022/feature-articles/the-night-shift-woman-as-outlaw-hero-in-the-man-i-love,p]::1;[https://www.sensesofcinema.com/2022/feature-articles/promising-young-woman-and-the-cinematic-renegotiation-of-gender-in-rape-revenge,p]::1;[https://www.sensesofcinema.com/2006/great-directors/bolognini,p]::1;[https://www.sensesofcinema.com/2022/book-reviews/the-depths-of-empiricism-werner-herzog-ecstatic-truth-and-other-useless-conquests-by-kristoffer-hegnsvad,p]::1;[https://www.sensesofcinema.com/2022/feature-articles/loss-and-absence-in-still-life,p]::1;[https://nautil.us/topics/astronomy,p]::1;[https://www.dailywritingtips.com/latin-words-and-expressions-all-you-need-to-know,p]::1;[https://www.dailywritingtips.com/7-types-of-narrative-conflict,p]::1;
+<egoyan|[https://www.sensesofcinema.com/author/andrew-lynch-and-alexa-scarlata,h]::1;
+<egoitza|[https://www.diariomedico.com/farmacia.html,p]::1;[https://www.diariomedico.com,p]::2;
+<egofueled|[https://www.sensesofcinema.com/2022/great-directors/tahimik-kidlat,p]::1;
+<egotistical|[https://www.sensesofcinema.com/2022/festival-reports/looking-for-love-at-hitchcon-2021,p]::1;
+<egos|[https://www.sensesofcinema.com/2022/festival-reports/looking-for-love-at-hitchcon-2021,p]::1;[https://www.nytimes.com/2022/05/09/movies/elizabeth-olsen-doctor-strange-multiverse-of-madness.html,p]::1;[https://www.dailywritingtips.com/what-is-irony-with-examples,p]::1;
+<egoloss|[https://www.sensesofcinema.com/2022/feature-articles/loss-and-absence-in-still-life,p]::1;
+<egoistical|[https://www.sensesofcinema.com/2022/feature-articles/loss-and-absence-in-still-life,p]::1;
+<egoyans|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;
+<egon|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;
+<egomaniacal|[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;
+<egosurfing|[https://www.dailywritingtips.com/greek-words,p]::1;

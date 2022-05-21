@@ -1,1 +1,5 @@
 <amroliwala|[https://www.bbc.co.uk/schedules/p00fzl9m,p]::4;
+<amrc|[https://blog.archive.org/category/image-archive,p]::11;[https://blog.archive.org/category/movie-archive,p]::11;
+<amro|[https://cloud.google.com/solutions/open-banking-apix,p]::1;
+<amrus|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::2;
+<amrit|[https://www.nationalgeographic.com/magazine/article/an-all-black-expedition-aims-to-summit-everest,p]::1;

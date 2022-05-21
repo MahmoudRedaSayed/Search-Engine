@@ -1,1 +1,4 @@
-<kukua|[https://www.dailymail.co.uk/femail/index.html,p]::1;
+<kuklin|[https://blog.archive.org/category/announcements,p]::1;[https://blog.archive.org/category/open-library,p]::1;
+<kukarkin|[https://blog.archive.org/category/event/past-event,s]::1;[https://blog.archive.org/category/event/past-event,p]::3;
+<kuksi|[https://www.nationalgeographic.com/travel/article/beyond-chinatowns-these-places-explore-asian-americans-deep-roots-in-united-states,p]::1;
+<kukusha|[https://www.dailywritingtips.com/34-writing-tips-that-will-make-you-a-better-writer,s]::1;[https://www.dailywritingtips.com/34-writing-tips-that-will-make-you-a-better-writer,p]::1;

@@ -1,2 +1,4 @@
-<kocher|[https://www.dailymail.co.uk/auhome/index.html,s]::1;
-<kochava|[https://privacy.twitter.com/subprocessors,p]::1;
+<kock|[https://www.skysports.com/,h]::1;
+<kocotv|[https://www.hearst.com/broadcasting,p]::1;
+<kochava|[https://privacy.twitter.com/subprocessors.html,p]::1;
+<koch|[https://nautil.us/topics/neuroscience,h]::3;[https://nautil.us/topics/neuroscience,p]::2;[https://onlinelearning.hms.harvard.edu/hmx/about,p]::1;

@@ -1,0 +1,4 @@
+<oward|[https://www.marca.com/motor/indycar.html?intcmp=MENUPROD&s_kw=indycar,h]::2;
+<owari|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;
+<owatonna|[https://www.mayoclinichealthsystem.org/covid19,h]::1;
+<owatverot|[https://www.nationalgeographic.com/pages/article/masthead,p]::1;

@@ -1,2 +1,1 @@
-<gcses|[https://www.dailymail.co.uk/news/index.html,h]::1;[https://www.dailymail.co.uk/news/index.html,p]::1;
 <gcs|[https://stackoverflow.com/questions/tagged/google-oauth,h]::1;

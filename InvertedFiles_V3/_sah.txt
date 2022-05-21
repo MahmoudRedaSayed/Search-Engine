@@ -1,2 +1,8 @@
-<sahel|[https://www.france24.com,p]::2;
-<sahinoglu|[http://www.enable-javascript.com,p]::1;[http://www.enable-javascript.com/hr,p]::1;
+<sahel|[https://www.rfi.fr,p]::3;
+<sahara|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;[https://nautil.us/topics/environment,p]::2;[https://www.dailymail.co.uk/auhome/index.html,s]::1;[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;
+<sahlmadsen|[https://www.nationalgeographic.com/travel/article/in-the-town-that-lego-built-kids-rule-for-the-day,p]::4;
+<sah|[https://nautil.us/topics/math,p]::1;
+<sahong|[https://www.nationalgeographic.com/magazine/article/13-foot-long-fish-caught-in-mekong-river-shows-some-megafish-are-thriving,p]::2;
+<sahip|[http://tr.talkenglish.com,t]::1;
+<sahaon|[https://www.dailywritingtips.com/creative-writing-101,s]::1;
+<saharan|[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;

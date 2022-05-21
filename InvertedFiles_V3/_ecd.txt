@@ -1,1 +1,2 @@
 <ecd|[https://bbc.github.io/subtitle-guidelines,p]::1;
+<ecdysiastic|[https://www.dailywritingtips.com/20-types-and-forms-of-humor,p]::2;

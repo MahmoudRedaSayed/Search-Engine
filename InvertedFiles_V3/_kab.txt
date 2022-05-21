@@ -1,1 +1,8 @@
-<kabaeva|[https://www.marca.com/en/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;[https://us.marca.com/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;
+<kabal|[https://www.sensesofcinema.com/2022/feature-articles/streaming-paracinema-charles-band-full-moon-features-and-auteurism-on-third-tier-svod-services,p]::3;
+<kabals|[https://www.sensesofcinema.com/2022/feature-articles/streaming-paracinema-charles-band-full-moon-features-and-auteurism-on-third-tier-svod-services,p]::1;
+<kabar|[http://www.beinsports.com/id,h]::3;[http://www.beinsports.com/id,p]::2;
+<kabul|[https://blog.archive.org/category/image-archive,p]::4;[https://blog.archive.org/category/movie-archive,p]::4;[https://www.foxnews.com/category/politics/foreign-policy,p]::1;[http://www.emirates.es,p]::1;[https://www.emirates.com/uk/english,p]::1;[https://www.emirates.com/english,p]::1;
+<kabashis|[https://www.sensesofcinema.com/2022/festival-reports/afi-fest-afm-the-perils-of-online,p]::1;
+<kabeya|[https://appafrique.rfi.fr,p]::1;
+<kaback|[https://nautil.us/topics/genetics,p]::2;
+<kabuls|[https://www.foxnews.com/category/tech/technologies/drones,p]::1;

@@ -1,0 +1,13 @@
+<wypłaty|[https://kasyno-now.com,h]::2;[https://kasyno-now.com,p]::10;[https://kasyno-now.com/recenzja,p]::5;
+<wypłatami|[https://kasyno-now.com,s]::1;[https://kasyno-now.com,p]::1;
+<wyposażone|[https://kasyno-now.com,s]::1;[https://kasyno-now.com,p]::1;
+<wypłata|[https://kasyno-now.com,p]::5;[https://kasyno-now.com/recenzja,p]::5;
+<wypłacające|[https://kasyno-now.com,p]::1;
+<wypłatach|[https://kasyno-now.com,p]::1;
+<wypadku|[https://kasyno-now.com,p]::3;
+<wypłat|[https://kasyno-now.com,p]::1;
+<wyposaża|[https://kasyno-now.com,p]::1;
+<wypadkach|[https://kasyno-now.com,p]::1;
+<wyposażony|[https://kasyno-now.com,p]::1;
+<wypłacania|[https://kasyno-now.com,p]::1;
+<wypłacają|[https://kasyno-now.com,p]::1;

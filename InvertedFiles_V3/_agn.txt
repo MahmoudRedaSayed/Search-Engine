@@ -1,1 +1,7 @@
-<agnostic|[https://www.bbc.co.uk/accessibility/forproducts/guides/mobile,p]::1;[https://www.bbc.co.uk/gel/guidelines/how-to-design-accessible-games,p]::1;[https://bbc.github.io/gel,p]::1;
+<agnostic|[https://www.bbc.co.uk/accessibility/forproducts/guides/mobile,p]::1;[https://www.bbc.co.uk/gel/guidelines/how-to-design-accessible-games,p]::1;[https://blog.archive.org/category/emulation,p]::1;[https://blog.archive.org/category/software-archive,p]::1;[https://cloud.google.com/solutions/apigee-health-apix,p]::1;[https://www.dailywritingtips.com/vocabulary-test-1,p]::1;
+<agnès|[https://www.sensesofcinema.com/author/andrew-northrop,h]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::2;
+<agnieszka|[https://www.sensesofcinema.com/2015/feature-articles/nationalism-on-and-off-the-screen,p]::1;[https://meded.hms.harvard.edu/teaching-awards,s]::1;[https://meded.hms.harvard.edu/teaching-awards,p]::1;
+<agnate|[https://www.sensesofcinema.com/2015/michael-bay-dossier/michael-bay-the-island,p]::4;
+<agnates|[https://www.sensesofcinema.com/2015/michael-bay-dossier/michael-bay-the-island,p]::10;
+<agnatesponsor|[https://www.sensesofcinema.com/2015/michael-bay-dossier/michael-bay-the-island,p]::1;
+<agna|[https://nautil.us/topics/astronomy,p]::1;

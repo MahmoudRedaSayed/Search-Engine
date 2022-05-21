@@ -1,0 +1,1 @@
+<nokia|[https://cloud.google.com/solutions/telecommunications,p]::1;

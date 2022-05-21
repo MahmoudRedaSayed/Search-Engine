@@ -1,0 +1,3 @@
+<wapttv|[https://www.hearst.com/making-a-difference,p]::4;[https://www.hearst.com/broadcasting,p]::4;
+<wap|[https://www.hearst.it/termini-e-condizioni-delle-app,p]::1;
+<wapo|[https://www.foxnews.com/media,h]::1;

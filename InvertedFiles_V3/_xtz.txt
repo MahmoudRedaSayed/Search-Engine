@@ -1,0 +1,1 @@
+<xtz|[https://tezos.stackexchange.com,h]::1;[https://tezos.com,h]::1;[https://tezos.com,p]::2;[https://www.bankfrick.li/en/news-and-insights/bank-frick-expands-its-range-crypto-assets-and-now-offers-trading-and-custodian-services-cardano,p]::2;

@@ -1,1 +1,4 @@
-<eueea|[https://www.sky.com/shop/mobile/activation,p]::1;
+<euer|[https://swiss-casino-now.com/casino-bewertung,p]::1;
+<eueuropean|[http://www.nielsen.com/digitalprivacy,p]::1;
+<eueea|[http://www.nielsen.com/digitalprivacy,p]::2;[https://www.sky.com/shop/mobile/activation,p]::1;
+<eueu|[https://pages.ebay.com/help/policies/privacy-policy.html,p]::1;

@@ -1,2 +1,8 @@
-<doha|[https://www.marca.com/futbol/liga-francesa/2022/05/15/6280d25f46163f24128b459b.html,p]::1;[https://olympics.com/fr,h]::1;[https://olympics.com/it,h]::2;[https://olympics.com/pt,h]::1;[https://olympics.com/es,h]::1;[http://www.archive-it.org,p]::1;
-<doherty|[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://www.dailymail.co.uk/auhome/index.html,s]::1;
+<doha|[https://www.marca.com/polideportivo.html?intcmp=MENUPROD&s_kw=polideportivo,h]::1;[https://www.marca.com/atletismo.html?intcmp=MENUPROD&s_kw=atletismo,h]::2;[https://www.marca.com/otros-deportes.html?intcmp=MENUPROD&s_kw=otros-deportes,h]::1;[https://www.marca.com/padel.html?intcmp=MENUPROD&s_kw=padel,h]::3;[https://www.marca.com/futbol/real-madrid/2022/05/16/62821f62268e3e1b268b45c1.html,p]::1;[http://www.beinsports.com/france,p]::1;[https://mondoblog.org,p]::1;
+<dohtoor|[https://nautil.us/topics/genetics,p]::1;
+<dohbentz|[https://congress.gov,p]::1;
+<dohbrownley|[https://congress.gov,p]::1;
+<dohkatko|[https://congress.gov,p]::1;
+<dohsablan|[https://congress.gov,p]::1;
+<dohburr|[https://congress.gov,p]::1;
+<doh|[https://www.dailywritingtips.com/100-mostly-small-but-expressive-interjections,s]::1;[https://www.dailywritingtips.com/100-mostly-small-but-expressive-interjections,p]::1;

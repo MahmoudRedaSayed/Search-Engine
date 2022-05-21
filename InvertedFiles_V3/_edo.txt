@@ -1,1 +1,4 @@
-<edo|[https://www.dailymail.co.uk/femail/index.html,h]::1;[https://www.dailymail.co.uk/femail/index.html,p]::1;
+<edoumou|[https://www.nationalgeographic.com/environment/article/these-artists-transform-garbage-into-garb-to-take-a-stand,p]::1;
+<edox|[https://www.ebay.com/globaldeals/featured/clothing-accesories,h]::1;
+<edon|[https://www.dailywritingtips.com/the-yiddish-handbook-40-words-you-should-know,s]::2;
+<edo|[https://tezos.com,h]::1;

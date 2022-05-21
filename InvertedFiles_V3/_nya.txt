@@ -1,3 +1,4 @@
-<nyarc|[https://archive.org/about/bios.php,p]::1;[http://www.archive-it.org,p]::4;
-<nyarcs|[http://www.archive-it.org,p]::1;
-<nya|[https://id.wiktionary.org/wiki/antarmuka,p]::1;
+<nyarc|[https://archive.org/about/bios.php,p]::1;[https://blog.archive.org/category/announcements,p]::1;[https://blog.archive.org/category/archive-it,p]::5;[https://blog.archive.org/category/web-data-services,p]::4;
+<nyarcs|[https://blog.archive.org/category/archive-it,p]::1;[https://blog.archive.org/category/web-data-services,p]::1;
+<nya|[https://onlinecasino-now.se,h]::1;[https://onlinecasino-now.se,s]::2;[https://onlinecasino-now.se,p]::11;
+<nyavor|[https://onlinelearning.hms.harvard.edu/hmx/companies,p]::1;

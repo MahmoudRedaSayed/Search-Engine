@@ -1,0 +1,1 @@
+<tplink|[https://developers.googleblog.com/2019/07/developer-preview-of-local-home-sdk.html,p]::1;[https://developers.googleblog.com/2019/05/Actions-on-Google-at-IO-2019.html,p]::1;

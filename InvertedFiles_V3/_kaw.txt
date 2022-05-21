@@ -1,1 +1,9 @@
-<kawasaki|[https://www.marca.com/coches-y-motos.html?intcmp=MENUPROD&s_kw=marca-coches,h]::1;
+<kawasaki|[https://www.marca.com/coches-y-motos.html?intcmp=MENUPROD&s_kw=marca-coches,h]::1;[https://www.marca.com/coches-y-motos/motos.html?intcmp=MENUPROD&s_kw=motos,h]::2;[https://www.marca.com/coches-y-motos/coches.html?intcmp=MENUPROD&s_kw=coches,h]::1;[https://www.marca.com/coches-y-motos/trafico.html?intcmp=MENUPROD&s_kw=trafico,h]::1;
+<kawaii|[https://www.sensesofcinema.com/2021/great-directors/obayashi-nobuhiko,p]::1;[https://icons8.com/free-animated-icons,p]::1;
+<kawamura|[https://www.sensesofcinema.com/2022/festival-reports/the-pivot-to-asia-the-34th-tokyo-international-film-festival,p]::2;
+<kawaita|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;
+<kawanakajima|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::2;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::2;
+<kawashima|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::2;
+<kawa|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;
+<kawainui|[https://www.nationalgeographic.com/history/article/woman-navigated-3000-mile-pacific-voyage-without-maps-technology,p]::1;
+<kaweek|[https://www.dailymail.co.uk/travel/index.html,h]::1;

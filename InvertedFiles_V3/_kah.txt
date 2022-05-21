@@ -1,2 +1,12 @@
-<kahle|[https://blog.archive.org,p]::3;[https://archive.org/about/bios.php,p]::4;
-<kah|[https://id.wiktionary.org/wiki/antarmuka,p]::1;
+<kahle|[https://blog.archive.org,p]::3;[https://archive.org/about/bios.php,p]::4;[https://anniversary.archive.org,p]::1;[https://blog.archive.org/category/announcements,p]::6;[https://blog.archive.org/category/event,p]::4;[https://blog.archive.org/author/vinay,p]::1;[https://blog.archive.org/category/education-archive,p]::4;[https://blog.archive.org/category/movie-archive,p]::1;[https://blog.archive.org/category/newsletter,p]::6;[https://blog.archive.org/category/open-library,p]::1;[https://blog.archive.org/category/event/past-event,s]::1;[https://blog.archive.org/category/event/past-event,p]::6;[https://blog.archive.org/category/television-archive,p]::3;[https://blog.archive.org/category/web-data-services,p]::1;[https://blog.archive.org/2013/10/25/fixing-broken-links,p]::1;
+<kahn|[https://www.healthline.com/health/healthy-sex/second-queer-adolescence,p]::5;[https://www.sensesofcinema.com/2022/great-directors/curtiz-michael,p]::1;[https://meded.hms.harvard.edu/teaching-awards,p]::1;
+<kahles|[https://blog.archive.org/category/education-archive,p]::1;[https://blog.archive.org/category/open-library,p]::1;
+<kahki|[https://www.sensesofcinema.com/2022/festival-reports/afi-fest-afm-the-perils-of-online,p]::1;
+<kahini|[https://www.sensesofcinema.com/2021/book-reviews/foraging-in-a-transforming-mediascape-cinemas-dark-and-slow-in-digital-india-by-lalitha-gopalan,p]::2;
+<kahden|[https://fi.wordpress.org/plugins/broken-link-checker,p]::1;
+<kahnawakegc|[https://casino-now-canada.com,p]::1;
+<kahnawake|[https://casino-now-canada.com,p]::1;[https://fr.casino-now-canada.com,p]::1;[https://www.gamingcommission.ca,t]::1;[https://www.gamingcommission.ca,p]::7;[https://fr.casino-now-canada.com/river-belle,p]::1;[https://www.playground.ca,h]::2;[https://www.playground.ca,p]::1;[https://casino-now-canada.com/online-slots,p]::1;
+<kahurangi|[https://www.nationalgeographic.com/travel/article/heres-why-hut-hiking-is-the-best-way-to-see-new-zealand,p]::1;
+<kahoano|[https://www.nationalgeographic.com/travel/article/whats-crack-seed-one-of-hawaiis-favorite-snacks,p]::1;
+<kahoot|[https://www.edtechdigest.com,h]::2;[https://edtechdigest.com/category/cool-tools,h]::1;
+<kahanamoku|[http://www.weta.org,p]::1;

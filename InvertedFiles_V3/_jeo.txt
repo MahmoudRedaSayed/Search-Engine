@@ -1,1 +1,6 @@
-<jeopardy|[https://archive.org/about/bios.php,p]::1;
+<jeopardy|[https://www.bbc.com/,p]::1;[https://www.bbc.co.uk/news,p]::1;[https://archive.org/about/bios.php,p]::1;[https://www.healthline.com/program/moving-forward-with-advanced-copd,p]::1;[https://www.symplr.com/compliance-quality-safety/compliance,p]::1;[https://www.nationalgeographic.com/history/article/fleeing-violence-in-venezuela-women-migrants-face-callous-indifference,p]::1;[https://m.imdb.com/chart/starmeter/?ref_=nv_cel_brn,p]::1;
+<jeopardized|[https://www.icrc.org/en/where-we-work/middle-east/iraq,p]::1;
+<jeo|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;
+<jeopardizing|[https://www.nrdc.org/stories/water-pollution-everything-you-need-know,p]::1;
+<jeopardizes|[https://www.nrdc.org/stories/water-pollution-everything-you-need-know,p]::1;
+<jeon|[https://coinquora.com/tezos-joins-bitski-to-offer-red-bull-guest-house-keys-nft-collection,p]::1;

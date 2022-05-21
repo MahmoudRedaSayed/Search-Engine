@@ -1,1 +1,5 @@
-<foam|[https://www.iflscience.com/environment,h]::1;[https://www.healthline.com/fitness,p]::1;
+<foa|[https://english.ahram.org.eg/,p]::1;
+<foam|[https://www.zagrosrobotics.com/shop/custom.aspx?recid=69,p]::1;[https://www.healthline.com/fitness,p]::1;[https://www.sensesofcinema.com/2006/great-directors/carax,p]::1;[https://www.nationalgeographic.com/environment/article/these-artists-transform-garbage-into-garb-to-take-a-stand,p]::1;[https://www.nrdc.org/stories/water-pollution-everything-you-need-know,p]::1;[https://nautil.us/ebook,p]::1;[https://blogs.loc.gov/copyright,p]::1;[https://www.iflscience.com/environment,h]::1;
+<foamy|[https://www.britannica.com/reviews/espresso-machines,p]::1;[https://www.nrdc.org/stories/water-pollution-everything-you-need-know,p]::1;
+<foals|[https://nautil.us/topics/neuroscience,p]::1;
+<foaming|[https://www.britannica.com/reviews/natural-cleaning-products,p]::1;[https://www.dailywritingtips.com/75-synonyms-for-angry,s]::1;[https://www.dailywritingtips.com/75-synonyms-for-angry,p]::3;

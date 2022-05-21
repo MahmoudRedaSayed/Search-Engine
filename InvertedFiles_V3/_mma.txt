@@ -1,0 +1,2 @@
+<mma|[https://about.twitter.com/en/who-we-are/our-company.html,p]::1;[https://www.marca.com/mma.html?intcmp=MENUPROD&s_kw=mma,t]::1;[https://www.marca.com/mma.html?intcmp=MENUPROD&s_kw=mma,h]::7;[https://www.marca.com/mma.html?intcmp=MENUPROD&s_kw=mma,p]::2;[https://www.marca.com/combates-ufc.html?intcmp=MENUPROD&s_kw=UFC,h]::3;
+<mmastyle|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;

@@ -1,0 +1,4 @@
+<fhir|[https://cloud.google.com/solutions/healthcare-life-sciences,p]::2;[https://cloud.google.com/solutions/apis-and-applications,p]::2;[https://cloud.google.com/healthcare-api,p]::10;[https://cloud.google.com/apigee,p]::1;[https://cloud.google.com/solutions/apigee-health-apix,h]::1;
+<fhir®|[https://cloud.google.com/healthcare-api,p]::3;
+<fhirserver|[https://cloud.google.com/solutions/apigee-health-apix,p]::1;
+<fhirready|[https://cloud.google.com/solutions/apigee-health-apix,p]::1;

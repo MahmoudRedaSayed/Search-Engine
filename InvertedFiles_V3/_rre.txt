@@ -1,0 +1,3 @@
+<rredditrequest|[https://www.reddit.com/r/ModSupport,p]::1;
+<rredditcom|[https://www.reddit.com/r/ModSupport,p]::1;
+<rredesignhelp|[https://www.reddit.com/r/ModSupport,p]::1;

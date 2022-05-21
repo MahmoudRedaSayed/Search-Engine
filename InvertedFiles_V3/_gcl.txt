@@ -1,1 +1,2 @@
+<gcloud|[https://cloud.google.com/speech-to-text,p]::1;[https://cloud.google.com/compute/docs/nodes/sole-tenant-nodes,p]::1;[https://cloud.google.com/recommender,p]::1;[https://cloud.google.com/products/tools,p]::2;[https://cloud.google.com/deployment-manager/docs,p]::1;[https://cloud.google.com/tasks,p]::1;
 <gcl|[https://policies.google.com/technologies/cookies?en_US=en,p]::2;

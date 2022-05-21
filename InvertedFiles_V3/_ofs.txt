@@ -1,4 +1,9 @@
+<ofsales|[https://www.linkedin.com/legal/privacy-policy,p]::1;
+<ofsecurity|[https://www.apple.com/ios/app-store,p]::1;
+<ofspace|[https://blog.archive.org/category/archive-version-2,p]::1;
+<ofstring|[https://nautil.us/topics/physics,p]::1;
+<ofsolanaceaeplants|[https://nautil.us/new-veggies-for-a-warming-planet-2-11780,p]::1;
+<ofstudent|[https://meded.hms.harvard.edu/md-program-landing,p]::1;
+<ofsexual|[https://www.dailymail.co.uk/ushome/index.html,p]::1;
 <ofsymptoms|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;
-<ofs|[https://www.tutorialspoint.com/what-is-disinvestment-in-divestitures,s]::1;[https://www.tutorialspoint.com/what-is-disinvestment-in-divestitures,p]::1;
-<ofsuccess|[https://www.fool.com/mms/mark/sa-earlybird?utm_source=cnnmoney&utm_medium=contentmarketing&utm_campaign=sar-earlybird-oct2020&paid=8969&waid=8969&aid=8969&psource=esacnnwdg0210062&source=esacnnwdg0210062&wsource=esacnnwdg0210062,p]::1;
 <ofstdsoccur|[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::1;

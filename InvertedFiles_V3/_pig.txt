@@ -1,3 +1,15 @@
-<pig|[https://www.bbc.com/,h]::1;
-<pigs|[https://www.dailymail.co.uk/health/index.html,h]::2;[https://www.dailymail.co.uk/health/index.html,p]::1;[https://www.dailymail.co.uk/travel/index.html,h]::1;
+<pig|[https://www.bbc.com/,h]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::3;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;[https://www.kizphonics.com/phonics-program/kindergarten-level-2/worksheets,s]::1;[https://www.kizphonics.com/phonics-program/kindergarten-level-2/listening,s]::1;[https://www.dailywritingtips.com/the-yiddish-handbook-40-words-you-should-know,p]::1;[https://www.foxnews.com/science,p]::2;[https://www.foxnews.com/category/health/medical-research,p]::2;[https://www.dailywritingtips.com/types-of-rhyme,p]::1;[https://www.kizphonics.com/materials/worksheets,p]::1;
+<piggish|[https://www.sensesofcinema.com/2021/great-directors/obayashi-nobuhiko,p]::1;
+<piggy|[https://www.sensesofcinema.com/author/hal-young,h]::1;[https://icons8.com/free-animated-icons,p]::1;
+<pigeot|[https://www.sensesofcinema.com/2001/festival-reports/stkff_jake,p]::1;
+<pigs|[https://www.sensesofcinema.com/2022/book-reviews/the-depths-of-empiricism-werner-herzog-ecstatic-truth-and-other-useless-conquests-by-kristoffer-hegnsvad,p]::4;[https://www.sensesofcinema.com/2015/feature-articles/notes-on-bruno-dumonts-ptit-quinquin-or-something-is-rotten-in-the-north-of-france,p]::2;[https://nautil.us/topics/philosophy,p]::1;[https://www.nationalgeographic.com/science/article/denisovan-tooth-found-in-laos-adds-new-wrinkles-to-their-story,p]::1;[https://www.dailywritingtips.com/10-rules-for-writing-numbers-and-numerals,p]::2;[https://www.dailymail.co.uk/health/index.html,h]::1;[https://www.dailymail.co.uk/health/index.html,p]::1;[https://www.dailymail.co.uk/travel/index.html,h]::1;
+<pigeons|[https://www.bbc.co.uk/news/world-europe-61480988,p]::1;[https://nautil.us/topics/paleontology,p]::1;[https://nautil.us/topics/zoology,h]::1;
+<pigments|[https://www.sensesofcinema.com/2022/feature-articles/the-cry-cinema-sentiment-minnelli,p]::1;
+<piggishly|[https://www.sensesofcinema.com/2022/feature-articles/the-cry-cinema-sentiment-minnelli,p]::1;
+<pigmichael|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;
+<piggot|[https://www.nationalgeographic.com/travel/article/heres-why-hut-hiking-is-the-best-way-to-see-new-zealand,p]::3;
+<pigeon|[https://www.nationalgeographic.com/travel/article/paddling-minnesota-ancient-superhighway-border-route,p]::2;[https://nautil.us/topics/genetics,h]::1;[https://nautil.us/topics/genetics,p]::2;[https://nautil.us/topics/psychology,p]::1;
+<pigment|[https://nautil.us/topics/paleontology,p]::1;[https://www.nationalgeographic.com/magazine/article/race-twins-black-white-biggs,p]::1;[https://www.nationalgeographic.com/magazine/article/race-genetics-science-africa,p]::1;
+<pigmentation|[https://nautil.us/how-does-anyone-stay-healthy-in-a-world-full-of-germs-11795,p]::1;[https://www.nationalgeographic.com/magazine/article/race-genetics-science-africa,p]::2;
 <piggybank|[https://www.sky.com/shop/mobile,p]::1;[https://www.sky.com/shop/mobile/tablets,p]::1;[https://www.sky.com/shop/mobile/plans,p]::1;[https://www.sky.com/shop/mobile/activation,p]::4;
+<piggybacking|[https://blog.nomadic-labs.com/announcing-granada.html,p]::1;

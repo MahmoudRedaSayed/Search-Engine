@@ -1,3 +1,7 @@
-<koundé|[https://www.marca.com/futbol/laliga-santander/atletico-sevilla-directo/2022/05/15/01_0101_20220515_175_179.html,s]::4;[https://www.marca.com/futbol/laliga-santander/atletico-sevilla-directo/2022/05/15/01_0101_20220515_175_179.html,p]::6;[https://www.marca.com/futbol/primera-division/2022/05/15/6280d88e37ff7b0023a23044-directo.html,s]::1;[https://www.marca.com/futbol/primera-division/2022/05/15/6280d88e37ff7b0023a23044-directo.html,p]::1;
-<kourtney|[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::2;[https://www.dailymail.co.uk/auhome/index.html,h]::1;[https://www.dailymail.co.uk/auhome/index.html,s]::2;[https://www.dailymail.co.uk/auhome/index.html,p]::1;[https://www.marca.com/en/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;[https://www.dailymail.co.uk/health/index.html,s]::1;[https://www.dailymail.co.uk/video/index.html,p]::2;[https://www.marca.com/tiramillas.html,h]::1;
-<kourtneys|[https://www.dailymail.co.uk/auhome/index.html,s]::1;
+<kouyate|[https://www.skysports.com/,h]::1;[https://www.dailymail.co.uk/sport/index.html,h]::1;[https://www.dailymail.co.uk/sport/index.html,p]::1;
+<koundé|[http://www.beinsports.com/france,h]::3;
+<kouame|[https://appafrique.rfi.fr,h]::2;[https://appafrique.rfi.fr,p]::2;
+<kouma|[https://appafrique.rfi.fr,p]::1;
+<koulakov|[https://nautil.us/the-doctor-will-sniff-you-now-2-11852,p]::14;
+<kourtney|[https://www.dailymail.co.uk/ushome/index.html,s]::1;[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://www.dailymail.co.uk/auhome/index.html,s]::1;[https://www.dailymail.co.uk/video/index.html,p]::1;
+<kounde|[https://www.dailymail.co.uk/sport/index.html,h]::1;[https://www.dailymail.co.uk/sport/index.html,p]::1;

@@ -1,0 +1,2 @@
+<mta|[https://www.diariomedico.com,h]::2;[https://www.dailymail.co.uk/ushome/index.html,h]::1;
+<mtamoney|[https://www.dailymail.co.uk/ushome/index.html,h]::1;

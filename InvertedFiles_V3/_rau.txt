@@ -1,2 +1,12 @@
-<raucous|[https://www.dailymail.co.uk/ushome/index.html,p]::1;[https://www.dailymail.co.uk/sport/index.html,s]::1;[https://www.dailymail.co.uk/auhome/index.html,p]::1;
-<rautatieyhteys|[https://fi.wiktionary.org/wiki/yhteys,p]::1;
+<rauljr|[https://www.marca.com/futbol/real-madrid/2022/05/18/6284cde8ca47411b708b4585.html,p]::1;[https://www.marca.com/futbol/liga-francesa/2022/05/15/6281684a268e3e7e278b4574.html,p]::1;
+<raucous|[https://www.sensesofcinema.com/2022/feature-articles/smooth-digital-reveries-on-proto-vaporwave-and-the-flying-luna-clipper,p]::1;[https://www.sensesofcinema.com/2022/great-directors/curtiz-michael,p]::1;[https://www.dailymail.co.uk/sport/index.html,s]::1;
+<raunchy|[https://www.sensesofcinema.com/2006/great-directors/bolognini,p]::1;[https://nautil.us/topics/psychology,p]::1;
+<raubicheck|[https://www.sensesofcinema.com/2022/festival-reports/looking-for-love-at-hitchcon-2021,p]::6;
+<raubichecks|[https://www.sensesofcinema.com/2022/festival-reports/looking-for-love-at-hitchcon-2021,p]::1;
+<raul|[https://www.sensesofcinema.com/2021/book-reviews/rhythm-and-light-poetic-cinema-and-the-spirit-of-the-gift-in-the-films-of-pabst-parajanov-kubrick-and-ruiz-by-laleen-jayamanne,p]::1;[https://congress.gov,p]::1;
+<rautonen|[https://nautil.us/topics/evolution,p]::1;
+<raus|[https://casino-now.at/casino-bewertung,p]::1;
+<raum|[https://casino-now.at/casino-software,p]::1;
+<raullugoon|[https://www.dailywritingtips.com/10-rules-for-writing-numbers-and-numerals,s]::1;
+<raupachon|[https://www.dailywritingtips.com/34-writing-tips-that-will-make-you-a-better-writer,s]::1;
+<rauh|[https://www.foxnews.com/category/health/mental-health,p]::1;

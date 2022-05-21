@@ -1,3 +1,13 @@
-<dabrowski|[https://www.marca.com/claro-mx/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;
+<daba|[https://www.marca.com/motor/motogp/2022/05/18/6283770aca474138528b45cf.html,p]::1;[https://www.marca.com/natacion.html?intcmp=MENUPROD&s_kw=natacion,h]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/12/627c1ea0e2704e25a88b45e5.html,p]::1;
+<dabi|[https://www.marca.com/motor/formula1/gp-bahrein.html?intcmp=MENUPROD&s_kw=formula-1-gp-bahrein,h]::1;[https://www.marca.com/motor/formula1/gp-abu-dhabi.html?intcmp=MENUPROD&s_kw=formula-1-gp-abu-dhabi,h]::6;[https://www.marca.com/motor/rallies.html?intcmp=MENUPROD&s_kw=rallies,h]::2;
+<daban|[https://www.marca.com/motor/formula1/gp-emilia-romagna.html?intcmp=MENUPROD&s_kw=formula-1-gp-emilia-romagna,h]::1;
+<dabsence|[https://www.e-convocations.com,p]::1;
+<dabonnement|[https://www.reforestaction.com/dematis,p]::1;
+<dabord|[http://www.fondation-alliancefr.org,p]::1;[https://fr.swiss-casino-now.com,p]::1;[https://fr.casino-now-canada.com/logiciels/microgaming,p]::2;[https://fr.casino-now-canada.com/revue,p]::2;[https://fr.casino-now-canada.com/logiciels,p]::1;
+<dabbled|[https://profiles.wordpress.org/managewp,p]::1;
+<dabei|[https://www.outbrain.com/legal,p]::1;[https://onlinecasino-now.de,p]::13;[https://swiss-casino-now.com/casino-bewertung,p]::1;[https://casino-now.at/casino-bewertung,p]::4;[https://onlinecasino-now.de/casino-bewertung,p]::2;[https://onlinecasino-now.de/casino-bewertung/cookie,p]::1;[https://casino-now.at/live-casino/holdem,s]::1;[https://casino-now.at/live-casino/holdem,p]::5;[https://swiss-casino-now.com/casino-software,p]::1;[https://casino-now.at/casino-software,p]::6;[https://swiss-casino-now.com/casino-software/betsoft,p]::10;
+<dabbadie|[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;
+<dab|[https://www.dailywritingtips.com/50-handy-expressions-about-hands,s]::1;[https://www.dailywritingtips.com/50-handy-expressions-about-hands,p]::1;
+<dabbling|[https://www.dailywritingtips.com/100-words-for-facial-expressions,p]::1;
+<dabble|[https://www.foxbusiness.com/markets,h]::1;
 <dabbing|[https://www.everydayhealth.com/stress/guide,p]::1;
-<dabrowskys|[https://www.sensesofcinema.com/special-dossiers,h]::1;

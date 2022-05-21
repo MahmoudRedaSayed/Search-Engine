@@ -1,3 +1,5 @@
-<icardi|[https://ar.marca.com/claro/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;
-<icahn|[https://www.dailymail.co.uk/money/index.html,p]::1;[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::1;[http://www.archive-it.org,p]::1;
-<icann|[https://blog.archive.org,p]::1;
+<icann|[https://blog.archive.org/category/event,p]::1;[https://blog.archive.org/category/web-data-services,p]::1;
+<ica|[https://iclg.com/practice-areas/gambling-laws-and-regulations/canada,p]::1;
+<ical|[http://www.springshare.com,p]::1;[https://springshare.com/privacy.html,p]::1;[https://www.dailywritingtips.com/affect-vs-effect,s]::1;
+<icap|[https://www.reuters.com/business/most-institutional-investors-expect-buy-digital-assets-study-finds-2021-07-20,p]::1;
+<icahn|[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::1;

@@ -1,2 +1,8 @@
-<hibernian|[https://www.bbc.co.uk/sport,p]::1;
+<hibino|[https://www.loc.gov,h]::1;
+<hibernate|[https://www.nationalgeographic.com/animals/article/a-bat-that-weighs-less-than-an-ounce-just-made-the-longest-bat-migration-ever-recorded-,p]::2;
+<hibernating|[https://www.nationalgeographic.com/animals/article/a-bat-that-weighs-less-than-an-ounce-just-made-the-longest-bat-migration-ever-recorded-,p]::1;
+<hibberd|[https://www.nationalgeographic.com/pages/article/masthead,p]::1;
+<hibbert|[https://m.imdb.com/feature/bestpicture/?ref_=nv_ch_osc,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;
 <hibernation|[https://www.dailymail.co.uk/travel/index.html,h]::1;
+<hibernian|[https://player.arsenal.com/matches/first?utm_source=arsenaldotcom&utm_medium=meganavvideo&utm_campaign=arsenaldotcom,h]::2;[https://player.arsenal.com/matches/first?utm_source=arsenaldotcom&utm_medium=meganavvideo&utm_campaign=arsenaldotcom,p]::1;
+<hibs|[https://player.arsenal.com/matches/first?utm_source=arsenaldotcom&utm_medium=meganavvideo&utm_campaign=arsenaldotcom,h]::1;

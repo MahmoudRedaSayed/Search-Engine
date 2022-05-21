@@ -1,0 +1,12 @@
+<bhaji|[https://www.bbc.co.uk/food,p]::1;
+<bhattacharya|[https://www.sensesofcinema.com/2021/book-reviews/foraging-in-a-transforming-mediascape-cinemas-dark-and-slow-in-digital-india-by-lalitha-gopalan,p]::2;
+<bhandit|[https://www.sensesofcinema.com/2001/festival-reports/bangkok-2,p]::1;
+<bhagavad|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;
+<bhaṭṭācārya|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;
+<bhat|[https://www.nationalgeographic.com/magazine/article/this-himalayan-hike-skims-the-clouds-without-everest-crowds,p]::1;
+<bhattacharjee|[https://www.nationalgeographic.com/pages/article/masthead,p]::1;
+<bhattacharyya|[https://www.nationalgeographic.com/pages/article/masthead,p]::1;
+<bhakti|[https://www.ning.com,p]::1;
+<bhadbhade|[https://www.dailywritingtips.com/34-writing-tips-that-will-make-you-a-better-writer,s]::1;[https://www.dailywritingtips.com/34-writing-tips-that-will-make-you-a-better-writer,p]::1;
+<bharth|[https://www.dailywritingtips.com/50-rhetorical-devices-for-rational-writing,s]::1;
+<bharat|[https://www.nytimes.com/interactive/2021/world/covid-vaccinations-tracker.html,h]::1;

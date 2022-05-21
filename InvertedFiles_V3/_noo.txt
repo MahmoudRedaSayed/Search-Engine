@@ -1,3 +1,14 @@
-<noomi|[https://www.dailymail.co.uk/auhome/index.html,s]::1;
-<noon|[https://www.dailymail.co.uk/travel/index.html,h]::1;[https://www.dailymail.co.uk/travel/index.html,s]::1;[https://www.everydayhealth.com/diet-nutrition/burning-questions-about-intermittent-fasting-answered,p]::1;
+<noon|[https://www.loc.gov,h]::1;[https://www.sensesofcinema.com/2001/festival-reports/bangkok-2,p]::1;[https://www.sensesofcinema.com/2021/interviews/an-interview-with-the-late-monte-hellman-1929-2021,p]::1;[https://nautil.us/topics/math,p]::1;[https://nautil.us/topics/zoology,p]::1;[https://www.dailywritingtips.com/pro,p]::2;[https://hms.harvard.edu/news/together-match-day,p]::1;[https://www.englishclub.com/vocabulary/phrasal-verbs-list.htm,p]::1;[https://onlinelearning.hms.harvard.edu/hmx/courses,p]::1;[https://www.dailymail.co.uk/travel/index.html,h]::1;[https://www.everydayhealth.com/diet-nutrition/burning-questions-about-intermittent-fasting-answered,p]::1;
+<noops|[https://cloud.google.com/solutions/spark,p]::1;[https://cloud.google.com/pubsub,p]::1;[https://cloud.google.com/firestore,p]::1;
+<nooit|[https://www.outbrain.com/legal,p]::1;[https://onlinecasino-now.nl,p]::2;[https://onlinecasino-now.nl/casino-reviews/cookie,s]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::1;[https://onlinecasino-now.nl/casino-software,p]::1;
+<noodling|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;
+<noodle|[https://www.nationalgeographic.com/travel/article/beyond-chinatowns-these-places-explore-asian-americans-deep-roots-in-united-states,p]::1;
+<noongar|[https://www.nationalgeographic.com/travel/article/10-destinations-where-you-can-ditch-your-car-this-summer,p]::1;
+<noodzakelijk|[https://onlinecasino-now.nl,p]::1;
+<nooyi|[https://www.aboutamazon.com/news/aws,h]::1;
+<nooniensingh|[https://www.imdb.com/search/name/?match_all=true&ref_=nv_cel_m,p]::1;
+<nook|[https://www.nytimes.com/privacy/privacy-policy,p]::2;[https://getpocket.com/firefox_learnmore/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=products,h]::1;
+<nooj|[https://www.dailywritingtips.com/the-yiddish-handbook-40-words-you-should-know,p]::1;
+<nookleeuhr|[https://www.dailywritingtips.com/50-incorrect-pronunciations-that-you-should-avoid,p]::1;
+<noonan|[https://www.foxnews.com/category/tech/topics/security,p]::1;
 <noom|[https://www.everydayhealth.com/lifestyle/healthy-living,h]::1;

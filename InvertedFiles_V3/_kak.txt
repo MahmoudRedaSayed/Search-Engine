@@ -1,2 +1,13 @@
-<kaka|[https://www.dailymail.co.uk/sport/index.html,s]::1;
-<kako|[http://vedrigrad.hr,h]::1;[http://vedrigrad.hr,p]::1;[http://www.enable-javascript.com/hr,t]::1;[http://www.enable-javascript.com/hr,h]::2;[http://www.enable-javascript.com/hr,p]::5;
+<kak|[https://www.sensesofcinema.com/author/charles-fairbanks,p]::1;[https://www.sensesofcinema.com/2022/great-directors/tahimik-kidlat,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;
+<kakadu|[https://blog.archive.org/category/technical,h]::1;[https://blog.archive.org/category/technical,p]::3;
+<kakadusoftwarecom|[https://blog.archive.org/category/technical,p]::1;
+<kakeru|[https://www.sensesofcinema.com/2021/great-directors/obayashi-nobuhiko,p]::1;
+<kakuta|[https://www.rfi.fr,p]::1;[http://afriquefoot.rfi.fr,p]::1;
+<kakou|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;
+<kakegurui|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::2;
+<kaksi|[https://netticasino-now.com,p]::2;
+<kakimochi|[https://www.nationalgeographic.com/travel/article/whats-crack-seed-one-of-hawaiis-favorite-snacks,p]::2;
+<kaktavičiūtėmickienė|[https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm,s]::1;[https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm,p]::1;
+<kakani|[https://www.nationalgeographic.com/magazine/article/13-foot-long-fish-caught-in-mekong-river-shows-some-megafish-are-thriving,p]::1;
+<kaka|[https://www.dailymail.co.uk/sport/index.html,s]::1;[https://apps.apple.com/us/app/all-football-scores-news/id1171012600,p]::1;
+<kakao|[http://agreementservice.svs.nike.com/eg/en_gb/rest/agreement?agreementType=privacyPolicy&uxId=com.nike.commerce.nikedotcom.web&country=eg&language=en_gb&requestType=redirect,p]::1;

@@ -1,2 +1,3 @@
-<hymn|[https://bbc.github.io/subtitle-guidelines,p]::1;
+<hymn|[https://bbc.github.io/subtitle-guidelines,p]::1;[https://blog.archive.org/category/audio-archive,p]::1;[https://blog.archive.org/category/cool-items,p]::1;[https://www.nationalgeographic.com/magazine/article/black-colleges-universities-race-class-gender-sexuality,p]::2;[https://www.dailywritingtips.com/100-beautiful-and-ugly-words,p]::1;[https://www.dailywritingtips.com/34-writing-tips-that-will-make-you-a-better-writer,p]::1;
 <hymns|[https://bbc.github.io/subtitle-guidelines,p]::1;
+<hymenopteran|[https://www.nationalgeographic.com/animals/article/bats-imitate-hornets-to-avoid-being-eaten-by-owls,p]::1;

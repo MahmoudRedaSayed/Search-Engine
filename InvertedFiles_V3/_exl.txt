@@ -1,0 +1,4 @@
+<exlicaron|[https://www.marca.com/ciclismo/giro-italia/2022/05/18/6284a1ea22601ddb758b45c9.html,p]::1;
+<exlover|[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;
+<exlieron|[https://www.dailywritingtips.com/50-slang-terms-for-money,s]::1;
+<exliverpool|[https://www.dailymail.co.uk/sport/index.html,h]::1;[https://www.dailymail.co.uk/sport/index.html,s]::1;[https://www.dailymail.co.uk/sport/index.html,p]::1;

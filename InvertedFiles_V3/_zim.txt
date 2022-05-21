@@ -1,1 +1,6 @@
-<zimmer|[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;
+<zimbabue|[https://www.marca.com/futbol/futbol-internacional.html?intcmp=MENUPROD&s_kw=futbol-internacional,h]::1;
+<zimbabwe|[http://www.fondation-alliancefr.org,p]::1;[https://www.icrc.org/redsafe,p]::1;[https://www.icrc.org/en/what-we-do/forensic-action,p]::1;[https://www.hmbana.org/about-us/board.html,p]::1;[https://www.dailymail.co.uk/femail/index.html,p]::1;
+<zimți|[https://generatia30.rfi.ro,p]::1;
+<zima|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::1;
+<zimpler|[https://netticasino-now.com,p]::1;[https://casino-now-canada.com/casino-deposit-methods,s]::1;
+<ziman|[https://www.dailywritingtips.com/inquire-vs-enquire,p]::1;

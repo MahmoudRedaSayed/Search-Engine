@@ -1,0 +1,1 @@
+<ddn|[https://cloud.google.com/solutions/hpc,p]::2;

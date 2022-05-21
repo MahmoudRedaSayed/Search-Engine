@@ -1,0 +1,11 @@
+<omaha|[https://citeulike.org,s]::1;[https://citeulike.org,p]::1;[https://casino-now.co.uk,s]::1;[https://casino-now.co.uk,p]::1;[https://netticasino-now.com,s]::1;[https://casino-now.it,s]::2;[https://onlinecasino-now.se,p]::1;[https://onlinecasino-now.nl/live-casino/casino-holdem,s]::1;[https://casino-now.at/live-casino/holdem,p]::1;[https://www.nationalgeographic.com/magazine/article/tulsa-finally-confronts-the-day-a-white-mob-destroyed-a-black-community-feature,p]::1;
+<omar|[https://www.sensesofcinema.com/2021/great-directors/lucas-george,p]::1;[https://savoirs.rfi.fr/fr/recherche/rubrique/apprendre/objectif/enseigner-le-francais-2708/editorial/article_pedagogique,h]::1;[https://www.dailywritingtips.com/awoken-or-awakened,p]::1;[https://www.englishclub.com/esl-quizzes/vocabulary/expressions-topic-time-2-quiz.php,p]::1;[https://www.dailywritingtips.com/25-confused-homonym-pairs,p]::1;
+<omalle|[https://fi.wordpress.org/plugins/broken-link-checker,p]::1;
+<omahony|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;
+<omalta|[https://netticasino-now.com,s]::1;[https://netticasino-now.com,p]::2;
+<oman|[https://netticasino-now.com,p]::1;[https://www.foxnews.com/category/tech/technologies/drones,p]::1;[http://agreementservice.svs.nike.com/eg/en_gb/rest/agreement?agreementType=privacyPolicy&uxId=com.nike.commerce.nikedotcom.web&country=eg&language=en_gb&requestType=redirect,s]::3;[http://agreementservice.svs.nike.com/eg/en_gb/rest/agreement?agreementType=privacyPolicy&uxId=com.nike.commerce.nikedotcom.web&country=eg&language=en_gb&requestType=redirect,p]::3;
+<omaa|[https://netticasino-now.com,p]::1;
+<omaan|[https://netticasino-now.com,p]::1;
+<oma|[https://netticasino-now.com,p]::2;
+<omalley|[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;
+<omann|[https://meded.hms.harvard.edu/registrar,h]::1;

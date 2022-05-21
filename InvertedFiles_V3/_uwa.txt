@@ -1,2 +1,5 @@
-<uwaterloo|[http://www.archive-it.org,p]::1;
-<uwarchivlibrarywiscedu|[http://www.archive-it.org,p]::1;
+<uwagę|[http://wpolityce.pl/kultura/226645-ida-jak-poklosie-pluzanski-w-filmie-to-polacy-sa-mordercami,s]::1;[http://wpolityce.pl/kultura/226645-ida-jak-poklosie-pluzanski-w-filmie-to-polacy-sa-mordercami,p]::2;[https://kasyno-now.com,p]::4;
+<uwagami|[http://wpolityce.pl/kultura/226645-ida-jak-poklosie-pluzanski-w-filmie-to-polacy-sa-mordercami,p]::1;
+<uważane|[https://kasyno-now.com,p]::1;
+<uważa|[https://kasyno-now.com,p]::1;
+<uwambaje|[https://www.nationalgeographic.com/magazine/article/things-that-divide-us,p]::2;

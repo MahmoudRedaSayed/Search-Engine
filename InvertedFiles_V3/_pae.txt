@@ -1,0 +1,9 @@
+<paedophiles|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;
+<paesi|[https://www.hearst.it/vivere-meglio/hearst-italia-le-licenze-di-mens-health-e-runners-world,p]::1;[https://www.hearst.it/informativa-privacy,p]::1;[https://www.hearst.it/brand/elle,p]::1;[https://casino-now.it,p]::1;[https://casino-now.it/recensioni,s]::1;[https://casino-now.it/software,s]::1;[https://casino-now.it/software,p]::2;
+<paesaggista|[https://www.hearst.it/vivere-meglio/elle-decor-allaperto-dal-7-all11-aprile-2022,p]::3;
+<paese|[https://www.hearst.it/vivere-meglio/hearst-italia-le-licenze-di-mens-health-e-runners-world,p]::1;[https://www.hearst.it/chi-siamo,p]::1;[https://casino-now.it,p]::3;[https://it.swiss-casino-now.com/recensioni,p]::1;[https://casino-now.it/recensioni,h]::1;[https://casino-now.it/recensioni,s]::1;[https://casino-now.it/recensioni,p]::1;[https://casino-now.it/software,p]::1;
+<paedophilia|[https://www.sensesofcinema.com/2006/great-directors/bolognini,p]::1;
+<paedophilic|[https://www.sensesofcinema.com/2022/cteq/an-entertainment-fritz-langs-ministry-of-fear-1944,p]::1;
+<paean|[https://nautil.us/topics/evolution,h]::1;
+<paesetutti|[https://casino-now.it/recensioni,p]::1;
+<paediatric|[https://www.dailymail.co.uk/health/index.html,p]::1;

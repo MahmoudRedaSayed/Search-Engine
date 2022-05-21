@@ -1,0 +1,4 @@
+<umple|[https://gastronomie.rfi.ro,p]::1;
+<umpire|[https://www.dailywritingtips.com/english-grammar-101-all-you-need-to-know,p]::1;[https://www.chicagotribune.com/sports/cubs/#nt=taxonomy-article,h]::1;
+<ump|[https://www.kizphonics.com/kindergarten-crocodile-phonics-games,h]::1;[https://www.kizphonics.com/kindergarten-crocodile-phonics-games,p]::1;[https://www.kizphonics.com/interactive-crocodile-phonics-games,h]::1;[https://www.kizphonics.com/interactive-crocodile-phonics-games,p]::1;
+<umpires|[https://www.chicagotribune.com/sports/cubs/#nt=taxonomy-article,h]::1;

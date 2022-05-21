@@ -1,1 +1,3 @@
-<aed|[https://en.wikipedia.org/wiki/Object-oriented_programming,p]::1;
+<aedv|[https://www.diariomedico.com,p]::1;
+<aedes|[https://nautil.us/topics/evolution,p]::1;[http://philadelphiaencyclopedia.org/archive/philadelphia-and-its-people-in-maps-the-1790s,p]::2;
+<aed|[https://www.amazon.ae/ref=nodl_&nodl_android,h]::3;[https://en.wikipedia.org/wiki/Object-oriented_programming,p]::1;

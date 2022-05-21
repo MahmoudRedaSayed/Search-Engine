@@ -1,0 +1,3 @@
+<emrs|[https://cloud.google.com/solutions/healthcare-life-sciences,p]::1;[http://klasresearch.com,p]::1;
+<emr|[https://www.nlm.nih.gov/web_policies.html,p]::1;[http://klasresearch.com,p]::9;
+<emrcentric|[http://klasresearch.com,p]::1;

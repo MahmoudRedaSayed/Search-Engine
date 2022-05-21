@@ -1,2 +1,4 @@
 <cymraeg|[https://simple.wikipedia.org,p]::1;
-<cymru|[https://www.bbc.co.uk,p]::1;
+<cymru|[https://www.bbc.co.uk,p]::1;[https://www.bbc.co.uk/news/help-50068132,p]::1;
+<cymbal|[https://cloud.google.com/datasets,p]::2;
+<cymbals|[https://www.chicagotribune.com/consumer-reviews/#nt=tertiarynavbar,h]::1;

@@ -1,3 +1,5 @@
-<tsitsipas|[https://www.marca.com/tenis/masters-1000-roma/novak-djokovic-stefanos-tsitsipas-directo/2022/05/15/04_0409_20220515_63.html,t]::1;[https://www.marca.com/tenis/masters-1000-roma/novak-djokovic-stefanos-tsitsipas-directo/2022/05/15/04_0409_20220515_63.html,h]::1;[https://www.marca.com/tenis/masters-1000-roma/novak-djokovic-stefanos-tsitsipas-directo/2022/05/15/04_0409_20220515_63.html,s]::1;[https://www.marca.com/tenis/masters-1000-roma/novak-djokovic-stefanos-tsitsipas-directo/2022/05/15/04_0409_20220515_63.html,p]::101;[https://www.marca.com/polideportivo.html?intcmp=MENUPROD&s_kw=polideportivo,h]::2;
-<tsitsipa|[https://www.marca.com/tenis/masters-1000-roma/novak-djokovic-stefanos-tsitsipas-directo/2022/05/15/04_0409_20220515_63.html,s]::1;[https://www.marca.com/tenis/masters-1000-roma/novak-djokovic-stefanos-tsitsipas-directo/2022/05/15/04_0409_20220515_63.html,p]::1;
-<tsisipas|[https://ar.marca.com/claro/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;
+<tsitsipas|[https://www.beinsports.com/en,p]::1;[https://www.marca.com/tenis.html?intcmp=MENUPROD&s_kw=tenis,h]::3;
+<tsimanouskaya|[https://www.marca.com/juegos-olimpicos.html?intcmp=MENUPROD&s_kw=juegos-olimpicos,h]::1;
+<tsiotsiopoulos|[https://www.sensesofcinema.com/2022/festival-reports/thessaloniki-international-film-festival-rewriting-the-rules-of-the-game,p]::1;
+<tsivian|[https://www.sensesofcinema.com/author/carmen-gray,h]::1;
+<tsiolkas|[https://www.sensesofcinema.com/about,p]::1;

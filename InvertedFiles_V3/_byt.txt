@@ -1,3 +1,5 @@
-<bythe|[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;
-<byte|[https://en.wikipedia.org/wiki/Object-oriented_programming,p]::1;
-<bytes|[https://archive.org/about/bios.php,p]::1;[https://bbc.github.io/subtitle-guidelines,p]::2;
+<byte|[https://circuitdigest.com/microcontroller-projects/arduino-spi-communication-tutorial,p]::2;[https://www.dailywritingtips.com/7-advisories-about-abbreviations,p]::1;[https://en.wikipedia.org/wiki/Object-oriented_programming,p]::1;
+<bythetime|[https://www.grammar-quizzes.com/,p]::1;
+<bytes|[https://developers.google.com/assistant/sdk/overview,p]::1;[https://archive.org/about/bios.php,p]::1;[https://bbc.github.io/subtitle-guidelines,p]::2;[https://cloud.google.com/bigquery,p]::1;[https://cloud.google.com/pubsub,p]::1;[https://www.edtechdigest.com/2022-finalists-winners,p]::1;[https://www.dailywritingtips.com/7-advisories-about-abbreviations,p]::1;
+<bythe|[https://www.edtechdigest.com/2022-finalists-winners,p]::1;
+<bythebook|[https://www.nytimes.com/live/2022/05/18/world/covid-19-mandates-vaccine-cases,p]::1;

@@ -1,0 +1,5 @@
+<sbaresearchadvisories|[https://github.com/sbaresearch/advisories/tree/public/2019/SBA-ADV-20190913-02_WordPress_Plugin_Broken_Link_Checker,t]::1;[https://github.com/sbaresearch/advisories/tree/public/2019/SBA-ADV-20190913-02_WordPress_Plugin_Broken_Link_Checker,p]::1;
+<sbaresearch|[https://github.com/sbaresearch/advisories/tree/public/2019/SBA-ADV-20190913-02_WordPress_Plugin_Broken_Link_Checker,h]::1;
+<sbaadvwordpresspluginbrokenlinkchecker|[https://github.com/sbaresearch/advisories/tree/public/2019/SBA-ADV-20190913-02_WordPress_Plugin_Broken_Link_Checker,s]::2;
+<sba|[https://github.com/sbaresearch/advisories/tree/public/2019/SBA-ADV-20190913-02_WordPress_Plugin_Broken_Link_Checker,p]::1;[https://www.campdream.org/about/staff,p]::1;
+<sbarcato|[https://casino-now.it/software,p]::1;

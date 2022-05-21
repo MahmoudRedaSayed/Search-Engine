@@ -1,0 +1,2 @@
+<vsphere|[https://cloud.google.com/compute,p]::1;[https://cloud.google.com/vmware-engine,p]::1;
+<vsport|[https://www.ccpgames.com,p]::1;

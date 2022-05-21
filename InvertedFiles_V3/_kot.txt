@@ -1,2 +1,15 @@
-<kotlin|[https://en.wikipedia.org/wiki/Object-oriented_programming,p]::1;
-<kotcheff|[https://www.sensesofcinema.com/special-dossiers,h]::1;
+<kotlin|[https://developers.google.com/assistant/app/read-it,h]::1;[https://codelabs.developers.google.com/codelabs/appactions,p]::1;[https://cloud.google.com/run,p]::1;[https://www.w3schools.com,h]::1;[https://en.wikipedia.org/wiki/Object-oriented_programming,p]::1;
+<kotcheff|[https://www.sensesofcinema.com/about/style-guide,p]::1;
+<kotoba|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;
+<kota|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;
+<kotiutukset|[https://netticasino-now.com,h]::1;[https://netticasino-now.com,p]::4;
+<kotiutuksia|[https://netticasino-now.com,s]::1;
+<kotimaisuus|[https://netticasino-now.com,s]::1;
+<kotiutusten|[https://netticasino-now.com,s]::1;[https://netticasino-now.com,p]::2;
+<kotisohvaltaan|[https://netticasino-now.com,s]::1;[https://netticasino-now.com,p]::1;
+<kotimaiset|[https://netticasino-now.com,p]::1;
+<kotiuttaa|[https://netticasino-now.com,p]::1;
+<kotlik|[https://nautil.us/topics/environment,p]::1;
+<kotenko|[https://nautil.us/topics/sociology,p]::1;
+<kotsur|[https://m.imdb.com/feature/bestpicture/?ref_=nv_ch_osc,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;
+<kotti|[https://www.dailywritingtips.com/writing-a-reference-letter-with-examples,p]::1;

@@ -1,0 +1,3 @@
+<olfactory|[https://bbc.github.io/uxd-cognitive,h]::1;[https://mcpress.mayoclinic.org/?utm_source=MC-DotOrg-Nav&utm_medium=Link&utm_campaign=MC-Press&utm_content=MCPRESS,h]::1;[https://nautil.us/topics/neuroscience,p]::1;[https://nautil.us/the-doctor-will-sniff-you-now-2-11852,p]::18;[https://www.nationalgeographic.com/magazine/article/lost-your-smell-to-covid-19-heres-how-to-retrain-your-brain,p]::2;
+<olfato|[https://www.marca.com/ciclismo/giro-italia/2022/05/11/627bbac7ca4741704e8b45f5.html,p]::1;
+<olfactome|[https://nautil.us/the-doctor-will-sniff-you-now-2-11852,p]::1;

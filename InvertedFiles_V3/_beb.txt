@@ -1,4 +1,9 @@
-<beber|[https://www.marca.com/futbol/laliga-santander/cadiz-r-madrid-directo/2022/05/15/01_0101_20220515_1737_186.html,p]::2;
+<bebé|[https://www.marca.com/ultimas-noticias.html?intcmp=MENUDEST&s_kw=ultimas-noticias,h]::1;[https://www.marca.com/tiramillas.html,h]::1;[https://es.familydoctor.org/salud-de-la-familia/embarazo-y-el-parto,h]::3;[https://es.familydoctor.org/salud-de-la-familia/embarazo-y-el-parto,p]::7;[https://es.familydoctor.org/salud-de-la-familia/mujeres,p]::2;[https://www.nytimes.com/es,h]::2;[https://www.nytimes.com/es,p]::1;[http://www.emirates.es,p]::5;
+<bebido|[https://www.marca.com/futbol/chile.html?intcmp=MENUPROD&s_kw=futbol-chile,h]::1;
+<bebidas|[https://www.healthline.com/type-2-diabetes,p]::1;[https://es.familydoctor.org/prevencion-y-bienestar/alimentos-y-nutricion,p]::4;[https://www.amazon.com.mx/ref=nodl_&nodl_android,h]::1;[https://www.amazon.es/ref=nodl_&nodl_android,h]::2;
+<beber|[https://www.healthline.com/type-2-diabetes,p]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/10/627a503737ff7b00238dba4a-directo.html,p]::1;[https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-farmacogeneticas,p]::1;
+<bebe|[https://www.marca.com/coches-y-motos/salon-automovil-ginebra.html?intcmp=MENUPROD&s_kw=ginebra,h]::1;
+<beboet|[https://onlinecasino-now.nl,p]::5;[https://casino-now.be,p]::1;
+<bebè|[https://www.amazon.it/ref=nodl_&nodl_android,h]::1;
+<bebés|[https://www.nytimes.com/es,h]::1;[http://www.emirates.es,p]::5;
 <bebad|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;
-<bebés|[https://mibebeyyo.elmundo.es,t]::1;[https://mibebeyyo.elmundo.es,h]::1;
-<bebé|[https://mibebeyyo.elmundo.es,h]::5;[https://mibebeyyo.elmundo.es,s]::1;[https://mibebeyyo.elmundo.es,p]::1;

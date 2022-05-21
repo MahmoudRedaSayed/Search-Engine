@@ -1,3 +1,7 @@
-<alwyn|[https://www.bbc.co.uk/sounds,p]::1;
-<alwyns|[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::2;[https://www.dailymail.co.uk/auhome/index.html,s]::2;
-<alwayson|[https://www.sky.com/business/broadband,h]::1;[https://www.sky.com/business/broadband,s]::1;[https://www.sky.com/business/broadband,p]::1;[https://www.apple.com/lae/watch,p]::1;
+<alwyn|[https://www.bbc.co.uk/sounds,p]::1;[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://www.dailymail.co.uk/auhome/index.html,s]::2;
+<alwayson|[https://www.apple.com/watch,p]::1;[https://cloud.google.com/solutions/database-modernization,p]::1;[https://cloud.google.com/sql-server,p]::1;[https://cloud.google.com/pubsub,p]::1;[https://cloud.google.com/bigtable,p]::1;[https://www.sky.com/business/broadband,h]::1;[https://www.sky.com/business/broadband,s]::1;[https://www.sky.com/business/broadband,p]::1;
+<alwaysfree|[https://cloud.google.com/serverless,p]::1;[https://cloud.google.com/run,p]::1;
+<alwayslive|[https://cloud.google.com/analytics-hub,p]::1;
+<alwaysalready|[https://www.sensesofcinema.com/2015/michael-bay-dossier/michael-bay-the-island,p]::1;
+<alwaysimproving|[https://generated.photos/api,p]::1;
+<alway|[https://www.dailywritingtips.com/useful-stock-phrases-for-your-business-emails,p]::2;

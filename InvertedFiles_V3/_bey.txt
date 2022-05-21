@@ -1,4 +1,9 @@
-<beyoncé|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk/news/index.html,h]::1;[https://www.dailymail.co.uk/ushome/index.html,h]::1;
-<beyond…|[https://www.healthline.com/nutrition,p]::1;
-<beyonces|[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://www.dailymail.co.uk/auhome/index.html,s]::1;
+<beyoncé|[https://www.healthline.com/health/healthy-sex/black-women-sexuality,p]::1;[https://nautil.us/topics/communication,h]::1;[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;
+<beymer|[https://www.sensesofcinema.com/2021/book-reviews/42756,p]::4;[https://m.imdb.com/feature/bestpicture/?ref_=nv_ch_osc,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;
+<beyondcorp|[https://cloud.google.com/covid19,p]::1;[https://cloud.google.com/identity,p]::1;[https://cloud.google.com/products,p]::1;
+<beyer|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;
+<beydler|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;
+<beyondmany|[https://www.nationalgeographic.com/travel/article/whats-crack-seed-one-of-hawaiis-favorite-snacks,p]::1;
+<beyoncé|[https://nautil.us/topics/communication,p]::1;
+<beyaz|[https://nautil.us/how-does-anyone-stay-healthy-in-a-world-full-of-germs-11795,p]::6;
 <beyonce|[https://www.dailymail.co.uk/tvshowbiz/index.html,p]::1;[https://www.dailymail.co.uk/travel/index.html,h]::1;[https://www.dailymail.co.uk/travel/index.html,p]::1;

@@ -1,1 +1,4 @@
-<faye|[https://www.dailymail.co.uk/tvshowbiz/index.html,h]::1;[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://www.dailymail.co.uk/auhome/index.html,s]::1;[https://www.dailymail.co.uk/health/index.html,s]::1;
+<fay|[https://www.sensesofcinema.com/2022/great-directors/curtiz-michael,p]::1;[https://newsroom.loc.gov/news/national-recording-registry-inducts-music-from-alicia-keys--ricky-martin--journey-and-more-in-2022/s/fee30140-0454-401c-a2a2-205298e32fb1,p]::1;
+<faya|[https://www.sensesofcinema.com/2022/festival-reports/come-together-the-59th-viennale,p]::6;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;
+<fayez|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;
+<fayetteville|[https://www.dailywritingtips.com/pro,p]::1;

@@ -1,3 +1,2 @@
-<bycarmen|[https://www.everydayhealth.com/,p]::2;
-<bycourtney|[https://www.everydayhealth.com/,p]::1;
-<bychkova|[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;
+<bycarmen|[https://www.everydayhealth.com/,p]::1;
+<bycatch|[https://www.nationalgeographic.com/animals/article/vaquita-porpoises-could-genetically-recover-if-fishing-ends,p]::3;[https://www.nationalgeographic.com/science/article/the-secret-behind-lily-pad-strength-and-other-science-news,p]::1;

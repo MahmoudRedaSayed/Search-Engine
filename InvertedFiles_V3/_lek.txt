@@ -1,0 +1,7 @@
+<lekashman|[https://blog.archive.org/author/vinay,p]::1;[https://blog.archive.org/2013/10/25/fixing-broken-links,p]::1;
+<lekić|[https://www.bbc.com/future/article/20220510-why-are-there-continent-sized-blobs-in-the-deep-earth,p]::7;
+<leksaker|[https://www.amazon.se/ref=nodl_&nodl_android,h]::2;[https://www.amazon.se/ref=nodl_&nodl_android,p]::1;
+<lektionen|[http://de.talkenglish.com,t]::1;[http://de.talkenglish.com,p]::1;
+<lekcie|[http://sk.talkenglish.com,t]::1;[http://sk.talkenglish.com,p]::1;
+<lekcje|[http://pl.talkenglish.com,t]::1;[http://pl.talkenglish.com,p]::1;
+<lekce|[http://cz.talkenglish.com,t]::1;[http://cz.talkenglish.com,p]::1;

@@ -1,1 +1,2 @@
+<egta|[https://edaa.eu/who-we-are/our-board,p]::1;
 <egts|[https://www.sciencenewsforstudents.org/about-us,p]::1;

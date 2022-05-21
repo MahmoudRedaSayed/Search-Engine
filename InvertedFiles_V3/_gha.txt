@@ -1,2 +1,9 @@
 <ghalia|[https://english.ahram.org.eg/,p]::1;
-<ghanaian|[https://www.bbc.com/sport,p]::1;
+<ghanéen|[http://www.beinsports.com/france,p]::1;
+<ghasem|[https://musiceman.net,p]::1;
+<ghana|[https://www.marca.com/futbol/copa-africa.html?intcmp=MENUPROD&s_kw=copa-africa,h]::1;[https://www.sensesofcinema.com/2022/book-reviews/the-depths-of-empiricism-werner-herzog-ecstatic-truth-and-other-useless-conquests-by-kristoffer-hegnsvad,p]::1;[https://www.icrc.org/en/warning-fraud,p]::1;[http://afriquefoot.rfi.fr,p]::1;[https://www.nationalgeographic.com/magazine/article/race-genetics-science-africa,p]::1;[https://www.nytimes.com/2022/05/17/business/inflation-developing-economies.html,p]::1;[https://www.foxnews.com/travel,p]::1;
+<ghatak|[https://www.sensesofcinema.com/author/megan-carrigy,h]::1;
+<ghahreman|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::3;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::1;
+<ghanaian|[http://www.weta.org,p]::1;
+<ghabour|[https://www.foxbusiness.com/economy,p]::1;[https://www.foxbusiness.com/watchlist,p]::1;
+<ghastly|[https://www.dailywritingtips.com/10-techniques-for-more-precise-writing,p]::1;

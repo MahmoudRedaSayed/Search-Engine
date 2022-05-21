@@ -1,0 +1,2 @@
+<sbc|[https://apps.apple.com/us/app/fut-20-draft-simulator/id1191682101,p]::3;[https://apps.apple.com/us/app/fut-22-draft-builder-futbin/id1080465358,p]::1;
+<sbcs|[https://apps.apple.com/us/app/fut-22-draft-builder-futbin/id1080465358,p]::1;

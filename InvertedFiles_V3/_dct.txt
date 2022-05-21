@@ -1,0 +1,8 @@
+<dct|[https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs,p]::1;
+<dctcraig|[https://congress.gov,p]::1;
+<dctdesaulnier|[https://congress.gov,p]::1;
+<dcthern|[https://congress.gov,p]::1;
+<dcthinson|[https://congress.gov,p]::1;
+<dctlatta|[https://congress.gov,p]::1;
+<dctblunt|[https://congress.gov,p]::1;
+<dctmurray|[https://congress.gov,p]::1;

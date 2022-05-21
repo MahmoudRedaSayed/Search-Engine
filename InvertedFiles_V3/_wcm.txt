@@ -1,0 +1,2 @@
+<wcmh|[https://www.hearst.com/broadcasting,p]::1;
+<wcm|[https://www.diariomedico.com/farmacia.html,p]::1;[https://www.diariomedico.com,p]::1;

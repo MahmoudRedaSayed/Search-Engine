@@ -1,0 +1,2 @@
+<hgtvs|[https://www.hearst.com/magazines,p]::1;
+<hgtv|[https://www.hearst.com/magazines,p]::1;

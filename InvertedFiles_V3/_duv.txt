@@ -1,0 +1,5 @@
+<duvet|[https://www.healthline.com/reviews,p]::1;[https://www.britannica.com/reviews/weighted-blankets,p]::2;[https://www.ebay.com/globaldeals/featured/home-and-garden,h]::3;[https://www.ebay.com/globaldeals/home/bedding,h]::7;
+<duván|[https://www.marca.com/futbol/liga-portuguesa.html?intcmp=MENUPROD&s_kw=primeira-liga-portugal,h]::1;
+<duval|[https://appafrique.rfi.fr,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;
+<duvivier|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;
+<duvall|[https://m.imdb.com/feature/bestpicture/?ref_=nv_ch_osc,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;

@@ -1,2 +1,8 @@
-<bystephanie|[https://www.everydayhealth.com/,p]::1;
-<bysa|[http://creativecommons.org/licenses/by-sa/3.0,t]::1;[http://creativecommons.org/licenses/by-sa/3.0,h]::1;[https://stackoverflow.com/questions,p]::1;[https://stackoverflow.com/questions/tagged/google-oauth,p]::1;[https://stackoverflow.com/questions/tagged/openid,p]::1;
+<bysara|[https://www.everydayhealth.com/,p]::1;
+<bysa|[https://stackoverflow.com,p]::1;[https://stackoverflow.com/questions/tagged/google-oauth,p]::1;[https://stackoverflow.com/questions/tagged/openid,p]::1;[https://publiccode.eu,p]::1;[https://stackoverflow.com/legal,p]::4;[https://stackoverflow.com/legal/cookie-policy,p]::1;[https://stackoverflow.com/legal/privacy-policy,p]::1;[https://wiki.creativecommons.org/FAQ,s]::1;[https://wiki.creativecommons.org/FAQ,p]::9;[https://www.gnu.org/licenses/license-list.html#CC0,p]::5;[https://tezos.stackexchange.com,p]::1;
+<bystander|[https://www.sensesofcinema.com/2022/feature-articles/promising-young-woman-and-the-cinematic-renegotiation-of-gender-in-rape-revenge,p]::1;[https://www.bbc.com/editorialguidelines/guidelines/accuracy/guidelines,p]::1;[https://www.dailywritingtips.com/75-contronyms-words-with-contradictory-meanings,p]::1;
+<bysometimes|[https://en.swiss-casino-now.com,p]::1;
+<byscience|[https://nautil.us/ebook,p]::1;
+<bystanford|[https://nautil.us/ebook,p]::1;
+<bysigning|[https://www.nursingworld.org/organizational-programs/magnet,p]::1;
+<bystanders|[https://www.foxnews.com/category/world/disasters,p]::1;

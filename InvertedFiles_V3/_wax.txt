@@ -1,0 +1,5 @@
+<waxman|[https://www.sensesofcinema.com/category/book-reviews,h]::1;[https://www.sensesofcinema.com/about/style-guide,h]::1;
+<wax|[https://www.sensesofcinema.com/2022/great-directors/curtiz-michael,p]::2;[https://nautil.us/topics/communication,p]::1;[https://www.dailywritingtips.com/apply-to-apply-for-and-apply-with,p]::2;
+<waxing|[https://healthyliving.mayoclinic.org/?mc_id=global&utm_source=mayoclinicorgmainnav&utm_medium=l&utm_content=healthylivingprogram&utm_campaign=hlp&geo=national&placementsite=enterprise&cauid=100469,p]::1;[https://www.dailywritingtips.com/vocabulary-test-1,p]::1;
+<waxed|[https://www.britannica.com/reviews/zojirushi-rice-cooker-review,p]::1;[https://nautil.us/topics/environment,p]::1;[https://www.dailywritingtips.com/english-grammar-101-all-you-need-to-know,p]::2;
+<waxy|[https://nautil.us/the-doctor-will-sniff-you-now-2-11852,p]::1;[https://medlineplus.gov/cholesterol.html,p]::1;[https://medlineplus.gov/ldlthebadcholesterol.html,p]::1;[https://medlineplus.gov/hdlthegoodcholesterol.html,p]::1;

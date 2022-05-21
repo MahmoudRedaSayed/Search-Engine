@@ -1,2 +1,6 @@
-<giddy|[https://www.dailymail.co.uk/travel/index.html,p]::1;
-<gid|[https://cloud.google.com/identity/docs/groups,p]::1;
+<gid|[https://cloud.google.com/identity/docs/groups,p]::1;[https://www.marhabaservices.com/ae/english/cookie-policy.html,p]::1;
+<giddiness|[https://www.sensesofcinema.com/2021/great-directors/lucas-george,p]::1;
+<giddy|[https://ma.tt,p]::1;[https://www.nytimes.com/live/2022/05/18/world/covid-19-mandates-vaccine-cases,p]::1;[https://www.dailymail.co.uk/travel/index.html,p]::1;
+<gids|[https://onlinecasino-now.nl,h]::1;[https://onlinecasino-now.nl,p]::1;[https://onlinecasino-now.nl/casino-software,h]::1;
+<gidsen|[https://onlinecasino-now.nl,p]::1;[https://onlinecasino-now.nl/casino-reviews,p]::1;[https://onlinecasino-now.nl/casino-reviews/playamo,p]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::1;[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::1;[https://onlinecasino-now.nl/casino-software,p]::1;
+<gideon|[https://www.edtechdigest.com/who-we-are,p]::1;

@@ -1,2 +1,9 @@
+<dehumanize|[https://www.healthline.com/mental-health,p]::1;[https://www.nationalgeographic.com/magazine/article/black-colleges-universities-race-class-gender-sexuality,p]::1;
+<dehors|[https://www.e-marchespublics.com/faq,p]::1;
+<dehissed|[https://blog.archive.org/category/music,p]::1;
+<dehumanized|[https://www.sensesofcinema.com/2012/feature-articles/the-artist-mystification-beyond-artistry,p]::1;[https://www.foxnews.com/category/tech/topics/video-games,p]::1;
+<dehumidifiers|[https://www.britannica.com/reviews/at-home,h]::1;
+<dehumanizing|[https://nautil.us/topics/psychology,p]::1;
+<dehaan|[https://nautil.us/new-veggies-for-a-warming-planet-2-11780,p]::1;
+<dehortatio|[https://www.dailywritingtips.com/50-rhetorical-devices-for-rational-writing,s]::1;[https://www.dailywritingtips.com/50-rhetorical-devices-for-rational-writing,p]::1;
 <dehydrate|[https://www.dailymail.co.uk/health/index.html,h]::1;
-<dehumanize|[https://www.healthline.com/mental-health,p]::1;

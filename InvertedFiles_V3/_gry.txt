@@ -1,2 +1,6 @@
+<gry|[https://kasyno-now.com,h]::4;[https://kasyno-now.com,s]::4;[https://kasyno-now.com,p]::42;[https://kasyno-now.com/recenzja,p]::2;
+<grymma|[https://www.amazon.se/ref=nodl_&nodl_android,h]::1;
+<gryffindor|[https://nautil.us/topics/math,p]::2;
+<gryffindors|[https://nautil.us/topics/math,p]::1;
 <gryllschronicles|[https://www.dailymail.co.uk/travel/index.html,p]::1;
 <grylls|[https://www.dailymail.co.uk/travel/index.html,p]::1;

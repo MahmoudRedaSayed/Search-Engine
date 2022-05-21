@@ -1,5 +1,10 @@
-<psicológico|[https://www.marca.com/primera-plana/opinion/2022/05/15/623847bf268e3e0f078b45b0.html,p]::1;[https://us.marca.com/actualidad/2022/05/11/627bfa7146163f446f8b457b.html,s]::1;[https://us.marca.com/actualidad/2022/05/11/627bfa7146163f446f8b457b.html,p]::1;[https://www.marca.com/futbol/real-madrid/2022/05/15/627fbbdb46163fee128b456d.html,p]::1;
-<psicológi|[https://www.marca.com/primera-plana/opinion/2022/05/15/623847bf268e3e0f078b45b0.html,p]::1;
-<psicológica|[https://us.marca.com/actualidad/2022/05/11/627bfa7146163f446f8b457b.html,p]::1;
-<psicología|[https://www.telva.com,p]::1;
-<psicofísico|[https://mibebeyyo.elmundo.es,p]::1;
+<psicológicas|[https://www.elmundo.es,h]::1;
+<psicoterapia|[https://cuidateplus.marca.com,h]::1;
+<psicología|[https://www.escuelaunidadeditorial.es,p]::1;[https://www.nytimes.com/es/2022/05/13/espanol/bitcoin-precio-desplome.html,p]::1;
+<psicofisico|[https://www.hearst.it/brand/runners-world,p]::3;
+<psicológico|[https://www.marca.com/futbol/copa-africa.html?intcmp=MENUPROD&s_kw=copa-africa,h]::1;
+<psicológica|[https://www.marca.com/ciclismo/giro-italia/2022/05/17/6282b9b0268e3e8c588b45ab.html,h]::1;
+<psicóloga|[https://www.marca.com/ciclismo/giro-italia/2022/05/17/6282b9b0268e3e8c588b45ab.html,p]::1;
+<psilocybin|[https://nautil.us/topics/environment,h]::1;
+<psicológicos|[https://es.familydoctor.org/salud-de-la-familia/mujeres,p]::1;
+<psithacamlrfyargivpoyvurwudqyxrdhccqqmrvimza|[https://research-development.nomadic-labs.com/announcing-ithaca-2.html,p]::1;

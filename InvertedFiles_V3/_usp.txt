@@ -1,0 +1,4 @@
+<usps|[https://salud.nih.gov/covid-19,p]::1;[https://community.ebay.com/t5/Announcements/bg-p/Announcements,h]::2;[https://community.ebay.com/t5/Announcements/bg-p/Announcements,p]::3;[https://www.zagrosrobotics.com/shop/custom.aspx?recid=72,p]::6;[https://www.dailywritingtips.com/7-advisories-about-abbreviations,p]::1;
+<usphotograph|[https://nautil.us/topics/philosophy,p]::1;[https://nautil.us/topics/psychology,p]::1;
+<usphsgov|[https://www.hhs.gov/vulnerability-disclosure-policy/index.html,p]::1;
+<usp|[https://www.ebay.com/globaldeals/fashion,h]::1;

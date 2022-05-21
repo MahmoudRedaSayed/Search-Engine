@@ -1,2 +1,4 @@
-<hyundai|[https://olympics.com/en,h]::1;
+<hyundai|[https://www.marca.com/motor/rallies.html?intcmp=MENUPROD&s_kw=rallies,h]::3;[https://www.marca.com/motor/pruebas-coches,h]::3;[https://www.marca.com/futbol/mundial-de-clubes.html?intcmp=MENUPROD&s_kw=mundial-de-clubes,h]::1;[https://www.marca.com/coches-y-motos/coches.html?intcmp=MENUPROD&s_kw=coches,h]::2;[https://www.marca.com/coches-y-motos/salon-automovil-frankfurt.html?intcmp=MENUPROD&s_kw=frankfurt,h]::4;[https://www.marca.com/coches-y-motos/tecnologia.html?intcmp=MENUPROD&s_kw=tecnologia,h]::2;[https://www.foxnews.com/category/tech/topics/innovation,p]::1;
+<hyunkil|[https://developers.googleblog.com/search/label/Get%20Inspired?max-results=12,p]::1;
+<hyuck|[https://www.sensesofcinema.com/2021/great-directors/lucas-george,p]::1;
 <hyundais|[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;

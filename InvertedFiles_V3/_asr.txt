@@ -1,1 +1,2 @@
+<asr|[https://cloud.google.com/speech-to-text,p]::2;
 <asrelapses|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;

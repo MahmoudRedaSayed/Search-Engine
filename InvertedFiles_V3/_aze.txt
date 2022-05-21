@@ -1,3 +1,7 @@
-<azerbaijani|[https://simple.wikipedia.org,p]::2;
-<azerbaiyán|[https://www.marca.com/tiramillas/musica/2022/05/13/627e964a46163f496a8b45f8.html,s]::1;[https://www.marca.com/motor/formula1/calendario.html,h]::1;
-<aze|[https://www.marca.com/esports.html,h]::1;
+<azerbaijani|[https://simple.wikipedia.org,p]::2;[https://apps.apple.com/us/app/sofascore-live-score-app/id1176147574,p]::1;
+<azerbaiyán|[https://www.marca.com/motor/formula1/calendario.html,h]::1;[https://www.marca.com/motor/formula1/gp-azerbaiyan.html?intcmp=MENUPROD&s_kw=formula-1-gp-azerbaiyan,t]::1;[https://www.marca.com/motor/formula1/gp-azerbaiyan.html?intcmp=MENUPROD&s_kw=formula-1-gp-azerbaiyan,h]::10;[https://www.marca.com/motor/formula1/gp-azerbaiyan.html?intcmp=MENUPROD&s_kw=formula-1-gp-azerbaiyan,p]::1;
+<aze|[https://www.marca.com/esports.html?intcmp=MENUPROD&s_kw=esports,h]::1;[https://www.marca.com/esports.html,h]::1;
+<azerbaijan|[https://www.sensesofcinema.com/2022/festival-reports/the-pivot-to-asia-the-34th-tokyo-international-film-festival,p]::1;[https://www.sensesofcinema.com/2022/festival-reports/from-white-clouds-wild-delights-the-18th-golden-apricot-yerevan-international-film-festival,p]::1;[https://www.nytimes.com/2022/05/11/world/europe/russia-ukraine-fighting-east.html,p]::1;[https://www.dailymail.co.uk/femail/index.html,h]::1;[https://www.dailymail.co.uk/femail/index.html,p]::2;[https://www.dailymail.co.uk/auhome/index.html,s]::1;[https://www.dailymail.co.uk/video/index.html,p]::1;
+<azee|[https://wordpress.org/support/forum/requests-and-feedback,p]::1;
+<azevedo|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::1;
+<azeez|[https://player.arsenal.com/matches/first?utm_source=arsenaldotcom&utm_medium=meganavvideo&utm_campaign=arsenaldotcom,h]::1;

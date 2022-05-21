@@ -1,1 +1,2 @@
 <dsn|[https://bbc.github.io/subtitle-guidelines,p]::1;
+<dsnap|[https://www.fns.usda.gov/snap/supplemental-nutrition-assistance-program,h]::1;

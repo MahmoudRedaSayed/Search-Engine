@@ -1,2 +1,3 @@
-<leh|[https://www.bbc.com/,p]::1;
-<lehman|[https://www.tutorialspoint.com/what-is-the-equity-carve-outs-in-divestitures,p]::6;
+<lehman|[https://www.sensesofcinema.com/2021/book-reviews/42756,p]::2;[https://www.nationalgeographic.com/travel/article/how-net-zero-hotels-could-make-travel-more-climate-friendly,p]::1;[https://www.nytimes.com/live/2022/05/18/world/covid-19-mandates-vaccine-cases,p]::1;
+<lehmann|[https://www.bbc.com/future/article/20220510-why-are-there-continent-sized-blobs-in-the-deep-earth,p]::1;
+<lehua|[https://www.nationalgeographic.com/history/article/woman-navigated-3000-mile-pacific-voyage-without-maps-technology,p]::6;

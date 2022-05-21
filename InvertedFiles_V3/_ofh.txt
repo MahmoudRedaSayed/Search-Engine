@@ -1,0 +1,4 @@
+<ofhttpstwittercomintenttweetto|[https://developer.twitter.com/en/docs/twitter-for-websites/tweet-button/overview,p]::1;
+<ofhashtagsto|[https://developer.twitter.com/en/docs/twitter-for-websites/tweet-button/overview,p]::1;
+<ofhmbana|[https://www.hmbana.org/our-work/publications.html,p]::1;
+<ofheart|[https://www.foxnews.com/category/health/heart-health,p]::1;

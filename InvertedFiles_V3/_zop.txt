@@ -1,0 +1,4 @@
+<zoppiss|[https://www.sensesofcinema.com/2022/festival-reports/come-together-the-59th-viennale,p]::1;
+<zoppis|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::2;
+<zopoon|[https://www.dailywritingtips.com/what-does-sic-mean,s]::1;
+<zope|[https://www.gnu.org/licenses/license-list.html#CC0,p]::2;

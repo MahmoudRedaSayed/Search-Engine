@@ -1,6 +1,8 @@
-<ttml|[https://bbc.github.io/subtitle-guidelines,h]::1;[https://bbc.github.io/subtitle-guidelines,p]::14;
+<ttml|[https://bbc.github.io/subtitle-guidelines,h]::1;[https://bbc.github.io/subtitle-guidelines,p]::18;
 <ttmagent|[https://bbc.github.io/subtitle-guidelines,p]::1;
 <ttmrolemusic|[https://bbc.github.io/subtitle-guidelines,p]::1;
-<ttmrole|[https://bbc.github.io/subtitle-guidelines,p]::2;
+<ttmrole|[https://bbc.github.io/subtitle-guidelines,p]::4;
 <ttmrolesound|[https://bbc.github.io/subtitle-guidelines,p]::1;
 <ttmetadata|[https://bbc.github.io/subtitle-guidelines,p]::2;
+<ttmcopyrightbbc|[https://bbc.github.io/subtitle-guidelines,p]::1;
+<ttmcopyright|[https://bbc.github.io/subtitle-guidelines,p]::1;

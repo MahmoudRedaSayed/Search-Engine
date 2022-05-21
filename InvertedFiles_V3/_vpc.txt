@@ -1,0 +1,2 @@
+<vpc|[https://cloud.google.com/compute,p]::2;[https://cloud.google.com/products,p]::2;[https://cloud.google.com/run,p]::1;[https://cloud.google.com/bare-metal,p]::1;[https://cloud.google.com/vmware-engine,p]::1;[https://cloud.google.com/build,p]::1;[https://cloud.google.com/dataproc,p]::1;[https://cloud.google.com/analytics-hub,p]::2;[https://cloud.google.com/memorystore,p]::1;[https://cloud.google.com/migrate/anthos,p]::1;
+<vpcsc|[https://cloud.google.com/build,p]::1;

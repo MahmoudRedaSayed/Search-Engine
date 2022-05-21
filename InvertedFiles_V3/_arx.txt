@@ -1,0 +1,3 @@
+<arxivorg|[https://blog.archive.org/category/web-data-services,p]::1;
+<arxiv|[https://nautil.us/topics/math,p]::1;[https://nautil.us/topics/sociology,p]::1;[https://nautil.us/we-are-nowhere-close-to-the-limits-of-athletic-performance-2-11432,p]::1;[https://nautil.us/pursuing-covid-19-at-internet-speed-11453,p]::1;
+<arx|[https://www.dailywritingtips.com/greek-words,p]::1;

@@ -1,1 +1,6 @@
-<abnormal|[https://www.everydayhealth.com/cancer/guide,p]::1;[https://www.everydayhealth.com/type-2-diabetes/guide,p]::1;[https://www.everydayhealth.com/ulcerative-colitis/guide,p]::1;[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::2;
+<abnormally|[https://www.sensesofcinema.com/2006/great-directors/bolognini,p]::1;
+<abn|[https://cloud.google.com/solutions/open-banking-apix,p]::1;
+<abnormal|[https://cloud.google.com/bigtable,p]::1;[https://www.nationalgeographic.com/animals/article/los-angeles-mountain-lions-becoming-inbred,p]::1;[https://medlineplus.gov/genesandgenetherapy.html,p]::1;[https://blog.nemours.org/agesandstages/infant,p]::1;[https://blog.nemours.org/2021/11/infantile-spasms-blog-qa-about-is,p]::1;[https://meded.hms.harvard.edu/pathways,p]::1;[https://www.englishclub.com/vocabulary/vaccine.php,p]::1;[https://www.nytimes.com/live/2022/05/18/world/covid-19-mandates-vaccine-cases,p]::1;[https://www.everydayhealth.com/cancer/guide,p]::1;[https://www.everydayhealth.com/ulcerative-colitis/guide,p]::1;[https://www.everydayhealth.com/type-2-diabetes/guide,p]::1;[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::2;
+<abnormality|[https://blog.nemours.org,p]::2;
+<abnormalities|[http://medprofvideos.mayoclinic.org,p]::1;[https://www.nationalgeographic.com/animals/article/los-angeles-mountain-lions-becoming-inbred,p]::1;[https://medlineplus.gov/whatsnew,p]::1;
+<abnormalitiesa|[https://www.nationalgeographic.com/animals/article/los-angeles-mountain-lions-becoming-inbred,p]::1;

@@ -1,0 +1,4 @@
+<dla|[https://kasyno-now.com,h]::2;[https://kasyno-now.com,s]::1;[https://kasyno-now.com,p]::20;[https://kasyno-now.com/recenzja,p]::3;
+<dlatego|[https://kasyno-now.com,p]::6;
+<dlacartwright|[https://congress.gov,p]::1;
+<dlas|[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;

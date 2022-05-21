@@ -1,0 +1,2 @@
+<cto|[https://about.twitter.com/en/who-we-are/our-company.html,p]::3;[https://cloud.google.com/security,p]::1;[https://cloud.google.com/data-cloud,p]::1;[https://cloud.google.com/bare-metal,p]::1;[https://cloud.google.com/containers,p]::1;
+<ctoc|[https://www.hearst.it/terms-and-conditions-print-and-digital-advertising,s]::1;[https://www.hearst.it/terms-and-conditions-print-and-digital-advertising,p]::3;

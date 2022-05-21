@@ -1,5 +1,14 @@
-<ofcom|[https://www.sky.com/broadband,p]::1;[https://bbc.github.io/subtitle-guidelines,p]::1;
-<ofcajamarquilla|[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;
-<ofcardiovascular|[https://www.everydayhealth.com/stress/guide,p]::1;
 <ofcomiqls|[https://bbc.github.io/subtitle-guidelines,h]::1;
 <ofcomgss|[https://bbc.github.io/subtitle-guidelines,h]::1;
+<ofcom|[https://bbc.github.io/subtitle-guidelines,p]::1;[https://www.bbc.com/aboutthebbc/whatwedo/publicservices/accessservices,p]::1;[https://www.ofcom.org.uk/research-and-data/multi-sector-research/accessibility-research,t]::1;[https://www.ofcom.org.uk/research-and-data/multi-sector-research/accessibility-research,h]::1;[https://www.ofcom.org.uk/research-and-data/multi-sector-research/accessibility-research,p]::4;[http://www.bbc.co.uk/editorialguidelines/guidelines/impartiality,p]::1;[http://www.bbc.co.uk/editorialguidelines/guidelines/accuracy,p]::1;[http://www.bbc.co.uk/editorialguidelines/guidance/removal-online-content,p]::2;[https://www.ofcom.org.uk/consultations-and-statements/ofcom-and-the-bbc/the-operating-framework,t]::1;[https://www.bbc.com/editorialguidelines/guidelines/editorial-standards#15accountability,h]::1;[https://www.ofcom.org.uk/consultations-and-statements/ofcom-and-the-bbc/the-operating-framework,h]::1;[https://www.ofcom.org.uk/consultations-and-statements/ofcom-and-the-bbc/the-operating-framework,p]::3;[https://www.bbc.com/editorialguidelines/guidelines/editorial-standards#15accountability,p]::20;[http://www.bbc.co.uk/complaints/handle-complaint,h]::2;[http://www.bbc.co.uk/complaints/handle-complaint,p]::4;[https://www.hearst.co.uk/hearst-magazines-uk-complaints-procedure,p]::1;[https://www.sky.com/broadband,p]::1;
+<ofcoms|[https://www.bbc.com/aboutthebbc/whatwedo/publicservices/accessservices,p]::1;[https://www.ofcom.org.uk/research-and-data/multi-sector-research/accessibility-research,p]::1;[https://www.ofcom.org.uk/consultations-and-statements/ofcom-and-the-bbc/the-operating-framework,p]::1;[https://www.bbc.com/editorialguidelines/guidelines/editorial-standards#15accountability,p]::5;[http://www.bbc.co.uk/complaints/handle-complaint,p]::1;
+<ofcloud|[https://support.google.com/a/topic/7556794,p]::1;
+<ofcasino|[https://casino-now.co.uk,p]::1;
+<ofc|[https://nautil.us/topics/communication,p]::1;[https://www.ebay.com/globaldeals/tech,h]::1;[https://www.ebay.com/globaldeals/tech/vehicle-electronics-gps,h]::1;
+<ofcommonality|[https://nautil.us/how-we-learned-to-love-neanderthalsand-a-lot-of-other-hominids-too-11462,p]::1;
+<ofchinese|[https://ask.loc.gov/faq/300086,p]::1;
+<ofcareers|[https://www.loc.gov/careers,h]::1;
+<ofcovid|[https://hms.harvard.edu/returning-campus,p]::1;
+<ofcrueltyinjure|[https://www.dailymail.co.uk/ushome/index.html,p]::1;
+<ofcajamarquilla|[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;
+<ofcardiovascular|[https://www.everydayhealth.com/stress/guide,p]::1;

@@ -1,2 +1,5 @@
-<cyrus|[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::2;[https://www.dailymail.co.uk/auhome/index.html,s]::1;
-<cyréna|[https://olympics.com/fr,h]::1;
+<cyrillic|[https://www.sensesofcinema.com/2021/interviews/sunken-film-bill-morrison-talks-the-village-detective-a-song-cycle,p]::1;
+<cyriel|[https://www.marca.com/futbol/conference-league.html?intcmp=MENUPROD&s_kw=conference-league,h]::1;
+<cyrielle|[https://musique.rfi.fr,h]::1;
+<cyruss|[https://nautil.us/topics/neuroscience,p]::1;
+<cyrell|[https://www.dailymail.co.uk/auhome/index.html,s]::1;

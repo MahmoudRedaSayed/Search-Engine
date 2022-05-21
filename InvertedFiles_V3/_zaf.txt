@@ -1,0 +1,4 @@
+<zafiro|[https://www.marca.com/triatlon.html?intcmp=MENUPROD&s_kw=triatlon?intcmp=MENUPROD&s_kw=triatlon,h]::1;
+<zafarrancho|[https://www.marca.com/ciclismo/giro-italia/2022/05/17/628372ec37ff7b0023a84107-directo.html,p]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/12/627d32df46163f6da68b4587.html,p]::1;
+<zafar|[https://www.nytimes.com/2022/05/17/business/inflation-developing-economies.html,p]::4;
+<zaftig|[https://www.dailywritingtips.com/the-yiddish-handbook-40-words-you-should-know,p]::2;

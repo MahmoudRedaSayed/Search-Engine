@@ -1,1 +1,1 @@
-<rdn|[https://www.medicalnewstoday.com,p]::5;
+<rdn|[https://www.everydayhealth.com/,p]::2;[https://www.medicalnewstoday.com,p]::5;

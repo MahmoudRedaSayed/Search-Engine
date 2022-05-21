@@ -1,1 +1,2 @@
-<anjos|[https://www.dailymail.co.uk/sport/index.html,h]::1;
+<anjul|[https://www.foxnews.com/category/entertainment/movies,p]::1;
+<anjali|[https://www.nytimes.com/interactive/2021/us/covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/us/covid-cases-deaths-tracker.html,p]::1;[https://www.nytimes.com/interactive/2021/world/covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/us/mississippi-covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/us/pennsylvania-covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/us/connecticut-covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/us/arizona-covid-cases.html,p]::1;

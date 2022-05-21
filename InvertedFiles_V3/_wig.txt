@@ -1,1 +1,8 @@
+<wigan|[https://www.bbc.co.uk/sport,p]::1;[https://www.marca.com/motor/motogp/gp-holanda.html?intcmp=MENUPROD&s_kw=moto-gp-paises-bajos,h]::1;[https://www.dailymail.co.uk/sport/index.html,h]::1;
+<wiggle|[https://www.bbc.com/future/article/20220510-why-are-there-continent-sized-blobs-in-the-deep-earth,p]::1;
+<wiggins|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::1;
+<wiggling|[https://nautil.us/topics/evolution,p]::1;[https://nautil.us/topics/zoology,p]::1;
+<wig|[https://fr.casino-now-canada.com/logiciels,p]::1;[https://www.dailywritingtips.com/the-yiddish-handbook-40-words-you-should-know,p]::1;[https://www.dailymail.co.uk/auhome/index.html,s]::1;
+<wight|[https://www.dailywritingtips.com/25-confused-homonym-pairs,p]::5;
 <wigwam|[https://en.wikipedia.org/wiki/American_English,p]::1;
+<wiggles|[https://www.dailymail.co.uk/auhome/index.html,s]::1;

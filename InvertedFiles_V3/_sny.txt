@@ -1,1 +1,4 @@
-<snyder|[https://buhomag.elmundo.es,h]::2;[https://buhomag.elmundo.es,p]::1;
+<snyder|[https://buhomag.elmundo.es,h]::2;[https://buhomag.elmundo.es,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::3;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;[https://www.nytimes.com/ca/?action=click&region=Footer&pgtype=Homepage,h]::1;
+<snyders|[https://www.sensesofcinema.com/2022/interviews/a-joyride-through-technological-change-interview-with-david-cox,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::2;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;
+<sny|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;
+<snyg|[https://www.ebay.com/globaldeals/tech/tv-video-home-audio,h]::1;

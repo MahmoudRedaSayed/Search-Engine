@@ -1,0 +1,5 @@
+<cdx|[https://blog.archive.org,p]::5;[https://blog.archive.org/category/event,p]::5;[https://archive.org/help/wayback_api.php,h]::1;[https://archive.org/help/wayback_api.php,p]::4;[https://github.com/internetarchive/wayback/tree/master/wayback-cdx-server,h]::2;[https://github.com/internetarchive/wayback/tree/master/wayback-cdx-server,p]::43;
+<cdxserver|[https://github.com/internetarchive/wayback/tree/master/wayback-cdx-server,p]::1;
+<cdxfiles|[https://github.com/internetarchive/wayback/tree/master/wayback-cdx-server,p]::1;
+<cdxurislist|[https://github.com/internetarchive/wayback/tree/master/wayback-cdx-server,p]::1;
+<cdxgz|[https://github.com/internetarchive/wayback/tree/master/wayback-cdx-server,p]::1;

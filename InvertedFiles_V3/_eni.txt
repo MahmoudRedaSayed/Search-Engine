@@ -1,2 +1,10 @@
-<enigmatic|[https://www.sensesofcinema.com/special-dossiers,h]::1;[http://sensesofcinema.podbean.com,p]::1;
-<eni|[https://stackoverflow.com/questions,h]::1;
+<enigmatic|[https://www.nytimes.com/,p]::1;[https://www.sensesofcinema.com/2022/feature-articles/heil-darling-a-story-of-lips-that-havent-laughed,p]::1;[https://www.sensesofcinema.com/2022/feature-articles/the-cry-cinema-sentiment-minnelli,p]::1;[https://www.sensesofcinema.com/2022/feature-articles/loss-and-absence-in-still-life,p]::1;[https://www.sensesofcinema.com/2015/feature-articles/nationalism-on-and-off-the-screen,p]::2;[https://nautil.us/topics/astronomy,p]::1;[https://www.nationalgeographic.com/science/article/denisovan-tooth-found-in-laos-adds-new-wrinkles-to-their-story,p]::3;[https://www.nytimes.com/interactive/2022/03/18/technology/cryptocurrency-crypto-guide.html,p]::1;[https://www.nytimes.com/ca/?action=click&region=Footer&pgtype=Homepage,p]::1;[https://www.dailywritingtips.com/20-great-opening-lines-to-inspire-the-start-of-your-story,h]::1;
+<enin|[https://codelabs.developers.google.com/codelabs/appactions,p]::1;
+<enigma|[https://www.marca.com/ajedrez.html?intcmp=MENUPROD&s_kw=ajedrez,h]::1;[https://www.sensesofcinema.com/2022/interviews/a-joyride-through-technological-change-interview-with-david-cox,p]::8;[https://www.sensesofcinema.com/2022/great-directors/tahimik-kidlat,p]::1;[https://www.sensesofcinema.com/2022/book-reviews/the-depths-of-empiricism-werner-herzog-ecstatic-truth-and-other-useless-conquests-by-kristoffer-hegnsvad,p]::1;[https://nautil.us/topics/technology,p]::1;[https://nautil.us/topics/psychology,p]::1;[https://nautil.us/how-we-learned-to-love-neanderthalsand-a-lot-of-other-hominids-too-11462,p]::1;[https://www.nationalgeographic.com/magazine/article/why-are-people-so-dang-obsessed-with-mars-feature,p]::1;
+<enix|[https://cloud.google.com/solutions/gaming,p]::1;
+<enicnaric|[http://www.ciep.fr,p]::1;
+<eniro|[https://www.marca.com/coches-y-motos/salon-automovil-paris.html?intcmp=MENUPROD&s_kw=paris,h]::1;
+<enigmas|[https://nautil.us/topics/zoology,p]::1;
+<enige|[https://onlinecasino-now.nl/casino-reviews/cookie,p]::2;[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::1;[https://onlinecasino-now.nl/casino-software,p]::1;
+<enim|[https://www.dailywritingtips.com/latin-words-and-expressions-all-you-need-to-know,p]::2;
+<eniko|[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;

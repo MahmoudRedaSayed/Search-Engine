@@ -1,0 +1,2 @@
+<djvu|[https://blog.archive.org/developers,p]::2;
+<djvutxt|[https://blog.archive.org/category/technical,p]::1;

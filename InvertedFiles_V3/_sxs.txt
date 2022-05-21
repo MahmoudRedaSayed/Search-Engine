@@ -1,1 +1,2 @@
-<sxsw|[https://blog.archive.org,p]::1;
+<sxsw|[https://blog.archive.org/category/event,p]::1;[https://www.sensesofcinema.com/author/dirk-de-bruyn,h]::2;[https://blog.archive.org/category/web-data-services,p]::1;[https://www.sensesofcinema.com/author/berenice-reynaud,h]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::1;[https://brightcove.com,p]::1;[https://tezos.foundation/launch-digital-art-gallery,p]::1;
+<sxswedu|[https://www.edtechdigest.com/who-we-are,p]::1;[https://www.edtechdigest.com/events,p]::2;

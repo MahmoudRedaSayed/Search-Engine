@@ -1,1 +1,8 @@
-<isidro|[https://www.marca.com/futbol/laliga-santander/atletico-sevilla-directo/2022/05/15/01_0101_20220515_175_179.html,p]::1;[https://www.marca.com/tiramillas/musica/2022/05/15/6280e82e268e3e8c6a8b458c.html,s]::1;[https://www.marca.com/tiramillas/musica/2022/05/15/6280e82e268e3e8c6a8b458c.html,p]::1;[https://www.marca.com/tiramillas.html,h]::1;
+<isis|[https://english.ahram.org.eg/,p]::1;[https://www.sensesofcinema.com/2022/festival-reports/from-white-clouds-wild-delights-the-18th-golden-apricot-yerevan-international-film-festival,p]::1;[https://nautil.us/topics/neuroscience,p]::1;[https://nautil.us/topics/psychology,h]::1;[https://www.dailywritingtips.com/possessive-of-proper-names-ending-in-s,p]::1;[https://www.foxnews.com/world,p]::1;[https://www.foxnews.com/category/world/terrorism,p]::2;
+<isidre|[https://www.marca.com/motor/dakar.html?intcmp=MENUPROD&s_kw=dakar,h]::1;
+<isidro|[https://www.marca.com/deportes-invierno.html?intcmp=MENUPROD&s_kw=deportes-invierno,h]::1;[https://www.marca.com/turf.html?intcmp=MENUPROD&s_kw=turf,h]::1;[https://www.marca.com/toros.html?intcmp=MENUPROD&s_kw=toros,h]::2;
+<isidras|[https://www.marca.com/toros.html?intcmp=MENUPROD&s_kw=toros,h]::1;
+<isidore|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;
+<ising|[https://nautil.us/topics/physics,p]::1;
+<isisnt|[https://www.dailywritingtips.com/congratulations-on-or-for,p]::1;
+<isitironiccom|[https://www.dailywritingtips.com/what-is-irony-with-examples,p]::1;

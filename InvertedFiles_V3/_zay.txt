@@ -1,1 +1,2 @@
-<zayed|[https://english.ahram.org.eg/,p]::1;[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::1;[https://www.dailymail.co.uk/health/index.html,s]::1;[https://www.marca.com/tiramillas.html,h]::1;
+<zayed|[https://english.ahram.org.eg/,p]::1;[https://nautil.us/topics/technology,p]::1;
+<zaynabon|[https://www.dailywritingtips.com/writing-prompts-101,s]::1;

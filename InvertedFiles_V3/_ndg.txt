@@ -1,1 +1,2 @@
-<ndgeneration|[https://www.apple.com/lae/ipad,p]::3;
+<ndgeneration|[https://www.apple.com/ipad,p]::3;[https://www.apple.com/us/shop/goto/buy_accessories,h]::1;
+<ndgrade|[https://www.kizphonics.com/phonics-program/preschool,p]::1;[https://www.kizphonics.com/phonics-program/kindergarten-level-1,p]::1;[https://www.kizphonics.com/phonics-program/kindergarten-level-2,p]::1;[https://www.kizphonics.com/phonics-program/1st-grade-level-1,p]::1;[https://www.kizphonics.com/phonics-program/1st-grade-level-2,p]::1;[https://www.kizphonics.com/phonics-program/2nd-grade-level-1,p]::2;

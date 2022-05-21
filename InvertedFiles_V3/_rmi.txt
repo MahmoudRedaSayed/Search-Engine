@@ -1,0 +1,8 @@
+<rmit|[https://www.sensesofcinema.com/2022/interviews/a-joyride-through-technological-change-interview-with-david-cox,p]::3;[https://www.sensesofcinema.com/author/adrian-danks,p]::1;[https://www.sensesofcinema.com/2022/cteq/a-pin-for-me-at-fritz-langs-man-hunt,p]::1;[https://www.sensesofcinema.com/about/contact-us,p]::1;[https://www.sensesofcinema.com/about/staff,p]::4;[http://www.rmit.edu.au,t]::2;[http://www.rmit.edu.au,h]::5;[http://www.rmit.edu.au,p]::8;
+<rmibeyer|[https://congress.gov,p]::1;
+<rmiissa|[https://congress.gov,p]::1;
+<rmimcclintock|[https://congress.gov,p]::1;
+<rmimeng|[https://congress.gov,p]::1;
+<rmimooney|[https://congress.gov,p]::1;
+<rmivaladao|[https://congress.gov,p]::1;
+<rmiwalorski|[https://congress.gov,p]::1;

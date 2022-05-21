@@ -1,1 +1,2 @@
+<idfa|[http://www.networkadvertising.org/faq,p]::1;[https://pages.ebay.com/help/account/cookies-web-beacons.html,p]::1;[https://www.onefootball.com/company/app-privacy-policy-en.html,p]::1;
 <idf|[https://www.everydayhealth.com/type-2-diabetes/guide,s]::1;[https://www.everydayhealth.com/type-2-diabetes/guide,p]::1;

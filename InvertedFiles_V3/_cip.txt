@@ -1,0 +1,10 @@
+<ciphers|[https://www.englishclub.com/,p]::1;[https://www.myenglishclub.com,h]::2;[https://www.myenglishclub.com/home,h]::2;
+<cipher|[https://www.sensesofcinema.com/2022/interviews/a-joyride-through-technological-change-interview-with-david-cox,p]::1;
+<cipollini|[https://www.marca.com/ciclismo/giro-italia/2022/05/17/6282b9b0268e3e8c588b45ab.html,s]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/17/6282b9b0268e3e8c588b45ab.html,p]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/14/627f8f0d37ff7b00239ce9e5-directo.html,s]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/14/627f8f0d37ff7b00239ce9e5-directo.html,p]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/12/627cece5749dee001f555a85-directo.html,p]::1;
+<cipreste|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;
+<cippe|[https://edaa.eu/who-we-are/our-board,p]::1;
+<cips|[https://bit.ly/3rZV7uA,p]::2;
+<cipherhealth|[http://klasresearch.com,p]::1;
+<cip|[https://ask.loc.gov/faq/299738,p]::1;
+<cipanas|[https://www.nytimes.com/2022/05/17/business/inflation-developing-economies.html,p]::1;
+<cipheron|[https://www.dailywritingtips.com/75-contronyms-words-with-contradictory-meanings,s]::1;

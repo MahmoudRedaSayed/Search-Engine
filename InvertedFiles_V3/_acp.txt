@@ -1,3 +1,3 @@
-<acpmojd|[https://www.france24.com,p]::1;
+<acpmojd|[https://www.france24.com,p]::1;[https://www.rfi.fr/en,p]::1;[https://observers.france24.com,p]::1;
+<acpm|[http://www.acpm.fr/Support-Numerique/site/e-marchespublics-com,t]::1;[http://www.acpm.fr/Support-Numerique/site/e-marchespublics-com,h]::2;[https://www.acpm.fr/Support-Numerique/site/rfi-fr,t]::1;[https://www.acpm.fr/Support-Numerique/site/rfi-fr,h]::2;[https://www.acpm.fr/Les-chiffres/Frequentation-Sites-et-Applications,p]::1;[https://www.acpm.fr/Les-chiffres/Frequentation-Radios-digitales,p]::1;[https://www.acpm.fr/Les-chiffres/Diffusion-Presse,p]::1;
 <acpas|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::2;
-<acp|[http://www.archive-it.org,p]::2;

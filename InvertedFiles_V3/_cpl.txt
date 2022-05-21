@@ -1,0 +1,2 @@
+<cpluspluscom|[https://cplusplus.com,t]::1;
+<cpl|[https://www.gnu.org/licenses/license-list.html#CC0,p]::1;

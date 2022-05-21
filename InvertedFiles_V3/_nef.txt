@@ -1,1 +1,4 @@
-<nefasto|[https://www.marca.com/radio.html?intcmp=BOTONPORTADA01&s_kw=radiomarca,h]::1;
+<nefarious|[https://www.sensesofcinema.com/2006/great-directors/bolognini,p]::1;[https://www.sensesofcinema.com/2021/great-directors/lucas-george,p]::1;[https://www.sensesofcinema.com/2022/festival-reports/the-pivot-to-asia-the-34th-tokyo-international-film-festival,p]::1;[https://www.sensesofcinema.com/2022/cteq/fritz-langs-spione-1928,p]::1;[https://www.sensesofcinema.com/2015/feature-articles/notes-on-bruno-dumonts-ptit-quinquin-or-something-is-rotten-in-the-north-of-france,p]::1;[https://www.nationalgeographic.com/magazine/article/viruses-can-cause-great-harm-but-we-could-not-live-without-them-feature,p]::1;[https://www.dailywritingtips.com/100-exquisite-adjectives,s]::1;[https://www.dailywritingtips.com/100-exquisite-adjectives,p]::1;
+<nefertiti|[https://www.sensesofcinema.com/2006/great-directors/bolognini,p]::1;
+<nefunkční|[https://cs.wordpress.org/plugins/broken-link-checker,p]::4;
+<nefunkčních|[https://cs.wordpress.org/plugins/broken-link-checker,p]::2;

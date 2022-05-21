@@ -1,5 +1,7 @@
-<dugout|[https://www.bbc.co.uk/sport,p]::2;[https://www.dailymail.co.uk/sport/index.html,h]::1;[https://www.dailymail.co.uk/sport/index.html,p]::1;
 <duggee|[https://www.bbc.co.uk/cbeebies,p]::1;
-<duggars|[https://www.dailymail.co.uk/femail/index.html,h]::1;
+<dug|[https://www.sensesofcinema.com/2021/great-directors/riefenstahl-leni,p]::1;[https://blog.archive.org/category/television-archive,p]::1;[https://www.sensesofcinema.com/2022/festival-reports/afi-fest-afm-the-perils-of-online,p]::1;[http://blog.zog.org/2013/11/links-voor-4-november-2013.html,p]::1;[https://www.nationalgeographic.com/magazine/article/tulsa-finally-confronts-the-day-a-white-mob-destroyed-a-black-community-feature,p]::1;[https://www.nytimes.com/2022/05/11/world/europe/russia-ukraine-fighting-east.html,p]::1;[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;[https://player.arsenal.com/matches/first?utm_source=arsenaldotcom&utm_medium=meganavvideo&utm_campaign=arsenaldotcom,p]::1;
+<dugin|[https://www.nytimes.com/interactive/2022/03/18/technology/cryptocurrency-crypto-guide.html,p]::1;
+<dugan|[https://www.dailywritingtips.com/50-slang-terms-for-money,p]::1;
+<dugout|[https://www.chicagotribune.com/sports/cubs/ct-chicago-cubs-christopher-morel-brandon-hughes-20220518-fxv4ovo3ybhtvarlqy56k7flrq-story.html#nt=interstitial-auto,p]::1;[https://player.arsenal.com/matches/first?utm_source=arsenaldotcom&utm_medium=meganavvideo&utm_campaign=arsenaldotcom,h]::1;
+<dugon|[https://www.dailymail.co.uk/ushome/index.html,h]::1;
 <dugdale|[https://www.dailymail.co.uk/health/index.html,p]::1;
-<dug|[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;

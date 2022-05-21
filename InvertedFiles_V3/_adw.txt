@@ -1,0 +1,2 @@
+<adweek|[https://about.twitter.com/en/who-we-are/our-company.html,p]::1;
+<adwoa|[https://www.hearst.com/news,p]::2;[https://www.hearst.com/magazines,p]::4;

@@ -1,1 +1,1 @@
-<fdm|[https://www.sky.com/shop/mobile,p]::1;[https://www.sky.com/shop/mobile/tablets,p]::1;[https://www.sky.com/shop/mobile/plans,p]::1;
+<fdm|[https://www.sky.com/shop/mobile,p]::1;[https://www.sky.com/shop/mobile/plans,p]::1;[https://www.sky.com/shop/mobile/tablets,p]::1;

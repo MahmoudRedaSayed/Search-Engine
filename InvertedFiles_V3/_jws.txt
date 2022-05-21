@@ -1,2 +1,2 @@
-<jwst|[https://www.iflscience.com/space,h]::1;[https://www.iflscience.com/space,p]::1;
 <jws|[https://stackoverflow.com/questions/tagged/openid,h]::1;
+<jwst|[https://www.foxnews.com/science,p]::1;[https://www.iflscience.com/space,h]::1;[https://www.iflscience.com/space,p]::1;

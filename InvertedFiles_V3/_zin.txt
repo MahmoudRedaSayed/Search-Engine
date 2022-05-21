@@ -1,3 +1,11 @@
-<zinchenko|[https://www.dailymail.co.uk/sport/index.html,s]::1;[https://www.marca.com/futbol/premier-league/west-ham-utd-m-city-directo/2022/05/15/01_0106_20220515_21_43.html,p]::2;
-<zinc|[https://www.dailymail.co.uk/health/index.html,p]::1;
-<zines|[https://archive.org/about/bios.php,p]::1;
+<zines|[https://archive.org/about/bios.php,p]::1;[https://blog.archive.org/category/audio-archive/78rpm,s]::1;[https://blog.archive.org/category/audio-archive,s]::1;[https://blog.archive.org/category/books-archive,s]::1;[https://blog.archive.org/category/cool-items,s]::1;[https://blog.archive.org/category/live-music-archive-2,s]::1;[https://blog.archive.org/category/books-archive/lending-books,s]::1;
+<zinc|[https://www.hearst.com/ventures,p]::1;[https://kidshealth.org/en/parents/solid-foods.html,p]::1;[https://www.dailymail.co.uk/health/index.html,p]::2;
+<zinke|[https://blog.archive.org/category/television-archive,p]::1;[https://www.nrdc.org/stories/water-pollution-everything-you-need-know,p]::1;
+<zinčenko|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;
+<zinsen|[https://onlinecasino-now.de,p]::1;
+<zink|[https://nautil.us/topics/history,p]::1;
+<zintuigen|[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::1;
+<zin|[https://onlinecasino-now.nl/casino-software,p]::1;
+<zinks|[https://www.nytimes.com/section/todayspaper,h]::1;
+<zinnemann|[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::2;
+<zinchenko|[https://www.dailymail.co.uk/sport/index.html,h]::1;[https://www.dailymail.co.uk/sport/index.html,s]::1;

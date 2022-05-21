@@ -1,0 +1,2 @@
+<cvc|[https://www.emirates.com/english/sitetools/privacy_policy.aspx,p]::1;[https://www.emirates.com/ae/english/sitetools/privacy_policy.aspx,p]::1;
+<cvccvv|[https://www.emirates.com/english/sitetools/privacy_policy.aspx,p]::1;[https://www.emirates.com/ae/english/sitetools/privacy_policy.aspx,p]::1;

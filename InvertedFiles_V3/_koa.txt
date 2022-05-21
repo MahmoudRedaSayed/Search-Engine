@@ -1,1 +1,4 @@
 <koalas|[https://www.bbc.com/,h]::1;
+<koala|[https://www.arcademicskillbuilders.com/games,p]::2;
+<koas|[https://www.campdream.org/about/partners,p]::1;
+<koa|[https://www.campdream.org/about/partners,p]::1;

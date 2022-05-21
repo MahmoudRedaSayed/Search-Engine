@@ -1,2 +1,4 @@
-<aglutenfree|[https://www.everydayhealth.com/psoriasis/guide,p]::1;
 <aglutina|[https://www.marca.com/mundo-marca/2017/01/18/587f574fe2704e47368b45ff.html,p]::1;
+<agli|[https://www.hearst.it/termini-e-condizioni-delle-app,p]::2;[https://www.hearst.it/valori-e-principi-dei-nostri-contenuti,p]::1;[https://www.hearst.it/soluzioni/hearst-create,p]::1;[https://www.hearst.it/soluzioni/programmatic,p]::2;[https://www.hearst.it/soluzioni/data-insight,p]::2;[https://www.hearst.it/brand/runners-world,p]::1;[https://it.swiss-casino-now.com/recensioni,p]::2;[https://casino-now.it/recensioni,p]::1;[https://casino-now.it/software,p]::1;
+<aglaé|[https://ma.tt,p]::1;
+<aglutenfree|[https://www.everydayhealth.com/psoriasis/guide,p]::1;

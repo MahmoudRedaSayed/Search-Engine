@@ -1,0 +1,3 @@
+<mpi|[http://www.iris-france.org,p]::1;[https://cloud.google.com/solutions/hpc,p]::1;
+<mpipod|[https://www.campdream.org/ways-to-support/our-wish-list,p]::1;
+<mpifresoapexaweiss|[https://nautil.us/topics/astronomy,p]::1;

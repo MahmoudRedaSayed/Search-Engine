@@ -1,0 +1,2 @@
+<oumar|[https://appafrique.rfi.fr,p]::3;
+<oumuamua|[https://nautil.us/topics/astronomy,h]::1;[https://nautil.us/topics/astronomy,p]::2;

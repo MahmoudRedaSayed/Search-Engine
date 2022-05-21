@@ -1,1 +1,2 @@
-<ibuprofen|[https://www.dailymail.co.uk/health/index.html,h]::3;[https://www.dailymail.co.uk/health/index.html,p]::2;[https://www.iflscience.com/health-and-medicine,h]::1;[https://www.iflscience.com/health-and-medicine,p]::1;
+<ibu|[http://www.beinsports.com/id,h]::3;[http://www.beinsports.com/id,p]::2;
+<ibuprofen|[https://www.foxnews.com/category/health/heart-health,p]::1;[https://www.dailymail.co.uk/health/index.html,h]::3;[https://www.dailymail.co.uk/health/index.html,p]::2;[https://www.iflscience.com/health-and-medicine,h]::1;[https://www.iflscience.com/health-and-medicine,p]::1;

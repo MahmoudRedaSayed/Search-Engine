@@ -1,0 +1,2 @@
+<icsp|[https://circuitdigest.com/microcontroller-projects/arduino-spi-communication-tutorial,p]::3;
+<ics|[https://bit.ly/3MJrS7m,t]::1;[https://bit.ly/3MJrS7m,h]::1;[https://bit.ly/3MJrS7m,p]::3;[https://communityhealth.mayoclinic.org/care-team,s]::1;[https://communityhealth.mayoclinic.org/care-team,p]::1;

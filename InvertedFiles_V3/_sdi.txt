@@ -1,0 +1,2 @@
+<sdiserial|[https://circuitdigest.com/microcontroller-projects/arduino-spi-communication-tutorial,p]::1;
+<sdi|[https://blog.archive.org,p]::1;[https://blog.archive.org/category/event,p]::1;

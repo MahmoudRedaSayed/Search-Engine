@@ -1,1 +1,1 @@
-<ppe|[https://www.dailymail.co.uk/health/index.html,p]::1;
+<ppe|[https://www.aboutamazon.com/news/company-news/2021-letter-to-shareholders,p]::1;[https://www.englishclub.com/vocabulary/coronavirus-covid19.php,s]::2;[https://www.englishclub.com/vocabulary/coronavirus-covid19.php,p]::2;[https://www.dailymail.co.uk/health/index.html,p]::1;

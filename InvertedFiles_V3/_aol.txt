@@ -1,2 +1,2 @@
-<aol|[https://archive.org/about/bios.php,p]::1;
+<aol|[https://www.hearst.com/broadcasting,p]::3;[https://archive.org/about/bios.php,p]::1;[https://www.hearst.com/ventures,p]::1;[https://myindigolives.wordpress.com,p]::1;[https://blog.archive.org/category/event/past-event,p]::1;
 <aols|[https://archive.org/about/bios.php,p]::1;

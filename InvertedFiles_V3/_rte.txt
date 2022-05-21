@@ -1,0 +1,1 @@
+<rtetempbrbreob|[https://dev.twitter.com/oauth/reference/get/oauth/authenticate,p]::1;[https://dev.twitter.com/oauth/reference/post/oauth/access_token,p]::1;

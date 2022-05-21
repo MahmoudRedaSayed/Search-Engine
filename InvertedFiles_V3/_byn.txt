@@ -1,0 +1,8 @@
+<byncsa|[https://www.grammar-quizzes.com/,p]::1;[https://www.discourse.org,p]::1;[https://blog.discourse.org/2018/11/free-hosting-for-open-source-v2,p]::1;[http://creativecommons.org/licenses/by-nc-sa/4.0,t]::1;[http://creativecommons.org/licenses/by-nc-sa/4.0,h]::1;[https://wiki.creativecommons.org/FAQ,s]::1;[https://wiki.creativecommons.org/FAQ,p]::1;
+<bynode|[https://myindigolives.wordpress.com,h]::1;
+<byncnd|[https://www.icrc.org/en/war-and-law/protected-persons/children,p]::1;[https://www.icrc.org/en/war-and-law/protected-persons/internally-displaced-persons,p]::1;[https://www.icrc.org/en/person/peter-maurer,p]::2;[https://creativecommons.org/2022/05/04/eight-case-studies-show-opportunities-challenges-and-needs-of-low-capacity-and-non-western-cultural-heritage-institutions,s]::1;[https://creativecommons.org/2022/05/04/eight-case-studies-show-opportunities-challenges-and-needs-of-low-capacity-and-non-western-cultural-heritage-institutions,p]::1;[https://wiki.creativecommons.org/FAQ,s]::1;[https://wiki.creativecommons.org/FAQ,p]::3;
+<bynum|[https://www.nationalgeographic.com/magazine/article/tulsa-finally-confronts-the-day-a-white-mob-destroyed-a-black-community-feature,p]::3;
+<bynd|[https://creativecommons.org/use-remix,s]::1;[https://creativecommons.org/use-remix,p]::1;[https://wiki.creativecommons.org/FAQ,s]::1;[https://wiki.creativecommons.org/FAQ,p]::3;
+<bync|[https://wiki.creativecommons.org/FAQ,s]::1;[https://wiki.creativecommons.org/FAQ,p]::2;
+<byncndgrant|[https://wiki.creativecommons.org/FAQ,p]::1;
+<byngthorne|[https://www.dailymail.co.uk/money/index.html,h]::1;[https://www.dailymail.co.uk/money/index.html,p]::1;

@@ -1,1 +1,3 @@
+<gsocial|[https://www.hearst.it/terms-and-conditions-print-and-digital-advertising,p]::1;
+<gson|[https://www.dailywritingtips.com/100-beautiful-and-ugly-words,s]::1;
 <gsoc|[http://list.org,p]::1;

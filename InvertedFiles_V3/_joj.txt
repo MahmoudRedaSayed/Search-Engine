@@ -1,2 +1,6 @@
-<jojo|[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;
-<jojack|[https://www.medicalnewstoday.com,p]::1;
+<jojojo|[https://www.marca.com/futbol/barcelona/2022/05/18/628237a7268e3e89618b45c3.html,p]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/14/627f8f0d37ff7b00239ce9e5-directo.html,p]::1;
+<jojojojojojojojo|[https://www.marca.com/futbol/europa-league/2022/05/18/6284a833ca4741d2228b4633.html,p]::1;
+<jojack|[https://www.medicalnewstoday.com,p]::1;[https://www.dailywritingtips.com/100-beautiful-and-ugly-words,p]::2;
+<joji|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;
+<jojo|[https://m.imdb.com/chart/starmeter/?ref_=nv_cel_brn,p]::1;[https://www.dailywritingtips.com/100-beautiful-and-ugly-words,s]::1;
+<jojackon|[https://www.dailywritingtips.com/100-beautiful-and-ugly-words,s]::1;

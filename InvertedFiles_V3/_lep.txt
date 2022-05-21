@@ -1,1 +1,8 @@
-<lepe|[https://www.marca.com/futbol.html?intcmp=MENUPROD&s_kw=futbol,h]::1;[https://www.marca.com/radio.html?intcmp=BOTONPORTADA01&s_kw=radiomarca,h]::1;
+<lepe|[https://www.marca.com/futbol/segunda-rfef.html?intcmp=MENUPROD&s_kw=segunda-rfef,h]::2;
+<lepore|[https://www.sensesofcinema.com/about/patrons,p]::1;
+<lepistö|[https://cloud.google.com/translate,p]::1;
+<lepaysafe|[https://fr.casino-now-canada.com,p]::1;
+<leplayground|[https://fr.casino-now-canada.com,p]::1;
+<lepoker|[https://fr.swiss-casino-now.com,p]::1;
+<lepiej|[https://kasyno-now.com,p]::1;
+<leprosy|[https://www.dailywritingtips.com/10-rules-for-writing-numbers-and-numerals,p]::1;

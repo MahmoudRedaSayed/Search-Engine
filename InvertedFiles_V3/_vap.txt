@@ -1,2 +1,12 @@
-<vapes|[https://www.dailymail.co.uk/auhome/index.html,h]::1;[https://www.dailymail.co.uk/auhome/index.html,p]::1;
+<vaping|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk/news/index.html,h]::1;[https://www.dailymail.co.uk/auhome/index.html,h]::1;[https://www.dailymail.co.uk/auhome/index.html,s]::1;
+<vapuleó|[https://www.marca.com/motor/motogp/gp-holanda.html?intcmp=MENUPROD&s_kw=moto-gp-paises-bajos,h]::1;
+<vaporwave|[https://www.sensesofcinema.com/2022/feature-articles/smooth-digital-reveries-on-proto-vaporwave-and-the-flying-luna-clipper,p]::18;
+<vaporwaves|[https://www.sensesofcinema.com/2022/feature-articles/smooth-digital-reveries-on-proto-vaporwave-and-the-flying-luna-clipper,p]::2;
+<vapor|[https://www.sensesofcinema.com/2022/feature-articles/the-cry-cinema-sentiment-minnelli,p]::1;[https://nautil.us/topics/psychology,p]::1;
+<vapourises|[https://www.sensesofcinema.com/2022/feature-articles/no-exit-monte-hellmans-the-shooting,p]::1;
+<vaporizer|[https://www.britannica.com/reviews,h]::1;[https://www.britannica.com/reviews/wellness,h]::1;
+<vaporub|[https://nautil.us/topics/communication,p]::1;
+<vaporize|[https://nautil.us/topics/physics,p]::1;
+<vapid|[https://www.dailywritingtips.com/english-grammar-101-all-you-need-to-know,p]::1;
 <vapour|[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;
+<vapp|[https://apps.apple.com/us/app/champions-league-official/id1024506667,p]::1;

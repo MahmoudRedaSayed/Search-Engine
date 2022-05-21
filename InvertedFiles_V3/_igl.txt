@@ -1,3 +1,4 @@
-<iglesias|[https://www.marca.com,h]::1;[https://www.marca.com/futbol/primera-division/2022/05/15/627fcb40e2704ee5598b4581.html,p]::1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]::1;[https://ar.marca.com/claro/?intcmp=BOTONPORTADA&s_kw=portada,p]::1;[https://www.marca.com?intcmp=MENUMIGA&s_kw=home,h]::1;
-<iglesia|[https://us.marca.com/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;
-<igloo|[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;
+<iglesias|[https://www.marca.com/balonmano.html?intcmp=MENUPROD&s_kw=balonmano,h]::1;[https://www.marca.com/paralimpicos.html?intcmp=MENUPROD&s_kw=paralimpicos,h]::1;[https://www.marca.com/futbol/betis/2022/05/16/62819428e2704ed5378b4576.html,h]::1;[https://www.marca.com/futbol/betis/2022/05/16/62819428e2704ed5378b4576.html,s]::2;[https://www.marca.com/futbol/betis/2022/05/16/62819428e2704ed5378b4576.html,p]::2;[https://www.marca.com/futbol/copa-rey.html?intcmp=MENUPROD&s_kw=futbol-copa-rey,h]::3;[https://www.marca.com/futbol/europa-league.html?intcmp=MENUPROD&s_kw=europa-league,h]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/12/627cef4ee2704e95038b45e4.html,p]::1;
+<iglesia|[https://nautil.us/topics/sociology,p]::2;[https://www.nytimes.com/es,p]::1;
+<igl|[https://www.ebay.com/globaldeals/tech/laptops-netbooks,h]::1;
+<igloo|[https://www.ebay.com/globaldeals/home,h]::1;[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;

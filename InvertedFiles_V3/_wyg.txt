@@ -1,0 +1,9 @@
+<wygrane|[https://kasyno-now.com,h]::1;[https://kasyno-now.com,s]::1;[https://kasyno-now.com,p]::4;
+<wygranych|[https://kasyno-now.com,s]::1;[https://kasyno-now.com,p]::7;
+<wygraną|[https://kasyno-now.com,s]::2;[https://kasyno-now.com,p]::4;
+<wygrana|[https://kasyno-now.com,p]::2;
+<wygrać|[https://kasyno-now.com,p]::2;
+<wygrywających|[https://kasyno-now.com,p]::1;
+<wygodne|[https://kasyno-now.com,p]::1;
+<wygranej|[https://kasyno-now.com,p]::1;
+<wyglądała|[https://blog.aboutamazon.pl,h]::1;

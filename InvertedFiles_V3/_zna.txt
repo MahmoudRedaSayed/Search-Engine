@@ -1,1 +1,14 @@
-<znanost|[http://vedrigrad.hr,p]::1;
+<znanie|[https://www.marca.com/tiramillas/actualidad/2022/05/18/62845e8237ff7b0023aa7493-directo.html,p]::1;
+<znalazły|[https://kasyno-now.com,s]::1;[https://kasyno-now.com,p]::1;
+<znajomość|[https://kasyno-now.com,s]::1;
+<znajdziemy|[https://kasyno-now.com,p]::1;
+<znajdujące|[https://kasyno-now.com,p]::3;
+<znak|[https://kasyno-now.com,p]::1;
+<znaleźć|[https://kasyno-now.com,p]::3;
+<znana|[https://kasyno-now.com,p]::1;
+<znanych|[https://kasyno-now.com,p]::3;
+<znajdują|[https://kasyno-now.com,p]::1;
+<znajduje|[https://kasyno-now.com,p]::1;
+<znajdziesz|[https://kasyno-now.com,p]::1;
+<znalezienie|[https://kasyno-now.com,p]::1;
+<znaczący|[https://blog.aboutamazon.pl,h]::1;

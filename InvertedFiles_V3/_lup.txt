@@ -1,1 +1,8 @@
-<lupus|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;
+<lupino|[https://www.sensesofcinema.com/2022/feature-articles/the-night-shift-woman-as-outlaw-hero-in-the-man-i-love,p]::1;[https://www.sensesofcinema.com/2022/great-directors/curtiz-michael,p]::1;[https://www.sensesofcinema.com/2021/great-directors/riefenstahl-leni,h]::1;[https://www.sensesofcinema.com/2022/cteq/an-entertainment-fritz-langs-ministry-of-fear-1944,h]::1;[https://www.sensesofcinema.com/2022/cteq/fritz-lang-in-america-while-the-city-sleeps,p]::2;[https://www.sensesofcinema.com/author/jacob-hovind,h]::1;
+<lupu|[https://www.sensesofcinema.com/2022/cteq/fritz-langs-spione-1928,p]::2;
+<lupus|[https://www.healthline.com/program/focus-on-lupus,t]::1;[https://www.healthline.com/program/focus-on-lupus,p]::8;[https://www.nytimes.com/2022/05/03/well/sick-before-period-symptoms.html,p]::1;[https://www.dailywritingtips.com/latin-words-and-expressions-all-you-need-to-know,s]::1;[https://www.dailywritingtips.com/latin-words-and-expressions-all-you-need-to-know,p]::3;[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;[https://www.everydayhealth.com/emotional-health/index.aspx,h]::1;
+<lupa|[https://www.marca.com/blogs/cuestiones-mias/2022/05/16/un-atracon-que-no-te-deja-disfrutar-de.html,p]::1;
+<lupang|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-8,p]::1;
+<lupe|[https://casino-now.at/casino-bewertung,p]::2;[https://swiss-casino-now.com/casino-software/betsoft,p]::1;
+<lupone|[https://m.imdb.com/feature/bestpicture/?ref_=nv_ch_osc,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;[https://www.foxnews.com/category/us/personal-freedoms,p]::1;
+<lupones|[https://www.foxnews.com/opinion,p]::1;

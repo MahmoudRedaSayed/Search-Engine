@@ -1,1 +1,2 @@
 <bcgp|[https://www.medicalnewstoday.com,p]::1;
+<bcg|[https://www.hearst.com/ventures,p]::1;

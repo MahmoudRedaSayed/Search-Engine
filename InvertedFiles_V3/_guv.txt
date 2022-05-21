@@ -1,1 +1,4 @@
-<guv|[https://www.dailymail.co.uk/money/index.html,h]::1;
+<guvern|[https://rural.rfi.ro,p]::1;
+<guvernul|[https://generatia30.rfi.ro,p]::1;
+<guvernamental|[https://rural.rfi.ro,p]::1;
+<guv|[https://www.dailymail.co.uk/money/index.html,h]::1;[https://www.dailymail.co.uk/money/index.html,s]::1;

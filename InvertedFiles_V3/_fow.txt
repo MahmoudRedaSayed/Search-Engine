@@ -1,3 +1,7 @@
-<fowlers|[https://en.wikipedia.org/wiki/British_English,p]::1;
-<fowler|[https://en.wikipedia.org/wiki/American_English,p]::1;
+<fowzia|[https://www.sensesofcinema.com/2021/book-reviews/foraging-in-a-transforming-mediascape-cinemas-dark-and-slow-in-digital-india-by-lalitha-gopalan,p]::1;
+<fowler|[https://www.sensesofcinema.com/2022/cteq/fritz-lang-in-america-while-the-city-sleeps,p]::3;[https://www.dailywritingtips.com/yours-faithfully-or-yours-sincerely,p]::3;[https://www.dailywritingtips.com/50-incorrect-pronunciations-that-you-should-avoid,p]::1;[https://en.wikipedia.org/wiki/American_English,p]::1;[https://www.dailymail.co.uk/auhome/index.html,s]::1;[https://www.dailymail.co.uk/travel/index.html,p]::1;
+<fowl|[https://www.nationalgeographic.com/travel/article/paddling-minnesota-ancient-superhighway-border-route,p]::1;
+<fowleron|[https://www.dailywritingtips.com/possessive-of-proper-names-ending-in-s,s]::1;
+<fowlers|[https://www.dailywritingtips.com/yours-faithfully-or-yours-sincerely,p]::1;[https://en.wikipedia.org/wiki/British_English,p]::1;
+<fowlerwalker|[https://www.dailymail.co.uk/auhome/index.html,p]::2;
 <fowey|[https://www.dailymail.co.uk/travel/index.html,h]::1;[https://www.dailymail.co.uk/travel/index.html,p]::1;

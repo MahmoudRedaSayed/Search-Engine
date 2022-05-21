@@ -1,2 +1,5 @@
-<jezebel|[https://www.marca.com/tiramillas/musica/2022/05/13/627e964a46163f496a8b45f8.html,s]::1;
-<jezik|[http://www.enable-javascript.com/hr,h]::1;
+<jez|[https://cloud.google.com/devops,p]::1;
+<jezero|[https://www.nationalgeographic.com/magazine/article/why-are-people-so-dang-obsessed-with-mars-feature,p]::7;[https://www.iflscience.com/space,p]::1;
+<jezeros|[https://www.nationalgeographic.com/magazine/article/why-are-people-so-dang-obsessed-with-mars-feature,p]::2;
+<jezelf|[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::1;
+<jezusses|[https://www.dailywritingtips.com/possessive-of-proper-names-ending-in-s,p]::1;

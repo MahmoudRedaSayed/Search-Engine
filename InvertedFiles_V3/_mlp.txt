@@ -1,0 +1,2 @@
+<mlpowered|[https://cloud.google.com/solutions/cpg,p]::1;[https://cloud.google.com/products/ai,p]::2;
+<mlp|[https://www.aboutamazon.com/news/company-news/2021-letter-to-shareholders,p]::2;

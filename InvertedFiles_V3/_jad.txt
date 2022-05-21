@@ -1,2 +1,12 @@
-<jade|[https://olympics.com/de,h]::1;[https://www.dailymail.co.uk/video/index.html,p]::1;[https://www.everydayhealth.com/wellness,h]::1;[https://olympics.com/es,h]::1;[https://www.everydayhealth.com/wellness/healthy-skin,h]::1;
 <jades|[https://www.bbc.co.uk/rd/topics/accessibility,h]::1;
+<jaded|[https://www.sensesofcinema.com/2006/great-directors/bolognini,p]::1;
+<jadde|[https://www.sensesofcinema.com/2022/festival-reports/afi-fest-afm-the-perils-of-online,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;
+<jadis|[https://mondoblog.org,p]::1;
+<jaddeh|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;
+<jadaone|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-8,p]::1;
+<jaden|[https://asianpacificheritage.gov,p]::1;
+<jadallahon|[https://www.dailywritingtips.com/cannot-or-can-not,s]::1;
+<jade|[https://meded.hms.harvard.edu/soma-weiss-student-research-day,s]::1;[https://meded.hms.harvard.edu/soma-weiss-student-research-day,p]::1;[https://www.everydayhealth.com/wellness,h]::1;[https://www.everydayhealth.com/wellness/healthy-skin,h]::1;
+<jada|[https://www.dailymail.co.uk/ushome/index.html,p]::1;
+<jadon|[https://www.nike.com/us/es,p]::1;
+<jadongrundy|[https://www.nike.com/us/es,p]::1;

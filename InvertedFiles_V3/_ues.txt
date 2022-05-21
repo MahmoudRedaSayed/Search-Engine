@@ -1,1 +1,2 @@
-<uestudio|[https://www.telva.com,p]::7;
+<uesyndication|[https://www.uesyndication.com,h]::2;
+<uesyndicationcom|[https://www.uesyndication.com,p]::1;

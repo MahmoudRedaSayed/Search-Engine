@@ -1,1 +1,7 @@
-<gekko|[https://www.dailymail.co.uk/money/index.html,p]::1;
+<geknüpft|[https://www.outbrain.com/legal,s]::1;
+<gekoppeld|[https://www.outbrain.com/legal,s]::1;
+<gekijōban|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;
+<gekijôban|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-8,p]::1;
+<gekijōban𝄂|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;
+<gekozen|[https://onlinecasino-now.nl,p]::1;[https://casino-now.be,p]::2;[https://onlinecasino-now.nl/casino-reviews,p]::1;[https://onlinecasino-now.nl/casino-reviews/playamo,s]::1;[https://onlinecasino-now.nl/casino-reviews/playamo,p]::2;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::1;[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::1;[https://onlinecasino-now.nl/casino-software,p]::1;
+<gekluisterd|[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::1;

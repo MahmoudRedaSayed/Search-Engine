@@ -1,2 +1,8 @@
+<dwindling|[https://blog.archive.org,p]::1;[https://blog.archive.org/2022/05/18/preserving-pro-democracy-books-from-shuttered-hong-kong-bookstore,p]::1;[https://blog.archive.org/category/books-archive,p]::1;[https://blog.archive.org/category/books-archive/lending-books,p]::1;[https://www.nationalgeographic.com/magazine/article/philippines-reefs-are-some-of-the-most-vibrant-but-in-peril-feature,p]::1;[https://www.nytimes.com/2022/05/17/business/inflation-developing-economies.html,p]::1;[https://www.dailywritingtips.com/english-grammar-101-all-you-need-to-know,p]::1;
+<dwindled|[https://www.nationalgeographic.com/animals/article/vaquita-porpoises-could-genetically-recover-if-fishing-ends,p]::1;[https://www.nationalgeographic.com/animals/article/greyhound-racing-decline-united-states,p]::1;
+<dwight|[https://congress.gov,p]::1;[https://www.dailywritingtips.com/25-confused-homonym-pairs,p]::1;[https://www.dailymail.co.uk/travel/index.html,p]::1;
+<dwikinzinger|[https://congress.gov,p]::1;
+<dwimorelle|[https://congress.gov,p]::1;
+<dwiporter|[https://congress.gov,p]::1;
+<dwibarrasso|[https://congress.gov,p]::1;
 <dwindle|[https://www.dailymail.co.uk/money/index.html,p]::1;
-<dwight|[https://www.dailymail.co.uk/travel/index.html,p]::1;

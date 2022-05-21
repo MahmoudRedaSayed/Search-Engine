@@ -1,0 +1,2 @@
+<atf|[https://www.nytimes.com/section/todayspaper,p]::1;
+<atfinal|[https://www.dailymail.co.uk/auhome/index.html,s]::1;

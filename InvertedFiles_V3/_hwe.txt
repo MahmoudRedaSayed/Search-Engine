@@ -1,0 +1,3 @@
+<hwether|[https://www.dailywritingtips.com/wether-weather-whether,p]::2;
+<hwenever|[https://www.dailywritingtips.com/wether-weather-whether,p]::1;
+<hwerever|[https://www.dailywritingtips.com/wether-weather-whether,p]::1;

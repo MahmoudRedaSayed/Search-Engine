@@ -1,1 +1,4 @@
-<maquillaje|[https://www.telva.com,h]::2;[https://www.telva.com,p]::2;
+<maquillador|[https://www.marca.com/tiramillas/television/2022/05/18/62841874e2704e52998b45e6.html,s]::1;[https://www.marca.com/tiramillas/television/2022/05/18/62841874e2704e52998b45e6.html,p]::1;
+<maquetas|[https://www.marca.com/motor/formula1/gp-japon.html?intcmp=MENUPROD&s_kw=formula-1-gp-japon,h]::1;
+<maquis|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;
+<maquion|[https://www.dailywritingtips.com/what-does-sic-mean,s]::1;

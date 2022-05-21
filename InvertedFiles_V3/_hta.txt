@@ -1,0 +1,2 @@
+<hta|[https://www.diariomedico.com/farmacia.html,h]::2;[https://www.diariomedico.com,h]::1;[https://www.ebay.com/globaldeals/tech/tv-video-home-audio,h]::1;
+<htap|[https://cloud.google.com/alloydb,p]::4;

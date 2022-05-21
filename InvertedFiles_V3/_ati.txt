@@ -1,1 +1,10 @@
-<atina|[https://www.marca.com/futbol/primera-division/2022/05/15/627fcb40e2704ee5598b4581.html,p]::1;
+<atimeline|[https://myindigolives.wordpress.com,p]::1;
+<atividades|[https://www.outbrain.com/legal,s]::1;
+<atingirem|[https://www.outbrain.com/legal,p]::1;
+<atividade|[https://www.outbrain.com/legal,p]::1;
+<atingir|[https://www.outbrain.com/legal,p]::4;
+<ativos|[https://www.outbrain.com/legal,p]::2;
+<atieh|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;
+<atil|[https://fr.casino-now-canada.com,p]::2;
+<atif|[https://www.dailywritingtips.com/english-grammar-101-all-you-need-to-know,s]::1;
+<ations|[https://apps.apple.com/us/app/fut-22-draft-builder-futbin/id1080465358,p]::1;

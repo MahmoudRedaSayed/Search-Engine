@@ -1,1 +1,6 @@
-<kohtalonyhteys|[https://fi.wiktionary.org/wiki/yhteys,p]::1;
+<kohei|[https://www.sensesofcinema.com/author/kohei-usuda,t]::1;[https://www.sensesofcinema.com/author/kohei-usuda,h]::2;[https://www.sensesofcinema.com/author/kohei-usuda,p]::1;[https://www.sensesofcinema.com/2022/festival-reports/the-pivot-to-asia-the-34th-tokyo-international-film-festival,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;
+<kohtuuttomia|[https://netticasino-now.com,s]::1;[https://netticasino-now.com,p]::1;
+<kohdalla|[https://netticasino-now.com,p]::6;
+<kohdalle|[https://netticasino-now.com,p]::2;
+<koh|[https://www.nationalgeographic.com/magazine/article/13-foot-long-fish-caught-in-mekong-river-shows-some-megafish-are-thriving,p]::1;
+<kohle|[https://swiss-casino-now.com/casino-software/betsoft,p]::1;

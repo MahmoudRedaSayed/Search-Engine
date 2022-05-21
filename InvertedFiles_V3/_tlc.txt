@@ -1,1 +1,1 @@
-<tlc|[https://www.everydayhealth.com/lifestyle/healthy-living,t]::1;
+<tlc|[https://medlineplus.gov/ldlthebadcholesterol.html,s]::1;[https://www.dailymail.co.uk/best-buys,p]::1;[https://www.everydayhealth.com/lifestyle/healthy-living,t]::1;

@@ -1,1 +1,2 @@
-<olgun|[https://www.dailymail.co.uk/ushome/index.html,p]::1;
+<olga|[https://www.bbc.co.uk/news/live/world-europe-61461805,p]::2;[https://cloud.google.com/translate,p]::1;[https://stackoverflow.co/teams,s]::1;[https://www.dailywritingtips.com/writing-a-reference-letter-with-examples,s]::1;
+<olgaandart|[http://teepublic.tumblr.com,p]::1;

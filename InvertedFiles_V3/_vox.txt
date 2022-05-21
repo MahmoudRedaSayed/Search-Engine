@@ -1,0 +1,4 @@
+<vox|[https://www.healthline.com/health/mental-health/discovering-gender-identity-in-isolation,p]::1;[https://www.hearst.com/newspapers,p]::2;[https://www.bbc.co.uk/editorialguidelines/guidance/visually-and-hearing-impaired-audiences,p]::1;[https://www.elmundo.es,h]::2;[https://blog.archive.org/category/television-archive,h]::2;[https://blog.archive.org/category/television-archive,p]::2;[https://www.bbc.com/editorialguidelines/guidelines/fairness/guidelines#anonymity,p]::2;[https://www.dailywritingtips.com/latin-words-and-expressions-all-you-need-to-know,p]::1;[https://icons8.com/free-animated-icons,p]::1;
+<voxpoptv|[https://www.hearst.com/ventures,p]::1;
+<voxs|[https://blog.archive.org/category/television-archive,p]::3;
+<voximplant|[https://cloud.google.com/speech-to-text,p]::1;

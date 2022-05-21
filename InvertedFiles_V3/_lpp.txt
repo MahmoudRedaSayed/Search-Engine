@@ -1,0 +1,2 @@
+<lppl|[https://www.gnu.org/licenses/license-list.html#CC0,p]::4;
+<lpplcovered|[https://www.gnu.org/licenses/license-list.html#CC0,p]::1;

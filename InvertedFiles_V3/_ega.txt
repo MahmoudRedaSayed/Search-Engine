@@ -1,1 +1,6 @@
-<egan|[https://www.marca.com/ciclismo/giro-italia/2022/05/15/6280d6cd37ff7b0023a22828-directo.html,s]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/15/6280d6cd37ff7b0023a22828-directo.html,p]::1;
+<egan|[https://www.marca.com/ciclismo.html?intcmp=MENUPROD&s_kw=ciclismo,h]::1;[https://www.marca.com/futbol/colombia.html?intcmp=MENUPROD&s_kw=futbol-colombia,h]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/15/6280d6cd37ff7b0023a22828-directo.html,s]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/15/627f6951ca4741a61f8b457e.html,p]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/15/6280d6cd37ff7b0023a22828-directo.html,p]::1;
+<egaming|[https://fr.swiss-casino-now.com,p]::1;[https://fr.casino-now-canada.com/logiciels/microgaming,p]::1;[https://swiss-casino-now.com/casino-software/betsoft,p]::1;
+<egal|[https://onlinecasino-now.de,p]::3;[https://swiss-casino-now.com/casino-bewertung,p]::1;[https://casino-now.at/casino-bewertung,p]::1;[https://onlinecasino-now.de/casino-bewertung,p]::2;[https://onlinecasino-now.de/casino-bewertung/cookie,p]::1;[https://swiss-casino-now.com/casino-software,p]::2;[https://casino-now.at/casino-software,p]::2;
+<egartervigl|[https://nautil.us/topics/history,p]::1;
+<egalitarian|[https://www.nytimes.com/2022/05/09/movies/elizabeth-olsen-doctor-strange-multiverse-of-madness.html,p]::1;[https://www.nytimes.com/interactive/2022/03/18/technology/cryptocurrency-crypto-guide.html,p]::1;
+<egalitarianism|[https://www.dailywritingtips.com/yours-faithfully-or-yours-sincerely,p]::1;

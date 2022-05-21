@@ -1,1 +1,1 @@
-<ubuntu|[https://www.allaboutcookies.org/faqs/browser.html,p]::1;
+<ubuntu|[https://blog.archive.org/category/video-archive,p]::1;[https://www.sensesofcinema.com/2022/festival-reports/come-together-the-59th-viennale,p]::1;[https://github.com/discourse/discourse,p]::1;[https://snapcraft.io/lunacy,p]::2;

@@ -1,0 +1,4 @@
+<odkazy|[https://cs.wordpress.org/plugins/broken-link-checker,p]::11;
+<odkazů|[https://cs.wordpress.org/plugins/broken-link-checker,p]::6;
+<odkazem|[https://cs.wordpress.org/plugins/broken-link-checker,p]::1;
+<odkazu|[https://cs.wordpress.org/plugins/broken-link-checker,p]::2;

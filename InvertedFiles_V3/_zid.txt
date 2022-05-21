@@ -1,1 +1,1 @@
-<zidane|[https://www.marca.com/claro-mx/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;[https://www.marca.com/futbol/real-madrid.html,h]::1;[https://www.marca.com/futbol/2022/05/13/627ddbd8749dee001f58f661-directo.html,p]::1;
+<zidane|[https://www.marca.com/futbol/liga-francesa.html?intcmp=MENUPROD&s_kw=liga-francesa,h]::1;[https://www.marca.com/futbol/mundial-de-clubes.html?intcmp=MENUPROD&s_kw=mundial-de-clubes,h]::1;[https://www.marca.com/futbol/chile.html?intcmp=MENUPROD&s_kw=futbol-chile,h]::1;

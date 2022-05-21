@@ -1,2 +1,11 @@
-<svenska|[https://simple.wikipedia.org,p]::1;
-<sve|[http://vedrigrad.hr,p]::1;[http://www.enable-javascript.com/hr,h]::1;
+<svenska|[https://simple.wikipedia.org,p]::1;[https://sv.wordpress.org/plugins/broken-link-checker,t]::1;[https://sv.wordpress.org/plugins/broken-link-checker,p]::2;[https://onlinecasino-now.se,h]::3;[https://onlinecasino-now.se,s]::4;[https://onlinecasino-now.se,p]::24;
+<sveinsson|[https://www.sensesofcinema.com/2021/interviews/sunken-film-bill-morrison-talks-the-village-detective-a-song-cycle,p]::2;
+<svevo|[https://www.sensesofcinema.com/2006/great-directors/bolognini,p]::1;
+<svensk|[https://www.sensesofcinema.com/2004/cteq/virgin_spring,p]::1;[https://onlinecasino-now.se,s]::4;[https://onlinecasino-now.se,p]::11;
+<sven|[https://www.sensesofcinema.com/2004/cteq/virgin_spring,p]::2;
+<svet|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-8,p]::1;
+<sverige|[https://citeulike.org/online-casinos,p]::2;[https://casino-now-canada.com,p]::2;[https://fr.casino-now-canada.com,p]::2;[https://fr.swiss-casino-now.com,p]::2;[https://en.swiss-casino-now.com,p]::2;[https://casino-now.co.uk,p]::2;[https://onlinecasino-now.de,p]::2;[https://onlinecasino-now.nl,p]::2;[https://netticasino-now.com,p]::2;[https://onlinecasino-now.se,h]::9;[https://onlinecasino-now.se,s]::4;[https://casinoenlinea-now.com,p]::2;[https://casino-now.it,p]::2;[https://onlinecasino-now.se,p]::26;[https://casino-now.be,p]::2;[https://kasyno-now.com,p]::2;[https://store.nike.com/cn/zh_cn/pw/n/1j7?sl=fc%2520barcelona&vst=fc%2520barcelona,p]::1;[https://www.nike.com/eg/help,p]::1;[https://www.nike.com/eg/retail,p]::1;[https://www.nike.com/eg/membership,p]::1;[https://www.nike.com/ca,p]::1;[https://www.nike.com/ma,p]::1;[https://www.nike.com/ar,p]::1;[https://www.nike.com/ca/fr,p]::1;[https://www.nike.com/mx,p]::1;[https://www.nike.com/cn,p]::1;[https://www.nike.com/au,p]::1;[https://www.nike.com/uy,p]::1;[https://www.nike.com/xl,p]::1;[https://www.nike.com/pr,p]::1;[https://www.nike.com/us/es,p]::1;[https://www.nike.com/jp/en,p]::1;[https://www.nike.com/id,p]::1;[https://www.nike.com/in,p]::1;
+<sveriges|[https://onlinecasino-now.se,t]::1;[https://onlinecasino-now.se,h]::3;[https://onlinecasino-now.se,p]::4;
+<svenskt|[https://onlinecasino-now.se,p]::4;
+<svedese|[https://casino-now.it/software,s]::1;[https://casino-now.it/software,p]::1;
+<svelte|[https://insights.stackoverflow.com/survey/2021,p]::2;[https://www.dailymail.co.uk/ushome/index.html,s]::2;[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::2;[https://www.dailymail.co.uk/tvshowbiz/index.html,p]::1;

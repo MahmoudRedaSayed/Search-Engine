@@ -1,0 +1,1 @@
+<uap|[https://www.foxnews.com/category/us/military,p]::1;[https://www.iflscience.com/technology,p]::1;

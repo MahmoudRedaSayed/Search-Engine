@@ -1,0 +1,2 @@
+<kcorp|[https://www.lequipe.fr/Esport,h]::1;
+<kconvac|[https://www.nytimes.com/interactive/2021/world/covid-vaccinations-tracker.html,h]::1;

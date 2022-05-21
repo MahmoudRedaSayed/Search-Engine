@@ -1,1 +1,2 @@
+<yegor|[https://www.elmundo.es,h]::1;
 <yegge|[https://en.wikipedia.org/wiki/Object-oriented_programming,p]::2;

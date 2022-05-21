@@ -1,1 +1,13 @@
+<kruger|[https://www.sensesofcinema.com/2022/feature-articles/the-cry-cinema-sentiment-minnelli,p]::4;
+<krugers|[https://www.sensesofcinema.com/2022/feature-articles/the-cry-cinema-sentiment-minnelli,p]::1;
+<kruse|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;
+<krupierem|[https://kasyno-now.com,h]::2;[https://kasyno-now.com,p]::3;
+<krupier|[https://kasyno-now.com,p]::2;
+<krupiera|[https://kasyno-now.com,p]::1;
+<krupierami|[https://kasyno-now.com,p]::1;
+<krupp|[https://nautil.us/topics/astronomy,h]::1;
+<krud|[https://www.britannica.com/reviews/natural-cleaning-products,h]::1;
+<krug|[https://nautil.us/new-veggies-for-a-warming-planet-2-11780,p]::1;
+<krugs|[https://nautil.us/new-veggies-for-a-warming-planet-2-11780,p]::1;
+<krueger|[https://www.edtechdigest.com/who-we-are,p]::1;
 <krubner|[https://en.wikipedia.org/wiki/Object-oriented_programming,p]::1;

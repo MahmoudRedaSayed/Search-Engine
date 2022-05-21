@@ -1,1 +1,1 @@
-<xxi|[https://www.marca.com/baloncesto.html?intcmp=MENUPROD&s_kw=baloncesto,h]::1;
+<xxi|[https://www.realmadrid.com,h]::3;[https://www.realmadrid.com,p]::1;[https://www.elmundo.es,h]::1;[https://www.escuelaunidadeditorial.es,s]::1;[https://www.escuelaunidadeditorial.es,p]::2;[https://www.marca.com/baloncesto/eurobasket.html?intcmp=MENUMIGA&s_kw=baloncesto-eurobasket,h]::1;[https://www.marca.com/baloncesto/nba.html?intcmp=MENUPROD&s_kw=baloncesto-nba,h]::1;

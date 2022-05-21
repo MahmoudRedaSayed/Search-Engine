@@ -1,1 +1,2 @@
-<oktopost|[https://atos.net,p]::1;
+<okta|[https://stackoverflow.com,p]::1;[https://stackoverflow.co/explore-teams,p]::1;
+<oktober|[https://onlinecasino-now.de,s]::1;[https://onlinecasino-now.de,p]::3;

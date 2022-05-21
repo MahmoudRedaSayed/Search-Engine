@@ -1,0 +1,4 @@
+<ophuls|[https://www.sensesofcinema.com/2006/great-directors/bolognini,p]::1;
+<ophthalmologist|[https://www.sensesofcinema.com/2022/great-directors/tahimik-kidlat,p]::1;[https://www.nytimes.com/interactive/2022/05/13/us/covid-deaths-us-one-million.html,p]::1;
+<ophüls|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::3;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;
+<ophthalmology|[http://medprofvideos.mayoclinic.org,p]::1;[https://meded.hms.harvard.edu/news-events,p]::1;[https://meded.hms.harvard.edu/admissions-who-we-are,p]::1;[https://meded.hms.harvard.edu/student-research,p]::2;[https://meded.hms.harvard.edu/meet-our-students,p]::1;[https://hms.harvard.edu/education-admissions/graduation,p]::1;[https://meded.hms.harvard.edu/teaching-awards,p]::2;[https://hms.harvard.edu/news/belonging-halls-medicine,p]::1;[https://meded.hms.harvard.edu/alumni-friends,p]::1;

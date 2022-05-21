@@ -1,1 +1,5 @@
-<plymouth|[https://www.dailymail.co.uk/health/index.html,p]::1;[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;[https://www.sky.com/help/articles/sky-privacy-and-cookies-notice,p]::1;
+<plywood|[https://www.nationalgeographic.com/magazine/article/philippines-reefs-are-some-of-the-most-vibrant-but-in-peril-feature,p]::2;
+<plynule|[http://sk.talkenglish.com,t]::1;[http://sk.talkenglish.com,p]::1;[http://cz.talkenglish.com,t]::1;[http://cz.talkenglish.com,p]::1;
+<plynulej|[http://sk.talkenglish.com,h]::1;
+<plynulé|[http://cz.talkenglish.com,h]::1;
+<plymouth|[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;[https://www.dailymail.co.uk/health/index.html,p]::1;

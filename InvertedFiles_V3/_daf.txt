@@ -1,0 +1,10 @@
+<daffodil|[https://www.dailymail.co.uk,p]::1;
+<dafrique|[https://musique.rfi.fr,t]::1;[http://afriquefoot.rfi.fr,p]::1;
+<dafghanistan|[https://www.rfi.fr,p]::1;
+<daft|[https://www.sensesofcinema.com/2022/book-reviews/the-depths-of-empiricism-werner-herzog-ecstatic-truth-and-other-useless-conquests-by-kristoffer-hegnsvad,p]::1;[https://www.sensesofcinema.com/2021/book-reviews/time-machines-after-kubrick-a-filmmakers-legacy-edited-by-jeremi-szaniawski,p]::1;
+<daffiches|[http://www.clemi.org/fr,p]::1;
+<dafricatik|[https://appafrique.rfi.fr,p]::1;
+<dafür|[https://www.outbrain.com/legal,p]::2;[https://onlinecasino-now.de,s]::1;[https://onlinecasino-now.de,p]::3;[https://swiss-casino-now.com/casino-bewertung,p]::2;[https://casino-now.at/live-casino/holdem,p]::1;[https://swiss-casino-now.com/casino-software,p]::1;[https://swiss-casino-now.com/casino-software/betsoft,p]::1;[https://icons8.de/animated-icons,p]::1;
+<daffirmation|[https://fr.casino-now-canada.com/nouveaux-casinos,p]::1;
+<daffiliation|[https://fr.swiss-casino-now.com/revue,p]::2;[https://fr.swiss-casino-now.com/revue/playamo,p]::2;
+<dafoe|[https://m.imdb.com/feature/bestpicture/?ref_=nv_ch_osc,p]::2;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::2;

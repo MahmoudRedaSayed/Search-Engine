@@ -1,5 +1,10 @@
+<hodgson|[https://www.dailymail.co.uk,p]::1;[https://blog.archive.org,p]::3;[https://blog.archive.org/category/event,p]::3;[https://blog.archive.org/2022/05/13/goodbye-facebook-hello-decentralized-social-media,p]::3;[https://blog.archive.org/category/web-data-services,p]::3;[https://www.dailymail.co.uk/news/index.html,p]::1;[https://www.dailymail.co.uk/sport/index.html,s]::1;[https://www.dailymail.co.uk/sport/index.html,p]::1;
+<hodges|[https://blog.archive.org/category/announcements,p]::1;[https://blog.archive.org/category/music,p]::1;[https://www.sensesofcinema.com/author/anand-sudha,h]::1;[https://www.dailywritingtips.com/apply-to-apply-for-and-apply-with,p]::1;
+<hodge|[https://www.marca.com/futbol/argentina.html?intcmp=MENUPROD&s_kw=futbol-argentina,h]::1;
+<hodnocení|[https://cs.wordpress.org/plugins/broken-link-checker,h]::1;
+<hodeida|[https://www.icrc.org/en/war-and-law/protected-persons/internally-displaced-persons,p]::2;
+<hodes|[https://www.nih.gov/news-events/news-releases/could-taking-statins-prevent-dementia-disability,p]::1;
+<hodgepodge|[https://www.nytimes.com/2022/05/11/world/europe/russia-ukraine-fighting-east.html,p]::1;[https://wiki.creativecommons.org/wiki/CC0_FAQ,p]::1;
+<hodgeson|[https://www.dailywritingtips.com/apply-to-apply-for-and-apply-with,s]::1;
 <hodgkin|[https://www.everydayhealth.com/cancer/guide,p]::1;
-<hodgson|[https://www.dailymail.co.uk/sport/index.html,s]::1;[https://blog.archive.org,p]::3;
-<hodling|[https://www.dailymail.co.uk/money/index.html,h]::1;[https://www.dailymail.co.uk/money/index.html,p]::1;
 <hodgkinson|[https://www.dailymail.co.uk/travel/index.html,p]::1;
-<hodges|[http://www.archive-it.org,p]::1;

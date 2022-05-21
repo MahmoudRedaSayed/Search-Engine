@@ -1,1 +1,3 @@
-<wojcik|[https://www.sensesofcinema.com/category/festival-reports,h]::1;
+<wojciechowski|[https://www.sensesofcinema.com/2015/feature-articles/nationalism-on-and-off-the-screen,p]::1;
+<wojciech|[http://wpolityce.pl/kultura/226645-ida-jak-poklosie-pluzanski-w-filmie-to-polacy-sa-mordercami,s]::1;[http://wpolityce.pl/kultura/226645-ida-jak-poklosie-pluzanski-w-filmie-to-polacy-sa-mordercami,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-8,p]::1;
+<wojcicki|[https://creativecommons.org/20-years,p]::1;

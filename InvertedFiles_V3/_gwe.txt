@@ -1,4 +1,4 @@
 <gwersi|[https://www.bbc.co.uk/bitesize,p]::1;
-<gwendolyn|[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;
-<gwen|[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;
-<gwent|[https://www.dailymail.co.uk/health/index.html,p]::1;
+<gwen|[https://www.sensesofcinema.com/2022/festival-reports/come-together-the-59th-viennale,p]::1;[https://congress.gov,p]::1;[https://newsroom.loc.gov/news/library-of-congress-acquires-papers-of-award-winning-playwright-neil-simon/s/ef170337-5bc8-461d-acf0-dd360597896d,p]::1;[https://www.dailywritingtips.com/what-is-the-difference-between-metaphor-and-simile,p]::1;
+<gwendolyn|[https://www.sensesofcinema.com/author/wheeler-winston-dixon,p]::3;[https://www.sensesofcinema.com/2022/cteq/fritz-lang-in-america-while-the-city-sleeps,p]::3;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,h]::1;[https://www.sensesofcinema.com/2021/interviews/an-interview-with-the-late-monte-hellman-1929-2021,p]::3;[https://asianpacificheritage.gov,p]::1;
+<gwenon|[https://www.dailywritingtips.com/what-is-the-difference-between-metaphor-and-simile,s]::1;

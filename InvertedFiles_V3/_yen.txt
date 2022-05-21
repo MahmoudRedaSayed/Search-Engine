@@ -1,2 +1,7 @@
-<yendo|[https://www.marca.com/futbol/laliga-santander/atletico-sevilla-directo/2022/05/15/01_0101_20220515_175_179.html,p]::1;
-<yen|[https://www.dailymail.co.uk/travel/index.html,p]::1;
+<yendo|[https://www.marca.com/motor/formula1/gp-eeuu.html?intcmp=MENUPROD&s_kw=formula-1-gp-estados-unidos,h]::1;[https://www.marca.com/motor/motogp/gp-jerez/2022/04/29/626c0a99268e3e8c4f8b4582.html?intcmp=MNOT23801&s_kw=1,p]::2;[https://www.marca.com/blogs/tirandoadar/2022/04/20/pique-tambien-era-casta.html,p]::1;
+<yenes|[https://www.marca.com/juegos-olimpicos.html?intcmp=MENUPROD&s_kw=juegos-olimpicos,h]::1;
+<yen|[https://www.sensesofcinema.com/2001/festival-reports/stkff_jake,p]::1;[https://www.englishclub.com/store/product/essential-business-words,s]::1;[https://www.englishclub.com/store/product/essential-business-words,p]::2;[https://www.dailymail.co.uk/travel/index.html,p]::1;
+<yenyen|[https://www.nationalgeographic.com/travel/article/beyond-chinatowns-these-places-explore-asian-americans-deep-roots-in-united-states,p]::1;
+<yenifer|[https://www.nationalgeographic.com/history/article/fleeing-violence-in-venezuela-women-migrants-face-callous-indifference,p]::3;
+<yenom|[https://www.dailywritingtips.com/50-slang-terms-for-money,p]::1;
+<yente|[https://www.dailywritingtips.com/the-yiddish-handbook-40-words-you-should-know,s]::1;

@@ -1,2 +1,6 @@
-<lahoz|[https://www.marca.com/futbol/laliga-santander/cadiz-r-madrid-directo/2022/05/15/01_0101_20220515_1737_186.html,p]::2;[https://www.marca.com/futbol/primera-division/2022/05/15/62813920ca4741a7238b4584.html,s]::1;[https://www.marca.com/futbol/primera-division/2022/05/15/62813920ca4741a7238b4584.html,p]::1;
-<lah|[https://id.wiktionary.org/wiki/antarmuka,p]::1;
+<lahey|[https://cloud.google.com/solutions/healthcare-life-sciences,p]::1;
+<lahvi|[https://www.sensesofcinema.com/2022/feature-articles/the-cry-cinema-sentiment-minnelli,p]::1;
+<lahiri|[https://asianpacificheritage.gov,p]::1;
+<lahdedah|[https://www.dailywritingtips.com/100-mostly-small-but-expressive-interjections,s]::1;[https://www.dailywritingtips.com/100-mostly-small-but-expressive-interjections,p]::1;
+<laheshaon|[https://www.dailywritingtips.com/100-exquisite-adjectives,s]::1;
+<lahesha|[https://www.dailywritingtips.com/100-exquisite-adjectives,p]::1;

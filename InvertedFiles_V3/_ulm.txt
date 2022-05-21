@@ -1,0 +1,3 @@
+<ulmann|[https://www.loc.gov,h]::1;
+<ulmer|[https://www.sensesofcinema.com/2022/feature-articles/heil-darling-a-story-of-lips-that-havent-laughed,p]::1;[https://www.sensesofcinema.com/author/steven-shaviro,h]::1;[https://www.sensesofcinema.com/2022/cteq/m-fritz-lang-1931,p]::1;[https://www.sensesofcinema.com/2022/feature-articles/loss-and-absence-in-still-life,h]::1;
+<ulman|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::2;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::4;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::2;

@@ -1,1 +1,5 @@
-<erdoğan|[https://f24.my/SC,h]::2;
+<erdogan|[https://www.expansion.com,h]::1;[https://www.expansion.com,p]::1;[https://www.bbc.co.uk/news/live/world-europe-61461805,h]::1;[https://www.bbc.co.uk/news/live/world-europe-61461805,p]::2;[http://www.weta.org,h]::1;[http://www.weta.org,p]::1;[https://www.nytimes.com/2022/05/17/business/inflation-developing-economies.html,p]::1;[https://www.dailymail.co.uk/news/index.html,h]::1;[https://www.dailymail.co.uk/news/index.html,p]::1;
+<erdogans|[https://nautil.us/topics/evolution,p]::1;[https://nautil.us/topics/genetics,p]::1;
+<erdős|[https://nautil.us/topics/math,h]::1;[https://nautil.us/topics/math,p]::2;
+<erdenklichen|[https://swiss-casino-now.com/casino-software/betsoft,p]::1;
+<erdrich|[https://www.dailywritingtips.com/20-great-opening-lines-to-inspire-the-start-of-your-story,p]::1;

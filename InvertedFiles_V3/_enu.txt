@@ -1,2 +1,12 @@
-<enusa|[https://en.wikipedia.org/wiki/American_English,p]::1;
+<enus|[https://codelabs.developers.google.com/codelabs/appactions,p]::1;[https://addons.mozilla.org/firefox/addon/facebook-container/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=firefox-home,t]::1;
+<enumeration|[https://developers.google.com/actions/smarthome/reference/local/enums/smarthome.intents,h]::2;
+<enunciativo|[https://www.marca.com/corporativo/terminos-condiciones-uso.html,p]::2;
 <enum|[https://support.google.com/chrome/a/answer/9949706,p]::2;
+<enumerates|[https://www.sensesofcinema.com/2021/book-reviews/42756,p]::1;[https://www.sensesofcinema.com/2021/book-reviews/time-machines-after-kubrick-a-filmmakers-legacy-edited-by-jeremi-szaniawski,p]::1;
+<enumerating|[https://www.sensesofcinema.com/2021/book-reviews/time-machines-after-kubrick-a-filmmakers-legacy-edited-by-jeremi-szaniawski,p]::1;[http://www.lindamonk.com,p]::1;
+<enumeradas|[https://gl.wordpress.org/plugins/broken-link-checker,p]::1;
+<enucleation|[http://medprofvideos.mayoclinic.org,h]::1;
+<enunciation|[https://www.dailywritingtips.com/possessive-of-proper-names-ending-in-s,p]::1;
+<enunciating|[https://www.dailywritingtips.com/100-beautiful-and-ugly-words,p]::1;
+<enuf|[https://www.nytimes.com/live/2022/05/18/world/covid-19-mandates-vaccine-cases,p]::1;
+<enusa|[https://en.wikipedia.org/wiki/American_English,p]::1;

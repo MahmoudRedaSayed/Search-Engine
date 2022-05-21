@@ -1,0 +1,4 @@
+<pojktanten|[https://www.sensesofcinema.com/about/style-guide,p]::1;
+<pojawia|[https://kasyno-now.com,s]::1;[https://kasyno-now.com,p]::2;
+<pojawiać|[https://kasyno-now.com,p]::1;
+<pojawią|[https://kasyno-now.com,p]::1;

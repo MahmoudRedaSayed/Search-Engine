@@ -1,2 +1,9 @@
 <noguilt|[https://www.everydayhealth.com/,p]::1;
-<nogo|[https://www.dailymail.co.uk/femail/index.html,p]::1;
+<nogood|[https://www.sensesofcinema.com/2006/great-directors/bolognini,p]::1;
+<nog|[https://onlinecasino-now.nl,p]::12;[https://casino-now.be,s]::1;[https://casino-now.be,p]::6;[https://onlinecasino-now.nl/casino-reviews,s]::2;[https://onlinecasino-now.nl/casino-reviews,p]::9;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::5;[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::2;[https://onlinecasino-now.nl/casino-software,p]::11;
+<nogmaals|[https://onlinecasino-now.nl,p]::1;
+<noggrant|[https://onlinecasino-now.se,p]::1;
+<nogal|[https://casino-now.be,p]::1;
+<noggins|[https://nautil.us/topics/evolution,p]::1;
+<noguarantees|[https://www.nationalgeographic.com/magazine/article/lost-your-smell-to-covid-19-heres-how-to-retrain-your-brain,p]::1;
+<noggin|[https://www.dailywritingtips.com/bare-or-bear-with-me,p]::1;

@@ -1,0 +1,7 @@
+<inzaghi|[http://www.beinsports.com/id,h]::1;
+<inzwischen|[https://onlinecasino-now.de,p]::2;[https://swiss-casino-now.com/casino-software/betsoft,p]::1;
+<inzake|[https://casino-now.be,s]::1;[https://casino-now.be,p]::3;
+<inzetten|[https://casino-now.be,s]::2;[https://casino-now.be,p]::2;[https://onlinecasino-now.nl/casino-reviews/playamo,p]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::1;[https://onlinecasino-now.nl/casino-software,p]::2;
+<inzet|[https://casino-now.be,p]::1;[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::3;
+<inzetvereisten|[https://casino-now.be,p]::1;
+<inzetvereiste|[https://casino-now.be,p]::2;

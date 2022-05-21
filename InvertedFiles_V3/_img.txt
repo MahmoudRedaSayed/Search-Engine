@@ -1,0 +1,2 @@
+<img|[https://webdoc.rfi.ro,h]::2;[https://icons8.com,s]::1;[https://igoutu.cn,s]::1;[https://icones8.fr,s]::1;[https://icons8.de,s]::1;[https://icons8.jp,s]::1;[https://icons8.it,s]::1;[https://icons8.ru,s]::1;[https://icons8.com.br,s]::1;[https://icons8.kr,s]::1;[https://iconos8.es,s]::1;[https://img.icons8.com,p]::1;[https://icons8.com/icons,s]::1;
+<imgnisgen|[https://aws.amazon.com/blogs/aws,p]::1;

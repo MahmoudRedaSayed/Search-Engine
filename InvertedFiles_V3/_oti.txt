@@ -1,2 +1,3 @@
-<otis|[https://www.dailymail.co.uk/ushome/index.html,p]::1;[https://www.dailymail.co.uk/auhome/index.html,p]::1;
 <oti|[https://www.bbc.co.uk/cbeebies/grownups/age-and-needs/special-needs#filter,p]::1;
+<otitis|[https://www.diariomedico.com,h]::1;
+<otis|[https://www.foxbusiness.com,p]::3;[https://www.foxbusiness.com/lifestyle,p]::1;[https://www.chicagotribune.com/sports/bulls/ct-michael-jordan-chicago-bulls-carmine-nike-air-jumpman-chicago-20210207-o3xn7r2lhng5fooek3yo2ncnum-story.html#nt=interstitial-auto,p]::1;

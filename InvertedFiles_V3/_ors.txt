@@ -1,2 +1,5 @@
-<orseronegative|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;
+<orsalary|[https://www.linkedin.com/legal/privacy-policy,p]::1;
 <orspecified|[https://support.google.com/chrome/a/answer/9681204,p]::1;
+<orson|[https://www.sensesofcinema.com/2021/great-directors/riefenstahl-leni,p]::1;[https://www.sensesofcinema.com/2018/book-reviews/mind-movie-critic-two-cheers-hollywood-joseph-mcbride,p]::4;[https://www.sensesofcinema.com/author/tony-mckibbin,h]::1;[https://www.sensesofcinema.com/2022/feature-articles/jacob-holdts-american-pictures-a-note-on-style-in-poor-cinema,h]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::2;
+<ors|[https://www.dailywritingtips.com/75-contronyms-words-with-contradictory-meanings,p]::1;
+<orseronegative|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;

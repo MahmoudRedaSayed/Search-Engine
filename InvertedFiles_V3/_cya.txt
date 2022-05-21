@@ -1,2 +1,3 @@
-<cyanobacteria|[https://www.iflscience.com/,p]::1;[https://www.iflscience.com/technology,p]::1;
 <cyan|[https://bbc.github.io/subtitle-guidelines,p]::1;
+<cyanide|[https://www.nationalgeographic.com/magazine/article/philippines-reefs-are-some-of-the-most-vibrant-but-in-peril-feature,p]::1;
+<cyanobacteria|[https://www.iflscience.com/technology,p]::1;

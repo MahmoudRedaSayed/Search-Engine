@@ -1,0 +1,4 @@
+<osdh|[https://www.hmbana.org/about-us/board.html,p]::1;
+<osdhfunded|[https://www.hmbana.org/about-us/board.html,p]::1;
+<osd|[https://opensource.org,p]::1;[https://opensource.org/licenses/GPL-3.0,p]::1;[https://opensource.org/licenses/Apache-2.0,p]::1;
+<osdcompliant|[https://opensource.org,p]::1;[https://opensource.org/licenses/GPL-3.0,p]::1;[https://opensource.org/licenses/Apache-2.0,p]::1;

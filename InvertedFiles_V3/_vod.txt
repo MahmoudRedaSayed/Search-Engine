@@ -1,1 +1,4 @@
-<vodafone|[https://sarmady.net/contact.html,t]::1;[https://sarmady.net,t]::1;[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;[https://www.dailymail.co.uk/money/index.html,h]::1;[https://www.dailymail.co.uk/money/index.html,p]::3;
+<vod|[https://www.hearst.com/broadcasting,p]::2;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,s]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;[https://www.cdn77.com,s]::1;[https://www.cdn77.com,p]::7;
+<vodafone|[https://cloud.google.com/solutions/telecommunications,p]::2;[https://cloud.google.com/solutions/data-lake,p]::1;[https://cloud.google.com/dataproc,p]::1;[https://cloud.google.com/?hl=en,p]::1;[https://www.dailymail.co.uk/money/index.html,h]::1;[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;[https://www.dailymail.co.uk/money/index.html,p]::1;[http://www.sarmady.net,t]::1;[http://sarmady.net/contact.html,t]::1;
+<vodka|[https://www.sensesofcinema.com/2021/interviews/an-interview-with-the-late-monte-hellman-1929-2021,p]::1;[https://nautil.us/topics/zoology,h]::1;
+<vodott|[https://www.disneyadsales.com/our-brands/national-geographic,p]::2;

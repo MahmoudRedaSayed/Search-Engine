@@ -1,0 +1,3 @@
+<acmi|[https://www.apple.com/us/shop/goto/store,p]::13;[https://www.apple.com/us/shop/goto/buy_accessories,p]::6;[https://www.sensesofcinema.com/2004/cteq/virgin_spring,p]::1;[https://www.sensesofcinema.com/about/staff,p]::1;
+<acms|[https://blog.archive.org/category/live-music-archive-2,p]::1;
+<acme|[https://www.sensesofcinema.com/2022/feature-articles/jacob-holdts-american-pictures-a-note-on-style-in-poor-cinema,p]::1;[https://www.dailywritingtips.com/greek-words,s]::1;[https://www.dailywritingtips.com/greek-words,p]::4;[https://www.dailywritingtips.com/how-to-format-a-us-business-letter,p]::1;

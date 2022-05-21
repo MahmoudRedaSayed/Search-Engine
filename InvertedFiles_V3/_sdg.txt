@@ -1,0 +1,3 @@
+<sdgs|[http://www.rmit.edu.au,p]::1;
+<sdge|[https://www.aboutamazon.com/news/aws/how-machine-learning-and-drones-are-helping-prevent-wildfires,p]::11;
+<sdges|[https://www.aboutamazon.com/news/aws/how-machine-learning-and-drones-are-helping-prevent-wildfires,p]::4;

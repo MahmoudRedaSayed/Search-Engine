@@ -1,1 +1,2 @@
-<ivf|[https://www.dailymail.co.uk/health/index.html,h]::1;[https://www.dailymail.co.uk/health/index.html,p]::1;
+<ivf|[https://www.healthline.com/program/parenthood-real-first-trymester,p]::4;[https://nautil.us/topics/genetics,h]::1;[https://www.dailymail.co.uk/ushome/index.html,s]::1;[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://www.dailymail.co.uk/health/index.html,h]::1;[https://www.dailymail.co.uk/health/index.html,p]::2;
+<ivfscience|[https://nautil.us/topics/genetics,p]::1;

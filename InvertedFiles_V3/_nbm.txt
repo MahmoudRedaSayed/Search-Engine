@@ -1,0 +1,2 @@
+<nbmbaa|[https://jobs.mayoclinic.org/diversity,p]::1;
+<nbme|[https://meded.hms.harvard.edu/academic-calendars,h]::3;[https://meded.hms.harvard.edu/academic-calendars,p]::3;

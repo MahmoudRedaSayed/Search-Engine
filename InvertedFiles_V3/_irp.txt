@@ -1,1 +1,2 @@
-<irpin|[https://www.france24.com,p]::1;
+<irpin|[https://www.bbc.co.uk/news/world-europe-60874223,p]::11;
+<irp|[https://nlmdirector.nlm.nih.gov,p]::4;[https://www.nlm.nih.gov/research/training.html,p]::2;

@@ -1,1 +1,4 @@
-<jill|[https://www.sciencenewsforstudents.org/about-us,p]::1;
+<jill|[https://www.bbc.co.uk/sport,p]::1;[https://www.bbc.com/sport,p]::1;[https://www.marca.com/futbol/futbol-femenino/mundial.html,h]::1;[https://nautil.us/topics/astronomy,p]::1;[https://nautil.us/topics/technology,p]::1;[https://www.foxnews.com/category/health/infectious-disease/coronavirus,p]::1;[https://www.ning.com,p]::1;[https://www.foxnews.com/category/politics/executive,p]::1;[http://projects.voanews.com/making-the-constitution,p]::1;[https://www.nytimes.com/live/2022/05/18/world/covid-19-mandates-vaccine-cases,p]::1;[https://www.dailywritingtips.com/writing-prompts-101,p]::3;[https://www.dailymail.co.uk/tvshowbiz/index.html,h]::1;[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://www.dailymail.co.uk/femail/index.html,p]::1;[https://www.sciencenewsforstudents.org/about-us,p]::1;
+<jilly|[https://blog.archive.org/category/newsletter,p]::1;
+<jillon|[https://www.dailywritingtips.com/passed-vs-past,s]::1;
+<jills|[https://www.dailywritingtips.com/writing-prompts-101,p]::1;

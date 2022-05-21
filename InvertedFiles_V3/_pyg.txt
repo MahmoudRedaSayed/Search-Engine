@@ -1,0 +1,3 @@
+<pygmalion|[https://nautil.us/topics/communication,p]::1;
+<pygmy|[https://www.nationalgeographic.com/animals/article/paid-content-nightlife-animals-after-dark,p]::1;
+<pygmies|[https://www.nationalgeographic.com/magazine/article/race-genetics-science-africa,p]::2;

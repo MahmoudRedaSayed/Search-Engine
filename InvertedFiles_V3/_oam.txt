@@ -1,0 +1,2 @@
+<oamenii|[https://rural.rfi.ro,h]::2;[https://rural.rfi.ro,p]::5;
+<oameni|[https://generatia30.rfi.ro,p]::1;[https://rural.rfi.ro,p]::1;

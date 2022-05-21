@@ -1,1 +1,1 @@
-<sqft|[https://www.dailymail.co.uk/travel/index.html,p]::2;
+<sqft|[https://meded.hms.harvard.edu/giving,p]::1;[https://www.dailymail.co.uk/travel/index.html,p]::2;

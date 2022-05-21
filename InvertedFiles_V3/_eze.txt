@@ -1,0 +1,5 @@
+<ezes|[http://www.bbc.co.uk/news/have_your_say,p]::1;
+<ezequiel|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;
+<ezetimibesimvastatin|[https://www.mayoclinic.org/diseases-conditions/high-blood-cholesterol/in-depth/statins/ART-20045772?p=1,p]::1;
+<ezetimiba|[https://www.mayoclinic.org/es-es/diseases-conditions/high-blood-cholesterol/in-depth/statins/art-20045772?p=1,p]::1;
+<ezekiel|[https://www.nytimes.com/live/2022/05/18/world/covid-19-mandates-vaccine-cases,p]::1;

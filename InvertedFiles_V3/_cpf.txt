@@ -1,0 +1,2 @@
+<cpfa|[https://www.hearst.com/newspapers,p]::1;
+<cpf|[http://www.cned.fr,h]::1;[http://www.cned.fr,p]::1;

@@ -1,0 +1,9 @@
+<aiuti|[https://www.hearst.it,h]::1;[https://www.hearst.it/vivere-meglio/hearst-italia-le-licenze-di-mens-health-e-runners-world,s]::1;[https://www.hearst.it/vivere-meglio/cosmopolitan-il-cambiamento-e-onlife,s]::1;[https://www.hearst.it/vivere-meglio/hearst-italia-le-licenze-di-mens-health-e-runners-world,p]::1;[https://www.hearst.it/vivere-meglio/cosmopolitan-il-cambiamento-e-onlife,p]::1;[https://www.hearst.it/valori-e-principi-dei-nostri-contenuti,p]::2;[https://www.hearst.it/chi-siamo,p]::1;
+<aiuta|[https://www.hearst.it,p]::1;[https://www.hearst.it/vivere-meglio/hearst-italia-le-licenze-di-mens-health-e-runners-world,p]::1;[https://www.hearst.it/vivere-meglio/cosmopolitan-il-cambiamento-e-onlife,p]::1;[https://www.hearst.it/brand/cosmopolitan,h]::1;[https://www.hearst.it/brand/cosmopolitan,s]::1;[https://www.hearst.it/brand/cosmopolitan,p]::1;[https://www.hearst.it/brand/gente,p]::2;
+<aiutano|[https://www.hearst.it,p]::1;[https://www.hearst.it/soluzioni,p]::2;[https://www.hearst.it/vivere-meglio/hearst-italia-le-licenze-di-mens-health-e-runners-world,p]::1;[https://www.hearst.it/vivere-meglio/cosmopolitan-il-cambiamento-e-onlife,p]::1;[https://www.hearst.it/informativa-sui-cookies,p]::1;[https://www.hearst.it/valori-e-principi-dei-nostri-contenuti,p]::1;[https://www.hearst.it/chi-siamo,p]::1;[https://casino-now.it,p]::1;
+<aiutare|[https://www.hearst.it,p]::1;[https://casino-now.it,p]::1;[https://casino-now.it/recensioni,p]::2;[https://casino-now.it/software,p]::1;
+<aiuto|[https://www.hearst.it/informativa-sui-cookies,p]::1;[https://it.wordpress.org/plugins/broken-link-checker,p]::1;[https://casino-now.it,p]::1;[https://casino-now.it/software,p]::1;
+<aiutino|[https://www.hearst.it/chi-siamo,h]::1;[https://www.hearst.it/chi-siamo,p]::1;[https://www.hearst.it/lavora-con-noi,p]::1;
+<aiutarlo|[https://www.hearst.it/brand/mens-health,p]::1;
+<aiutati|[https://casino-now.it,p]::1;
+<aiutiamo|[https://it.swiss-casino-now.com/recensioni,h]::1;

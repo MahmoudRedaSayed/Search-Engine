@@ -1,0 +1,4 @@
+<zostać|[https://kasyno-now.com,s]::1;[https://kasyno-now.com,p]::1;
+<zostały|[https://kasyno-now.com,p]::1;
+<zostawiane|[https://kasyno-now.com,p]::1;
+<zostanie|[https://kasyno-now.com,p]::1;

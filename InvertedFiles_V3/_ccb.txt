@@ -1,0 +1,4 @@
+<ccb|[https://ccb.gov,h]::2;[https://ccb.gov,p]::2;[https://blogs.loc.gov/copyright,p]::1;
+<ccbgov|[https://blogs.loc.gov/copyright,h]::1;[https://blogs.loc.gov/copyright,p]::2;
+<ccbysa|[https://wiki.creativecommons.org/FAQ,p]::1;[https://www.gnu.org/licenses/license-list.html#CC0,p]::1;
+<ccby|[https://www.gnu.org/licenses/license-list.html#CC0,p]::1;

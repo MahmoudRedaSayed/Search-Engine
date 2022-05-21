@@ -1,2 +1,3 @@
+<yyyymmdd|[https://bbc.github.io/subtitle-guidelines,p]::7;[https://blog.archive.org/category/television-archive,p]::1;
 <yyyymmddthhmmss|[https://support.google.com/chrome/a/answer/9681204,s]::1;
-<yyyymmdd|[https://bbc.github.io/subtitle-guidelines,p]::7;
+<yyyymmddhhmmss|[https://github.com/internetarchive/wayback/tree/master/wayback-cdx-server,p]::1;

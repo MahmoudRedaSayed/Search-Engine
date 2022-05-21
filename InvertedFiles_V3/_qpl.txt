@@ -1,0 +1,2 @@
+<qpl|[https://www.gnu.org/licenses/license-list.html#CC0,p]::2;
+<qplcovered|[https://www.gnu.org/licenses/license-list.html#CC0,p]::3;

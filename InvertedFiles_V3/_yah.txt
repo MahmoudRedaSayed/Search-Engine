@@ -1,2 +1,4 @@
-<yahoo|[https://blog.archive.org,p]::1;[https://archive.org/projects,p]::1;[https://www.filgoal.com/home/rss,p]::1;[http://www.allaboutcookies.org,p]::1;
-<yahoos|[https://blog.archive.org,p]::1;
+<yahoo|[https://www.hearst.com,p]::2;[https://blog.archive.org,p]::1;[https://archive.org/projects,p]::1;[https://blog.archive.org/category/event,p]::1;[https://tunein.com/policies/privacy,p]::1;[https://www.britannica.com/reviews/author/lchang,p]::1;[https://nautil.us/topics/technology,p]::1;[https://www.dailywritingtips.com/100-mostly-small-but-expressive-interjections,p]::1;[https://www.gnu.org/licenses/license-list.html#CC0,p]::2;[https://www.filgoal.com/home/rss,p]::1;
+<yahoos|[https://blog.archive.org,p]::1;[https://blog.archive.org/category/event,p]::1;[https://blog.archive.org/category/image-archive,p]::1;[http://www.networkadvertising.org/faq,p]::1;
+<yahalom|[https://www.sensesofcinema.com/2022/festival-reports/from-white-clouds-wild-delights-the-18th-golden-apricot-yerevan-international-film-festival,p]::1;
+<yahweh|[https://www.dailywritingtips.com/the-yiddish-handbook-40-words-you-should-know,p]::1;

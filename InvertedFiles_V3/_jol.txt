@@ -1,5 +1,12 @@
-<joliet|[https://blog.archive.org,p]::1;
-<jolocom|[https://blog.archive.org,p]::3;
-<jolocoms|[https://blog.archive.org,p]::1;
+<joliet|[https://blog.archive.org,p]::1;[https://blog.archive.org/category/archive-it,p]::1;
+<jolly|[https://bbc.github.io/subtitle-guidelines,p]::1;[http://www.kizphonics.com,p]::1;[http://philadelphiaencyclopedia.org/archive/philadelphia-and-its-people-in-maps-the-1790s,p]::2;
+<jolocom|[https://blog.archive.org/category/event,p]::3;[https://blog.archive.org/category/web-data-services,p]::3;
+<jolocoms|[https://blog.archive.org/category/event,p]::1;[https://blog.archive.org/category/web-data-services,p]::1;
+<jolie|[https://www.hearst.it/vivere-meglio/cosmopolitan-il-cambiamento-e-onlife,s]::2;[https://www.hearst.it/vivere-meglio/cosmopolitan-il-cambiamento-e-onlife,p]::2;[https://www.ebay.com/globaldeals/featured/clothing-accesories,h]::1;
+<jolson|[https://www.sensesofcinema.com/2022/great-directors/curtiz-michael,p]::1;
+<jolsons|[https://www.sensesofcinema.com/2022/great-directors/curtiz-michael,p]::1;
+<joli|[https://www.sensesofcinema.com/2022/book-reviews/the-depths-of-empiricism-werner-herzog-ecstatic-truth-and-other-useless-conquests-by-kristoffer-hegnsvad,p]::1;[http://www.springshare.com,s]::1;[http://www.springshare.com,p]::1;
+<jollibee|[https://www.aboutamazon.sg,h]::1;
+<jolted|[https://www.nationalgeographic.com/history/article/questlove-on-the-summer-of-soul-an-awesome-look-at-beautiful-people-having-fun,p]::1;[https://www.nytimes.com/2022/05/11/world/europe/russia-ukraine-fighting-east.html,p]::1;
+<jolting|[https://www.britannica.com/reviews/conair-sound-therapy-machine-review,p]::1;
 <jolt|[https://www.sciencenewsforstudents.org/article-type/technically-fiction,h]::1;
-<jolly|[https://bbc.github.io/subtitle-guidelines,p]::1;

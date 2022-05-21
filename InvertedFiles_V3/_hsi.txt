@@ -1,1 +1,8 @@
-<hsid|[https://policies.google.com/technologies/cookies?en_US=en,p]::1;
+<hsitorical|[https://blog.archive.org/about,p]::1;
+<hsiao|[https://www.sensesofcinema.com/2022/great-directors/lau-kar-leung,p]::1;
+<hsin|[https://www.sensesofcinema.com/2022/great-directors/lau-kar-leung,p]::1;
+<hsiaohsien|[https://www.sensesofcinema.com/2022/festival-reports/the-pivot-to-asia-the-34th-tokyo-international-film-festival,p]::1;[https://www.sensesofcinema.com/2021/book-reviews/time-machines-after-kubrick-a-filmmakers-legacy-edited-by-jeremi-szaniawski,h]::1;[https://www.sensesofcinema.com/2012/feature-articles/the-artist-mystification-beyond-artistry,h]::1;
+<hsiaohsiens|[https://www.sensesofcinema.com/2022/festival-reports/afi-fest-afm-the-perils-of-online,p]::1;[https://www.sensesofcinema.com/author/berenice-reynaud,p]::1;[https://www.sensesofcinema.com/about,p]::1;
+<hsieh|[https://nautil.us/topics/zoology,p]::1;
+<hsid|[https://policies.google.com/technologies/cookies?en_US=en,p]::1;[https://www.marhabaservices.com/ae/english/cookie-policy.html,p]::1;
+<hsiehon|[https://www.dailywritingtips.com/34-writing-tips-that-will-make-you-a-better-writer,s]::2;

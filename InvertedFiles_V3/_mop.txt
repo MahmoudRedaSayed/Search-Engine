@@ -1,0 +1,6 @@
+<mopdenhoevel|[http://www.beinsports.com/au,p]::1;
+<mopub|[https://developer.twitter.com/en/developer-terms/policy.html,p]::1;[https://dev.twitter.com/overview/terms/agreement-and-policy,p]::1;
+<mopping|[https://www.sensesofcinema.com/2006/great-directors/bolognini,p]::1;
+<moped|[https://www.aboutamazon.com/news/transportation/meet-the-skier-delivering-for-amazon-in-a-remote-austrian-village,p]::1;
+<mop|[https://www.ebay.com/globaldeals/featured/clothing-accesories,h]::1;
+<mope|[https://player.arsenal.com/matches/first?utm_source=arsenaldotcom&utm_medium=meganavvideo&utm_campaign=arsenaldotcom,h]::1;

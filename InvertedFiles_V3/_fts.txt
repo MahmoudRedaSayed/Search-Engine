@@ -1,1 +1,1 @@
-<ftse|[https://money.cnn.com/data/markets,h]::1;[https://cnn.com/business/markets,h]::1;[https://www.dailymail.co.uk/money/index.html,p]::4;
+<ftse|[https://money.cnn.com/data/markets,h]::1;[https://cnn.com/business/markets,h]::1;[https://www.dailymail.co.uk/money/index.html,p]::3;

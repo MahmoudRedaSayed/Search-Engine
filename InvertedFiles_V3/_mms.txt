@@ -1,1 +1,1 @@
-<mms|[https://www.bbc.co.uk/news,p]::1;[https://www.bbc.com/news,p]::1;
+<mms|[https://www.bbc.co.uk/news,p]::1;[http://www.bbc.co.uk/news/have_your_say,p]::1;

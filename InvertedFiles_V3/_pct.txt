@@ -1,1 +1,2 @@
-<pctfccp|[https://blog.archive.org,p]::1;
+<pctfccp|[https://blog.archive.org/category/event,p]::1;[https://blog.archive.org/category/web-data-services,p]::1;
+<pct|[https://www.nytimes.com/interactive/2020/us/covid-19-vaccine-doses.html,p]::7;

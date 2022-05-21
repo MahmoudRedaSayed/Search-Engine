@@ -1,1 +1,3 @@
-<tlds|[https://blog.archive.org,p]::1;
+<tlds|[https://blog.archive.org,p]::1;[https://blog.archive.org/category/event,p]::1;[https://www.w3schools.com/about/about_copyright.asp,p]::1;[https://creativecommons.org/policies,s]::1;[https://creativecommons.org/policies,p]::2;
+<tldr|[https://blog.archive.org/category/open-library,s]::1;[https://blog.archive.org/category/open-library,p]::1;[https://meta.discourse.org/t/frostbite-heart-discourse/39411/17?u=jake_shadle,s]::1;[https://meta.discourse.org/t/frostbite-heart-discourse/39411/17?u=jake_shadle,p]::2;
+<tld|[https://www.w3schools.com/about/about_copyright.asp,p]::1;[https://creativecommons.org/policies,p]::1;

@@ -1,1 +1,12 @@
-<skoda|[https://www.marca.com/coches-y-motos.html?intcmp=MENUPROD&s_kw=marca-coches,h]::1;
+<skoda|[https://www.marca.com/coches-y-motos.html?intcmp=MENUPROD&s_kw=marca-coches,h]::1;[https://www.marca.com/motor/pruebas-coches,h]::1;[https://www.marca.com/coches-y-motos/coches.html?intcmp=MENUPROD&s_kw=coches,h]::1;[https://www.marca.com/coches-y-motos/salon-automovil-shanghai.html?intcmp=MENUPROD&s_kw=shanghai,h]::1;[https://www.marca.com/coches-y-motos/salon-automovil-paris.html?intcmp=MENUPROD&s_kw=paris,h]::1;[https://www.bbc.co.uk/news/world-europe-61480988,p]::1;
+<skolimowski|[https://www.sensesofcinema.com/author/kohei-usuda,h]::1;
+<skolimowskis|[https://www.sensesofcinema.com/about/advertisers,h]::1;
+<skorzystania|[http://wpolityce.pl/kultura/226645-ida-jak-poklosie-pluzanski-w-filmie-to-polacy-sa-mordercami,p]::1;
+<skorzystaj|[http://wpolityce.pl/kultura/226645-ida-jak-poklosie-pluzanski-w-filmie-to-polacy-sa-mordercami,p]::1;
+<skorzystać|[https://kasyno-now.com,h]::1;[https://kasyno-now.com,p]::2;
+<skoncentrowane|[https://kasyno-now.com,p]::1;
+<skontaktować|[https://kasyno-now.com,p]::2;
+<skomplikowane|[https://kasyno-now.com,p]::1;
+<skor|[https://www.amazon.se/ref=nodl_&nodl_android,p]::1;
+<skoll|[https://nautil.us/topics/math,p]::2;
+<skool|[https://m.imdb.com/chart/starmeter/?ref_=nv_cel_brn,p]::1;[https://www.imdb.com/search/name/?match_all=true&ref_=nv_cel_m,p]::1;

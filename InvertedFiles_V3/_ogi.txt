@@ -1,0 +1,2 @@
+<ogier|[https://www.marca.com/motor/rallies.html?intcmp=MENUPROD&s_kw=rallies,h]::3;[https://www.marca.com/motor/mundial-resistencia.html?intcmp=MENUPROD&s_kw=wec,h]::3;
+<ogierloeb|[https://www.marca.com/motor/rallies.html?intcmp=MENUPROD&s_kw=rallies,h]::1;

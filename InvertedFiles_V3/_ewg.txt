@@ -1,0 +1,4 @@
+<ewg|[https://www.britannica.com/reviews/natural-cleaning-products,p]::4;[https://www.ewg.org/ewgverified/cleaning-products.php,t]::1;[https://www.ewg.org/ewgverified/cleaning-products.php,h]::2;[https://www.ewg.org/ewgverified/cleaning-products.php,p]::5;[https://www.dailymail.co.uk/health/index.html,p]::2;
+<ewgs|[https://www.ewg.org/ewgverified/cleaning-products.php,h]::1;[https://www.ewg.org/ewgverified/cleaning-products.php,p]::5;
+<ewgverified|[https://www.ewg.org/ewgverified/cleaning-products.php,h]::1;
+<ewgorg|[https://www.ewg.org/ewgverified/cleaning-products.php,p]::1;

@@ -1,0 +1,2 @@
+<iaas|[https://cloud.google.com/analyst-reports,p]::1;[https://cloud.google.com/solutions/infrastructure-modernization,p]::1;[https://cloud.google.com/life-sciences,p]::1;
+<iaa|[https://www.thenewsmarket.com/about,s]::1;

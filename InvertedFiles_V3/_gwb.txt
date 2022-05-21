@@ -1,0 +1,2 @@
+<gwbs|[https://www.dailywritingtips.com/latin-words-and-expressions-all-you-need-to-know,p]::1;
+<gwb|[https://electisngo.medium.com/electis-our-tezos-based-e-voting-facilitates-democracy-in-un-climate-discussions-edb1da9db4b3,p]::1;

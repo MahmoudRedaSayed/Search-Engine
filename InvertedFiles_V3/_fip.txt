@@ -1,0 +1,4 @@
+<fipresci|[https://www.sensesofcinema.com,h]::1;[https://www.sensesofcinema.com/2022/great-directors/tahimik-kidlat,p]::1;[https://www.sensesofcinema.com/2021/great-directors/obayashi-nobuhiko,p]::1;[https://www.sensesofcinema.com/2022/festival-reports/from-white-clouds-wild-delights-the-18th-golden-apricot-yerevan-international-film-festival,p]::1;[https://www.sensesofcinema.com/2022/feature-articles/the-cry-cinema-sentiment-minnelli,h]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::1;
+<fipresciorg|[https://www.sensesofcinema.com/2015/feature-articles/nationalism-on-and-off-the-screen,p]::1;
+<fips|[https://cloud.google.com/shielded-vm,p]::1;
+<fip|[https://www.nationalgeographic.com/magazine/article/things-that-divide-us,p]::2;

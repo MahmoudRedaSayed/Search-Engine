@@ -1,1 +1,3 @@
-<oye|[https://www.marca.com/futbol/laliga-santander/cadiz-r-madrid-directo/2022/05/15/01_0101_20220515_1737_186.html,p]::1;
+<oye|[https://www.marca.com/motor/motogp/2022/05/18/6283770aca474138528b45cf.html,p]::1;
+<oyes|[https://www.marca.com/motor/motogp/gp-jerez/2022/04/29/626c0a99268e3e8c4f8b4582.html?intcmp=MNOT23801&s_kw=1,p]::1;
+<oyentes|[https://www.marca.com/ciclismo/giro-italia/2022/05/14/627f8f0d37ff7b00239ce9e5-directo.html,p]::1;

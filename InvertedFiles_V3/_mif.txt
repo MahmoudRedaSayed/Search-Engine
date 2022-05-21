@@ -1,1 +1,3 @@
-<miff|[https://www.sensesofcinema.com/special-dossiers,h]::1;
+<miff|[https://www.sensesofcinema.com/category/feature-articles,h]::1;
+<miffed|[https://www.sensesofcinema.com/category/feature-articles,h]::1;[https://nautil.us/topics/physics,p]::1;
+<mifid|[https://www.hearst.co.uk/statement-investment-principles,p]::1;

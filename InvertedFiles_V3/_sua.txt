@@ -1,2 +1,9 @@
-<suarez|[https://www.dailymail.co.uk/sport/index.html,s]::1;
-<suavizan|[https://www.marca.com/futbol/primera-division/2022/05/13/627d7c4c22601d73018b45a0.html,p]::1;
+<suarez|[https://www.beinsports.com/en,p]::1;[http://www.beinsports.com/us,h]::1;[http://www.beinsports.com/france,p]::1;[https://www.marca.com/futbol/argentina.html?intcmp=MENUPROD&s_kw=futbol-argentina,h]::1;[https://www.dailymail.co.uk/sport/index.html,h]::1;[https://www.dailymail.co.uk/sport/index.html,s]::1;[https://www.dailymail.co.uk/sport/index.html,p]::1;
+<sua|[https://www.hearst.it/vivere-meglio/hearst-italia-le-licenze-di-mens-health-e-runners-world,p]::1;[https://www.hearst.it/termini-e-condizioni-delle-app,p]::2;[https://www.hearst.it/brand/cosmopolitan,h]::1;[https://www.hearst.it/brand/elle,p]::2;[https://www.hearst.it/brand/marie-claire,p]::1;[https://www.hearst.it/brand/mens-health,p]::3;[https://www.outbrain.com/legal,p]::10;[https://casino-now.it,p]::1;[https://it.swiss-casino-now.com/recensioni,p]::1;[https://casino-now.it/recensioni,p]::1;[https://www.aboutamazon.it,h]::1;[https://casino-now.it/software,p]::3;
+<suave|[https://www.sensesofcinema.com/2001/festival-reports/stkff_jake,p]::1;[https://www.sensesofcinema.com/2022/cteq/fritz-langs-spione-1928,p]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/17/6282b9b0268e3e8c588b45ab.html,p]::1;[https://shop.realmadrid.com/collections/kits-football?utm_campaign=enlaces-tienda&utm_source=web&utm_medium=links-tienda&utm_content=equipacion,p]::1;
+<suavizan|[https://www.marca.com/ciclismo/giro-italia/2022/05/05/626ff4b5ca4741345a8b4595.html?intcmp=MENUMIGA&s_kw=recorrido,p]::1;
+<suaves|[https://www.marca.com/ciclismo/giro-italia/2022/05/17/6282b9b0268e3e8c588b45ab.html,p]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/15/62811040ca4741e0488b45ab.html,p]::1;
+<suadela|[https://appafrique.rfi.fr,p]::1;
+<suas|[https://www.outbrain.com/legal,p]::9;
+<suasicurezza|[https://casino-now.it/recensioni,p]::1;
+<suaon|[https://www.dailywritingtips.com/writing-a-reference-letter-with-examples,s]::1;

@@ -1,0 +1,3 @@
+<oems|[https://cloud.google.com/solutions/manufacturing,p]::1;
+<oembed|[https://developer.twitter.com/docs/twitter-for-websites,h]::1;[https://developer.twitter.com/docs/twitter-for-websites,p]::1;[https://developer.twitter.com/en/docs/twitter-for-websites/oembed-api,t]::1;[https://developer.twitter.com/en/docs/twitter-for-websites/oembed-api,p]::5;
+<oem|[https://business.twitter.com/en/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo,p]::1;[https://cloud.google.com/automl-tables/docs,p]::1;

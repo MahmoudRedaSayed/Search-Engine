@@ -1,1 +1,3 @@
-<jukebox|[https://bbc.github.io/subtitle-guidelines,p]::1;
+<jukebox|[https://bbc.github.io/subtitle-guidelines,p]::1;[https://www.sensesofcinema.com/2021/great-directors/lucas-george,p]::1;
+<juke|[https://www.sensesofcinema.com/2022/feature-articles/jacob-holdts-american-pictures-a-note-on-style-in-poor-cinema,p]::1;[https://www.campdream.org/ways-to-support/our-wish-list,p]::1;
+<jukeboxes|[https://newsroom.loc.gov/news/national-recording-registry-inducts-music-from-alicia-keys--ricky-martin--journey-and-more-in-2022/s/fee30140-0454-401c-a2a2-205298e32fb1,p]::1;

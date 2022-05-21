@@ -1,2 +1,7 @@
-<lluvia|[https://www.marca.com/ciclismo/giro-italia/2022/05/15/6280d6cd37ff7b0023a22828-directo.html,p]::1;[https://www.marca.com/futbol/premier-league/west-ham-utd-m-city-directo/2022/05/15/01_0106_20220515_21_43.html,p]::1;
-<lluvias|[https://www.sciencenewsforstudents.org/topic/climate,p]::1;
+<llull|[https://www.realmadrid.com,h]::1;[https://www.marca.com/baloncesto/mundial.html?intcmp=MENUPROD&s_kw=baloncesto-mundial,h]::1;
+<lluvia|[https://www.marca.com/motor/formula1/gp-emilia-romagna.html?intcmp=MENUPROD&s_kw=formula-1-gp-emilia-romagna,h]::2;[https://www.marca.com/motor/rallies.html?intcmp=MENUPROD&s_kw=rallies,h]::1;[https://www.marca.com/motor/formula1/gp-brasil.html?intcmp=MENUPROD&s_kw=formula-1-gp-brasil,h]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/15/6280d6cd37ff7b0023a22828-directo.html,p]::1;
+<lluvias|[https://www.marca.com/atletismo.html?intcmp=MENUPROD&s_kw=atletismo,h]::1;[https://www.sciencenewsforstudents.org/topic/climate,p]::1;
+<lluis|[https://www.marca.com/natacion.html?intcmp=MENUPROD&s_kw=natacion,h]::1;
+<llueven|[https://www.marca.com/mma.html?intcmp=MENUPROD&s_kw=mma,h]::1;[https://www.marca.com/combates-ufc.html?intcmp=MENUPROD&s_kw=UFC,h]::1;
+<lluís|[https://www.marca.com/futbol/futbol-femenino/copa-de-la-reina.html?intcmp=MENUPROD&s_kw=futbol-copa-reina,h]::2;
+<llueve|[https://www.marca.com/futbol/mundial.html?intcmp=MENUPROD&s_kw=mundial-2022,h]::1;

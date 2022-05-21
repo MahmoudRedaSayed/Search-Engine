@@ -1,0 +1,3 @@
+<alhama|[https://www.marca.com/futbol/futbol-femenino/primera-division.html?intcmp=MENUPROD&s_kw=futbol-femenino-primera-iberdrola,h]::1;
+<alhilal|[https://www.marca.com/futbol/mundial-de-clubes.html?intcmp=MENUPROD&s_kw=mundial-de-clubes,h]::1;
+<alhadhur|[https://www.marca.com/futbol/copa-africa.html?intcmp=MENUPROD&s_kw=copa-africa,h]::1;

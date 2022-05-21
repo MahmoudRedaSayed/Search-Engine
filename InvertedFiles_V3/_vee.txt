@@ -1,1 +1,15 @@
-<veer|[https://archive.org/about/contact.php,p]::2;
+<veer|[https://kidshealth.org/[https://archive.org/about/contact.php,p]::1;[https://archive.org/about/contact.php,p]::1;[https://www.sensesofcinema.com/2022/festival-reports/come-together-the-59th-viennale,p]::1;[https://nautil.us/topics/communication,p]::2;[https://blog.nemours.org/2021/11/gathering-safely-for-the-2021-holidays,p]::1;[https://kidshealth.org/en/parents/homemade-formula.html,p]::1;[https://kidshealth.org/en/parents/cow-milk.html,p]::1;[https://kidshealth.org/en/parents/solid-foods.html,p]::1;
+
+,p]::1;
+<veering|[https://www.sensesofcinema.com/2021/book-reviews/foraging-in-a-transforming-mediascape-cinemas-dark-and-slow-in-digital-india-by-lalitha-gopalan,p]::1;
+<veeam|[https://cloud.google.com/vmware-engine,p]::1;
+<veel|[https://www.outbrain.com/legal,p]::1;[https://onlinecasino-now.nl,s]::1;[https://onlinecasino-now.nl,p]::7;[https://casino-now.be,s]::2;[https://casino-now.be,p]::5;[https://nautil.us/topics/math,p]::1;[https://onlinecasino-now.nl/casino-reviews,s]::1;[https://onlinecasino-now.nl/casino-reviews,p]::9;[https://onlinecasino-now.nl/casino-reviews/playamo,p]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,s]::2;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::6;[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::5;[https://onlinecasino-now.nl/casino-software,p]::10;
+<veelgestelde|[https://casino-now.be,h]::1;
+<veered|[https://nautil.us/topics/environment,p]::1;[https://www.nationalgeographic.com/magazine/article/black-colleges-universities-race-class-gender-sexuality,p]::1;
+<veenenbos|[https://nautil.us/topics/philosophy,p]::1;
+<veelal|[https://onlinecasino-now.nl/casino-reviews/playamo,p]::1;
+<veeleisend|[https://onlinecasino-now.nl/casino-software,p]::1;
+<veep|[https://m.imdb.com/chart/starmeter/?ref_=nv_cel_brn,p]::2;[https://www.imdb.com/search/name/?match_all=true&ref_=nv_cel_m,p]::2;
+<veeikl|[https://www.dailywritingtips.com/50-incorrect-pronunciations-that-you-should-avoid,p]::1;
+<veehikl|[https://www.dailywritingtips.com/50-incorrect-pronunciations-that-you-should-avoid,p]::1;
+<veeck|[http://www.chicagotribune.com/sports/baseball/cubs/ct-cubs-fan-ronnie-woo-woo--harassment--20170512-column.html,p]::1;

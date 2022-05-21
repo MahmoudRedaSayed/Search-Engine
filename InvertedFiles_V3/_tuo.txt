@@ -1,1 +1,6 @@
-<tuoi|[https://olympics.com/it,p]::1;
+<tuoi|[https://www.hearst.it/informativa-privacy,h]::3;[https://www.hearst.it/informativa-privacy,s]::1;[https://www.hearst.it/informativa-privacy,p]::20;[https://www.outbrain.com/legal,s]::3;[https://www.outbrain.com/legal,p]::1;[https://it.swiss-casino-now.com/recensioni,p]::3;[https://icons8.it,p]::1;[https://icons8.it/animated-icons,p]::1;
+<tuo|[https://www.hearst.it/informativa-privacy,s]::2;[https://www.hearst.it/informativa-privacy,p]::2;[https://www.hearst.it/informativa-sui-cookies,p]::6;[https://www.cosmopolitan.com/it,h]::1;[https://www.hearst.it/lavora-con-noi,s]::1;[https://www.hearst.it/lavora-con-noi,p]::1;[https://www.outbrain.com/legal,s]::2;[https://netticasino-now.com,p]::1;[https://casino-now.it,p]::1;[https://www.amazon.it/ref=nodl_&nodl_android,h]::2;[https://it.swiss-casino-now.com/recensioni,p]::2;[https://casino-now.it/recensioni,h]::1;[https://casino-now.it/recensioni,s]::1;[https://casino-now.it/recensioni,p]::2;[https://casino-now.it/software,p]::3;
+<tuohy|[https://www.sensesofcinema.com/author/hal-young,h]::1;
+<tuomat|[https://netticasino-now.com,h]::1;
+<tuoda|[https://netticasino-now.com,p]::2;
+<tuoden|[https://netticasino-now.com,p]::1;

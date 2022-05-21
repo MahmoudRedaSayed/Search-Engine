@@ -1,1 +1,11 @@
+<alysia|[https://www.marca.com/en/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;[https://us.marca.com/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;
+<alyas|[https://www.marca.com/tiramillas/television/2022/05/17/6283f73f22601d7e228b4571.html,p]::1;
+<alysa|[https://www.marca.com/deportes-invierno.html?intcmp=MENUPROD&s_kw=deportes-invierno,h]::1;
+<aly|[https://appafrique.rfi.fr,p]::1;[https://www.foxbusiness.com/personal-finance,p]::4;
+<alye|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;
+<alyce|[https://www.dailywritingtips.com/passed-vs-past,s]::1;
+<alyson|[https://www.tefl.net,p]::1;[https://www.tefl.net/jobs/faq.php,p]::1;[https://www.tefl.net/elt/articles/career/how-to-become-a-successful-tutor,p]::1;
+<alyssonon|[https://www.dailywritingtips.com/16-substitutes-for-because-or-because-of,s]::1;
+<alysson|[https://www.dailywritingtips.com/16-substitutes-for-because-or-because-of,p]::1;
+<alyssa|[https://www.nytimes.com/interactive/2021/us/covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/us/covid-cases-deaths-tracker.html,p]::1;[https://www.nytimes.com/2022/04/14/health/covid-cases-tracking.html,p]::1;[https://www.nytimes.com/interactive/2020/us/covid-19-vaccine-doses.html,p]::1;[https://www.nytimes.com/interactive/2021/world/covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/us/mississippi-covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/us/pennsylvania-covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/us/connecticut-covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/us/arizona-covid-cases.html,p]::1;
 <alyeska|[https://www.dailymail.co.uk/travel/index.html,p]::1;

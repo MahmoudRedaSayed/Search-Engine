@@ -1,0 +1,2 @@
+<trtr|[https://profiles.wordpress.org/wpmudev,h]::1;
+<trtürkçe|[https://www.gnu.org/licenses/license-list.html#CC0,p]::1;

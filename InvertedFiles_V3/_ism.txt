@@ -1,2 +1,8 @@
+<isms|[https://www.healthline.com/health/healthy-sex/second-queer-adolescence,p]::1;
+<ismail|[https://www.hearst.com/fitch-group,p]::4;
+<ismael|[https://www.expansion.com,p]::1;
+<ismaël|[http://afriquefoot.rfi.fr,p]::1;
+<ismental|[https://newsnetwork.mayoclinic.org,p]::1;
+<ismilon|[https://www.dailywritingtips.com/34-writing-tips-that-will-make-you-a-better-writer,s]::1;
+<ismaila|[https://www.dailymail.co.uk/sport/index.html,p]::1;
 <ismultifactorial|[https://www.everydayhealth.com/type-2-diabetes/guide,p]::1;
-<ism|[https://stackoverflow.com/questions,h]::1;

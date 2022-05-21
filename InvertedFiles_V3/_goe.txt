@@ -1,2 +1,14 @@
+<goebbels|[https://www.sensesofcinema.com/2022/feature-articles/heil-darling-a-story-of-lips-that-havent-laughed,p]::1;[https://www.sensesofcinema.com/2021/great-directors/riefenstahl-leni,p]::1;[https://www.sensesofcinema.com/2022/cteq/m-fritz-lang-1931,p]::1;
+<goel|[https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures,h]::1;[https://blog.archive.org/author/vinay,t]::1;[https://blog.archive.org/author/vinay,h]::2;[https://blog.archive.org/author/vinay,p]::1;[https://blog.archive.org/2013/10/25/fixing-broken-links,p]::1;
+<goetheinstitut|[https://www.sensesofcinema.com/2022/great-directors/tahimik-kidlat,p]::1;
+<goers|[https://www.sensesofcinema.com/2022/festival-reports/looking-for-love-at-hitchcon-2021,p]::1;
+<goethe|[https://www.sensesofcinema.com/2020/feature-articles/founding-father-a-tribute-to-thomas-elsaesser-1943-2019,p]::1;
+<goedgekeurd|[https://onlinecasino-now.nl,p]::4;[https://casino-now.be,p]::1;[https://onlinecasino-now.nl/casino-reviews,p]::2;[https://onlinecasino-now.nl/casino-reviews/playamo,p]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::1;[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::1;[https://onlinecasino-now.nl/casino-software,p]::1;
+<goed|[https://onlinecasino-now.nl,p]::4;[https://onlinecasino-now.nl/casino-reviews,p]::6;[https://onlinecasino-now.nl/casino-reviews/playamo,p]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::2;[https://onlinecasino-now.nl/live-casino/casino-holdem,h]::1;[https://onlinecasino-now.nl/live-casino/casino-holdem,s]::2;[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::17;[https://onlinecasino-now.nl/casino-software,p]::4;
+<goede|[https://onlinecasino-now.nl,p]::5;[https://casino-now.be,s]::1;[https://casino-now.be,p]::5;[https://onlinecasino-now.nl/casino-reviews,p]::8;[https://onlinecasino-now.nl/casino-reviews/playamo,p]::3;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::3;[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::5;[https://onlinecasino-now.nl/casino-software,p]::7;
+<goedkeuring|[https://onlinecasino-now.nl,p]::1;
+<goethes|[https://nautil.us/topics/neuroscience,h]::1;
+<goeswhen|[https://casino-now-canada.com/reviews/cookie-casino,p]::1;
+<goertzel|[https://www.nationalgeographic.com/pages/article/masthead,p]::1;
+<goeschl|[https://onlinelearning.hms.harvard.edu/hmx/institutions,p]::1;
 <goettingen|[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;
-<goel|[https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures,h]::1;

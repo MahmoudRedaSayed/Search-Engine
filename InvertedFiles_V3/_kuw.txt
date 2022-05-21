@@ -1,1 +1,2 @@
-<kuwa|[https://www.bbc.com/,p]::1;
+<kuwaits|[https://nautil.us/topics/environment,p]::1;
+<kuwait|[http://www.kizphonics.com,s]::1;[http://www.kizphonics.com,p]::1;[http://agreementservice.svs.nike.com/eg/en_gb/rest/agreement?agreementType=privacyPolicy&uxId=com.nike.commerce.nikedotcom.web&country=eg&language=en_gb&requestType=redirect,s]::3;[http://agreementservice.svs.nike.com/eg/en_gb/rest/agreement?agreementType=privacyPolicy&uxId=com.nike.commerce.nikedotcom.web&country=eg&language=en_gb&requestType=redirect,p]::3;

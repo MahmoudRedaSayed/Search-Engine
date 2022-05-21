@@ -1,2 +1,8 @@
-<oshi|[https://www.everydayhealth.com/ulcerative-colitis/guide,s]::1;[https://www.everydayhealth.com/ulcerative-colitis/guide,p]::1;
 <oshodi|[https://www.bbc.co.uk/programmes/b006qxww,h]::1;
+<oshii|[https://www.sensesofcinema.com/author/joy-mcentee,h]::1;
+<oshoala|[https://www.marca.com/futbol/futbol-femenino/primera-division.html?intcmp=MENUPROD&s_kw=futbol-femenino-primera-iberdrola,h]::1;
+<oshima|[https://www.sensesofcinema.com/2021/great-directors/obayashi-nobuhiko,p]::1;
+<oshea|[https://legal.twitter.com/imprint.html,p]::1;
+<oshaughnessy|[https://ma.tt,p]::1;[https://www.chicagotribune.com/sports/#nt=taxonomy-article,h]::1;[https://www.chicagotribune.com/sports/bears/ct-cb-chicago-bears-roster-breakdown-otas-20220516-gxvwqjx32rbyradq2gf6h2tyia-story.html#nt=interstitial-auto,p]::1;
+<oshkosh|[https://edu.google.com/intl/en_US/products/more-products,h]::1;[https://edu.google.com/intl/en_US/products/more-products,p]::1;[https://www.foxnews.com/category/tech/topics/military-tech,p]::1;
+<oshi|[https://www.everydayhealth.com/ulcerative-colitis/guide,s]::1;[https://www.everydayhealth.com/ulcerative-colitis/guide,p]::1;

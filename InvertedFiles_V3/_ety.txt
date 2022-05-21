@@ -1,2 +1,6 @@
+<etymology|[https://archive.org/about/bios.php,p]::1;[https://www.dailywritingtips.com/wether-weather-whether,p]::2;[https://www.dailywritingtips.com/inquire-vs-enquire,p]::1;[https://www.dailywritingtips.com/100-mostly-small-but-expressive-interjections,p]::2;[https://www.dailywritingtips.com/50-slang-terms-for-money,p]::1;[https://www.dailywritingtips.com/greek-words,p]::8;[https://en.wikipedia.org/wiki/American_English,p]::1;
+<etymological|[https://www.dailywritingtips.com/affect-vs-effect,p]::1;[https://www.dailywritingtips.com/100-mostly-small-but-expressive-interjections,p]::5;
+<etymologies|[https://www.dailywritingtips.com/100-mostly-small-but-expressive-interjections,p]::1;
+<etymologicallyderived|[https://www.dailywritingtips.com/100-mostly-small-but-expressive-interjections,p]::1;
+<etymon|[https://www.dailywritingtips.com/greek-words,p]::2;
 <etymologyedit|[https://en.wiktionary.org/wiki/interface,h]::1;
-<etymology|[https://en.wikipedia.org/wiki/American_English,p]::1;[https://archive.org/about/bios.php,p]::1;

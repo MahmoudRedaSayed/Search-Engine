@@ -1,2 +1,5 @@
-<ofmac|[https://www.apple.com/lae/mac,h]::1;
-<ofmind|[https://www.apple.com/lae/services,p]::1;
+<ofmac|[https://www.apple.com/mac,h]::1;
+<ofmentions|[https://www.linkedin.com/legal/privacy-policy,p]::1;
+<ofmusica|[https://blog.archive.org/category/live-music-archive-2,p]::1;
+<ofmayo|[https://healthyliving.mayoclinic.org/?mc_id=global&utm_source=mayoclinicorgmainnav&utm_medium=l&utm_content=healthylivingprogram&utm_campaign=hlp&geo=national&placementsite=enterprise&cauid=100469,p]::1;
+<ofmurder|[https://www.dailymail.co.uk/ushome/index.html,p]::1;

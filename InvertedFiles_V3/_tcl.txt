@@ -1,2 +1,2 @@
+<tcl|[https://newsroom.loc.gov/news/artists-celebrate-lionel-richie-receiving-library-s-gershwin-prize/s/7135edca-40eb-4434-b0ea-7679390c00c9,p]::1;
 <tcltk|[https://www.tutorialspoint.com/tutorialslibrary.htm,p]::1;
-<tcl|[https://discountcode.dailymail.co.uk/currys,h]::1;

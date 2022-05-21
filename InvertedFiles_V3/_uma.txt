@@ -1,0 +1,6 @@
+<umanitaria|[https://www.hearst.it/vivere-meglio/hearst-italy-peace,p]::2;
+<umana|[https://www.hearst.it/condizioni-di-utilizzo-del-sito-e-copyright,p]::1;
+<uma|[https://www.marca.com/futbol/futbol-sala.html?intcmp=MENUPROD&s_kw=futbol-sala,h]::4;[https://www.marca.com/futbol/futbol-sala.html?intcmp=MENUPROD&s_kw=futbol-sala,s]::1;[https://www.outbrain.com/legal,p]::30;[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://www.dailymail.co.uk/auhome/index.html,s]::1;
+<umanitatea|[https://rural.rfi.ro,p]::1;
+<umarł|[http://wpolityce.pl/kultura/226645-ida-jak-poklosie-pluzanski-w-filmie-to-polacy-sa-mordercami,p]::1;
+<umanità|[https://nautil.us/topics/philosophy,p]::1;

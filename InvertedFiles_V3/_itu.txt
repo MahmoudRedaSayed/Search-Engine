@@ -1,1 +1,5 @@
-<itunesstore|[https://www.apple.com/lae/mac,p]::1;
+<itunesstore|[https://www.apple.com/mac,p]::1;
+<itunes|[https://itunes.apple.com/us/genre/id6013,t]::1;[https://itunes.apple.com/us/genre/id6013,h]::1;[https://itunes.apple.com/us/genre/id6013,p]::5;[https://www.campdream.org/ways-to-support/our-wish-list,p]::1;[https://icons8.com/free-animated-icons,p]::2;[https://itunes.apple.com/us/genre/id6004,t]::1;[https://itunes.apple.com/us/genre/id6004,h]::1;[https://itunes.apple.com/us/genre/id6004,p]::5;[https://apps.apple.com/us/app/fut-22-draft-builder-futbin/id1080465358,p]::2;[https://apps.apple.com/us/app/sofascore-live-score-app/id1176147574,p]::2;
+<itu|[https://myindigolives.wordpress.com,p]::1;[https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs,p]::2;
+<itus|[https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs,p]::3;
+<itunuon|[https://www.dailywritingtips.com/creative-writing-101,s]::1;

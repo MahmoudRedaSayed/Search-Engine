@@ -1,7 +1,10 @@
-<gadgets|[https://www.everydayhealth.com/cancer/guide,h]::1;[https://www.everydayhealth.com/cancer/guide,s]::1;[https://www.everydayhealth.com/depression/guide,h]::1;[https://www.everydayhealth.com/depression/guide,s]::1;[https://www.dailymail.co.uk/health/index.html,h]::1;[https://www.bbc.co.uk/schedules/p00fzl9m,p]::5;[https://www.everydayhealth.com/rheumatoid-arthritis/guide,h]::1;[https://www.everydayhealth.com/rheumatoid-arthritis/guide,s]::1;[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;[https://www.everydayhealth.com/stress/guide,p]::1;
-<gaditanos|[https://www.marca.com/futbol/laliga-santander/cadiz-r-madrid-directo/2022/05/15/01_0101_20220515_1737_186.html,p]::1;[https://www.marca.com/futbol/primera-division/2022/05/15/6280979246163f52328b45b9.html,p]::1;
-<gaddafi|[http://www.enable-javascript.com,p]::1;[http://www.enable-javascript.com/hr,p]::1;
-<gadoliniumenhancing|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;
-<gadget|[https://www.dailymail.co.uk/health/index.html,p]::1;[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;
-<gad|[https://www.everydayhealth.com/stress/guide,h]::1;[https://www.everydayhealth.com/stress/guide,p]::1;
+<gadgets|[https://www.bbc.co.uk/schedules/p00fzl9m,p]::2;[https://nautil.us/topics/technology,p]::1;[https://nautil.us/topics/psychology,p]::1;[https://www.foxbusiness.com,h]::1;[https://www.foxnews.com/tech,p]::1;[https://www.foxnews.com/category/tech/topics/computers,p]::1;[https://www.everydayhealth.com/cancer/guide,h]::1;[https://www.everydayhealth.com/cancer/guide,s]::1;[https://www.everydayhealth.com/depression/guide,h]::1;[https://www.everydayhealth.com/depression/guide,s]::1;[https://www.everydayhealth.com/rheumatoid-arthritis/guide,h]::1;[https://www.everydayhealth.com/rheumatoid-arthritis/guide,s]::1;[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;[https://www.dailymail.co.uk/health/index.html,h]::1;[https://www.everydayhealth.com/stress/guide,p]::1;
+<gadde|[https://about.twitter.com/en/who-we-are/our-company.html,p]::5;
+<gadget|[https://www.sensesofcinema.com/2022/feature-articles/heil-darling-a-story-of-lips-that-havent-laughed,p]::1;[https://www.britannica.com/reviews/zojirushi-rice-cooker-review,p]::1;[https://www.britannica.com/reviews/baby-shower-gifts,p]::1;[https://www.ebay.com/globaldeals/featured/home-and-garden,h]::1;[https://www.ebay.com/globaldeals/home,h]::1;
+<gaddaar|[https://www.sensesofcinema.com/2021/book-reviews/foraging-in-a-transforming-mediascape-cinemas-dark-and-slow-in-digital-india-by-lalitha-gopalan,p]::1;
+<gadgetry|[https://www.sensesofcinema.com/2022/cteq/fritz-langs-spione-1928,p]::1;
+<gadeselli|[https://www.thenewsmarket.com/about,p]::1;
 <gads|[https://policies.google.com/technologies/cookies?en_US=en,p]::2;
+<gaddis|[https://www.dailywritingtips.com/20-great-opening-lines-to-inspire-the-start-of-your-story,p]::1;
+<gadoliniumenhancing|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;
+<gad|[https://www.everydayhealth.com/stress/guide,h]::1;[https://www.everydayhealth.com/stress/guide,p]::1;

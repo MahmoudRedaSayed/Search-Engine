@@ -1,1 +1,5 @@
-<hex|[https://bbc.github.io/subtitle-guidelines,s]::1;[https://bbc.github.io/subtitle-guidelines,p]::1;
+<hexacampeón|[https://www.marca.com/motor/formula1/gp-mexico.html?intcmp=MENUPROD&s_kw=formula-1-gp-mexico,h]::1;[https://www.marca.com/motor/formula1/gp-eeuu.html?intcmp=MENUPROD&s_kw=formula-1-gp-estados-unidos,h]::1;
+<hex|[https://bbc.github.io/subtitle-guidelines,s]::1;[https://bbc.github.io/subtitle-guidelines,p]::1;[https://www.ebay.com/globaldeals,h]::1;[https://wizardpins.com/pages/enamel-pin-guide,p]::1;[https://www.ebay.com/globaldeals/featured/home-and-garden,h]::1;[https://www.ebay.com/globaldeals/home,h]::1;
+<hexagons|[https://nautil.us/topics/physics,h]::1;
+<hexagon|[https://www.britannica.com/reviews/weighted-blankets,p]::1;
+<hexa|[https://www.dailywritingtips.com/latin-words-and-expressions-all-you-need-to-know,p]::2;

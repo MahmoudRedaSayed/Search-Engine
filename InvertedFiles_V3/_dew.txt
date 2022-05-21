@@ -1,1 +1,14 @@
-<dew|[https://www.sciencenewsforstudents.org/topic/agriculture,h]::1;
+<dewynter|[https://www.hearst.com/hearst-health,s]::1;[https://www.hearst.com/hearst-health,p]::5;
+<dewynters|[https://www.hearst.com/hearst-health,p]::1;
+<dew|[https://www.marca.com/turf.html?intcmp=MENUPROD&s_kw=turf,h]::1;[https://www.dailywritingtips.com/masters-degree-or-masters-degree,p]::1;
+<dewey|[https://blog.archive.org/about,p]::1;[https://www.natgeomaps.com,s]::2;[https://www.dailywritingtips.com/a-10-point-comma-quiz,p]::4;
+<dewi|[https://www.sensesofcinema.com/2022/feature-articles/streaming-paracinema-charles-band-full-moon-features-and-auteurism-on-third-tier-svod-services,p]::1;
+<dewildered|[https://blog.archive.org/category/audio-archive/78rpm,p]::1;[https://blog.archive.org/category/music,p]::1;
+<dewy|[https://www.healthline.com/program/acne-prone-skin-a-game-plan,p]::1;
+<dewaele|[https://www.sensesofcinema.com/2015/feature-articles/notes-on-bruno-dumonts-ptit-quinquin-or-something-is-rotten-in-the-north-of-france,p]::1;
+<dewetgeving|[https://casino-now.be,p]::1;
+<deweloperów|[https://kasyno-now.com,p]::1;
+<dewelkomstbonusin|[https://onlinecasino-now.nl/casino-reviews,p]::1;
+<dewalt|[https://www.ebay.com/globaldeals,h]::1;[https://www.ebay.com/globaldeals/featured/home-and-garden,h]::1;[https://www.ebay.com/globaldeals/home,h]::3;
+<dews|[https://www.nytimes.com/interactive/2021/us/covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/us/covid-cases-deaths-tracker.html,p]::1;[https://www.nytimes.com/interactive/2020/us/covid-19-vaccine-doses.html,p]::1;[https://www.nytimes.com/interactive/2021/world/covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/us/mississippi-covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/us/pennsylvania-covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/us/connecticut-covid-cases.html,p]::1;[https://www.nytimes.com/interactive/2021/us/arizona-covid-cases.html,p]::1;
+<dewan|[https://www.dailymail.co.uk/auhome/index.html,s]::1;

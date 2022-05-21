@@ -1,0 +1,2 @@
+<bcps|[https://www.medicalnewstoday.com,p]::1;
+<bcpa|[https://www.ebay.com/globaldeals/tech/vehicle-electronics-gps,h]::1;

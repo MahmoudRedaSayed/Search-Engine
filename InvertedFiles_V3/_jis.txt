@@ -1,1 +1,2 @@
-<jisc|[https://blog.archive.org,p]::1;
+<jisc|[https://blog.archive.org,p]::1;[https://blog.archive.org/category/event,p]::1;[https://blog.archive.org/category/event/upcoming-event,p]::1;
+<jism|[https://m.imdb.com/chart/starmeter/?ref_=nv_cel_brn,p]::1;

@@ -1,1 +1,1 @@
-<hsbc|[https://www.dailymail.co.uk/money/index.html,p]::1;
+<hsbc|[https://www.hearst.com/hearst-health,p]::1;[https://cloud.google.com/data-cloud,p]::1;[https://cloud.google.com/solutions/financial-services,p]::1;[https://cloud.google.com/solutions/hpc,p]::2;[https://cloud.google.com/solutions/data-warehouse-modernization,p]::1;[https://cloud.google.com/anthos,p]::1;[https://cloud.google.com/speech-to-text,p]::1;[https://cloud.google.com/products/ai,p]::1;

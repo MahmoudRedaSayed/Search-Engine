@@ -1,1 +1,2 @@
-<ias|[https://www.tutorialspoint.com/upsc_ias_exams.htm,t]::1;[https://www.tutorialspoint.com/upsc_ias_exams.htm,h]::1;[https://www.tutorialspoint.com/upsc_ias_exams.htm,p]::3;[https://www.tutorialspoint.com/current_affairs.htm,p]::1;
+<ias|[https://blog.archive.org/category/image-archive,p]::1;
+<iasonos|[https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm,p]::1;

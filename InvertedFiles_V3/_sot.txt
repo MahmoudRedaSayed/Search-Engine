@@ -1,1 +1,12 @@
-<soto|[https://www.marca.com/tiramillas/musica/2022/05/15/6280e82e268e3e8c6a8b458c.html,p]::1;
+<soto|[https://www.marca.com/tiramillas/television/2022/05/18/62848bb2268e3e09438b4604.html,s]::1;[https://www.marca.com/tiramillas/television/2022/05/18/62848bb2268e3e09438b4604.html,p]::1;[https://www.aboutamazon.com/news/workplace/amazon-to-pay-full-college-tuition-for-front-line-employees,p]::1;
+<sota|[https://www.marca.com/tiramillas/television/2022/05/18/62841874e2704e52998b45e6.html,p]::1;[https://www.marca.com/futbol/mas-futbol/tercera-division.html?intcmp=MENUPROD&s_kw=tercera-rfef,h]::1;
+<sotomayor|[https://www.expansion.com,h]::1;
+<sotto|[https://www.hearst.it/vivere-meglio/cosmopolitan-il-cambiamento-e-onlife,p]::1;[https://www.hearst.it/vivere-meglio/elle-decor-allaperto-dal-7-all11-aprile-2022,p]::1;[https://www.hearst.it/termini-e-condizioni-delle-app,p]::1;[https://www.hearst.it/chi-siamo,p]::1;[https://www.hearst.it/lavora-con-noi,s]::1;[https://www.hearst.it/lavora-con-noi,p]::1;[https://www.hearst.it/contattaci,p]::1;[https://casino-now.it,p]::3;[https://it.swiss-casino-now.com/recensioni,p]::1;[https://casino-now.it/recensioni,p]::2;[https://casino-now.it/software,p]::2;[https://www.dailywritingtips.com/what-is-irony-with-examples,p]::1;
+<sottoscrizione|[https://www.hearst.it/condizioni-di-utilizzo-del-sito-e-copyright,p]::1;[https://www.hearst.it/termini-e-condizioni-delle-app,p]::1;
+<sottoscritto|[https://www.hearst.it/termini-e-condizioni-delle-app,p]::2;
+<sottrazione|[https://www.hearst.it/condizioni-di-utilizzo-del-sito-e-copyright,p]::1;
+<sotu|[https://blog.archive.org/category/television-archive,p]::1;
+<sottovalutare|[https://casino-now.it,p]::1;
+<sottopongono|[https://casino-now.it,p]::1;
+<sotweed|[https://www.dailywritingtips.com/20-great-opening-lines-to-inspire-the-start-of-your-story,p]::1;
+<sothat|[https://www.englishgrammar.org/connecting-words-exercise-5,p]::1;

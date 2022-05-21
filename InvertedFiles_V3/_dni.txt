@@ -1,0 +1,3 @@
+<dni|[https://www.marca.com/corporativo/politica-privacidad.html,p]::2;[https://kasyno-now.com,p]::1;
+<dnipro|[http://www.fondation-alliancefr.org,p]::1;[https://www.bbc.co.uk/news/world-europe-61480988,s]::1;[https://www.bbc.co.uk/news/world-europe-61480988,p]::4;[https://www.bbc.co.uk/news/live/world-europe-61461805,p]::3;
+<dnia|[https://kasyno-now.com,p]::6;[https://kasyno-now.com/recenzja,p]::5;

@@ -1,0 +1,4 @@
+<daouds|[https://www.infomigrants.net,h]::1;
+<daoud|[https://www.infomigrants.net,p]::1;
+<dao|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::2;[https://www.nytimes.com/2022/05/11/technology/bitcoin-price-crashing-stocks.html,p]::1;[https://www.nytimes.com/interactive/2022/03/18/technology/cryptocurrency-crypto-guide.html,p]::1;
+<daos|[https://www.nytimes.com/2022/05/11/technology/bitcoin-price-crashing-stocks.html,s]::1;[https://www.nytimes.com/2022/05/11/technology/bitcoin-price-crashing-stocks.html,p]::2;[https://forum.tezosagora.org,h]::1;

@@ -1,0 +1,1 @@
+<aodocs|[https://cloud.google.com/solutions/lending-doc-ai,p]::1;[https://cloud.google.com/solutions/document-ai,p]::1;[https://cloud.google.com/solutions/procurement-doc-ai,p]::1;

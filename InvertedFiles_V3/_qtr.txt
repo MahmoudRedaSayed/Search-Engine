@@ -1,0 +1,3 @@
+<qtrsensors|[https://www.zagrosrobotics.com/shop/custom.aspx?recid=69,p]::1;
+<qtrrc|[https://www.zagrosrobotics.com/shop/custom.aspx?recid=69,p]::1;
+<qtr|[https://www.campdream.org/ways-to-support/our-wish-list,p]::1;

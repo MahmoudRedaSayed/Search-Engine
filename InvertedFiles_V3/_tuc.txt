@@ -1,7 +1,11 @@
-<tuchels|[https://www.dailymail.co.uk/sport/index.html,h]::1;
-<tucson|[https://www.everydayhealth.com/depression/guide,s]::1;[https://www.everydayhealth.com/depression/guide,p]::3;
-<tuchel|[https://www.dailymail.co.uk/sport/index.html,h]::1;[https://www.dailymail.co.uk/sport/index.html,p]::2;
-<tucked|[https://www.dailymail.co.uk/femail/index.html,h]::1;
+<tucker|[https://www.foxnews.com/,h]::3;[https://www.bbc.com/travel,p]::1;[https://www.nationalgeographic.com/animals/article/greyhound-racing-decline-united-states,p]::1;[https://www.nationalgeographic.com/pages/article/masthead,p]::1;[https://www.foxnews.com/opinion,p]::6;[https://www.foxnews.com/media,p]::4;[https://www.foxnews.com/shows,h]::1;[https://www.foxnews.com/category/us/economy,p]::3;[https://www.foxnews.com/category/us/personal-freedoms,p]::2;[https://www.foxnews.com/category/politics/executive,p]::2;[https://www.foxnews.com/category/politics/senate,p]::2;[https://www.foxnews.com/category/politics/foreign-policy,p]::1;[https://www.foxnews.com/food-drink,p]::1;
+<tuchels|[https://www.beinsports.com/en,p]::1;
+<tuchel|[https://www.marca.com/ultimas-noticias.html?intcmp=MENUDEST&s_kw=ultimas-noticias,h]::1;[https://www.marca.com/futbol/premier-league.html?intcmp=MENUPROD&s_kw=premier-league,h]::1;[https://www.marca.com/futbol/supercopa-europa.html?intcmp=MENUPROD&s_kw=supercopa-europa,h]::2;[https://www.dailymail.co.uk/sport/index.html,h]::3;[https://www.dailymail.co.uk/sport/index.html,p]::3;[https://www.dailymail.co.uk/video/index.html,p]::1;
 <tucows|[https://archive.org/details/software,p]::1;
+<tuchinda|[https://www.hearst.com/hearst-health,s]::1;[https://www.hearst.com/hearst-health,p]::5;
+<tucked|[https://blog.archive.org/category/education-archive,p]::1;[https://www.sensesofcinema.com/2022/great-directors/tahimik-kidlat,p]::1;[https://www.sensesofcinema.com/2022/festival-reports/from-white-clouds-wild-delights-the-18th-golden-apricot-yerevan-international-film-festival,p]::1;[https://nautil.us/topics/zoology,p]::1;[https://www.nytimes.com/2022/05/09/us/arkansas-pastor-evangelical-churches.html,p]::1;[https://www.nytimes.com/2016/09/18/fashion/modern-love-transgender-child-identity-parenting.html,p]::1;[https://hms.harvard.edu/news/belonging-halls-medicine,p]::1;[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://www.dailymail.co.uk/auhome/index.html,s]::1;
+<tuck|[https://www.britannica.com/reviews/balmuda-kettle-review,p]::1;[https://www.dailywritingtips.com/greek-words,p]::1;
+<tuches|[https://www.dailywritingtips.com/the-yiddish-handbook-40-words-you-should-know,s]::1;
+<tucson|[https://www.everydayhealth.com/depression/guide,s]::1;[https://www.everydayhealth.com/depression/guide,p]::3;
+<tucks|[https://www.dailymail.co.uk/femail/index.html,p]::1;
 <tuckedaway|[https://www.dailymail.co.uk/travel/index.html,p]::1;
-<tuck|[http://www.archive-it.org,p]::1;

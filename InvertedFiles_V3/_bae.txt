@@ -1,1 +1,4 @@
-<baeck|[http://www.archive-it.org,p]::1;
+<baecque|[https://www.sensesofcinema.com/author/dirk-de-bruyn,h]::1;
+<baerveldt|[http://medprofvideos.mayoclinic.org,p]::1;
+<baerbock|[https://www.nationalgeographic.com/environment/article/how-the-ukraine-war-is-accelerating-germanys-renewable-energy-transition,p]::1;
+<baez|[https://nautil.us/ebook,p]::1;

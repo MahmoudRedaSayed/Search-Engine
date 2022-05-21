@@ -1,0 +1,9 @@
+<rtnburgess|[https://congress.gov,p]::1;
+<rtndeutch|[https://congress.gov,p]::1;
+<rtnfletcher|[https://congress.gov,p]::1;
+<rtngreene|[https://congress.gov,p]::1;
+<rtnhartzler|[https://congress.gov,p]::1;
+<rtnlahood|[https://congress.gov,p]::1;
+<rtnrosendale|[https://congress.gov,p]::1;
+<rtnblumenthal|[https://congress.gov,p]::1;
+<rtnhassan|[https://congress.gov,p]::1;

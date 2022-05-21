@@ -1,1 +1,1 @@
-<obgyn|[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::1;
+<obgyn|[https://www.hmbana.org/about-us/board.html,p]::1;[https://meded.hms.harvard.edu/academic-calendars,h]::3;[https://meded.hms.harvard.edu/academic-calendars,p]::3;[https://meded.hms.harvard.edu/teaching-awards,p]::1;[https://www.dailymail.co.uk/ushome/index.html,p]::1;[https://www.everydayhealth.com/sexual-health/sexually-transmitted-diseases,p]::1;

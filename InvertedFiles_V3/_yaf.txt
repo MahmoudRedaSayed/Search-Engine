@@ -1,0 +1,2 @@
+<yaffebellany|[https://www.nytimes.com/es,p]::1;[http://www.nytimes.com/by/david-yaffe-bellany,t]::1;[http://www.nytimes.com/by/david-yaffe-bellany,h]::2;[http://www.nytimes.com/by/david-yaffe-bellany,p]::10;[https://www.nytimes.com/2022/05/11/technology/bitcoin-price-crashing-stocks.html,p]::1;[https://www.nytimes.com/es/2022/05/13/espanol/bitcoin-precio-desplome.html,p]::3;
+<yaffebellanyerin|[http://www.nytimes.com/by/david-yaffe-bellany,p]::1;

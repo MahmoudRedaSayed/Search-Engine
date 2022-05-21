@@ -1,1 +1,2 @@
-<ssi|[https://blog.archive.org,p]::2;
+<ssi|[https://blog.archive.org/category/event,p]::2;[https://blog.archive.org/category/web-data-services,p]::2;
+<ssid|[https://www.marhabaservices.com/ae/english/cookie-policy.html,p]::1;

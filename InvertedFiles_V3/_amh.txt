@@ -1,1 +1,1 @@
-<amherst|[http://www.archive-it.org,p]::2;
+<amherst|[https://blog.archive.org/category/event/past-event,p]::1;[https://www.nytimes.com/2022/05/17/business/inflation-developing-economies.html,p]::1;

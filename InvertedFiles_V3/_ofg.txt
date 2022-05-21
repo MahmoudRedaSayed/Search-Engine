@@ -1,3 +1,5 @@
-<ofgem|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk,p]::2;[https://www.dailymail.co.uk/news/index.html,h]::1;[https://www.dailymail.co.uk/news/index.html,p]::2;[https://www.dailymail.co.uk/money/index.html,h]::1;[https://www.dailymail.co.uk/money/index.html,p]::1;
-<ofgems|[https://www.dailymail.co.uk,h]::1;[https://www.dailymail.co.uk/news/index.html,h]::1;[https://www.dailymail.co.uk/money/index.html,h]::1;
-<ofgreen|[https://www.apple.com/lae,p]::1;[https://www.apple.com/lae/iphone,p]::1;
+<ofgood|[http://www.youronlinechoices.com/uk/about-behavioural-advertising,p]::1;
+<ofgaps|[https://nautil.us/topics/astronomy,p]::1;
+<ofgreaterphiladelphia|[http://philadelphiaencyclopedia.org/archive/philadelphia-and-its-people-in-maps-the-1790s,p]::1;
+<ofgem|[https://www.dailymail.co.uk/money/index.html,h]::1;[https://www.dailymail.co.uk/money/index.html,p]::2;
+<ofgems|[https://www.dailymail.co.uk/money/index.html,h]::2;[https://www.dailymail.co.uk/money/index.html,s]::2;

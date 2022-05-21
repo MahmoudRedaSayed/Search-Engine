@@ -1,3 +1,13 @@
-<cagada|[https://www.marca.com,h]::1;[https://www.marca.com/?intcmp=BOTONPORTADA&s_kw=portada&ue_guest,h]::1;[https://www.marca.com/motor.html?intcmp=MENUPROD&s_kw=motor,h]::1;[https://www.marca.com?intcmp=MENUMIGA&s_kw=home,h]::1;
-<cagigas|[https://www.marca.com/motor.html?intcmp=MENUPROD&s_kw=motor,h]::1;
-<cage|[https://archive.org/about/bios.php,p]::1;
+<cage|[https://www.menshealth.com[https://archive.org/about/bios.php,p]::1;[https://www.sensesofcinema.com/category/great-actors,h]::1;[https://www.sensesofcinema.com/2022/festival-reports/thessaloniki-international-film-festival-rewriting-the-rules-of-the-game,p]::1;[https://www.bbc.com/news/world-europe-61496428,p]::1;[https://www.bbc.co.uk/news/world-europe-61496428,p]::1;[https://www.bbc.co.uk/news/live/world-europe-61461805,p]::1;[https://nautil.us/we-are-nowhere-close-to-the-limits-of-athletic-performance-2-11432,p]::1;[https://www.nationalgeographic.com/magazine/article/race-genetics-science-africa,p]::1;
+,h]::1;
+<cagada|[https://www.marca.com/motor.html?intcmp=MENUPROD&s_kw=motor,h]::1;[https://www.marca.com/motor/motogp.html?intcmp=MENUMIGA&s_kw=motogp,h]::1;[https://www.marca.com/motor/motogp/gp-francia.html?intcmp=MENUPROD&s_kw=moto-gp-francia,h]::1;[https://www.marca.com/motor/motogp/gp-francia/2022/05/16/6281435eca4741022c8b4572.html,t]::1;[https://www.marca.com/motor/motogp/gp-francia/2022/05/16/6281435eca4741022c8b4572.html,h]::1;[https://www.marca.com/motor/motogp/gp-francia/2022/05/16/6281435eca4741022c8b4572.html,s]::1;[https://www.marca.com/motor/motogp/gp-francia/2022/05/16/6281435eca4741022c8b4572.html,p]::1;
+<cagué|[https://www.marca.com/motor/motogp/gp-americas.html?intcmp=MENUPROD&s_kw=moto-gp-las-americas,h]::1;
+<cagadísimo|[https://www.marca.com/futbol/copa-rey.html?intcmp=MENUPROD&s_kw=futbol-copa-rey,h]::1;
+<cagney|[https://www.sensesofcinema.com/2022/great-directors/curtiz-michael,p]::4;
+<cagneys|[https://www.sensesofcinema.com/2022/great-directors/curtiz-michael,p]::2;
+<cagliari|[https://www.marca.com/futbol/liga-italiana/equipos.html?intcmp=MENUPROD&s_kw=serie-a-equipos,h]::1;[https://www.marca.com/futbol/liga-italiana.html?intcmp=MENUPROD&s_kw=serie-a,h]::1;[https://www.marca.com/futbol/liga-italiana.html?intcmp=MENUPROD&s_kw=serie-a,s]::1;
+<cagliariudinese|[https://www.marca.com/futbol/liga-italiana.html?intcmp=MENUPROD&s_kw=serie-a,s]::1;
+<cagigao|[https://www.marca.com/futbol/chile.html?intcmp=MENUPROD&s_kw=futbol-chile,h]::1;
+<caga|[https://www.marca.com/ciclismo/giro-italia/2022/05/17/6282b9b0268e3e8c588b45ab.html,p]::1;
+<cagarte|[https://www.marca.com/ciclismo/giro-italia/2022/05/11/627ae25822601d28468b457e.html,p]::1;
+<cages|[https://www.nationalgeographic.com/magazine/article/philippines-reefs-are-some-of-the-most-vibrant-but-in-peril-feature,p]::1;[https://www.nationalgeographic.com/science/article/descending-into-one-of-the-deepest-caves-on-earth,p]::1;

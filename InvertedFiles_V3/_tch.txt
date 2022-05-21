@@ -1,1 +1,11 @@
 <tchaikovsky|[https://bbc.github.io/subtitle-guidelines,p]::2;
+<tchat|[https://www.e-marchespublics.com/dematerialisez,p]::1;[https://www.e-convocations.com,p]::1;[https://www.e-marchespublics.com/faq,p]::1;[http://www.clemi.org/fr,p]::1;
+<tchouameni|[http://www.beinsports.com/us,h]::2;
+<tcheky|[https://www.sensesofcinema.com/2006/great-directors/bolognini,p]::1;
+<tchouaméni|[https://www.marca.com/futbol/liga-francesa.html?intcmp=MENUPROD&s_kw=liga-francesa,h]::1;
+<tchad|[https://mondoblog.org,h]::2;[https://mondoblog.org,p]::2;
+<tchèque|[https://fr.casino-now-canada.com/logiciels/microgaming,p]::1;
+<tchah|[https://www.dailywritingtips.com/100-mostly-small-but-expressive-interjections,s]::1;[https://www.dailywritingtips.com/100-mostly-small-but-expressive-interjections,p]::1;
+<tch|[https://www.dailywritingtips.com/100-mostly-small-but-expressive-interjections,p]::1;[https://www.dailywritingtips.com/50-incorrect-pronunciations-that-you-should-avoid,p]::1;
+<tchatchke|[https://www.dailywritingtips.com/the-yiddish-handbook-40-words-you-should-know,s]::1;[https://www.dailywritingtips.com/the-yiddish-handbook-40-words-you-should-know,p]::2;
+<tchayos|[https://www.dailywritingtips.com/50-incorrect-pronunciations-that-you-should-avoid,p]::1;

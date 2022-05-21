@@ -1,0 +1,6 @@
+<yosemite|[https://blog.archive.org/category/image-archive,h]::1;[https://blog.archive.org/category/image-archive,p]::5;[https://www.nationalgeographic.com/travel/article/beyond-chinatowns-these-places-explore-asian-americans-deep-roots-in-united-states,p]::4;[https://www.nationalgeographic.com/travel/national-parks/article/most-visited-parks-photos,p]::2;
+<yoshitaka|[https://www.sensesofcinema.com/2021/great-directors/obayashi-nobuhiko,p]::1;
+<yoshihisa|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;
+<yoshinaka|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::2;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;
+<yosef|[https://nautil.us/topics/genetics,p]::1;[https://nautil.us/topics/sociology,p]::1;
+<yoshino|[https://nautil.us/topics/technology,p]::1;

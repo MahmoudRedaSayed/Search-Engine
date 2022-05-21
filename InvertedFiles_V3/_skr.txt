@@ -1,1 +1,6 @@
-<skriver|[https://www.dailymail.co.uk/auhome/index.html,s]::1;
+<skrien|[https://www.sensesofcinema.com/about,p]::1;
+<skrill|[https://casino-now-canada.com,p]::1;[https://fr.casino-now-canada.com,p]::1;[https://casino-now.co.uk,p]::1;[https://onlinecasino-now.de,p]::1;[https://netticasino-now.com,p]::1;[https://casino-now.it,s]::1;[https://fr.casino-now-canada.com/spincasino,p]::1;[https://fr.casino-now-canada.com/platinum-play,s]::1;[https://fr.casino-now-canada.com/platinum-play,p]::1;[https://fr.swiss-casino-now.com/revue,p]::1;[https://it.swiss-casino-now.com/recensioni,p]::1;[https://casino-now.co.uk/casino-reviews,p]::1;[https://fr.casino-now-canada.com/playamo-casino,p]::1;[https://casino-now-canada.com/casino-deposit-methods,s]::1;
+<skriv|[https://onlinecasino-now.se,p]::1;
+<skrócie|[https://kasyno-now.com,p]::1;
+<skrive|[https://norskcasino-now.com/anmeldelser,p]::1;
+<skrilla|[https://www.dailywritingtips.com/50-slang-terms-for-money,s]::1;[https://www.dailywritingtips.com/50-slang-terms-for-money,p]::2;

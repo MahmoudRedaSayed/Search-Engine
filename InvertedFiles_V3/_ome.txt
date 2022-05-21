@@ -1,2 +1,10 @@
-<omega|[https://www.healthline.com/nutrition,p]::1;[https://psychcentral.com,p]::1;[https://www.everydayhealth.com/ulcerative-colitis/guide,p]::1;
-<omeljan|[http://www.archive-it.org,p]::1;
+<omega|[https://www.healthline.com/nutrition,p]::1;[https://psychcentral.com,p]::1;[https://www.sensesofcinema.com/2021/great-directors/obayashi-nobuhiko,p]::1;[https://gastronomie.rfi.ro,p]::1;[https://www.nationalgeographic.com/magazine/article/lost-your-smell-to-covid-19-heres-how-to-retrain-your-brain,p]::1;[https://www.ebay.com/globaldeals/fashion/health,h]::3;[https://www.ebay.com/globaldeals/fashion,h]::3;[https://www.ebay.com/globaldeals/fashion/beauty,h]::3;[https://www.everydayhealth.com/ulcerative-colitis/guide,p]::1;
+<omen|[https://www.sensesofcinema.com/2022/festival-reports/thessaloniki-international-film-festival-rewriting-the-rules-of-the-game,p]::1;[https://www.sensesofcinema.com/2018/book-reviews/mind-movie-critic-two-cheers-hollywood-joseph-mcbride,p]::1;[https://www.sensesofcinema.com/2021/book-reviews/42756,p]::1;[https://www.sensesofcinema.com/author/adrian-schober,p]::1;[https://www.dailywritingtips.com/what-is-irony-with-examples,p]::1;
+<omenirea|[https://rural.rfi.ro,p]::2;
+<omeros|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;
+<omerzu|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-8,p]::1;
+<omettere|[https://it.swiss-casino-now.com/recensioni,p]::1;
+<omens|[https://www.nytimes.com/section/todayspaper,h]::1;
+<ome|[https://www.kizphonics.com/phonics-stories,s]::1;[https://www.kizphonics.com/phonics-stories,p]::1;[https://www.kizphonics.com/materials/stories,p]::1;
+<omelette|[https://www.tefl.net/jobs/faq.php,p]::1;
+<omer|[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;

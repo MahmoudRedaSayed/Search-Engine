@@ -1,0 +1,4 @@
+<teoría|[https://us.marca.com/?intcmp=BOTONPORTADA&s_kw=portada,h]::1;[https://www.nytimes.com/es,h]::1;[https://www.nytimes.com/es,p]::1;
+<teo|[https://www.sensesofcinema.com/2022/great-directors/tahimik-kidlat,p]::1;
+<teodora|[https://www.sensesofcinema.com/2022/festival-reports/the-pivot-to-asia-the-34th-tokyo-international-film-festival,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;
+<teorías|[https://www.nytimes.com/es,p]::1;

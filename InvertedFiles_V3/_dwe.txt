@@ -1,1 +1,10 @@
-<dwelling|[https://en.wikipedia.org/wiki/American_English,p]::1;[https://www.sensesofcinema.com/special-dossiers,h]::1;
+<dweb|[https://blog.archive.org/category/announcements,h]::2;[https://blog.archive.org/category/announcements,s]::3;[https://blog.archive.org/category/announcements,p]::5;[https://blog.archive.org/category/event/past-event,h]::4;[https://blog.archive.org/category/event/past-event,s]::6;[https://blog.archive.org/category/event/past-event,p]::22;
+<dwebsites|[https://blog.archive.org/category/announcements,p]::1;[https://blog.archive.org/category/event/past-event,p]::1;
+<dwebarchiveorg|[https://blog.archive.org/category/event/past-event,p]::1;
+<dwellings|[https://www.bbc.com/worklife/article/20220505-the-office-spaces-transforming-into-luxury-apartments,p]::1;[https://www.nationalgeographic.com/travel/article/how-to-avoid-crowds-in-moab-utah,p]::1;[https://nautil.us/topics/psychology,p]::1;
+<dwell|[https://www.sensesofcinema.com/2022/feature-articles/loss-and-absence-in-still-life,p]::2;[https://www.dailywritingtips.com/homograph-examples,p]::1;
+<dwelling|[https://www.sensesofcinema.com/2022/feature-articles/loss-and-absence-in-still-life,p]::3;[https://www.dailywritingtips.com/12-idioms-commonly-seen-with-homonymic-spelling-errors,p]::1;[https://opensource.org/licenses/GPL-3.0,p]::1;[https://en.wikipedia.org/wiki/American_English,p]::1;
+<dwelt|[https://www.sensesofcinema.com/2022/feature-articles/jacob-holdts-american-pictures-a-note-on-style-in-poor-cinema,p]::1;[https://www.dailywritingtips.com/inquire-vs-enquire,p]::1;
+<dweck|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::1;
+<dwellers|[https://www.nationalgeographic.com/magazine/article/philippines-reefs-are-some-of-the-most-vibrant-but-in-peril-feature,p]::2;
+<dweller|[https://casino-now.co.uk/casino-reviews,p]::1;

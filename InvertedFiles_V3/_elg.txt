@@ -1,1 +1,4 @@
-<elgin|[http://www.archive-it.org,p]::3;
+<elgart|[https://www.sensesofcinema.com/2022/feature-articles/promising-young-woman-and-the-cinematic-renegotiation-of-gender-in-rape-revenge,p]::1;
+<elgar|[https://blog.archive.org/category/event/past-event,p]::1;[https://nautil.us/topics/math,p]::2;
+<elghazouani|[https://www.rfi.fr,p]::1;
+<elgato|[https://ma.tt,p]::2;

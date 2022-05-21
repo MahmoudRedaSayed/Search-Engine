@@ -1,2 +1,2 @@
-<jwt|[https://stackoverflow.com/questions/tagged/google-oauth,h]::1;
 <jwts|[https://stackoverflow.com/questions/tagged/openid,h]::1;
+<jwt|[https://stackoverflow.com/questions/tagged/google-oauth,h]::1;[https://www.onefootball.com/company/app-privacy-policy-en.html,p]::1;

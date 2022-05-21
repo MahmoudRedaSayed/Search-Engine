@@ -1,0 +1,5 @@
+<zobrazí|[https://cs.wordpress.org/plugins/broken-link-checker,p]::1;
+<zobrazovat|[https://cs.wordpress.org/plugins/broken-link-checker,p]::1;
+<zobrazení|[https://cs.wordpress.org/plugins/broken-link-checker,p]::2;
+<zobrazuje|[https://cs.wordpress.org/plugins/broken-link-checker,p]::1;
+<zobrazují|[https://cs.wordpress.org/plugins/broken-link-checker,p]::1;

@@ -1,1 +1,14 @@
-<roku|[https://discountcode.dailymail.co.uk/currys,h]::1;
+<roke|[https://www.diariomedico.com/farmacia.html,p]::1;[https://www.diariomedico.com,p]::2;
+<rokas|[https://www.marca.com/baloncesto/euroliga.html?intcmp=MENUPROD&s_kw=baloncesto-euroliga,h]::1;
+<roker|[https://www.healthline.com/program/a-prostate-cancer-roadmap,p]::1;
+<rokotondrainibe|[https://appafrique.rfi.fr,p]::1;
+<roku|[https://kasyno-now.com,p]::11;[http://www.pbs.org/anywhere/home,p]::3;[https://www.cdn77.com,p]::3;
+<rok|[https://kasyno-now.com,p]::1;[https://blog.aboutamazon.pl,h]::2;
+<rokbiggs|[https://congress.gov,p]::1;
+<rokcomer|[https://congress.gov,p]::1;
+<rokherrell|[https://congress.gov,p]::1;
+<rokluetkemeyer|[https://congress.gov,p]::1;
+<rokmurphy|[https://congress.gov,p]::1;
+<rokjohnson|[https://congress.gov,p]::1;
+<rokleahy|[https://congress.gov,p]::1;
+<rokinon|[https://www.ebay.com/globaldeals/tech,h]::7;[https://www.ebay.com/globaldeals/tech/cameras-photo,h]::12;

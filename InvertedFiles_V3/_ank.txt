@@ -1,3 +1,9 @@
-<ankle|[https://www.dailymail.co.uk/sport/index.html,s]::1;[https://www.dailymail.co.uk/travel/index.html,h]::1;
+<ankalaev|[https://www.marca.com/mma.html?intcmp=MENUPROD&s_kw=mma,h]::1;[https://www.marca.com/combates-ufc.html?intcmp=MENUPROD&s_kw=UFC,h]::1;
+<anker|[https://developers.googleblog.com/2019/05/Actions-on-Google-at-IO-2019.html,p]::1;[https://www.nationalgeographic.com/magazine/article/an-all-black-expedition-aims-to-summit-everest,p]::1;
+<ankara|[https://www.bbc.co.uk/news/live/world-europe-61461805,p]::2;[https://www.nationalgeographic.com/history/article/secret-tunnel-reveals-procession-of-ancient-gods,p]::1;
+<ankommt|[https://onlinecasino-now.de,s]::1;[https://onlinecasino-now.de,p]::1;[https://swiss-casino-now.com/casino-bewertung,p]::2;
+<anklage|[https://onlinecasino-now.de,p]::1;
+<ankle|[https://www.englishgrammar.org/exercises,p]::1;[https://www.foxnews.com/sports,p]::1;[https://www.chicagotribune.com/sports/cubs/#nt=taxonomy-article,h]::2;[https://www.chicagotribune.com/sports/bears/ct-cb-chicago-bears-roster-breakdown-otas-20220516-gxvwqjx32rbyradq2gf6h2tyia-story.html#nt=interstitial-auto,p]::1;[https://www.chicagotribune.com/sports/bears/ct-cb-chicago-bears-brad-biggs-10-thoughts-20220103-fy2qrxl7nvdkbnyxdgdkgnig64-story.html#nt=interstitial-auto,h]::1;[https://www.chicagotribune.com/sports/bears/ct-cb-chicago-bears-brad-biggs-10-thoughts-20220103-fy2qrxl7nvdkbnyxdgdkgnig64-story.html#nt=interstitial-auto,p]::2;[https://www.dailymail.co.uk/sport/index.html,s]::1;[https://www.dailymail.co.uk/travel/index.html,h]::1;
+<ank|[https://www.kizphonics.com/kindergarten-crocodile-phonics-games,h]::1;[https://www.kizphonics.com/kindergarten-crocodile-phonics-games,p]::1;[https://www.kizphonics.com/interactive-crocodile-phonics-games,h]::1;[https://www.kizphonics.com/interactive-crocodile-phonics-games,p]::1;
 <ankles|[https://www.everydayhealth.com/eczema/guide,p]::1;
-<ankylosing|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;[https://www.everydayhealth.com/stress/guide,h]::1;[https://www.everydayhealth.com/emotional-health/index.aspx,h]::1;
+<ankylosing|[https://www.everydayhealth.com/rheumatoid-arthritis/guide,p]::1;

@@ -1,1 +1,2 @@
-<ngrams|[https://blog.archive.org,p]::1;
+<ngrams|[https://blog.archive.org,p]::1;[https://blog.archive.org/category/event,p]::1;[https://blog.archive.org/category/audio-archive,h]::3;[https://blog.archive.org/category/audio-archive,p]::7;[https://blog.archive.org/category/television-archive,p]::1;
+<ngram|[https://www.dailywritingtips.com/congratulations-on-or-for,p]::1;[https://www.dailywritingtips.com/7-redundant-adjectives,p]::1;

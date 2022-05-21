@@ -1,0 +1,9 @@
+<ccpa|[https://www.demandbase.com/privacy-policy,p]::4;[https://cloud.google.com/security,p]::1;[https://www.parse.ly/privacy-policy,h]::5;[https://www.parse.ly/privacy-policy,p]::13;[https://www.outbrain.com/legal,s]::2;[https://www.digikey.com/en/help/Privacy,p]::4;[https://support.google.com/analytics/answer/6004245?hl=en,s]::1;[https://support.google.com/analytics/answer/6004245?hl=en,p]::4;[https://www.digikey.com/en/help/ccpa,p]::4;[https://disneyprivacycenter.com/notice-to-california-residents,s]::1;[https://disneyprivacycenter.com/notice-to-california-residents,p]::6;[https://privacy.thewaltdisneycompany.com/en/dnsmi,t]::1;[https://privacy.thewaltdisneycompany.com/en/dnsmi,h]::1;[https://privacy.thewaltdisneycompany.com/en/dnsmi,p]::2;[https://www.redditinc.com/policies/privacy-policy,s]::1;[https://www.redditinc.com/policies/privacy-policy,p]::4;[https://stackoverflow.com/legal/privacy-policy,p]::5;[https://www.nytimes.com/subscription?campaignId=37WXW,p]::6;[https://www.ebay.com/adchoice/ccpa,p]::2;[https://www.foxnews.com/contact,p]::1;
+<ccp|[https://www.hss.gov.nt.ca/en/services/addictions,p]::2;[https://www.discourse.org,p]::1;[https://www.ccpgames.com,t]::1;[https://www.ccpgames.com,h]::2;[https://www.ccpgames.com,p]::9;
+<ccp®|[https://www.ccpgames.com,p]::1;
+<ccpadisneycom|[https://disneyprivacycenter.com/notice-to-california-residents,p]::1;
+<ccpadisneycomagents|[https://disneyprivacycenter.com/notice-to-california-residents,p]::1;
+<ccpadisneycomagentsdnsmi|[https://disneyprivacycenter.com/notice-to-california-residents,p]::1;
+<ccpas|[https://privacy.thewaltdisneycompany.com/en/dnsmi,p]::1;[https://www.ebay.com/adchoice/ccpa,p]::1;
+<ccplus|[https://creativecommons.org/policies,p]::1;
+<ccprovided|[https://creativecommons.org/policies,p]::1;

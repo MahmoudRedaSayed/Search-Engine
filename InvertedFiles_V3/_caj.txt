@@ -1,3 +1,7 @@
-<cajun|[https://en.wikipedia.org/wiki/American_English,p]::1;
-<cajuns|[https://en.wikipedia.org/wiki/American_English,p]::1;
+<cajón|[https://www.marca.com/tiramillas/television/2022/05/18/62848bb2268e3e09438b4604.html,p]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/18/628486d022601d780b8b4573.html,p]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/14/627e5bae22601d9f028b458c.html,p]::1;
+<caja|[https://www.marca.com/coches-y-motos/tecnologia.html?intcmp=MENUPROD&s_kw=tecnologia,h]::1;[https://www.amazon.com.mx/ref=nodl_&nodl_android,h]::1;[https://www.nytimes.com/es,p]::1;
+<cajuns|[https://www.nationalgeographic.com/travel/article/these-six-parks-tell-the-surprising-stories-of-the-american-south,p]::1;[https://en.wikipedia.org/wiki/American_English,p]::1;
+<cajun|[https://www.nationalgeographic.com/travel/article/these-six-parks-tell-the-surprising-stories-of-the-american-south,p]::1;[https://en.wikipedia.org/wiki/American_English,p]::1;
+<cajal|[https://nautil.us/topics/psychology,p]::1;
+<cajoled|[https://www.chicagotribune.com/sports/bears/ct-cb-chicago-bears-brad-biggs-10-thoughts-20220103-fy2qrxl7nvdkbnyxdgdkgnig64-story.html#nt=interstitial-auto,p]::1;
 <cajoles|[https://www.dailymail.co.uk/travel/index.html,h]::1;

@@ -1,0 +1,2 @@
+<gbps|[https://cloud.google.com/vmware-engine,p]::1;[https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs,p]::1;[https://www.ebay.com/globaldeals/featured/tech,h]::2;[https://www.ebay.com/globaldeals/tech,h]::3;[https://www.ebay.com/globaldeals/tech/memory-drives-storage,h]::3;
+<gbp|[https://iclg.com/practice-areas/gambling-laws-and-regulations/canada,p]::1;[https://www.emirates.com/uk/english,p]::34;[https://uk.shop.realmadrid.com,p]::2;

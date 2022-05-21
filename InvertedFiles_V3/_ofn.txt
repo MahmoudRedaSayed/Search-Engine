@@ -1,2 +1,5 @@
-<ofneuroendocrinetumor|[https://www.everydayhealth.com/cancer/guide,p]::1;
 <ofnbsparticles|[https://support.google.com/a/answer/60224,p]::1;
+<ofnautilus|[https://nautil.us/ebook,p]::1;
+<ofnational|[https://www.nationalgeographic.com/magazine/article/tulsa-finally-confronts-the-day-a-white-mob-destroyed-a-black-community-feature,p]::1;
+<ofnews|[https://www.loc.gov/news,h]::1;
+<ofneuroendocrinetumor|[https://www.everydayhealth.com/cancer/guide,p]::1;

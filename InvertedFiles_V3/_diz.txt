@@ -1,5 +1,7 @@
-<dizziness|[https://www.everydayhealth.com/depression/guide,p]::1;[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::2;[https://www.dailymail.co.uk/health/index.html,p]::1;[https://www.everydayhealth.com/diet-nutrition/burning-questions-about-intermittent-fasting-answered,p]::2;
-<dizzying|[https://www.dailymail.co.uk/travel/index.html,p]::2;
-<diz|[https://olympics.com/pt,h]::1;
-<dizajn|[http://toni.podmanicki.com,h]::1;[http://toni.podmanicki.com,p]::1;
-<dizajniranje|[http://www.enable-javascript.com/hr,p]::1;
+<dizzy|[https://www.sensesofcinema.com/2022/feature-articles/heil-darling-a-story-of-lips-that-havent-laughed,p]::1;[https://blog.nemours.org/featured-post,p]::1;[https://www.nationalgeographic.com/history/article/how-the-harlem-renaissance-helped-forge-a-new-sense-of-black-identity,p]::1;
+<dizzying|[https://blog.archive.org/category/image-archive,p]::1;[https://www.sensesofcinema.com/2022/festival-reports/thessaloniki-international-film-festival-rewriting-the-rules-of-the-game,p]::1;[https://www.sensesofcinema.com/2021/book-reviews/rhythm-and-light-poetic-cinema-and-the-spirit-of-the-gift-in-the-films-of-pabst-parajanov-kubrick-and-ruiz-by-laleen-jayamanne,p]::1;[https://www.nationalgeographic.com/travel/article/whats-crack-seed-one-of-hawaiis-favorite-snacks,p]::1;[https://nautil.us/how-we-learned-to-love-neanderthalsand-a-lot-of-other-hominids-too-11462,p]::1;[https://www.nationalgeographic.com/magazine/article/race-rising-anxiety-white-america,p]::1;[https://www.nytimes.com/2022/05/17/business/inflation-developing-economies.html,p]::1;[https://www.nytimes.com/2022/05/09/movies/elizabeth-olsen-doctor-strange-multiverse-of-madness.html,p]::1;[https://www.dailymail.co.uk/travel/index.html,p]::2;
+<diz|[https://www.outbrain.com/legal,p]::1;
+<dizikes|[https://nautil.us/we-are-nowhere-close-to-the-limits-of-athletic-performance-2-11432,p]::1;
+<dizzyingly|[https://nautil.us/ebook,p]::1;
+<dizaines|[https://fr.swiss-casino-now.com/revue/playamo,p]::2;[https://fr.casino-now-canada.com/logiciels/betsoft,p]::3;
+<dizziness|[https://www.nytimes.com/2022/05/09/well/live/heart-disease-symptoms-women.html,p]::1;[https://www.everydayhealth.com/depression/guide,p]::1;[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::2;[https://www.everydayhealth.com/diet-nutrition/burning-questions-about-intermittent-fasting-answered,p]::2;

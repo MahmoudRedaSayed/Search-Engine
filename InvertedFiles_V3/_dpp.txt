@@ -1,1 +1,1 @@
-<dpp|[https://www.everydayhealth.com/type-2-diabetes/guide,s]::1;[https://bbc.github.io/subtitle-guidelines,p]::1;
+<dpp|[https://bbc.github.io/subtitle-guidelines,p]::1;[https://www.everydayhealth.com/type-2-diabetes/guide,s]::1;

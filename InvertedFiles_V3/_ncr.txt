@@ -1,0 +1,1 @@
+<ncr|[https://cloud.google.com/solutions/security-analytics-and-operations,p]::1;[https://cloud.google.com/solutions/security,p]::1;

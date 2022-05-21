@@ -1,1 +1,10 @@
-<vuole|[https://olympics.com/it,h]::1;
+<vuole|[https://www.hearst.it/vivere-meglio/hearst-italy-peace,p]::1;[https://www.hearst.it/vivere-meglio/cosmopolitan-il-cambiamento-e-onlife,s]::1;[https://www.hearst.it/vivere-meglio/cosmopolitan-il-cambiamento-e-onlife,p]::2;[https://casino-now.it,s]::2;[https://casino-now.it,p]::2;[https://it.swiss-casino-now.com/recensioni,p]::1;
+<vuotta|[https://netticasino-now.com,s]::1;[https://netticasino-now.com,p]::1;
+<vuoden|[https://netticasino-now.com,p]::4;
+<vuosikausien|[https://netticasino-now.com,p]::1;
+<vuodesta|[https://netticasino-now.com,p]::1;
+<vuosina|[https://netticasino-now.com,p]::1;
+<vuoksi|[https://netticasino-now.com,p]::1;
+<vuonna|[https://netticasino-now.com,p]::1;
+<vuosituhannen|[https://netticasino-now.com,p]::1;
+<vuoi|[https://casino-now.it,p]::1;[https://it.swiss-casino-now.com/recensioni,p]::2;[https://casino-now.it/recensioni,p]::1;[https://casino-now.it/software,p]::1;

@@ -1,3 +1,11 @@
-<isp|[https://archive.org/details/software,p]::1;
-<ispod|[http://www.enable-javascript.com/hr,p]::1;
-<isps|[https://archive.org/about/bios.php,p]::1;
+<isp|[https://archive.org/details/software,p]::1;[https://www.linkedin.com/legal/privacy-policy,p]::1;[https://cloud.google.com/cdn,p]::1;[https://casinoenlinea-now.com,p]::1;[https://www.loc.gov/accessibility,p]::4;[https://fpn.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=products,p]::1;[https://www.englishclub.com/vocabulary/censorship.php,s]::1;[https://www.englishclub.com/vocabulary/censorship.php,p]::1;
+<isps|[https://archive.org/about/bios.php,p]::1;[https://myindigolives.wordpress.com,p]::1;[https://tunein.com/policies,p]::1;[https://www.englishclub.com/vocabulary/censorship.php,p]::2;[https://www.cdn77.com,s]::1;[https://www.cdn77.com,p]::2;
+<ispirano|[https://www.hearst.it,p]::1;[https://www.hearst.it/vivere-meglio/hearst-italia-le-licenze-di-mens-health-e-runners-world,p]::1;[https://www.hearst.it/vivere-meglio/cosmopolitan-il-cambiamento-e-onlife,p]::1;[https://www.hearst.it/brand,p]::2;[https://www.hearst.it/valori-e-principi-dei-nostri-contenuti,p]::1;[https://www.hearst.it/chi-siamo,p]::1;
+<ispirarsi|[https://www.hearst.it/vivere-meglio/cosmopolitan-il-cambiamento-e-onlife,p]::1;
+<ispirazioni|[https://www.hearst.it/vivere-meglio/cosmopolitan-il-cambiamento-e-onlife,p]::1;[https://www.hearst.it/brand/marie-claire-maison,p]::2;
+<ispirazione|[https://www.hearst.it/chi-siamo,p]::2;
+<ispirare|[https://www.hearst.it/brand/harpers-bazaar,h]::1;[https://www.hearst.it/brand/harpers-bazaar,s]::1;[https://www.hearst.it/brand/mens-health,h]::1;[https://www.hearst.it/brand/mens-health,s]::1;[https://www.hearst.it/brand/mens-health,p]::1;
+<ispira|[https://www.hearst.it/brand/harpers-bazaar,p]::2;[https://www.hearst.it/brand/runners-world,p]::2;
+<ispirato|[https://www.hearst.it/brand/mens-health,p]::2;
+<isphotograph|[https://nautil.us/topics/psychology,p]::1;
+<ispooled|[https://www.hmbana.org/our-work/overview.html,p]::1;

@@ -1,0 +1,9 @@
+<ouvrir|[https://www.e-marchespublics.com/#acheteur,p]::1;[https://www.e-marchespublics.com/acheteur,p]::1;
+<ouvert|[https://www.e-marchespublics.com/faq,p]::1;[https://appafrique.rfi.fr,p]::2;
+<ouverture|[https://savoirs.rfi.fr/fr/recherche/editorial/questionnaire/mots-cles/fait-du-jour-3359/contenu-niveau-francais/2753?solrsort=ds_created%2520desc,h]::1;
+<ouviña|[https://www.marca.com/baloncesto/eurobasket-femenino.html?intcmp=MENUMIGA&s_kw=baloncesto-eurobasket-femenino,h]::2;
+<ouvrages|[https://www.reseau-canope.fr,p]::1;
+<ouvrage|[https://www.reseau-canope.fr,p]::1;
+<ouvertes|[http://www.iris-france.org,h]::1;
+<ouverte|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;[https://fr.casino-now-canada.com/logiciels/microgaming,p]::1;
+<ouvrent|[https://fr.swiss-casino-now.com/revue,p]::1;

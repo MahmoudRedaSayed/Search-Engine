@@ -1,0 +1,5 @@
+<vcpu|[https://cloud.google.com/sql-server,p]::1;[https://cloud.google.com/compute,p]::2;[https://cloud.google.com/compute/docs/nodes/sole-tenant-nodes,p]::2;[https://cloud.google.com/dataproc,p]::1;[https://cloud.google.com/dataplex,p]::1;
+<vcpk|[https://www.sensesofcinema.com/about/patrons,p]::1;
+<vcpus|[https://cloud.google.com/compute,p]::2;[https://cloud.google.com/compute/docs/nodes/sole-tenant-nodes,p]::4;[https://cloud.google.com/dataproc,p]::1;
+<vcpm|[https://www.outbrain.com/legal,s]::2;
+<vcpuhour|[https://cloud.google.com/composer,p]::1;

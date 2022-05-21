@@ -1,1 +1,4 @@
 <koffee|[https://www.bbc.co.uk/sounds,p]::3;
+<kofikyereh|[http://www.beinsports.com/france,p]::1;
+<koffler|[https://www.foxnews.com/category/tech/topics/security,p]::1;
+<koffer|[https://www.ebay.com/globaldeals/home,h]::1;

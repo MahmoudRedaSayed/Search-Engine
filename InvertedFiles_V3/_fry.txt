@@ -1,2 +1,6 @@
-<fryers|[https://discountcode.dailymail.co.uk/ebay,h]::1;[https://discountcode.dailymail.co.uk/currys,h]::1;[https://www.everydayhealth.com/diet-nutrition/burning-questions-about-intermittent-fasting-answered,h]::1;
-<fryer|[https://www.everydayhealth.com/diet-nutrition/burning-questions-about-intermittent-fasting-answered,h]::1;
+<fryer|[https://www.menshealth.com[https://www.ebay.com/globaldeals/home,h]::1;[https://www.everydayhealth.com/diet-nutrition/burning-questions-about-intermittent-fasting-answered,h]::1;
+,h]::1;
+<fry|[https://www.sensesofcinema.com/2022/feature-articles/smooth-digital-reveries-on-proto-vaporwave-and-the-flying-luna-clipper,p]::1;[https://www.britannica.com/reviews/convection-ovens,p]::1;[https://nautil.us/topics/evolution,p]::1;[https://nautil.us/topics/technology,p]::1;
+<fryers|[https://www.britannica.com/reviews/convection-ovens,p]::2;[https://discountcode.dailymail.co.uk/ebay,h]::1;[https://www.everydayhealth.com/diet-nutrition/burning-questions-about-intermittent-fasting-answered,h]::1;
+<frying|[https://www.englishclub.com/vocabulary/onomatopoeia.php,p]::1;[https://www.chicagotribune.com/consumer-reviews/#nt=tertiarynavbar,h]::1;
+<frydenberg|[https://www.dailymail.co.uk/auhome/index.html,h]::1;[https://www.dailymail.co.uk/auhome/index.html,p]::1;

@@ -1,2 +1,2 @@
-<tcpip|[https://twitter.com/tos,p]::4;
-<tcp|[https://bbc.github.io/subtitle-guidelines,p]::1;
+<tcp|[https://developers.google.com/assistant/smarthome/concepts/local,p]::1;[https://bbc.github.io/subtitle-guidelines,p]::1;[https://developers.googleblog.com/2019/07/developer-preview-of-local-home-sdk.html,p]::1;[https://www.dailywritingtips.com/100-mostly-small-but-expressive-interjections,p]::2;
+<tcpip|[https://twitter.com/tos,p]::4;[https://creativecommons.org/privacy,p]::1;

@@ -1,0 +1,3 @@
+<cpra|[http://www.networkadvertising.org,p]::1;
+<cpr|[https://www.campdream.org/ways-to-support/our-wish-list,p]::1;[https://www.campdream.org/camps-programs/seasonal-staff,p]::1;
+<cprs|[https://www.loc.gov/collections/copyright-historical-record-books-1870-to-1977/about-this-collection,p]::1;

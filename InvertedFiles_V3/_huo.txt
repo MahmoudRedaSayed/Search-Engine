@@ -1,1 +1,9 @@
-<huoltoyhteys|[https://fi.wiktionary.org/wiki/yhteys,p]::1;
+<huomioonotettavat|[https://netticasino-now.com,h]::1;
+<huolella|[https://netticasino-now.com,s]::1;[https://netticasino-now.com,p]::2;
+<huolen|[https://netticasino-now.com,p]::1;
+<huomattavasti|[https://netticasino-now.com,p]::3;
+<huomioon|[https://netticasino-now.com,p]::3;
+<huomiota|[https://netticasino-now.com,p]::2;
+<huomioida|[https://netticasino-now.com,p]::1;
+<huolettomasta|[https://netticasino-now.com,p]::1;
+<huomaa|[https://netticasino-now.com,p]::2;

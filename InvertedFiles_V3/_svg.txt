@@ -1,1 +1,1 @@
-<svg|[https://www.tutorialspoint.com/tutorialslibrary.htm,p]::1;
+<svg|[https://www.w3schools.com,h]::1;[https://icons8.com/icon/30534/spain-flag,p]::1;[https://exchange.adobe.com/creativecloud.details.103891.html,p]::1;[https://icons8.com/emoji,p]::1;[https://icons8.com/icons,t]::1;[https://icons8.com/icons,p]::1;[https://icons8.com/pricing,t]::1;[https://icons8.com/pricing,p]::1;[https://www.tutorialspoint.com/tutorialslibrary.htm,p]::1;

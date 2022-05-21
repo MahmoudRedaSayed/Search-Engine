@@ -1,0 +1,1 @@
+<rdc|[https://www.rfi.fr,p]::2;[https://mondoblog.org,h]::1;[https://mondoblog.org,s]::3;

@@ -1,3 +1,9 @@
-<null|[https://stackoverflow.com/questions,h]::1;[https://gist.github.com/maxogden/43219d6dcb9006042849,p]::6;[https://github.com/georgmartius/vid.stab#installation-instructions,p]::1;
-<nul|[https://gist.github.com/maxogden/43219d6dcb9006042849,p]::1;[http://www.archive-it.org,p]::2;
-<nullify|[https://www.iflscience.com/environment/donald-trump-looked-into-whether-china-was-firing-hurricanes-at-the-us,p]::1;
+<null|[https://www.realmadrid.com,p]::1;[https://developer.twitter.com/en/developer-terms/agreement,p]::2;[https://tunein.com/policies,p]::1;[https://dev.twitter.com/overview/terms/agreement-and-policy,p]::1;[https://apply.mayoclinic.org/TGnewUI/Search/Home/Home?partnerid=25309&siteid=5277#home,h]::1;[https://disneytermsofuse.com/english,p]::1;[https://www.emirates.com/english/sitetools/accessibility.aspx,p]::1;[https://www.emirates.com/ae/english/sitetools/accessibility.aspx,p]::1;
+<nulas|[https://www.marca.com/corporativo/terminos-condiciones-uso.html,p]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/10/627a4ccaca47413c648b4612.html,p]::1;
+<nulidad|[https://www.marca.com/corporativo/terminos-condiciones-uso.html,p]::1;[https://agreementservice.svs.nike.com/eg/en_gb/rest/agreement?agreementType=termsOfUse&amp;uxId=com.nike.unite&amp;country=EG&amp;language=en&amp;requestType=redirect.svs.nike.com/pr/es_la/rest/agreement?agreementType=termsOfUse&uxId=com.nike.unite&country=PR&language=es&requestType=redirect,s]::1;[https://agreementservice.svs.nike.com/eg/en_gb/rest/agreement?agreementType=termsOfUse&amp;uxId=com.nike.unite&amp;country=EG&amp;language=en&amp;requestType=redirect.svs.nike.com/pr/es_la/rest/agreement?agreementType=termsOfUse&uxId=com.nike.unite&country=PR&language=es&requestType=redirect,p]::1;
+<nul|[http://www.beinsports.com/france,h]::2;
+<nulo|[https://www.marca.com/futbol/futbol-femenino/seleccion.html?intcmp=MENUPROD&s_kw=seleccion-espanola,h]::1;
+<nullified|[https://www.sensesofcinema.com/2022/cteq/out-of-the-shadows-cloak-and-dagger-fritz-lang-1946,p]::1;
+<nullity|[https://www.sensesofcinema.com/2022/feature-articles/the-cry-cinema-sentiment-minnelli,p]::1;
+<nullo|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;
+<nulla|[https://casino-now.it/software,p]::1;

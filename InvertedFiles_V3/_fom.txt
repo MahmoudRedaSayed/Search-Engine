@@ -1,0 +1,7 @@
+<foment|[https://www.france24.com,p]::1;
+<fomentar|[https://www.marca.com/coches-y-motos/trafico/2022/05/18/62847e80e2704ef1648b4599.html,s]::1;[https://www.marca.com/coches-y-motos/trafico/2022/05/18/62847e80e2704ef1648b4599.html,p]::1;[https://www.marca.com/corporativo/terminos-condiciones-uso.html,p]::1;[https://www.marca.com/codigo-etico.html,p]::1;
+<fomentando|[https://www.marca.com/coches-y-motos/trafico/2022/05/18/62847e80e2704ef1648b4599.html,p]::2;
+<fomentará|[https://www.diariomedico.com,p]::1;[https://www.diariomedico.com/farmacia.html,p]::2;
+<fomenten|[https://www.marca.com/corporativo/terminos-condiciones-uso.html,p]::2;
+<fomento|[https://www.marca.com/blogs/espanasemueve/2022/05/18/seguridad-herramienta-de-calidad-por.html,p]::1;
+<fomentaron|[https://www.nytimes.com/es/2022/05/13/espanol/bitcoin-precio-desplome.html,p]::1;

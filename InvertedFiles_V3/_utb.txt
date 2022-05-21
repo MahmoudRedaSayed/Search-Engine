@@ -1,0 +1,4 @@
+<utbetalningar|[https://onlinecasino-now.se,s]::2;[https://onlinecasino-now.se,p]::1;
+<utbetalningstid|[https://onlinecasino-now.se,p]::5;
+<utbud|[https://onlinecasino-now.se,p]::1;
+<utbetalning|[https://onlinecasino-now.se,p]::1;

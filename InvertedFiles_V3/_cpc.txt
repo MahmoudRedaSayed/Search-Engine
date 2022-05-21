@@ -1,0 +1,1 @@
+<cpc|[https://cloud.google.com/solutions/gaming,p]::1;[https://www.outbrain.com/legal,s]::4;[https://www.outbrain.com/legal,p]::6;

@@ -1,1 +1,5 @@
-<tugendhat|[https://www.dailymail.co.uk/money/index.html,h]::1;
+<tugging|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;
+<tug|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-7,p]::1;[https://www.arcademicskillbuilders.com/games,p]::7;[https://nautil.us/topics/neuroscience,p]::1;
+<tugboat|[https://www.arcademicskillbuilders.com/games,p]::1;
+<tugged|[https://www.nytimes.com/2022/05/09/us/arkansas-pastor-evangelical-churches.html,p]::1;
+<tugs|[https://www.dailywritingtips.com/affect-vs-effect,p]::1;

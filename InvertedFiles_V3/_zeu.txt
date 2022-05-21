@@ -1,1 +1,1 @@
-<zeus|[https://simple.wikipedia.org,p]::1;[https://english.ahram.org.eg/,p]::1;
+<zeus|[https://www.dailywritingtips.com/greek-words,p]::1;

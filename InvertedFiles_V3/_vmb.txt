@@ -1,0 +1,1 @@
+<vmbased|[https://cloud.google.com/solutions/hybrid-and-multicloud-application-platform,p]::1;[https://cloud.google.com/solutions/infrastructure-modernization,p]::2;[https://cloud.google.com/solutions/migration-center,p]::1;[https://cloud.google.com/anthos,p]::1;[https://cloud.google.com/migrate/compute-engine,p]::1;[https://cloud.google.com/traffic-director,p]::1;

@@ -1,5 +1,11 @@
-<etchingham|[https://www.dailymail.co.uk,p]::1;[https://www.dailymail.co.uk/news/index.html,p]::1;
-<etc편집|[https://meta.wikimedia.org/w/index.php?title=Help:How_to_start_a_new_Wikipedia/ko&uselang=ko,h]::1;
-<etc—and|[https://blog.archive.org,p]::1;
-<etc…|[https://www.tutorialspoint.com/what-is-resultsetmetadata-in-jdbc-what-is-its-significance,p]::1;
+<etcand|[https://blog.archive.org,p]::1;[https://blog.archive.org/category/event,p]::1;
+<etched|[https://www.healthline.com/health/healthy-sex/sexual-guilt-purity-culture,p]::1;[https://www.sensesofcinema.com/2022/great-directors/lau-kar-leung,p]::1;[https://www.nationalgeographic.com/travel/article/heres-why-hut-hiking-is-the-best-way-to-see-new-zealand,p]::1;[https://www.dailywritingtips.com/100-words-for-facial-expressions,s]::1;[https://www.dailywritingtips.com/100-words-for-facial-expressions,p]::1;
+<etches|[https://www.sensesofcinema.com/2022/festival-reports/come-together-the-59th-viennale,p]::1;
+<etching|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-3,p]::1;[https://www.nationalgeographic.com/magazine/article/why-are-people-so-dang-obsessed-with-mars-feature,p]::1;[https://www.nationalgeographic.com/magazine/article/black-colleges-universities-race-class-gender-sexuality,p]::1;
+<etch|[https://nautil.us/topics/environment,p]::1;
+<etctous|[https://fr.casino-now-canada.com/platinum-play,p]::1;
 <etcdefaultgooglechrome|[https://www.google.com/chrome,p]::1;
+<etcetcetc|[https://www.dailywritingtips.com/yours-faithfully-or-yours-sincerely,p]::1;
+<etcthough|[https://www.dailywritingtips.com/7-advisories-about-abbreviations,p]::1;
+<etcetera|[https://www.dailywritingtips.com/10-rules-for-writing-numbers-and-numerals,p]::1;
+<etc편집|[https://meta.wikimedia.org/w/index.php?title=Help:How_to_start_a_new_Wikipedia/ko&uselang=ko,h]::1;

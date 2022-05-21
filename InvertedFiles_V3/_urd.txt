@@ -1,2 +1,4 @@
-<urdu|[https://simple.wikipedia.org,p]::1;[https://www.bbc.co.uk/news,h]::1;[http://www.enable-javascript.com,p]::1;[http://www.enable-javascript.com/hr,p]::1;[https://archive.org/about/bios.php,p]::3;
+<urdu|[https://simple.wikipedia.org,p]::1;[https://archive.org/about/bios.php,p]::3;[https://blog.archive.org/category/books-archive/lending-books,p]::1;
 <urduweb|[https://archive.org/about/bios.php,p]::1;
+<urdin|[https://www.marca.com/deportes-invierno.html?intcmp=MENUPROD&s_kw=deportes-invierno,h]::2;
+<urdiales|[https://www.marca.com/toros.html?intcmp=MENUPROD&s_kw=toros,h]::4;

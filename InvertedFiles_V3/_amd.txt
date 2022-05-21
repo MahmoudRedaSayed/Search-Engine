@@ -1,0 +1,3 @@
+<amdouni|[https://www.marca.com/juegos-olimpicos.html?intcmp=MENUPROD&s_kw=juegos-olimpicos,h]::1;
+<amd|[https://cloud.google.com/solutions/hpc,p]::3;[https://cloud.google.com/compute,p]::2;[https://cloud.google.com/ai-infrastructure,p]::1;[https://chromeenterprise.google/intl/en_US/devices,p]::2;
+<amdx|[https://www.aboutamazon.com/news/company-news/2021-letter-to-shareholders,p]::1;

@@ -1,5 +1,8 @@
-<ofa|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;
+<ofapple|[https://www.apple.com/tv-home,p]::1;
+<ofarticles|[https://support.google.com/a/answer/60224,p]::1;[https://www.sensesofcinema.com/about,p]::1;
+<ofa|[https://blog.archive.org/category/live-music-archive-2,p]::1;[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;
+<ofassertiveto|[https://developer.twitter.com/en/docs/twitter-for-websites/timelines/overview,p]::1;
+<ofac|[https://www.outbrain.com/legal,s]::1;
+<ofafricaearlier|[https://nautil.us/how-we-learned-to-love-neanderthalsand-a-lot-of-other-hominids-too-11462,p]::1;
+<ofafrica|[https://nautil.us/how-we-learned-to-love-neanderthalsand-a-lot-of-other-hominids-too-11462,p]::1;
 <ofassistivedevices|[https://www.everydayhealth.com/multiple-sclerosis/guide,p]::1;
-<ofapple|[https://www.apple.com/lae/tv-home,p]::1;
-<ofarrell|[http://sensesofcinema.podbean.com,p]::1;
-<ofarticles|[https://support.google.com/a/answer/60224,p]::1;

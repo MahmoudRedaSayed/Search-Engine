@@ -1,1 +1,4 @@
+<gactions|[https://developers.google.com/assistant/conversational/build,p]::2;
 <gac|[https://policies.google.com/technologies/cookies?en_US=en,p]::2;
+<gacha|[https://www.dailywritingtips.com/7-classes-of-phrases,s]::2;
+<gachon|[https://www.nytimes.com/live/2022/05/18/world/covid-19-mandates-vaccine-cases,p]::1;

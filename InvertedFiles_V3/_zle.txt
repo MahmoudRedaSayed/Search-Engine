@@ -1,0 +1,2 @@
+<zlepšit|[https://cs.wordpress.org/plugins/broken-link-checker,p]::1;
+<zlepšili|[https://cs.wordpress.org/plugins/broken-link-checker,p]::1;

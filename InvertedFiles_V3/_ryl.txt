@@ -1,1 +1,2 @@
-<rylan|[https://www.dailymail.co.uk/video/index.html,p]::1;
+<rylov|[https://www.marca.com/natacion.html?intcmp=MENUPROD&s_kw=natacion,h]::1;
+<rylan|[https://electisngo.medium.com/electis-our-tezos-based-e-voting-facilitates-democracy-in-un-climate-discussions-edb1da9db4b3,p]::1;

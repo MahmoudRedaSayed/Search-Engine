@@ -1,1 +1,6 @@
-<gaag|[https://www.dailymail.co.uk/sport/index.html,h]::1;[https://www.dailymail.co.uk/sport/index.html,p]::2;
+<gaal|[https://www.marca.com/futbol/supercopa-europa.html?intcmp=MENUPROD&s_kw=supercopa-europa,h]::1;
+<gaali|[https://www.sensesofcinema.com/2021/book-reviews/foraging-in-a-transforming-mediascape-cinemas-dark-and-slow-in-digital-india-by-lalitha-gopalan,p]::2;
+<gaat|[https://onlinecasino-now.nl,p]::4;[https://casino-now.be,s]::1;[https://casino-now.be,p]::2;[https://onlinecasino-now.nl/casino-reviews,p]::1;[https://onlinecasino-now.nl/casino-reviews/playamo,p]::2;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::4;[https://onlinecasino-now.nl/live-casino/casino-holdem,h]::1;[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::3;[https://onlinecasino-now.nl/casino-software,p]::2;
+<gaan|[https://onlinecasino-now.nl,p]::4;[https://casino-now.be,p]::13;[https://onlinecasino-now.nl/casino-reviews,p]::2;[https://onlinecasino-now.nl/casino-reviews/playamo,p]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::2;[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::3;[https://onlinecasino-now.nl/casino-software,p]::1;
+<gaap|[https://www.tutorialspoint.com/questions/index.php,h]::1;
+<gaag|[https://www.dailymail.co.uk/sport/index.html,h]::1;

@@ -1,1 +1,7 @@
-<hudson|[https://archive.org/about/bios.php,p]::1;[https://www.everydayhealth.com/wellness/resilience,s]::1;[http://www.archive-it.org,p]::1;
+<huddersfield|[https://www.beinsports.com/en,p]::1;[https://www.dailymail.co.uk/sport/index.html,p]::3;
+<hudson|[https://archive.org/about/bios.php,p]::1;[http://www.weta.org,p]::1;[https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%252Cdesc&ref_=nv_ch_osc,p]::1;[https://www.dailywritingtips.com/apply-to-apply-for-and-apply-with,p]::1;[https://www.dailymail.co.uk/ushome/index.html,s]::1;[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::1;[https://www.dailymail.co.uk/auhome/index.html,s]::1;[https://www.everydayhealth.com/wellness/resilience,s]::1;
+<hudas|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;
+<huddle|[https://nautil.us/topics/math,p]::1;[https://www.chicagotribune.com/sports/bears/ct-cb-chicago-bears-brad-biggs-10-thoughts-20220103-fy2qrxl7nvdkbnyxdgdkgnig64-story.html#nt=interstitial-auto,p]::1;
+<huddled|[https://www.nationalgeographic.com/magazine/article/tulsa-finally-confronts-the-day-a-white-mob-destroyed-a-black-community-feature,p]::1;
+<huddlecamhd|[https://www.edtechdigest.com,h]::1;
+<hudakon|[https://www.dailywritingtips.com/20-types-and-forms-of-humor,s]::1;

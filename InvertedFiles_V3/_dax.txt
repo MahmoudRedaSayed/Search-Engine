@@ -1,1 +1,1 @@
-<dax|[https://money.cnn.com/data/markets,h]::1;[https://cnn.com/business/markets,h]::1;
+<dax|[https://translate.wordpress.org/projects/wp-plugins/broken-link-checker/contributors,p]::1;[https://money.cnn.com/data/markets,h]::1;[https://cnn.com/business/markets,h]::1;

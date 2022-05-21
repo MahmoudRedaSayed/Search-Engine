@@ -1,1 +1,5 @@
-<edt|[https://www.everydayhealth.com/,h]::1;[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;
+<edtech|[https://www.edtechdigest.com/who-we-are,s]::3;[https://www.edtechdigest.com/edcal-2019,p]::5;[https://www.edtechdigest.com/contact,p]::1;[https://www.edtechdigest.com/humor,p]::2;[https://www.edtechdigest.com/who-we-are,p]::10;[https://www.edtechdigest.com/events,t]::1;[https://www.edtechdigest.com/more/privacy-policy,t]::1;[https://www.edtechdigest.com/more/about-our-site,t]::1;[https://www.edtechdigest.com/more/videos,t]::1;[https://www.edtechdigest.com/more/guides,t]::1;[https://www.edtechdigest.com/resource-library,t]::1;[https://www.edtechdigest.com/more/media-kit,t]::1;[https://www.edtechdigest.com/more/about-our-site,s]::1;[https://www.edtechdigest.com/more/guides,p]::1;[https://www.edtechdigest.com/more/videos,p]::1;[https://www.edtechdigest.com/more/about-our-site,p]::2;[https://www.edtechdigest.com/more/privacy-policy,p]::12;[https://www.edtechdigest.com/events,p]::7;[https://www.edtechdigest.com/more/media-kit,p]::1;[https://www.edtechdigest.com/resource-library,p]::2;
+<edtechrelevant|[https://www.edtechdigest.com/humor,p]::1;
+<edtechx|[https://www.edtechdigest.com/events,p]::1;
+<edtechrelated|[https://www.edtechdigest.com/events,p]::1;
+<edt|[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;

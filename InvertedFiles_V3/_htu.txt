@@ -1,0 +1,2 @@
+<htu|[http://atelier.rfi.fr,s]::1;[http://atelier.rfi.fr,p]::2;
+<htupuis|[http://atelier.rfi.fr,p]::1;

@@ -1,2 +1,2 @@
-<kvalitete|[http://vedrigrad.hr,t]::1;[http://vedrigrad.hr,p]::1;
-<kvalitetnije|[http://vedrigrad.hr,p]::1;
+<kvartal|[https://www.bbc.co.uk/news/live/world-europe-61461805,p]::1;
+<kvalité|[https://onlinecasino-now.se,p]::1;

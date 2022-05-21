@@ -1,2 +1,6 @@
-<aitnouri|[https://www.dailymail.co.uk/sport/index.html,h]::1;
-<aitor|[https://www.marca.com/futbol/primera-division/2022/05/15/6280d88e37ff7b0023a23044-directo.html,s]::1;[https://www.marca.com/futbol/primera-division/2022/05/15/6280d88e37ff7b0023a23044-directo.html,p]::1;
+<aito|[https://www.gsmarena.com/,h]::1;[https://m.arenaev.com,h]::1;
+<aitor|[https://www.marca.com/futbol/betis/2022/05/16/62819428e2704ed5378b4576.html,s]::3;[https://www.marca.com/futbol/betis/2022/05/16/62819428e2704ed5378b4576.html,p]::3;
+<aitana|[https://www.marca.com/futbol/futbol-femenino/seleccion.html?intcmp=MENUPROD&s_kw=seleccion-espanola,h]::1;[https://www.marca.com/futbol/futbol-femenino/champions-league.html?intcmp=MENUPROD&s_kw=futbol-champions-league-femenina,h]::2;
+<ait|[https://fr.casino-now-canada.com/spincasino,p]::1;[https://fr.casino-now-canada.com/royal-vegas,p]::1;
+<aitchisonon|[https://www.dailywritingtips.com/the-yiddish-handbook-40-words-you-should-know,s]::1;
+<aitch|[https://www.dailywritingtips.com/50-incorrect-pronunciations-that-you-should-avoid,p]::1;

@@ -1,1 +1,4 @@
-<efta|[https://twitter.com/tos,p]::7;[https://twitter.com/privacy,p]::10;[https://help.twitter.com/safety-and-security/data-through-partnerships,p]::5;[https://help.twitter.com/rules-and-policies/data-processing-legal-bases,p]::27;
+<efta|[https://twitter.com/tos,p]::7;[https://twitter.com/privacy,p]::10;[https://vine.co/privacy,p]::2;[https://help.twitter.com/safety-and-security/data-through-partnerships,p]::5;[https://legal.twitter.com/en/purchaser-terms.html,p]::4;[https://kasyno-now.com,p]::1;
+<eftimie|[https://rural.rfi.ro,p]::1;
+<efter|[https://onlinecasino-now.se,s]::1;[https://onlinecasino-now.se,p]::4;
+<eftersom|[https://onlinecasino-now.se,p]::3;

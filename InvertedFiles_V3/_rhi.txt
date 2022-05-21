@@ -1,3 +1,10 @@
+<rhizomatic|[https://www.sensesofcinema.com/author/dirk-de-bruyn,h]::1;[https://www.sensesofcinema.com/2006/great-directors/carax,p]::2;
+<rhinos|[https://www.sensesofcinema.com/2021/great-directors/lucas-george,p]::1;[https://nautil.us/topics/zoology,h]::1;[https://www.nationalgeographic.com/science/article/denisovan-tooth-found-in-laos-adds-new-wrinkles-to-their-story,p]::1;
+<rhiannon|[http://www.bbc.co.uk/news/have_your_say,p]::1;[https://www.sensesofcinema.com/about/patrons,p]::1;
+<rhian|[https://www.sensesofcinema.com/about/patrons,p]::1;
+<rhizome|[https://www.sensesofcinema.com/2006/great-directors/carax,p]::2;
+<rhinestone|[https://www.nationalgeographic.com/travel/article/this-city-has-more-than-4000-murals,p]::1;
+<rhizomes|[https://www.britannica.com/reviews/houseplants,p]::1;
+<rhinologist|[https://www.nationalgeographic.com/magazine/article/lost-your-smell-to-covid-19-heres-how-to-retrain-your-brain,p]::1;
 <rhinoviruses|[https://www.everydayhealth.com/flu/guide,p]::1;
 <rhino|[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;
-<rhian|[https://www.dailymail.co.uk/sciencetech/index.html,p]::1;

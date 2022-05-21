@@ -1,1 +1,4 @@
-<txuriurdim|[https://www.marca.com/futbol/primera-division/2022/05/15/6280979246163f52328b45b9.html,p]::1;
+<txuri|[https://www.marca.com/deportes-invierno.html?intcmp=MENUPROD&s_kw=deportes-invierno,h]::2;
+<txuriurdin|[https://www.marca.com/futbol/primera-division.html?intcmp=MENUPROD&s_kw=primera-division,h]::1;
+<txus|[https://www.marca.com/baloncesto/copa-rey.html?intcmp=MENUPROD&s_kw=baloncesto-copa-rey,h]::1;
+<txurruca|[https://www.marca.com/ciclismo/giro-italia/2022/05/10/627a4ccaca47413c648b4612.html,p]::1;

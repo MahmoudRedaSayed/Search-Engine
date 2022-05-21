@@ -1,0 +1,2 @@
+<krc|[https://www.marca.com/futbol/europa-league/equipos.html?intcmp=MENUPROD&s_kw=europa-league-equipos,h]::1;
+<krczany|[https://wordpress.org/support/plugin/broken-link-checker/reviews,p]::1;[https://wordpress.org/support/plugin/broken-link-checker/reviews/?filter=5,p]::1;

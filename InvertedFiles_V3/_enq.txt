@@ -1,2 +1,14 @@
-<enquiry|[https://discountcode.dailymail.co.uk/debenhams,p]::1;
-<enquiries|[https://www.sky.com/help/articles/sky-privacy-and-cookies-notice,p]::1;
+<enquête|[https://savoirs.rfi.fr/fr/recherche/editorial/questionnaire/mots-cles/fait-du-jour-3359/contenu-niveau-francais/2753?solrsort=ds_created%2520desc,h]::1;[http://atelier.rfi.fr,p]::1;[https://savoirs.rfi.fr/en/apprendre-enseigner/economie/etats-unis-les-salaires-des-grands-patrons-explosent/1,p]::1;[https://www2.gnb.ca/content/gnb/fr/ministeres/finances/societe_des_lotteries_et_des_jeux/jeu_responsible.html,p]::1;
+<enquiries|[https://www.sensesofcinema.com/about/contact-us,p]::1;[https://www.icrc.org/en/contact,h]::1;[https://www.icrc.org/en/media-room,s]::1;[https://www.icrc.org/en/contact,s]::1;[https://www.icrc.org/en/contact,p]::1;[https://www.digikey.com/en/help/Privacy,p]::1;[https://www.dailywritingtips.com/inquire-vs-enquire,p]::1;[https://www.arsenal.com,s]::1;[https://www.arsenal.com,p]::1;[https://www.emirates.com/english/sitetools/privacy_policy.aspx,p]::1;[https://www.emirates.com/ae/english/sitetools/privacy_policy.aspx,p]::1;
+<enquêtes|[https://www.outbrain.com/legal,p]::1;[https://www2.gnb.ca/content/gnb/fr/ministeres/finances/societe_des_lotteries_et_des_jeux/jeu_responsible.html,p]::3;
+<enqueue|[https://cloud.google.com/tasks,p]::1;
+<enquire|[https://www.dailywritingtips.com/inquire-vs-enquire,t]::1;[https://www.dailywritingtips.com/inquire-vs-enquire,h]::3;[https://www.dailywritingtips.com/inquire-vs-enquire,s]::2;[https://www.dailywritingtips.com/inquire-vs-enquire,p]::18;
+<enquiry|[https://www.dailywritingtips.com/inquire-vs-enquire,s]::5;[https://www.dailywritingtips.com/inquire-vs-enquire,p]::13;[https://discountcode.dailymail.co.uk/debenhams,p]::1;[https://www.marhabaservices.com/ae/english/contact-us.html,h]::4;[https://www.marhabaservices.com/ae/english/contact-us.html,p]::3;[https://www.marhabaservices.com/ae/english/covid-19.html,p]::1;[https://www.onefootball.com/company/app-privacy-policy-en.html,p]::2;
+<enquired|[https://www.dailywritingtips.com/inquire-vs-enquire,p]::1;
+<enqueren|[https://www.dailywritingtips.com/inquire-vs-enquire,p]::1;
+<enquerre|[https://www.dailywritingtips.com/inquire-vs-enquire,p]::2;
+<enquerant|[https://www.dailywritingtips.com/inquire-vs-enquire,p]::1;
+<enquérir|[https://www.dailywritingtips.com/inquire-vs-enquire,p]::1;
+<enquerer|[https://www.dailywritingtips.com/inquire-vs-enquire,p]::1;
+<enquisition|[https://www.dailywritingtips.com/inquire-vs-enquire,p]::1;
+<enquiryform|[https://www.arsenal.com,s]::1;[https://www.arsenal.com,p]::1;

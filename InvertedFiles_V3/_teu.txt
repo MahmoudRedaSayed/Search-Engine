@@ -1,1 +1,3 @@
-<teu|[https://www.sensesofcinema.com/special-dossiers,h]::1;
+<teuta|[https://www.sensesofcinema.com/2022/festival-reports/the-pivot-to-asia-the-34th-tokyo-international-film-festival,p]::1;[https://www.sensesofcinema.com/2022/festival-reports/afi-fest-afm-the-perils-of-online,p]::1;
+<teu|[https://gl.wordpress.org/plugins/broken-link-checker,p]::2;
+<teutón|[https://www.marca.com/ciclismo/giro-italia/2022/05/10/627a4ccaca47413c648b4612.html,s]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/10/627a4ccaca47413c648b4612.html,p]::1;

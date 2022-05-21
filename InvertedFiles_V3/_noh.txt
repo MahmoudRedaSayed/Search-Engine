@@ -1,0 +1,4 @@
+<noharas|[https://www.sensesofcinema.com/2022/festival-reports/the-pivot-to-asia-the-34th-tokyo-international-film-festival,p]::3;
+<nohara|[https://www.sensesofcinema.com/2022/festival-reports/the-pivot-to-asia-the-34th-tokyo-international-film-festival,p]::3;
+<noheader|[https://developer.twitter.com/en/docs/twitter-for-websites/oembed-api,p]::1;
+<nohitter|[https://www.chicagotribune.com/sports/cubs/#nt=taxonomy-article,h]::2;

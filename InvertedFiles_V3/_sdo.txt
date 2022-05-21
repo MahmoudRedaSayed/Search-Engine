@@ -1,0 +1,1 @@
+<sdoserial|[https://circuitdigest.com/microcontroller-projects/arduino-spi-communication-tutorial,p]::1;

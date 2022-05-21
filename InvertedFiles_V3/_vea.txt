@@ -1,3 +1,5 @@
-<vea|[https://www.marca.com/tiramillas/television/2022/05/15/6280dbe322601d476b8b4580.html,p]::1;
-<veas|[https://www.marca.com/futbol/primera-division/2022/05/13/627d7c4c22601d73018b45a0.html,p]::1;
-<veamos|[https://www.marca.com/futbol/cadiz.html,h]::1;
+<vea|[https://www.marca.com/motor/formula1/gp-mexico.html?intcmp=MENUPROD&s_kw=formula-1-gp-mexico,h]::1;[https://www.marca.com/futbol/supercopa-espana.html?intcmp=MENUPROD&s_kw=supercopa-de-espana,h]::1;[https://www.marca.com/blogs/espanasemueve/2022/05/18/seguridad-herramienta-de-calidad-por.html,p]::1;[https://blog.nemours.org,p]::1;
+<vean|[https://www.marca.com/motor/motogp/gp-jerez.html?intcmp=MENUPROD&s_kw=moto-gp-espana,h]::1;[https://www.marca.com/motor/motogp/gp-australia.html?intcmp=MENUPROD&s_kw=moto-gp-australia,h]::1;[https://www.marca.com/motor/marc-marquez.html,h]::1;
+<veamos|[https://www.marca.com/blogs/tirandoadar,p]::1;
+<veas|[https://blog.nemours.org,h]::1;[https://www.nike.com/ar,p]::1;[https://www.nike.com/mx,p]::1;[https://www.nike.com/uy,p]::1;[https://www.nike.com/xl,p]::1;[https://www.nike.com/us/es,p]::1;[https://www.nike.com/pr,p]::1;
+<veasna|[https://asianpacificheritage.gov,p]::1;

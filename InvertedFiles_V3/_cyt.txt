@@ -1,2 +1,6 @@
-<cytomegalovirus|[https://www.dailymail.co.uk/health/index.html,p]::1;
-<cytosine|[https://www.iflscience.com/chemistry,p]::1;
+<cytokinesmolecules|[https://nautil.us/triggering-the-bodys-defenses-to-fight-cancer-3-13118,p]::1;
+<cytokines|[https://nautil.us/triggering-the-bodys-defenses-to-fight-cancer-3-13118,p]::1;
+<cytosine|[https://medlineplus.gov/genetics/understanding/basics/dna,p]::1;[https://www.nationalgeographic.com/magazine/article/race-genetics-science-africa,p]::1;[https://www.iflscience.com/chemistry,p]::1;
+<cytarabine|[https://nautil.us/what-lurks-in-a-drowned-forest-in-alabama-16508,p]::1;
+<cython|[https://www.zagrosrobotics.com/shop/custom.aspx?recid=99,p]::1;
+<cytotoxic|[https://onlinelearning.hms.harvard.edu/hmx/institutions,p]::1;

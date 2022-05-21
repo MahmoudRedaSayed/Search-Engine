@@ -1,3 +1,2 @@
 <srpski|[https://simple.wikipedia.org,p]::1;
 <srpskohrvatski|[https://simple.wikipedia.org,p]::1;
-<srpskohrvatskiuredi|[https://sh.wiktionary.org/wiki/interfejs,h]::1;

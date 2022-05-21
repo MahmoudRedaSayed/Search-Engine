@@ -1,1 +1,8 @@
 <atchoo|[https://bbc.github.io/subtitle-guidelines,p]::1;
+<atchafalaya|[https://www.nationalgeographic.com/travel/article/these-six-parks-tell-the-surprising-stories-of-the-american-south,h]::1;[https://www.nationalgeographic.com/travel/article/these-six-parks-tell-the-surprising-stories-of-the-american-south,p]::6;
+<atcold|[https://nautil.us/the-doctor-will-sniff-you-now-2-11852,p]::1;
+<atcasinonow|[https://casino-now.co.uk/casino-reviews,p]::1;
+<atcongressgov|[https://newsroom.loc.gov/news/artists-celebrate-lionel-richie-receiving-library-s-gershwin-prize/s/7135edca-40eb-4434-b0ea-7679390c00c9,p]::1;[https://newsroom.loc.gov/news/national-recording-registry-inducts-music-from-alicia-keys--ricky-martin--journey-and-more-in-2022/s/fee30140-0454-401c-a2a2-205298e32fb1,p]::1;
+<atcopyrightgov|[https://newsroom.loc.gov/news/artists-celebrate-lionel-richie-receiving-library-s-gershwin-prize/s/7135edca-40eb-4434-b0ea-7679390c00c9,p]::1;[https://newsroom.loc.gov/news/national-recording-registry-inducts-music-from-alicia-keys--ricky-martin--journey-and-more-in-2022/s/fee30140-0454-401c-a2a2-205298e32fb1,p]::1;
+<atch|[https://www.kizphonics.com/phonics-stories,s]::2;[https://www.kizphonics.com/phonics-stories,p]::2;[https://www.kizphonics.com/song-videos-for-teaching-phonics-phonemes,p]::1;[https://www.kizphonics.com/materials/stories,p]::1;
+<atcwuon|[https://www.dailywritingtips.com/100-words-for-facial-expressions,s]::1;

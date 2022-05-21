@@ -1,1 +1,1 @@
-<gcah|[http://www.archive-it.org,p]::1;
+<gcal|[http://www.springshare.com,p]::1;[https://springshare.com/privacy.html,p]::1;

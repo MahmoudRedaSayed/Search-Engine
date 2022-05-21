@@ -1,2 +1,5 @@
 <eitherreportthe|[https://help.twitter.com/using-twitter/direct-messages,p]::1;
+<eitb|[https://www.marca.com/ciclismo/giro-italia/2022/05/17/62837febca47416a6a8b4611.html,p]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/14/627f9af146163f86248b45e8.html,p]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/12/627d394de2704e93b48b460c.html,p]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/11/627b4bf3ca4741563e8b457b.html,p]::1;[https://www.marca.com/ciclismo/giro-italia/2022/05/08/6278071ce2704e39518b459a.html,p]::1;
+<eitheror|[https://www.dailywritingtips.com/english-grammar-101-all-you-need-to-know,p]::1;[https://www.dailywritingtips.com/cannot-or-can-not,p]::2;[https://www.englishgrammar.org/subject-verb-agreement-18,p]::2;[https://www.englishgrammar.org/connecting-words-exercise-5,p]::1;
+<eitkmegww|[https://www.ebay.com/globaldeals/tech/vehicle-electronics-gps,h]::1;
 <eitherand|[https://www.everydayhealth.com/sleep-disorders/sleep/sleep-101-ultimate-guide-on-how-get-better-nights-sleep,s]::1;[https://www.everydayhealth.com/sleep-disorders/sleep/sleep-101-ultimate-guide-on-how-get-better-nights-sleep,p]::1;

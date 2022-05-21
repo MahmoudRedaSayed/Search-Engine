@@ -1,1 +1,2 @@
-<dms|[https://help.twitter.com/using-twitter/direct-messages,p]::3;
+<dms|[https://help.twitter.com/en/forms.html,p]::2;[https://help.twitter.com/using-twitter/direct-messages,p]::3;[https://developer.twitter.com/en/developer-terms/policy.html,p]::3;[https://dev.twitter.com/overview/terms/agreement-and-policy,p]::3;[https://cloud.google.com/sql,p]::2;[https://nlmdirector.nlm.nih.gov,p]::3;[https://www.nationalgeographic.com/history/article/questlove-on-the-summer-of-soul-an-awesome-look-at-beautiful-people-having-fun,p]::1;
+<dmsthompson|[https://congress.gov,p]::1;

@@ -1,2 +1,8 @@
-<rupi|[https://www.marca.com/futbol/laliga-santander/cadiz-r-madrid-directo/2022/05/15/01_0101_20220515_1737_186.html,p]::1;
-<rupy|[https://www.bbc.co.uk/food,h]::1;
+<rupture|[https://www.healthline.com/health/healthy-sex/second-queer-adolescence,p]::1;[https://www.sensesofcinema.com/2022/festival-reports/come-together-the-59th-viennale,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-5,p]::1;[https://medlineplus.gov/cholesterol.html,p]::1;
+<rupee|[https://myindigolives.wordpress.com,p]::4;
+<rupert|[https://www.sensesofcinema.com/2001/festival-reports/stkff_jake,p]::1;
+<rupérez|[https://www.marca.com/baloncesto/mundial-femenino.html?intcmp=MENUPROD&s_kw=baloncesto-mundial-femenino,h]::1;
+<ruptura|[https://www.marca.com/futbol/liga-francesa/2019/06/11/5cff5405e2704e3ca28b45de.html,p]::1;
+<rupees|[https://www.nytimes.com/2022/05/17/business/inflation-developing-economies.html,p]::1;[https://www.tutorialspoint.com/market/teach_with_us.jsp,p]::4;
+<ruptures|[https://www.nytimes.com/2022/05/09/us/arkansas-pastor-evangelical-churches.html,p]::1;
+<ruptured|[https://www.chicagotribune.com/sports/#nt=taxonomy-article,h]::1;[https://www.dailymail.co.uk/ushome/index.html,h]::1;

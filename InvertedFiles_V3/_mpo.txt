@@ -1,0 +1,2 @@
+<mpolifi|[https://archive.org/details/software,p]::1;
+<mpoggformat|[https://blog.archive.org,p]::1;[https://blog.archive.org/2022/05/07/new-additions-to-the-internet-archive-for-april-2022,p]::1;[https://blog.archive.org/category/audio-archive/78rpm,p]::3;[https://blog.archive.org/category/audio-archive,p]::3;[https://blog.archive.org/category/cool-items,p]::3;[https://blog.archive.org/category/books-archive,p]::2;[https://blog.archive.org/category/live-music-archive-2,p]::3;[https://blog.archive.org/category/books-archive/lending-books,p]::3;

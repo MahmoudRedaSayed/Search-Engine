@@ -1,0 +1,2 @@
+<nbe|[https://english.ahram.org.eg/,h]::1;[https://english.ahram.org.eg/,p]::1;
+<nbeg|[https://www2.gnb.ca/content/gnb/fr/ministeres/finances/societe_des_lotteries_et_des_jeux/jeu_responsible.html,p]::1;

@@ -1,1 +1,2 @@
+<cschip|[https://circuitdigest.com/microcontroller-projects/arduino-spi-communication-tutorial,p]::1;
 <csc|[https://www.everydayhealth.com/cancer/guide,s]::1;[https://www.everydayhealth.com/cancer/guide,p]::2;

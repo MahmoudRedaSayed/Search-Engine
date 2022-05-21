@@ -1,1 +1,4 @@
+<xantalen|[https://www.diariomedico.com/farmacia.html,p]::1;[https://www.diariomedico.com,p]::2;
+<xanh|[http://www.sensesofcinema.com/2022/world-poll/world-poll-2021-part-2,p]::1;
+<xanderon|[https://www.dailywritingtips.com/50-incorrect-pronunciations-that-you-should-avoid,s]::1;
 <xanax|[https://www.dailymail.co.uk/health/index.html,h]::1;

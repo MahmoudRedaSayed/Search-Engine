@@ -1,0 +1,3 @@
+<pwy|[https://meded.hms.harvard.edu/academic-calendars,p]::6;
+<pwymondays|[https://meded.hms.harvard.edu/academic-calendars,p]::1;
+<pwytimes|[https://meded.hms.harvard.edu/academic-calendars,p]::1;

@@ -1,0 +1,5 @@
+<ofwebinars|[https://ce.mayo.edu,p]::1;
+<ofwel|[https://casino-now.be,p]::2;
+<ofweather|[https://www.englishclub.com/esl-quizzes/listening,p]::1;
+<ofw|[https://www.emirates.com/uk/english,p]::3;[https://www.emirates.com/english,p]::3;
+<ofws|[https://www.emirates.com/uk/english,p]::2;[https://www.emirates.com/english,p]::2;

@@ -1,1 +1,12 @@
-<onair|[https://bbc.github.io/subtitle-guidelines,p]::6;
+<onair|[https://www.hearst.com/broadcasting,p]::2;[https://bbc.github.io/subtitle-guidelines,p]::6;[https://www.bbc.com/editorialguidelines/guidelines/accuracy/guidelines,p]::2;[https://cloud.google.com/solutions/lending-doc-ai,p]::1;[https://cloud.google.com/solutions/procurement-doc-ai,p]::1;[https://cloud.google.com/solutions/operational-efficiency,p]::1;[https://cloud.google.com/covid19,p]::1;[https://cloud.google.com/windows,p]::4;[https://cloud.google.com/solutions/smb,p]::1;[https://cloud.google.com/speech-to-text,p]::1;[https://cloud.google.com/data-catalog,p]::1;[https://cloud.google.com/memorystore,p]::1;[https://newsroom.loc.gov/news/national-recording-registry-inducts-music-from-alicia-keys--ricky-martin--journey-and-more-in-2022/s/fee30140-0454-401c-a2a2-205298e32fb1,p]::1;[https://www.foxnews.com/food-drink,p]::1;
+<ona|[https://www.marca.com/natacion.html?intcmp=MENUPROD&s_kw=natacion,h]::1;
+<onana|[https://www.marca.com/futbol/copa-africa.html?intcmp=MENUPROD&s_kw=copa-africa,h]::1;
+<onandoff|[https://www.sensesofcinema.com/2018/book-reviews/mind-movie-critic-two-cheers-hollywood-joseph-mcbride,p]::1;
+<onanalyse|[https://fr.casino-now-canada.com,p]::1;
+<onafhankelijk|[https://onlinecasino-now.nl,p]::2;[https://casino-now.be,p]::2;[https://onlinecasino-now.nl/casino-reviews,p]::1;[https://onlinecasino-now.nl/casino-reviews/playamo,p]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::1;[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::1;[https://onlinecasino-now.nl/casino-software,p]::1;
+<onafhankelijke|[https://casino-now.be,s]::1;[https://casino-now.be,p]::1;[https://onlinecasino-now.nl/casino-reviews,t]::1;[https://onlinecasino-now.nl/casino-reviews,h]::2;[https://onlinecasino-now.nl/casino-reviews,p]::3;[https://onlinecasino-now.nl/casino-reviews/playamo,p]::1;[https://onlinecasino-now.nl/casino-reviews/cookie,p]::1;[https://onlinecasino-now.nl/live-casino/casino-holdem,p]::1;[https://onlinecasino-now.nl/casino-software,p]::1;
+<onand|[https://nautil.us/alliance,p]::1;[https://nautil.us/topics/technology,p]::1;
+<onaffhankelijke|[https://onlinecasino-now.nl/casino-software,p]::1;
+<onassis|[https://www.chicagotribune.com/news/obituaries/#nt=tertiarynavbar,h]::1;
+<onagain|[https://www.dailymail.co.uk/ushome/index.html,s]::2;[https://www.dailymail.co.uk/tvshowbiz/index.html,s]::2;[https://www.dailymail.co.uk/auhome/index.html,s]::2;[https://www.dailymail.co.uk/femail/index.html,p]::1;
+<onas|[https://www.dailymail.co.uk/ushome/index.html,p]::1;

@@ -1,0 +1,1 @@
+<ccgn|[https://creativecommons.org/policies,h]::1;[https://creativecommons.org/policies,s]::1;[https://creativecommons.org/privacy,s]::1;[https://creativecommons.org/policies,p]::1;[https://creativecommons.org/privacy,p]::7;[https://creativecommons.org/terms,h]::2;[https://creativecommons.org/terms,s]::1;[https://creativecommons.org/terms,p]::10;

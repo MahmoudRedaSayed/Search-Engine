@@ -1,1 +1,1 @@
-<hpc|[https://atos.net,h]::1;
+<hpc|[https://cloud.google.com/solutions/hpc,t]::1;[https://cloud.google.com/solutions/hpc,h]::4;[https://cloud.google.com/solutions/hpc,p]::13;[https://cloud.google.com/covid19-healthcare,p]::2;[https://cloud.google.com/compute,p]::2;[https://cloud.google.com/products/ai,p]::2;[https://cloud.google.com/gpu,p]::2;

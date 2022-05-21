@@ -1,1 +1,1 @@
-<uturn|[https://www.dailymail.co.uk/sport/index.html,h]::2;
+<uturn|[https://www.dailymail.co.uk/money/index.html,h]::1;

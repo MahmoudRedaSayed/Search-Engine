@@ -1,0 +1,4 @@
+<fsfe|[https://publiccode.eu,p]::2;
+<fsforg|[https://opensource.org/licenses/GPL-3.0,p]::1;
+<fsf|[https://www.gnu.org/licenses/license-list.html#CC0,s]::1;[https://www.gnu.org/licenses/license-list.html#CC0,p]::6;
+<fsfs|[https://www.gnu.org/licenses/license-list.html#CC0,p]::1;

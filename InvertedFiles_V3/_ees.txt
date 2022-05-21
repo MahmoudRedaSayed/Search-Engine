@@ -1,2 +1,2 @@
 <eesti|[https://simple.wikipedia.org,p]::1;
-<ees|[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;[https://www.dailymail.co.uk/video/index.html,p]::1;
+<ees|[https://www.dailymail.co.uk/sciencetech/index.html,h]::1;

@@ -1,1 +1,3 @@
+<cme|[https://cloud.google.com/solutions/financial-services,p]::2;[https://cloud.google.com/pubsub,p]::1;[https://healthyliving.mayoclinic.org/?mc_id=global&utm_source=mayoclinicorgmainnav&utm_medium=l&utm_content=healthylivingprogram&utm_campaign=hlp&geo=national&placementsite=enterprise&cauid=100469,p]::1;[https://ce.mayo.edu,p]::5;[http://medprofvideos.mayoclinic.org,p]::1;
+<cmek|[https://cloud.google.com/apigee,p]::1;[https://cloud.google.com/build,p]::1;[https://cloud.google.com/dataproc,p]::1;[https://cloud.google.com/bigtable,p]::1;
 <cmeindex|[https://money.cnn.com/data/markets/sandp,h]::1;

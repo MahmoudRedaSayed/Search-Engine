@@ -1,1 +1,4 @@
+<adc|[https://circuitdigest.com/microcontroller-projects/arduino-spi-communication-tutorial,p]::1;
+<adchoices|[https://www.demandbase.com/privacy-policy,p]::3;[https://edaa.eu,h]::1;[https://edaa.eu,p]::1;[https://edaa.eu/who-we-are/edaa,h]::1;[https://edaa.eu/who-we-are/edaa,p]::2;[https://edaa.eu/what-we-do/for-companies,h]::1;[https://edaa.eu/what-we-do/for-consumers,h]::1;[https://edaa.eu/what-we-do/for-companies,s]::1;[https://edaa.eu/what-we-do/for-companies,p]::5;[https://edaa.eu/what-we-do/european-principles,p]::1;[https://edaa.eu/what-we-do/for-consumers,p]::1;[https://edaa.eu/what-we-do/our-mission,p]::1;
+<adchoice|[https://pages.ebay.com/help/account/cookies-web-beacons.html,p]::10;[https://pages.ebay.com/help/policies/privacy-policy.html,p]::1;[https://www.ebay.com/adchoice,h]::2;[https://www.ebay.com/adchoice,p]::3;
 <adces|[https://www.everydayhealth.com/type-2-diabetes/guide,s]::1;[https://www.everydayhealth.com/type-2-diabetes/guide,p]::2;
