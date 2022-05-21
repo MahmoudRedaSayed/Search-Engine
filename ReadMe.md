@@ -4,10 +4,10 @@ SearchK3M is a search engine similar to Google, Yahoo, and Bing. The repo contai
 
 ## 📷 Screenshots
 <div align="center">
-  <img src="https://github.com/El-Nebo/SearchAbbas/blob/main/ScreenShots/43998a25-9de7-4c5f-9fb6-2b8221c48eee.jpeg">
-  <img src="https://github.com/El-Nebo/SearchAbbas/blob/main/ScreenShots/0c335a87-05b5-4f68-bab9-48c0aca2d3bc.jpeg">
-  <img src="https://github.com/El-Nebo/SearchAbbas/blob/main/ScreenShots/cd633814-b807-485c-aa1b-bc681b154433.jpeg">
-<img src="https://github.com/El-Nebo/SearchAbbas/blob/main/ScreenShots/cd633814-b807-485c-aa1b-bc681b154433.jpeg">
+  <img src="https://github.com/MahmoudRedaSayed/Sreach-Engine/blob/main/Pics/Searchpage.PNG">
+  <img src="https://github.com/MahmoudRedaSayed/Sreach-Engine/blob/main/Pics/suggest.PNG">
+  <img src="https://github.com/MahmoudRedaSayed/Sreach-Engine/blob/main/Pics/Results.PNG">
+   <img src="https://github.com/MahmoudRedaSayed/Sreach-Engine/blob/main/Pics/Errorpage.PNG">
 
 </div>
 
@@ -16,7 +16,7 @@ SearchK3M is a search engine similar to Google, Yahoo, and Bing. The repo contai
 - react
 - Json server
 - Mysql
--servlet
+- servlet
 
 ### ✨ Contributors
 <table>
